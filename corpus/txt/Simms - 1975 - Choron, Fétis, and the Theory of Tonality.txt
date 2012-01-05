@@ -1,0 +1,2593 @@
+Yale University Department of Music
+
+Choron, Fetis, and the Theory of Tonality
+Author(s): Bryan Simms
+Source: Journal of Music Theory, Vol. 19, No. 1 (Spring, 1975), pp. 112-138
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843752
+Accessed: 15/12/2009 10:25
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+112
+
+CHORON,
+
+FETIS,
+AND
+
+Fetis was possibly
+the most influential
+music
+Francois-Joseph
+of the first half of the nineteenth century and certainly
+theorist
+one of the most important
+musical
+savants of all times.
+His
+work touched nearly every aspect of musical study and practicepedacomposition,
+performance,
+theory,
+history,
+conducting,
+and criticism.
+Yet his influence
+is all the more regogy,
+of
+markable
+so much through matters
+because
+it was exerted
+He was indeed a composer,
+but not a particularly
+scholarship.
+in the
+critical
+one.
+And his voluminous
+writings
+important
+and
+REVUE MUSICALE,
+REVUE ET GAZETTE
+MUSICALE,
+audience than the more
+to a smaller
+elsewhere
+were addressed
+He was
+criticism
+of, say, Castil-Blaze.
+widely-circulated
+in music,
+and his
+to innovative
+techniques
+opposed
+generally
+
+113
+
+THE
+
+THEORY
+
+OF
+
+TONALITY
+
+BRYAN
+
+SIMMS
+
+tone and rigid sense of
+are laced with a pedantic
+writings
+in the critiacademic propriety,
+without the literary pretensions
+aware cism of Stendahl or Jules Janin and without the musical
+of Berlioz,
+ness thatwe find in the writings
+Liszt, or Schumann.
+he did much to introduce
+But as a music historian
+significant
+extensive
+to French letters,
+research
+including
+musicological
+archival and manuscript
+inethnomusicology.
+study and research
+he carried on the type of scholarly
+methods
+In these respects
+such as FrancoisPerne
+initiated by predecessors
+and writings
+in monuHis work resulted
+and Guillaume -Andre Villoteau.
+and biographical
+ments of historical
+writings that are stilluseful today.
+
+114
+His treatises on harmony and counterpoint were a staple for
+French music students until the end of the century and influential on the course of later harmonic theory in the works of
+Hugo Riemann, Ernst Kurth, Paul Hindemith, and a number of
+The influence of his idea of an omniother French theorists.
+tonic order in music on Franz Liszt is a matter of record.
+On the other hand, he could have the audacity to print corrections
+as if
+of "errors" from the works of Mozart and Beethoven,
+his
+In retrospect,
+exercises.
+they were conservatory-student
+as a critic did little to help
+and shortsightedness
+conservatism
+And
+the best of the younger generation of French composers.
+as I shall
+in his writings,
+his constant self-aggrandizement
+hope to show, obscures the fact that his contributions to both
+history and theory were part of a long and well-established
+tradition.
+Fetis, in his own words, was a "harmonist by instinct. " Born
+in 1784 near Mons, Belgium, he was raised in a musical enHis studies
+vironment and educated at the Paris Conservatory.
+and it
+in harmony and composition there were distinguished,
+was then that he developed a lifelong interest in the history of
+music theory. His first important writing was a treatise on
+harmony completed by 1816, but not published, as he tells us,
+because he feared that the doctrine which it set forth there
+would have offended the influential Charles Catel, then the most
+important theorist of harmony in France.
+In 1821 he was appointed Professor of Composition at the Paris
+and also about this time he taught harmony at
+Conservatory,
+the Ecole royale et speciale de chant-a state -supported school
+for singing and general studies run by his friend of some years,
+Alexandre Choron. *1 His first two publications appeared about
+1824: the MEITHODE ?LENMENTAIRE ET ABRtiG]E D'HARMONIE ET D'ACCOMPAGNEMENT and the TRAITt DU CONTRE-POINT ET DE LA FUGUE. ''2 Both present doctrines
+methods in thorough
+based on traditional Italian pedagogical
+bass and counterpoint of the eighteenth century, a type of doctrine very much supported by Luigi Cherubini, who was then
+and which was first brought into
+director of the Conservatory,
+French letters by Alexandre Choron.
+nineteenth-century
+In the early 1830s, Fetis's writings on harmony and the history
+of harmony underwent a substantial change, for it was at this
+time that he claimed to have discovered a principle of music
+that he called "tonalite", which he considered the source of all
+harmonic rules and which indirectly delineated the major eras
+
+115
+He relates that his theory came to
+of Western music history.
+himwhile walking alone in the Bois de Boulogne in 1831. "Suddenly the truth appeared to my mind; questions were clearly
+stated, the darkness vanished; false doctrines fell one by one
+about me. " And Fetis sat beneath a tree for hours pondering
+the importance of his discovery. *3
+In the spring of 1832 he gave a series of eight lectures in Paris
+which were summarized in various
+describing his theories,
+issues of the REVUE MUSICALE for that year. He subsequently
+developed the theory of tonality in his "Preface et resume
+de la musique" (1835), the "Esquisse
+philosophique del'histoire
+de l'histoire de l'harmonie" (1840), the TRAITE COMPLET DE
+LA THIORIE ET DE LA PRATIQUE DE L'HARMONIE (1844),
+the preface to the third edition of this TRAIT1I (1849), various
+articles in the REVUE MUSICALE and REVUE ET GAZETTE
+MUSICALE, and in a number of less important writings. '4
+In this paper I should like to give a precis of this theory and
+with emphasis on the extent to which
+some of its implications,
+There is no adeFetis's ideas derive from earlier theorists.
+quate published critique of his theoretical writings, unfortunate
+their prominence in his time and afterwards. *5
+considering
+Matthew Shirlaw's section on Fetis in THE THEORY OF HARMONY is rather sketchy, biased, and often erroneous, although
+Shirlaw does point out some of the contradictions
+that mark
+Fetis's work. *6
+Fetis went to great pains to convince his readers
+that his
+theories were original, and frequently one feels that his writings
+on the history of music theory were intended primarily to show
+the shortcomings of his predecessors,
+rather than to enlighten
+He saw the best theorists of harmony as
+the subject itself.
+those who groped their way toward his own theory--Rameau,
+and
+Georg Sorge, C.G. SchrOter, Johann Philipp Kirnberger,
+Charles Catel. It is clear, I think, that he also derived many
+details, terms, and concepts from Choron.
+Alexandre-l,tienne
+Choron (1771-1834) was an important and
+respected figure in French musical life in the early nineteenth
+century and a man whose works do not deserve their present
+obscurity. *7 His career is remarkably similar to that of his
+friend Fetis. Both were composers of some repute, pedagogues
+who enriched the repertory of instructionalmaterials
+and methChoron was
+ods, and men with enormous scholarly ambitions.
+a brilliant intellect, probably more so than Fetis, but without
+Fetis's background as a musician.
+Choron was educated at the
+
+116
+College de Juilly, the Oratorians' school near Paris that had
+He had
+produced some of the finest minds in French history.
+command of seven languages and an astounding knowledge of
+He was an equally outstandclassical and Hebraic literature.
+and he turned to
+ing student of mathematics and engineering,
+music with an inexhaustible curiosity about the subject in all
+of its dimensions.
+According to Fetis, he soon acquired "more
+knowledge relative to the theory and practice of music than any
+French musician had ever possessed to that time. "
+His goal as a theorist was to enrich French letters with monumental, eclectic treatises, which would collect and reconcile
+the best writings in other languages and from other historical
+To this
+eras, and to create new doctrines where necessary.
+end he published the earliest French translations of works by
+Friedrich Wilhelm Marpurg,
+Johann Georg Albrechtsberger,
+Nicolo Sala, Carlo Gervasoni, Heinrich Koch, and others; he
+and he wrote important
+reedited earlier French treatises;
+These
+original documents on harmony and related matters.
+were compiled into massive, encyclopedic works intended to
+cover the entire theoretical gamut of music. The most notable
+of these was the PRINCIPES DE COMPOSITION DES I COLES
+D'ITALIE (1808), which included an original treatise on harmony, a new edition of Marpurg's TRAITt DE LA FUGUE ET
+DU CONTREPOINT (1756), examples of fugues in Italian style
+from Nicolo Sala's REGOLE DEL CONTRAPPUNTO PRATICO
+(1794), and examples of early vocal polyphony from Giambattista Martini's ESEMPLARE O SIA SAGGIO FONDAMENTALE PRATICO DI CONTRAPPUNTO (1774-75).
+Choron's career began primarily as a theorist and composer;
+of important musical institulater, he was an administrator
+tions in Paris, and, finally, a teacher who would devote all of
+his time and money to his school and toward his goal of imHe was reproving the lives of his fellowmen through music.
+membered by Fetis, Rossini,
+Liszt, and his many
+Berlioz,
+students (including Adrien de La Fage, Paul Scudo, and Gilbert
+Duprez) as a man of total dedication to music.
+Beginning in 1817, he ran a music school in the Latin Quarter
+of Paris, which had various names and official purposes until
+its demise in 1834. With the chorus from his school, Choron
+in
+the first important series of public concerts
+presented
+These conFrance which regularly scheduled early music.
+certs, together with his editions of early music, mark the beginning of substantial historical awareness of music in France,
+the beginning of a general knowledge there of the music of
+
+117
+of
+to the series
+and they lead directly
+Handel and Palestrina,
+in 1832. '8
+directed
+concerts
+historical
+by Fetis
+beginning
+to Fetis and to others
+that early music
+Choron demonstrated
+could be performed
+with popular acclaim and financial success,
+to
+inferior
+and that it was not a gothic curiosity
+necessarily
+art of modern times.
+the more "progressive"
+in France
+voices
+Choron and Fetis
+were among the earliest
+of Gregorian
+of authentic
+versions
+for a restoration
+calling
+chant in French churches,
+they both sought to publish editions
+of early music,
+and they both were thoroughly
+knowledgeable
+of earlier
+Choron
+music
+of the available
+documents
+theory.
+wrote the first biowith Francois
+(in collaboration
+Fayolle)
+which
+of musicians
+in the French language,
+graphical dictionary
+of music (the
+was preceded
+history
+general
+by a substantial
+de la musique"
+de l'histoire
+"Sommaire
+[1810]). *9 This form
+and a good deal of the content were models for Fetis when he
+DES MUSICIENS.
+UNIVERSELLE
+his BIOGRAPHIE
+compiled
+between the historical
+There are also certain similarities
+period
+of historical
+conof the two, as well as similarities
+schemes
+of early music,
+which I
+harmonic
+practice
+involving
+cepts
+further.
+should like to investigate
+menare the previously
+theoretic
+Choron's
+writings
+principal
+D'ACthe PRINCIPES
+DE COMPOSITION,
+tioned PRINCIPES
+DES t COLES D'ITALIE (1804), the MANUEL
+COMPAGNEMENT
+COMPLET DE MUSIQUE VOCALE ET INSTRUMENTALE
+(comand his annotated theory
+1836-39),
+LaFage,
+pleted byAdriende
+that I shall make here relate priThe remarks
+translations.
+and to the "SomDE COMPOSITION
+marily to the PRINCIPES
+de la musique."
+maire de l'histoire
+to keep in
+of Fetis,
+it is important
+In dealing with the writings
+his own contribumind that he was never one to underestimate
+even to the point
+of musical
+tions to the history
+scholarship,
+of stretching
+the truth.
+His habit of making up dates or facts
+DES
+UNIVERSELLE
+in the BIOGRAPHIE
+to fill out articles
+subwhen no such facts were known, has created
+MUSICIENS,
+research
+even to this day.
+confusion
+in musicological
+stantial
+of unof the history
+of harmony are documents
+His critiques
+even though they still serve as useful surwarranted
+egotism,
+of the
+He saw himself
+as the discoverer
+veys of the subject.
+of harmony,
+truths behind the principles
+and absolute
+ultimate
+who said the last word on the subject.
+as the man, indeed,
+and saw his ideas,
+theorists
+He gave little support
+to earlier
+as entirely
+in essence,
+original.
+
+1
+of music
+that is enThere is in fact very little in the history
+but one who
+was a perceptive
+Fetis
+theorist,
+tirely original.
+was very much a part of the tradition established
+by Rameau
+In matand continued by Sorge, Kirnberger,
+TUrk, and Catel.
+a great deal from Choron, with never
+ters of detail he borrowed
+of
+In fact, the really original
+a word about his source.
+aspects
+those that are of the least significance
+his theory are generally
+The best parts are
+and those that can be most easily refuted.
+and
+in the ideas of Kirnberger
+that he makes
+the refinements
+Catel.
+of his
+most aspects
+In spite of his claim that he had developed
+in his published
+that is original
+theory by 1816, there is little
+The TRAIT]~ DU CONTRE-POINT
+prior to the 1830s.
+writings
+of tonal counterpoint,
+which is
+a traditional
+doctrine
+presents
+since the work was commissioned
+understandable
+by Cherubini
+of Anton
+doctrine
+to the "heretical"
+an alternative
+to offer
+Reicha's TRAITIE DE HAUTE COMPOSITION MUSICALE (182426).
+available
+on counterpoint
+Prior to 1824 there were few treatises
+that this
+Fetis complained
+to students in the French language.
+in French pedagogy on the
+lack was partly due to the emphasis
+rather than the
+for composition
+as a basis
+study of harmony
+The Choron verand traditional
+more desirable
+counterpoint.
+DE LA FUGUE was probably the
+TRAITi
+sion of Marpurg's
+available
+best known and most readily
+study of counterpoint
+at that time.
+and fugue in France
+in his TRAITE is a more
+claims
+that Fetis
+innovation
+would
+where invertible
+order of subjects,
+counterpoint
+logical
+order was customary
+The reverse
+before fugue.
+be discussed
+treatises.
+in German eighteenth-century
+
+One
+
+the faulty logic and order inideas which
+One can appreciate
+and Albrechtsberger
+led Berardi,
+Tevo, Fux, Marpurg,
+even
+to deal with double counterpoint
+only after fugue,
+I have
+cannot exist without the former.
+the latter
+though
+in my
+studies
+of these
+order
+the reasonable
+restored
+ET DE LA FUGUE; several
+TRAIT1] DU CONTRE-POINT
+since then on the same subject have folworks published
+lowed this order. '^10
+this more logical
+the one who restored
+Fetis-was
+Choron-not
+many times and
+It was an idea upon which he insisted
+order.
+TRAITE for
+the Marpurg
+when he reedited
+which he observed
+Choron later
+DE COMPOSITION.
+in his PRINCIPES
+inclusion
+
+119
+treatises
+used this new order in his editions of counterpoint
+and a later edition
+Francesco
+Azopardi,
+Albrechtsberger,
+TRAITP,.
+Marpurg's
+
+by
+of
+
+other important early work, the M]iTHODE ?fLtMENFetis's
+TAIRE ET ABR1tGfE D'HARMONIE ET D'ACCOMPAGNEMENT
+treatise based on eighteenthan accompaniment
+was essentially
+and it is similar
+in
+methods,
+century Italian thorough-bass
+D'ACCOMPAGNEMENT
+DES
+doctrine
+to Choron's PRINCIPES
+in collaboration
+with Vincenzo
+?tCOLES
+D'ITALIE
+(1804,
+and he reThis was a work which Fetis
+Fiocchi).
+admired,
+of figured-bass
+and examples
+prints
+many of the exercises
+*11
+from it in his MITHODE.
+realizations
+but there
+Fetis uses the term tonality in these early treatises,
+unusual about the meaning that he attaches
+is nothing especially
+to it. The word "tonalite" was not, as has often been written,
+at least as
+invented by Fetis.
+It is found in French literature
+such as that of
+early as 1810, and appears in French lexicons,
+DE MUSIQUE MODERNE,
+Castil-Blaze
+1821)
+(DICTIONNAIRE
+"tonalsuch as "tonalitat,"
+as cognates
+and in other languages
+The term
+later in the century.
+ita," and "tonality" somewhat
+to
+when first used, referring
+had a clear and handy meaning
+of some era, that is, whether
+of music
+basis
+the scale-type
+the music was based on the church modes or major and minor
+for example,
+in
+was written
+Renaissance
+counterpoint,
+keys.
+"tonalite ancienne,"
+or, as we would say, in the modes; later
+in "tonalite moderne, " or major and minor
+music was written
+encountered
+with these qualifiers
+The term is usually
+keys.
+"ancienne" and "moderne."
+Choron used
+de l'histoire
+
+the word "tonalite" in this
+de la musique" of 1810:
+
+way in his
+
+"Sommaire
+
+I shall limit myself to say that it was in the course of the
+made itself
+sixteenth
+tonality
+century that this modern
+on comits influence
+more strongly felt, that it exerted
+and that it is in the Neapolitan School--particuposition,
+in all its reit was established
+larly that of Durante-that
+*12
+at least in those concerning
+practice.
+lationships,
+in this way prior to the 1830s,
+Fetis used the term exclusively
+idea that toto the established
+and later with clear reference
+that was
+music
+Non-Western
+nalities
+were types of scales.
+based on scales other than the modes or major and minor keys
+could logically
+be said to involve other "types de tonalites."
+
+120
+more specialized
+His later,
+meaning of the term was similar.
+of harmony and melody originated,
+If the main principle
+as he
+its tonality-it
+was
+thought, in the type of scale involved-in
+not illogical
+to name this principle
+itself tonality.
+There was
+more to tonality,
+Fetis was saying,
+than just notes of a scale;
+there were "mysterious"
+between
+the scale derelationships
+the scale in the first place,
+to generate
+grees which served
+and then act through the scale as the ultimate
+source of chord
+and succession.
+classification,
+structure,
+a number of ideas
+also mentioned
+Fetis
+In his early writings
+There
+into the theory of tonality.
+that he would later incorporate
+of classifying
+intervals
+is his system
+(and chords) as consonant
+scale degrees,
+the idea that certain
+and dissonant;
+intervals,
+of repose while others
+and chords are imbued with the sensation
+of certain chords as fundamenlack repose;
+and his definition
+of
+are derived
+tal, from which all other chords
+by processes
+to earlier
+All of these points may be related
+modification.
+of detail and terminology,
+to the ideas
+theory and, in matters
+of Choron.
+is the standard one that interof consonance
+definition
+Fetis's
+and those that
+to the ear are consonant
+vals which are pleasing
+are dissonant.
+But he also says that intervals
+are displeasing
+that is, those which may be
+which are used as consonances,
+are also conin some chords without preparation,
+introduced
+of their euphonic quality.
+sonances regardless
+Thus, he claims
+of a second or their inversions
+(sevenths)
+that only intervals
+The
+dissonant.
+or compounds
+(ninths) are, by these criteria,
+"This
+fifth are consonant:
+fourth and diminished
+augmented
+that I have laid down,
+from
+the principle
+results
+obviously
+that there is dissonance
+only in the clash of two neighboring
+" 13
+pitches.
+and ninths as dissonant
+sevenths,
+only seconds,
+Classifying
+Several
+first postulated
+was by no means a principle
+by Fetis.
+fourths and diminished
+had seen augmented
+theorists
+earlier
+fifths as "weak," "pseudo," or otherwise
+special
+types of conD'HARin hisTRAIT]E
+Charles Catel, for example,
+sonances.
+to be consonant
+these intervals
+considered
+MONIE (1801/02),
+in certain chords
+since they could be used without preparation
+stated that
+'14 Choron, likewise,
+such as a dominant seventh.
+and ninths) are
+sevenths,
+(seconds,
+only "conjunct" intervals
+a triand that to consider
+dissonant
+to be considered
+properly
+nature"
+"harmonic
+is to confuse that interval's
+tone dissonant
+with its essentially
+quality. '15
+euphonious
+
+121
+Choron elaborated this distinction in several published and
+Consonance and dissonance is a matter of
+unpublished works.
+If the interval has
+euphony, which is a quality of all intervals.
+Yet
+a pleasing quality, it is consonant; if not, it is dissonant.
+all intervals have another, independent "harmonic" or "dynamic" quality, which is the relative stability of the interval or its
+tendency to progress to another interval.
+Speculation about the dynamic nature of intervals in the study
+of harmony began inRameau's TRAITSE DE L'HARMONIE, with
+his stipulations for resolution of the "major dissonance" (the
+augmented fourth) and the "minor dissonance" (minor seventh)
+which occur in a dominant seventh chord. The idea was elaborated in Kirnberger's GRUNDSAETZE DES GENERALBASSES
+(Vienna, n.d.), where the fourth and seventh scale degrees are
+discussed as leading tones, especially
+when heard simultaneously in a dominant seventh, thereby giving the interval and
+chord an innate tendency for movement. *16
+Fetis expands upon these notions in the MtTHODE ,LItMENTAIRE and later works. Not only do intervals and chords have
+innate dynamic or stable qualities, he says, but scale degrees
+do as well. The perfect intervals of a fifth and octave have
+Yet
+complete repose, the others some degree of non-repose.
+the major and minor triads still somehow have repose, though
+they are made up of thirds. The reposeful intervals and chords
+6)
+pertain to reposeful scale degrees (1, 4, 5, and sometimes
+in harmonizing a bass.
+Fetis's idea of reposeful or non-reposeful scale degrees in the
+METHODE EL]LMENTAIRE was advanced because he needed
+some way of explaining the "regle d'octave," or standard aswhich had been a
+cending and descending scale harmonizations,
+feature of nearly every harmony and thorough-bass manual to
+that time. The concept of reposeful scale degrees for Fetis at
+this time, in other words, was his means of justifying why a
+triad should harmonize some scale degrees, while
+root-position
+inverted triads or seventh chords should be appropriate elsewhere. He would have done well to have left the idea at that,
+but later makes it an important "law" of tonality, even though
+the idea is often used in a contradictory way, without any real
+usefulness or factual basis to begin with.
+The intervals of an augmented fourth and diminished fifth are of
+particular
+importance to Fetis, because their "mysterious"
+dynamic quality is the basic relationship de termining our modern
+tonality.
+
+122
+It is remarkable
+that these intervals
+characterize
+modern
+of their two constituent
+tendencies
+tonality by the energetic
+the leading
+tone summoning
+after it the tonic and
+notes,
+the fourth degree
+in general
+followed
+Now
+by the third.
+this phenomenon,
+tonal, cannot involve a state
+eminently
+of dissonance.
+In fact, the augmented
+fourth and diminished fifth are used as consonances
+in several
+harmonic
+The augmented
+fourth and diminished
+fifth
+progressions.
+of a special
+are hence consonances,
+but consonances
+kind
+"*17
+that I call by the name "appellative
+consonances.
+. . . DE L'HARMONIE,
+from the TRAIT~
+This statement
+even
+from Choron and
+is taken directly
+to the term "appellative,"
+and Sorge, Fetis sees the triLike Catel, Mattheson,
+Catel.
+He
+tone as consonant
+since it is often used as a consonance.
+beas consonant
+to see the tritone
+was too good a musician
+But the idea
+as did Choron.
+cause it was pleasant
+sounding,
+or "dynamic" quality,
+in the
+that this interval has a "special"
+The
+taken from Choron.
+describes
+it, is definitely
+way Fetis
+wrote Choron, "seem in effect to summon
+notes of the tritone,
+This is
+the notes toward which they tend to resolve.
+[appeler]
+Hence the real
+notes."*18
+are called
+'appellative'
+why they
+which he also apsource and meaning of the term appellative,
+these
+intervals.
+and to chords
+to intervals
+containing
+plied
+of any apstated that the progression
+Choron, furthermore,
+chord (any dissonant
+sixth, domichord-augmented
+pellative
+and so forth) is dictated
+nant seventh,
+by the notes that are
+what Fetis
+"summoned" by the appellative
+intervals-precisely
+dictate
+later meant when he said that the "laws of tonality"
+*19
+harmonic
+progression.
+Fetis also advances the theory
+In the MIrTHODE ELIMENTAIRE
+derive from "perfect chords"
+that all the chords in harmony
+seventh by some
+(major and minor triads) and the dominant
+This
+melodic event.
+a linear,
+manner of modification,
+usually
+and most reasonable
+is one of the clearest
+parts of his entire
+. . . DE
+in the TRAITI
+later
+which he elaborates
+work,
+when we read it in
+reasonable
+It is especially
+L'HARMONIE.
+inearlier
+and classification
+of chord generation
+light of systems
+which are all too frequently distinguished
+by
+theory-systems
+from musical
+and remoteness
+their confusion
+practice.
+ones
+The idea of deriving many chords from a few fundamental
+into the theory of harmony by Rameau and conwas introduced
+later in
+tinued in some form by most of the leading theorists
+the eighteenth
+(Even Fetis does not claim to have incentury.
+chords were the same as
+fundamental
+Rameau's
+vented it.)
+
+123
+the "perfect"
+those of Fetis:
+(major and minor) triads and the
+dissonant
+seventh chords.
+Rameau derived other chords from
+such as adding thirds,
+these through procedures
+"sub-posing"
+or "borrowing"
+the form of
+notes below fundamental
+chords,
+on the other hand, emphasizes
+the dominant
+seventh.
+Fetis,
+in origin:
+chromodifications
+which are melodic
+prolongation,
+and appoggiaturas.
+matic alteration,
+motion,
+pedals,
+passing
+of those of Kirnberger
+His ideas in this way are a refinement
+and Catel.
+like F6tis,
+did not attempt
+to derive fundamental
+Kirnberger,
+or mathematical
+he
+chords from acoustical
+rather,
+reasoning;
+All other chords
+them by reason of their very nature.
+accepted
+one or more of
+action of retarding
+arise
+through the melodic
+or "essential"
+chord in a
+notes of a fundamental
+the proper
+derived
+`20
+succession.
+Catel
+harmonic
+eight fundamental
+these
+chords by string divisions
+partial;
+up to the twenty-third
+All other chords
+eight form what he calls "natural" harmony.
+are said to be "artificial,"
+since
+they arise by prolongation,
+to natural
+and chromatic
+alterations
+relative
+passing motion,
+Fetis makes frequent use of the terms "natural" and
+chords.
+in the way that Catel intended,
+and he also used the
+"artificial"
+term natural (as did Catel) to mean that such a chord needs no
+preparation.
+seventh
+Fetis derives ninth chords and fully- and half-diminished
+" which is a process
+alchords by what he calls "substitution,
+"accords
+In this
+most identical
+to Rameau's
+par emprunt."
+or anone note of the dominant seventh is exchanged
+process,
+chord having a functioncomother note is added, the resulting
+parable to the parent dominant.
+In dealing
+DE
+with chord generation,
+Choron's
+PRINCIPES
+He considers
+COMPOSITION
+is rather muddled.
+hypothetical
+forms of augmented
+sixth chords as fundamen"root-position"
+and ninth chords.
+He also states
+tal, along with diminished
+for a
+that augmented
+sixth chords may function as substitutes
+the musical
+that he lacked
+dominant
+seventh,
+again showing
+of theorists
+like Fetis or Kirnberger.
+understanding
+In his writings
+after 1832, Fetis
+develops
+many of the same
+in his earlier
+but now extreatises,
+points that he advanced
+of the special
+them as consequences
+plains
+theory of tonality.
+As Matthew
+Shirlaw has pointed
+in
+out, there is no difficulty
+and contradictions
+in this theory or in his
+finding ambiguities
+on the origins
+of scales
+and their influence
+upon the
+writings
+of chords
+of harmonic
+formation
+and principles
+succession.
+
+124
+the basis of the theory of tonality
+Here I shall try to summarize
+The preface
+to
+after 1832.
+in his writings
+as it is explained
+. . DE L'HARMONIE
+is probthe third edition of the TRAITE.
+on this matter,
+statement
+though there
+ably his most complete
+to
+is much that is vague and to some extent in contradiction
+earlier
+writings.
+in line with the accepted
+are essentially
+Tonalities
+scales,
+of tonality comes
+Fetis's
+specialmeaning
+meaning of the term.
+definite
+of these scales implies
+from his idea that the structure
+Shirlaw is not correct,
+rules of harmony and linear movement.
+or tonalithe scales,
+in saying that Fetis considers
+however,
+and other
+ties per se, to be the ultimate
+origin of harmony
+are the
+does say is that scales
+What Fetis
+laws of music.
+music of certain more fundamental
+in a particular
+manifestation
+and give them
+which create the scales
+(rapports),
+relationships
+but
+A tonality,
+structure.
+their particular
+then, is a scale,
+between
+of more basic relationships
+pitches.
+also a collection
+in nature, as in our modThe relationships
+might be harmonic
+melodic)
+or some other (presumably
+ern tonality,
+type.
+unfathomable.
+is to Fetis
+of these relationships
+The origin
+or the physiconsiderations
+They do not result from acoustical
+ology of the human ear, but are part of human nature and as
+or "philosuch are "secret,"
+"metaphysical,"
+"mysterious,"
+seize
+cultures
+Different
+upon different
+postulates.
+sophical"
+of the
+because
+and hence different
+tonalities,
+relationships,
+to that
+and ideas indigenous
+different
+sentiments,
+emotions,
+as an
+of selection
+Fetis
+sees this process
+Somehow
+culture.
+of
+of man's free artistic
+process
+prerogative-a
+expression
+of certain
+"to the necessities
+and emotion
+intellect
+responding
+forms of art. "'21
+works of music all
+and resulting
+The relationships,
+tonalities,
+race
+and emotion of the particular
+to the intellect
+correspond
+for example,
+Music based on the church modes,
+or culture.
+of the nature
+because
+and unemotional
+solemn
+is necessarily
+of the scale degrees,
+the underlying
+of the modes,
+relationships
+of the
+sentiments
+unemotional
+the solemn,
+and, presumably,
+them. Modern major and minor tonalities
+people who composed
+such as Monteverdi
+the modes because
+composers
+superseded
+form of expression.
+and dramatic
+needed a more passionate
+created
+that scales
+Fetis with the statement
+credits
+Shirlaw
+The fundain fact, says just the opposite.
+Fetis,
+harmony.
+he says,
+modern tonality,
+which generated
+mental relationship
+This and other appellative
+is the harmonic nature of the tritone.
+
+125
+of the major scale
+structure
+the intervallic
+intervals
+dictated
+from degree seven to the tonic
+that the interval
+in the sense
+of the upper term
+would be a semitone
+(the "natural" resolution
+of an augmented
+fourth), the interval from degree four to seven
+and so on, until our modern
+would be an augmented
+fourth,
+established
+in an invariant
+intertonality (the major scale)was
+of the pitch level of the tonic.
+This is
+vallic order regardless
+what Fetis means when he says that modern tonality possesses
+naan inherent harmonic
+since it was the harmonic
+principle,
+which
+fourth and its proper resolution
+ture of the augmented
+shaped the scale in the first place.
+of the minor scale into
+But nowhere does he take the formation
+of the minor
+that the inflection
+consideration,
+only mentioning
+of the nature of the
+form is a result
+scale into its "melodic"
+of the triresolutions
+He likewise
+tritone.
+ignores
+acceptable
+The theory has
+to a minor sixth.
+tone other than movement
+some of which Shirlaw points
+many other such contradictions,
+out.
+of modern tonality
+Fetis goes on to state that the phenomenon
+that he stated in the MTTHODE
+somehow explains
+the principle
+DU CONTRE-POINT,
+that scale
+EfLIMENTAIRE and TRAITt
+to the reposeful
+1, 4, 5, and 6 are appropriate
+major
+degrees
+and minor triads and are thus the proper goals for cadences
+Modern tonality also indicates
+and modulations.
+proper chord
+of appellative
+the resolutions
+chords.
+by dictating
+progressions
+medium appropriate
+It creates
+a passionate,
+to the
+expressive
+and it allows
+new operatic
+century,
+genre of the seventeenth
+of modulation.
+for the possibility
+is he at all
+But nowhere
+to his description
+that any of these matters
+relate
+convincing
+of tonality,
+neither
+that there is any factual principle
+to be
+found here at all, nor that the implications
+which he draws from
+it in any way enlighten
+our knowledge of music history or the
+of harmony.
+principles
+the best known part of his theory, one that indirectly
+Probably
+involves the idea of tonality, is his four-fold division of Western
+music history into unitonic,
+and omnitransitonic,
+pluritonic,
+tonic eras or "orders."
+His explanationof
+the last two of these,
+to music of his own time and to the future, is remarkrelating
+able.
+It is one of the most perceptive
+of
+conceptualizations
+the century.
+are based on an
+The first two orders,
+however,
+of early music,
+incorrect
+and one
+essentially
+understanding
+from the writings of Choron and
+that was to an extent borrowed
+earlier
+historians.
+
+126
+of tonalities
+Choron mentions
+the relationship
+with
+Like Fetis,
+of the sixteenth
+and also the idea that composers
+harmony,
+of their tonality.
+the harmonic resources
+century had exhausted
+he writes,
+"did not
+of modern
+"The consciousness
+tonality,"
+If
+but also harmony and counterpoint.
+influence
+only melody,
+no change,
+the science
+[of composition]
+tonality had undergone
+would have reached its limit three centuries
+ago." *22 He conof a fairly
+consisted
+tinues to say that early harmonic
+practice
+of root-position
+and first-inversion
+random placement
+triads,
+voice upward, where the only considfigured from the lowest
+in his choice of chords was the
+eration
+guiding the composer
+and avoiding
+fifths and octaves
+of avoiding
+parallel
+necessity
+between
+It was this unstructured
+false relations.
+relationship
+that was improved
+and harmonies
+scale degrees
+by modern
+later by Fetis when he
+the point elaborated
+tonality--precisely
+of reposeful
+as a "law" of tonality the admissibility
+considered
+of
+triads on scale degrees
+1, 4, 5, and 6, and the necessity
+Choronwrites:
+chords or inverted triads elsewhere.
+appellative
+The old contrapuntists'
+only concept was to give the fifth
+and third to all notes of the scale,
+except the one which
+takes a diminished
+fifth, which was given the sixth; and
+valid as long as it was free
+the harmony
+they considered
+But the consciousness
+fifths and octaves.
+from parallel
+that this harmony was
+of the new modes made them realize
+an infinity of bad relations.
+that it produced
+They
+false,
+the sixth to the third and often to other scale deextended
+and his
+that Palestrina
+And it is on this principle
+grees.
+entire school wrote. *23
+sense
+"artificial"
+(in Catel's
+was strictly
+Dissonance
+and suspension
+in that it arose from prolongation
+term),
+triad.
+consonant
+an earlier
+
+of the
+from
+
+incorrect.
+and conceptually
+Choron's
+theory is historically
+a bass
+did not compose
+musicians
+Renaissance
+by harmonizing
+of modern
+tonality" had nothing
+line, and the "consciousness
+Yet in spite of how clearly
+to do with harmonic
+practice.
+are contradicted
+by available
+Choron's ideas on early music
+Fetis makes these notions the essence
+treatises,
+counterpoint
+of his unitonic order of music history.
+Unitonic music was music written on the modes; it cannot moduHe paraso it is "uni-tonic."
+late, in our sense of the term,
+and
+of the fifteenth
+Choron on the harmonic
+practice
+phrases
+centuries:
+sixteenth
+
+127
+Chords composed of a third and fifth or of a third and sixth,
+with some rare prolongations which produce dissonances
+of the seventh or second by retard of sixths and thirds,
+made
+
+up the entire
+
+science
+
+of harmony.
+
+positions of Giovanni Animuccia,
+trina prove what I say. *24
+
+Porta,
+
+..
+
+. All
+
+Soriano,
+
+the com-
+
+Pales-
+
+that Renaissance
+He makes the equally absurd statements
+no harmonic
+movement,
+polyphony contains no leading-tone
+solemn and discadences, and that it was, hence, necessarily
+passionate.
+The transitonic order in music was ushered in by the transition
+from old to new tonality--from
+the modes to major and minor
+keys. Music could now modulate and establish various tonics,
+hence the name of the era. The new tonality did not evolve
+over a long period of time, but was established
+in essence by
+Monteverdi, who discovered the "phenomenon" of natural dissonance. When the expressive qualities of unprepared seconds,
+sevenths, and tritones were unleashed in music, Fetis speculates, these harmonic relationships and their obligatory resolutions quickly established a new scale-our
+major scale-which
+maintained an invariant interval structure at all pitch levels.
+Monteverdi's "discovery" was that a root-position
+triad could
+be embellished by an unprepared seventh (and ninth), as long
+as the resolution of the chord was what nature prescribed:
+the
+seventh descending by step, the third ascending by step, and,
+the root descending by fifth.
+Thus, Monteverdi
+optionally,
+discovered the "natural harmony of the dominant," the acceptance of which established modern tonality.
+It is Fetis's idea that no composer prior to Monteverdi resolved
+a dissonant seventh at the same time that there was movement
+in other parts. *25 In other words, all dissonant sevenths were
+resolved to what he would call a ? chord as shown in Example
+1. The dissonant seventh here is what Kirnberger would have
+called "zufallig" ("accidental")or
+what Catel would have called
+"artificial."
+Such a resolution is supposedly different from that of the "natural harmony of the dominant" as used by Monteverdi, where
+the third had to resolve upward at the same time that the dissonant seventh resolved downward (Example 2). The dissonant
+combination in Example 1 created no "feeling for a cadence"
+since it resolved to a sixth chord, which was inappropriate to
+the dominant scale degree. The second example somehow does,
+
+128
+since the tritone B-F is compelled to resolve to C-E.
+This
+a key, even though the bass does
+"acte de cadence" establishes
+not move.
+These remarks about Monteverdi and his "innovations" show
+The examples prove nothing, the conseFetis at his worst.
+quences that he draws are absurd, and the historical facts and
+He insists upon conceptualizing conconcepts are erroneous.
+trapuntal music as if it were a thorough-bass exercise, seeing
+as chords built from a bass note.
+all vertical simultaneities
+His statement on the necessary resolutions of pre -Monteverdian
+theorists
+dissonance ignores the teaching of sixteenth-century
+such as Vincenzo Galilei and Giovanni Artusi, who allowed
+movement of the tenor at the same time as resolution of a dissonance in the counterpoint, and who admitted unprepared tritones and sevenths providing that proper resolution followed.
+Fetis also ignores musical sources utilizing innovative treatment of dissonance that go back to the time of Cipriano de Rore;
+in other words, he ignores all theoretical and practical documents of the "second practice," of which Monteverdi was only
+a part.
+that he selects from Monteverdi's madrigals
+The illustration
+(Example 2) is poor, considering what he is trying to demonstrate. He could very easily have found an example of a "dominant seventh" where the seventh is not prepared as a suspension from an earlier chord and where it resolves over a change
+The example that he gives (from a madrigal, by the
+of bass.
+that was a favorite of Choron's and one that he performed
+way,
+with his chorus and reprinted in the PRINCIPES DE COMPOSITION) shows no essential difference in the treatment of dissonance from Example 1. And even if Monteverdi had originthis was not the
+ated the use of the unprepared dissonance,
+decisive step in the transition from modes to major and minor
+over the
+keys, which was a gradual process accomplished
+course of several centuries.
+In spite of all of this, Fetis is extraordinarily
+sight into the work of Monteverdi:
+
+proud of his in-
+
+Who would believe that there is not a single word on what
+we have seen concerning this important epoch of the change
+of tonality and all its consequences in general and specialized histories of music? These voluminous compilations
+abound in trifling details; but infact there is not tobe found
+in any of these compilations enough practical knowledge,
+nor enough philosophy to carry light
+enough attentiveness,
+
+129
+
+EXAMPLE
+
+1
+
+:a,VD- 18
+U
+
+-j
+
+J
+6
+
+o
+
+-):
+
+IC
+
+2
+
+S
+71
+
+1
+
+-C
+
+'-.
+
+-
+
+130
+All that is seen in Burney and Martini
+into this obscurity.
+and routine people) is that Monteverdi
+(copied by Forkel
+added new chords to those in use before him.
+As for the
+no one suspected
+results of these new harmonies,
+them. *26
+in someAs usual when Fetis claims his complete
+originality
+Several eighteenththing, the source of his idea is not far away.
+had mentioned
+Charles
+(especially
+Burney)
+century historians
+of Monteverdi's
+use of dissonance,
+the importance
+usually deas does F tis, in figured-bass
+harmony,
+scribing contrapuntal
+took
+that Monteverdi
+It was Choron's
+terms.
+idea,
+though,
+a new tonality by bringing
+the
+in establishing
+the decisive
+step
+of modern tonality" to bear upon harmony:
+"sentiment
+had not yet
+The most important
+step [in this transition]
+A master
+of
+been made [during the era of Palestrina].
+who flourished
+school
+the Lombardian
+(Cl. Monteverdi),
+the harmony of the dominant; he was
+around 1590, created
+the first who dared to use the dominant seventh and even
+the first who dared
+and without preparation;
+ninth overtly
+until
+the diminished
+to use as consonant
+fifth, considered
+And tonal harmony was known. *27
+then as dissonant.
+For Fetis the history of music from the time of the establishexment of major and minor keys is one of ever increasing
+to remote key
+from more direct modulations
+derived
+pression
+areas.
+The pluritonic order did not involve a change in tonality,
+of a
+spellings
+by enharmonic
+only the freer use of modulation
+music was
+in transitonic
+Modulation
+single note in a chord.
+a dominant seventh chord
+by establishing
+always accomplished
+were the
+in a new key, and the customary
+goals of modulation
+or the dominant.
+relative major or minor key, the subdominant,
+one key was related to one other key
+In the transitonic
+order,
+such as
+But when composers
+seventh.
+use of the dominant
+by
+to more distant keys by enharmonic
+Mozart began to modulate
+seventh chord
+of a single note, usually in a diminished
+spelling
+order was created.
+the pluritonic
+in minor,
+3. *28
+is found in Example
+that he provides
+An illustration
+seventh
+use of the diminished
+3a shows the proper
+Example
+The diminished
+order in A minor.
+chord in the transitonic
+the sixth scale degree F for the
+chord arises by "substituting"
+seventh.
+root of a dominant
+Any such chord by substitution
+so the
+of the parent chord,
+function
+the dominant
+maintains
+But in the plurito an A minor triad.
+is a cadence
+resolution
+tonic order
+3b) the composer
+might spell the F as
+(Example
+the
+This places
+into F# minor.
+it to resolve
+E#, allowing
+
+131
+
+EXAMPLE
+
+3
+
+a
+n
+
+l a
+
+ii
+
+i-
+
+transitonic
+
+b
+t'iL^
+
+=
+
+-
+
+$*#a
+IIe
+
+.
+
+pluritonic
+
+r
+^e
+
+132
+previously
+contact.
+
+"unrelated"
+
+keys of A minor
+
+and F# minor
+
+into direct
+
+notes of a chord
+order
+arises
+when several
+The omnitonic
+a diminished
+seventh in minor) are spelled
+(again, ordinarily,
+allowing that chord to function as a pivot into
+enharmonically,
+order any dominant
+potentially
+any other key. In the transitonic
+and
+But in the pluritonic
+a single
+tonic.
+establishes
+seventh
+when the enharmonic
+omnitonic orders,
+pivot chord is reached,
+and remains
+so until
+is still uncertain
+the goal of modulation
+of that chord occurs.
+the resolution
+Fetis sees the omnitonic order as the ultimate
+stage in deriving
+and an
+from major/minor
+more and more expression
+tonality,
+such as Beethoven,
+era which composers
+Rossini,
+Meyerbeer,
+He sees the era as
+had already
+and Cherubini
+begun to open.
+for untoo great a resource
+of music,
+a degradation
+allowing
+and one that could itself be suand passion,
+bridled emotion
+perseded
+only by a new tonality.
+order in music was a remarkable
+of an omnitonic
+His vision
+of the nineteenth
+and theoretic
+to historic
+innovation
+concepts
+viewed the course
+critics
+of his contemporary
+Many
+century.
+of increasing
+of music of their own time vaguely as a process
+saw
+and Castil-Blaze,
+such as Choron
+others,
+complexity;
+of the various
+music as some sort of interaction
+contemporary
+It was to Fetis's
+"schools."
+national
+then, that he
+credit,
+music as essenof nineteenth-century
+saw the history
+rightly
+His
+tially a matter of changing harmonic styles and techniques.
+even
+to remote key areas,
+modulations
+theory of enharmonic
+was very much
+though he did not approve of such techniques,
+of his day. Most of his conin touch with the musical
+practice
+that modutheorists
+(such as Choron) still insisted
+temporary
+lation to a remote key be done through a number of modulations
+mentheorists
+around the circle of fifths, though a few earlier
+in a dialterations
+of enharmonic
+the process
+tion in passing
+chord.
+minished
+is that it does not
+of the theory,
+The main failing
+perhaps,
+of a scale degree
+tonicization
+localized
+temporary,
+distinguish
+modulation.
+from large-scale
+Any time a dominant seventh or
+to this theory,
+chord is heard,
+seventh
+diminished
+according
+domineven if it is only a secondary
+a new key is established,
+where
+ant. Fetis does not see any sort of harmonic
+layering,
+events
+local harmonic
+by a largermight still be controlled
+scale progression.
+
+133
+In fact he never discusses
+at
+longer harmonic progressions
+all, but this is typical of theory of his time. Early nineteenthcentury French theorists who did not utilize the concept of fundamental bass (e.g., Catel, Choron, and Fetis) almost never
+of more than two chords; the only exdiscussed progressions
+ception being their formulas for the so-called "regle d'octave"
+of
+or "marche de basse," which were stock harmonizations
+scales or sequential bass patterns.
+In summary, Fetis's theory of tonality is certainly not the
+advance in the study of harmony which he thought that it was.
+But tonality was still essential to his manner of thought; it was
+an aspect of theory which he as a rationalist considered absolutely necessary as a means of explanation of the rules which
+he advanced.
+Tonality for Fetis was what multiple resonance was for Rameau
+or what numerical cosmology was for the Pythagorean theorists
+-a source of authority.
+In this respect, however, he was out
+of touch with his times.
+The trend in theory of the late eighteenth and early nineteenth centuries was away from rationalism and toward an empirical approach to theoretical matters,
+where musicians were willing to accept and describe without
+the need to explain or to prove. This insistence on proof is
+the first failing of his entire work, because it led him to create
+something that was not there. Another shortcoming of Fetis,
+Choron, and other scholars of their time was their readiness
+to apply theoretic constructs appropriate to their own era to
+music of all eras-figured-bass
+concepts to contrapuntal music,
+tonal thinking to modal music, and so forth.
+One positive result of the theory of tonality, which is still with
+us today, was a first step toward the redefinition of the term
+itself, from a notion of scales to one of harmonic order. Fe tis's
+is important today as an astheory of tonality, furthermore,
+pect of the history of music theory, important because many
+people in the nineteenth century thought that it was important.
+The
+
+TRAITE
+
+.
+
+. .DE
+
+L'HARMONIE
+
+is
+
+in fact
+
+an excellent
+
+harmony treatise for its time, and it is unfortunate that the
+values of the book itself are so often overlooked in favor of the
+much less substantial theory behind it. The book presents a
+and useful system of chord derivation,
+simple, reasonable,
+practical techniques for realizing figured bass, and techniques
+for enharmonic modulation.
+Its value is not, as Fetis so often
+its differences
+from other theory, but, rather, its
+claimed,
+similarities
+and the way in which it develops trends in theory
+
+134
+from the works
+and others.
+
+of Rameau,
+
+Sorge,
+
+Kirnberger,
+
+Catel,
+
+Choron,
+
+REFERENCES
+
+1
+
+Robert Wangermee, FRAN OIS-JOSEPH FEITIS:MUSICOLOGUEET COMPOSITEUR (Brussels: Palais des academies, 1951), p.23.
+
+2
+
+METHODE ELEMENTAIRE (Paris: Chez Petit); TRAITE DU CONTRE-POINT
+The
+(Paris: Charles MichelOzi and Au magasin de musique du conservatoire).
+first editions of both are undated, but Fetis in his autobiographical article in
+the BIOGRAPHIE UNIVERSELLE DES MUSICIENS states that the MtTHODE
+appeared in March, 1824, and he elsewhere implies that the TRAITE DU CONTRE-POINT appeared later in 1824 or possibly early in 1825.
+
+3
+
+Fetis, TRAITE COMPLET DE LA THEORIE ET DE LA PRATIQUE DE L'HARMONIE, preface to the third edition (Paris: Braudus, 1849), pp.xi f.
+
+4
+
+The "Resume philosophique" was an introduction to vol. 1 of the first edition of
+the BIOGRAPHIE UNIVERSELLE DES MUSICIENS (Brussels: Leroux, 1835); it
+was printed separately by Leroux in that year. The "Esquisse de l'histoire de
+l'harmonie" was serialized in the REVUE ET GAZETTE MUSICALE in 1840
+(and also printed separately); the TRAITt . . . DE L'HARMONIE was printed
+concurrently by the Royal Conservatory in Brussels and the firm of Maurice
+Schlesinger in Paris in 1844. It went through no less than twenty-one French
+editions by 1906.
+
+5
+
+There is a doctoral dissertation on this subject, which was unavailable to me
+for this paper: Robert Nichols, "Franqois-Joseph Fetis and the Theory of
+Tonalite" (University of Michigan, 1971).
+
+6
+
+Matthew Shirlaw, THE THEORY OF HARMONY (London: Novello, 1917), pp.
+335-51. Shirlaw has no mercy on any theorist who departs too radically from
+the doctrines of Rameau or similar natural-based systems, and, for this reason, he does not adequately represent the work of many later eighteenth- or
+nineteenth-century writers, such as Johann Kirnberger, Luigi Sabbatini, Gottfried Weber, or Fetis, who document the more empirical trends in theory of
+their time.
+
+135
+
+7
+
+There were no less than six monographs on Choron published in France in the
+nineteenth century, and many more lexicographic and journalistic articles.
+The best of these is Jules Carles's CHORON: SAVIE ET SES TRAVAUX (Caen:
+Blanc-Hardel, 1882). There are only two substantial twentieth-century studies:
+in Frankreich wShrend
+Willi Kahl, "Zur musikalischen Renaissancebewegung
+der ersten Htlfte des 19. Jahrhunderts," FESTSCHRIFT JOSEPH SCHMIDTGOERG ZUM 60. GEBURTSTAG, ed. Dagmar Weise (Bonn: Beethovenhaus,
+1957), pp. 156-74; and Gabriel Vauthier, excerpts from an unpublished biography of Choron in the REVUE MUSICALE (Jules Combarieu, ed.), 8 (1908): 37689, 436-42, 613-24, 664-70; 9 (1909): 54-58, 195-201, 223-29, 275-79; and
+Vauthier's CHORON SOUS L'EMPIRE (Poitiers: Societg francaise d'imprimeries,
+n.d. ). See also Bryan Simms, ALEXANDRE CHORON (1771-1834) AS A HISTORIAN AND THEORIST OF MUSIC (Ann Arbor: University Microfilms, 1972).
+Of the published studies of Choron, Vauthier's writings are far and away the
+best biographies, but there is no adequate published study of Choron's significance to nineteenth-century French scholarship nor is there any adequate published bibliography of his works.
+
+8
+
+See Kahl, "Zur musikalischen Renaissancebewegung" and Robert Wangermee,
+"Les Premiers concerts historiques a Paris," MELANGES ERNEST CLOSSON
+(Brussels: Societe belge de musicologie,
+1948), pp. 185-96. 'For Fetis's opinions of these concerts, see his enthusiastic reviews in the REVUE MUSICALE,
+1 (1827): 88, 188, and passim.
+
+9
+
+DICTIONNAIRE HISTORIQUE DES MUSICIENS, 2 vols.
+Lenormant, 1810-11).
+
+10
+
+L'on peut apprecier le defaut de critique et d'ordre dans les id6es qui a conduit
+a ne traiter
+Berardi, Tero' [i.e., Tevo], Fux, Marpurg, et Albrechtsberger
+des contre-points doubles qu'apres la fugue, quoique celle-ci ne puisse exister
+sans eux. J'ai retabli l'ordre rationnel de ces etudes dans mon TRAITE DU
+CONTRE-POINT ET DE LA FUGUE; plusieurs ouvrages, publies depuis lors
+sur le meme sujet, ont suivi cet ordre.
+Fetis,
+
+"Esquisse de l'histoire,"
+
+(Paris: Valade and
+
+REVUE ET GAZETTE MUSICALE, 7 (1840):
+
+191.
+
+11
+
+"In France," wrote Fetis, "Rameau's system of fundamental bass was for a
+long time an obstacle to these worthy studies of practical harmony. But the
+work published by Fiocchi and Choron under the title PRINCIPES D'ACCOMPAGNEMENT DES fCOLES D'ITALIE began a necessary reform in this subject in the early years of this century." REVUE ET GAZETTE MUSICALE, 22
+(1855): 108.
+
+12
+
+Je me bornerai a dire que c'est dans le courant du seizieme siecle que cette
+tonalite moderne s'est fait sentir plus fortement, qu'elle a exerc6 son influence
+sur la composition, et que c'est dans l'ecole de Naples, et particulierement
+dans celle du DURANTE, qu'elle a et6 fixee sous tous les rapports, du moins
+en ce qui concerne la pratique.
+Choron, "Sommaire,"
+
+p. xxxviii.
+
+136
+
+1 (1827):
+
+332.
+
+13
+
+REVUE
+
+14
+
+TRAITE D'HARMONIE
+(Paris:
+Catel,
+to Catel by definition
+p. 9. A dissonance
+tritone had several
+resolutions,
+possible
+nances.
+
+15
+
+Choron elaborates
+this
+DE COMPOSITION,
+PRINCIPES
+pp. 5, 47, and passim.
+and chords in the following
+theory of the "euphonie" and "dynamie" of intervals
+METHODE PRATIQUE D'HARMONIE ET DACCOMPAGNEMENT,
+laterworks:
+Paris: Bibliotheque
+of 166pp. in proof sheets,
+treatise
+nationale,
+unpublished
+nouv. acq. fr. 296, c. 1830; untitled and anonymous article (definitely
+by Choron)
+Choron and Adrien de la Fage,
+12 (1832): 313-16;
+in the REVUE MUSICALE,
+livre III, 121ff.
+MANUEL COMPLET DE MUSIQUE (Paris: Roret,
+1836-39),
+
+16
+
+Zweiter
+
+17
+
+la tonalite moderne par
+caract6risent
+II est remarquable
+que ces intervalles
+la note sensible,
+de leurs deux notes constitutives,
+les tendances energiques
+apsuivi en general du troiset le quatrieme
+degre,
+pelant apres elle la tonique,
+un etat de disne peut constituer
+eminemment
+ieme.
+tonal,
+Or, ce caractere,
+sont employees
+la quarte majeure
+et la quinte mineure
+sonance: en realite,
+La quarte
+dans plusieurs
+successions
+comme des consonnances
+harmoniques.
+mais des consonet la quinte mineure
+sont donc des consonnances,
+majeure
+nances d'une espece particuliere,
+que je designe sous le nom de "consonnances
+"
+appellative s.
+Fetis,
+
+MUSICALE,
+
+Abschnitt,
+
+TRAITE
+
+An X),
+du conservatoire,
+imprimerie
+had one specific
+resolution.
+Since the
+it had to be ranked among the conso-
+
+p. 42 f.
+
+. . . DE
+
+'H-IARlMONIE, pp.8-9.
+
+137
+
+18
+
+. . . semblent
+en effet appeler
+les
+poser; c'est pourquoi on les nomme
+Choron,
+
+PRINCIPES
+
+notes
+notes
+
+DE COMPOSITION,
+
+sur lesquelles
+"Appellatives."
+
+elles
+
+tendent
+
+a se re-
+
+p.47.
+
+19
+
+of attractive
+notes of [the
+Fetis:
+"The obligatory
+resolution
+[i.e.,
+appellative]
+of these in the scale provide the laws
+dominant
+seventh chord] and the position
+of the other two notes
+of succession
+of five notes of this scale,
+the position
+" TRAITE . . . DE L'HARMONIE,
+being determined
+by themselves.
+p.iii.
+
+20
+
+See David
+THEORY,
+
+"The Origins
+Beach,
+18 (1974): 282 ff.
+
+of Harmonic
+
+Analysis,"
+
+JOURNAL
+
+OF MUSIC
+
+21
+
+TRAITE
+
+. . . DE L'HARMIONIE,
+
+22
+
+Choron,
+
+"Sommaire,"
+
+23
+
+Les anciens
+avaient pour precepts
+de donner a
+contrapuntistes
+presqu'unique
+toutes les notes de l'echelle
+la tierce
+et la quinte, a l'exception
+de celle qui
+a laquelle
+on donnait la sixte; et ils regardaient
+l'harporte quinte mineure,
+monie comme valable toutes les fois qu'elle 6tait exempte
+de suites de quintes
+et d'octaves;
+mais le sentiment
+des nouveaux
+modes fit reconnaltre
+que cette
+harmonie
+etait fausse: qu'elle
+une infinite
+de mauvaises
+produisait
+relations;
+on etendit la sixte au troisieme
+et souvent a plusieurs
+autres degres de l'echelle,
+et c'est sur ce principe
+et toute son 6cole.
+qui ecrivit Palestrina
+Choron,
+
+"Sommaire,"
+
+preface
+
+to the third edition,
+
+p.xxvi.
+
+p. xxxviii.
+
+pp. xxxviii-xxxix.
+
+138
+
+24
+
+avec
+de tierce
+et de quinte, ou de tierce et de sixte,
+Des accords
+composes
+des dissonances
+de septieme
+ou
+rares qui produisaient
+quelques
+prolongations
+toute la science
+de seconde,
+le retard des sixtes ou de tierces,
+composaient
+par
+. . . Toutes
+de Jean Animuccia,
+de Porta,
+les compositions
+de l'harmonie.
+de Palestrina,
+de Soriano,
+prouve ce que j'avance.
+sur
+"Questions
+Fetis,
+en musique,"
+dactiques
+
+la diversite
+et des doctrines
+d'opinions
+1 (1827): 248-49.
+REVUE MUSICALE,
+
+de l'histoire
+
+de l'harmonie,"
+
+des auteurs
+
+di-
+
+p. 190.
+
+25
+
+Fetis,
+
+26
+
+Qui croirait
+qu'il n'y a pas un mot de tout ce qu'on vient de voir concernant
+de tonalit6, et toutes ses consequences,
+du changement
+cette 6poque importante
+Ces volumineuses
+dela musique?
+et particulieres
+histoires
+dansles
+generales
+details oiseux; mais pour un tel fait il ne s'est trouve
+abondent en
+compilations
+ni assez
+ni assez de savoir pratique,
+d'attention,
+chez aucun des compilations
+Tout ce
+dans cette obscurite.
+ni assez de philosophie,
+pour porter la lumiere
+c'est
+et le peuple routinier,
+par Forkel
+copies
+qu'ont vu Burney et Martini,
+a ceux dont on faisait usage avant
+a ajoute de nouveaux accords
+que Monteverde
+ne s'en est doute.
+cesharmonies
+nouvelles,
+personne
+lui; quant aux resultatsde
+Fetis,
+
+"Esquisse
+
+"Esquisse
+
+de l'histoire
+
+de l'harmonie,"
+
+p. 191.
+
+27
+
+de LomUn maitre de l'ecole
+n'etait pas fait encore.
+Lepas le plus important
+de la domivers 1590, crea l'harmonie
+bardie (Cl. Monteverde),
+qui florissait
+la
+et meme
+de dominante,
+la septieme
+il osa pratiquer
+nante; le premier,
+comme
+il osa employer
+le premier,
+a decouvert
+et sans preparation;
+neuvieme
+et
+dissonance:
+comme
+la quinte mineure,
+consonnance
+r6putee
+jusqu'alors
+tonale fut connue.
+l'harmonie
+
+28
+
+TRAITE
+
+. . . DE L'HARMONIE,
+
+preface
+
+to the third edition.
+
+

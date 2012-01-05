@@ -1,0 +1,5465 @@
+Yale University Department of Music
+
+Representing Musical Scores for Computer Analysis
+Author(s): Alexander R. Brinkman
+Source: Journal of Music Theory, Vol. 30, No. 2 (Autumn, 1986), pp. 225-275
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843576
+Accessed: 15/12/2009 22:54
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+REPRESENTING MUSICAL SCORES
+FOR COMPUTER ANALYSIS
+
+R.
+Alexander Brinkman
+
+Music theoristshavehad some degreeof success in using the computer
+taskssuch
+as an aid to formingor testingtheories'and for doing utilitarian
+as identifyingsets or manipulating
+matrices,but a lack of suitablesoftware
+tools has been a majorobstacleto musicianswho wish to use the computer
+in score analysis.Typicallyeach researcher had to startalmost from
+has
+or
+methods
+beforeanyanalysis
+scratch,inventing reinventing
+computational
+could take place. Applicationsto actual analysis of musical scores have
+beenad hoc , anda few havebeenexported othercomputer
+to
+installations.
+The goal of the research
+here was to producea datastructure
+presented
+for representing
+scores within the computer(as opposed to an external
+that
+and
+codinglanguage) wouldbe relativelyeasy to manipulate thatwould
+be applicable a broadspectrumof music-analytic
+to
+activities. Some prefor
+liminaryrequirements this systemfollow:
+1. Function.The datastructure
+of
+shouldfacilitate
+partitioning the score
+but
+by part (or voice) or by verticalsimultaneity, the path throughthe
+music shouldnot be limitedto these two. Segmentation rests, articuby
+lations,slurs, instrumentation,
+register,dynamics,and the like mustbe
+shouldpermitexamination musical
+of
+possiblealso. The representation
+detail and the contextin which it occurs.
+225
+
+2. Detail. The representation of each musical dimension should be
+easily manipulated by the programmer yet accessible to the analyst. (a)
+The pitch representation must specify octave, pitch class, and spelling.
+(b) The system should provide for precise description and handling of
+rhythm of any complexity. (c) Other attributes that are often pertinent
+to analysis (dynamics, articulation, phrasing, and so forth) should be
+adequately represented.
+3. Extensibility. Although the initial implementation should be sufficient
+for many applications, the system must be extensible; it must be possible
+to add new features or information to the score representation as need
+arises.
+The first task in meeting these goals was to develop a program that translates DARMS coding language into a format more accessible for analysis.
+The second was to design a flexible linked data structure for representing
+scores in the computer memory and to write a program to implement this
+structure. The programs for this study were written in the Pascal programming language using structured programming techniques.
+A DARMS Interpreter. DARMS was chosen as the input language because of its economy, flexibility, and completeness. DARMS is an acronym
+for Digital Alternate Representation of Musical Scores. It was originally
+conceived by Stefan Bauer-Mengleberg in 1963 as part of an early project
+in automated music printing. The language has been used in a number of
+theoretical studies by scholars such as Allen Forte and John Rothgeb.3I believe that the language would be used more widely if scholars did not have
+to design software tools to deal with the language before beginning their
+own research. A group of scholars involved in the DARMS Project has been
+working on a set of programs to help with this task. The principal programs
+under development are a DARMS syntax checker and an Input-DARMS to
+Canonical-DARMS Translator (or "Canonizer") that will translate any of
+many syntactically correct Input-DARMS representations into a fully resolved standard form.
+Because of its intended purpose and the philosophy of its inventor,
+DARMS, in both its User and Canonical forms, encodes the graphic symbols used to represent music, not their meaning. It "knows" what symbols
+are in the score and where they are, but not what they represent. In that
+sense, uninterpreted DARMS is about as useful to an analysis program as
+the printed score is to a person who cannot read music. We process DARMS
+code with a computer program called the DARMS Scanner. The primary
+purpose of this program is to interpret the meaning of graphic symbols encoded in DARMS. We have bypassed canonical DARMS, opting instead for
+direct translation of each encoded graphic symbol into representations that
+are more directly accessible for musical analysis.5Once the exact values for
+each symbol (note, rest, dynamic mark, and so forth) are known, the object
+226
+
+can be correctly placed in the score if the part (or layer) and exact temporal
+position are known. The DARMS Scanner provides this information also.
+In order to understand how the scanner works, it will be necessary for
+the reader to know at least a little about DARMS syntax. Figure 1 provides
+a summary of a basic subset of DARMS6 Unlike many other music coding
+languages, DARMS does not name pitches, but instead encodes the location
+of notes on the staff. The lines and spaces on the staff, as well as ledger
+lines, are assigned integer numbers called space codes. Each note's position
+on the staff is represented by one of these numbers. The most frequently
+used numbers (those on the staff) can be shortened to the last digit of the
+space code. Thus a note on the first line of the staff is coded as the integer
+21 or 1, a note on the second ledger line above the staff is represented by
+33, etc. Duration is specified by a duration code, which is for the most part
+mnemonic: W for whole note, Q for quarter note, and so forth. Clefs are
+coded as an exclamation point followed by G, C, or F indicating the type
+of clef. Space codes can be used to place clefs in less commonly found positions on the staff. Key signatures and meter signatures also follow the exclamation point. Beamed notes are coded with parentheses which indicate
+the number of beams on the note; a left parenthesis indicates the beginning
+of a beam, a right parenthesis the end. This scheme provides extreme
+economy of code and shows in addition the notational groupings used by
+the composer. When more than one instrument is being coded, the current
+instrument is identified by an I followed by a numeric identifier. A new
+instrument code is specified whenever the encoder changes instrument. The
+basic code is easy to learn, since its designers have taken care to use
+mnemonic codes and symbols whenever possible. Many coding shortcuts
+are permitted. For example, the space code or duration code may be omitted
+if it is the same as that for the previous note. The example at the bottom
+of Figure 1 shows the code for a short musical excerpt. The code takes little
+more space than the musical example and conveys most of the same information (coding of stem direction has been omitted). The complete language provides a means of encoding virtually every aspect of a musical
+score.
+One problem in interpreting DARMS in a computer program is that the
+code is characterized by the same context dependency as the music it represents. For example, the note represented by a space code cannot be determined without knowledge of the clef, key signature, previous accidentals
+in the current measure, and even transposing characteristics of the instrument that will play the note. Similarly, the temporal position of the note is
+not coded explicitly, but only implied by the total of the previous durations
+in the part. Vertical alignment between parts is usually only implicit. In addition, the encoder is allowed total freedom in deciding the order in which
+parts will be coded, and many different arrangements are possible. The
+freedom of coding order and economy of code necessary to represent a
+227
+
+Space Codes
+of notes, clefs,
+position
+(for vertical
+and other musical symbols on the staff)
+
+Duration
+
+Codes (for
+
+ww
+
+Breve
+Whole
+Half
+Quarte
+Eighth
+Sixteen
+ThirtySixty-fo
+One hu
+Two hu
+Five h
+One th
+(dot)
+Single
+
+w
+H
+
+to 49
+
+Q
+
+36
+- 34
+
+33 3--
+
+29
+27
+25
+23
+21
+
+30
+28
+26
+2
+22
+20
+
+31
+30
+
+20-29 may be
+represented
+as 0-9
+
+E
+S
+T
+X
+y
+Z
+ZZ
+ZZZ
+
+19
+G
+
+18
+16
+14
+to
+
+00
+
+The space code may be omitted if it
+the same as for the previous note.
+
+is
+
+The duration code ge
+code, or R for a res
+same as the previous
+be omitted.
+Dots fo
+the same meaning as
+Rests may be concaten
+Clefs
+
+Key Signatures
+Standard:
+
+IK2# - key of two sharps
+IK4- - key of four flats
+use accidental
+Nonstandard key signatures
+IK-25#22
+code followed by space code:
+(flat on 3rd line and sharp on 1st space)
+follow
+Accidentals
+#
+sharp
+## double sharp
+flat
+double flat
+*
+natural
+
+Treble
+
+Alto
+
+Bass
+
+A
+
+X
+IG
+
+space codes
+I
+
+1 9
+,9
+IC
+
+IF
+
+Normal positions.
+
+Meter Signatures
+3
+IM3:4
+4
+IMC
+
+B-nmpd Notes
+A left parenthesis
+beam; a right parent
+
+C
+2+3+2
+8
+
+IM2+3+2:8
+
+(4 5)
+
+InstLl.uieut Codes
+I1 (instrument
+1)
+12 (instrument 2)
+
+...
+
+Simple Tie signified
+
+by J with first
+
+1:
+
+//:
+
+th
+tO
+xD
+
+I
+/
+
+1
+
+II// ://
+
+note
+
+etc.
+
+Simple Dynamic mark
+dynamic: ex. 5Q,VFF
+crescendo over single
+are also possible.
+
+KEaaple with clef,
+key, m
+fermatas, beamed notes, r
+L
+nA
+
+Repeats:
+
+1
+
+(8
+
+Beamed notes do not
+should b
+parenthesis
+
+199
+
+CommonArticulation
+Codes:
+'- sttaccato;
+"- wedge accent;
+- tenuto; > - accent; ; - fermata;
+Bar-lines,
+
+((3 20))
+
+1
+
+://:
+
+fKl
+
+r
+
+I J
+
+IG !K1# IM4:4 8-H 7J / (7
+
+Figure 1. Basic DARMS Code
+
+passage of music make DARMS extremely attractive for encoding and storing musical information, but the vertical and temporal relationship between
+symbols as well as the meaning of the symbols themselves must be resolved
+before analysis can begin.
+Before continuing our discussion of the design of the scanner, it will be
+helpful to see where we are headed. Figure 2 shows the opening measures
+of Bart6k's 4th String Quartet. Figure 3 is one possible DARMS encoding
+of the same passage. Figure 4 is a portion of the output from the translation
+program using the code in Figure 2 as input data. The first letter of each
+line indicates what is to follow: c for a comment, b for barline, m for meter,
+and i for a note or rest. Column numbers have been added above the first
+i-statement so that we may examine the results of the translation process.
+The number directly after the i in column one is the numeric identifier for
+the instrument playing this note. The second and third columns are the
+startingand ending time for the note. Time is measured in whole-note units,
+starting with 0 at the beginning of the score. Durations are stored as fractions, that is, the numerator and denominator are stored separately as
+integer values, and all computations are done in rational arithmetic.7Using
+this system any duration can be represented exactly and temporal position,
+figured as the sum of the previous fractional durations, can be calculated
+with absolute accuracy regardless of rhythmic complexity. Here, the fractional value is printed as a decimal number for readability; any round-off
+error is non-cumulative and consistent from part to part. The fourth column
+represents the measure number (integer part) and position in the measure
+(decimal part). The fifth column is for pitch, with -1 indicating a rest. Pitch
+is represented as a four digit number. The first digit is the octave, the middle
+two digits are the pitch class (0-11), and the last digit is a name class indicating the spelling, with 0-6 representing letter names c-b.8 The sixth
+column is the fractional value of the duration. Column seven indicates ties;
+an odd digit signifies the beginning of a tie, and the following even digit the
+end. Column eight indicates articulations; each articulation mark is represented by a single digit. In the case of multiple articulations, the one closest
+to the note head occurs first. Zero indicates the absence of articulation
+marks. Column nine indicates slurs in a manner analogous to ties in column
+seven. The last column represents the dynamic level, which is coded on a
+linear scale with p = 50, mp = 60, mf = 70, f = 80, and so forth. This
+scheme permits dynamic levels frompppppp toffff, with ten steps between
+each level to make gradations during crescendi and decrescendi. The higher
+order digits indicate other details (for example, whether the note is the beginning or end of a crescendo or decrescendo). For example 6080 indicates
+a crescendo beginning at dynamic level forte and 7090 indicates the end of
+the crescendo at fortissimo. The value during a crescendo or decrescendo
+is representedby -1 (meaning undefined); the actual value will be calculated
+by interpolation after the linked data structure is built.
+230
+
+4th STRING QUARTET
+I.
+A
+
+Violino I
+
+(1928)
+
+Allegro,J .. o
+t
+
+3
+
+^U;Lo .,--S
+
+Violino II
+
+Bela Bartok
+
+.--
+
+T
+%
+
+- wN-'%
+Zg
+
+2
+
+J
+
+^^4
+
+^_^L^<_o
+
+I;
+
+__
+
+Viola
+
+-a
+
+J
+VioloncelloI
+-^
+
+1
+
+T
+I-
+
+-
+
+T
+rV
+
+t
+
+_A
+
+f-
+
+Copyright1929by UniversalEdition. Copyrightassigned 1939to Boosey & Hawkes, Ltd.
+Used by permission.
+
+Figure 2. A Partial Score
+
+231
+
+One possible
+I0
+using
+
+for
+
+DARMS encoding
+attributes
+
+score
+of the
+coononn to all
+
+in
+
+= 110$
+7#E
+/
+
+I0
+I1
+12
+
+LM4:4,00@Allegro,lQUl
+IG RQ RE 9E <,VF
+E 1-E
+IG 1HJ,VF
+
+13
+
+lC RW / RW /
+
+I4
+I1
+12
+14
+11
+
+/
+IF RQ 17H ,VF 2Q
+7*L 6T (3L 1-)
+REQ /
+(8
+18-E REQ /
+(2 1- ) 20-QL
+33E
+REQ /
+271C 8Q
+7#Q
+20 21-L6,V
+18-E
+19#H 7 (19*L5,V<1
+19Q.
+20#E
+RH (T2#L3
+20#Q.J
+T#))
+/ EL4 1Q
+18*HJ E (18-JL5
+18*Q
+RE 17E
+/ 18-,V<1)
+20HJ / EL2 Q. 19#E
+20Q.J
+1))
+RQE ((2L1
+RHE 3-E ,VF (43*JL7,V<3)
+/ 3Q 18EL8,V
+RE (7*L1
+6# 5#JT HJ / EL2 5*EJ H 6-E
+RW / RHQE (9-L1
+/ 8 7J) H.J / EL2 6-Q.J
+
+12
+13
+14
+
+9#Q.
+2QJ
+
+7
+
+Figure3
+
+DARMS syntax specifies that note attributes
+must be encoded in the
+ordershownin Figure5.9Attributes omittedif they do not apply to a
+are
+note. The structure the scanner,shownin Figure6, reflectsthe
+of
+particular
+orderof coding for notes. The portionof the program deals with note
+that
+attributes designedas a chainof procedures,
+is
+with each procedure
+calling
+the next. The chaincan be enteredat anypointdepending the firstcoded
+on
+of
+attribute a note and can be enteredrecursively simultaneous
+for
+notesor
+chords.Once the chain is entered,the program
+checksfor each successive
+attribute takesappropriate
+and
+actionfor each attribute appearsin the
+that
+code.
+In the diagram,the variable
+called input' is a pointerinto Pascal's
+input
+buffer.'0 valueof this variable the nextcharacter be read.The items
+The
+is
+to
+in the left columnof the diagram possible valuesfor the next character
+are
+in the buffer.It maybe a digit (partof a space code), an accidentalcode,
+a durationcode, and so forth. Items in other columns are names of proceduresthat help to interpret DARMSstring. Arrowsin the diagram
+the
+calls. Since procedures
+return the pointfromwhich
+to
+represent
+procedure
+they were called, the flow of controlwill be oppositethe directionof the
+arrowafterthe procedure executed.[If one procedure
+is
+calls another,
+flow
+of controlmustreturn
+fromthe secondprocedure
+beforethe firstprocedure
+can terminate.]
+After each attribute decoded, input^is advanced the
+is
+to
+next character the buffer.
+in
+We will demonstrate this worksby workingthrougha shortexamhow
+fromFigure2. The scanner
+ple, decodingthe firstnoteof the Bart6k
+quartet
+uses one prototypical
+note for eachpart(technically recordstructure
+a
+with
+severalfieldsto represent
+variousattributes the note). (See Figure7.) The
+of
+valuesof the fields are updatedwhen necessary,and at the end of the procedurechain the values for the note are printedin an i-statement.Some
+attributes "sticky," is, once set they stayset untilthey are changed.
+are
+that
+Pitch, duration,and dynamiclevel are treatedin this manner.Otherattributes, such as articulation,
+apply to only one note and are cancelledafter
+the values for the note are printed.
+As we begin the illustration,we will assume that the clef, meter,and
+rests have alreadybeen processed.Thus the currentstartingtime for this
+instrument 3/8, the sumof the two previousrests,andinput' is positioned
+is
+at the firstcoded note in the buffer.The program
+tests the valueof input
+and, since it is a digit, calls proceduresetcode. Setcode calls getcode,
+which readsthe spacecode9, expandsit to 29, andsaves its value. Setcode
+now calls setnote, the next procedurein the chain. Setnotechecks for an
+accidental using the space code, clef, key signature, accidentalinand
+and
+calculatesthatthis is an F in octave5. This datais storedin the
+formation,
+note as 5053, indicating
+octave5, pitchclass 5,
+pitchfield of the prototype
+andnameclass 3. Setnotethencalls procedure
+sethead,its successorin the
+chain. Since no special note-headinformation specified,setis
+procedure
+233
+
+-- -I
+An-notation-
+
+Output
+output
+c Meter signature:
+MO 0.0000
+1
+ii
+il
+il
+il
+il
+bi
+i2
+i2
+i2
+i2
+b2
+i3
+b3
+i3
+b3
+i4
+i4
+i4
+b4
+il
+il
+il
+il
+il.
+il
+il
+bl
+i2
+i2
+i2
+i2
+i2
+i2
+
+2
+0.0000
+0.2500
+0.3750
+0.5000
+0.8750
+1.0000
+0.0000
+0.5000
+0.6250
+0.7500
+1.0000
+0.0000
+1.0000
+1.0000
+2.0000
+0.0000
+0.2500
+0.7500
+1.0000
+1.0000
+1.1250
+1.2500
+1.3750
+1.5000
+1.6250
+1.7500
+2.0000
+1.0000
+1.1250
+1.2500
+1.5000
+1.6250
+1.7500
+
+4
+
+3
+0.2500
+0.3750
+0.5000
+0.8750
+1.0000
+0.5000
+0.6250
+0.7500
+1.0000
+1.0000
+2.0000
+0.2500
+0.7500
+1.0000
+1.1250
+1.2500
+1.3750
+1.5000
+1.6250
+1.7500
+2.0000
+1.1250
+1.2500
+1.SOOO
+1.6250
+1.7500
+2.0000
+
+/ 4 beats:.
+1.0000
+4
+1.0000
+1.2500
+1.3750
+1.5000
+1.8750
+2.0000
+1.0000
+1.5000
+1.6250
+1.7500
+2.0000
+1.0000
+2.0000
+2.0000
+3.0000
+1.0000
+1.2500
+1.7500
+2.0000
+2.0000
+2.1250
+2.2500
+2.3750
+2.5000
+2.6250
+2.7500
+3.0000
+2.0000
+2.1250
+2.2500
+2.5000
+2.6250
+2.7500
+
+1
+
+1
+
+7
+0
+0
+0
+0
+0
+
+8
+0
+0
+35
+3
+3
+
+9
+0
+0
+0
+0
+0
+
+1
+2
+0
+1
+
+0
+0
+3
+0
+
+0
+0
+0
+0
+
+10M <-1.
+-1
+-l
+2.
+80
+80
+3.
+80
+4.
+80
+80
+5.
+80
+80
+
+1 /1
+
+0
+
+0
+
+0
+
+-l1_
+
+1/1
+
+0
+
+0
+
+0
+
+1 /4
+1 /2
+1 /4
+
+0
+0
+0
+
+0
+3
+3
+
+0
+0
+0
+
+-1
+80
+80
+
+/8
+/8
+/8
+/8
+/8
+/8
+/4
+
+0
+0
+0
+0
+0
+0
+0
+
+3
+0
+0
+0
+0
+0
+0
+
+0
+1
+2
+1
+2
+0
+0
+
+80
+80
+80
+80
+80
+-1
+-1
+
+1 /8
+1 /8
+1/4
+1 /8
+1 /8
+1 /4
+
+2
+0
+0
+0
+0
+0
+
+0
+3
+0
+0
+0
+0
+
+0
+0
+1
+2
+0
+0
+
+80
+80
+80
+80
+-1
+
+_-
+
+-1
+
+/ 1 1 / 4
+
+5
+-1
+-1
+5053
+5063
+5031
+0
+4042
+4042
+4032
+4053
+0
+-1
+0
+-l
+0
+-1
+2000
+2095
+0
+5042
+5021
+5000
+4074
+4032
+-1
+-1
+0
+4053
+4032
+4011
+3106
+-1
+-1
+
+/ 4
+
+4; beatnote:
+
+-.
+
+6
+1
+1
+1
+3
+1
+
+/4
+/8
+/8
+/8
+/8
+
+1 /2
+1 /8
+1 /8
+
+1/
+
+4
+
+commen
+meter d
+
+Instrum
+
+t
+
+start
+
+end tim
+
+measure
+pitch
+
+(
+
+5 05 3
+
+III
+
+I
+
+6. duration
+
+1
+1
+1
+1
+1
+1
+1
+
+~-1
+
+7. tie cod
+0 - no
+n (any
+n4-1 (ne
+0
+ex.
+
+1
+
+8. articulat
+0 - no
+1 - '(sta
+2 - "(w
+3 - _(ten
+4>(
+5 -< (
+6 - ;(fe
+
+b2
+i4
+i4
+i4
+i4
+14
+b4
+il
+il
+il
+bl
+il
+il
+il
+il
+il
+bl
+il
+il
+il
+il
+bl
+il
+il
+il
+il
+ii
+bl
+12
+12
+i2
+i2
+i2
+b2
+
+2.0000
+1.0000
+1.2500
+1.5000
+1.6250
+1.7500
+2.0000
+2.0000
+2.3750
+2.5000
+3.0000
+3.0000
+3.1250
+3.2500
+3.3750
+3.5000
+4.0000
+4.0000
+4.5000
+4.5625
+4.6250
+5.0000
+5.0000
+5.1250
+5.3750
+5.5000
+5.8750
+6.0000
+2.0000
+2.1250
+2.2500
+2.7500
+2.8750
+3.0000
+
+1.2500
+1.5000
+1.6250
+1.7500
+2.0000
+2.3750
+2.5000
+3.0000
+3.1250
+3.2500
+3.3750
+3.5000
+4.0000
+4.5000
+4.5625
+4.6250
+5.0000
+5.1250
+5.3750
+5.5000
+5.8750
+6.0000
+2.1250
+2.2500
+2.7500
+2.8750
+3.0000
+
+3.0000
+2.0000
+2.2500
+2.5000
+2.6250
+2.7500
+3.0000
+3.0000
+3.3750
+3.5000
+4.0000
+4.0000
+4.1250
+4.2500
+4.3750
+4.5000
+5.0000
+5.0000
+5.5000
+5.5625
+5.6250
+6.0000
+6.0000
+6.1250
+6.3750
+6.5000
+6.8750
+7.0000
+3.0000
+3.1250
+3.2500
+3.7500
+3.8750
+4.0000
+
+0
+3063
+4021
+4116
+-1
+-1
+0
+4000
+3106
+4010
+0
+4000
+4021
+4032
+-1
+-1
+0
+-1
+4063
+4052
+4031
+0
+4031
+4042
+4031
+4042
+4031
+0
+-1
+3095
+3116
+3116
+3106
+0
+
+9. slur/phras
+
+/4
+/ 4
+/ 8
+/ 8
+/ 4
+
+0
+0
+0
+0
+0
+
+3
+3
+3
+0
+0
+
+0
+0
+0
+0
+0
+
+80
+80
+80
+-1
+-1
+
+3 / 8
+1 / 8
+1 / 2
+
+0
+0
+0
+
+3
+3
+0
+
+0
+0
+0
+
+80
+80
+80
+
+1
+1
+1
+1
+1
+
+/ 8
+/8
+/ 8
+/ 8
+/ 2
+
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+5
+0
+6
+0
+0
+
+6080
+-1
+7090
+-1
+-1
+
+1
+1
+1
+3
+
+/2
+/16
+/16
+/ 8
+
+0
+0
+0
+1
+
+0
+0
+0
+0
+
+0
+3
+0
+0
+
+-1
+90
+90
+90
+
+1
+1
+1
+3
+1
+
+/
+/
+/
+/
+/
+
+8
+4
+8
+8
+8
+
+2
+0
+0
+0
+0
+
+0
+3
+3
+3
+3
+
+4
+0
+0
+0
+0
+
+90
+90
+90
+90
+90
+
+1
+1
+1
+1
+1
+
+/ 8
+/ 8
+/ 2
+/ 8
+/8
+
+0
+0
+1
+2
+1
+
+0
+3
+0
+0
+0
+
+0
+0
+0
+0
+5
+
+-1
+80
+80
+80
+80
+
+1
+1
+1
+1
+1
+
+ex.
+
+13
+
+10. dynamics
+-1 - u
+0 - p
+10- p
+20 - p
+30 - p
+40- p
+50
+p
+60 - m
+70 - m
+80- f
+90 - ff
+100 - ff
+110 - ff
+120 - ff
+130 - ff
+special
+1000 2000 3000 4000 5000 6000 7000 8000 9000 -
+
+sf
+d
+c
+st
+e
+st
+en
+>
+O
+
+barline
+
+Partial
+Output From the DARMS Scan
+2 as Input Data (Annota
+Using
+Figure
+Figure 4
+
+of Encoding
+for Notes
+are not implemented
+in
+
+Order
+attributes
+
+Parenthesized
+
+short
+
+Open
+
+Beam,
+
+Space
+
+form
+
+the
+
+DARMS Scanner
+
+[(]
+
+Code
+
+Accidentals
+(Notehead
+
+type)
+
+Duration
+Tie
+(Stem
+
+Direction)
+
+(Tremolo)
+(Beam
+
+codes,
+
+long
+
+form)
+
+Articulation
+Dynamics
+
+(and
+
+other
+
+Dictionary
+
+Codes)
+
+(Ornaments)
+Slur
+(Fingering)
+(Figured
+Close
+
+Bass)
+Beam,
+
+short
+
+form
+
+[)]
+
+Figure 5
+
+236
+
+ordered
+according
+to relative
+proxto note-head,
+imity
+one first.
+closest
+
+head calls setdur. Setdur calls durcode and setdot, which determine that the
+note is an eighth-note. This information is stored in the duration field as the
+fraction 1/8. Setdur calls settie. Since no tie is coded, settie takes no action
+except to call setstem. No stem direction is specified, and setstem calls
+setartic. Setartic finds that the next character is a valid articulation code,
+so it calls articode to interpretand store the first articulation, a tenuto mark,
+re-coded as the integer 3, in the articulation field of the note. Since the next
+character in the buffer is also an articulation code, articode is called again
+and the up-bow, re-coded as 5, is concatenated to the previous articulation
+code as a second digit. Setchord is now called. Setchord sees the comma,
+possibly an indication of a simultaneous note (chord), so it calls the comma
+routine. Comma looks ahead again, finds the 'V' for volume, and calls
+procedure setdynamic, which interprets the dynamic level as forte and
+stores 80 in the prototype note's dynamic field. Setchord now calls writenote, the end of the procedure chain, and the note attributes are printed, the
+starttime is updated for the next note, and the nonpermanentattributearticulation is cancelled. The flow of control then falls back through the procedure chain to the point where the chain was entered and the process is
+repeated for the next note. If the first coded attribute of the next note were
+a duration code, the chain would be entered at procedure setdur, and the
+pitch information from the previous note would be unchanged.
+If the next character in the buffer is not appropriate for note attributes,
+the other possibilities are checked. Most other cases set or reset global attributes that affect calculation of note attributes. For example, if an exclamation point is found in the buffer, procedure exclamation is called. Since an
+exclamation point can signal many things in DARMS this procedure looks
+ahead to the next character and calls the appropriate routine to reset the
+clef, meter, or key signature, or to take other actions.
+The algorithms used in decoding DARMS often involve simple mapping
+into numeric values (for example the representation of the tenuto mark and
+up-bow as the integer 35, or the dynamic level on a numeric scale as discussed above). However, the translation of duration and pitch presents some
+interesting problems and will be illustrated below.
+Decoding DARMS duration codes proved to be unproblematic. (See
+Figure 8a.) Recall that we wish to translate each DARMS duration code into
+a fractional value. Initially we assume that the numerator will be 1. The denominator is set according to the Duration Code-8 for E, 4 for Q, and so
+forth. The value of variable dot is assigned half the duration of the note.
+If the duration code is followed by a dot, the fractional value for the dot
+is added to the duration, and the value of dot is halved. This process is repeated for any number of dots. In Figure 8a the duration code Q is followed
+by two dots. Thus the duration is 1/4 + 1/8 + 1/16, or 7/16.
+Beamed notes are almost as simple. (See Figure 8b.) Remember that the
+beginning and ends of beams are signified by left and right parenthesis, as
+237
+
+The Structure
+
+o
+00
+
+n
+0
+
+input'
+digit:
+
+_setcodc
+
+accidental:
+
+proc
+
+-setnotc
+
+notehead:
+
+(dummy
+. sethead
+
+-getcode_
+
+'i
+-accidental
+
+u
+
+t
+
+into
+
+of
+
+et
+
+a
+t
+t
+r
+i
+b
+
+DARMS
+
+entries
+
+(recursive
+
+case
+
+the
+
+of
+
+proc.)
+~getnotehead
+
+I
+
+I
+
+duration
+
+s
+
+code:-
+
+t
+
+I
+--
+
+setdur
+
+_durcode-I
+
+dot:
+
+tie:
+
+csetgroup
+
+_settie
+
+stem:
+
+s
+
+_setstem
+
+1
+articulation:
+
+(dummy procedure)
+,
+
+_setartic
+
+-setslur
+_articode
+
+_ -setdynamic
+chord--et
+setchord-
+
+I
+
+(rcocmma
+(recursive
+
+a
+
+'
+
+1
+
+--spacepat
+
+cwritenote
+
+9
+L
+
+--setclef
+
+4
+
+1
+b
+
+exclamation
+
+j
+i
+
+pt :---
+
+L
+
+t
+
+exclamation-
+
+-_setmeter
+--groupette
+- _-
+
+1
+j
+
+t
+r
+
+*I
+
+.
+
+set-ey
+
+-4newstart
+barline:
+
+(laye
+
+anewmeasure
+
+1b
+4
+
+4
+1
+
+parenthesis:
+e
+B _
+
+cparen
+
+rest:
+
+,setrest
+
+T
+
+I
+
+'&':
+
+blank:
+end
+
+arestart
+
+-skipblanks
+
+(*
+
+case
+
+(newlayer,
+
+linear
+
+de
+
+*)
+
+of
+Figure6. The Structrure the DARMSScan
+
+A note
+
+node:
+
+pitch
+
+starting
+
+8
+
+tie
+
+dur
+
+articulation
+
+dynamic
+
+time
+
+other
+
+attributes
+
+spacecode
+
+m
+
+____
+V
+
+f
+IG RQ RE 9E <,VF
+
+9#Q.
+
+input
+input^
+
+Figure7. Scanninga Note Coded in DARMS
+
+240
+
+I
+
+Codes
+
+Duration
+
+(a)
+
+Q..
+
+[
+=
+
++ 1/8
+
+1/4
+
+Calculation:
+duration
+code
+add 1st dot
+add 2nd dot
+
+=
+
+Duration
+
+Beams
+
+(b)
+
+(short
+
+code:
+
++ 1/16
+
+= 1/4
+= 1/4
+= 3/8
+
+dur
+dur
+dur
+
+:
+:
+:
+
+]
+
+*
+
+dot
+dot
+dot
+
++ 1/8
++ 1/16
+
+= 1/8
+= 1/16
+= 1/32
+
+7/16
+
+form)
+(
+
+(
+
+)
+
+(
+
+(
+
+)
+
+level:
+
+0
+
+1
+
+2
+
+1
+
+2
+
+3
+
+2
+
+1
+
+0
+
+duration:
+
+1/4
+
+1/8
+
+1/16
+
+1/8
+
+1/16
+
+1/32
+
+1/16
+
+1/8
+
+1/4
+
+(c)
+
+J
+
+Groupettes
+
+1) Groupette
+
+identifier:
+
+13Q7:H
+(three
+
+groupette[7]
+
+quarters
+
+1/2
+
+x
+
+time
+
+of
+
+one
+
+half)
+
+4/3
+
+3
+
+=
+
+in
+
+J
+
+3/4
+
+1/2
+
+=
+=
+
+2)
+
+J
+
+groupette
+
+constant
+
+7,
+
+3
+)3
+
+)
+J
+
+J.
+
+DARMS code:
+
+Q7
+
+Q.7
+
+Calculation:
+
+1/4
+
+Durations:
+
+1/6
+
+3) Notation:
+
+x 2/3
+
+3/8
+
+E7
+x 2/3
+
+1/4
+
+1/8
+
+x 2/3
+
+1/12
+
+Figure8. Decoding Rhythm
+
+241
+
+(-a) Octave Designation
+
+(b) Pitch
+
+[oct]
+
+(c)
+
+class
+
+Name class
+
+S Fla
+
+0
+
+[pc]
+
+[nc]
+
+01
+
+1
+
+2
+2
+
+8--J
+
+0
+
+1
+
+2
+
+3
+
+octave
+
+cnc :- (oct
+
+nc-scale:
+
+(d) The continuous
+4
+
+5
+O
+
+6
+
+7
+
+I
+!
+
+(e) Unpacking the continuous
+
+8
+
+x 7) + nc
+
+9 10 11 12 13 14 15 16 17 18 19 2
+octave
+nc-scale:
+
+II I
+
+1
+nc
+oct
+
+octave
+
+2
+
+:- cnc mod 7 (remaind
+:- cnc div 7 (integer
+
+(f)
+
+Mapping the space code into
+
+cnc:
+
+A
+
+(g) Table lookup gets
+scale
+
+P
+
+V
+
+?
+
+i--
+
+?T
+N1
+
+V-'-
+
+space code:
+clef constant:
+cnc:
+
+the
+
+25
++9
+34
+(B4]
+
+25
++3
+28
+
+25
+-3
+22
+
+[C41
+
+2 415 1
+21 4
+I
+
+[D3]
+
+pc :- scale[nc]
+
+for key signature
+
+(h) Adjusting
+AN
+
+and accidentals
+L-
+
+y_~~t--
+
+a*~SP
+
+^--lw --
+
+a
+
+adjust
+adjust
+28
+
+1o
+
+29
+
+I
+
+30
+
+31
+
+32
+
+33
+
+34
+
+pc, and nc into a cbr:
+
+Packing oct,
+
+br
+
+:- 10 x pc + nc
+
+36
+
+0 01 +1 +1-| -I-I-- -1 0 ! +2|
+I 0
+---modto
+:--(pc-I-at -pc := (pc + adjust[cnc])
+
+(i)
+
+35
+
+(binomial
+
+cbr :- 1000 x oct + br {continuous
+
+(j)
+
+representation
+binomial
+
+mod 12;
+
+rep.}
+
+}
+
+Unpa
+
+oct
+
+:- cb
+
+pc
+
+:- b
+
+t)
+
+Figure9. DecodingPitch
+
+we saw in Figure 1. The default note value (unbeamed) is set to 1/4. This
+is called level 0, to indicate absence of parentheses (or beams). Whenever
+a left parenthesis is encountered, the denominator of the default note value
+is multiplied by two and one is added to the level. When a right parenthesis
+is encountered the denominator is divided by 2 and the level is decremented
+by one. Thus the level is always equal to the number of beams and the default duration is correct. The values of dots are calculated as described
+above, and the terminal value of the parenthesis level, if non-zero, indicates
+unbalanced parentheses (an encoding error).
+In DARMS, groupettes must be defined before they occur in the score.
+(See Figure 8c.) The groupette definition shown at (1) indicates that three
+quarters will occur in the time usually taken by one half note. The integer
+7 just before the colon is the groupette identifier number. This groupette
+definition specifies a ratio that can be used to scale any duration that occurs
+as a subdivision of a two-beat triplet. The ratio, a constant, is calculated
+by dividing the normal duration by the duration that will replace it, as
+shown at (2). Thus the constant ratio for type 7 groupettes is 1/2 divided
+by 3/4, or 2/3. The actual groupette is encoded by following each duration
+by the groupette identifier number associated with the necessary ratio.
+Figure 8c-3 illustrates the process, using the groupette defined above. The
+illustration shows the music notation, the DARMS representation, the
+calculation, and the resulting fractional values. Note that the sum of the
+fractional durations is equal to 1/2.
+The algorithm for decoding DARMS pitch representations is slightly
+more complex. (See Figure 9.) Recall that the goal is to replace the context
+dependency of the DARMS representation with a numeric value that specifies each element of the pitch parameter: octave, pitch class, and spelling.
+We use standard octave designation, with octaves numbered successively
+from 0. (See Figure 9a.) Thus the range of the piano is from Ao to Cg, and
+the middle octave, often called the one-line octave, is octave 4. The pitch
+class (pc) is designated by an integer between 0 and 11,which specifies pitch
+but not spelling of the note. (See Figure 9b.) The spelling is designated by
+a name class or diatonic pitch class, as shown in Figure 9c. The name class
+(nc) indicates the generic name without the chromatic inflection. It is
+analogous to pitch class but it is within a modulo 7 system. Figure 9d shows
+the mapping of the name class and octave into a continuous scale, with one
+pitch number (cnc) representing each natural note in our notational system.
+The reverse mapping is shown at 9e.
+The system of space codes in DARMS is analogous to this continuously
+numbered natural scale, except that it is displaced by some constant integer
+value. The value of this constant is dependent on the clef, as shown at 9f.
+Thus the pitch number cnc is calculated by adding the clef constant to the
+
+244
+
+space code, and this number is decoded into its octave and name-class components by taking the cnc mod 7 and div 7 respectively. The pitch class is
+found by a table-lookup, or array reference, as shown at Figure 9g. The
+array, called scale, is indexed by the name classes 0-6 and contains the
+pitch class corresponding to each of these pitches in the natural scale. This
+pitch class must now be adjusted for accidentals and key signatures. This
+is accomplished through the use of an array called adjust, which is indexed
+by the elements of the continuous name-class scale and contains the adjustment to the pitch class for each note in the scale, as shown in Figure 9h.
+The adjustment is +1 for a sharp, -1 for a flat, +2 for a double sharp, 0
+for a naturalnote, -2 for a double flat, and so forth. The values in this array
+are initially set to correspond to the key signature. Thus in the example the
+F-sharp in the signature results in a +1 in each position representing an F
+(that is positions 3, 10, 17, 24, 31, 38, and so forth). Accidentals with
+specific notes change the adjustment for only one element, for example, the
+B-flat in the example results in an adjustment of -1 to the pitch class for
+note 34 (B4) but not any other B. The array is reset to reflect the key signature when a barline is encountered in the code. Thus accidentals remain in
+effect until cancelled by a barline or another accidental.
+The mapping of the octave, pitch class, and name class into a single
+number (cbr) is shown at 9i. This number is decoded easily, as shown at
+9j, and saves space since three attributes of pitch are stored in one memory
+location.
+In its current state the scanner deals correctly with any type of key and
+meter signature, all clefs (movable), articulations, dynamics, ties, slurs,
+chords (in a number of different coding schemes), multiple layers within
+parts, all duration codes and beamed notes, simple and nested groupettes,
+accidentals, rests, and various types of barlines. The program was designed
+to be easily extended to other aspects of DARMS code.
+Linked Data Structures. Before discussing our data structure for representing scores, I will explain linked data structures and some of their advantages for our application; without some notion of what a linked structure
+is, the rest of the paper will be difficult to follow."l
+Figure 10 illustrates two common methods of allocating storage in the
+computer memory. Each part of the figure shows a different method of storing an ordered list of items (what these items represent is not important for
+now.) At lOathe list of items is stored in an array called list. Each box represents one storage location in the computer memory. Items in the list are
+accessed by referring to the name of the array and a subscript giving the
+position in the array. Here item 1 is stored in list[OJ, item 2 is stored in
+list[l], and so on. Since arrays use contiguous storage locations, this is
+called sequential storage allocation. Each time an array element is refer-
+
+245
+
+(a)
+
+An array
+
+list
+
+?2
+
+11
+
+0
+
+item
+
+1
+
+item
+
+2
+
+item
+
+4
+?
+
+3
+?
+4
+
+item
+
+3
+
+6
+
+?5
+item
+
+)
+
+5
+
+list[2]
+reference:
+
+listCij
+where
+
+i
+
+is the subscript
+number
+(element
+
+(c)
+(b)
+
+in
+
+the
+
+array)
+
+a new node
+
+Inserting
+
+P
+
+-
+
+link
+
+itm
+
+121
+--item
+
+(d)
+
+- o item
+
+(data
+(link
+
+p^.data
+p^.link
+p is
+
+of
+of
+
+a pointer
+
+3
+
+lists
+
+two
+
+Concatenating
+
+where
+
+?
+
+\
+
+-~item
+
+4
+
+-item
+
+-
+
+-item
+
+-
+
+y
+
+p)
+p)
+to
+
+a node
+
+and LinkedStorageAllocation
+Figure10. Sequential
+
+246
+
+p
+
+/
+
+..------xl-
+
+list2--item
+
+reference:
+
+node
+
+list
+
+A linked
+data
+
+first
+
+after
+
+it
+
+5
+
+1
+
+enced, the computer must calculate the address of the desired element (that
+is, the ordinal position of the storage location in memory). Since the first
+subscript of the arrayis zero here, the address is found by adding the integer
+subscript to the address of the first element in the array.
+Example lOb shows the same list of items stored in a simple linked list.
+A linked data structure contains data objects called nodes. Nodes have various fields for storing data and pointers (or links) to other nodes. In our
+simple list, each node has two fields, called data and link. The data field
+contains an item and the link field contains the address in the computer
+memory of the next node. The links, or pointers, are shown as arrows in
+the diagram. The pointer variablefirst contains the address of the first node
+in the list and thus points to the beginning of the list; the link field of the
+last node contains a nil pointer, that is, it doesn't point to anything. Values
+are accessed for any node, say the one pointed to by p, by referring to
+p^ .data or p^ . link (read "dataof p" and "link of p"). Because the nodes do
+not necessarily occupy continguous storage locations, but rather are linked
+together by the address fields (pointers), this is called linked storage
+allocation.
+Both types of data structures have advantages and disadvantages, and
+each is suitable in different applications. For a list of items of fixed length,
+an arraywill take less storage space since each link field in the linked structure requires an extra storage location. However, the size of arrays must be
+declared before the program is compiled; thus its size cannot be changed
+while the program is running. Linked data structures are dynamic, that is,
+storage space for nodes can be allocated and released as needed, and the
+size of the structure can change during program execution. Thus if the
+number of items to be stored will vary but may be large, the linked list may
+actually use less memory. Suppose, for example, that the maximum number
+of items expected in the list is 1000. The array will have to occupy 1000
+storage locations even if only a few are actually being used, while we can
+allocate just as much or as little memory as is needed for the linked
+structure.
+Accessing an arbitrary item is more efficient in the array since it can be
+located in a fixed amount of time by calculation; in the linked list the same
+item can only be reached by entering the list at the beginning and stepping
+through (or traversing) the list until the desired node is found.
+Inserting a new value within a list is more efficient in the linked representation than in the sequential one. Suppose we wish to insert a new item
+between item 2 and item 3 in Figure 10. In the array, items 3 through the
+last will have to be moved to the right in reverse order, one at a time, to
+make room. In the linked list, we need only obtain a new node and insert
+it into the list by resetting two pointers. (Figure lOc.) Items can also be
+deleted more efficiently in the linked list, since we only have to reset one
+pointer, rather than shifting many items.
+247
+
+The linkedstructure has a tremendous
+also
+whenconcatenatadvantage
+two lists. Linkedlists can be joined by settingthe link field at the end
+ing
+of the firstlist to pointto the firstnode of the secondlist. (Figure10d.)To
+concatenate lists storedin arrays,each item from one arraymust be
+two
+copied into the second array.
+The linkeddatastructure not limitedto simpleordered of the type
+is
+lists
+shownabove.Nodes mayhavemorethanone link field and maybe linked
+A
+togetherin many differentconfigurations. few examplesare shown in
+11.Figure lla showsa circularlinkedlist, or ring,withthe last node
+Figure
+pointingback to the first. It may be convenientto treatthe list as a conif
+and
+tinuum,with no beginning no end. However, we use this list to repreto
+sent an orderedlist of valuesit is convenient keep a pointerto the end,
+accessto the end of the list through
+as shownhere.Thuswe haveimmediate
+the
+the variable andto the beginning
+ptr,
+through link fieldof the last node.
+list.
+Figure llb showsa doubly-linked Each node has two pointers,one to
+the next node and one to the previousnode in the list. This list can be
+circularlist
+in
+traversed eitherdirection.Figure llc showsa doubly-linked
+makesextensiveuse of this
+witha headnode. Sinceour scoredatastructure
+detailshortly.Figurelid is a more
+type of list it will be describedin greater
+of
+and lie is a linkedrepresentation a binarytree.
+structure,
+complexring
+A node in a list is not limitedto one datafield. It typicallyhas several
+to
+information
+fieldsfor different
+relating the dataobjectbeing represented.
+a
+For example,a node representing note may havedatafields to represent
+and
+pitch, duration,dynamiclevel, articulation, so on.
+to
+can
+The linkeddatastructure easily be adapted more intricatestructures. It is possibleto havea variablenumberof variablelengthlists, any
+nodecan be the starting
+pointfor another
+list, andnodescan be linkedinto
+Thus it is possible to design data
+several differentlists simultaneously.
+the
+that
+structures not only containvaluesfor databut that also represent
+betweenvariousdataitems. A note
+of
+structure the dataand relationships
+in a score may havea melodicand a harmonicfunctionat the same time;
+both functions.
+can
+a linked structure represent
+are
+Linkedstructures commonlyused to represent
+sparsematrices.A
+of
+matrixis a matrixin whicha good majority the storagelocations
+sparse
+are empty.Figure12 showsan 11by 12 matrix.The matrixis sparsesince
+out of 132possiblevaluesonly five actuallyoccurin the matrix(the absent
+of
+values are represented zeroes). A linked representation this matrix
+by
+would represent
+only the non-zerovalues and their locations.
+scores for comA
+TheScoreStructure. majorproblemin representing
+is that the textureis often variable.One part may have
+puterprocessing
+248
+
+(a)
+
+(b)
+
+head
+
+(c)
+
+(d)
+
+--t I
+ig--
+
+left-
+
+ptr
+
+ir_7
+i4
+
+JTJ
+
+?4-7-
+
+I
+
+i
+
+I
+
+right
+
+node
+
+t_
+
+I
+
+_C3_=
+
+-
+
+I I
+
+1
+
+1
+
+p
+(e)
+
+1
+
+-
+
+Figure 11. Some Linked Data Structures
+
+249
+
+A Sparse
+
+Matrix
+0,
+
+0,
+
+0,
+
+0
+
+0,
+
+0,
+
+0,
+
+0,
+
+0
+
+,
+
+40,
+
+0,
+
+0,
+
+0
+
+0,
+
+0
+
+0,
+
+0,
+
+0
+
+0,
+
+0,
+
+0
+
+,
+
+0,
+
+0
+
+0,
+
+0,
+
+0,
+
+0
+
+0,
+
+0,
+
+0,
+
+0,
+
+0
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0
+
+99,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0
+
+0,
+
+0,
+
+2,
+
+0,
+
+0,
+
+0,
+
+0,,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,0,,
+
+0,
+
+0,0, ,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+19,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+7,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+
+0,
+,
+
+0,
+
+,0,
+
+Figure 12
+
+250
+
+0,
+
+,0,
+
+0,
+
+manynotes, while othershavefew or none at all, andpartsmaydivideand
+subdivide.In addition,it is desirableto maintain
+betweenevents
+alignment
+thatoccur at the same time in all parts.Thus a linkedrepresentation a
+of
+scores.
+sparsematrixis a logical choice for representing
+Our data structure based on circulardoubly-linked
+is
+lists of the type
+shownin Figure13.In additionto variousfieldsfor data,each nodehas two
+link fields, rlinklinkingin the forward
+directionand llink in the backward
+direction.Eachlist has a headnode whichpointsto the beginningandend
+of the list as shownin Figure13a.If the list is empty,as in Figure13b,the
+forward backward
+and
+linkspointbackto the headnode;thusthe list is circular even when empty.
+This structure be traversed eitherdirectionwith equalease, with
+can
+in
+the headnodemarking beginning end of the list. Insertion simplithe
+and
+is
+fied since there are no special cases: the same algorithminsertsnodes at
+the beginning,middle, or end of the list, even if the list is empty. (See
+Figure 13c.)
+Our score representation a doubly-linked structure
+is
+ring
+consistingof
+instancesof the circularlist describedabove.'2 simpliA
+manyinterlocking
+fied diagramof the links in the data structure shownin Figure 14. The
+is
+is
+spineof the datastructure a time-linefor the score, with each node containingthe time when one or moreeventsoccur. Eachspine node contains
+information link fieldsto connectit to notesin the part.Fields
+and
+temporal
+in each notenodecontainall otherattributes the notecodedas described
+of
+above.Bidirectional
+horizontal
+links, shownin Figure14b,enableus to traversethe time-lineor any partor layerin eitherdirection,movingforward
+or backward the score at will. Start-time
+in
+links (shownat 14c) link togetherall eventsthatbegin at any given time. This list is also circularand
+doubly-linked,with the spine node acting as the head node for the list.
+all
+at
+Stop-timelinks concatenate events that terminate any given time as
+shown at 14d. The startand stop-timelinks allow us to examinevertical
+structure to moveeitherup or downin the score, crossingpartsor traand
+chordalstructures one voice. Non-noteevents,such as bar-lines,
+in
+versing
+metersignatures,
+rehearsal
+tempoindications,
+marks,andso forth,arealso
+linkedto the spine as shownat 14e. Althoughthe diagrams
+showeach type
+of link separately,they exist simultaneously.Together,they allow an
+to
+analysisprogram moveaboutin the scorein anymanner
+desired,looking
+back or ahead at will, combininghorizontaland vertical motion in any
+manner
+This makesit possibleto evaluate
+contextto a degreethat
+required.
+is difficultto achievewhen dealing with one-dimensional
+representations
+such as strings.
+Procedure
+buildconstructs scoredatastructure,
+the
+usingthe outputfile
+fromthe DARMSScanner.(See Figure4.) Since the procedure
+takesnotes
+andothersymbolsin anyorderand linksthemintothe datastructure the
+in
+correctposition,the algorithm be thought as a two-dimensional
+can
+of
+sort251
+
+(a)
+
+A list
+
+three
+
+with
+
+nodes
+
+llink
+
+rlink
+
+(3)
+
+(2)
+
+(1)
+
+(b)
+
+data
+
+An empty
+
+list
+
+p
+(head
+
+(
+(c)
+
+Procedure
+
+insert
+
+node)
+
+T-1
+
+places
+
+node
+
+q after
+
+node
+
+t.
+
+(head
+
+node)
+
+of list
+node q at beginning
+{ inserts
+node q at end of list
+p
+{ inserts
+treatment
+no special
+list
+require
+
+p }
+}
+
+p
+: ptr);
+insert(q,t
+procedure
+node q after
+{ insert
+begin
+:= t;
+q^.llink
+:= t^.rlink;
+q^.rlink
+:= q;
+t^.rlink^.llink
+:q q
+t^.rlink
+node q after
+insert
+end;
+{
+
+node
+
+t
+
+}
+
+tI
+node
+
+t
+
+}
+
+q
+* insert(q,p)
+* insert(q,p^.llink)
+on empty
+* operations
+
+CircularList with Head Node
+Figure13. A Doubly-Linked
+
+252
+
+ing process which places each note in the vertical and horizontal
+dimension.
+with its own time-lineand
+Initiallyeach partis constructed
+separately,
+its own linkedlist of note nodes. The datastructure accessedthrough
+is
+an
+arrayof pointerscalled instr. (See Figure 15.)Instr is an arrayof records,
+with two pointersfor each part.Foranyparti, instr[i].spointsto the spine
+(or time-line),andinstr[i].ppointsto the notenodes for the part.The array
+is initializedby obtainingtwo head nodes for each partand pointingthe
+spineandpartpointersto them. Since the lists are empty,the left and right
+link fields on each head node point back to the head node.
+As each note is read,a note node is obtainedfromthe storageallocation
+of
+procedure,and the coded attributes the note are stored in appropriate
+fields.The time-linein the spinenode is allocatedandlinkedintothe spine.
+The note node is then linkedverticallyinto the start-time on the spine
+list
+node, and horizontallyinto the part'snote list. The note is also linked,
+time. This node
+throughthe stop field, to a spine node at its termination
+may also have to be allocatedand linked into the spine. Barlines,meter
+and
+signatures, the like are linkedinto the spine but not into the note list.
+At this pointeach note is placedin the correctpartin the correcttemporal
+position, but the variousparts are still not aligned vertically.Figure 16
+showsthe datastructure this stage,usingthe simplescorefromFigure14.
+at
+Finally,the spinesare mergedinto a single time-lineusingthe spine for
+in
+part0. This process is illustrated Figure 17.At 17athe spine for part 1
+has been mergedwith that for part0, and the spine for part2 is separate.
+To simplify the diagramthe circularlinks are omitted, as are the head
+nodes, stop-time
+links, andspecifictime information.
+Spinenodesareidentified by capitalletters, note nodes are numbered,and special nodes are
+labeled with lower case letters. For convenience,the nodes are drawnin
+temporalorderwith time movingfrom left to right. Spine 2 will now be
+mergedinto spine 0. In the mergingprocesseach node in spine 2 is comparedto nodes in spine 0. If each spine has a node at the same time, spine
+2's circularlists for starttimes, stop times, and special eventsare concatenatedto the lists for spine 0, and the spine node fromspine 2 is returned
+to the storage
+time slices, where
+pool. This is the case in the firstandfourth
+nodesD andF duplicate
+actiontimes in nodesA and C in the spinefor part
+0. If the time of the node in spine 2 does not occur in spine 0, the node is
+linked into spine 0 at the correct temporalposition. When the merging
+processis completethereis only one time-line,with one node for each action time in the score, and all notes thatbegin or end at the same time are
+linked togetherthroughthe startand stop fields, as shown at 17b.
+Twospecialcases havenot been discussed.(See Figure18.)First, when
+the individual
+it
+partsareconstructed, is possibleto havetwo or morenotes
+in one partwith the same startingtime. This is the case when chordsare
+coded using any of severalschemesavailablein DARMS.If a spine node
+253
+
+*^P>
+
+~
+
+(a)
+
+The Score
+4
+
+part
+
+1:
+
+4
+
+part
+
+3:
+
+4
+
+part
+
+(b) Horizontal
+
+J
+
+44
+
+part
+
+1-o
+
+part
+
+0.00
+
+3
+
+head
+
+2i
+
+part
+
+Start-time
+spine
+
+part
+
+a
+
+J
+
+links
+head
+
+spine--
+
+(c)
+
+:
+
+0
+
+head
+
+links
+hea
+
+0.00
+
+dJ
+
+l-1 r head
+
+oI
+
+50
+
+part
+
+2
+
+ha
+
+part
+
+3-
+
+head
+
+(d) Stop-time
+spine -
+
+A
+
+<?}-?cr1-
+
+heai
+
+1-.|
+
+head _
+
+part
+
+2-
+
+head
+
+part
+
+3~-
+
+Special
+
+links
+(meter)
+
+spine
+
+tn
+
+.I
+
+links
+
+part
+
+(e)
+
+,I .1i
+
+he00 3
+
+404.
+
+0.25
+
+1
+
+1 0.50
+
+|
+
+Figure14. Links for a Simple Score Segment
+
+instr
+0
+spine
+part
+
+--
+
+head
+
+spine
+
+part
+spine
+
+--1head?
+
+spine
+
+he
+
+part
+
+head
+
+4
+instr[i].s
+
+points
+
+to
+
+the
+
+spine
+
+for
+
+instrument
+
+i
+
+instr[i].p
+
+points
+
+to
+
+the
+
+part
+
+for
+
+instrument
+
+i
+
+Figure15. The ArrayINSTRAfter Initialization
+
+256
+
+instr
+
+44
+
+1 (meter)
+
+--upL
+
+0o
+spine
+
+--
+
+head
+-I-
+
+--
+
+head
+
+--
+
+, head
+
+L
+
+part
+1
+
+'
+spine
+
+(stop
+
+time)
+
+part
+
+2
+spine5
+part
+part
+3
+
+spine
+part
+
+.
+-
+
+head
+
+0
+
+.25
+
+.5
+
+.
+
+head
+
+41
+
+Figure 16. Partially Constructed Data Structure for the Score Segment
+Shown in Figure 14
+
+257
+
+Figure 17. MergingSpines
+
+258
+
+Chords
+
+(a)
+
+0|
+
+I|
+
+J
+
+i
+
+J
+
+spine
+part
+
+(b)
+
+Layers
+
+L4J~~~~4
+C
+
+I
+
+I
+
+1-t
+
+r
+
+spine
+part
+
+-
+
+Figure 18. Links for Chordal Structures and Layers
+
+259
+
+Bart6k's
+part
+1
+2
+3
+4
+1
+4
+1
+1
+2
+2
+2
+4
+1
+1
+2
+3
+4
+1
+2
+1
+2
+4
+1
+1
+2
+4
+
+4th String
+(Segmentation
+start
+0.0000
+0.0000
+0.0000
+0.0000
+0.2500
+0.2500
+0.3750
+0.5000
+0.5000
+0.6250
+0.7500
+0.7500
+0.8750
+1.0000
+1.0000
+1.0000
+1.0000
+1.1250
+1.1250
+1.2500
+1.2500
+1.2500
+1.3750
+1.5000
+
+1.5000
+1.5000
+
+Sfop
+0.2500
+0.5000
+1.0000
+0.2500
+0.3750
+0.7500
+0.5000
+0.8750
+0.6250
+0.7500
+1.0000
+1.0000
+1.0000
+1.1250
+1.1250
+2.0000
+1.2500
+1.2500
+1.2500
+1.3750
+1.5000
+1.5000
+1.5000
+1.6b25
+1.6250
+1.6250
+
+Quartet
+by Start
+meas
+1.0000
+1.0000
+1.0000
+1.0000
+1.2500
+1.2500
+1.3750
+1.5000
+1.5000
+1.6250
+1.7500
+1.7500
+1.8750
+2.0000
+2.0000
+2.0000
+2.0000
+2.1250
+2.1250
+2.2500
+2.2500
+2.2500
+2.3750
+Z . WOd
+
+2.5000
+2.5000
+
+Traversed
+M
+Time,
+
+pitch
+rest
+E4
+rest
+rest
+rest
+C2
+F5
+F#5
+E4
+Eb4
+F4
+A2
+D#5
+E5
+F4
+rest
+F#3
+D5
+Eb4
+C5
+Db4
+D4
+G4
+
+dur
+
+1/4
+1/2
+1/1
+1/4
+1/8
+1/2
+1/8
+3/8
+1/8
+1/8
+1/4
+1/4
+1/8
+1/8
+1/8
+1/1
+1/4
+1/8
+1/8
+1/8
+1/4
+1/4
+1/8
+_ z -~~~~~
+w
+0D4
+1/8
+Bb3
+1/8
+B4
+1/8
+
+e
+
+ttW
+
+1
+2
+4
+1
+2
+4
+1
+2
+3
+4
+2
+2
+1
+1
+3
+3
+2
+3
+2
+3
+
+1.6250
+1.6250
+1.6250
+1.7500
+1.7500
+1.7500
+2.0000
+2.0000
+2.0000
+2.0000
+2.1250
+2.2500
+2.3750
+2.5000
+2.5000
+2.6250
+2.7500
+2.7500
+2.8750
+2.8750
+
+1.7500
+1.7500
+1.7500
+2.0000
+2.0000
+2.0000
+2.3750
+2.1250
+2.5000
+3.0000
+2.2500
+2.7500
+2.5000
+3.0000
+2.6250
+2.7500
+2.8750
+2.8750
+3.0000
+3.0000
+
+2.6250
+2.6250
+2.6250
+2.7500
+2.7500
+2.7500
+3.0000
+3.0000
+3.0000
+3.0000
+3.1250
+3.2500
+3.3750
+3.5000
+3.5000
+3.6250
+3.7500
+3.7500
+3.8750
+3.8750
+
+rest
+rest
+rest
+rest
+rest
+rest
+C4
+rest
+rest
+rest
+A3
+B3
+Bb3
+C#4
+rest
+Ab3
+B3
+Bb3
+Bb3
+A3
+
+Figure 19a
+
+tN
+
+?,
+
+1/8
+1/8
+1/8
+1/4
+1/4
+1/4
+3/8
+1/8
+1/2
+1/1
+1/8
+1/2
+1/8
+1/2
+1/8
+1/8
+1/8
+1/8
+1/8
+1/8
+
+0
+
+0
+1
+0
+0
+0
+2
+0
+1
+1
+
+alreadyexists for a new note'sstarttime, the new note is not linkeddirectly
+intothe partlist, but is linkedintothe start-time of the spinenode, and
+list
+thusoccursjust "below" othernote in the datastructure.
+the
+This situation
+in
+is illustrated Figure 18a.
+The second special case occurs when parts are coded in layersusing
+linear decomposition
+mode. Our solutionhere is to use a sepaDARMS's
+ratepartand spine to link up the new layer,and then to mergethese lists
+with the mainones for the part. In this case each layeris linkedfrom left
+to rightas shownin Figure18b.Chordscan occurwithinlayers,and many
+layersmay exist in a part.
+The personusing this systemdefinesthe arrayof pointersto the data
+that
+to
+and
+structure passes them as a parameter a libraryprocedure reads
+and
+the outputfile fromthe DARMSinterpreter buildsthe linkedstructure.
+used to build the data
+has
+The programmer access to all of the procedures
+so
+structure, linkscan be reset, nodesadded,and so forth.Thusit is feasilinearanalyses,
+ble, at leastin principle,to use additional
+partsto construct
+and
+for example,perhapsusing new parts for middleground background
+on
+otherstructures this
+It
+structures. wouldalso be possibleto superimpose
+with pointersto variousnodes in the
+one. For example,a tree structure
+divisions.
+time-lineor partscould indicatehierarchical
+is
+The representation sufficientlygeneraland completeto be useful in
+manydifferentanalytictasks in variousstyles of music. We have experiharmonic
+that
+mentedwith algorithms do diversetaskssuch as elementary
+analysis,locationof subjectentriesin fugues, andpitch-classset-typesegof
+mentation twentieth
+simpleapplicenturymusic.Figures19-22 illustrate
+above.In eachcase the datais the sameBarcationsof the systemdescribed
+t6k Quartetsegmentthat we saw in Figures2-4.
+of
+traversals the score. The prodifferent
+Figure 19aand 19billustrate
+the spine, printingout vertical
+first traversesthe structure
+through
+gram
+out
+each partseparately,
+printing
+segmentsby attacktime. It then traverses
+each noteor eventin order.Thesetwo traversals
+yield verticalandhorizonof
+tal segmentations the score-a majorfunctionof the DARMSCanonThe
+izer.'3 tablesarealso helpfulfor checkingthe encodedscore, since they
+are easier to readthan DARMSinputcodes.14
+that
+program does segFigures20 and21 are outputfroman interactive
+The user can specify segmentation
+music.'5
+of
+mentation twentieth
+century
+by rests, slurs, dynamics,register,and so forth.Shownhere are segmentation of portionsof the Bart6kexcerptby rests and slurs, with imbricated
+of
+subsets identified.16
+Figure 22 shows vertical segmentation the same
+excerpt.Due to use of the systemdescribedaboveand pc-set identifying
+proceduresthat I had written previously,relativelylittle new code was
+to
+required producethese results.
+As presented
+largescores
+here, the systemobviouslycannotmanipulate
+thatdo not fit in the computer
+memory.It is possibleto storea representa262
+
+Bart6k s 4th String Quar
+Traversed
+Throuah Part 1 (measu
+part
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0%
+
+start
+
+stop
+
+meas
+
+~pi-"t c h
+
+-dur-
+
+0.0000
+
+0.2500
+
+0.2500
+0.3750
+0.5000
+0.8750
+1.0000
+1.1250
+1.2500
+1.3750
+1.5000
+1.6250
+1.7500
+2.0000
+2.3750
+2.5000
+3.0000
+3.1250
+3.2500
+3.3750
+3.5000
+4.0000
+4.5000
+4.5625
+4.6250
+5.0000
+5.1250
+5.3750
+5.5000
+5.8750
+
+1.0000
+
+rest
+
+0.3750
+0.5000
+0.8750
+1.0000
+1.1250
+1.2500
+1.3750
+1.5000
+1.6250
+1.7500
+2.0000
+2.3750
+2.5000
+3.0000
+3.1250
+3.2500
+3.3750
+3.5000
+4.0000
+4.5000
+4.5625
+4.6250
+5.0000
+5.1250
+5.3750
+5.5000
+5.8750
+6.0000
+
+1.2500
+1.3750
+1.5000
+1.8750
+2.0000
+2.1250
+2.2500
+2.3750
+2.5000
+2.6250
+2.7500
+3.0000
+3.3750
+3.5000
+4.0000
+4.1250
+4.2500
+4.3750
+4.5000
+5.0000
+5.5000
+5.5625
+5.6250
+6.0000
+6.1250
+6.3750
+6.5000
+6.8750
+
+rest
+F5
+F#5
+D#5
+ES
+D5
+Cs
+G4
+Eb4
+rest
+rest
+C4
+Bb3
+C#4
+C4
+D4
+Eb4
+rest
+rest
+rest
+F#4
+E#4
+D#4
+D$4
+E4
+D#4
+E4
+D*4
+
+1/4
+
+Figure 19b
+
+1/8
+1/8
+3/8
+1/8
+1/8
+1/8
+1/8
+1/8
+1/8
+1/8
+1/4
+3/8
+1/8
+1/2
+1/8
+1/8
+1/8
+1/8
+1/2
+1/2
+1/16
+1/16
+3/8
+1/8
+1/4
+1/8
+3/8
+1/8
+
+tie0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+1
+2
+0
+0
+0
+0
+
+Bart6k's
+part
+1
+
+1
+
+2
+
+measure
+1.375-2.625
+
+3.000-4.375
+
+1.000-2.625
+
+2
+
+3.125-4.375
+
+3
+
+3.625-4.375
+
+4
+
+1.250-2.625
+
+264
+
+Segmentation
+by Rests of
+1 - 4)
+4th Quartet
+(measures
+segment
+56342073
+5634207
+563420
+634207
+56342
+63420
+34207
+42073
+5634
+6342
+3420
+4207
+2073
+563
+634
+342
+420
+207
+073
+0A1023
+OA1 23
+A1023
+0A1 2
+A102
+1023
+OA1
+A10
+102
+023
+43531A
+435 1A
+435 1
+35 1A
+531A
+435
+35 1
+531
+31A
+9BAB
+9BA
+8A90
+8A90
+8A9
+A90
+0962B
+0962B
+0962
+962B
+096
+962
+62B
+
+set
+name
+
+prime
+form
+
+ic
+vector
+
+7-2
+6-2
+6-z10
+5-1
+5-8
+5-11
+5-11
+4-1
+4-2
+4-2
+4-22
+4-14
+3-2
+3-2
+3-1
+3-6
+3-9
+3-11
+
+0123457
+012346
+013457
+01234
+02346
+02347
+02347
+0123
+0124
+0124
+0247
+0237
+013
+013
+012
+024
+027
+037
+
+554331
+443211
+333321
+432100
+232201
+222220
+222220
+321000
+221100
+221100
+021120
+111120
+111000
+111000
+210000
+020100
+010020
+001110
+
+5-2
+5-2
+4-2
+4-2
+4-1
+3-2
+3-2
+3-1
+3-2
+
+01235
+01235
+0124
+0124
+0123
+013
+013
+012
+013
+
+332110
+332110
+221100
+221100
+321000
+111000
+111000
+210000
+111000
+
+5-z36
+4-2
+4-22
+4-22
+3-1
+3-6
+3-6
+3-7
+
+01247
+0124
+0247
+0247
+012
+024
+024
+025
+
+222121
+221100
+021120
+021120
+210000
+020100
+020100
+011010
+
+3-1
+
+012
+
+210000
+
+4-2
+3-1
+3-2
+
+0124
+012
+013
+
+221100
+210000
+111000
+
+5-25
+4-27
+4-26
+3-10
+3-11
+3-11
+
+02358
+0258
+0358
+036
+037
+037
+
+123121
+012111
+012120
+002001
+001110
+001110
+
+Figure20
+
+Bart6k's
+
+part
+
+measure
+
+1
+
+4.000-4.250
+
+1
+
+5.500-6.000
+
+2
+
+5.375-6.000
+
+3
+
+5.125-6.000
+
+4
+
+4.875-6.000
+
+Segmentation
+4th Quartet
+
+segment
+
+by
+
+of
+Slurs
+(measures
+
+set
+name
+name
+
+023
+023
+653
+653
+542
+542
+431
+431
+320
+320
+
+4 -
+
+prime
+frm
+form
+
+6)
+1C
+ecr
+
+vector
+
+3-2
+
+013
+
+111000
+
+3-2
+
+013
+
+111000
+
+3-2
+
+013
+
+111000
+
+3-2
+
+013
+
+111000
+
+3-2
+
+013
+
+111000
+
+Figure21
+
+265
+
+of
+Vertical
+Segmentation
+1 - 6)
+4th Quartet
+(measures
+ic-vector
+prime torm
+set name
+jc-set
+
+Bart6k's
+measure
+1.000
+1.250
+1.375
+1.500
+1.625
+1.750
+1.875
+2.000
+2.125
+2.250
+2.375
+2.500
+2.625
+2.750
+3.000
+3.125
+3.250
+3.375
+3.500
+3.625
+3.750
+3.875
+4.000
+4.125
+4.250
+4.375
+4.500
+4.750
+4.875
+5.000
+5.125
+5.250
+5.375
+5.438
+5.500
+5.563
+5.625
+6.000
+6.125
+6.250
+6.375
+6.500
+6.625
+6.750
+6.875
+
+4
+0 4
+0 4 5
+0 46
+0 3 6
+5 69
+3 59
+4 5 6
+2 3 6
+0 1 2
+1 2 7
+A B 3
+null
+null
+0
+9 0
+B 0
+A B
+B 1
+8 B 1
+A B 1
+9 A 1
+9 A 0
+9 B 2
+B 03
+null
+null
+null
+3
+2
+0 4
+0 3
+0 1 5
+0 1 4
+0 1 2
+0 1 2
+0 1 2
+0 1 2
+A 02
+A 02
+A 0 2
+A 0 1
+B 0 2
+A 1 2
+A 0 2
+
+* Pc-set
+
+6
+5
+3
+3
+4
+4
+3
+4
+4
+4
+3
+
+given
+
+0
+0 4
+0 1 5
+0 26
+0 3 6
+0 14
+0 26
+0 1 2
+0 1 4
+0 1 2
+0 1 6
+0 1 5
+null
+null
+0
+0 3
+0 1
+0 1
+0 2
+0 2 5
+0 1 3
+0 1 4
+0 1 3
+0 2 5
+0 14
+null
+null
+null
+0
+0
+0 4
+0 3
+0 1 5
+0 1 4
+0 1 2 6
+0 1 2 5
+0 1 2 3
+0 1 2 3
+0 24 6
+0 2 46
+0 1 3 5
+0 23 6
+0 1 3 5
+0 2 3 6
+0 1 3 5
+
+1-1
+2-4
+3-4
+3-8
+3-10
+3-3
+3-8
+3-1
+3-3
+3-1
+3-5
+3-4
+0-1
+0-1
+1-1
+2-3
+2-1
+2-1
+2-2
+3-7
+3-2
+3-3
+3-2
+3-7
+3-3
+0-1
+0-1
+0-1
+1-1
+1-1
+2-4
+2-3
+3-4
+3-3
+4-5
+4-4
+4-1
+4-1
+4-21
+4-21
+4-11
+4-12
+4-11
+4-12
+4-11
+in normal
+
+order.
+
+Figure22
+
+266
+
+A = 10;
+
+000000
+000100
+100110
+010101
+002001
+101100
+010101
+210000
+101100
+210000
+100011
+100110
+000000
+000000
+000000
+001000
+100000
+100000
+010000
+011010
+111000
+101100
+111000
+011010
+101100
+000000
+000000
+000000
+000000
+000000
+000100
+001000
+100110
+101100
+210111
+211110
+321000
+321000
+030201
+030201
+121110
+112101
+121110
+112101
+121110
+B = 11.
+
+tion of the linkedstructure segmentson computer
+in
+disc, enablingan analto
+ytical program page throughlarge scores a segmentat a time. While a
+detailedexplanation how this mightbe accomplished beyondthe scope
+of
+is
+of this paper,the basic concept may be of interestto some readers.
+The problemis that we cannotstore the linkedlist in its originalform
+on an externalstoragedevice and then reconstruct by readingthe data
+it
+backinto memorybecauseit is impossibleto ensurethateach node can be
+stored at its original location, and the links in the structurewill be
+meaningless.
+One solutionis to represent linkedstructure an arrayof nodes as
+the
+in
+shown in Figure 23a. (The score segment is the same as that shown in
+in
+Figure14.)Thediagram Figure23b will helpus to visualizethe structure
+in
+represented the arrayin Figute 23a. The numberson the nodes in the
+diagramcorrespondto the subscripts(or element numbers)in the array.
+Eacharrayelementrepresents node in the linkedstructure.
+one
+The structurallinks, which were rawaddressesin the originallinked structure,
+are
+now represented integervalues which indicatethe locationof the next
+by
+node in the array.
+Thus we can traverse
+each list by gettingthe locationof
+the nextnode fromthe appropriate field. To traverse thirdpart,for
+link
+the
+example,we begin with the head node in element3 (the fourthelementin
+the array).Rlinkof this node indicatesthatthe firstnote in the partis found
+in element23. The next item in the part, indicatedby rlinkof node 23, is
+the quarter in element24, followedby the quarter
+rest
+notes in elements25
+and 26. Rlinkof element26 pointsback to the head node for the part, indicatingthe end of this segment.At this point,the dataforthe nextsegment
+of the score could be readfromthe disc, replacingthe valuescurrentlyin
+the array, the nextsegmentcouldbe examined.17
+and
+Whenfollowinga part
+or time-linein the reversedirection(through llink fields), the datafor
+the
+the previoussegmentwouldbe readwhen the head node at the end of the
+list is reached.
+The arrayis definedso thatit containsvariant
+records,that is, the type
+of node associatedwith each elementof the arrayis definedby its tag field
+andmaychangefromsegmentto segment.Forexample,element31, a barline in Figure23, wouldbe redefined a notenodeby assigningits tag field
+as
+the value note, or as a spine node by assigningthe value spine.
+This simplifiedexplanation
+does not accountfor problemsof overlapping betweensegments.For example,a spine node may point throughits
+stop field to a node in the currentsegment,and throughits start field to a
+node in the next segment. These problemsare nontrivialbut not insurmountable.
+Also underdevelopment a systemof primitives,
+is
+writtenas procedures,
+for movingaroundin the datastructure for doing manycommonanaland
+I
+ytic tasks.Eventually, envisionan interactive
+systemin whichthe usercan
+267
+
+of the
+Array Representation
+Linked Structure
+from Figure
+14
+h
+vertical
+|data
+6lios2ntal
+[
+links
+
+a)
+* [ye
+
+type
+
+0
+1
+2
+3
+
+tag
+head
+head
+head
+head
+
+-
+
+rlink
+10
+20
+21
+23
+
+link
+14
+20
+22
+26
+
+10
+11
+12
+13
+14
+
+tag
+spine
+spine
+spine
+spine
+spine
+
+time
+0.00
+0.25
+0.20
+0.75
+1.00
+
+rlink
+11
+12
+13
+14
+0
+
+llink
+0
+10
+11
+12
+13
+
+20
+21
+22
+23
+24
+25
+26
+
+tag
+note
+note
+note
+note
+rest
+note
+note
+
+dur
+1/1
+1/2
+1/2
+1/4
+1/4
+1/4
+1/4
+
+rlink
+1
+22
+2
+24
+25
+26
+3
+
+llink
+1
+1
+21
+3
+23
+24
+25
+
+30
+31
+
+I
+
+data
+mi
+A iA
+4/4
+
+tag
+__
+meter [_
+bar
+
+i
+
+[
+
+/
+
+-
+
+-
+
+start
+20
+24
+22
+26
+14
+
+stop
+10
+23
+21
+25
+20
+
+spec
+30
+11
+11
+11
+31
+
+start
+21
+23
+25
+10
+11
+12
+13
+
+stop
+22
+24
+26
+11
+12
+13
+14
+
+-
+
+-
+
+_
+
+-
+
+_
+
+I
+
+I|
+
+-
+
+of
+
+Position
+
+The Relative
+
+b)
+
+-
+
+-
+
+the
+
+Nodes
+
+31
+
+I 4/4
+
+I head
+
+I
+
+I head I
+
+I
+
+1
+
+11
+1 0.25
+
+I
+
+o
+
+1
+
+12
+1 0.50
+
+rhead
+he
+
+I
+
+075
+
+22 j
+I
+
+233
+
+I
+24
+
+25
+
+Figure 23
+
+268
+
+I
+
+26
+
+/
+
+14
+
+13
+
+I
+
+21
+
+2
+3
+
+10
+I 0.00
+
+1
+
+20
+
+1
+
+spec
+Im
+w
+14
+
+Shown Above
+
+30
+0
+
+links
+
+1.00
+
+I
+
+I
+
+move about in the score at will, applying various analytical methods where
+they seem appropriate.
+
+The data structure described here is not dependent on DARMS; other
+input codes or devices could also be used. Nor is Pascal a prerequisite,
+since the linked structure could be duplicated in other programming languages. The immediate goal of this research has been to provide software
+that facilitates analytical work. Ultimately, it may result in analysis packages for general use. In the meantime, the procedures and techniques described above comprise a flexible set of programming tools for developing
+and testing analysis procedures.
+
+269
+
+GLOSSARY
+The following glossary is intendedas an aid to the readerwho is relativelyunfamiliarwith the computerterminologyused in this paper.It is not intendedto
+be comprehensive.The symbol * in a definition means that a word is defined
+elsewhere in this glossary.
+address-The ordinal position of a storage location in the computer memory.
+Storagelocations are numberedsequentiallyfrom zero and are accessed through
+these numbers, or addresses.
+array-A collection of data items storedin contiguousstoragelocations in memory. These memory locations are known by a common name and a subscript,
+or index number, indicating the position in the array, for example, list[l],
+list[2], .. . list[n], where list is the name of the array, and the number in
+bracketsis the subscript. The subscriptmay be a variable*.Thus list[i], where
+i has an appropriate
+value, may referto any element of list. Arrayelements may
+containdifferenttypes of values and may occupy more thanone physicalstorage
+location in memory, although in most computerlanguageseach element of an
+arrayusually must contain the same type of data.
+bit-A binary digit. A bit can have one of two values, 0 or 1.
+block-A collection of data of fixed size, for example, 512 bytes*.
+buffer-An area in memory used to store data temporarilywhile it is being processed. In Pascal*,the inputbufferis an array*of characterdata, with one character per arraylocation, that is used to store data which is being readby a computerprogram.The value of the buffervariable*input" is the next characterto
+because it is more efficientto transferdata between
+be read. Data is "buffered"
+devices (terminals,disc drives, memory,and so forth) in blocks* than one item
+at a time.
+byte-A unit of computer memory, usually 8 bits*. An alphabeticor numeric
+characterstored in the computeroccupies one byte.
+DARMS-A system of encoding music for computer processing devised by
+Stefan Bauer-Menglebergin 1963. DARMS is also known as Ford-Columbia
+Code.
+of
+data structure-A representation data which defines the organizationof the
+dataand the means of accessing it. A given collection of datacan often be represented in differentdata structures.For example, an orderedlist of values could
+be stored in an array*or a linked data structure*.
+270
+
+element-See array.
+field-See record structure.
+flow of control-The order in which statements (computer instructions) in a
+computerprogramare executed. Generallystatementsare executedsequentially,
+that is, one after the other. This order can be alteredby various control structures that cause branchingto other parts of a program,controlled repetitionof
+a group of statements,and so forth. A procedure*call causes a branchto a programsegmentthatperformssome specific task, followedby a returnto the point
+from which the procedurewas called.
+function-A type of procedure*that returnsa value to the point from which it
+is called. Functionsare called* by using their names in expressions. The statementy := sqr(5), invokesthe functionsqr to calculatethe value of its argument
+squared (5 x 5). Thus the statementassigns the value 25 to the variable*y.
+input' -See buffer.
+input buffer-See buffer.
+linked data structure-A data structuremade up of storage units called nodes
+which contain fields* for data and pointers*(or links) to other nodes. A pointer
+is the address*of anothernode in memory. A simple linked list is maintained
+with a pointervariable*which contains the addressof the first node in the list.
+Each node has a link field that contains the address of the next node. The link
+field of the last node is a nil pointer, that is, it does not point to anything.
+linked list-See linked data structure.
+matrix-A two dimensional array*.A twelve-tone matrix could be stored in a
+12 row by 12 column array.In the computerthe matrix is actually stored in contiguous memory locations, and an addressingalgorithmis used to calculatethe
+address*of each element in the matrix. Matrices are referencedby the name of
+the matrixand two subscripts,or indices, representing row andcolumn numthe
+ber, for example,M[i,j], where M is the name of the matrix, i is the row number
+andj is the column number.
+node-See linked data structureand record structure.
+parameter-A symbolic name used to pass a value to a procedure*or function*.
+A distinction is made between the formal parameter(the symbolic name used
+in the procedureor function) and the actual parameteror argument(the value
+passed to the procedureand used in place of the formalparameter).In defining
+271
+
+the functionsqrt(x),x is a formalparameter
+thatmay representany positive real
+number.When the function is called (for example, y := sqrt(572)) 57.2 is the
+actual parameterpassed to the function and used in the calculation.
+Pascal-A high level, general-purpose
+programming
+languagedesigned by Niklaus Wirthduringthe late 1960'sand early 1970's.A formaldefinitionand summary of the language is given in KathleenJensen and Niklaus Wirth, Pascal
+User Manual and Report, 2nd ed. (New York: Springer-Verlag,
+1974). Many
+books on Pascal programming now available,and the interestedreaderwill
+are
+to
+find severalin any Universitybookstore.An informalintroduction Pascalcan
+in
+be found in PeterGrogono,Programming PASCAL, ed. (Reading,Mass.:
+rev.
+1980), pp. 1-18.
+Addison-Wesley,
+pointer-A variable*that contains the address*of some data object, and thus
+"points"to that object. The data object is usually a record structure.
+procedure-A program unit that performs a specific task, and which can be
+called (or invoked)explicitly. The computerinstructionscomprisingthe definition of a procedureoccur once in a program,but the programmay cause these
+statementsto be executed many times from differentlocations by "calling"the
+procedure.A procedureis called by invokingits name in a programstatement.
+When this occurs, the programexecutes the statementsin the proceduredefinition and then returnsto the place in the programfrom which the procedurewas
+called. In a recipe, the instruction"Add1 cup of white sauce (see pg 453)" is
+analogous to a procedurecall.
+data type in which a collection of relateddata of
+record structure-A structured
+differenttypes may be kept togetherunderone name. The structurehas "fields"
+which are names for specific items of information. It is possible to treat the
+record as a single item, or to access fields individually.Thus we may define a
+record structureof type note, that has fields for pitch, duration,dynamic, and
+so forth. If x is a note, then x.pitch is its pitch, x.dur its duration,x.link the
+address*of anothernote, and so forth. If p is a pointer*to a record, the fields
+of that record are accessed as p" .pitch, p^.dur, p^ .link, and so forth.
+structuredprogramming-A programmingtechnique that includes top-down
+design, stepwise refinement, and encoding the program in well defined parts
+called modules. Structuredprogrammingtechniques lead to clearer program
+structure.The resultingprogramsare generally easier to debug, maintain,and
+extend. Certain computer languages, such as Pascal, encourage structured
+programming.
+
+272
+
+variable-A symbolic name for a storagelocation in the computermemory that
+can containdifferentvalues. Pascal is stronglytyped, that is, variablescan containonly one type of data, such as integer,real numbers,characters,or pointers,
+and attemptsat implicit type conversion(for example, assigning a pointervalue
+to an integervariable)usually result in programerrors. Pascal also permitsone
+to define variables that reference structuredtypes such as records.
+
+273
+
+NOTES
+NOTE: An earlier version of this paper was read at the annualconferenceof the Society
+for Music Theory at YaleUniversityin November 1983. Materialfrom the paperwas also
+ComputerMusic Conference(EastmanSchool of Muspresentedat the 1983International
+ic) and at the 1984 ICMC (I.R.C.A.M, Paris, France).
+1. Computerapplicationsin testing theory are discussed by Bo H. Alphonce in "Music
+MusicJournal4/2
+Analysis by Computer-A Field for Theory Formation,"Computer
+(1980):26-35.
+2. The work described in this paper was begun in a Doctoral level Seminarat Eastman
+and has been continuedby the author.I would like to acknowledgethe considerable
+contribution made by three members of the seminar-Nola Reed Knouse, Dean
+Billmeyer, and Jane Sawyer Brinkman.
+3. See Allen Forte, 'A Programfor the Analytic Readingof Scores," Journal of Music
+the
+Theory10 (1966):330-364, and John E. Rothgeb,"Harmonizing UnfiguredBass:
+A ComputationalStudy" (Ph.D. diss., Yale University, 1968).
+4. A succinct history and status report for the DARMS project is given in RaymondF.
+Erickson, "MUSICOMP76 and the State of DARMS," College Music Symposium
+17/1(1977):90-101.Workon the DARMS Project is progressing.RaymondErickson
+DARMs in his
+has done much to extend the coding language and has standardized
+referencemanual. [See RaymondF. Erickson, "DARMS,A ReferenceManual"(New
+York:Queens College, CUNY, 1976).The manualis availablefrom RaymondErickson, Departmentof Music, Queens College of the City University of New York,
+Flushing, New York 11367.] Erickson is also writing the syntax checker. Bruce
+McLean is workingon the Canonizeras a major part of his doctoral dissertationat
+State University of New Yorkat Binghamton.[See Bruce McClean, "DARMS Lanhandoutfrom a reportgiven at
+(Mimeographed
+guage Processing-Two Translations"
+"A DARMS Project Forum," a mini-conferenceon the DARMS encoding language
+hosted by the School of Advanced Technology, SUNY-Binghamton,on March 23,
+1982); and "On the Reconstructionof a Complete Description of a Musical Score
+from a SegmentedDescription in User DARMS," mimeographed(Dept. of Systems
+Science, School of AdvancedTechnology, SUNY-Binghamton,July 23, 1982). The
+School of AdvancedTechnologyis now knownas the ThomasJ. WatsonSchool of Engineering, Applied Science, and Technology.]Originally the Canonizerwas to produce segmentationsas vertical slices through the score or as horizontal slices by
+as
+would be represented DARMS stringswith all abbreviainstrument.Segmentations
+tions expandedand implicit attributessupplied. The Canonizeris intendedto produce
+the same outputfor an infinitevarietyof InputDARMS encodings of the same score.
+In a recentconversation,McClean indicatedthat the currentversion of the Canonizer
+consistingof manyvariproducesoutputin a "DARMSCube," a Pascaldatastructure
+ant records. Procedures for extractingcanonical DARMS strings will probably be
+available.
+5. Since the Canonizerwas not available,the presentversionof the Scannerwas designed
+to process a substantialsubset of Input (or User) DARMS. Methods for interpreting
+CanonicalDARMS will be similar,but the process will be easier in some ways, since
+all note attributeswill be represented
+explicitly. Thus we hope thatthe Canonizerwill
+facilitateextension of the present work.
+
+274
+
+6. I would like to thankJames L. Snell for providinga summaryof DARMS that formed
+the basis for Figure 1.
+7. This representation durationwas suggestedto the authorby Steven Haflich of the
+of
+M.I.T. ExperimentalMusic Studio. It was used in the graphic score editor developed
+at MIT-EMS.Algorithms for rationalarithmeticare given in Donald E. Knuth, The
+Art of ComputerProgramming,vols. 2, Seminumerical
+Algorithms(Reading, Mass.:
+Addison-Wesley,1969), pp. 290-292.
+8. Mathematicaloperations on this pitch representation described by the author in
+are
+his forthcoming "A Binomial Representationof Pitch for Computer Processing of
+Musical Data," Music TheorySpectrum8 (1986).
+9. Erickson, "DARMS, A Reference Manual," pp. D1-D1.2.
+10. Computerterminology is defined in a glossary at the end of this paper.
+11. For the readerwho wishes to learnmore aboutdatastructuresthe authorrecommends
+Ellis Horowitz and Sartaj Sahni, Fundamentalsof Data Structures(Potomac, Md.:
+ComputerScience Press, 1976)and Donald E. Knuth,The Art of ComputerProgramming, vol. 1, FundamentalAlgorithm, 2nd ed. (Reading, Mass.: Addison-Wesley,
+1973).
+12. For a descriptionof other linked score representations Rosalee Nerheim, "Current
+see
+and
+Applicationsof a Music Representation Processing System"in Proceedingsof the
+1978InternationalComputerMusic Conference(Evanston:NorthwesternUniversity,
+1979), pp. 720-26; and Dean Wallraff, "Nedit - A Graphical Editor for Musical
+Music Conference(EvanScores," in Proceedingsof the 1978InternationalComputer
+ston: Northwestern
+University, 1979),pp. 410-19. Nerheim describes the linked structure used in the MUSTRAN system at IndianaUniversity.Wallraff
+describes the data
+structureused in the graphic score editor at the M.I.T. ExperimentalMusic Studio
+(MIT-EMS).
+13. McClean, "DARMS Language Processing-Two Translations,"p. 9.
+14. For this purposethe internalnumericalform of the pitch code has been translated(by
+computer)to note names for these printouts.
+15. See Allen Forte, The Structureof Atonal Music (New Haven and London: Yale University press, 1973).
+16. From a programby Jane Sawyer Brinkman.
+17. In a real applicationthe segment size would be much larger than in this illustration.
+
+275
+
+

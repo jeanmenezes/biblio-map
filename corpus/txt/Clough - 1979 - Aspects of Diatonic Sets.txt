@@ -1,0 +1,1339 @@
+Yale University Department of Music
+
+Aspects of Diatonic Sets
+Author(s): John Clough
+Source: Journal of Music Theory, Vol. 23, No. 1 (Spring, 1979), pp. 45-61
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843693
+Accessed: 15/12/2009 14:52
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+ASPECTS OF DIATONIC SETS
+
+John Clough
+
+Since Forte's seminal work of 1964,1 the literature dealing with
+what may be loosely describedas the theory of pitch class(pc) sets has
+grown steadily. As was natural, given the direction of Forte's work,
+most of this literaturehas been concernedwith 12-pc set theory and its
+applicationsin the analysis of "atonal"works. Although the possibility
+of an appropriately shaped pc set theory for the diatonic case was
+noticed early on, the subject received no significantattention in the
+literature until Regener'sbrief treatment in his review of Forte's later
+work.2 Space is also devoted to the topic of diatonic sets in at least one
+recent textbook,3 a fact which may indicate(or bringabout) increasing
+awarenessof it on the part of the theoreticalcommunity.
+The present article develops diatonic pc set theory more fully,
+offering the necessary apparatus of abstractions, followed by two
+applicationsin musicalanalysis.4
+Theoryof Diatonic pc Sets
+Diatonic ChordTypes
+As Regenerhas pointed out, the sevendiatonic note classesA, B, C,
+.. .,G, irrespectiveof inflection by sharpsand flats, may be taken as
+45
+
+the universal set and subjected to the same formalism as the twelve
+chromaticpc's.5 Thus [A, C, E], [A, C-sharp, and [A, C-flat, E], are
+E],
+all equivalent collections in such a diatonic world, in the sameway that
+are
+[A, C, E], [A, B-sharp,E], and [A, D-double-flat,E], equivalentin the
+12-pcworld.
+To regardC, C-sharp,and C-flat, as membersof the same note class
+may seem to be counterintuitive. It implies that we recognize, for
+example, infinitely many "triads"which are different in structurewith
+respect to the 12-pc universe, as equivalent structures within the
+diatonic universe.We can circumventthis problem for the moment by
+observingthat the diatonic universeof seven pc's may be constructedin
+variousother ways which permitapplicationof the same formalism.For
+example,we may simply stipulatethat the universeconsistsof the seven
+pc's of any chosen major scale. In this case we still admit triads of
+"different" structure(major, minor, diminished), but their structural
+equivalenceis arguablewith referenceto a familiarmusicalobject. The
+important point is that the formalism applies indifferently to any
+universeof seven elementswhich can be cyclically ordered.The manner
+in which actual soundedor notated pitches may be legitimatelyreduced
+to seven elements of cyclic structure(and indeed whetherthey may be
+so reduced) is an analyticalquestion which must be answered,for any
+particularobject of study, before the theory of sets here developed can
+be applied.
+In keeping with the above, I make no constraintsat this juncture on
+the rules for formation of the diatonic universe,beyond the condition
+that it be isomorphicto the set of integers0, 1, 2, ... , 6, modulo 7.
+For the sake of convenienceand simplicityin constructingillustrations,
+however, I shall assume in the following discussion that the integers
+representthe notes of the C majorscale, with C = 0.
+Following Lewin, I use the term intervalhere to mean the "directed
+distance from one pc to another," measuredin an upwarddirection.6
+Interval thus pertainsto an ordered pair of pc's: the intervalfrom C to
+C is zero; that from C to D is 1; from C to E is 2;. ..; from C to B is 6.
+Or-numerically-from 0 to 0 is 0, from 0 to 1 is 1, etc. And, of course,
+from 6 to 0 is 1, from 6 to 1 is 2, etc.
+Following Regener, I use the term chord to mean the interval
+structureof a set of pc's or any of its transpositions.The structureis
+indicated by a sequence of numbers, always adding to seven in the
+diatonic case, listing the intervalsbetween successivepc's, given all pc's
+arrangedin ascendingorder within an octave, with the first pc repeated
+at the end. Thus the set [C, E, G], or [0, 2,4], forms the chord (223).
+(The chord notation is alwaysenclosed in parentheses.)Since chord, by
+definition, refers to an unordered set, the rotations of (223), namely
+(232) and (322), designate the same chord as (223). (A rotation
+46
+
+is constructed by transposingthe first intervalof the notation to the
+end of the sequence. Additional rotations are constructedby repeating
+this operation. Thus the number of distinct rotations of a chord of n
+pc's is less than or equal to n.)7
+The normal form of a chord (or, more precisely, of a chord notation), for which Regenersuggests(and I adopt) the term intervalnormal
+form (INF), is evidently still an unsettled matter. Departinghere from
+Regener, I choose as the INF that rotation having the largest last
+interval,and in cases where that criteriondoes not yield a unique INF,
+the rotation havingalso the smallest first interval(and if a uniqueINF
+is still not found, the smallestsecond interval,and third interval,etc., as
+necessary to determine a unique INF).8 In all that follows, the INF
+notation for chords will be used, except where explicitly stated otherwise.
+By intervalclass I shallmean a complementarypairof intervalsi and
+j such that i = 7 -j. There are thus three intervalclassesin the diatonic
+universe(excluding zero):
+icl (1-6, mod 7) - traditional2nds and 7ths
+ic2 (2=5, mod 7) - traditional3rds and 6ths
+ic3 (3=4, mod 7) - traditional4ths and Sths
+The intervalvector is thus a three-digitregister.It is enclosed in square
+brackets,without internal commas(to distinguishit from a pc set). For
+example,(223), the triad,has the intervalvector [O2 1].
+Likethe questionof which kinds of pitch equivalenceare appropriate
+in the construction of a diatonic universe,the question of inversional
+equivalence is essentially music-analytical;the formalism is readily
+applicablewhether or not inversionis a recognizedoperation. For the
+diatonic case, there is no great differencebetween the chord repertoire
+generated with inversionalequivalence and that generatedwithout it:
+there are just four diatonic chords whose inversions differ from the
+original chord, namely (124) and its complement (2113), and their
+inversions(214) and (1123). All of these are treated as distinct chords
+in the enumerationto follow.
+(To notate the inversionof a chord, simply reversethe sequenceof
+intervals. For example, (124) inverted is (421), the INF of which is
+(214), a different chord; (223) inverted is (322), the INF of which is
+again(223), the same chord.)
+With few exceptions, diatonic chords can be generated by superimposition of a single interval. The exceptional cases are the aforementioned (124) and its inversion(214), which are all-interval
+trichords
+of content [1 1 1], and their complements,of content [2 2 2].
+Table 1 shows the complete rosterof diatonic chordsof two through
+five pc's, with interval vectors and generators.Complementarychord
+pairs are placed opposite one anotheron the sameline. Here and in the
+47
+
+Table 1. Diatonic Chordsof 2-5 pc's
+,? (2e
+~generator
+
+<_W w Jb
+~
+~
+(16)
+
+(11114)
+
+~
+z^ I
+
+(25)
+
+(11122)
+
+QL
+
+(115)
+
+0
+
+I
+
+)
+
+--^ lIt0
+[111]
+
+V
+(1123)
+
+(
+(1213)
+
+-f>(?)
+
+I
+
+[102]
+
+(1222)
+
+[021]
+
+_
+
+~ (
+
+3
+
+[213]
+
+I
+
+O3O
+
+o
+[222]
+
+[111]
+
+)
+
+-
+
+[222]
+
+9? 1
+
+(214)
+
+E1
+[321]
+
+[210]
+
+(2113)
+
+(124)
+
+[334]
+
+[001]
+
+(1114)
+
+0
+
+48
+
+3
+
+t
+
+O
+
+(223)
+
+[343]
+
+I(I)
+
+(11212)
+
+Cj
+(133)
+
+2
+
+o
+
+(34)
+
+Q
+
+L U &(8)
+
+Q
+
+[010]
+
+0
+
+0
+
+[433]
+
+[100]
+
+3
+
+1
+
+tB
+
+a
+[132]
+
+(1)
+
+2
+
+following tables, an abstract example of each pc set is shown on the
+staff-abstract in the sense that, since no clef is given, the notes display
+the normal form of the set without referenceto specific pc's. In Table
+1, sets are also shown in "clock" notation: dots on the circumference
+of a larger circle represent pc's (clockwise is "up"). Circled dots
+indicate, by their relativelocations, the structureof a chord. A heavy
+circlearounda dot indicatesa pc from which the INF can be counted in
+a clockwise direction.
+OrderedTrichords
+As shown in Table 2, each of the five unordereddiatonic trichords
+corresponds to six distinct ordered paris of intervals. These can be
+generated simply by writing down an ordered set of three pc's correspondingto each of the five trichords,permutingthe orderof the pc's,
+and computing the resulting pairs of intervals.9 An alternate way of
+generatingthe 30 orderedtrichordsis to note the 6 X 6 = 36 ordered
+pairs of intervals(the members of an ordered pair may be identical).
+Six of these pairswill producea redundantthird pc. Thereforewe have
+again(6 X 6) - 6 = 30 orderedtrichordsby this reckoning.
+OrderedSourceTrichords
+Applying the classical operators T, I, R, RI, over the 30 ordered
+trichords, reduces this collection to nine ordered source trichords.
+Labelled a through i, these source trichords correspond to the five
+unorderedtrichordsand to the 30 orderedtrichordsas shown in Table
+2 and summarized Table 3.
+in
+TrichordChains
+Consider a succession of pc's in which all of the ordered trichords
+beginning in odd order positions are equivalent (it follows that all
+of the ordered trichords beginning in even order positions are also
+equivalent). Such a successionwill be known here as a trichordchain.
+As shown in Table 4, each of the nine ordered source trichords can
+generate two distinct chains (one for the P or RI form, and one for the
+I or R form). Alternatively,we can think of each chain as characterized
+by an unordered pair of (possibly identical) intervals(excluding zero)
+and compute 6 + 5 + 4 + 3 + 2 + 1 = 21. However, three pairs
+
+produce a redundantthird pc. There are therefore21 - 3 = 18 distinct
+trichordchainsby this reckoningalso.
+In the case of Table 4, it is particularlynecessaryto rememberthat
+the given staff notation models only one of many possible realiLations
+which represent each chain of pc's. Furthermore,Table 4 gives no
+indication of the complete "cycle" of each chain (the number of pc's
+before the entire chain begins to repeat). For those chains havingtwo
+49
+
+Table 2. OrderedDiatonic Trichords
+INF
+115
+
+P(a)/RI(a)
+
+I
+
+intervals
+124
+
+RI(b)
+
+P(b)
+
+2 6
+
+1
+
+P(C)
+0'
+
+~
+
+0
+
+%.,
+
+1 2
+
+RIC(e)
+
+2 1
+
+3 6
+
+PMf
+
+133
+
+1
+
+223
+
+I
+
+3 5
+
+RI (c)
+
+P(g)/Rl(g)
+4
+
+4
+
+3
+
+2
+
+531
+
+,
+
+10
+
+1
+
+6 6
+R(c)
+
+,
+
+4
+
+1(e)
+
+1
+
+10
+5 6
+
+I(d)
+
+1(c)
+
+1 4
+
+4
+
+I (g)/ R(g)
+
+RI (f)
+
+R(f)
+
+31
+
+46
+
+3
+
+I (f)
+6 4
+
+L'3
+
+3 3
+R(i)
+
+2
+
+6 5
+
+I (h)/R (h)
+
+1(i)
+
+LA(3'
+
+4 5
+
+2 2
+
+,~
+
+2 4
+
+R I(d)
+
+I (a)/R (a)
+
+R(e)
+
+0
+
+0
+
+3
+
+RI(i
+
+P(h) /RI (h) P(i)
+
+5
+
+R(d)
+
+6
+
+5
+
+I (b
+
+1 5
+
+P (e)
+
+P(d)
+
+I
+
+214
+
+6
+
+R(b)
+
+5 4
+
+2 3
+
+3
+
+2
+
+5 5
+
+Table 3
+ci
+
+b
+
+115
+
+50
+
+C
+
+d
+
+124 (214)
+
+e
+
+f
+
+g
+
+133
+
+h
+
+223
+
+Table 4. Diatonic TrichordChains
+
+P, RI
+
+I,R
+
+a
+?o
+O
+
+o
+O
+
+1
+
+2
+26
+
+L'0
+
+?
+l'
+
+?
+
+O
+0
+
+r
+
+6
+
+1
+
+6
+
+O
+0
+
+?
+
+?
+
+"
+
+6
+
+b
+0
+
+0
+
+'.3
+
+'.^
+
+0
+
+0
+
+0
+
+?
+
+5
+51
+
+6
+
+-
+
+1
+
+5
+
+c
+0
+
+O0
+
+1
+
+0
+
+2
+
+d
+?
+
+O
+4
+
+3
+
+5
+
+O
+
+4
+
+3
+
+O
+
+4
+
+6
+
+'
+
+2
+
+1
+
+35
+
+5
+
+e
+O
+0
+
+6
+
+3
+
+1
+
+3
+
+4
+
+4
+
+0
+
+0
+
+O
+
+o
+
+o
+
+0
+
+?
+o
+
+O
+
+22
+i
+
+3
+
+"'
+
+4
+
+5
+
+0
+
+?
+
+' '
+
+6
+
+i
+
+?
+
+3
+
+2
+
+51
+
+equal intervalsin the generatingpair, the complete cycle is seven pc's;
+for other chainsit is 14 pc's.
+Obviously, trichord chains may also be conceived as successionsof
+equivalent ordered dichords, articulatedby equal intervals,or (as suggested above) as repetitions of a particular interval pair. Certain
+registral deployments of pc's may bring about strong tetrachordal
+groupings,as reflected in the notation of severalchainsin Table 4. Consider, for example, chain h as an incipient model of the opening
+measures of Brahms's Fourth Symphony. (The reader will have no
+difficulty findingother such models in Table 4.)
+AnalyticalApplications
+A strikingfeatureof the repertoireof diatonic chordsis its smallness.
+If transpositional but not inversional equivalence is recognized, it
+consists of just 20 chords (16 as representedin Table 1, plus one chord
+each of zero, one, six, and seven pc's). By comparison, the 12-pc
+repertoireis bewilderinglylarge-352 chords!10
+This compactness of vocabulary carries with it the potential for
+relativelysimple cognitiveprocessing.To the Westernmusician,an aural
+or visualscanning the diatonic chord repertoireis a perusalof familiar
+of
+objects. We have heard and seen them all countless times; we know
+them; we are therefore preparedto attribute a variety of significations
+to them. Curiously,however, there is in traditionalanalysisan unyielding disparitybetween two classesof diatonic trichordsand tetrachords:
+tertianchordsand scale segmentsmay have structuralsignificance,while
+others may not.
+Diatonic chords which are neither tertian nor scale segmentsare, of
+course, thoroughly explored in classical theory. But they are understood only in their local significanceas they relate to tertian chords
+through a repertoireof linear types, i.e., passing tone, appoggiatura,
+etc. While not disavowingthe contrapuntaland decorative functions
+of such chords, I suggest that they also serve structuralfunctions at
+variouslevels, and offer two studiesbelow in supportof this claim.
+Mozart's
+Jupiter Symphony, first movement
+When i is substituted for 7 in V7, the tetrachord(1213) results,as
+shown in Example 1. This ubiquitous sonority, familiar to all tonal
+musicians in its manifold contrapuntalcontexts, is so powerful in its
+suggestionof V -I polarity that, even when presentedcompletely out of
+context, it tends to be felt as a tonal phenomenon.1 The opening
+measuresof Mozart'sJupiter Symphony display horizontalprojections
+of this tetrachord, set against a temporal hierarchy of I and V in
+unusualways.
+52
+
+"I
+(1213) (1222)
+Example 1
+
+2 I
+I
+I
+1
+0 I
+
+V
+
+1
+
+v7
+
+7
+
+1
+
+I
+
+7V
+v
+
+Jupiter Symphony, first movement
+Example2. Mozart's
+
+3
+
+I
+t rr 1i1i
+6
+
+)
+
+7
+
+--
+
+r
+
+r tp l'
+
+Example3
+53
+
+In the analysisgiven in Example 2, the familiarsymmetricalpattern
+I V/V I appearsat level 2 in mm. 1-8. However,textural, dynamic,and
+linear factors articulate the beginningsof mm. 1, 5, and 9, so that at
+level 1 the onset of V occurs not in m. 3, but in m. 5, equispaced
+between m. 1 and m. 9. In mm. 3-4 and 7-8, there are elaborationsof
+V andI, respectively(level 3 in Example 1); it is here that the horizontal
+projectionsof (1213) are found, to which we come presently.
+It is tempting to read the melody of mm. 7-8 as a transpositionof
+mm. 3-4 with G-F substitutedfor E-D (Example 3). There is a better
+explanation,however:in Example4 a generativescheme for the melody
+is proposed. The initial tonic and dominant of mm. 1-2 and 5-6,
+announced in octaves, are each continued by a harmonized encirclement figure (Example 4a). The encirclementfigures are then linked as
+shown by the small brackets in Example 4b, the tail dyad of the first
+figure being interpolated before the second figure, and the head dyad
+of the second figure being interpolated after the first figure. This
+generatesall of the melodic pitches of mm. 3-4 and 7-8 in the correct
+order.As shown by the largebracketsof Example4b, pitches 3 through
+6 are identicalto pitches 7 through 10.
+As a result of this linking process, the originalencirclementfigures
+are located at relatively different temporal positions within their
+respective two-measuretime spans. Interestingly,however, both occur
+within the V-I segmentsof the level 3 elaborationsover the samebass
+pitches, and, collectively, they exhaust the traditional repertoire of
+possible two against one, strong-to-weakcontrapuntalconfigurations
+with upper voice in stepwise descent against stationary lower voice
+(Example 5).
+We are now ready to observethe instancesof the (1213) tetrachord.
+In mm. 3-4, the tetrachord [C, D, F, G] is the initial verticality. A
+tetrachord of identical pc content is also projectedby the attacks on
+each beat of the melody in those measures(Example6).
+As the slurs in Example 4b suggest,the 12 pitches of mm. 3-4 and
+7-8 exhibit 4 + 2/2 + 4 symmetry. This is shown more clearly in
+Example 7. Deleting the rhythmicallyweak notes of the encirclement
+figures,we obtain the series of eight pitches in Example 8, which now
+contains the strong notes of the encirclementfigures(tetrachordA of
+Example 8) together with the "linking"dyads (tetrachord B). Tetrachords C andD arewholly within mm. 3-4 and 7-8, respectively.All of
+these four tetrachords are of structure (1213) and, because of the
+generationprocess, we have the identities of pc content (though not of
+order)A = D and B = C. (Note that in this context, tetrachordsC and
+D are isolated by a different set of criteriathan those exercisedfor the
+isolation of the melodic [C, D, F, G] in the case of Example6.)
+(If only the initial pitch of each weak-strongdyad is considered,
+54
+
+.
+
+-
+
+.
+
+?-
+
+"-
+
+d)--
+
+r
+
+-loI'
+--
+
+b.
+
+expandsto
+
+vp
+
+-
+
+-
+
+(. -)
+
+..
+
+I
+I
+
+I
+
+I
+
+Example4
+3
+
+"
+A-
+
+i
+Ji
+
+-I
+Vp
+r
+
+7
+
+L
+
+-*.
+
+I
+
+II 'j6 r9
+9
+
+'
+
+r
+
+4
+
+8
+
+iJ
+
+I
+
+3
+
+r
+
+5
+
+Example5
+
+^f^
+IC,D,F,G] = (1213)
+Example6
+
+iz
+
+u3fij0
+
+ui
+
+S
+
+Ic?
+
+-
+
+-
+
+~~~~
+-1-
+
+A
+
+-0
+
+_
+0N
+
+-
+
+Example7
+A
+gag
+
+(133)
+Example8
+
+r
+
+It
+
+uJ
+
+(133)
+
+Example9
+55
+
+then mm. 3-4 and 7-8 reduce to two trichords of structure (133)
+but, significantly,it
+[Example 9]. This resultis less rich in relationships,
+still contains chordswhich are non-tertianand non-scale-segment.)
+My claim here is that, while an explanation of horizontal (1213)
+tetrachordsin mm. 1-8 partlyin terms of tertian structuresis pertinent
+(indeed quite apparent in the [C, D, F, G] of mm. 3-4, as explained
+above), the variousmanifestationsof (1213) argue for the conception
+of that chord's role as truly structuralwithin the context of this time
+span.
+Beethoven'sBagatelle,Opus 119/1
+The design of this Bagatelle(the complete score is given in Example
+10) may be understoodas the initialization,interruption,resumption,
+development, and completion of a double trichord chain based on the
+intervalpair 4 1. That pairis associatedwith the non-tertian,non-scalesegment (124) trichord and its inversion(214) (see Table 4, item e).12
+Mm. 1-4 initialize the pattern of parallelthirdsdescendingthroughthe
+intervalof a fourth, followed by a transpositionof that materialat the
+lowerthird. This much is shown in Example 1la and, with passingtones
+deleted, in Example lb. As indicatedby the arrowin Example lla,
+the upper voice of the second of these two descentsimitates the lower
+voice of the first descent at the upperoctave. This suggestsan ordering
+of the fourth descents as in Example lc, with the middle one as a
+common cell between the two voices, all of which projects a short
+trichordchainwith the intervalseries4 1 4 1 4.
+This short chain already contains a repetition of the initial pc (D).
+Since, however,the chainhas a complete cycle of 14 pc's (Example 12),
+repetition of the pc seriesis not threatenedat this point.
+of
+The remainder the first section (mm. 5-16) producesrestatements
+of the same chain segment but no continuation. Example 13 presents
+mm. 5-8 stripped of several embellishing notes and shows melodic
+relationshipsof those measuresin correspondenceto mm. 1-4. Here a
+different fourth descent (D to A, labelled cell a in Example 13) is
+treated imitatively, and the accompanyingmaterial(cell b) completes
+the inverted counterpoint of mm. 5-6. The upper voice of mm. 6-8
+constitutes a compressed restatement of mm. 1-4, upper voice, set
+againsta bass configuredsimilarlyto cell b. Mm. 9-16 repeatmm. 1-8,
+except for the tonic cadencein m. 16.
+The impressiveE-flat of m. 17 continuesthe trichordchain. It is the
+next member of the series establishedin mm. 1-4 (Example 1lc), and
+by supplyingthe lower third of the isolated G of m. 16, continuesthe
+pattern of parallelthirds (Example 14, mm. 1-17). Mm. 17-32 may be
+as
+regarded a prolongationof [E-flat,G].
+The retransition of mm. 33-36, the varied repetition of the first
+56
+
+Allegretto
+
+r6 b3
+
+(9:l~
+
+dolce
+7
+
+WL
+'
+
+.
+
+t I
+
+~l Ycf
+
+F
+|:JJ 4J
+1
+
+-J
+j
+
+r: '
+
+j g J ~j Jr#lJj~
+i
+
+I
+
+JrJf
+-J'
+,
+1-1
+
+bJ
+
+,M.
+'
+
+r'? r r
+
+J
+r:h
+24b~ , rI t
+4'
+JJ
+X r
+
+.,I
+b
+
+2.
+
+-j
+,J~J -.~,
+
+aJ L
+
+yjMfr C[2f
+
+r ._ . r
+
+rrRrfr
+
+'
+
+-
+
+JI
+-
+
+f. i
+
+, "-t'"rrr
+
+r
+~: ,__
+
+-
+
+Example 10. Beethoven,Opus 119, no. 1
+
+57
+
+^le! '
+
+4
+
+r
+452
+
+r
+
+JJ<
+
+J
+
+J j
+
+r
+
+1^ j:
+1:r^
+
+;~
+
+PJ L._r J
+
+,
+
+Iuj J
+
+;
+
+r
+
+rrr,rarrr,.'
+
+~
+
+~--mhA
+
+m
+
+~
+~
+
+~
+
+~
+
+~
+
+Example 10 (continued)
+
+58
+
+~
+
+~
+
+?
+
+~~II
+J
+
+J
+
+l
+
+(124) ,,
+I
+
+.
+
+I,,r
+
+Example 11
+
+$-
+
+v
+
+0
+
+)
+
+^
+
+ar~ a
+
+0 * f.; --, , \t'I
+
+Example 12
+
+Example 13
+
+1(9)2
+
+3 4(816
+
+17- 32
+
+33-36
+
+37
+
+52
+
+53
+55
+(59) (61)65 66
+
+68(70,72)73
+
+Example 14
+Example 14
+
+X
+
+16__
+
+^J
+
+^
+
+. or
+T^
+
+7
+
+r
+
+^E
+
+J
+
+I~~------
+
+Example 15
+
+59
+
+section in mm. 37-52, and the first coda in mm. 53-65, to which we
+return presently, all forego continuation of the trichord chain. That
+function is reserved for the second coda, mm. 66-74. These measures
+contain a version of mm. 1-4, transposed as though to C minor, but
+perceived as a plagal cadence. Continuing the trichord chain, they recall
+the long-abandoned [E-flat, G] of mm. 17-32, and add three more
+thirds in parallel motion, concluding on [G, B] (Example 14, mm. 6674).
+The figural material of the first coda (mm. 53-65) may now be
+understood as a development of the thirds of mm. 3-4 and 68-69, as
+indicated in Example 14. In re-asserting the [G, B-flat] and [D, F-sharp]
+of mm. 3-4, and isolating the G as in m. 16, mm. 61-65 prepare the
+return of [E-flat, G] in m. 66, in similar fashion to the preparation of its
+original appearance in m. 17.
+Example 15, a reduction of Example 14, presents a summary of the
+work as a double trichord chain. Note the phase relationship between
+the two chains: the lower voice "leads" and the upper voice "follows"
+by a "time" interval of two notes. This characteristic is manifest
+contrapuntally in the imitation in mm. 1-4, and harmonically in the
+functional scheme shown in Example 15.
+
+NOTES
+
+1. "A Theory of Set-Complexesfor Music,"Journal of Music Theory, VIII
+(1964), 136-83.
+2. Eric Regener, "On Allen Forte's Theory of Chords,"Perspectivesof New
+on
+Music, XIII/1 (1974), 191-212. A discussionof the diatoniccase appears
+pp. 199-201.
+3. Robert Cogan and Pozzi Escot, Sonic Design (New York: Prentice-Hall,
+1976), pp. 14041.
+4. The essential ideas of this paper have been shared with colleagues and
+students for roughly the past ten years, a process which has contributed
+greatly to their development.The materialwas first presentedin a public
+Trends in
+forum in January,1977, as part of the lecture series, "Current
+Music Theory," sponsoredby the MusicDepartmentat the Universityof
+Chicago.
+5. "OnAllen Forte'sTheoryof Chords,"pp. 199-200.
+6. David Lewin, "Forte'sIntervalVector, My IntervalFunction, and Regener's
+Common-NoteFunction," Journalof Music Theory, XXI (1977), 194-237.
+on
+The definitionof intervalappears p. 196.
+7. Intervalnotation of a chordcontainsa built-inredundancy:
+givenall but one
+of the intervals
+listed in the notation,the missingintervalcan be computedby
+adding the given intervalsand subtractingthe result from seven. Thus, it
+would be possible to adopt the conventionof droppingthe last intervalfrom
+the notation without loss of information.Sinceeach intervalof the notation
+is an intrinsic part of the chord structure,however, it is reasonableto
+
+60
+
+8.
+
+9.
+
+10.
+11.
+
+12.
+
+retain them all in the notation. This practice has the added advantage of
+facilitating visualization of rotations.
+The algorithm with which Regener computes the INF ("On Allen Forte's
+Theory of Chords," pp. 196-197) is simpler than that for computing the INF
+which corresponds to pc normal form. Regener's INF also permits a more
+meaningful lexical ordering of INF's. Despite these advantages, I prefer the
+INF given here, because of its correspondence to what would seem to be the
+intuitive normal form of a chord in pc notation.
+Where the size N of the universe is non-prime, the permutations will not
+necessarily represent distinct ordered trichords (or tetrachords, etc.). For
+example, if N = 6, the six permutations of the trichord [0, 2, 4] represent
+only two distinct ordered trichords, corresponding to the ordered interval
+pairs 2 2 and 4 4.
+A tabulation is given in George Perle, Serial Composition and Atonality
+(Berkeley, Calif.: Univ. of California Press, 1977), 109, 148-55 (4th ed.)
+Here and in the following discussion we take the C major scale as the diatonic
+universe. Note that the diatonic tetrachord (1213) may correspond to any
+one of the following 12-pc chords: (1416), (1425), (2325), and (2415), all of
+which are strong in tonal suggestion. (We are concerned only with (2325) in
+the present context.)
+As several analysts have pointed out, the melodic style of Beethoven is
+characterized by the prevalence of these trichords, and sequences based upon
+them. A recent exploration along these lines is Walter Schenkman's "The
+Tyranny of the Formula in Beethoven," College Music Symposium, XVIII
+(1978), 158-74.
+
+61
+
+

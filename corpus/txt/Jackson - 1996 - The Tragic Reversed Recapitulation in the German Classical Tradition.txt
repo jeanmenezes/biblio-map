@@ -1,0 +1,3171 @@
+Yale University Department of Music
+
+The Tragic Reversed Recapitulation in the German Classical Tradition
+Author(s): Timothy L. Jackson
+Source: Journal of Music Theory, Vol. 40, No. 1 (Spring, 1996), pp. 61-111
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843923
+Accessed: 16/12/2009 09:58
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE TRAGIC REVERSED
+RECAPITULATION IN THE
+GERMAN CLASSICAL TRADITION
+
+TimothyL. Jackson
+For JackAdrian,in memoriam.
+
+In a small but highly significantrepertoireof late eighteenth, nineteenth, and early twentieth century sonatas, the reversedrecapitulation
+deformationof "textbook"
+as
+may be interpreted a tragic-programmatic
+standardsonataform. The genre, topos, or iconographictraditionof the
+reversedrecapitulation the subjectof the presentstudy. In this
+is
+"tragic"
+is
+orderin the recapitulation reversedas a deviation
+repertoire,standard
+from an assumednorm, and is to be perceivedand explainedas a deformationratherthanas a stable, chiasmus-likesymmetricaldesign. A subgenre, the partiallyreversedrecapitulation,will also be discussed. The
+and
+genre'spossible originsin classical rhetorical dramatic
+theoryareexplored. The discussion proceeds from an overview of design-structure
+to
+interrelationships considerspecific pieces in the Germanclassical tradition from Haydnto Brahms.
+In late eighteenthand nineteenthcenturyGermansonataforms, parallelism between the orderof groupsin repriseand exposition is normative. Reversed sonata forms are uncommonin this traditionafter about
+1770; in the few examples one can find, reversingthe groupsin the recapitulationmay have programmatic
+significance.The "spatial"organization of normativesonata form is displayed in fig. la.2 In this form, the
+groups in the exposition occupy "expositionspace,"the corresponding
+61
+
+Figure 1: Normative,Reversed,and PartiallyReversed Sonata Forms
+a) Normative Sonata Form
+[Introduction] FirstGroup
+Intro.Space
+ExpositionSpace
+I
+
+I
+
+Second Group
+
+I
+
+FirstGroup
+Development
+Development Space RecapitulationSpace
+. i.
+
+Seco
+
+-..
+
+b) Reversed Recapitulation (Two Groups)
+FirstGroup
+ExpositionSpace
+
+Second Group
+
+Second Group
+Development
+Development Space . RecapitulationSpace
+
+F
+
+.1.
+
+c) Reversed Recapitulation (ThreeGroups)
+FirstGroupSecond Group ThirdGroup
+ExpositionSpace
+
+a
+
+ThirdGroup Second Group F
+Development Space RecapitulationSpace
+a a
+
+d) Reversed Recapitulation (Variant)
+
+I
+
+FirstGroup
+
+Introduction
+Intro.Space
+
+a a
+
+Second Group
+
+Introduction Second Group Fi
+Development
+Development Space nI
+i RecapitulationSpace
+~~~~~~~~~
+s
+
+Second Group
+
+First Group
+Development
+Development Space RecapitulationSpace
+
+ExpositionSpace
+
+e) Partially Reversed Recapitulation
+FirstGroup
+ExpositionSpace
+
+Seco
+
+f) Partially Reversed Recapitulation
+
+IL
+
+[Introduction] FirstGroup
+Intro.Space
+ExpositionSpace
+. I
+
+Second Group
+
+FirstTheme
+First Gr
+Second Group
+Development
+Development Space RecapitulationSpace Coda Sp
+
+are
+space,"and
+groups in the recapitulation assigned to "recapitulation
+the introduction,development,and coda each occupy their own respective spaces. Reversedsonataform (fig. Ib-d), on the otherhand,reverses
+the orderof groupsin the recapitulation. a two-groupreprise,the secIn
+ond group, ratherthan the first, initiates recapitulationspace (fig. lb).
+When the exposition comprisesthreegroups,the reversedrecapitulation
+may take the form, thirdgroup, second group, and first group (fig. lc).3
+A variantplaces the recapitulated
+introduction
+beforethe reversedgroups
+are
+(fig. Id). Two differenttypes of partiallyreversedrecapitulation identified in figs. le-f. In the first,the normativeorderof the groups is preserved in the reprise,but the sonatadesign is "reversed" shifting the
+by
+first group's opening music after the second group, where it appearsas
+the beginning of the coda (fig. le). Another type of partiallyreversed
+sonata form occurs when the groups are reversedand the first group's
+firsttheme becomes the climax of the development(fig. lf).4
+The essence of the rhetoricalfigureis thatit be a vitium,a violationof
+normalusage to createa particular
+emotionaleffect. In linguistic rhetorical theory,hyperbatonis a class of figures in which normalword order
+andsemanticlogic areabrogated, dislocationreflectingviolent or disthe
+orderedfeelings. These figuresmay be used not only to depict the tragic
+but also the grotesqueand the comic. Shakespeare
+handlesthem with an
+infinitevarietyof tonal effect, especially in tragedy.To cite a famous example of hyperbatonfrom a Shakespeareantragedy, Othello plans to
+murderDesdemona,not by sword,but by strangulation,
+since he "would
+not mar that whiter skin than snow."5 this case, the dislocation of the
+In
+bothdepictsOthello'sjealous rage andforeshadowsits tragic
+hyberbaton
+consequences. By violating the formal-tonalorder of normativesonata
+form, the tragicreversedrecapitulation
+may be identifiedas a large-scale
+hyberbaton. Indeed, the Baroque musical rhetoricianJohann Adolph
+Scheibe identifies hyberbatonas "the removal of... [a] musical idea
+from the expected order"(Buelow 1980, 794).
+In employing the term "deformation" connection with the tragic
+in
+reversedsonataform, I drawuponrecentworkof JamesHepokoski,who
+defines sonata deformation as "a strikingly non-normativeindividual
+structure,one that contravenessome of the most centraldefining traditions, or default gestures, of a genre while explicitly retainingothers"
+(Hepkoski 1992, 143). The point of referenceis "thenormativepractice,
+or set of reified defaults,urgedby the Formenlehre
+traditions,for better
+or worse a fundamentalframe of reference for the institutionof Germanicartmusic at least fromthe time of A. B. Marxon" (Hepkoski1993,
+6-7).
+The tragicreversedsonataform as a deformationof normativesonata
+form has a different pedigree and significance from the symmetrical
+sonata form of the early classical period (c.1740-80).6 Early classical
+64
+
+sonatasin symmetricalsonataform incorporatethe reversedrecapitulation as a stable, symmetricalformation.Symmetricalsonataform is not
+a deformationof normativesonataform, andthe tonic at the beginningof
+the recapitulation usually real ratherthan displaced or apparent.Exis
+are
+amples of the symmetricalrecapitulation found in JohannStamitz's
+symphoniesfrom 1740 through1750, althoughthis formaldispositionis
+less common in Stamitz's music than generally believed (Wolf 1981).
+Some twelve worksby Haydnfeaturesymmetricalrecapitulations.
+Mark
+Evan Bonds remarks that "this procedure is largely abandonedafter
+1770,"observing how, "it is all the more strikingthat Mozartabandons
+the procedure[of the reversedrecapitulation] suddenlyand at almost
+so
+precisely the same time as Haydn" (Bonds 1988; 287, 301-2).7 After
+about 1770, reversingthe recapitulation
+thus appearsto have been perceived as a special deformationaleffect ratherthan as a normalway of
+However,the symmetricalrecapitulations
+organizingthe recapitulation.
+of the firstmovementsof Mozart'sPiano Sonata,K. 311 (1777) andViolin Sonata, K. 306 (1778) show that Mozarthad not entirely abandoned
+the earlierformal practice.Both of these works were composed during
+the composer'stripto Mannheimand Paris,and so perhapsexhibit local
+influences. Indeed, French composers had a penchantfor symmetrical
+sonataform well into the nineteenthcentury.Cherubiniemploys it in his
+overtureto Anacreon(1803), as does Berlioz in the firstmovementof the
+SymphonieFantastique(1828), Harold in Italy (1834).,and the Overture
+to Benvenuto Cellini (1838).8 Perhaps influenced by French models,
+to
+Wagneremploys three-group
+symmetricalsonataform in the Overture
+Tannhduser 845).
+(
+The genre of the tragicreversedsonataform stands,for the most part,
+in starkcontrastto the "dark-to-light" "strife-to-victory"
+or
+model. In the
+narrative
+plots of pieces examinedbelow, the cruel blows of Destiny are
+neverovercome as they are, for example,in Beethoven'sFifth and Ninth
+Symphonies, Schumann'sSecond Symphony,and Tchaikovsky'sFifth
+Symphony(Newcomb 1984; Kraus 1991). In the repertoireof works in
+the tragicreversedsonataform, thereis no rescue, no Deus ex machina,
+no song of rejoicing.
+Technical Aspects of Design-Structure Correlation
+Beach (1993) succinctly explains the essential distinctionfirst made
+a
+by Felix Salzer between "design"and "structure," distinction which
+will be assumed throughoutthe presentdiscussion. In view of the cencortralityof the frequentlycomplex, even contrapuntal
+design-structure
+relation in sonata form, it is surprisinghow little has appearedon this
+subject.As is well known, Schenker'spioneeringdiscussion of the structures underlyingsonata design in Free Compositiondoes not constitute
+65
+
+an exhaustiveinventoryof the structural design possibilities of sonata
+or
+form, a deficiency which Ostersought to remedyin his notes and addendum (Schenker 1979, 133-40). Schenkerremarkscrypticallythat "even
+a reorderingof the original sequence of the materialis possible in the
+since the fundamental
+line and the bass arpeggiation
+ultirecapitulation,
+mately restorethe balance"(Schenker1979, 138).
+More recently,a numberof distinguishedanalysts have begun to fill
+in some of the many gaps in Schenkerand Oster'spublishedaccountof
+sonataform. Beach (1993), for example, has studiedsubdominant
+recapitulations in Schubert. Sonatas with subdominantrecapitulationsand
+sonataswith reverseddesigns may be genericallyrelatedinsofaras both
+avoid an expected structural
+tonic at the beginningof the recapitulation,
+and both replace interruptionwith an undivided Urlinie. Schachter's
+in
+(1991, 250-51) analysis of the WIII
+recapitulation the Finale of Schubert's Ninth Symphony also sheds light on the problem of Schubert's
+off-tonic recapitulations.
+More generally,JackAdrian'sdetailed studies
+of sonata form systematically explore some of the territory already
+mappedout by Schenkerand Oster (Adrian 1990a; 1990b). Building on
+Oster's addendum,
+Adriandefines the ternarysonataform as a sonatain
+which the initial structural
+tonic supportingthe Kopftonreturnstwice in
+the course of the sonata:at the beginningof the developmentsection and
+Such a ternarysonatawould conagain at the onset of the recapitulation.
+tain three, rather than the customary two, "structural
+downbeats,"as
+definedby Morgan(1969). Accordingto Adrian,this repertoire
+includes
+the firstmovementsof Brahms'sViolin Sonatain G MajorOp. 78 (187879), Piano Trio in C Major Op. 87 (1880), Fourth Symphony Op. 98
+(1884-85), andClarinetSonataOp. 120, No. 2 (1894). As I arguebelow,
+however,the first movementof Brahms'sFourthSymphonyis a special
+tonic supporting primarytone does not apthe
+case, in thatthe structural
+pear at the real beginning of the recapitulation(m. 259) but is instead
+reservedfor the onset of the coda (m. 394) in the partiallyreversedsonata
+form.9
+Let us now examinevariousways in which dislocationof the standard
+sonata design in reversed sonata form may influence large-scale tonal
+structure.Tragedy is representednot simply by reversingthe order of
+but
+groups in the recapitulation, by tonal displacementof the tonic norassociated with the beginning of the recapitulation.Figuratively
+mally
+speaking,the cruelhandof Destiny upsets not only the sonatadesign, but
+also destroys or distortsthe expected harmonic-tonal
+structure.In some
+examples of tragicreversedsonataform,reversingthe orderof groupsin
+the recapitulationinvolves displacing the recapitulatedsecond group's
+tonic by a more background
+chord, sometimes by a prolongeddominant
+extending forwardout of the development.As a result of this dominant
+extension, the definitivereturnof the tonic (with its associatedstructural
+66
+
+downbeat) does not coincide with the returnof the second group, but
+ratheris saved for the culminatingrecapitulation the firstgroup.10
+of
+The backgroundtonal structuresin tragic reversed sonata forms are
+structuresunderlyingsonata form
+quite different from the interruption
+Withthe most common type
+presentedby Schenkerin Free Composition.
+of late eighteenthcenturyreversedsonata form, the primarytone is not
+Instead,the uppervoice
+regainedat the beginning of the recapitulation.
+is undividedas V/2, prolongedthroughthe developmentand the recapitulationof the second group,resolves to I/i over the recapitulation the
+of
+firstgroup.Because I/1 (whichcoincides with the return the firstgroup)
+of
+descent in the uppervoice, the recacompletes the large-scalestructural
+functionas a coda. In norpitulationof the firstgroupmay simultaneously
+mativesonatastructure,
+coincides with the breakin the musiinterruption
+cal discourse between the end of the developmentand the onset of the
+In
+of
+recapitulation. reversedsonataform,however,recapitulation the second and firstgroups constitutesa design-structural
+unit; thus, insteadof
+between the end of the recapitulated
+second and firstgroups,
+interruption
+V/2 resolves to I/1 within an undividedstructure.In Schenker'ssonata
+tonic supporting primarytone at the
+the
+model, the returnto the structural
+of the recapitulationsignifies a tonal returndeep in the midbeginning
+dleground.However, the idea of a second chance in the deep middlegroundis foreignto tragicreversedsonataform;in the tragiccontext,the
+undivideduppervoice and continuouslyunfoldingharmonic-contrapuntal process may connote the inexorableunravellingof tragic destiny.'
+Tracingthe genreof tragicreversedsonataformthroughtwo centuries
+connoexposes a complex networkof overlappingand interpenetrating
+tations.Thus,when Haydn,Mozartor Brahmsemploy the genre,the plasticity of their treatmentrings variationsupon its inheritedsignificances.
+Analyzing late eighteenth and early nineteenth century precedents in
+Beethoven, and Schubertcontributesto the
+Haydn,Mozart,Cherubini,'2
+of
+of
+understanding Brahms'streatment the form.A few late-eighteenth
+century instances of the tragic, programmatic
+significationof reversed
+sonataform can be found in the Finale of Haydn's SymphonyNo. 44 in
+E minor(1771, subtitled,possibly authentically, "Trauersymphonie"),
+the
+in the greatquartetfromAct III of Mozart'sIdomeneo(1781), and in the
+overtureto Cherubini'sMedee (1797). At the heartof Mozart'sunusual
+is
+handlingof formin the quartet subversionof naturalorder,particularly
+thatin the naturalbond between fatherand son. Tragicsubversionof nature by infanticideis also played out in violations of naturalharmonicformalorderin the overtureto Medee.
+Once the normativeproceduresof sonata form had been codified in
+the Formenlehre the mid-nineteenth
+of
+century,composersand theorists
+workingin the second half of the centuryattachedspecial significanceto
+deviations.The reversedsonata form of the Andante from Beethoven's
+67
+
+Third "Razumovsky"
+Quartet(1803), which may have served Schubert
+as a model for his Quartettsatz 1820, prompted B. Marxto describe
+of
+A.
+it as "seltsam fremd" (Kerman 1967, 149). Schubert's Quartettsatz
+(which Brahmsowned in manuscript)
+may have providedBrahmswith a
+formal model for four tragic works in reversedsonataform: the Finales
+of the first Cello Sonatain E minor,Op. 38 (1866) and the ThirdViolin
+Sonatain D minor,Op. 108 (1889), the Schicksalslied,Op. 54 (1868-71),
+and the TragicOverture,Op. 81 (1881).13
+If some interpreters
+have misread the design of works in reversed
+sonata form, this may be in part because the form has not been recognized as a legitimate genre. Donald FrancisTovey regardsinstances of
+reversedsonatadesign in Cherubinias evidence of a "deficientsense of
+had
+form,"observingrhetoricallyand yet paradoxicallythat "Cherubini
+a very good sense of form; he was profoundly moved by Haydn and
+Mozart,nor did Beethoven fail to influence him more than he liked to
+admitto himself. But his treatment the Vienneseformsresultsonly by
+of
+a precariousseries of flukes in anythingthatcan be judged by the same
+criteria"(Tovey 1989a, 173). Furthermore, relationshipbetween rethe
+versed sonata design and undividedtonal structurein this repertoireis
+frequentlycomplex, and so can easily provokeconfusing, even contradictory analyses. Too often, the source of ambiguitylies more with the
+analyst than the composer.For example, contraryto Coren's (1974) assertion of "ambiguity[my emphasis] in Schubert'srecapitulations,"
+the
+in
+relationshipbetween design and tonal structure Schubertis generally
+complex but unambiguous.
+The Second Group over Dominant Prolongation
+The most common way of composing the second group'srecapitulation in the reversed sonata form is to continue dominantprolongation
+throughthe returnof the second group.An initialexampleis providedby
+the Finale of Haydn's Symphony No. 44. Recompositionof the bridge
+section (mm. 112-137) leads directly into the recapitulation the secof
+ond group (ex. la). Displacement of the tonic in the recapitulationis
+taken a step furtherby convertingthe expected tonic in m. 151 into a V
+of IV. The chromaticvoice-exchangein the developmentis then recomposed (m. 158) leadinginto an extensionof the dominant,which prepares
+the definitive tonic return.The arrivalon the structural
+tonic (m. 175)
+coincides with the returnof the firstgroup'smaterial,which doubles as a
+coda. The large-scale5-6-5 neighbornote 'x,' which spans exposition,
+of
+development,and recapitulation the second group, constitutesan enlargementof the motive presentedby the subject(exs. la-b).
+The Quartet from Mozart's Idomeneo provides a more elaborate
+The
+correlationin
+example of the reversedrecapitulation. formal-textual
+68
+
+27
+
+28
+
+Exp.
+FirstGroup
+l
+
+50
+
+67
+
+75
+
+Bridge
+
+111
+
+Second Group x
+
+A
+
+'I-f
+
+If^^
+
+;
+
+I
+
+1
+
+138 148
+
+Recap.
+Second G
+A
+
+5
+
+I!
+I-,-I
+
+p/
+
+I*V
+--
+
+137
+
+A
+
+6
+
+L^-
+
+112
+
+Bridge
+A
+
+5
+
+^
+
+79
+
+Dev.
+
+.I -"-1
+~I
+
+-4
+
+4
+
+__
+
+101
+
+~n.n..
+
+-_--_______
+
+V
+
+Example 1a: Haydn, Symphony No. 44 ("Trauersymphonie"),
+
+Is
+
+pw
+
+--
+
+a
+
+?
+
+tv I#.I'I-
+
+.!
+
+-
+
+-M
+
+I1
+I * 1. 1
+
+Example Ib: Haydn, Symphony No. 44, Finale, Op
+
+the Quartetis consistentwith the reverseddesign shown in ex. 2. Terzetti
+3-5 ("Serenail ciglio irato [...]") are consistently set by the second
+(mm. 92-153),
+group in the exposition (mm. 34-67) and recapitulation
+while terzetti 1-3 ("Androramingoe solo [...]") are initially set by the
+firstgroupand bridgein the exposition (mm. 1-33) and, when the text is
+repeated,by the development(mm. 67-91). The truncated
+recapitulation
+of the first group (mm. 153-end) returnsto the first line of the opening
+terzet.14
+Although the second group in a majormode sonata is usually in the
+dominant,ex. 2 shows that the expected dominantin the Quartet'ssecond groupis displacedto the beginningof the developmentby a descendThe
+ing arpeggiationof the dominantminor,F-DB-Bk. Bl minor of mm.
+39-55 is an apparentdominantinsertedinto this over-archingarpeggiation. The dominantattainedat the beginningof the developmentis proof
+longed throughthe recapitulation the second groupanddefinitivelyresolves to the tonic only in the recapitulation the firstgroupat the end.
+of
+As the graphillustrates,two huge prolongationsof an apparent
+tonic are
+inserted into the large-scale motion from B6 (V) to Cbmajor (6VI)and
+back to BK.
+Althoughthe initial tonic minorprolongedin mm. 97-129 is
+extendedby a drawn-out
+greatly
+prolongationof its dominant(mm. 10118), this tonic is an apparentI3, caught within the underlyingmotion
+from V to WVI. tonic majorin mm. 142-47 is similarlyan apparent
+The
+I
+caughtwithin the motionof VI back to V. These massive,false harmonic
+spaces in the second group, which appearto contradictthe underlying
+harmoniclogic, may embodyIdomeneo'sdilemma:eitherhe violates naturalorderthroughinfanticide,or political-social-moral
+order(which, as
+king, he is duty-boundto uphold)throughthe breakingof his vow.
+In Cherubini'sMedee Overture(ex. 3), ratherthan prolong III in the
+second group, as is typical of minor mode sonatas,the composerpoises
+the entiresecond groupon V/III.In m. 96, the music suggeststhe EL
+major
+dominantresolving to the A; majortonic; however,the Al majorchord
+tonic caughtwithincontinuingdominant
+(m. 96) provesto be an apparent
+prolongation.The withheldIII chord is definitivelyachieved only at the
+beginning of the development, where it immediately disintegratesin
+the
+unfoldingmodulations.By recapitulating second groupin exact transposition from V/III to V/I, the F majortonic (m. 205 correspondsto m.
+96) also functions as an apparentratherthan structural
+tonic; thus, the
+dominantreachedat the end of the developmentis prolongedthroughthe
+of
+recapitulation the second group,definitivelyresolvingto the tonic only
+with the recapitulation the first group(m. 276ff.).
+of
+In the reversedrecapitulation the A minorAndanteof Beethoven's
+of
+Op. 59, No. 3 (ex. 4a), the second group returns first in A major
+(mm. 100-13) and then in E; major(mm. 119-29), priorto the recapitulation of the first group (mm. 141ff.). Joseph Kerman,apparentlyunfa71
+
+17
+
+15
+
+20 25 28
+
+30
+
+33
+
+34
+
+56
+
+39
+
+66
+
+67
+Dev.
+
+FirstGroup
+
+Bridge
+
+A
+
+Second Group
+
+A
+
+=5
+
+5
+_
+
+_
+
+n.n.
+n.n.|
+
+I
+
+_L i~Y~ Rwsjq
+a$
+ar- t
+
+\
+
+i._
+
+-j
+T.I-l
+
+'
+
+............''
+
+-.
+jAff
+
+v
+.
+
+.
+
+jb
+
+-, ,
+:0f-
+
+^f' -
+
+A.-f^^
+r^ ' I-*c_1
+
+..T1I
+"
+
+L
+
+'
+
+'2
+
+gb-f
+B4+: V
+
+I
+92
+
+'
+t?
+
+L
+L
+
+-T
+
+~ -,
+
+~.M 1 ,
+:
+
+,
+lbj
+
+A:b
+
+11
+
+'_ J
+
+I'.
+
+_
+
+1
+
+=VO3
+
+Im
+
+t
+
+I
+1.
+vo
+
+False dominant !
+97
+
+101
+
+110
+
+122
+
+125
+
+130
+
+137 138
+
+142
+
+144
+
+Recap.
+..._____-.
+a'euonu uroup
+
+*
+A
+
+2
+
+9g
+
+>fft-g
+
+nn
+
+Example 2: Mozart,Idomeneo,Act 3, Quartet,Mid
+
+70 75
+Exp.
+FirstGroup
+A
+5
+
+76
+
+96 97
+
+98 103 104 159
+Dev.
+
+Bridge Second Group
+A
+4
+
+A
+
+3
+
+167 175 181 187 195
+
+199
+Recap.
+Second
+
+A
+
+2
+
+resolution!
+
+Example 3: Cherubini,Medee, Overture,Midd
+
+7
+Exp.
+FirstGroup
+
+20
+
+25 31
+Bridge
+
+40
+
+50 60
+65
+Dev.
+Second Group
+
+93
+
+V 100
+Recap
+Second G
+
+Example 4a: Beethoven, String Quartet, Op. 59 No. 3, And
+
+1
+FirstGroup
+A
+
+32
+
+cy
+A-: V
+
+_
+
+4
+
+d) FirstGroupand Second
+from
+GroupTransposed
+C majorto A major,
+Middleground
+
+c) Exposition,
+SecondGroup,
+Middleground
+
+b) Exposition,
+FirstGroup,
+Middleground
+5
+
+40
+42
+Second Group
+
+A
+
+A
+
+1
+
+3
+
+43
+r
+A
+
+A
+
+2
+
+A
+
+AA
+
+f' tr^
+I C+: V4
+
+A
+
+1
+
+A
+
+A
+
+2 1
+
+r
+I A+: V--'
+
+"" A-:
+
+I
+
+V--
+
+I
+
+Examples4b-d
+miliar with reversed sonata design, equivocates about the form of the
+Andante: "Classification this Andante as a movementin sonataform
+of
+makes little sense, even thoughit incorporates section ratherlike-yet
+a
+unlike-a developmentsection, and even though it manages
+curiously
+what sounds like a 'second theme' with passable sonata-formnormality.[. . .] To speak of such a movementas a sonata form with irregularities is like calling a dog irregular
+when it grows long whiskers,washes its
+face, and miaows"(Kerman1967, 150).15
+Common sense analysis interpretsthe tonic (A) majorof the second
+tonic, and, indeed,
+group's recapitulation(mm. 100-13) as a structural
+this is how it is understoodby Bruce (1969). A more sophisticatedanalysis, however,explains this A majoras an apparenttonic undermined
+by
+surroundingevents. In order to understandthe tonal structureof this
+reversedrecapitulation, is helpful to observe the structural
+it
+parallelism
+between the opening themes of the firstand second groups.As shown in
+exs. 4b-c, each group presentsan Anstieg to a descending3-line over a
+cadential V6:. In the second group, the prolongationof the dominant
+six-four is achieved in a ratherunusualway by shifting from six-four to
+six-threeposition priorto the cadentialresolution.Transposingthe second groupfromC majorto A major(ex. 4d) leads to closer structural
+parallelism-with mixture-between first and second groups. Since the
+orderof the groupsis reversedin the recapitulation, firstgroup'sprithe
+second group'sC#
+marytone C (3, m. 1) is displacedby the recapitulated
+(#3,m. 102), which thencollapses as if it were Dl (14)to the recapitulated
+first group's C (3, m. 141, exs. 4a and d). This idea is preparedearly in
+the piece by emphaticstatementsof the descendingsemitone DV-C
+(mm.
+25-30 and mm. 60-63).
+75
+
+5 9 13
+Exp.
+FirstGroup
+5
+
+r--'
+
+16 20 25
+
+28 29 31 40
+
+51
+
+Bridge
+4
+
+fom
+Dl hid mtiv
+=.'~V ubjctDefinritive
+= rising
+third
+fromsubject
+motive
+
+53
+
+65
+
+74
+
+Second Group
+3
+
+76 79
+
+80
+Dev.
+
+84
+
+A
+
+2
+
+arrival on I
+delayed through it group!
+
+Example 5a: Brahms, First Cello Sonata, Op. 38, Finale,
+
+The tonic (m. 110, ex. 4a) initially seems to representthe definitive
+resolutionof the cadentialdominantsupporting beginningof the secthe
+ond group's recapitulation(mm. 100-9); however, subsequentevents
+subvertthis tonic resolution. The short transitionemploying a 5-6 exchange (mm. 113-115) leads to BLas dominantof ES,which initiates a
+surpriserepetitionof the second group in the remote key of E; major
+(mm. 116-129, NVof A). This ES major repetition is caught within a
+large-scalevoice exchange involvingE and C#,which prolongsthe dominantsix-fourby shiftingit from six-fourto six-threeandbackto six-four
+The E; majorrepetitionproduceschromaticpassing tones in
+position.16
+the outervoices: E; in the uppervoice functioningas D#filling in the third
+filled in third,
+C#-E,andE; in the bass descendingwithina chromatically
+E-El-D-C#.Throughthe duality of D# and E; passing tones, Beethoven
+in
+suggests an augmentedseventh(EN-D") the deep middleground.
+In the Finale of Brahms'sFirst Cello Sonata,the dominantprolongation is extendeddeeperinto the reversedrecapitulation
+thanin any of the
+previous examples (ex. 5a). In the Cello Sonata, the definitivetonic returnis displaced beyond the recapitulation the second group into the
+of
+middle of the recapitulation the first group.The first group is a fugal
+of
+expositioncontainingthe subjectin the tonic at mm. 1-4 with the answer
+at the dominantin mm. 5-9. Brahmsachieves the extraordinary
+effect of
+of
+continuingthe dominantprolongationthroughrecapitulation the first
+group (m. 132ff.) by an astonishinglysimple device: he omits the initial
+four-measure
+tonic statementof the subjectso thatthe recapitulation
+bewith the answeron the dominant.AlthoughBrahmsthen restatesin
+gins
+mm. 132-58 the contents of mm. 5-31 virtuallyunchanged,these measures are tonally revaluedin the larger context. Whereas in the exposition, the tonic at mm. 1-4, 9-12, 16-19, and 25 is structural,in the
+this
+recapitulation same tonic is caughtwithin continuingdominantprolongation;its function in the latercontext is to supporta passing tone E
+in the uppervoice (m. 136) on its way up to F (m. 158).
+The middlegroundof this work grows out of two essential motivic
+ideas containedin the fugue subject:the ascendingthird,motive 'x'; and
+the octave leap, motive 'y' (ex. 5b). Enlargements 'x,' sometimesfilled
+of
+in chromatically, indicatedwith bracketsin ex. 5a. The middleground
+are
+voice-leading of the developmentgrows organicallyout of 'y,' which is
+first stated as F#-F#
+(mm. 80-99) and then distortedas a diminishedoctave F#-Fh
+of
+(2-2, mm. 107-155). This second, distortedenlargement the
+octave motive, filled in by enlargementsof the rising thirdmotive, spans
+the retransition,the returnof the second group, and at least half of the
+returnof the tonally revaluedfirstgroup.
+In the Schicksalslied(ex. 6a), Brahmsmodifies reversedsonataform
+by omitting the first group from the recapitulation.
+Implicit in reversed
+sonataform is the idea of circularityor returnto point of origin. In tragic
+77
+
+i
+
+y
+
+i
+
+X
+
+x
+
+Example5b: Brahms,FirstCello Sonata,Finale, mm. 1-2
+becomesmetaphorical entrapment flightwithfor
+or
+situations,circularity
+out escape. The above-citedQuartetfrom Mozart'sIdomeneo,for example, concludes with Idamante'sopening cry of despair.Indeed,all of the
+charactersin the Quartetfind themselves caughton a treadmillof tragic
+destiny, since a solution to the conundrumhas not yet presenteditself.
+Although Brahms sacrifices the recapitulationof the first group in the
+Schicksalslied,the idea of circularityimplied by the reversedsonatadesign is intensifiedthereby redeploymentof the introductionas a coda.17
+Two recent analyses of the Schicksalsliedby Luhring(1985) and Daverio (1993) concur in their interpretation the design as a "double
+of
+sonata form."18
+Both analysts regardthe setting of the first two stanzas
+(mm. 29-96) as a sonatain E; linked by a transitionto the setting of the
+third stanza, a second sonata in C minor.In this interpretation, first
+the
+sonatalacks a developmentsection, the motion to the dominantin m. 64
+insteadfor the development.
+forsubstituting
+Accordingto the alternative
+mal-tonalanalysis proposedin ex. 6a, however,Luhringand Daverio's
+firstsonataconstitutesthe firstgroupof a single reversedsonataform.
+This firstgroup(mm. 29-96) is a strophicbinarydesign AB/AB'. The
+poem's initial two stanzas are composed of six and nine lines respectively. The strophicdesign of the setting parallelsthe poem's design, as
+A and A' set the firstfour and six lines of each stropherespectively,and
+B and B' set the remainingtwo and threelines. From a structural
+standpoint, the dominantin m. 64 functionsas a divider,and not as a structural
+dominantsupporting
+as
+interruption, one mightexpect in a sonataor sonatina. This dividing dominantserves to articulatethe setting of the two
+strophesinto antecedantand consequent.
+Both Luhringand Daverio describe the second sonata as being in C
+minor,readinga move from I to V in its exposition (mm. 104-79). However, my analysisin ex. 6c shows thatBrahmsneverestablishesthe tonic
+in this section; instead,the key of C minoris suggestedby prolongingits
+dominant,G.19As shown in the analyticalgraphs (exs. 6c-d), the tonic
+chords in mm. 113, 128, and 210-50 are trappedwithin middleground
+progressions.Ex. 6d, a graphof the development,shows how the C minor
+tonic triesvainly to free itself fromthe unrelenting
+graspof the prolonged
+dominantof the dominant.This tonic entrapment
+grows out of the earlier
+subversionof the tonic by the prolongeddominant(ex. 6c). Lacking a
+78
+
+1 11 16
+Introduction
+
+A7
+
+23
+
+29 41 52 59 63 64 69 85 88 91 94 95 96 102 112 157 166 210 260 261 262 26
+Dev.
+Exp.
+Bridge
+Brid
+FirstGroup
+Second Group
+B
+A
+A B1
+Urmotiv
+6
+
+A
+
+Example 6a: Brahms,Schicksalslied,Op. 54, Mid
+
+Urmotiv
+C-:5
+
+7
+
+6
+
+5
+
+Example6b: Brahms,Schicksalslied,Urmotiv
+modulationand a tonally definedsecond group,the passage encompassing mm. 104-79 does not constitute a complete sonata exposition. Instead, this section functionsas the second groupwithin the over-arching
+reversedsonatadesign. As shown in ex. 6a, the recapitulation the secof
+ond group (m. 274f.) begins over the dominantof the ultimateC tonic,
+dominantprolongationhaving been initiatedby the second groupin the
+exposition.The uppervoice of the workas a whole constitutesan enlargement of the Urmotiv,which is embeddedin the stormtheme (ex. 6b): B6,
+5 of E; major,is drawninto the orbitof C minoras 7, and then collapses
+throughA; (6) to G (5, compareexs. 6a and b).20
+The Second Group over a Passing Tone
+The unusualformof Schubert'sQuartettsatz provokedconflicting
+has
+analyses. For example,Webster(1978, 26) claims thatthe movement"is
+not in sonataform,"while Coren(1974, 576) vacillatesin his interpretation.2'However,reversedsonatadesign is clearlydelineatedin the QuarThe
+tettsatz,as shown in ex. 7a.22 briefbutintensefirstgroup(mm. 1-26)
+leads directly into an extended second groupcomposed of three distinct
+thematicideas: a lyrical firsttheme (mm. 27-60), a violent second theme
+(mm. 61-76) followed by a brieftransition
+(mm. 77--90),leadingto a lyrical third, closing theme (mm. 93-140).23 The developmentspans mm.
+141-94. The reversedrecapitulation
+preservesthe establishedsequence
+of the threethematicareaswithin the second group,while modifyingthe
+material tonally: the first theme returnsat mm. 195-228, the second
+at
+theme,at mm. 229-40, the transition, mm. 241-56, andthe thirdtheme,
+at mm. 257-304. The coda thentakescareof the recapitulation the first
+of
+groupat mm. 305-end. As we have seen, it is not uncommonin reversed
+sonatadesigns for the recapitulation the firstgroupto simultaneously
+of
+functionas the coda. In the Quartettsatz, in the above-citedHaydnand
+as
+Mozartexamples,the coda doublesas the recapitulation the firstgroup.
+of
+The structural
+tonic is attained(m. 257 in ex. 7a) sixty-two measures
+after the onset of the design recapitulation.The middlegroundof the
+Quartettsatzconstitutes a massive enlargementof the opening Aussenin
+satz, c-d-eV-e-f-f#-g the uppervoice supportedby a descending tetrain
+chord,the basso lamentoC-Bl-AA-G the bass (ex. 7a-b).24
+Thus, the Be
+80
+
+112 114
+
+115
+
+117
+
+119
+
+120
+
+122
+
+124
+
+128
+
+131
+
+132
+
+134 138
+
+Urmotiv
+IA
+
+A
+
+576
+
+A
+
+Example 6c: Brahms,Schicksalslied, Exposition, Second Group(mm
+
+166 194 195 197 198 209 210
+
+222
+
+224
+
+227
+
+228
+
+232
+
+236 2
+
+Urmotiv
+
+I
+
+.
+
+I1
+
+~~I
+
+A-
+
+\
+
+,,h
+-
+
+- - -I - -_-=f. I
+I - - -I
+
+"I"
+i!
+becomes
+
+C-: V/V
+
+I trapped"
+
+Example 6d: Brahms, Schicksalslied, Development (mm. 166
+
+over which the second groupreturns(m. 195) is revealedto be a passing
+tone within the descendingtetrachord.25
+The Second Group over Submediant Prolongation
+Schubert'sbold and imaginativeprojectionof the reversedrecapitulation over IVII
+could have deeply impressedBrahms,who owned the manof the Quartettsatz,
+and urgedits publicationin 1870. The comuscript
+betweendesign andtonalstructure Schubert'ssonata
+in
+plex relationships
+forms may well have inspiredBrahms'sown imaginativedesign-structurecounterpoints.
+The Finale of Brahms'sThirdViolin Sonataprovides
+a further
+remarkable
+exampleof reversedsonataform;in this case the second groupis recapitulated
+over VI.
+If analystshave debatedwhetherto describethis Finale as a sonataor
+rondo, their differences may be ascribedto the movement's especially
+correlation. unpublished
+An
+complex design-structure
+analysispreserved
+in the Oster Collection reveals that Schenker(1920b, 279-82) regarded
+the form as a seven-partrondo "afterthe Mozarteanmodel,"as follows:
+"Al- (mm. 1-38, in D minor)B1- (mm. 39-112, in A minor)A2- (mm.
+114-29, in D minor) C1- (mm. 130-71, moving from G minor through
+B6minor,C#minorto F minor)A3- (mm. 172-217, F minorto D major)
+B2- (mm. 218-92, D minor)A4 (coda, mm. 293-end, D minor)."This
+undatedanalysis is probablyquite early, predating1923. In an analysis
+published in the early thirties, Edwin Evans offers both a rondo interpretationsimilar to Schenker'sand a sonata analysis in which the recapitulation of the first group begins in m. 172 (Evans 1935, 241-42).
+However,Evans seems uncomfortablewith his own sonataanalysis, esthat
+pecially with locating the returnin m. 172, remarking "theslight reference to firstsubjectat the return(or thirdrondosection as the case may
+be) is a feature almost amountingto omission of the theme."Perhapsa
+more compelling, rondo interpretation
+would assimilate Schenker'sand
+Evans's second return(mm. 172-213) within a largerC (mm. 130-217)
+to yield a six-partrondo form:ABACBA.
+Is the returnof the opening materialin mm. 114-29 the firstreturnin
+a rondoor a reminiscence,which initiatesa sonatadevelopment?Designating the first groupA, the second group B, and the developmentC, it
+becomes clear thatthe five-partreversedsonataformABCBA is related,
+at least outwardly,to the six-partrondo formABACBA. Furthermore,
+if
+the composermakes referenceto the opening (A) at the beginningof the
+development-a common procedurein sonata forms-reversed sonata
+form can easily become confused with rondo. Mitschka (1961, 280)
+identifiestheViolin Sonata'sFinale as being in sonataformwithoutcommentingon the orderof the groupsin the recapitulation.
+Musgrave(1985,
+192) assertsthat"theform is not a rondo,but ratheranotherspecial type
+83
+
+27
+Exp.
+FirstGroup
+
+61
+
+77 81
+
+91 93
+
+141
+
+149
+
+157
+
+173
+
+182 183 195
+
+Dev.
+Second Group
+FirstTheme Second Theme
+
+Third
+Theme
+
+Reca
+Seco
+First
+x
+
+'A
+
+A
+
+2
+
+1i
+
+,
+Ib^
+
+L:^
+x^^
+
+V
+
+V
+
+A
+
+i
+1
+
+2
+
+,^.==
+
+D: V
+p.t.
+
+I
+
+p.t.
+
+Example 7a: Schubert,Quartettsatz, Middleg
+
+x
+
+mm. 2-4
+Example7b: Schubert,Quartettsatz,
+of sonataform in which the firstsubjectreappears thougha rondoafter
+as
+exposition, to lead to developmentafter which the second subjectis recalled with the rest of the originalmaterial."
+Different concepts, however,underly the reversed sonata and rondo
+forms. In sonata form (with both regularand reversedrecapitulations),
+the exposition is characterizedby polarity between groups, which are
+distinguishedby key, thematic content, and general mood. Exposition
+and recapitulatioh
+counterbalance another,the boundariesand mateone
+rials of each group generallybeing preservedin the recapitulation,
+even
+if orderis reversedand certainmodificationsare made to accommodate
+tonal structure.In rondo, the returnsof A serve as goals of tonal action,
+separatedby recurrencesof B and C, which function as intervening
+episodes. If the opening material(A) returnsat the beginningof the defor
+velopment in a sonata,it serves as a point of departure the development (C) ratherthan as a goal. A furtherdistinction between the two
+forms concerns the subsequenttreatmentof the second groupin the sonataand the firstepisode in the rondo.Essentialto the sonataidea is that
+the recapitulation the second groupbe rigorouslymodeled on the secof
+ond group in the exposition, preservingits polaritywith the first group.
+In the rondo,on the otherhand,the recurrence B materialis potentially
+of
+freerin its recapitulation.
+It is informativeto comparethe firstreturnin the Finale of Brahms's
+Violin Concerto-a genuine six-part rondo form (ABACBA+Coda)with the reminiscenceof the openingat the beginningof the development
+in the Violin Sonata'sFinale. In the concerto-rondo, firstreturn(mm.
+the
+93ff.) is a clearly marked goal. It occurs in the tonic and retains the
+theme'scharacter,
+basic shapeandharmonicstructure. the Finaleof the
+If
+Violin Sonata were in rondo form, one might expect the auxiliary cadence of mm. 1-21 to be broughtback in full. Instead,the returnis truncated so thatonly mm. 1-16 returnas mm. 114-29, perchedentirelyon
+85
+
+16 17
+Exp.
+FirstGroup
+A
+
+5
+
+96 113 114
+Dev.
+Bridge Second Group
+33
+
+37
+
+77
+
+118 130 141 142 172 189 194
+
+A
+
+4
+
+A
+
+3
+
+Example 8a: Brahms,ThirdViolin Sonata, Op. 108, Finale,
+
+16 17 33 37 72
+73
+Exp.
+FirstGroup Bridge Second Group
+A
+A
+B
+
+172 180181183186187189
+
+193
+
+77 95 96 104 107 108
+
+194
+Retrans.
+
+Part3
+
+210 212
+
+111
+
+216251 252
+
+Recap.
+Bridge Second Group
+A
+
+113 114 118 130141142
+Dev.
+
+256 274 275283 286
+285 287
+B
+
+A1
+
+Not yet structur
+tonic!
+
+Example 8b: Brahms,ThirdViolin Sonata, Finale, Seco
+
+an apparentdominant.26 usual practice in rondo is to preserve the
+The
+of the theme and vary the continuation.But the incipit in mm.
+incipit
+114-17 differs from mm. 1-4, furtherweakeningthe rondoeffect.
+In my view, then, the Violin Sonata'sFinale is a reversedsonataform
+ratherthan a rondo, the first groupbeing recapitulated mm. 293-330
+in
+afterthe second groupin mm. 216-292 (ex. 8a). Trueto the sonataprinciple, Brahmsrecapitulatesthe second group exactly. This group (mm.
+37-113) is subdividedas a small ternaryform-A at mm. 37-76, B at
+mm. 77-103, A' at mm. 104-13 (ex. 8b)-and is recapitulated
+note-fornote at mm. 216-92. The first group (mm. 1-30) is a small binaryform
+composedof two sections supported an auxiliaryV-Icadence:A (mm.
+by
+1-16) on the dominant,and B (mm. 17-30) on the tonic. This small form
+is recapitulated
+afterthe second group,with A at mm. 293-310 and B at
+mm. 311-30. The bridge from the exposition (mm. 31-36), which prepares the returnof the second group in mm. 210-15, is attachedto the
+retransition mm. 194-209. The modified returnof the opening (mm.
+at
+114-29) may be interpretedplausibly as a reminiscence initiating the
+development.The form of development(mm. 114-93) is thus described
+as follows: varied reminiscence of the opening (part 1, mm. 114-29),
+fantasy on materialfrom the first and second groups (part2, mm. 13071), and contrapuntal
+developmentof first group material(part 3, mm.
+172-93).
+The analyticalsketches furthershow the complex and unusualinterrelationshipbetweenreversedsonataform andundividedtonal structure.
+Major junctures in design do not invariablycoincide with harmonic
+points of arrival.For example, the first group and its recapitulation
+provide a clear instance of harmonic-structural
+overlap. The design of the
+firstgroup(mm. 1-30) straddlesa V-I cadence.When this groupis recapitulated (mm. 293-330), the initial auxiliary dominant becomes the
+structural
+dominantsupporting2, which resolves to the final tonic supcoda begins in m. 311 with the final tonic, but
+porting 1. The structural
+the design recapitulation the first group continuespast this structural
+of
+coda to m. 330. The design coda begins only afterthe generalpause in m.
+331. In this case, design lags behind structure.From a structuralperfor
+spective, the mainpoint of departure the developmentis the subdominant (m. 130), while a design perspectivewould have the development
+initiatedearlier(m. 114), with the variedrecollectionof the opening. In
+this case, design outpaces structure.
+These design-structural
+"misunderstandings"may be partof the purely musical tragedyembodied in this
+impassionedwork.
+Before leaving the Finaleof the ThirdViolin Sonata,a further
+unusual
+aspect of the work requirescomment.The listeneris struckby the direct
+octaves statedby the violin and piano (bass) as the A chord supporting
+5
+88
+
+4
+(m. 129) moves down to the G chord supporting (m. 130). As already
+noted, the A chordin the second group(mm. 92-107) is to be understood
+as the upperthirdof F (III),ratherthanas a definitivearrivalon the dominant of D. (The structuraldominant in the undivided backgroundis
+saved for m. 293.) Thus, these octaves are amelioratedby correctvoiceleading in the backgroundas the F chord (III, m. 37) ascends to the G
+chord (IV, m. 130). In spite of this background
+justification,the surface
+octaves are particularlystrikingand, to my ears, hardly "beautiful,"
+to
+use Brahms'stermof approbation octaves in his collection of octaves
+for
+in other composers' music (Mast 1980; Laudon 1992). Is their harsh,
+even sullen affect also connectedwith the work's tragiceffect?
+The Second Group within a Large-scale 5-6 Exchange
+The complex interaction reversedsonatadesign and tonal structure
+of
+in Brahms's TragicOverturehas presentedserious challenges to analysis. Webster(1983, 111) proposes that the form of this work is an oversonata-rondo,
+ABA, and ritorello
+lay of "sonata-without-development,
+However,
+principles, even though the sonata idea remains paramount."
+by simultaneouslyidentifying so many differentschemes, Websterobscures importantdistinctions among the designs invoked and blurs the
+reversedsonata'designof Brahms'scomposition.Websterobserves that
+Brahms omits the first group at the beginning of the recapitulation
+(m. 300ff.) without recognizing Brahms'sbroaderdesign strategy.The
+of
+recapitulation the first group is not simply left out; rather,a recapitulatoryapotheosisof the firstgroup'sinitial section-in which mm. 367402 transform
+mm. 1-20-is placedafterthe recapitulation the second
+of
+This complex reversedsonataform may
+group(mm. 300-366, ex. 9b).27
+outlinedas follows:
+Section 1: Exposition(mm. 1-184)
+First Group(mm. 1-65)
+Part 1 (mm. 1-20)
+Part2 (mm. 21-65)
+Bridge (mm. 66-105)
+Second Group(mm. 106-84)
+Part 1 (mm. 106-25)
+Part2 (mm. 126-41)
+Part3 (mm. 142-184)
+Bridge to Development(mm. 185-207, based on introduction)
+Section 2: Development(mm. 208-263)
+(mm. 264-99)
+Bridge to Recapitulation
+89
+
+22
+52 74
+77
+92 102
+178 201 204
+123
+168
+206 228
+15 46
+72
+75
+78
+163
+172 ~ 198 202 205
+100 122
+220 23
+Dev.
+Exp.
+Recap.
+First
+Second Group
+First Group Second Group
+Group Part 1
+Part2
+Part 1
+Part2
+
+of
+Enlargement motto
+
+Not yet structural to
+
+C as "upperfifth" o
+or
+
+Example 9a: First Reading
+
+>"
+h
+
+LIV'
+Enlargementof motto
+
+Structural
+duality representsCoriolan's indecision, his "two
+
+Example 9b: Second, AlternativeReading
+
+Examples 9a-9b: Beethoven, Coriolan Overture,Op. 62, Structural
+Dual
+
+81
+21
+Exp.
+FirstGroup
+A
+5
+
+320
+299+
+336
+211
+126
+142
+203
+253 263
+264 300
+3
+335
+232 256
+141
+171
+208
+Dev.
+Recap
+F
+Second Group
+Bridge Second Group
+Part 1 Part2 Part3
+rt
+Part3
+PaPa Pa2
+
+105
+82
+
+Bridge
+
+106
+
+F+: '
+
+S~~~~~~~~~~~~
+
+,
+
+o
+
+L.-
+
+-
+
+*
+a
+
+F+: V
+I
+I
+t
+
+I
+
+II
+
+I
+
+V
+
+I
+
+I
+
+I
+
+I
+
+I I
+
+I~~~~~~~~~~~
+I
+
+Enlargementof motto, y-form
+
+Not yet structura
+tonic!
+
+Example 9c: Brahms, Tragic Overture, Op. 81, Mid
+
+Section 3: Recapitulation Second Group(mm. 300-66)
+of
+Part2 (mm. 320-35)
+Part3 (mm. 336-66)
+of
+Recapitulation First Group,Part 1 (mm. 367-402)
+Coda (mm. 403-22)
+Conclusion(mm. 423-end)
+Beethoven's Coriolan Overture may have served as a model for
+Brahms'sTragicOverture.In both overtures,the majortonic associated
+with the recapitulation the second groupis trapped
+of
+withina large-scale
+5-6 exchange (compareexs. 9a and c). The middlegrounds the Tragic
+of
+Overture CoriolanOverture conditionedby a 5-6 mottopresented
+and
+are
+in the openingmeasures(compareexs. 10a andc). In the CoriolanOverof
+ture,the C majorrecapitulation the second group'slyricalPart1 (mm.
+178ff. and m. 244ff.) may be interpreted
+both as the dominantof the subdominant,ensnaredwithin the large-scale 5-6 exchange over the pro(ex. 9a), and as the tonic major(ex. 9b); this struclonged subdominant
+tural duality may represent Coriolanus's prolonged indecision, his
+"two-mindedness"
+whetherto attackRome or heedhis mother's
+regarding
+to retreat.28 Brahms's Tragic Overture,the recapitulation the
+In
+of
+plea
+second group's lyrical Part 1 in the tonic major (mm. 300ff.) becomes
+similarlyensnaredwithin a large-scale5-6 exchange over the prolonged
+mediant(ex. 9c).
+Exs. lOb-c show the two harmonic implications of the motto of
+Brahms's Tragic Overture.In the first interpretation
+(labeled 'x' in ex.
+lOb), the D minor six-threechordis a re-voiced extension of an implied
+1
+
+3
+
+.
+
+5
+
+7
+
+9
+
+11
+
+.1.........
+
+IIV"-
+
+6
+
+14
+
+13
+
+15
+
+etc.
+...........
+
+Vn0l7 V
+
+:
+
+I
+
+Motto
+
+C as "upper fifth"
+of F
+Example lOa:Beethoven, Coriolan Overture,mm. 1-15, Middleground
+93
+
+x-form
+IA
+
+y-form
+A
+
+5
+
+5
+
+.......
+
+bJ
+.....
+
+T
+
+Is11
+
+I
+
+-;
+
+.......
+III'
+
+s
+
+Examples lOb-c: Brahms,TragicOverture,'x' and 'y' Formsof the
+UrmotivImpliedby the Motto
+root position tonic. In the second reading(labeled 'y' in ex. lOc), the D
+minor six-threechord is producedthrougha 5-6 exchange over the root
+position, mediant F major. Brahms realizes both implications in the
+work's first six measures(ex. 10d).29 the deep middleground, 5-6
+In
+the
+exchange initiated in the exposition's second group (m. 106ff.) bridges
+over the recapitulation the second group's Part 1 (mm. 300-19) as a
+of
+colossal enlargement the motto's 'y' form(ex. 9c). This large-scale5-6
+of
+connectionis reinforcedby the tremendousweight of the second group's
+Part2 (mm. 320ff.), and also by Brahms'schange of key signatureback
+to D minorin m. 320.
+The Partially Reversed Recapitulation in Brahms
+Brahms modifies reversedsonata form in two importantlate works,
+the first movementsof his FourthSymphonyand C minorTrio. In both
+is
+compositions,the opening of the recapitulation suppressedand shifted
+to the beginningof the coda. This design is only partiallyreversed,since
+the initial partof the first group is placed after the recapitulation the
+of
+second group.In conjunctionwith the design displacement,the returnof
+the structural
+tonic supportingthe Kopftonis shifted from the beginning
+of the recapitulation the beginningof the coda (exs. 1la and 12a).The
+to
+backgroundsof the first movementsof the FourthSymphonyand the C
+minor Trio, like those of all other sonatas consideredin this article, are
+In
+undivided;neithercompositionemploys interruption. the FourthSymphony (ex. 12a), the recapitulation
+begins (m. 259ff.) over the submediant as upper fifth of the Neapolitan augmentedsixth chord (m. 373ff.)
+embellishing the tonic (m. 394ff.), while in the Trio (ex. 1la), the recapitulation(m. 126ff.) is supported a dividingdominant.In bothpieces,
+by
+the structuralaction of the Urlinie descent is displaced to the design
+coda.30
+94
+
+x-form
+
+y-form
+I
+
+I
+
+I
+
+I
+
+III '
+
+Example 10d: Brahms,TragicOverture,'x' and 'y' Formsof the
+UrmotivPresentedin mm. 1-6
+The ascending triadicmotive 'x' (ex. 1lb) presentedat the outset of
+the firstmovementof the C minorTrio also underliesthe first subjectof
+the second group (ex. 1Ic). A motivic reason for Brahms'sdecapitating
+the firstgroup'srecapitulation
+may be clarifiedwith referenceto the midtonic supportingthe
+(ex. 1la). Detachingthe structural
+dlegroundgraph
+(m.
+Kopfton5 from the beginningof the recapitulation 126) and shifting
+it to the coda (m. 192) allows the outervoices to projectenlargements
+of
+'x' deep into the recapitulation.
+In the firstmovementof the FourthSymphony,the shadowyreference
+to the openingat mm. 246-58 does not constitutethe definitivebeginning
+of the recapitulationeither structurallyor motivically. Rather,the true
+beginning of the recapitulationis postponed until m. 259ff., when the
+music literally recapitulatesm. 5ff. in the exposition. Ex. 12a analyzes
+the illusory returnat mm. 246-58 in the context of the movement as a
+whole. Specifically, the graph shows the structuraltonic supporting5,
+which one would expect at the beginningof the recapitulation,
+displaced
+to the beginningof the coda (mm. 394ff.). As in the C minorTrio,the berecaginning of the coda (mm. 394ff.) doubles as the structural-design
+of the initial four measuresof the firstgroup.31
+pitulation
+The end of the development(strings,m. 258) is motivicallyconnected
+with the end of the recapitulation 373ff.) throughthe intervalof the
+(m.
+see
+augmentedsixth F-D#(22-f7; the asterisksin ex. 12a). The dominant
+prolongedthroughthe second group in the exposition and the development is not a structural
+dominantsupporting
+as
+interruption, in normative
+sonataform, but ratherthe upperfifth of the tonic, which then moves to
+the submediantas upperfifth of the Neapolitan.Thus, the main body of
+the movementis suspendedover a colossal 5-6-5 exchange, as the tonic
+moves up to the Neapolitan in a contrapuntal
+neighbor motion, -1-I.
+The harmonicI-II-V-Iaction of the Ursatzis reservedfor the coda.
+95
+
+26
+Exp.
+First Group Bridge
+
+38
+
+69
+
+81
+97
+Dev.
+Second Group
+
+98
+
+116
+
+122 123
+
+126 181
+Recap.
+TruncatedF
+and Second
+
+A
+
+5
+A
+
+?
+
+A
+
+C+: 2
+
+A
+21
+
+A
+
+1
+
+I--
+
+Ps
+IP,.-~
+
+~5z
+
+6-
+
+F
+
+5-
+
+5
+
+[6-1
+I
+1 1--Z7-
+
+x
+I
+
+A
+
+x
+
+m
+
+-
+
+2
+
+V
+
+Dividing dom
+
+a:
+Example 11I Brahms,Trio, Op. 101, First Movement,
+
+X
+
+\
+
+I
+
+i
+
+Example 1Ib: Brahms,Trio, Motive 'x' in the FirstTheme
+x
+
+s
+
+J
+,Ju
+V
+
+Jaj
+
+.p -
+
+1
+
+Example 1Ic: Brahms,Trio, Motive 'x' in the Second Theme
+Exs. 12b-dcall attentionto significantforeground
+motives, which are
+connectedwith the middleground
+voice-leading shown in ex. 12a. Much
+has been writtenregardingthe motivic significance of the falling third
+(Schoenberg1984, 406; Frisch 1984, 143; Litterick1987, 228-32). Cerof
+tainly,chainsof falling thirdsare a motivic preoccupation Brahms,esBut
+pecially in his late works.32 the motivic substanceof this movement
+is derived primarilyfrom the fifth-descending and ascending, perfect
+and diminishedforms-which is subdividedinto thirds(exs. 12b-d).The
+out
+aforementioned
+5-6-5 exchangein the background
+grows naturally of
+the first theme, which comprises two descending fifths, perfect ('a-p5')
+and diminished('a-?5'), separatedby a sixth (ex. 12b). The inversionof
+the initialfifth,filled in chromatically,
+forms a significantmotive,labeled
+'x' on ex. 12c ('x' = 'a-p5i'). Brahms calls attentionto the inversional
+relationship between 'a' and 'x' at the outset, as B-G-E ('a,' m. 1)
+becomes E-G-B ('x,' m. 5). Overlappingenlargementsand diminutions
+of 'x' are exhibitedin ex. 12d, spanningboth Tovey's "cloudy,mysterious" chordsat mm. 358-62 and the fanfaremotive at mm. 363-71 in the
+second group (Tovey 1989a, 221-22).
+Recognizing the unifying role of 'x' in the first group of the exposition reveals the motivic relationship,throughinvariant
+statementsof 'x,'
+between the first group, the development,and the recapitulationof the
+firstgroup(ex. 12a).33
+Because 'x' in the bass ('x'-t0') and 'x' transposed
+a fifth ('x-t5') in the innervoice simultaneouslyspanboth partsof the
+up
+exposition's first group (mm. 1-95), when the first group is transposed
+down a fifth in the recapitulation
+at
+(mm. 259-339), 'x' is held invariant
+tOin the inner voice. These invariantenlargementsof 'x' in the exposition andrecapitulation linkedby the massiveenlargement 'x' in the
+are
+of
+bass of the development(mm. 145-246). In a rough, unpublishedgraph
+preservedin the ErnstOsterCollection, Schenker(1920a) profiles 'x' in
+97
+
+31 44
+52
+Exp.
+FirstGroup
+Part 1
+
+53 74 75
+
+91
+
+92 93
+
+95
+
+119
+
+132 133
+
+126
+
+137 1
+Dev.
+
+Second Group
+
+Part2
+
+P
+
+3
+
+/ 259 273 288 296 297 316 317 335 336 338 339
+363 371
+Recap
+Truncated
+FirstGroup
+Second Group
+PartI
+Part2
+
+373
+
+I "[d$=|>e
+
+--|
+
+'J
+
+H
+
+5
+
+ae\5
+^^
+~~~y<^^'^~
+*"**^r$~~~~
+
+AVI
+
+V
+
+377
+
+PY
+
+390
+
+381
+
+==>$
+...
+
+??
+
+I>
+
+_
+
+/
+
+X
+
+g
+
+g
+
+#^^^>
+
+39
+Co
+
+*
+
+I
+
+I
+
+i
+
+Structural tonic supporting 9
+displaced to coda
+
+Nh?
+et==>f4
+
+>1
+
+I
+
+t
+I
+
+* - The augmentedsixth associates these points in the movement
+
+Example 12a:Brahms,FourthSymphony,Op. 98, FirstMovem
+
+__
+
+c)
+
+b)
+
+x=a-p5i
+
+II
+a-p5
+
+5-
+
+6
+
+a-o5
+
+Examples 12b-c: Brahms,FourthSymphony,FirstMovement,
+Motive 'a' (Descending Fifth) and 'x' (Ascending Fifth)
+the bass of the development.However,he fails to exploit this insight to
+of
+explain the motivic connection,through'x,' between the organization
+the bass in the developmentand otherpartsof the piece.
+The Tragic Significance of the Reversed Recapitulation
+Tracingthe genre of reversedsonata form throughtwo centuriesreveals a web of overlapping,interpenetrating, inheritedsignificances.
+and
+Almost certainly,Germancomposersdid not deliberatelyset out to compose Aristoteliannotions of tragedyor figures of ancientGreek linguistic rhetoricinto theirtragicworks.34
+Rather,the thinkingof these masters
+was subtly conditioned by ancient ideas of drama and expression. As
+Vickers (1982, 133) observes, "[classical]rhetoricwas a majorconcern
+of most writersat the formativeperiodof theirlives, when habitsof reading and writingarepicked up, seldom to be shakenoff. Weneed to relive
+this culturein orderto appreciatethe importanceof rhetoric... in hundredsof contextsof life then, andto habitsof mind which have since disappeared."
+In the Quartetfrom Mozart'sIdomeneo,the Overtureto Cherubini's
+Medee, and Brahms'sSchicksalsliedand TragicOverture,the assertion
+of the "tragic"significance of the reversed recapitulationcan be supportedwith referenceto the plot or program.On his way back from the
+Trojanwar, Idomeneo has procuredrescue from a great storm at sea by
+promisingNeptuneto sacrificethe firstpersonhe meets upon his return,
+which turnsout to be his own son. Mozart'sdeformational
+reversalof the
+is
+violationof
+recapitulation clearly motivatedby Idomeneo'sthreatened
+the naturalbond between fatherand son with all its tragicconsequences.
+In the overtureto Medee, Cherubinialso employs the reversedrecapitulation to representinfanticide.The tragedyof Medea's transgressionof
+naturalorderby the murderof her own childrenis paralleledby the violation of normativesonataform.35
+The incompletenessof the reversedsonataform in Brahms'sSchicksalslied evokes brokencircularityin the domains of form and tonality:
+99
+
+358
+
+359
+
+363
+
+364
+
+x
+
+365
+
+366
+
+x
+
+Example 12d: Brahms, Fourth Symphony, First Movement, Overlapp
+
+94
+
+95
+
+213
+
+Exp.
+Second Group
+dr
+
+214
+
+258
+
+259
+
+Dev.
+Part 2
+R?eC
+
+380
+
+Recap.
+Truncated
+>dl
+
+dt-
+
+eI
+
+First Group
+
+Rec.
+Second Group
+L
+
+e'
+
+Example 12e: Brahms,FourthSymphony,First Movement,the E
+
+the expectedrecapitulation the firstgroupis suppressedand the introof
+duction returnsas the coda, but in the "wrong"key of C major,rather
+than the expected E; major.Here, the tragedy of human destiny is expressed in strikingformaland tonal discontinuities.Just as men,jealous
+of the gods, wish to share in the gods' blissful, immortalexistence, the
+opening music desperatelytries to returnto its point of tonic origin, but
+without success. The road back to the E; major realm of the gods is
+blocked by omission of the expectedrecapitulation the firstgroupand
+of
+by transpositionof the introductorymusic from E' to C major.Man's
+futile attemptsto close the brokencircle only serve to drag him down,
+of
+depictedby the downwardtransposition the opening music.
+Some have claimed that Brahmsattemptsto synthesize the antithetical worlds of the gods and men, and thereby "go beyond" Holderlin's
+As
+poem.36 is well known, Brahmstoyed with the idea of bringingback
+the chorusto sing the firsttwo lines of the poem in the coda. Hadhe done
+so, he would have suggested thatthe gods could somehow inhabit,or at
+least, merge with the human scheme, therebyconfirmingthe notion of
+synthesis. But, in orderto remain true to the poem's pessimistic, strikingly unresolvedantithesis-and to his originalconceptionof the Schicksalslied-Brahms decisively rejectedany such resolution.
+Webster's(1983, 100) analysis of Brahms'sTragicOverture
+takes the
+D majorof the second group'srecapitulation a fundamental
+as
+harmony
+on the same structural
+WebFurthermore,
+plane as the D minor tonic.37
+ster (1983, 115) criticizes Brahmsfor a too literal recapitulation the
+of
+second group beginning in the tonic major (mm. 300-66) after the extendedmajortonic transition(mm. 264-99):
+the fact thata work in sonatastyle must ordinarily
+observethe 'sonata
+material
+which originallyappeared
+outsidethe
+principle,'
+recapitulating
+to
+The
+tonic,does notcompela composer repeat
+everyparagraph
+literally.
+of
+has
+beenexploited,andthe addition
+of
+'pathos' thetonicmajor already
+nuances... do not compensate the redundancy the loss of psychofor
+or
+logical cogency.It is a pity thatBrahmsdid not takelessons in the free
+of
+recapitulation secondgroupsfromHaydn.
+Although the recapitulationof the second group is indeed a literal
+transposition,as shown in ex. 9c, the materialis completely revaluedin
+the larger context of the motion III-I6, the colossal enlargementof the
+in
+is
+opening motto. Surely,such revaluation the face of invariance a feat
+as remarkable any thematictransformation. does the music lose
+as
+Nor
+Brahms'sliteralness
+"psychologicalcogency,"as Websterclaims; rather,
+is motivatedby his program.
+The natureof tragedyis such that,tryas one
+might to elude it, Destiny is both inexorableand inescapable.Even as the
+music attemptsa completely regularrecapitulation the second group,
+of
+101
+
+the enlargedmotto asserts its hegemony,bending the literally recapitulated materialto its will and revaluingit in its own image.
+The "tragedy"
+expressedby deformationalreversalof the recapitulamusic is admittedlyof an abstract,undefined
+tion in "pure"
+instrumental
+nature.For example, tragedy"in the abstract" evoked by the reversed
+is
+recapitulationand suppression of the expected tonic in the Finale of
+Haydn's "Trauer"
+Symphonie;a similareffect is createdby the reversed
+recapitulationand unexpected,retrospectiveunderminingof the major
+tonic (m. 110) in the Andanteof Beethoven'sOp. 59. No. 3. The illusory,
+mirage-likereturnof the openingtheme at the beginningof the recapitulation in the first movement of Brahms'sFourthSymphony sets up the
+coda's tragic denouement.38 the music passes throughonce familiar
+As
+first
+of
+(the
+territory recapitulation the truncated andsecondgroups),landmarksnow appearchanged and foreign because of the tonal revaluation
+of the recapitulated
+materialin the undividedstructure.
+Duringthat music's prolongedabsence, attenuatedby the partiallyreversedrecapitulation, Fate has destroyedits "home"in the lyrical opening theme, which
+is now restatedin a broken,anguished,double forte strettobeginning at
+m. 394 (comparewith the passage startingat m. 208 in the Trio).
+Takingthe musical-rhetorical
+theoryof earliercenturiesas its point of
+the
+departure, presentstudy has identifieda tragic genre of the reversed
+and partially reversed recapitulation.Within this genre, reversing the
+order of groups in the recapitulationgenerally entails displacing the
+backgroundtonic normallyexpected at the beginning of the recapitulation. Thus, the genre's formal and tonal hyberbatonbespeaks a deepstructural
+compositionalrhetoric,which supportsand, in certaincases,
+even peripheralizesthe tragicgesturesof the foreground.PerhapsTovey
+(1989b, 204) was intuitivelyawareof this all-encompassingbackground
+rhetoricwhen he wrote,
+The truetragedy,
+whether puremusicof the most 'absolute'
+in
+kindor in
+as
+our
+literature,
+might,then,be described a granddesign,compelling aselementswhich,while makinga powerfulappealto
+sent, andcontaining
+ouremotional
+are
+sympathies, placed,so to speak,out of the centreof the
+design [my emphasis],so thatthe trueandinevitable
+workingout of the
+theseemotions a crisisas it crushes objectsof oursymto
+the
+designbrings
+with impotent
+vexation,but strengthpathy,andleaves us, not miserable
+enedby the conviction its own supreme
+of
+and
+grandeur truth.
+
+102
+
+NOTES
+1. Rosen (1988, 286) takes note of the reversed recapitulation only in passing. Webster (1978, 19) includes a bibliography of studies of sonata form to 1978; Wolf
+(1966) and Kamien (1976) are devoted to the recapulation.
+2. I am indebted to discussions of form in the writings of Felix Salzer, Saul Novack,
+Carl Schachter, and James Hepokoski.
+3. For example, the Finale of Bruckner's Seventh Symphony (see my forthcoming,
+"The Finale of Bruckner's Seventh Symphony"). I have not identified any further
+examples of the reversed three-group recapitulation exhibiting other possible permutations of the three groups.
+4. Jackson (1995a) offers a detailed discussion of Tchaikovsky's use of this form in
+the TempestOverture and the first movement of the Fourth Symphony.
+5. Shakespeare, Othello, Act 5, Scene 2, Line 3. On Shakespeare's use of the "vices
+of language," and of hyberbaton in particular,see Joseph (1947, 54-56).
+6. I prefer to identify this early classical reversed recapitulation as "symmetrical
+sonata form," thereby eliminating the term "reversed" with its connotation of
+"deformation."The reversed recapitulation is also essentially different from palindrome, in which the musical materials themselves are retrograded;see Newbould
+(1992) and Dalen (1989) for recent discussions of palindrome in Schubert and
+Berg.
+7. The interested reader may wish to examine these works listed by Bonds, which
+include: the symphonies, 21/11 (1764), 31/I (1765), 59/IV (1766-68), 44/IV (c.
+1770), 87/IV (1785); and the string quartets, Op. 1/1/III (1755-59), Op. 2/6/
+(1755-59), Op. 50/3/1 (1787), Op. 71/2 (1793).
+8. In the Symphonie Fantastique, symmetrical sonata form (identified by Schumann
+in his famous review) has a very special programmatic significance, the effort to
+secure the tonic in the recapitulation being programmatically connected with the
+attempt to concretize the dream-image of the beloved. See my forthcoming "The
+Finale of Bruckner's Seventh Symphony."
+9. Adrian claims a tonic returnat the beginning of the recapitulation in the first movement of the Fourth Symphony. Another example of ternary sonata form not mentioned by Adrian is the slow movement of Bruckner's Sixth Symphony ( 1879-81).
+Interestingly, Brahms and Bruckner independently first explored the ternary
+sonata form at roughly the same time, 1878-81.
+10. Thus, this article and Morgan's dissertation are related. Morgan is primarily concerned with non-reversed sonata designs in which the returnof the structuraltonic
+with its associated structuraldownbeat is delayed. This study probes the delay of
+the structural downbeat resulting from the postponed recapitulation of the first
+group in the reversed sonata form.
+11. This connotation is not intrinsic to reversed sonata form, but context-dependent.
+One would be hard pressed to consider as "tragic" the first movement of Schubert's "Trout"Quintet, which also has an undivided Urlinie (Beach 1993).
+12. Although Cherubini was trained in Italy and later resided and worked in France,
+his essentially classical language is so close to that of late Haydn and Mozart, and
+middle period Beethoven, that he may be included in the present discussion of the
+"Germanclassical tradition."
+13. Reversed sonata form is also employed in Liszt's Les Preludes (1848), the Finales
+
+103
+
+of Bruckner's String Quintet (1879) and Seventh Symphony (1883), the Finale of
+Mahler's Sixth Symphony (1904), the first movement of Schoenberg's Second
+String QuartetOp. 10 (1907, see my forthcoming, "The Finale of Bruckner's Seventh Symphony"), the Finale of Sibelius's FourthSymphony Op. 63 (1909, see my
+forthcoming, "The Meta-Ursatz"), and the the first movement of Tchaikovsky's
+Fourth Symphony Op. 36 (1877, see Jackson 1995a).
+14. Heartz (1980, 239) misreads the formal design of the Quartet and its large-scale
+harmonic structure. Following the repetition of the text beginning in m. 67, he
+oversimplifies matters by dividing the design into two parts, mm. 1-67 and 67end.
+15. For a critique of Kerman's naive "analysis" of the development, see Mitchell
+(1967).
+16. The prolongational strategy is established in the second group (mm. 40-42, ex.
+4c).
+17. Schubert in "Am Meer" from Schwanengesang similarly reuses the introduction
+as coda to represent tragic circularity.
+18. Daviero's study is the more wide-ranging, but his conclusions about the work's
+form and meaning are remarkably similar to Luhring's.
+19. Schachter (1987) explores techniques of suggesting a key without prolonging its
+tonic.
+20. Programmatically, mankind tries to reverse this fall in mm. 298-332 by converting "fallen" Fb(14) into "redeemed"E (#3, ex. 6a), but is pulled back into the mire
+with D# (#2) falling as E (3), through D; ('2) to C (1). For the religious significance of enharmonic transformation,see Jackson (1990a; 1990b, 121-22; 1995b,
+63-64; 1995c, 97).
+21. Bruce (1969) had already identified the reversed recapitulation in the Quartettsatz,
+although he believed the work to contradict the sonata style in its largertonal organization. The subdivision of the second group into three sections was observed by
+Westrup (1969, 29).
+22. Coren (1974, 576) comes close to identifying reversed sonata form, observing
+that "it is possible, when one looks back over the movement, to understandeverything from the returnof the secondary theme at measure 195 to the end as a recapitulation with the primary material displaced to the closing bars." However, he
+discounts the possibility that the opening may function both as a coda and recapitulation of the first group, asserting that the music of mm. 305-end is "not
+left-over recapitulatory material."In the end, Coren rejects the reversed recapitulation as "working on paper" but going "against the psychological effect of the
+piece." Instead, he hears the development continuing through the return of the
+secondary theme, with the precise beginning of the recapitulation remaining
+"ambiguous."
+23. Unlike Bruce (1969), I do not regard mm. 93-140 as a third group. Whether one
+reads a two or three group exposition does not affect a reading of the tonal structure, however. If mm. 93-140 constitute a third group, then the recapitulation
+exhibits the irregularorder, second group, third group, followed by first group. I
+find it more elegant to view mm. 93-140 as part of the second group, so that the
+recapitulation is simply reversed, with the second group following the first.
+24. The topos in this piece, as in so many other tragic works by Schubert, is "confrontation with death in midst of life," the soul's mournful reaction to mortality
+
+104
+
+represented by the basso lamento or descending tetrachord. On this point, see
+Jackson (1991, 348), Schwarmath (1969), and Rosand (1979).
+25. The first theme of the second group beginning in A; major (VI) in m. 27 does not
+occur over a structuralharmony or Stufe occupying its own harmonic-durational
+space. Rather, as shown in the analytical sketch, Al is caught within a prolongation of the initial tonic, which moves to the dominant of the dominant in m. 91. A
+chromaticized voice exchange (involving C#, EN, E) leads from the initial tonic
+and
+(m. 1) to the dominant of the dominant (m. 81). As shown in ex. 7a, the voice
+exchange creates a chromatic line in both outer voices, C (m. 1)-C# (m. 81)-D (m.
+91). This chromatic line (labeled 'x') is then recomposed through the development, as D; (m. 157) is enharmonically converted into C# (m. 182). The bass from
+the opening through the beginning of the recapitulation is organized in unfolded
+thirds, the ascending third C (m. 1)-E; (m. 182) answered by the descending third
+D(m. 183)-Bb (m. 195).
+I have benefited from Beach's (1994, 13-17) bass graph of the Quartettsatz.
+Beach, like Webster, hears G prolonged through mm. 77-93. As is apparentfrom
+my graph and accompanying remarks, I attach greater significance than Beach to
+the linear progression C-C#-D (my motive 'x') in the exposition, which I hear
+recomposed through the development in the manner described above.
+26. Harmonically, this apparent dominant chord (mm. 118-29) is not further stabilized (ex. 8a-b): instead, as the graphs show, it is a back-relating sonority, dependent on the F major triad of mm. 40ff. as its upper third.
+27. Webster mistakes this varied recapitulation of the first group for the onset of the
+coda, which he takes too soon at m. 379. Mitschka (1961, 228), like Webster, does
+not recognize that mm. 367-403 represent the recapitulation of the first group.
+Mitschka thus completely overlooks the reversed sonata design and, like Webster,
+takes the coda too soon. He regards the coda as beginning in m. 367, even earlier
+than Webster.In my view, the coda spans mm. 404-22 and is unusual insofar as it
+constitutes an interpolation within the final descent 2-1, ratherthan the customary
+elaboration of 1 (see the parentheses in ex. 9c). Like many earlier analysts, Webster believes that the Tragic Overture is in some kind of sonata form; Spies (1983,
+391-98), on the other hand, claims that sonata form per se is a "fiction" and that,
+in the Tragic Overture, Brahms recapitulates segments of earlier material to
+"restore deluded confidence to believers in 'form,' and to appear to resolve ambiguity for sceptics."
+28. Morgan (1969, 64-69) asserts that "the recapitulation of the opening cadential
+chords [.. .] has mistakenly been called a subdominant reprise." Morgan's bass
+graph suggests that the subdominant in the development functions as a lower
+neighbor to a structuraldominant reached as early as m. 72 and prolonged until m.
+228 (see also Mozart, Piano Sonata in C Major, K.545, first movement, where the
+reprise is supportedby a subdominant neighbor to the prolonged dominant). In my
+view, however, the structure of Beethoven's Coriolan Overture is essentially different. As ex. 9 suggests, the prolonged subdominant is here a fundamental harmony or Stufe, rather than a neighbor chord to the dominant. This subdominant
+prolongation initiated in the development may extend through the recapitulation
+(ex. 9b) and even deep into the coda (ex. 9a). Perhaps this massive subdominant
+prolongation has programmaticsignificance. Just as Coriolanus is prevented from
+attaining his goals-first becoming Roman consul and, later, destroying Rome105
+
+the music is tragically
+fromreaching normative
+the
+prohibited
+goal at the beginthe
+the
+tone,5. Instead,the
+ning of the recapitulation: tonic supporting primary
+tonic return deferred
+definitive
+is
+untilwell into the coda (m. 270, ex. 9a), where
+it supports ratherthan5. To represent
+Coriolanus's
+the
+3,
+prolongedhesitation,
+Urlinieis pickedup only late in the coda;thus,the greatlyattenuated actsas
+4/IV
+a kindof "Urlinie
+the
+3/I
+suspension"
+whereby resolution is postponed-like Coriolanus'sdecisionto desistfromhis courseof revenge-until the "eleventh
+hour."
+intuitive
+of
+is
+Wagner's
+appreciation this delayedresolution revealed his comby
+mentthat,in the passagebeginningat m. 270, "all inwardstormsand struggles
+rushtogether one greatresolution; offeringof self is sealed"
+in
+the
+1966,
+(Wagner
+227).
+29. Notice thatthe dominant the mottois "back-relating,"
+in
+on
+dependent the preor
+five-three.
+cedingtonicsix-three mediant
+30. Onedetectstheinfluence Beethoven
+of
+here.See, forexample,the aboveanalysis
+of the CoriolanOverture, whichthe 5-1 Urliniedescentis shownto continue
+in
+out of the mainbodyof thepiece through designcoda.Thus,thegeneralprinthe
+that
+actionof the
+ciple articulated Schenker codasprolong1 afterthe structural
+by
+Urlinierequires
+See
+wherethecoda
+qualification. also Brahms's
+TragicOverture,
+is interpolated
+betweenthe resolution 2 to 1.
+of
+31. Analystshaveinterpreted designof Brahms's
+the
+Fourth
+first
+Symphony's movementin quitedifferent
+the
+as
+in
+ways.Mostregard development beginning m. 145
+with a reminiscence the openingtwelve measures
+of
+(mm. 145-56), a procedure
+of
+evokingthe tradition the repeated
+exposition.RobertPascallaccountsfor the
+truncated
+of
+the
+recapitulation the firstgroup(mm.259ff.)by explaining recallof
+the openingin mm. 145-56 as the beginning the recapitulation,
+of
+whichis then
+and
+in
+ininterrupted the development recommences mm. 259ff. He therefore
+by
+the
+withdisplaced
+in
+terprets designas a "sonata
+development" which"thedevelhas
+has
+(or
+opment beenmovedintotherecapitulation therecapitulation beensplit
+into two unequalpartsandthe firstof these has been displaced)"
+(Pascall1974,
+of
+59). Surely,however,the reminiscence the openingat the beginningof the
+in
+development-a commonprocedure classical sonataform-is relatedto the
+of
+convention repeating exposition,andshouldnotbe mistaken the beginthe
+for
+as
+ningof therecapitulation, in Pascall'sinterpretation.
+32. See, for example,the Finaleof the D minorViolinSonata,discussedabove,and
+the VierernsteGesdnge,Op. 121,discussedby Whittall
+(1983, 191-207).
+33. Regarding expositionof the Fourth
+the
+some writersidentifya threeSymphony,
+grouplayout(or a three-key
+exposition),while othersdelineateonly two groups
+The
+betweenthesecompeting
+(ora two-keyexposition). distinction
+interpretations
+whether
+this
+dependsuponthe statusof the musicin mm.53-94, andspecifically
+musicconstitutes secondgroupof a three-group
+the
+exposition
+(Tovey1989a,221;
+motive"withina two-group
+1989b)or an "intermediate
+exposition(Evans1935,
+of
+146-54). In my reading,simultaneous
+enlargements 'x' in the bass and 'x'
+transposed a fifth('x'-t5) in theinnervoice(ex. 12a)weldmm. 1-95 intoa harup
+monicandformal
+Thus,Tovey's"second
+unity.
+(mm.53-94) is subsumed
+subject"
+withinEvans'sfirstgroup(mm. 1-94), therealsecondgroupcommencing
+laterat
+m. 95. In my reading,
+correlate thatthe arrival
+so
+then,designandtonalstructure
+of the dominant upperfifthof the initialtonic coincideswith the onset of the
+as
+secondgroupin m. 95. The F# majorchordsupporting
+Tovey'ssecondsubject106
+
+the V/V of m. 53ff.-is subsumedwithinthe ascendingfifth in the bass ('x').
+Noticethat'x' prepares ostinatosubjectin the Finale.
+the
+A final commenton ex. 12a:notice the top voice's enharmonic
+prevarication,
+which spans the movement.The uppervoice querieswhetherCx-D# is really
+decidedin favorof the formerinterpretation
+D-E6, the issue being definitively
+onlyjust priorto the coda(m. 387, ex. 12e).
+34. We do know, however,that Brahmswas deeply interestedin the cultureand
+of
+thought classicalantiquity.
+35. Cherubini's
+unusual
+in
+harmonic
+procedures the secondgrouparealso programmatic: as III(A; in the exposition) the majorI (F majorin the recapitulaand
+just
+dominants
+Metion) are overwhelmed prolonged
+(V/IIIandV respectively),
+by
+dea's natural
+maternal
+instinctsare completelyannihilated her insatiable
+lust
+by
+for revenge.
+36. According Luhring
+to
+exists [in thecoda]forboththe
+(1985, 6), "anewcondition
+blessedandmortals."
+Daverio(1993, 108) agrees,arguing Brahms
+that
+wishesto
+to
+suggest"godsandmortals,
+contrary the ultimate
+messageof Holderlin's
+poem,
+areinterdependent, antithetical
+not
+terms."
+37. Certainly, has to be very carefulabout"reading
+one
+away"tonics. In this case,
+the
+tonicis to be understood an apparent
+as
+rather a structural
+than
+however, major
+tonicfor the structural motivicreasonsI havepresented
+and
+above.
+38. Tovey(1989a, 222) hearsin mm. 246-58 of the Fourth
+the
+Symphony prophecy
+of a catastrophe: greatcloud figure... separates firsttwo steps of the
+"the
+the
+the
+theme,withall the majestyof the Nors prophesying twilightof the gods."
+LIST OF WORKS CITED
+Form."Journalof Music Theory 34:
+Adrian,Jack. 1990a. "The Ternary-Sonata
+57-80.
+
+.1990b. "TheFunctionof the Apparent
+Tonicat the Beginningof Development Sections." Integrale 5: 1-53.
+
+and
+1989.Harmony Voice
+and
+SecondEdiAldwell,Edward CarlSchachter.
+Leading.
+tion.NewYork:
+Harcourt
+BraceJovanovich.
+Aristotle.Poetics. 1970.Trans.GeraldF. Else. AnnArbor: University MichiThe
+of
+gan Press.
+and
+in
+Music."
+JourBeach,David. 1994. "Harmony LinearProgression Schubert's
+nal of Music Theory 38/1: 1-20.
+
+.1993. "Schubert's
+with
+Form:
+Formal-Tonal
+Experiments Sonata
+Designversus Underlying
+Structure."
+MusicTheorySpectrum
+15:1-18.
+Bellasis, Edward. [1912] 1971. Cherubini. Memorials Illustrative of his Life and
+
+Work.
+London.NewYork: capoPress.
+Da
+Wallace.1966.Formin Music.New Jersey:
+Prentice-Hall.
+Berry,
+FalseRecapitulations the Perception Soand
+of
+Bonds,MarkEvan. 1988."Haydn's
+nataFormin the Eighteenth
+Ph.D.diss., Harvard
+Century."
+University.
+Reinhold.1984. "Anhand Reprisen." Brahms-Analysen.
+von
+In
+Brinkman,
+Referate
+der KielerTagung1983.Ed. by Friedhelm
+Krummacher Wolfram
+und
+Steinbeck,
+Kassel:Barenreiter.
+Instrumental
+Forms."
+The
+Bruce,Robert.1969. "TheLyricalElementin Schubert's
+Music Review 30:131-37.
+
+107
+
+J.
+and
+In
+Buelow,George 1980."Rhetoric Music." theNewGrove
+of
+Dictionary Music
+and Musicians
+Vol. 15, London:
+793-802.
+MacMillan,
+in
+The
+Coren,Daniel. 1974."Ambiguity Schubert's
+Recapitulations." MusicalQuarterly60: 568-82.
+1989. "'Freundschaft,
+of
+Dalen,Barbara.
+Liebe,undWelt:'The SecretProgram the
+Chamber
+Concerto." The Berg Companion. by DouglasJarman,
+In
+Ed.
+Boston:
+Northeastern
+Press:141-80.
+University
+Daverio, John. 1993. "The Wechsel der Tone in Brahms's Schicksalslied." Journal of
+the American Musicological Society 46: 84-113.
+Evans, Edwin. 1935. Handbook to the Chamber and Orchestral Music of Johannes
+Brahms. Complete Guidefor Student, Concert-goer and Pianist. London: William
+
+Reeves.
+Floros, Constantin. 1980. Brahms und Bruckner. Studien zur musikalischen Exegetik.
+
+Wiesbaden:
+Breitkopf.
+Frisch, Walter. 1984. Brahms and the Principle of Developing Variation. Berkeley:
+
+of
+Press.
+University California
+
+Goetschius, Percy. 1915. The Larger Forms of Musical Composition. New York:
+
+Schirmer.
+in
+Idomeneo." MusicForum
+The
+Heartz,Daniel. 1980."TheGreatQuartet Mozart's
+V. New York:
+Columbia
+Press:233-56.
+University
+.1974. "Tonality and Motif in Idomeneo. The Musical Times 115: 382-86.
+
+James.1993.Sibelius:Symphony 5. Cambridge:
+No.
+UniverHepokoski,
+Cambridge
+sity Press.
+.1992."Fiery-Pulsed
+Libertine DomesticHero?Strauss's JuanRevisor
+Don
+ited." In Richard Strauss. New Perspectives on the Composer and His Work.Ed.
+
+DukeUniversity
+Press:135-76.
+BryanGilliam,Durham:
+of
+in
+Jackson,TimothyL. 1995a."Aspects Sexualityand Structure the LaterSymMusicAnalysis14: 1: 3-29.
+phoniesof Tchaikovsky."
+. 1995b."Schubert 'Johnthe Baptistto Wagner-Jesus:'
+as
+EnharLarge-Scale
+monicismin Bruckner his Models."
+and
+Bruckner
+Jahrbuch
+1991-93. Linz:AkademischeDruck-undVerlagsanstalt:
+61-107.
+. 1995c. "Bruckner's
+and
+Rhythm:SyncopatedHyperrhythm Diachronic
+Transformation in the Second Symphony." Bruckner Symposion. Anton Bruckner-Personlichkeit und Werk, 1992. Linz: Akademische Druck- und Verlag-
+
+sanstalt:
+93-106.
+.1991. "Schubert's
+Revisionsof Der Jingling und der TodD 545a-b and
+
+Meeres Stille D 216a-b." The Musical Quarterly LXXV/3: 336-61.
+
+1990a."TheEnharmonics Faith."
+of
+Bruckner
+Jahrbuch
+1987-88.Linz:AkademischeDruck-undVerlagsanstalt:
+4-20.
+. 1990b."Bruckner's
+MetricalNumbers."
+Nineteenth
+MusicXIV/2:
+Century
+101-31.
+. Forthcoming.
+"The Finale of Bruckner's
+SeventhSymphonyand Tragic
+ReversedSonataForm." Bruckner
+In
+Studies,eds. TimothyL. JacksonandPaul
+Hawkshaw,
+Press.
+Cambridge:
+Cambridge
+University
+and Entropyin Jean
+Forthcoming."The Meta-Ursatz,Crystallization,
+Sibelius."
+Joseph, Sister M. 1947. Shakespeare's Use of the Arts of Language, New York.
+
+108
+
+of
+in
+Kamien,Roger.1976. "Aspects the Recapitulation BeethovenPianoSonatas."
+TheMusicForum NewYork:
+IV.
+Columbia
+Press:195-235.
+University
+.1964. "TheOpeningSonata-Allegro
+Movementsin a RandomlySelected
+in
+Ph.
+Sonatas
+Published theYears1742-1774." D. diss.,
+Sampleof Solo Keyboard
+Princeton
+University.
+NewYork:
+Quartets.
+Kerman,
+Joseph.1967.TheBeethoven
+Knopf.
+Korte, Werner F. 1963. Bruckner und Brahms. Die spdtromantische Lisung der
+autonomen Konzeption. Tutzing: Hans Schneider.
+
+Fourth
+The
+Raymond.1989."TheFinaleof Brahms's
+Knapp,
+Symphony: Taleof the
+Subject." 19th-Century Music XIII/l: 3-17.
+
+PlanandNarrative in Tchaikovsky's
+Plot
+Kraus,JosephC. 1991. "Tonal
+Symphony
+No. 5 in E Minor."Music Theory Spectrum 13: 21-47.
+
+1988."Rhetorik rhetorische
+und
+Krones,Hartmut.
+Symbolikin derMusikum 1800.
+VomWeiterleben
+eines Prinzips."
+Musiktheorie 117-40.
+3/2:
+Robert.1992."TheDebateabout
+A
+Consecutive
+Fifths: Context Brahms's
+for
+Laudon,
+'Oktaven Quinten."'
+und
+Musicand Letters 48-61.
+73:
+Manuscript
+Readat Queens
+Laufer,Edward.1993. "ADifferentReadingfor the Same Music."
+CollegeMeetingof the MusicTheorySocietyof NewYork.
+Harvard
+Press.
+Leichentritt,
+Hugo. 1951.MusicalForm.Cambridge:
+University
+Louise. 1987."Brahms Indecisive:
+the
+Notes on the FirstMovement the
+of
+Litterick,
+Fourth Symphony." In Brahms 2. Biographical, Documentary and Analytical
+
+Studies.Ed. MichaelMusgrave.
+Press:223Cambridge
+University
+Cambridge:
+36.
+Alan. 1985."Dialectical
+in
+Musicas Exhibited
+Luhring,
+Thought Nineteenth-Century
+in Brahms's
+'Schicksalslied."'
+ChoralJournal25: 5-13.
+Settingof Holderlin's
+u.
+u.
+ComMast,Paul. 1980."Brahms's
+Study,Octaven Quinten A., withSchenker's
+Translated."
+MusicForum New York:Columbia
+V.
+Press:1mentary
+University
+196.
+Mitchell, William. 1967. Review of Kerman, The Beethoven Quartets. In The Musical Quarterly 53/3, 421-34.
+Mitschka, Arno. 1961. Der Sonatensatz in den Werkenvon Johannes Brahms. Giiters-
+
+loh.
+Robert.1969."TheDelayedStructural
+Downbeat its Effecton theTonal
+and
+Morgan,
+andRhythmic
+of
+Structure SonataForm,"
+Ph.D.diss., Princeton
+University.
+R.
+OxfordUniversity
+Press.
+Morris, 0. 1935.TheStructure Music.London:
+of
+Michael.1985.TheMusicof Brahms.
+London:
+and
+Paul.
+Musgrave,
+Routledge Kegan
+Palindrome."
+MusicXV/3: 207Newbould,Brian.1992. "ASchubert
+19th-Century
+14.
+Music':
+Newcomb,Anthony.1984. "OnceMore 'BetweenAbsoluteand Program
+Schumann's
+SecondSymphony."
+Music7: 233-50.
+19th-Century
+David. 1983. "TheRetreatfrom Dynamism: Studyof Brahms's
+A
+Osmond-Smith,
+Fourth Symphony." In Brahms. Biographical, Documentary and Analytical Stud-
+
+ies. Ed. Robert
+Pascall.Cambridge:
+Press:147-65.
+Cambridge
+University
+and
+MusicalTimes124:286-91.
+Pascall,Robert.1983."Brahms Schubert."
+.1974."SomeSpecialUses of Sonata
+Formby Brahms."
+4:
+Soundings 58- 63.
+An
+The
+Rosand,Ellen. 1979. "The DescendingTetrachord: Emblemof Lament."
+Musical Quarterly 65: 346-69.
+
+rev.
+Norton.
+Rosen,Charles.1988.SonataForms, ed. NewYork:
+109
+
+.1972. The Classical Style. New York:Norton.
+Saak, Siegfried. 1979. Studien zur Instrumentalmusik Luigi Cherubinis. Gottinger
+Musikwissenschaftliche Arbeiten.
+Schachter, Carl. 1991. "Mozart's Last and Beethoven's First: Echoes of K. 551 in the
+First Movement of Opus 21." In Mozart Studies. Ed. Cliff Eisen. Oxford: Clarendon Press: 227-51.
+1987. "Analysis by Key: Another Look at Modulation." Music Analysis 6:
+295-304.
+.1983. "The First Movement of Brahms's Second Symphony: The First
+Theme and its Consequences." Music Analysis 2/1: 55-68.
+Schenker, Heinrich. [1935] 1979. Derfreie Satz. Neue musikalische Theorien und
+Phantasien. Vienna: Universal Edition. Trans. Ernst Oster, Free Composition,
+New York: Longman.
+.1920a. Unpublished Analysis of Brahms's Fourth Symphony. Ernst Oster
+Collection in the New York Public Library,folio 34, 279-82.
+1920b. Unpublished Analysis of Brahms's Third Violin Sonata. Ernst Oster
+Collection in the New York Public Library,folio 34, 210-14.
+Schoenberg, Arnold. 1984. Style and Idea. Selected Writings of Arnold Schoenberg.
+Ed. Leonard Stein, Berkeley: University of California Press.
+Schwarmath, Erdmute. 1969. Musikalischer Bau und Sprachvertonung in Schuberts
+Liedern. Minchener Veroffentlichungen zur Musikgeschichte. Tutzing: Hans
+Schneider: 105-18.
+Spies, Claudio. 1983. "'Form and the Tragic Overture: An Adjuration."In Brahms,
+Biographical, Documentary, and Analytical Studies. Ed. by George Bozarth,
+Cambridge: Cambridge University Press: 99-125.
+Steinbeck, Susan. 1973. Die Overtire in der Zeit von Beethoven bis Wagner Munich.
+Tovey, Donald Francis. 1989a [1935-39]. Essays in Musical Analysis. Symphonies
+and Other Orchestral Works.Oxford: Oxford University Press.
+. 1989b [1935-39]. Essays in Musical Analysis. Chamber Music. Oxford: Oxford University Press.
+Vickers, Brian. 1982. "On the Practicalities of Renaissance Rhetoric." In Rhetoric
+Revalued. Ed. by Brian Vickers, Binghamton, New York:Center for Medieval and
+Early Renaissance Studies.
+Wagner,Richard. 1911. Sdmtliche Schriften und Dichtungen. Volks-Ausgabe. Sechste
+Auflage. Leipzig: Breitkopf und Hartel.
+. 1966 [1894]. Prose WorksIII. Trans. by William Ashton Ellis. London: Routledge and Kegan Paul. Repr. New York: Broude.
+Webster, James. 1991. Haydn's "Farewell" Symphonyand the Idea of Classical Style.
+Through-Composition and Cyclic Integration in His Instrumental Music. Cambridge: Cambridge University Press.
+.1990a. "The D-major Interlude in the First Movement of Haydn's 'Farewell
+Symphony." In Studies in Musical Sources and Style. Essays in Honor of Jan
+LaRue. Ed. Eugene K. Wolf and Edward H. Roesner, Madison: A-R Editions:
+339-80.
+.1990b. "The General and the Particularin Brahms's Later Sonata Forms."In
+Brahms Studies. Historical and Analytical Perspectives. Ed. by George Bozarth.
+Oxford: Clarendon Press: 49-78.
+.1983. "Brahms's Tragic Overture: The Form of Tragedy."In Brahms, Bio110
+
+graphical, Documentary, and Analytical Studies. Ed. by Robert Pascall. Cam-
+
+Press:99-125.
+bridge:
+Cambridge
+University
+1978."Schubert's
+SonataFormandBrahms's
+FirstMaturity,"
+19th-Century
+Music II: 18-35, 19th-century Music III (1979): 52-71.
+
+Jack.1969.Schubert
+Chamber
+Music.BBC MusicGuides,Seattle,UniverWestrup,
+Press.
+sity of Washington
+Arnold.1983."TheViererste GesdngeOp. 121:Enrichment Uniforand
+Whittall,
+mity."In Brahms. Biographical, Documentary and Analytical Studies. Ed. Robert
+
+Press:191-207.
+Pascall,Cambridge:
+Cambridge
+University
+Wolf, Eugene K. 1981. The Symphonies of Johann Stamitz: A Study in the Formation
+
+Bohn, Scheltemaand Holkemaand The
+of the Classic Style. Utrecht/Antwerp:
+Hague/Boston:
+Nijhoff.
+in
+1966. "TheRecapitulations Haydn'sLondonSymphonies." Musical
+The
+Quarterly 52:71-89.
+
+111
+
+

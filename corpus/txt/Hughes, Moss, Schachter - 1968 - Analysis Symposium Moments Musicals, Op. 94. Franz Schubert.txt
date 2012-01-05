@@ -1,0 +1,4405 @@
+Yale University Department of Music
+
+Analysis Symposium: Moments Musicals, Op. 94. Franz Schubert
+Author(s): Matt Hughes, Lawrence Moss, Carl Schachter
+Source: Journal of Music Theory, Vol. 12, No. 2 (Winter, 1968), pp. 184-239
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843311
+Accessed: 15/12/2009 02:54
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+Analysis
+
+Symposium
+
+MATT HUGHES
+LAWRENCE MOSS
+CARL SCHACHTER
+
+185
+MOMENTS
+
+MUSICALS,
+
+FRANZ
+
+Op.94.
+
+SCHUBERT
+
+Moderato.
+
+I
+.jl^
+
+a
+
+^
+
+(Cji7Jpc1 r 1 rtr
+rJ r r)Sf fDfff;rf;Ij;
+tl
+Sr' L-
+
+I
+
+Jr
+F:
+
+3,-;9
+YILr if;PL
+'F;Sis c? 4 IC 9?
+C9
+/-- fi
+s
+
+'PrYirD,
+
+gG g
+jr
+1
+
+Iflrr
+;r,tif#iif.v 345j4
+
+ff.f..
+
+1&5
+
+#i:47Wj7"
+i r
+
+r~~~~~~r fC
+;
+__
+
+Pgh~ .!:^J
+tt
+
+nh~~
+
+r
+
+;
+
+~~~~b
+
+~
+
+~
+
+~~~~~~im
+
+-
+
+7?]
+~
+
+~Th"jjbJ
+
+-s
+
+V
+
+rn
+
+? I
+
+pi
+
+'
+
+r
+v rw
+
+r
+
+S
+1y'[^,i
+|I?
+
+(
+
+-
+
+-
+
+r'
+
+1
+.
+
+r
+
+Jr
+
+b
+
+r-
+
+J!
+
+H* ^
+
+718
+r
+
+'P-S
+
+p
+p*
+
+r I^rt
+
+G qGrS,
+str^tD G
+p
+MAV!fAtr
+7r^
+stdr
+
+r
+
+;
+
+decresc.
+
+-
+
+rr fr
+
+6-;M4?~?~~
+1
+
+^
+
+S
+
+j;
+
+De
+
+l
+tp
+
+w^
+
+*
+
+tf
+
+Analysis
+
+Symposium
+
+MATT HUGHES
+A QUANTITATIVE ANALYSISt
+Through the creative thoughts of various musicians and mathematicians, the quantitative approach in analysis has cultivated
+the premise to an area in musicological
+thought which has yet
+to be either exposed or expressed in its entirety. Since the inception into this area of "quantitative musicology",
+the wise
+researcher is one who recognizes its many limitations in some
+respects, and, at the same time, realizes its almost boundless
+in other respects.
+As the technique is conceived
+possibilities
+t
+
+The author wishes to express
+his gratitude to Hans Heinz
+Draeger, Professor in the Music Department of the University
+of Texas at Austin, for the encouragement and many helpful
+suggestions in the preparation of this article.
+
+an area often frightening to musicians,
+in mathematics,
+many
+reactions are to label it as being beyond the comprehension or
+interest of a musicologist and to discard the technique and reThis procedure was ameliorated for
+sults as uninformative.
+the benefit of the musician; and, therefore, it foregoes the complexities of mathematics to find its foundation in simple mathematics. Because the nature of this type of analysis appears to
+be perplexing to many musicians,
+a necessary portion of this
+paper will have to be devoted to the analytical procedure, in
+addition to discussing the results of this technique.
+The objectives of this first procedure may be stated quite simply: (1) After counting the notes with its duration, some notes
+When viewing these
+prove to be more significant than others.
+important tone elements in terms of the circle of fifths, the
+wider the distance in steps of the circle of fifths and the greater
+the number of statistically
+important notes, the more complex
+is the tonal orientation of the composition.
+What is advantageous is that tonality may be expressed in terms other than
+functional; this mathematical precision can be invaluable. *1;
+(2) The other result is called tonal orientation, a term adopted
+to differentiate between it and tonal organization.
+Analysis of
+measures,
+organization is an analysis of chords, progressions,
+and periods in their mutual relationships.
+Orientation is at no
+time a chord-by-chord
+analysis but is a result of the total occurrence of each note and its durational value. This phenomenon is expressed in the statistically
+important notes discussed
+in the first result and is understood to be the over-all tonality
+or tonal orientation of a composition.
+This condensation of important notes or tonal orientation could reveal that a composition in C major, for example, was in reality tonally oriented
+toward G major, a consequence of semantic salience. *2
+This technique is no more than a tool for the researcher.
+At
+no time is it meant to be a substitute for critical intellectualization.
+Rather, it is a tool for organizing data so that one
+may more discernibly view tendencies and interassociations.
+Analysing the piano preludes of Skriabin, this tool proved to be
+successful. *3
+Turning to the music, Schubert has divided this composition
+into five parts (Measures 1-8; 9-29; 30-37; 38-58; and 59-65).
+The tempo of the composition is marked Moderato and the meter
+signature is 3. The division of the beat is basically simple but
+Schubert chooses to enhance the playful character of the melody
+in the first two sections of the composition by the utilization of
+a triplet figure. Adding to this character, the triplet figure is
+
+190
+with the simple beat and developed
+juxtaposed
+upon with relaThe texture
+tive frequency.
+in these two sections
+is either
+in a
+basically
+melody heard alone or doubled, or is harmonized
+fashion in which the chords and a melody line reverse
+pianistic
+hands at the end of the second section.
+It is important
+in this
+to note that the first two sections
+(which are repeated
+analysis
+after the last three sections)
+of C
+are given the key signature
+In the last three sections,
+the key signature
+is changed
+major.
+to G major.
+the same as
+Here, the texture remains
+basically
+in the first twenty-nine
+measures
+although the beat becomes
+In the fourth section,
+chords
+compound.
+simple-beat
+primarily
+are placed above an ostinato-like
+Also in this
+triplet
+figure.
+this rhythmic
+whereas
+the osis continued,
+section,
+activity
+a pedal-point
+tinato becomes
+on G. Although the parts are not
+a sectional
+acequally divided,
+by this tool is easily
+analysis
+cessible.
+
+Measures
+
+1 - 8 (Bits
+
+= 79. 99)
+
+the first step
+related to the Fucks approach,
+Step la: Closely
+to its durais to count every note of the composition
+according
+tion value. *4 Counting duration
+can not be over-emphasized
+as every note would be of equal value if duration were ignored.
+Alike note-name
+are then added together
+frequencies
+forming
+a scale pattern of an octave span.
+does not
+Step la, in itself,
+be
+should
+answer
+and hasty interpretations
+give a complete
+that occurrence
+warned against.
+This, then, would establish
+determine
+the tonality of the composition.
+does not necessarily
+it is to be expected
+are not available,
+that,
+Although the results
+I "in Das Wohltemperierte
+in Bach's "Praeludium
+for example,
+with
+would be identical
+Vol. I, the tonal orientation
+Klavier,
+with
+it might be questionable
+the tonality of the piece; however,
+and Fugue in D minor. *5
+Fantasia
+regard to Bach's Chromatic
+which contains all notes with duration used in
+Thus, the series
+is:
+this composition
++.59
+
+12.33
+C
+
+8.5
+D
+
+-2.16
+
+3.5
+Eb
+
+13.33
+E
+
+5
+F
+
+-2.91,
+
+1
+F#
+
+26.83
+G
+
+1.5
+A
+
+4
+Bb
+
+-2.91
+
+4
+B
+
+This may also be shown in the form of a graph (see Figure 1).
+row of digits is listed.
+of numbers
+another
+Above the series
+of the comrow is the result of an analization
+This additional
+The digits are preceded
+by a plus (+) or
+plexity of the peaks.
+
+191
+
+FIGURE
+1
+
+20
+
+10
+
+C
+
+D
+
+E
+
+F
+
+F
+
+G
+
+A
+
+B
+
+B
+
+192
+minus (-) sign, indicating the peak's relationship to its theoretical extreme, 100%information or 100% redundancy. This complexity of the peak is seen graphically when the peak affects
+either a convex or concave shape. The minor sign or concave
+shape indicates a tendency towards 100% information; and the
+100% redundancy, is
+tendency toward its opposite extreme,
+represented by the plus sign or convex shape. This result is
+derived from the series by a sequence of three steps or more
+in either an increasing or decreasing direction.
+The two numbers at the poles of the complexity are then added together and
+the arithmetic mean is found. Then the number between the
+poles is subtracted from the mean. If this number is smaller,
+the result is closer to 100% information; thus, a minus sign is
+placed before the result. If the number is larger than the mean,
+the result is given a plus sign to indicate its tendency towards
+100% redundancy.
+Step lb: In this, the second part of Step 1, the arithmetic mean
+is found and the letters are sorted as they compare - above or
+below the line.
+7.99 =C
+
+D
+
+E
+Eb
+
+(F)
+F
+
+G
+F#
+
+(A)
+A
+
+(Bk) (B)
+B
+Bs
+
+It should be noted that all letter names are listed;
+Bs, B, and A are found in parentheses to indicate
+actual value is below the mean.
+Step 2a: Here,
+importance.
+
+the letters
+
+are arranged
+
+1 2 3 4
+6
+5
+G E C D (F) (Bl)
+
+7
+(B)
+
+hence, F,
+that their
+
+as to their order of
+
+8
+(A)
+
+Step 2b (C major tonal orientation): Step 2b is designed as an
+In this instance, the
+attempt to perceive a tonal orientation.
+In other composinotes form a C major scale, Bs excepting.
+tions, a comparison with different types of scales, patterns,
+tone rows, or chords is valuable.
+Step 3a: Barring the correct computation of notes, the following steps in this series of consequential events are perhaps the
+most important.
+First, the notes above the arithmetic mean
+are given their corresponding numbers in the circle of fifths. *6
+This approach is achieved by a numbering of the letters in the
+circle of fifths from d66 to b$. The notes are counted in the
+following manner:
+
+193
+dbb abb
+2
+
+ebb
+3
+
+bib
+4
+
+fi
+
+1
+g
+14
+
+d
+15
+
+a
+16
+
+e
+17
+
+b f# c#
+18 19 20
+
+5
+
+cb
+6
+
+gb
+7
+
+db ab
+9
+8
+g#
+21
+
+c
+eb bb f
+10 11 12 13
+
+d# a#
+22 23
+
+e# b#
+24 25
+
+Perhaps, one will think it unusual that the circle of fifths is
+used at all for further analysis and that the connection between
+Because one is
+it and the important peaks appears remote.
+dealing entirely with underlying tonal orientation and having
+the problem of reducing it to as simple a structure as possible,
+it is quite logical to contend that further insight might be
+The circle
+achieved when given an equally simple structure.
+of fifths, as a basic tool, fulfills this essential requirement for
+simplicity and this procedure offers a possible solution. Therefore, in Op. 94, No. 1, the notes and numbers are:
+G
+14
+
+E
+17
+
+C
+13
+
+D
+15
+
+F
+12
+
+Bb
+11
+
+B
+18
+
+A
+16
+
+Step 3b: Immediately, the numbers are arranged in an ascendFrom Measures 1-8, one
+ing consecutive order if possible.
+discovers a conjunct series of eight numbers with no interruption in the consecutive arrangement:
+11, 12, 13, 14, 15, 16,
+17, 18.
+Step 3c: In this portion of Step 3, one is counting numerical
+distances between 11 and 18. Breaking the preceding example
+into more detail, there are: seven 1-distance relationships
+(11-12, 12-13, 13-14, 14-15, 15-16, 16-17, 17-18); six 2-distance relationships (11-13, 12-14, 13-15, 14-16, 15-17, 16-18);
+five 3-distance relationships (11-14, 12-15, 13-16, 14-17, 1518); four 4-distance relationships (11-15, 12-16, 13-17, 14-18);
+three 5-distance relationships (11-16, 12-17, 13-18); two 6distance relationships (11-17, 12-18); and one 7-distance relaThis situation is unchangeably true in every
+tionship (11-18).
+case offering a consecutive series.
+There are no exceptions
+and it does not matter what size the numbers are. The reason
+for forming this arrangement is that it facilitates counting all
+with regard to the circle of fifths. In
+possible relationships
+other words, by counting numerical distance between the numbers, one is also counting distance relationships in the circle
+of fifths.
+The following trend is seen.
+Distance Relationships
+Occurrence
+
+1 2 3 4
+7 6 5 4
+
+5 6
+3 2
+
+7 = 28 = 1
+1 = 28
+
+194
+The distance relationships
+are then added separately
+as are the
+number of distances.
+Both equal 28 in this case as in all other
+The distance
+identical
+situations.
+are then direlationships
+vided by the number of distances.
+Again in this composition,
+as in all exact situations,
+the quotient is 1. Thus, the underis reduced
+to its simplest
+base, also giving
+lying orientation
+the means for determining
+the degree of tonality.
+From the
+the following
+formula may be stated:
+preceding,
+
+(a) is divided by
+Hence, the sum of the distance
+relationships
+the sum of the number of distances
+(b) and equals the degree of
+tonal complexity
+(x). In every case in which the pattern is not
+the result varies.
+Non-consecutive
+consecutive,
+arrangement
+to mean a more complex tonal orientamaythen be understood
+tion.
+are added together and the arithmetic
+Step 4: The note numbers
+is found: 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 = 116average
+back to the
+8 = 14. 5. This last number (14. 5), when referred
+of this comcircle of fifths,
+numerical
+pinpoints the location
+position as shown by the circle.
+question is raised by the
+Step 5: Another type of interpretive
+The peak is singled out as the most immeaning of the peaks.
+All other notes falling around
+portant factor in this analysis.
+are
+the peaks are of environmental
+and therefore,
+importance,
+In this step,
+of secondary
+of interpretation.
+value in matters
+the peaks and only the peaks are listed,
+and the note's number
+to the circle
+of fifths is added.
+This step differs
+according
+from Step 3 in that peaks are used exclusively.
+Step 3 used
+notes above or beboth peaks and other statistically
+important
+than Step
+low the median.
+Because
+Step 5 is more restrictive
+less comprehensive,
+3, the result of Step 5 might be considered
+to
+In fact both steps are necessary
+but not less conclusive.
+gain the final result.
+Before understanding
+this result,
+several points should be made
+of its less restrictive
+clear:
+character,
+First, because
+Step 3
+is more detailed
+than Step 5; and therefore,
+Step 3 shows a
+more complex picture than Step 5. And second, if Step 5, which
+than Step 3, the
+than Step 3, is larger
+is less comprehensive
+to
+In Step 5, which is restricted
+is more complex.
+tonality
+are
+distance
+and largest
+relationships
+peaks only, the smallest
+of all possible
+usually the same as Step 3, but the occurrence
+
+195
+is usually
+distance
+smaller.
+when
+Therefore,
+relationships
+the number of occurrences
+(abbreviated
+Occ.) is divided into
+the number of distance
+D. R.), the
+(abbreviated
+relationships
+result is larger than Step 3.
+C
+13
+
+E
+17
+
+G
+14
+
+Bb
+11
+
+B
+18
+
+11,
+
+13,
+
+14,
+
+17,
+
+18
+
+1
+2
+
+D.R.
+Occ.
+
+2
+1
+
+3
+2
+
+4
+2
+
+5
+1
+
+6
+1
+
+7
+1
+
+=
+=
+
+=
+
+28
+10
+
+2.8
+
+shows the difference
+Step 6: The final step in this procedure
+between
+the resulting
+number of Step 3 and Step 5. First,
+in
+order to gain a correct
+the result of Step
+basis for comparison,
+3 is multiplied
+distance
+in that step.
+by the largest
+relationship
+Then the same is applied to Step 5, after which Step 3 is subtracted from Step 5.
+X 7) - (1 X 6) = +13.6
+
+(2.8
+
+If the result
+of Step 3 is larger
+than Step 5, a minus sign is
+A plus sign, on the other
+placed before the final conclusions.
+the final conclusion
+if Step 5 is larger
+hand, is placed before
+than Step3.
+The greater
+the distance
+from the 0 axis in either
+the more complex
+is the tonality.
+direction,
+This analytical
+tool is best utilized
+when viewing
+of
+groups
+or sections
+of a composition
+rather than a single
+compositions
+work.
+With this in mind, the results
+of the other sections
+are
+of an analysis
+of the composition
+given as well as the results
+as a whole.
+
+9 - 29 (Bits
+
+Measures
+
+Step 1: See figure
++.25
+
+21
+C
+
+2 for the corresponding
+
+-14.62
+
+/\/\/\
+11.5
+1.5
+
+12.84=
+
+= 166. 99)
+
+D
+
+D#
+C
+
+(D)
+D
+
+4.5
+Eb
+
+-12.79
+
+36.75
+E
+
+Eb
+
+-20.95
+
+8 4.83
+F
+F#
+E
+
+D#
+
+graph.
+
+(F)
+F
+
+/\/
+
+45.41
+
+-7.5,
+
+2 .5
+G
+GAb
+
+G
+F#
+
+G#
+
+Ab
+
+3.5
+A
+(A)
+A
+
+-5.0
+
+\
+
+6 21.5
+Bb
+B
+B
+Bb
+
+196
+Step 2: C major tonal orientation
+1 2 3 4
+5
+G E B C (D)
+
+6
+(F)
+
+7
+(A)
+
+Step 3:
+B
+18
+
+E
+17
+
+G
+14
+
+D
+15
+
+12, 13, 14, 15,
+
+F
+12
+
+A
+16
+
+16, 17,
+
+C
+13
+
+18
+
+D.R.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+=
+
+21
+
+Occ.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+=
+
+=
+
+1
+
+21
+
+Step 4: Total steps in the circle of fifths = 105
+Arithmetic mean of total steps = 15
+Step 5:
+E
+17
+
+C
+13
+
+G
+14
+
+13, 14,
+D.R.
+Occ.
+Step 6:
+
+Measures
+
+1
+2
+
+B
+18
+
+17, 18
+2
+0
+
+3
+1
+
+4
+2
+
+5
+1
+
+=
+=
+
+15
+6
+
+=
+
+2.5
+
+(2. 5 X 5) - (1 X 6) = +6.5
+
+30 - 37 (Bits
+
+= 113.97)
+
+First,
+Step 1: This short section is interesting for two reasons.
+this is the section in which Schubert changes to another key
+It should be noted that the tonal orientation shifts
+signature.
+to G major as well. Second, this is the only section of the
+composition that is entirely diatonic. For this reason, all tone
+are considered
+elements
+important; therefore,
+statistically
+Step 5 is regarded as redundant and the results of Step 3 are
+repeated in its place. Compare the following with figure 3.
++.75
+
+6.16
+C
+
+33.91
+D
+
+2.5
+E
+
+/
+
+\
+
+16.58
+F#
+
+29.16
+G
+
+10.75
+A
+
+14.91
+B
+
+197
+FIGURE
+
+2
+
+I!
+
+A
+10
+
+0
+C
+
+1D
+
+D
+
+I
+C
+
+D
+
+bE
+
+E
+
+F
+
+F*
+
+G
+
+3
+
+10
+
+I
+E
+
+I
+F#
+
+G
+
+I
+A
+
+I
+B
+
+G%Af
+
+A
+
+Ba
+
+B
+
+198
+=
+
+16.28
+
+Step 2:
+
+G major
+1
+D
+
+2
+G
+
+D
+
+(C)
+C
+tonal
+
+(A)
+A
+
+(B)
+B
+
+orientation
+
+4
+(B)
+
+3
+F#
+
+G
+
+F#
+
+(E)
+E
+
+5
+(A)
+
+7
+(E)
+
+6
+(C)
+
+Step 3:
+D
+15
+
+G
+14
+
+F#
+19
+
+B
+18
+
+A
+16
+
+C
+13
+
+E
+17
+
+13,
+
+14,
+
+15,
+
+16,
+
+17,
+
+18,
+
+19
+
+6
+1
+
+=
+=
+
+1
+6
+
+D.R.
+Occ.
+
+2
+5
+
+4
+3
+
+3
+4
+
+5
+2
+
+=
+
+21
+21
+
+1
+
+in the circle of fifths = 112
+mean of total steps = 14. 58
+
+Step 4:
+
+Total steps
+Arithmetic
+
+Step 5:
+
+See Step 3.
+
+Step 6:
+
+(1 X 6) - (1 X 6) = 0
+
+38 - 58 (Bits
+
+Measures
+
+= 246.31)
+
+4 for the corresponding
+
+Step 1: See figure
+
+19
+C
+
+4.5
+C#
+
+27.36
+
+Step 2:
+
+70.25
+D
+= (C)
+C
+
+G major
+12
+D A
+
+3
+G
+
+tonal
+4
+F#
+
+11.33
+E
+D
+C#
+
+/
+
+\
+
+29.33
+Ft
+(E)
+E
+
+35.58
+G
+F#
+
+6
+(B)
+
+G
+
+54.91
+A
+A
+Bb
+
+orientation
+5
+(C)
+
++2.67
+
++2.46
+
+-3.79,
+
+\
+
+graph.
+
+7
+(E)
+
+6.16
+Bb
+
+/
+
+(B)
+B
+
+15.25
+B
+
+jgg
+FIGURE
+
+4
+
+10
+
+V
+
+\
+
+I
+C
+
+I
+Cl
+
+I
+D
+
+E
+
+F Il GI
+F~ G
+
+A
+
+A
+
+B~
+
+B
+
+200
+Step 3:
+D
+15
+
+A
+16
+
+G
+14
+
+B
+18
+
+E
+17
+
+17, 18,
+
+19
+
+C
+13
+
+F#
+19
+
+13, 14, 15, 16,
+D.R.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+=
+
+21
+
+Occ.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+=
+
+21
+
+=
+
+1
+
+Step 4: Total steps in the circle of fifths = 112
+Arithmetic mean of total steps = 14. 58
+Step 5:
+A
+16
+
+D
+15
+
+C
+13
+
+B
+18
+
+D.R.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+=
+
+15
+
+Occ.
+
+1
+
+2
+
+2
+
+0
+
+1
+
+=
+
+6
+
+2.5
+
+X 5) - (1 X 6) = +6.5
+
+Step 6: (2.5
+
+59 - 65 (Bits
+
+Measures
+
+=
+
+= 94. 75)
+
+Step 1: See figure 5 for the corresponding
+
+graph.
++. 78
+
+5 14
+CD
+
+2.5
+E
+
+10.52 = (C)
+C
+
+9.25
+F
+D
+
+1.25
+F#
+(E)
+E
+
+(F)
+F
+
+37.5
+G
+
+G
+F#
+
+Step 2: G major tonal orientation
+1
+G
+
+2
+B
+
+4
+(F)
+
+3
+D
+
+5
+(A)
+
+6
+(C)
+
+7
+(E)
+
+C
+13
+
+E
+17
+
+Step 3:
+G
+14
+
+B
+18
+
+D
+15
+
+F
+12
+
+A
+16
+
+.5
+9
+Ab A
+Ab
+
+15.75
+B
+(A)
+A
+
+B
+
+201
+FIGURE
+5
+
+10
+
+202
+16, 17,
+
+12, 13, 14, 15,
+1
+6
+
+D.R.
+Occ.
+
+2
+5
+
+4
+3
+
+3
+4
+
+5
+2
+
+18
+=
+=
+
+6
+1
+
+21
+21
+
+=1
+
+Step 4: Total steps in the circle of fifths = 105
+Arithmetic mean of total steps = 15
+Step 5:
+D
+15
+
+F
+12
+
+G
+14
+
+B
+18
+
+12,
+
+14,
+
+15,
+
+18
+
+D.R.
+
+Step 6:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+=
+
+21
+
+Occ.
+
+1
+
+1
+
+2
+
+1
+
+0
+
+1
+
+=
+
+6
+
+(3.5
+
+=
+
+3.5
+
+X 6) - (1 X 6) = 15.0
+
+Op. 94, No. 1 (Bits = 1556.25)
+
+Moment musicale,
+
+Step 1: See figure 6 for the corresponding
+
+graph.
+-105.41
+
+-68.45
+
+\
+
+155.31
+C
+
+9 282.32
+D
+C#
+
+4.5
+D#
+
+/
+
+24
+Eb
+
+6 2 155.32
+A
+G# Ab
+
+111.16 = C
+
+42.32
+Bb
+
+D
+
+Step 2: G major tonal orientation
+3
+E
+
+48.25
+F
+
+/
+
+110.56
+Ft
+
+4
+A
+
+5
+C
+
+152.57
+B
+
+E
+D# Eb
+
+C#
+
+12
+G D
+
+180.4
+E
++53.76
+
+-186.85
+
+383.7
+G
+
+\
+
+6
+B
+
+7
+F#
+
+F
+
+B
+A
+(F#) G
+Bb
+G# Ab
+F#
+
+203
+
+FIGURE
+6
+
+50
+
+C
+
+C
+
+D
+
+Dt
+
+E~
+
+E
+
+F
+
+Ft
+
+GG
+
+A A
+
+Bb
+
+B
+
+204
+Step 3:
+G
+14
+
+D
+15
+
+E
+17
+
+A
+16
+
+B
+18
+
+C
+13
+
+F#
+19
+
+17, 18, 19
+
+13, 14, 15, 16,
+D.R.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+=
+
+21
+
+Occ.
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+=
+
+=
+
+1
+
+21
+
+Step 4: Total steps in circle of fifths = 112
+Arithmetic mean of total steps = 14. 58
+Step 5:
+C
+13
+
+D
+15
+
+E
+17
+
+13,
+
+A
+16
+
+14, 15, 16,
+
+G
+14
+
+B
+18
+
+17, 18
+
+D.R.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+=
+
+15
+
+Occ.
+
+5
+
+4
+
+3
+
+2
+
+1
+
+=
+
+15
+
+=
+
+1
+
+Step 6: (1 X 5) - (1 X 6) = -1
+
+Since the O line is a result of a subtraction of Step 3 from Step
+above or below
+5, 0 indicates the axis of tonal orientation,
+which every tonally notated composition could be placed. This
+graph shows the development of tonal orientation in this regard.
+It is important to note that Measures 30-37, an entirely diaConsidtonic section, is the only section placed on the 0 axis.
+ered as a whole, the results of Moment musicale,
+Op. 94,
+No. 1, located very close to the 0 axis, indicate a rather simple tonal complexity much closer to the key of G major rather
+This is
+than the key of C major as presented by Schubert.
+shown in figure 7.
+Utilizing an approach developed by Draeger, a discussion of
+the cadence at the end of each section is warranted. Using the
+numbering system for the circle of fifths previously given, the
+basic idea, as outlined in "An attempt towards a semantics of
+is that a chord is defined by the sum
+chordal progressions"*7,
+For example, G major is defined as 14 - 18
+of its numbers.
++ 15 = 47. Also each step upwards in the circle of fifths is
+described as a tendency towards an open, non-final effect; likewise, each step downwards in the circle of fifths results in a
+tendency towards a close, final effect. In the case of a change
+
+LC)
+
+0
+
+- Completa
+
+Op.94,No. 1
+<- MIm.59-65
+-
+
+Mr. 38-58/
+
+30-37
+_ Mm.
+
+X"
+
+m.9-27
+_ M
+i.
+_ MM1-8
+
+[r
+
+(D
+
+o
+
+-
+
+i
+
+o
+2
+
+206
+from major to minor and vice versa,
+considered:
+1.
+2.
+3.
+4.
+
+Major - Minor
+effect.
+Major - Minor
+final effect.
+Minor - Major
+effect.
+Minor- Major
+final effect.
+
+in the circle
+
+the following has to be
+down increases
+
+in the circle up decreases
+in the circle down decreases
+in the circle
+
+up increases
+
+the final
+the nonthe final
+the non-
+
+The terminology remains a problem as the terms "final" and
+"non-final" are not to be confused with satisfying and unsatisfying musical endings. From a psychological point of view, a
+legitimate description seems to be "up" and "down'. It is valid,
+therefore, to distinguish two attributes of melodic and chordal
+and an internal direction.
+movement: an external direction,
+Following Handschin *8, the external means the spatial distance
+between two tones, and the internal meaning is the tonal distance.
+Concerning the open and closed effects, the cadence shown in
+both. Shown in
+figure 8 (Measures 7-8 and 28-29) illustrates
+The dotted
+a chart, the vertical lines represent the chord.
+lines depict the open and closed effects by connecting roots with
+roots, thirds with thirds, and fifths with fifths. From G minor
+to G7 major, a change from minor to major upwards in the
+And G7 major to C
+circle, increases the non-final effects.
+major, the result is a tendency towards a final effect. This is
+also true in Measures 36-37, 57-58, and 64-65. However, the
+cadence in Measures 64-65 is much more static than the others.
+measures 7-8 and 28-29 may be represented
+Mathematically,
+as:
+f
+d
+b
+g
+
+d
+bb
+g
+40
+
++
+
+59
+
+g
+e
+c
++
+
+44
+
+=
+
+143
+
+-
+
+3
+
+=
+
+47.66
+
+Finding the arithmetic mean, the final number indicates how
+well balanced this cadence is when referred to the circle of
+fifths. A balanced cadence, such as
+
+207
+
+g
+
+c
+
+d
+
+g
+
+e
+
+a
+f
+
+b
+
+e
+
+g
+
+c
+
+c
+
+44
+
++
+
++
+
+41
+
++
+
+47
+
+would equal its final chord.
+the result.
+
+=
+
+44
+
+176
+
+4-
+
+4
+
+=
+
+44
+
+The following tabulation pinpoints
+
+Ab
+32
+
+Eb Bb
+35 38
+
+F
+41
+
+C
+44
+
+G
+47
+
+D
+50
+
+A
+53
+
+E
+56
+
+B
+59
+
+Ft etc.
+62
+
+f
+34
+
+c
+37
+
+g
+40
+
+d
+43
+
+a
+46
+
+e
+49
+
+b
+52
+
+f#
+55
+
+c#
+58
+
+g#
+61
+
+d# etc.
+64
+
+ab
+25
+
+eb
+28
+
+bb
+31
+
+f
+34
+
+c
+37
+
+g
+40
+
+d
+43
+
+a
+46
+
+e
+49
+
+b
+52
+
+fI etc.
+55
+
+36 - 37 and 57 - 58:
+
+Measures
+
+d
+b
+g
+47
+
+g
+e
+c
++ 44
+
+g
+a
+f
++ 49
+
+d
+b
+g
++ 47
+
+c
+a
+
+d
++ 63
+
+d
+b
+g
++ 47
+
+= 297
+
+- 6 = 49.5
+
+64 - 65:
+
+Measures
+a
+
+f
+b
+g
+60
+
+ab
+f
+b
+g
++ 53
+
+a
+f
+
+b
+g
++ 60
+
+f
+d
+b
+g
++ 59
+
+= 232
+
+- 4 = 58
+
+The result of Measures 7-8 and 28-29 reveal an almost perThis is not true of Measures 36-37
+fectly balanced cadence.
+and 57-58 and even less true of the result of Measures 64-65.
+The definition of a chord by number may often be misleading.
+The number 47 can portray either a G major triad (g - b - d)
+or the notes g + a + e. Because of this, the individual voices
+must be considered.
+The remaining examples are of the last
+two measures of each section; however, in order to be brief,
+only the results of the last two chords will be given or discussed.
+The tonal structure in Measures 7-8 and 28-29 is the
+
+208
+same although the voices are rearranged.
+it consists
+Basically
+of a cadence from G7 to C major.
+Comparison
+proves the ca28-29 to be the more balanced.
+dence in Measures
+7 - 8 (See figure 9): This cadence
+Measures
+is characterized
+Although the balance of the
+by the downward tonal movement.
+downward
+tonal movement
+toward the final chord is good, a
+is indicated
+definition
+of
+by the numerical
+slight imbalance
+Also the tonal orientation
+chordal movement.
+(+13. 5) is slightly
+In terms
+more complex than is indicated
+by the final result.
+5 steps; the secof the circle of fifths, the first voice ascends
+ond voice descends
+the fourth voice
+5, the third voice ascends,
+remains
+the same,
+the fifth voice disappears,
+and the sixth
+1 step.
+voice descends
+and mathematically
+28 - 29(See figure 10): Chordally
+Measures
+with that of
+of this cadence
+is identical
+the characterization
+7-8.
+is the tonal orientation
+What is different
+Measures
+and
+of chord tones.
+of tonal orienthe rearrangement
+By analysis
+much closer
+a simpler
+orientation
+tation, the results
+signify
+the
+to diatonicism.
+As illustrated
+statistically
+by the diagram,
+of the voices allows tonic to be more strongly
+emarrangement
+the balance
+and
+Both of these qualities
+increases
+phasized.
+the effectivestability of the cadence to a point that intensifies
+7-8.
+ness of this cadence when compared
+to Measures
+Again,
+in terms of the circle of fifths, the first and second voices dethe third voice remains
+scend 5 steps,
+the fourth
+constant,
+5 steps,
+and the sixth voice descends
+voice ascends
+one.
+36 - 37 and 57- 58 (See figure
+More active
+Measures
+11):
+36-37 and Measures
+the cadence
+in Measures
+rhythmically,
+In this instance,
+57-58 is based upon D7 major to G major.
+the depiction
+at both points is exact.
+the tonal
+Significantly,
+30-37 denote a section
+of Measures
+orientation
+diatonically
+oriented to G major.
+38-58 are slightly more comMeasures
+in as balanced a
+this cadence does not result
+plex; however,
+A character28-29.
+construction
+as the cadence in Measures
+with that of Measization of this cadence compares
+favorably
+ures 7-8.
+Anew in terms of the circle of fifths, the first and
+5 steps
+fourth voices ascend 5 steps, the second voice descends
+and the fifth voice dewhile the third voice remains
+static,
+scends 1 step.
+64 - 65 (See figure 12): The cadence
+with the simMeasures
+is
+and least rhythmical
+construction
+melodic
+plest
+activity,
+most vividly described
+by its static nature.
+
+209
+
+FIGURE
+
+b
+
+B
+E
+A
+D
+G
+C
+
+F
+b
+
+xxxu
+
+xxxxxxxxxx
+
+The vertical dashes represent
+the duration of one eighth note.
+
+210
+FIGURE
+10a
+
+b
+
+B
+E
+A
+
+\I '
+
+I
+I
+
+D
+
+x
+
+xI
+
+x
+
+I
+
+_
+
+G
+
+C
+
+/ Ii
+
+I:
+
+i
+
+.
+
+_,_
+xxx.
+
+_
+_x.xxk
+
+_.KXZ
+
+F
+B
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+I
+
+1
+
+CN
+
+I
+
+I
+I
+
+1
+
+E\
+^
+4
+
+-
+
+Iv
+
+!\
+.......... /I \\ ...........
+....
+\
+! ..\.
+XlXXXXXXXirX
+
+s
+
+3
+9
+
+XXXXKXXXXXXXxx
+
+~LM)LBUrIu.u~X1X.(XXXEXXXXXXX
+
+(I
+
+/
+
+_._
+
+/\
+
+o =i._
+
+V
+
+..
+
+a
+=,
+
+El
+
+q
+
+no7
+
+7E7
+
+-
+
+213
+One might think of mathematics
+and music as having engaged
+in a rather sporadic
+conversation.
+Once in a while,
+a matheis able to answer
+matician
+asks a question which the musician
+strikes
+the musician
+or to reshape;
+or an idea in mathematics
+as relevant
+to his field.
+this paper represents
+a
+Hopefully
+in that direction.
+contribution
+
+R
+
+E
+
+F
+
+E
+
+R
+
+E
+
+N
+
+C
+
+ES
+
+1
+
+Draeger, H. H. 'A Quantitative Analysis of Music as Exemplified by Beethoven' s
+Sketches for his Opus 131", in Festschrift Walter Wiora. Birenreiter,
+1967.
+
+2
+
+Kuhnau must have been aware of this significance in his discussion of the tonal
+orientation of the gigue in the suite "La Medica", in the introduction to his Biblical Sonatas.
+
+3
+
+Hughes, M.C. Tonal Orientation in Skriabin's Preludes: An Analysis on the
+basis of Information Theory. Unpublished Master's Thesis, The University of
+Texas at Austin, 1965.
+
+4
+
+Winkel, F. "Die informationstheoretische
+Analyse 'musikalicher
+Die Musikforschung, 17(Januar/Marz, 1964). Heft 1, pp. 1-14.
+
+5
+
+Here the difference between tonal orientation
+absolutely clear.
+
+6
+
+Draeger, H.H. 'An Attempt Towards a Semantics of Chordal Progressions",
+in Kongressbericht Salzburg 1964, Kassel, 1966, pp. 261-268.
+
+7
+
+Ibid.
+
+8
+
+Handschin, J.
+
+Der Toncharakter.
+
+Strukturen",
+
+and tonal organization
+
+ZUrich, 1948.
+
+should be
+
+214
+
+Analysis
+
+Symposium
+
+LAWRENCE MOSS
+A COMPOSER'S
+
+ANALYSIS
+
+At first sight, Schubert's
+Moments Musicaux No. 1 seems one
+of his least interesting
+at second
+pieces.
+Perhaps
+sight as
+well.
+viewed with a bit of compositional
+However,
+hindsight,
+certain
+details
+which show how artfully Schuberthas
+emerge
+simple scheme.
+managed an essentially
+The "simplicity"
+of the piece is shown, first of all, in its overall symmetricality.
+is the same length
+(A), the opening section,
+as the Trio (I am excluding the last eight measures
+which serve
+as a retransition
+to the Da Capo).
+Not only this, but the internal subdivision
+of each is exactly the same: eight measures
+to
+the double-bar,
+thirteen
+for the middle section
+immediately
+
+215
+(one could cavil at this for the opening
+following
+more on that later),
+and finally eight measures
+each section,
+or twenty-nine
+in all.
+
+but
+section,
+to complete
+
+this formal
+is matched
+Further,
+symmetry
+by an extremely
+clear overall
+harmonic
+scheme.
+The tonic chord obviously
+the opening idea and is continuously
+reinforced
+as
+generates
+The Trio moves to the dominant, and after
+the section unfolds.
+the double bar to its dominant (m. 38).
+M. 45 begins the leiwith D major finally resolving
+to
+surely return to the opening,
+G (the minor key at m. 51 is a temporary
+and G in the
+delay),
+last eight measures
+the dominant of C. It is interestbecoming
+ascent (G and
+ing to note that the new tonics in this harmonic
+then D) are each introduced
+without preparation
+(i. e., without
+being preceded
+by their dominants).
+They are simply stated
+and become utonicized" (to use Sessions'
+term) through repetition. On the way down however,
+to continue the metaphor,
+these
+tonics
+are carefully
+transformed
+into dominants
+through the
+addition of sevenths
+(mm. 45 and 63), thus giving a firm - if
+somewhat overly direct - push back to the home key of C major.
+let us concentrate
+Turning now to the opening eight measures,
+on some of those artful details mentioned
+above.
+First of all,
+the theme is an articulated
+tonic chord:
+each beat in mm. 1-4
+reiterates
+this chord.
+At first there is almost
+no dilution of
+this sound; the appoggiatura
+in m. 1 is simply the added sixth.
+the dominant
+is brought in to create
+first
+Gradually
+tension,
+in m. 3, then on the off-beat chords in
+through the appoggiatura
+m.4 (note the accompanying
+V-I motive
+in the left hand).
+A
+chromatic
+Schuchange Ek - E6 in m. 5 gives us the favorite
+bertian
+shift from major to minor,
+and serves
+to throw us
+In rapid order, c minor leads
+briefly to the flat side of things.
+to Eb major,
+which then leads as VI to g minor in mm. 6-7.
+Here an answering
+chromatic
+shift Bb - B
+matters,
+rights
+to the climactic
+F - E in mm. 7-8 which returns us to
+leading
+the opening motive's
+The first arch I to I has been
+high point.
+Note how the ascending
+fourth motive
+in the left
+completed.
+hand furthers
+the drive to the cadence by outlining V (G - gin
+mm. 4-7) and how this build-up finally spills over to the right
+hand with the tritone of m. 7 resolving
+finally to the climactic
+fourth B - E. Of course dynamic indications
+help this, beginning with the dramatic
+"pp" of m. 5, which makes the following
+crescendo
+more telling.
+But Schubert seems
+afraid of overwith the melodic
+doing things; the dynamic climax is staggered
+as the cautionary
+climax,
+"p3 in the last beat of m. 7 indicates.
+Here is a case where Schubert's
+and phrasing
+are
+dynamics
+The transfer
+of the left hand ascending
+revealing.
+fourths to
+
+216
+the right hand in m. 7 comes out clearly in the original phrasing
+version *1
+as shown in Example la. (I am assuming Gieseking's
+the MS has been lost. *2).
+Later "edited" verto be correct;
+an example of which is shown in Example
+lb, obscure
+sions,
+this.
+vis-a-vis
+those of later ediintentions
+Speaking of Schubert's
+as
+to compare
+the first two measures
+tors, it is interesting
+well in this respect
+(see Example
+2). Probably no great harm
+is done by the added crescendo
+2b). It is simply un(Example
+the necessary
+impetus to the downbeat of m. 2 having
+necessary,
+in rhythmic tenincrease
+already been supplied by Schubert's
+of this through
+sion during the course of m. 1. Over-emphasis
+an added crescendo
+would possibly obscure the later much more
+Schubert
+Like Mozart,
+to the cadence.
+crescendo
+important
+knew better than his later editors when to quit.
+the double bar, we find
+following
+Turning now to the measures
+in mm. 9-10 to the events of mm. 1-4; the
+an obvious reference
+fifth of the chord A - C - E
+opening E heard as appoggiatured
+m. 1, while the rhythm of the right hand of course rerecalls
+of G# in m.
+cancellation
+peats m. 4. Then comes a surprising
+re11, bringing us up again on a tonic chord, and incidentally
+this alluchromatic
+As if to reinforce
+shifts.
+calling previous
+of mm. 11sion, m. 13 moves (after the brief I-V interruption
+to
+in a move analogous
+12) to the minor dominant of A minor,
+of this
+character
+mm. 7-8.
+From here on the developmental
+Reshorter phrases.
+section is emphasized
+by progressively
+in mm. 15-16 are followed byone-beat
+peated two-beat
+phrases
+in m. 16, with the last of these reinforced
+phrases
+by a simulof register
+in both hands - the first so far.
+taneous extension
+of this section (mm. 9-16) have mirNote how the harmonies
+out
+sketched
+harmonic
+scheme
+rored in the small the overall
+that vi is our "tonic" in
+in the opening paragraphs.
+Assuming
+m. 9, we move first to the related dominant key - e minor - in
+A measure's
+m. 15, and then to its dominant a measure
+later.
+and then what appears to be its resrest dramatically
+follows,
+The one-beat "fz' phrases in m. 16 have become a 'p'
+olution.
+B
+But the missing
+on the beat in mm. 18-20.
+ostinato
+pulsing
+and we are given inof this e minor triad never materializes,
+stead our opening motive in the left hand in m. 20, completing
+Ex. 3 shows how
+the chord with an almost
+wit.
+Haydnesque
+our C major chord has been exploited
+so far for its potential
+tones held
+as a pivot chord.
+Circled
+notes are the common
+modIt is important to remember
+that these pivot-chord
+over.
+of the opening
+the three major subdivisions
+ulations articulate
+
+217
+EXAMPLE
+la
+
+f::
+i..~'Z~_
+13
+
+J
+
+21
+
+2a
+
+b
+
+:.
+
+:
+F
+
+21S
+section.
+further
+
+The symmetries
+emphasized
+the clarity of the overall design.
+
+by this
+
+example
+
+thus
+
+While the enOne other point, before proceeding
+to the Trio.
+trance of the theme in the left hand in m. 20 would seem to begin
+it does begin in fact two
+return to the opening,
+the expected
+For me
+later (though this point could be debated).
+measures
+Mm. 20-21 continue the prethe matter of texture is crucial.
+vious little ostinato as accompaniment,
+creating the expectation
+of mm. 1-8 will be so embroidered.
+that the entire recapitulation
+we shift to a new solo
+This in fact does not happen.
+Instead,
+cain a consistently
+in m. 22 which then is elaborated
+texture
+of
+nonical manner and spun out to the requisite
+eight measures
+to a
+be likened
+Mm. 20-21 can thus in retrospect
+the opening.
+- something
+like a brief echo of the famous
+false recapitulation
+of the
+movement
+of the first
+big bang in the recapitulation
+Eroica.
+than the opening.
+Now, to the Trio; if anything it is even simpler
+first eight measures
+The relatively
+dynamic form of the piece's
+gives way in mm. 30-37 to a simple period marked by continuous
+Ex. 4 gives the Trio
+reference
+to the new "tonic", G major.
+withthe
+up to the first double bar and also shows relationships
+The circled G - A - G in mm. 30-31 recall the opening
+opening.
+three notes of m. 1. The notes under the first bracket are an
+of the left hand in m. 4. Those under a slur are
+augmentation
+distorted
+recall of the right hand in that measa rhythmically
+ure. Note that although the left hand motive in m. 4 came to be
+more dynamic fashion up to m. 7,
+in a progressively
+developed
+- G to G - are preserved
+of that progression
+the basic confines
+The second bracket
+in the octave skip gl to g2 in mm. 32-36.
+Schubert's
+division of this octave into skips
+in m. 36 emphasizes
+to the opening.
+fourth - again, a reference
+of the ascending
+to m. 9. The
+to a new key, analogously
+M. 38 moves abruptly
+is preserved,
+of the previous
+though
+eight measures
+regularity
+in pacing with 4+4 measures
+there is an increase
+being replaced
+Mm. 42-43 bring an interesting
+rhythmic
+by 2+2 (mm. 38-41).
+followed
+shift through accents,
+giving us in fact a 3/2 measure
+The hemiola effect thus produced has beenheard
+by one in 3/4.
+Just one more reafirst three "fz").
+before (cf. mm. 15-16,
+of Schubert.
+admiration
+well-known
+for Brahms'
+son, perhaps,
+of course from m. 1)
+The dotted rhythm of the Trio (borrowed
+as we prepare for its
+more pronounced
+becomes
+progressively
+of the
+Here comes the first "surprise"
+return in mm. 45-51.
+The linkup
+G major.
+of the expected
+Trio - g minor instead
+
+EXAM PLE
+3
+
+4
+
+220
+with mm. 4-5 is obvious. After four measures of this Schubert
+goes on blithely to the Trio's consequent phrase, and in so do(B6 ing reinforces his switch of mode with a cross-relation
+Bt in mm. 54-55) recalling the analogous spot in the first section (mm. 25- 26).
+The retransition to the Da Capo (mm. 59-66) is fairly routine,
+de-tonicizing (if one may use such a word) G major, just as
+was done with D major previously.
+In fact, these eight measures are so much less interesting than the others, one is tempted to picture Schubert already thinking of the next piece. That
+would explain the mechanical recapitulation of the opening section which follows.
+Concluding, I would like to go back to the symmetrical arrangeThe following diagram
+ment of subsections mentioned earlier.
+brings this out:
+Trio
+
+(A) II: 8 meas.
+(B) II: 8 meas.
+(a)
+
+:11: 13 meas.,
+:11: 13 meas.,
+(b)
+
+8 meas.
+8 meas.
+
+:1j
+(retransition
+:11
+8 meas.)
+
+(a ')
+
+Of course, one could think of the second section of (A) as being
+divided eleven and ten measures.
+However, as I tried to show,
+compositional as well as notational details reinforce the above
+Schubert could have used a fermata in place of
+interpretation.
+the one measure rest in m. 17, or even a rest plus fermata, as
+he does in Moments Musicaux No. 4, right before the Trio.
+That he didn't makes me wonder whether in fact he was aware
+not only of the symmetries in the overall structure but even of
+the relative proportions of the subsections.
+The reader will
+have noticed by now, of course, that I am referring to the Fibonacci series, each of whose numbers is the sum of the preceding two. This is evidenced not only by the eight and thirteen
+measure durations, but by the overall length of twenty-one
+measures for each second section (b + a'). One feature of the
+Fibonacci series is that adjacent numbers approximate the
+famous Golden Mean of medieval and Renaissance art:
+21
+13
+
+13
+8
+
+A means of assuring visual proportion can thus be transferred
+to music, and in fact has been done so by leading twentieth cenamong them Bela Bartok and Luigi Nono. If
+tury composers,
+Schubert's precedence in this were known, he might be studied
+
+221
+more assiduously by today's composers.
+Who knows, it might
+even lead to a revival of the Moments Musicaux at Darmstadt
+But
+along with that other nineteenth century relic, Parsifal.
+for this of course the title *3 would have to be appropriately
+I leave that to the reader's imagination.
+altered.
+
+R
+
+E
+
+F
+
+E
+
+1
+
+Deutsch,
+360-61.
+
+3
+
+Deutsch
+says
+Ibid.,
+p.361.
+
+- Moments
+nach eigenschriften
+Musicaux,
+Impromptus
+und Anhang versehen
+sowie mit Fingersatz
+herausgegeben
+1966.
+G. Henle Verlag,
+MUnchen-Duisburg:
+
+Franz.
+Schubert,
+den erstausgaben
+Walter Gieseking.
+
+2
+
+0. E.,
+
+ES
+
+C
+
+EN
+
+R
+
+ed.
+
+that
+
+Schubert
+
+the title
+
+was
+
+Thematic
+
+"probably..
+
+Catalogue.
+
+London:
+
+.an invention
+
+Dent,
+
+of the
+
+und
+von
+
+1951,
+
+publishers".
+
+pp.
+
+222
+
+Analysis
+
+Symposium
+
+CARL SCHACHTER
+and apparently
+Schubert's
+Opus 94 No. 1 is so unpretentious
+of it might seem to be a
+of analyses
+simple that a collection
+"Pooh Perplex".
+kind of musical
+Actually the piece contains a
+and is rather more
+features
+number of unusual and irregular
+it preThe difficulties
+elusive than it appears to be at first.
+nor from obscurity;
+sents result neither from complexity
+they
+from
+character
+are due, rather, to the wayward, unpredictable
+so much of
+which the piece - or at least the A part *1 - derives
+its charm.
+
+THE A PART
+Measures
+
+1 - 8
+
+of the
+The unison statement
+motto; we expect its elements,
+
+sounds like a
+opening measures
+in such clear focus,
+presented
+
+223
+to recur significantly.
+Which are the most important
+of these
+The first thing we hear is the neighboring
+elements?
+figure
+caused by the grace note; the significance
+of this
+gl-al-gl
+evident
+We
+fleeting idea will become
+only later in the piece.
+are more forcibly
+the evstruck by the broken triad gl-el-cl;
+olutions of this pattern begin at once.
+The leap of a sixth from
+g to e2 in the second broken triad is the first and most important of these evolutions
+of
+(see Example
+1). The juxtaposition
+-is to perg and e - both tones occuring in various registers
+vade much of the A part. In addition e2 functions
+as the initial
+tone of the embracing
+melodic progression
+'A.1
+1 indicates,
+As example
+the development
+of the broken triad
+in the right-hand
+continues
+Mm. 3-4 "repart of mm. 3-8.
+invert" the ascending
+sixth to a descending
+This
+third, gl-e1.
+third is filled in; the grace-note
+of m. 3 hints at the more extone of the next measure.
+(The passing-tone
+plicit passing
+finds its simplest
+embodiment
+progression
+gl-fl-el
+rhythmic
+in binary division,
+as in second-species
+The
+counterpoint.
+broken-chord
+pattern of m. 1, on the other hand, fits most natThus melodic elements
+urally into a triplet division.
+give rise
+to the rhythmic
+and combination
+figures whose alternation
+permeate the design
+of the piece.)
+In m. 5 the change of mode
+1 shows,
+of el to eb1.
+As Example
+brings about the inflection
+the filled in third gl-fl-ebl
+is followed by a stepwise
+ascent to
+c2 producing another transformation
+of the broken-chord
+figure.
+2 shows the context in which the motivic transformaExample
+tions described
+above take shape.
+that the initial
+It indicates
+(it is best to hear it as a single eight-measure
+phrase
+phrase)
+a broadly unfolded tonic harmony
+e2 as
+expresses
+supporting
+tone.
+The right-hand
+contwo linear
+top-voice
+part contains
+tinuities.
+The upper one centers
+on e2 decorated
+by its upper
+from gl to el and ebl and thence
+neighbor f2; the lower passes
+brokenup to c2. The bass shows the imprint of the pervasive
+chord figure,
+but in ascending
+In mm.
+and in minor.
+direction
+5-7 the bass extends the tonic minor and leads to the cadential
+dominant by means of the arpeggiated
+each
+progression
+c-eb-g,
+tone preceded
+The filled-in
+fourths of
+by its own dominant.
+mm. 4-5 prepare the disjunct ones of the following
+measure
+and
+become a motivic element
+of some importance.
+Measures
+
+9 - 19
+
+The eleven measures
+the b section of the first part
+comprising
+some of the most challenging
+of the entire
+present
+problems
+the first phrase (mm. 9-12),
+with its rapid
+piece.
+Especially
+
+224
+EXAM PLE
+
+I
+
+D
+
+C
+
+fi
+
+>
+
+~---'~~c\
+m
+
+4
+
+-S
+
+'
+
+225
+EXAMPLE
+
+i
+
+s
+
+aI
+
+I
+
+I
+
+U
+
+I
+
+r2
+
+I
+(C^
+
+I cs
+
+\
+
+r q
+
+l\
+C~~~~~~~~~~~~~~~~
+U~~~~~~~~~~~~~~
+
+<
+c
+
+- ''
+
+^
+
+'
+
+_
+
+^
+
+Q
+(! ^
+
+^
+
+\
+
+226
+changes in tonal focus and vacillating top-voice
+careful study before it reveals its meaning.
+
+line,
+
+requires
+
+The suggestion of a minor in mm. 9-10 is too brief and inconclusive to be considered a decisive departure from tonic harmony. In order to understand the contents of these measures
+we must remember that they follow the extensive tonic elaboration of mm. 1-8. Viewed in this context the al of m. 9 reveals
+itself to be the upper neighbor of the persistent inner-voice
+tone gl of the opening phrase. The g 1 (in the foreground part
+of the V of a minor) functions as a chromatic passing tone leading again to gl in m. 11 (see Example 3). The origin of this
+inner-voice motion lies in the fleeting neighboring progression
+caused by the grace note of m. 1. This connection may seem
+forced, and it would be if this were the only instance of simiBut the use of al as neighbor to gl becomes a most
+larity.
+significant motivic event in the B part and occurs both at the
+beginning (mm. 30-31) and retransition (mm. 64-66) to form a
+link with the A part. *2
+We can now examine as a whole the phrase of mm. 9-12 (see
+The bass, like
+Example 4, a graph of the entire b section).
+that of mm. 5-6 grows out of the broken-chord figure of the
+The c of m. 8 vibrates in our memory through
+opening measure.
+m. 9. In m. 10 e enters, to be prolonged through the beginning
+of m. 12 (briefly displaced by cl through an interchange with
+The arpeggiation finds its goal in the g of m.
+the top voice).
+12. In a more conventional piece this g might well function as
+a dominant of high structural order paving the way for the tonic
+of the a' section.
+Here, however, the g constitutes a brief
+departure to the upper fifth, pointing back to the initial tonic
+but not fated to usher in the recapitulatory one.
+The melody of mm. 9-10 begins with the structural top-voice
+tone e2, the grace note echoing the f2 of m. 7. However the
+change of chordal position at the third beat of m. 9 brings to
+the fore the inner-voice
+tone c2. For the rest of the phrase
+the right-hand part exploits the inner voice region (note, however, the recollection of e2 in m. 12, preceded by the diminished fifth bl-f2 as in the cadence of mm. 7-8). The melody
+wavers between c2 and bl as if uncertain about the course it
+In so doing it resembles
+somewhat the shifting
+should take.
+figure-ground patterns of the psychology textbooks; which is
+the main tone and which is neighbor? The problem for the analyst is greatest in m. 11 where the playful alternation makes it
+difficult to judge whether the underlying chord is a C6 oran E.3
+
+227
+us with an anbroader
+context
+provides
+and order our perwhich we can stabilize
+context rather than as a succession
+of aumeasure takes on a definite C-major
+physof the first two beats as an E-chord
+would
+Analysis
+iognomy.
+of the left-hand
+the C arpeggio
+part,
+require us to disregard
+e2
+c
+and
+the interchange
+tonic before
+X
+, and the framing
+e
+c
+after (mm. 1-8 and m. 12).
+
+to a
+Only reference
+means of
+chorage by
+Heard in
+ceptions.
+tonomous chords the
+
+In mm. 9-12 the competition
+between b1 and c2 has mainly favored the c2; only at the end of m. 12 does b1 begin to prevail
+tone of the G-chord).
+At the E minor of mm. 13 ff
+(as top-voice
+(with c2 reduced to a neighboring
+grace note) b1 comes into its
+itself ever more strongly until after the dynamic
+own, asserting
+climax of m. 16. However assertive,
+b2 and its
+and registral
+tone.
+a manipulated
+inner-voice
+variants
+represent
+registral
+The top-voice
+region comes into play again with the g2 of m.13.
+into a single bar
+(The events of m. 13, incidentally,
+compress
+of mm. 1-2; even the sixteenth
+the essential
+contents
+rest derives from the eighth rest of m. 2.)
+After b exhausts
+itself in the climax of mm. 15-16 only e and g
+are left to represent
+the E-chord.
+As the memory
+of b - althe imready weakened
+by the rest of m. 17 - grows fainter,
+of E minor becomes
+e and g as third and
+attenuated;
+plication
+fifth of tonic harmony
+a bridge into the a' section.
+provide
+a synoptic view of the entire b secExample 5, which presents
+tion in relation to context,
+should now be consulted in connection
+with the more detailed graph of Example 4. The symbol EM,
+indicates
+a non-stepwise
+Salzer,
+decoration;
+originated byFelix
+here the embellishing
+E-minor
+chord allows a further development of the pervasive
+the tones e and g.
+between
+relationship
+Note that the melodic
+outline of mm. 12-23,
+as shown in Examan expansion
+of the idea of mm. 1-2.
+ple 5b, constitutes
+Measures
+
+20 - 29
+
+Almost every tone in the a' section (mm. 20-29) can be traced
+back to the first eight measures
+and functions
+as a direct repor contrapuntal
+inversion
+of its
+etition,
+variant,
+registral
+However the structural
+"original'.
+meaning of the a' section
+differs
+from that of the opening one.
+For here the
+greatly
+of centering
+instead
+on the third step of the scale,
+melody,
+to its goal, the tonic.
+The simplicity
+with which
+progresses
+- for me at least - one of the
+this is accomplished
+constitutes
+
+22S
+most
+
+beautiful
+
+and admirable
+
+features
+
+of the piece.
+
+*3
+
+6 indicates,
+As Examlie
+tone of mm. 13-19,
+g2, the top-voice
+an overcontinues into the beginning of the a ' section,
+effecting
+section and permitting
+the hesitant enlap with the preceding
+trance of the theme in the left-hand
+The right-hand
+part.
+part
+of mm. 24-25 lies an octave above the corresponding
+idea of
+mm. 3-4.
+This change of register
+stabilizes
+e2 in preparation
+In addition it fulfills
+descent.
+for the forthcoming
+structural
+the expectations
+created by the falling thirds g2-e2 of mm. 1319. Note the parallelism
+between
+the g2_f#2-e2
+of mm. 15-16
+and the g2-f~2-e2
+of m. 25 (which
+(where g2 predominates)
+to e2).
+gravitates
+6 indicates,
+I read the contents
+of mm. 26-27 quite
+As Example
+from those of mm. 5-6 of which they form a contradifferently
+As in many other pieces changes in the conpuntal inversion.
+require us to hear one - and sometimes
+trapuntal organization
+melodic
+lines in a changed
+more than one - of the constituent
+In the left-hand
+manner.
+part of mm. 5-6 the harmonic
+implifourths (the lower tones are dominants
+cations of the sequential
+an emphasis
+on the upper tones.
+of the upper ones) creates
+The
+is removed now that the fourths occur in
+harmonic
+implication
+In addition the upper tones of the fourths now
+the top voice.
+of the bass whereas the lower tones
+constitute octave doublings
+a satisfactory
+(the bass of mm. 26-27,
+produce
+counterpoint
+of the alto part of mm. 5-6).
+is a slight variation
+incidentally,
+I hear the lower tones of the fourths
+For these reasons
+as
+While the bass is
+element.
+forming the main direction-giving
+to the V, the melody begins a "premature'
+arstill in transit
+of the G7 chord with minor third; the bb gives way
+peggiation
+in m. 28. By starting in the middle
+to the required leading-tone
+(m. 26) and adding the upper octave at the end of the
+register
+Schubert
+indicates
+that the lower tones of
+measure,
+strongly
+and the upper ones are doublings.
+the octaves are fundamental
+of the melody,
+occurs on
+The structural
+resolution
+therefore,
+as the initial e2, but reinforced
+c2, in the same register
+by its
+The doubling is required to balance
+the rather
+upper octave.
+part of three tones in close position.
+heavy left-hand
+V-I of mm. 28-29 supports
+a melodic progression
+The cadential
+of the one found in mm. 7-8. Here, howwhich is the inversion
+diminished
+fifth has a different
+ever, the descending
+meaning
+from the ascending
+one of m. 7; it subs tituteR for the melodic
+3 and 1. Schenker
+between
+re(2) as connection
+supertonic
+for the 2 frequently
+occur in
+marks *4 that such substitutions
+in
+This one is particularly
+short compositions.
+appropriate
+
+229
+EXAMPLE
+
+i
+^
+
+:
+
+^
+
+.f'
+^;?F~~~~~~~~~~~~~~~~
+^
+~^\?~~~~~~~~~~~~~~.
+
+r-N)
+,N
+
+L)
+
+-
+
+90
+
+230
+view of the motivic reference it provides.
+The d2 in parentheses in Example 6 represents the underlying melodic tone
+substituted for and bypassed in the actual piece.
+THE B PART
+If the reader will play through the first part of the piece he will
+discover that it stands on its own and makes musical sense
+apart from the piece as a whole. If he tries the same experiment with the second part (mm. 30-58) he will find that it cannot stand alone; its meaning becomes clear only in the context
+of the whole piece.
+The reason is the following:
+The first
+part expresses a complete musical thought leading, both in the
+melody and harmony, to a stable conclusion on the tonic. The
+G major section, on the other hand, never reaches a definitive
+conclusion in the melody; the top voice, as we shall see, remains centered on d2.
+(Middle sections of three-part song
+forms, incidentally, often express complete harmonic-melodic
+the Trio of Opus 94 No. 6 offers a convenient
+progressions;
+comparison with our present piece.)
+Measures
+
+30 - 37
+
+These eight measures form the a section of the middle part.
+In mm. 30-31 gl is prolonged by a sequential two-note pattern
+As Example 7 indifeaturing its lower and upper neighbors.
+cates, the upper neighbor, al, should be considered the prilies in
+mary one. The origin of this neighboring progression
+the grace-note figure of m. 1; the melodic succession gl-al-gl
+is to play an important role throughout this middle part.
+The
+Example 8 presents a graphof the entire eight measures.
+reader will note that I consider the V, the harmonic goal of the
+6
+first phrase to "arrive "at the 4 on the downbeat of m. 33 rather
+The reasons
+than at the D-chord of the preceding measure.
+for this admittedly odd reading are the following. The sustained
+G drops out of the left-hand part at the beginning of m. 32 anc
+the lowest tone of the broken chord (verticalized from the second beat on) takes over as bass. As I hear it this fact does no'
+become manifest until the downbeat of m. 33 where the impresThe d o
+sion of a melodic and rhythmic goal clearly obtains.
+m. 32, on the other hand, seems to function mainly as conso
+nant support
+
+for the passing
+
+In m. 34 d2 appears; it willbe
+
+al of the melody.
+
+intermittently
+
+present throughou
+
+7
+
+?
+
+_-
+
+to d'
+m. 39
+
+232
+the B part and functions as the central top-voice tone.
+The
+contents of mm. 34-37 are pretty straightforward and my analysis should be clear from Example 8.
+Measures
+
+38-50
+
+Example 9 explains the b section with its extended prolongation
+of the V of G. Note the persistent use of A1 as fifth of the Dchord below the functional bass; in m. 45 the rising third A1B1-C adds the seventh to the chord (cf. the right-hand part of
+m. 32). A passing motion within the V leads to the G of m. 51;
+the bass progression echoes, in a differing harmonic context,
+in low register,
+and in broadened time values, the right hand
+part of m. 36 and can possibly be traced back to the filled-in
+fourths of mm. 4 and 5. Example 10 concerns a detail, the
+contrapuntal background of the melodic dialogue of mm. 38-41.
+Measures
+
+51-58
+
+The a' section (mm. 51-58) is the same as mm. 30-37 except
+for the minor coloration of the first phrase.
+This, of course,
+is in marked contrast to the C major part where the recapitulatory section shows a structural function very different from
+that of the opening one. We can therefore dispense with a graph
+of mm. 51-58. Example 11 offers two reductions of the entire
+underB part and indicates thatthe neighboring figure gl-al-gl
+lies the entire middle voice; d2, of course, acts as the sustained top-voice tone.
+Measures
+
+59-66
+
+These measures contain the retransition to the reprise of the
+A part. This section has a number of compositional tasks to
+perform. It must accomplish a harmonic reorientation through
+which G ceases to be a stable center and becomes an active
+element pointing to and demanding the reappearance of C. This
+is accomplished here in the most usual fashion, by means of
+the seventh, ftl (mm. 63-66). In addition the melody must prepare the lower register of the beginning of the A' part; this is
+d2-c2-bl-al-gl
+brought about by the descending progression
+The tones leading down to the gl are prolonged
+(mm. 58-62).
+filling in descending thirds; melodic thirds,
+by progressions
+descending and ascending, have dominated the entire middle
+part. Schubert solves the structural problems, but in a somewhat perfunctory and unimaginative way; I, for one, find the
+obvious sequential elaboration of the descending fifth (and the
+persistent rhythmic repetition) rather hard to take. The one
+
+233
+EXAMPLE
+9
+
+234
+EXAMPLE
+10
+
+(E)
+
+I
+I
+
+I
+
+V
+
+I-V
+
+0
+
+-
+
+230
+EXAMPLE
+12
+
+?
+
+B
+
+I
+
+V
+I
+
+A
+
+A
+
+A
+
+2
+
+A
+
+A1
+
+A
+
+A?
+
+3
+
+2
+
+1
+
+I
+
+V
+(D)
+
+I
+
+V
+
+I
+
+238
+of al (mm. 64-66) with
+saving touch is the beautiful introduction
+to the important
+its reference
+gl-al-gl
+figure of the Bpartand
+of the innocent gracefor the final statement
+its preparation
+Exnote motive that has led to such unforseen
+consequences.
+ample 12 explains.
+
+THE PIECE
+
+AS A WHOLE
+
+of the piece as a whole
+The key to understanding
+the structure
+subof the rather peculiar
+lies in the recognition
+relationship
+can be
+This relationship
+between the A and B parts.
+sisting
+with a
+of contrast
+a high degree
+as combining
+characterized
+The G major of
+and melodic connectedness.
+binding harmonic
+a
+to the whole piece,
+the middle part, in relation
+represents
+d2 as prinV. This V supports
+broadly expanded and tonicized
+to the C major of the whole
+tone; in relation
+cipal top-voice
+The
+d2 represents
+the second degree of the scale (2).
+piece,
+Now the V, alB part therefore,
+is grounded in a V sonority.
+element
+at the final cadence
+though it appeared as a structural
+was never
+chord earlier),
+of the A part (and as a prolonging
+Indeed mm. 1-29 use
+the basis of a large-scale
+prolongation.
+as is possible in major-minor
+the V just about as unobtrusively
+of the tonal
+The 2, also a fundamental
+component
+tonality.
+of m. 28.
+substitution
+is circumvented
+by the melodic
+system,
+to the A part by means of
+is related
+The B part, therefore,
+This
+in the earlier
+or bypassed
+elements
+part.
+underplayed
+the rhythms
+is accompanied
+contrast
+fundamental
+by others:
+to the fluid prose
+in contrast
+are repetitive
+and symmetrical
+is more given, more real
+rhythms of the A part; the character
+than that of the searching,
+opening section.
+mysterious
+Example 13 shows a synoptic reduction of the whole piece; havof the middle part in Extwo reductions
+ing already presented
+chord
+it here by its governing
+ample 11, I have represented
+that the A and B parts
+The graph indicates
+tone.
+and top-voice
+linear-harof an interrupted
+form the first segment
+together
+The tension
+monic structure.
+by the techgenerated
+always
+with that caused by the contrast
+together
+nique of interruption,
+of A with its
+the reprise
+between the A and B parts,
+requires
+Note that the first A part, in
+and repose.
+effect of completion
+descent into the
+a large-scale
+relation to the whole, constitutes
+tone evenas a retained
+inner-voice
+region; the e2 functions
+tually connecting with the d2 of mm. 34 ff. The B part represents
+of A
+The reprise
+V (divider).
+of the interrupting
+the expansion
+*5
+of the interrupted
+progression.
+brings the second segment
+
+239
+
+R
+
+E
+
+F
+
+E
+
+R
+
+E
+
+C
+
+N
+
+E
+
+S
+
+1
+
+I use the capital letters
+ABA' to refer to the three
+Each of these
+shows a tripartite
+interior
+organization;
+within each part by means of small letters
+aba'.
+
+2
+
+As I see it a group of tones becomes
+a significant
+compositionalelement
+forms part of a pervasive
+foreground
+pattern through literal or disguised
+or if (2) it penetrates
+to deeper levels
+tition,
+of structure.
+
+3
+
+I write this bearing in mind Joseph Addison's
+remark:
+"When we say a woman
+has a handsome
+neck we reckon into it many of the adjacent parts. '
+
+4
+
+Heinrich
+Schenker,
+ed. (Vienna,
+1956),
+
+5
+
+underlies
+this sort of tripartite
+either of
+Interruption
+frequently
+organization
+whole pieces
+or of sections.
+Der Freie Satz, ExSee, for example,
+Schenker,
+Structural
+ample for Fig. 43a (Vol. II, p. 180), and Felix Salzer,
+Hearing (2nd
+New York, 1962), Example
+500 (Vol. II, pp. 290-292).
+edition,
+
+Der Freie Satz
+Vol. I, p. 89.
+
+(Vienna,
+
+1935);
+
+main parts
+I indicate
+
+2nd edition,
+
+of the piece.
+the sections
+
+Oswald
+
+if (1) it
+repe-
+
+Jonas,
+
+

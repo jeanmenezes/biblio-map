@@ -1,0 +1,3053 @@
+Yale University Department of Music
+
+Proportional Exchange in Stravinsky's Early Serial Music
+Author(s): Akane Mori
+Source: Journal of Music Theory, Vol. 41, No. 2 (Autumn, 1997), pp. 227-259
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843959
+Accessed: 16/12/2009 11:07
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+PROPORTIONAL EXCHANGE
+IN STRAVINSKY'S EARLY
+SERIAL MUSIC
+
+AkaneMori
+
+Igor Stravinsky'sprofoundrespect for Anton Webern'swork manifests itself in his early serial music.' The tone row that appearsin the
+"Pas-de-Deux"
+movementof Agon (mm. 452-62 and mm. 495-519), for
+example, is quite similarto the one in Weber's VariationsforOrchestra
+Op. 30 in that their intervallic patternsand symmetricalpartitionsare
+almostidentical.2 twelve-tonetechniqueused in the thirdmovementof
+A
+CanticumSacrum(mm. 148-53, mm. 169-73, and mm. 178-83) resembles that in Weber's Quartet,Op. 22: two differentrows are assigned
+to two contrapuntal
+melodic lines, and partitionsof the rows switch between these two lines.
+Despite these similarities,Stravinsky'sapproachto tone-row organizationexhibits severalspecial featuresduringthis period.Althoughcomposers of the Viennese School tend to use the serial method exclusively
+throughouta piece-or at least throughouta movement-Stravinsky
+between serial and non-serialmethodsin the early serial
+freely alternates
+works. Stravinskyalso employs rows with lengths other than twelve: a
+four-note row in Three Songs from William Shakespeare; a five-note row
+in In Memoriam Dylan Thomas; and a sixteen-note row in Septet. While
+
+both Stravinskyand composers of the Viennese School frequentlyuse
+use
+contrapuntal
+techniques,especially canon, Stravinsky's of the row as
+227
+
+if it were the subjectof a fugue or a canon differs from that of the Viennese School.3
+This essay focuses on a special feature of Stravinsky'searly serial
+works:theirproportional
+formalstructure.4
+Because the end of a tone row
+often coincides with the end of the subject of a fugue or canon, the
+of
+arrangement tone rows tends to correspondwith the segmentationof
+sections and the phrase structure.Comparingthe durationsof the segmentscreatedby these tone rows revealsintricateproportional
+structures.
+structures
+My analysis revealsthatproportional
+play a significantrole in
+Stravinsky'smusical forms. I first examine Three Songs from William
+Shakespeare and In Memoriam Dylan Thomas; I then analyze Canticum
+
+Sacrumand draw conclusions about how its text and formal design are
+connected. In the course of my analysis, questions will arise regarding
+how the concept of exchange contributesto hearabledesigns in Stravinsky's music: Is it possible to hear intricateor long-range proportional
+and
+structuring, if so, how mightone developa sensitivityto it?This investigationof Stravinsky'sformalprocess, viewed in termsof exchange and
+the
+proportion,gives us new ways of understanding composer's unique
+approachto serialism.
+To elucidate Stravinsky'sconception of form, I introducethe notion
+of "proportionalexchange." Proportional exchange occurs when a
+manifestedbetweentwo segmentscan be found invertedelseproportion
+where.The segments may occur in two differentvoices, or in two different sections. Because exchange requires two independentelementssuch as two segments in two voices-proportional exchange usually
+occurs in contrapuntalmusic. Since Stravinskyemploys contrapuntal
+technique frequently during his early serial period; this music is well
+suited to proportional
+exchange.
+Stravinsky'smusic is also well suited to proportionalexchange because of its pronounceddiscontinuity.Discrete sections arejuxtaposed,
+with no transitionbetween them. The impressionof discontinuityis further heightened by the static characterof these individual segments or
+sections. Repetitivepitch organization a segmentor a section produces
+in
+harmonic stasis. The music's static characterand discontinuities, together,make proportional
+exchange musically viable, that is, they highlight the boundariesof musicalevents which, in turn,encouragelisteners
+to identify durational
+relationshipsbetween segments.5
+Before undertakingspecific analyses, it is necessary to consider
+the general natureof exchange and proportion.Exchange is an action,
+whereas proportionis a state. The former implies a change; the latter
+implies a static relationship.Exchangedenotes giving and receiving, the
+in
+replacementof one thing with another.Proportion, contrast,denotes a
+comparisonof measurable
+quantities.Thusproportional
+analysisrequires
+228
+
+Example 1. Webem, Kantata,Op. 29, I, m. 36
+a framework which form is consideredatemporally, a static, spatial
+in
+as
+simultaneity.
+Example 1 shows instances of voice-exchange from Webern'sKantata.6The kinetic element of exchange is the process of exchange itself,
+denotedin Example 1 by the unidirectional
+arrows.The staticelement of
+is the balanced symmetryof the whole, as suggested in the
+proportion
+in
+visual notationalrepresentation, which a horizontaland vertical"flip"
+leaves the pitch-class structureunchanged.Though both symmetryand
+exchangearemanifestedin this excerpt,symmetrytakesprecedence.The
+it
+static,self-containedcharacter engendersoverwhelmsthe kineticqualof exchange.The analysesbelow furtherinvestigatehow the concepts
+ity
+of exchange and proportionrelate to each other, how one concept may
+overridethe otherin a given context, and how this affects formalprocess
+in Stravinsky'smusic.
+Proportional Exchange And Formal Design
+One of the most straightforward
+examplesof proportional
+exchangein
+music occurs between the two outer "Dirge-Canon"
+secStravinsky's
+tions of In MemoriamDylan Thomas.These two outersections framethe
+central"Song."Figure 1 shows the constructionin greaterdetail. Roman
+numeralsindicate canons and Rs indicate ritornellos.There are two instrumentalgroups, trombones and strings. In the first "Dirge-Canon,"
+each canon is played by the trombones,and each ritornellois played by
+the strings.In the second "Dirge-Canon,"
+these assignmentsarereversed;
+the trombonesplay the ritorellos and the strings play the canons. The
+numbersbeneath the Roman numeralsand Rs indicate the durationof
+229
+
+Dirge-Canon
+
+measure:
+
+1
+
+6 9
+
+Trombones: I
+
+14
+
+II
+
+27(25) 27(25)
+
+Dirge-Canon
+
+Song
+
+17
+III
+25
+
+22
+
+87 92
+
+77 80 85
+R
+16
+
+R
+
+R
+
+16(13)
+
+18(13)
+
+R
+
+R
+
+IV
+
+V
+
+16
+
+Strings:
+
+16
+
+27(25)
+
+27(25)
+
+Figure 1. Form of In Memoriam Dylan Thomas
+
+units. The numbersin parenthesesare the durations
+partsin quarter-note
+up to the attackpoints of the following parts.For instance,the firstritornello enters two quarternotes before the first canon ends, so the parenthesized number,25, is the durationof the firstcanon from its beginning
+until the entranceof the firstritornello.
+A proportionalexchange of durationsoccurs among the canon and
+ritornellopartsof the firstand second "Dirge-Canons."
+Figure 1 shows a
+durationof 25 quarternotes (five 5/4 measures) for each canon, and a
+durationof 16 (two 3/2 measures and one 2/2 measure)for all but the
+finalritorello with a couple of adjustedvalues.While the actualcanonic
+durationis 27 in some instances,I choose the parenthesizedvalue 25 as
+I considerit to be the underlyingstructural
+unit.The finalritornelloof 18
+(ratherthan 16) reflects an elongation at the music's close. Thus, every
+canon has the same length, as does every ritornello.Figure2a shows the
+proportionsfor the total durationsof canons and ritornellos in the first
+When the numberof canons and ritornellos
+and second "Dirge-Canon."
+is exchanged-three canons and two ritomellos occur in the first"Dirgeand
+Canon," two canons andthreeritornellosoccur in the second "DirgeCanon"-the proportionof durationsexchange (Figure 2a). Naturally,
+proportional
+exchangealso occursbetweenthe instrumental
+groups(Figure 2b). The articulationof these proportionalexchanges is supported
+by three factors: 1) fixed durationsin each canon and ritorello; 2) exchange in the numberof canons and ritorellos; and 3) correspondence
+of the numberof instrumental
+groups.Togetherthey make the structure
+of the two "Dirge-Canon"
+sections a convincingexampleof proportional
+exchange.
+The first song of Three Songs from William Shakespeare, "Musick to
+
+is
+in
+heare," in five sections:an introduction which only instruments
+play,
+and four vocal sections which correspondto the stanzas of the sonnet.7
+Four-noterows, <11 7 9 10>, are appliedthroughout movement,and
+this
+in the introduction(mm. 1-8) and the last section (mm. 44-50) the
+ordereddiatonicpentachord D E F G> andits retrograde
+<C
+appearalong
+230
+
+with the tone rows. Figure 3a shows the constructionof this movement
+according to the numbers of sections, measure numbers, durationsin
+The
+eighth notes, metric structure,and tone-row structure.8 first and the
+fifth sections are closely related:they are the only two sections featuring
+the diatonicpentachords
+and,except for the additionaltone-rows,R3and
+are
+12in the fifth section, their tone-row structures identical.The second
+and fourth sections are also related, not only in terms of row structure
+in
+(which is similar),but also in termsof metricalstructure: both sections
+Thus the firstand the last sections
+3/8 and 4/8 metersalternateregularly.
+correspond,as do the second and the fourthsections.
+the
+of
+Comparing duration the sections in this movement,based on the
+similaritiesbetween the sections, reveals a proportional
+design. Sections
+1 and5 arein the proportion 26, thatis, 16: 13; sections 2 and4 arein
+32:
+46: 32, thatis, 23: 16; sections 1 and 2 are in the proporthe proportion
+tion 32 : 46, thatis 16 : 23. 16: 23 is the inversionof the 23: 16 proportion occurringbetween sections 2 and 4. Section 5, (which corresponds
+to section 1), and section 4, (which correspondsto section 2), is in the
+26:
+proportion 32, thatis 13: 16-again, the inversionof the 16: 13 proportion which appearedbetween sections 1 and 5. Figure 3b (p. 233)
+summarizesthese relationships.There are two sets of proportionalexchange: sections 1 and 5 exchangingwith sections 5 and 4, and sections
+2 and 4 exchangingwith sections 1 and 2.
+The proportionsin the firstexchange pair are establishedby comparsections (secing symmetricallyopposed sections, i.e. the corresponding
+tions 1 and 5, and sections 2 and 4). The proportionsin the second pair
+are establishedby the two pairs of adjacentsections. Two elements are
+
+First
+
+Second
+
+Canon
+
+75
+
+:
+
+50
+
+=
+
+3
+
+:
+
+2
+
+Ritorello
+
+32
+
+:
+
+48
+
+=
+
+2
+
+:
+
+3
+
+Figure2a. The proportionsof the canons and ritornellosbetween the
+firstand second "Dirge-Canons" In MemoriamDylan Thomas
+in
+First
+Trombones 75
+
+Second
+:
+
+48
+
+=
+
+25
+
+: 16
+
+= 16 : 25
+32
+: 48
+Strings
+Figure 2b. The proportionsin the instrumental
+groupsbetween the first
+and second "Dirge-Canons" In MemoriamDylan Thomas
+in
+231
+
+sectionmeasures durationmetricstructure
+
+tone-rowstructure*
+
+1
+
+1-8(8)
+
+32
+
+eight4/8 measures
+
+Fl. P 1, Ig, PI, I11, P2. I11
+Cl. diatonicpentachord
+Va. diatonicpentachord
+
+2
+
+9-21 (13)
+
+46
+
+4/8 and3/8 appear
+alternately
+
+3
+
+22-34(13) 45
+
+two 4/8 measuresand Vo. P11, 18, Pi1, R I1, PI, Po, PI , 18
+two 3/8 measures
+Fl.
+P7
+P7,
+Cl.
+P7
+16,
+appearaltenately
+Va. RI3,
+14,
+16
+six 4/8 measures
+seven 3/8 measures
+
+4
+
+35-43 (9)
+
+4/8 and3/8
+appearalternately
+
+32
+
+Vo. PI1, I1, P 1, 11l, P2, 111
+Fl. P3,
+P3,
+15, P8
+Cl.
+P5
+seven 4/8 measures Va.
+Io,
+12
+six 3/8 measures
+
+five 4/8 measures
+four3/8 measures
+5
+
+44-50 (7)
+
+26
+
+no pattem
+five 4/8 measures
+two 3/8 measures
+
+Vo. P11, 18, P11, 110,Ii
+Fl.
+16
+Cl. P,. 16,
+P8
+Va.
+15,
+P9
+
+Vo. P11. 18, PI , 11, P2, R3, I11
+Fl. 12
+CI. diatonicpentachord
+Va. diatonicpentachord
+
+*Thealignmentof row namesreflectstheirrelativeposition. Forexample,at the
+close of section 4, P8 occursslightlyafter11.
+
+Figure 3a. The sections in "Musickto heare"from
+ThreeSongsfrom WilliamShakespeare
+necessary for the proportional
+exchanges appearingin these pairs to be
+realized:the same durationin sections 1 and4-that is, 32 eighth notesand the similarityin the characterof the first and last sections, and the
+second and fourthsections (as mentionedabove).
+The Dirge-Canonand Shakespeare
+song examplesrepresentinstances
+of proportional
+exchange which appearbetween the outer sections of a
+movement.These examplesfoster large-scaleformalbalance.Moreover,
+in both examples, as in the voice-exchange example of Webern,the static aspect of proportion
+over its kinetic aspect.
+predominates
+
+232
+
+,23/16
+
+16/23,
+I
+II
+16
+
+IV
+23
+
+116
+16/13,
+
+I
+V
+13
+
+161
+13/16
+
+in
+structure "Musickto heare"from Three
+Figure 3b. Proportional
+Songsfrom WilliamShakespeare
+Proportional Exchange Between Voices
+And Compositional Procedure
+The fourthmovementof CanticumSacrumconsists of threesections,
+each of which featuresproportionalexchange. The mannerof their appearanceandtheirratiosaredifferentin each section. The second section
+is a canon while the firstand the thirdsections consist of a baritonesolo
+and two other layers. The tone row employed throughthis movementis
+the same as the one in the thirdmovement,<9 8 10 0 1 11 4 3 6 2 5 7>.
+In each section the assigned text can be divided into two large parts,and
+the tone rows supportthese divisions. These featuresset up the proportional exchange thatoccurs.
+Example 2 shows section 1, which consists of three layers: baritone
+solo, chorus, and instrumental
+long notes. This section divides into two
+partsaccordingto the text division. Both partsbegin with an instrumental prelude(mm. 250-54, and mm. 262-65). The preludeto part2 begins
+at the exact center of the section. Thus, both the first and second parts
+have the same duration: eighth notes. Althoughthe meterchanges,the
+60
+tempo is stable, so the clock-time durationsare also equivalent.
+In section 1, the baritonesolo is echoed by the chorus.As shown in
+Example2, Pgis used for the baritonesolo and its echo in part 1. In part
+2, R9 is used for the baritonesolo and its echo. Partof the pitch organization of parts 1 and 2 is thus palindromic.The first segment in part 1
+(mm. 254-57), sung by the solo baritone,is namedX1 on Example2 and
+the echo of this segment, sung by the chorus from mm. 257 to 258, is
+namedXI'; subsequentbaritonestatementsare labeledY1, Y2, and X2,
+with correspondingechoes Y ', Y2', and X2'. Y2 and Y2' are so named
+because they include retrograde
+statementsof the last four pitch classes
+in Y1 and Y1'. Anotherlayer, Z, consists of instances of a single pitch
+class played by the trumpetor trombone.The attack-points these pitch
+of
+classes coincide with the last note of each baritone solo segment. For
+example, at Z1 (m. 256) the trumpetjoins the last note in the baritone
+solo, Db4, and remainson that note throughhalf of m. 259. The second
+segmentin this layer (shown as Z2) consists of the tromboneG3 from m.
+233
+
+Part 1
+
+(T
+
+250
+
+>
+
+;_-
+
+3i
+
+!E
+
+3 ^ Je-
+
+(N-
+
+?3flI)
+
+R
+PQt RI9
+ti ^-r-r
+;d
+
+trlri.l
+
+r
+
+l
+
+-
+
+-
+
+?
+
+s
+Jc
+
+-h
+
+B...nI
+
+B1 =
+
+Viola
+
+254
+B..R.. n
+Br. a,>
+
+: rr
+
+/,
+
+PrTr
+i^?
+
+p
+
+,'
+-
+
+r r r ct~
+
+;
+
+1
+,
+
+*t)
+
+63
+
+3
+
+i
+
+tr r
+
+vh.
+
+i:
+
+,
+
+-
+
+-
+
+'
+
+i
+
+j.
+
+zi
+
+J?sr
+
+.1
+Br. a,h,
+
+au
+
+nl- 3
+
+rrr n
+B.D.nTlr.n
+
+)
+
+f
+
+flr ;3sr
+B..r/TI.l
+
+-
+
+tem
+
+_____
+
+a
+
+\
+_
+
+R
+
+il
+
+r
+
+li:
+
+lem
+
+*au
+
+1
+n^ 1r
+
+'
+
+Xj
+
+?rfiJ
+
+3
+
+\ \j
+
+a
+
+il
+
+I
+1
+
+li:
+
+il
+
+-
+
+VI..
+
+("h./T .
+
+y'
+
+~~I
+,
+-'
+
+I
+rj
+
+'
+,
+
+r
+
+r
+
+'
+
+I'~~~~~
+
+.
+
+i"
+
+Example 2. CanticumSacrumIV, section 1, mm. 250-73
+260 to the first eighth note of m. 262; Z3 and Z4 follow as shown. The
+instrumental
+preludeand interludeare namedW1 and W2 respectively.
+Example 3 is a proportionalgraph of section 1.9 The numbers in
+parenthesesgive the lengths from the initial attackpoint to the terminal
+release point of each segment in eighth-noteunits. The numbershown
+above or below a braceindicatesthe length between the attackpoint of a
+segment and the attackpoint of anothersegment in a differentlayer.For
+234
+
+Part 2
+262
+
+y'
+
+B.. olo
+
+r
+
+s
+
+R9i
+
+C'
+po
+
+?=
+
+-
+
+te
+
+a..larMp
+Bil!/TrpJ
+
+,
+
+a.~
+Ba.. /Trp.
+
+I
+
+[I
+
+Vh.
+
+Cb/rib.
+
+,
+
+3'--r---
+
+2
+
+2
+
+Si
+
+)
+
+po-tes
+
+de
+
+re
+
+om
+
+,
+
+ni
+
+a
+
+16.vr,pj
+
+-
+
+9'
+
+X
+
+B..W,P.nl
+
+VbL
+
+Cb.fr,b
+
+270
+
+3-------'
+
+si bi-
+
+d-
+
+'i.
+
+a
+
+sunt
+
+--
+
+BiTYrMpJ
+
+1
+BL]r/Trp.
+
+B
+
+os t
+
+Vl.
+
+Cb/frb.
+
+I
+
+,
+
+JT j
+_
+
+P '------- 3
+
+-
+
+-
+
+. _ 1.
+.
+3
+
+i
+Example2 (continued)
+
+instance,before segmentX1 ends, its echo, segmentX1', begins; thusXI
+has a durationof 16 eighth notes from the initial attackpoint of XI to the
+entranceof X 1'.Attackpointsthatoverlapwith othersegmentsareshown
+by verticaldottedlines.
+Figure4a (p. 238) summarizesthese significantproportional
+relationof
+ships between parts 1 and 2. The proportion Z1 to Z2 in part 1 is close
+to the proportion Z3 to Z4 in part2. The second segmentand its echo
+of
+235
+
+Part 1
+250
+BaritoneSolo
+
+Part 2
+254
+
+257
+
+260
+
+xi
+
+262
+
+Yl
+
+0
+
+4
+
+(18)
+
+Y2
+
+0
+
+.0*
+
+0-
+
+(I11)
+7 (xIF)
+
+16(xl1)
+Echoes
+
+*
+
+(12)
+
+8(yl)
+' 0
+
+0
+
+0
+
+(I11)
+
+(9)
+
+WI
+Instrumental
+Prelude, .
+(16)
+Interlude
+
+Trumpetor Trombone
+
+265
+
+W2
+0-
+
+0
+
+(14)
+
+Zl
+O
+
+(15)
+
+Z2
+-0
+
+0
+
+0
+
+(11)
+
+Example 3. CanticumSacrumIV, section 1, proportio
+
+in part 1,Y 1 andY1', have the same length, duration11, as do the second
+segment and its echo in part2, X2 and X2', namely,22.10In Example 3,
+numberspresentedunderthe braces reveal anothersignificantsimilarity
+between parts 1 and 2. The durationfrom the attackpoint of X1 to the
+attackpoint of XI' is 16 (labeled xl), and the durationfrom the attack
+of
+point of YI to the attackpointY1' is 8 (labeled yl). The proportion xl
+to yl is 2: 1. The durationbetween the attackpointsY2 andY2' (labeled
+y2) is 8, and between the attackpoints X2 and X2' (labeledx2) is 4; thus
+the proportion y2 to x2 is also 2: 1. Therefore,in both parts 1 and 2,
+of
+the proportionof the baritonesolo segments, until the attackpoints of
+theirechoes, is 2: 1. Further, firstecho segmentsof parts1 and2 indithe
+cate parallelconstruction:
+both xl' andy2' comprisedurations 7 eighth
+of
+notes. So two segments with identicaldurations,xl' and y2', are placed
+between the two segments,xl and y 1, and y2 and x2, whose proportions
+are 2: 1.
+Comparisonof correspondingsegments reveals another significant
+structural
+relationshipbetween parts 1 and 2. The proportionof the first
+baritone solo sections, xl to y2, is 2 : 1. The same proportioncan be
+foundbetweeny 1 and x2, the second baritonesolo sections.The duration
+of yl is 8 and the durationof x2 is 4, so the proportion yl to x2 is also
+of
+2 : 1. On the otherhand,the proportion
+ofY (in part 1) to X2 (in part2)
+is 11 : 22, thatis, 1 : 2. Since Y 1 andY ' both have duration11, and since
+X2 and X2' both have duration22, the proportionof Y1' to X2' is also
+1: 2. Figure 4b summarizesthe proportionsof the correspondingsegments in parts 1 and 2.
+Independentof the correspondencesbetween parts 1 and 2 shown in
+Figure4a, proportional
+exchange occurs between segments within these
+parts, as Figure 4b shows, that is, the first and second segments of the
+baritonesolo until the attackpoints of theirechoes in part 1 are twice as
+long as the correspondingsegments in part2, while the second segment
+and its echo in part 1 are half the length of the correspondingsegments
+in part 2. Interestingly,the proportionalexchange does not appearbetween the segments which are relatedpalindromically.
+Rather,the proportional exchange occurs between the segments which are formally
+parallel. Several elements are essential for the intricate proportional
+structurein the durationsof segments in this section: the construction
+with the baritonesolo followed by its echo by the chorus, the length of
+each segment, and the points where each segment in a voice begins.
+These elements set up the proportional
+relationshipsshown in Figure4a
+which in turnset up the proportional
+exchange.
+Section 3 (mm. 281-306) presentsa slightly differentmanifestation
+of
+proportional
+exchange, though the segmentalconstructionis very similar.As in section 1, therearethreelayers in section 3: X, Y, andZ. Example 4 (p. 240) labels the layers and the rows. LayerX is the baritonesolo
+237
+
+part 1
+Zl :Z2= 15:11 3 :2
+Yl : Y1'= 111 1= 1:1
+(X : X1' = 18 :9 =2: 1)
+xl :yl = 16:8=2: 1
+
+part2
+Z3 :Z4= 18: 12=3 : 2
+X2:X2'=22:22=
+1:
+(Y2 : Y2' = 12: 9 = 4: 3)
+y2:x2=8: 4 = 2: 1
+
+xl'=7
+
+y2'=7
+
+of
+Figure4a. Proportions part 1 and part2 in section 1 in the fourth
+movementof CanticumSacrum
+Part 1
+
+Part2
+
+xl(16)
+yl(8)
+
+:
+
+Y1(11)
+Yl'(11)
+
+:
+
+:
+
+:
+
+=
+
+y2(8)
+x2(4)
+
+=
+
+2:
+2:
+
+X2(22)
+X2'(22)
+
+=
+=
+
+1 :2
+1: 2
+
+1
+1
+
+of
+Figure4b. Proportions corresponding
+segments in part 1 and part2
+in section 1 of the fourthmovementof CanticumSacrum
+partand can be divided into three segments-X1, X2, and X3-because
+of the rests. Similarly,layer Y, in which the trombonesplay, consists of
+three segments,Y1, Y2 andY3. Layer Z, in which only D3 is played by
+the viola and contrabass,has two segments, Zi and Z2. This section is
+divided into two parts at the double bar between m. 294 and 295. This
+division matches the division of the text between "credo,Domine" and
+meam."The metric organizationsbetween parts
+"adjuva,incredulitatem
+1 and2 aresimilar:four 3/4 measures,one 2/4 measure,andone 5/8 measure, appearingin that order,followed by 3/4 measures(seven for part 1
+and six for part2). Unlike section 1, this section is unevenlydivided;the
+firstpartlasts for a durationof 101 eighth notes, the second for 69 eighth
+notes. Although the durationsin eighths is unequal,the durationin seconds is nearly equal. At the double bar the tempo changes from quarter
+note equalsM.M. 88 to quarter
+note equals M.M. 60; both partsare about
+34 seconds long. Because of the tempo change at the doublebar,the proportional exchange based on durationin eighth-notes is not valid for
+durationin seconds. The following analysis, however, reveals that the
+proportionalexchange based on notated rhythmic values nonetheless
+provides significantinsights.
+Proportional
+exchange occurs in the main partof this section between
+mm. 282 and 303, afterXI and beforeY3. The text for the XI segment,
+238
+
+the first segment of the baritonesolo, is the same as that for the second
+half of the previoussection. The text repetitionprovidesa transitionfrom
+the previoussection and sets off XI as an introduction section 3, rather
+to
+than as the beginning of its main part. In Y3, the oboe, bassoons, and
+organ play, whereas in the other Y segments only the trombonesplay.
+This is the firsttime thatthe organappearsin this movement;its appearance anticipatesthe next movement.ThusY3, like X , is set off from the
+main partof section 3. The setting off of XI andY3 is supportedby the
+pitch construction.A different tone row is assigned to each segment
+except for Z1 andZ2, which areostinatosegments.R11is assignedto XI,
+to
+P7 to X2, and 17and its retrograde X3. P7 has three invariantsubsets
+with 17,but not with R11.1 Hence X1, which uses R11,is set apartfrom
+X2 and X3. In layerY, R2 is assigned to Y1, RI2to Y2, and P7 to Y3. As
+with the segments in layer X, R2 has three invariantsubsets in common
+with RI2,but none with P7.12So Y3, like X1, is set apartfrom the other
+segments in its layer.
+Example 5a (p. 242) is a proportional
+graphfor section 3.13Proportional exchange appearsbetween X andY layers. The durational
+proportion of Y1: Y2 is 5: 3 (45: 27). The proportionof X2 until the attack
+point of Y2 (labeled x2) and X3 until the attackpoint of Y3 (labeled x3)
+is about3 : 5 (32: 53). Hence the proportion : 5 occurs in layerX, while
+3
+its inverseproportion,5: 3, occurs in layerY in the main partof section
+3.14 The following considersthe formal significanceof this proportional
+exchange.
+of
+Althoughthe organization voices resemblesthatof section 1, some
+to
+adjustments entrancesof the segments in layerY take place in section
+3. As in section 1, wherelayerZ alwayspicks up the last note of each segment in layer X, in section 3, layerY picks up the last note of layer X, the
+baritonesolo, as shown in Example 4. The attackpoint of the first segment in layerY,Y1 in tenortromboneI, picks up the last note, B3, of XI
+in m. 281. However, the same pitch as the last note (F3) of the second
+baritonesolo segment(on the last beat of m. 290) does not occur until m.
+292, played by the bass trombone, 8 eighth notes later than the initial
+attackpoint of the last note in X2. In fact, Y2 startsfrom m. 290 with
+threeothernotes, E3 andA3 played by the contrabasstromboneand Ft3
+playedby the bass trombone,before the bass trombonepicks up the pitch
+F3 from X2 at measure292.
+Furthermore,
+note,Y2 entersone
+consideringthatthe pulse is a quarter
+at
+eighth note earlierthanexpected.This relatesto the retardation the end
+of X2 and the beginning of Y2 (mm. 289-91). There are three groups
+formed with three notes that have longer note values in each successive
+group. The first group consists of the quarter-note
+triplet at m. 289 to
+which the text "credo" assigned.The second groupconsists of the quaris
+ter notes from the last beat of m. 289 to the second beat of m. 290, to
+239
+
+Ja,
+uvr^ulTr, dir rrmn
+i
+t{ r/f^
+
+'
+
+r2
+
+J= o
+
+Meno mosso,
+
+ONO
+ARll SOLO
+... um
+
+ri
+
+lac
+
+mis
+
+a
+
+-
+
+-
+
+ten.
+
+281^)r#
+
+mu
+
+trb I
+
+-
+
+. -re
+
+=
+
+do,
+
+r
+
+[
+
+t2
+
+)lf rr
+ollalu
+
+ere
+
+........
+bdoat
+
+R II
+
+283
+
+e
+
+=
+
+2R17
+
+;
+
+?
+
+i
+ju
+
+- .......
+rva
+
+R2
+2.
+
+p7
+
+285
+
+Cre
+
+-
+
+286
+
+-
+
+288
+
+287
+
+do,
+
+.. 's
+cre
+
+do.........
+
+cre
+
+-
+
+k:
+b S !a
+
+do.
+
+oz~~~~~~~~~~N
+
+Example 4. CanticumSacrumIV, section 3, mm. 28
+
+which the first two syllables of the text "Domine"are assigned. Before
+the word"Domine"ends, the trombonesbegin to play anotherthree-note
+notes. The adjustgroup.This three-notegroupconsists of dottedquarter
+mentfor the entranceof Y2, namelythatsegmentY2 entersan eighthnote
+earlierthanexpected, is necessaryfor the retardation the end of part 1.
+at
+A similar situationoccurs with the entranceof the third segment in
+layerY.Y3 picks up the last note of X3, G3 in the organ,at m. 303. However, the oboe has alreadybegun Y3 two eighth notes before the organ
+enters.'5Because X3 is the longest among the X segments (57 eighth
+notes), two tone rows, I7 and RI7,are assigned to it. The last three notes
+of RI7(Gb,Ab, G) are also the firstthreenotes of P7in Y3. The entrance
+of Y3 two eighth notes early thus underscoresthe overlap between the
+end of RI7 and P7.To summarize,for both entrancesof the segments in
+layer Y, Y2 and Y3, some adjustmentsoccur:Y2 enters an eighth note
+early andY3 enterstwo eighth notes early.
+Example 5b is a hypotheticalproportional
+graphomittingthe adjustments of the attackpoints of segments in layer X. As shown by asterisks
+in Example 5b, the assumed durationof x2 becomes 33, and that of x3
+becomes 55. Comparethese values with the notateddurationsshown in
+Example5a of 32 and 53 for x2 and x3 respectively.The assumednumbers show an exact ratio, 33 : 55, or 3 : 5. Since the discrepancybetween
+the assumedproportionof 3 : 5 and the notatedproportionof 32 : 53 is
+small, I regardthe proportional
+exchange as not affected by the adjustments. For this reason I presentthe assumedproportional
+graph(Example 5b) to supportmy contentionthatproportional
+exchange is an essential element of the formalconstructionin this section.
+Example6 (p. 244), the second sectionof the fourthmovementof CanticumSacrum,shows another
+exampleof proportional
+exchangein a fourvoice choralcanon (mm. 274-80). Like the other sections of this movement,the text can be dividedinto two parts:"Etcontinuoexclamanspater
+pueri,"and "cumlacrimisaiebat."Example 7a (p. 246) is a proportional
+graphshowing the majorattackpoints of segments:"et,""cum,""pater,"
+and
+These words or partsof words are also shown
+"lacrimus," "aiebat."
+on the graph.The vertical lines are the notatedbar lines. The numbers
+above the words indicate the duration(in eighth notes) from the attack
+points of these wordsto the following words. Since a syncopatedrhythm
+is a basic featureof this passage, in the graphthe attackpoint of "cum"
+in the tenorat m. 276 is indicatedon the initial downbeatof the measure
+insteadof on the second beat, consideringthatthe quarter is a partof
+rest
+the syncopatedrhythmicunit but augmented.Similarly,the attackpoint
+of "pater" the alto at m. 278 also appearson the initial downbeatin the
+in
+graph.
+The proportional
+graphshows that duringthe first three measuresof
+this section (mm. 274-76) the attack points match metrically strong
+241
+
+295
+
+290
+
+285
+
+282
+
+281
+
+X3
+
+X2
+
+xi
+
+&
+
+(57)
+
+(42)
+
+(28)
+26
+
+Y
+
+32(x2)
+
+: Y2
+(27)
+
+(45)
+18
+
+Zi
+
+19
+
+(27)
+
+Z2
+(75)
+
+Example 5a. CanticumSacrumIV, section 3, proportiona
+
+285
+
+282
+xi
+
+~~~~~0
+
+0
+
+(28)
+
+295
+
+290
+
+X2
+
+X3
+
+:(42)
+26
+
+:(57)
+
+*33(x2)Y2
+33x)
+
+Y
+
+I
+
+-0
+
+(45)
+
+(26)I
+
+18
+
+:zi
+
+18
+
+Z2
+0
+
+(27)
+
+(75)
+
+Example 5b. CanticumSacrumIV, section 3, an alternativeprop
+
+274 Piu agitato,J 96
+-
+
+Discanti
+
+('
+
+Alti
+
+-
+
+{'
+
+I
+
+J
+
+14
+tosff
+pia
+
+re souto
+
+Et
+
+con
+
+ti
+
+nu - o
+
+-
+
+cla - mans
+
+ex
+
+-
+
+pa
+
+Et
+
+ti
+
+con
+
+ter
+
+e
+
+pu
+
+ri,
+
+piu lost, f e risoluto
+
+Bassi
+
+-
+
+^I(
+
+-
+
+1
+R2 Et
+
+276
+oB
+
+D.
+
+piuioosf e nrsoluto
+rostof
+
+-
+
+D. 'X1
+
+pG r
+r
+Et
+
+A
+nu - o
+
+ex
+
+r
+
+cla- mans
+
+-
+
+pa
+
+\
+
+ter,
+
+ti
+
+con
+
+Pr,,,
+-
+
+ti
+
+-
+
+nu-
+
+la
+
+ex
+
+nu - o
+
+ex
+
+e -ri,
+
+-
+
+ter
+
+pu
+
+cri
+
+mis,
+
+cum
+
+pa -
+
+-
+
+-
+
+17
+
+J-r
+
+.I;
+
+_
+o
+
+f
+
+cum
+
+B.
+
+G
+
+con
+
+f
+
+r
+
+cla- mans
+
+pa -
+
+ter
+
+-
+
+e - ri,
+
+pu
+
+cum
+
+Doppiamentelento,.T 9
+
+278
+
+poc
+
+D'
+
+gJ
+
+'^LT
+
+cla mans
+
+A.
+
+pa- ter
+
+cum
+
+cri - mis
+
+la
+
+ai' -
+
+J ^b
+-
+
+ter
+
+pu- e-ri
+
+cum
+
+rjLlr
+la
+
+-
+
+-
+
+-
+
+-
+
+-
+
+r r tr
+
+'r
+la
+
+cri
+
+-
+
+mis
+
+ai
+
+-
+
+la
+
+_
+
+T.
+
+br r
+?
+- e - bat:
+
+-
+
+r
+pa
+
+B.
+
+-e-ri,
+
+pu
+
+, (l^r
+
+f: 6
+2
+
+-
+
+^
+
+-
+
+c
+
+-
+
+mis
+
+ai -
+
+r ir
+cr , la rL_
+-
+
+-
+
+c
+
+mis,
+
+la
+
+li
+
+r
+
+e
+
+-
+
+cri
+
+--
+
+-
+
+e
+
+ar
+
+mis ai
+
+J
+bat:
+
+'
+-
+
+e- bat: ,/
+
+bat:
+
+Example6. CanticumSacrumIV, section 2, mm. 274-80
+beats. Thus the 4/4 metric structureis regularin these three measures.
+Metric irregularitiesbegin to occur from m. 277 onward, because the
+entranceof the discanto part is one quarternote later than the listener's
+expectation.As shown in Example6, the tenorpartsupportsthe discanto
+by employingthe same syncopatedrhythmat m. 277. The second andthe
+thirdsyllables of the word "lacrimis"("crimis")and "cum"are assigned
+to this rhythm.This delayed discantoentranceaffects the attackpointsof
+244
+
+in
+the word "pater" the same voice at m. 278 and "cum"in the bass at
+in
+m. 277; thatis, the durationbetween the attackpoints "et"and "pater"
+in
+the same voice is always 8. Thus, the attackpoint of "pater" the discanto comes on the second beat of m. 278, insteadof on the initialdownbeat of the measure.Also, as the durationbetween "et"in the alto and
+between
+bass in m. 275 and"cum"in the tenorat m. 276 is 4, the duration
+"et"in the discanto and "cum"in the bass is also 4. The attackpoint of
+"cum"in the bass, therefore,comes on the fourthbeat in m. 277. Accordingly, unlike the first three measuresof this section, the attackpoints of
+in
+these segments,such as "et"and "pater" the discantoand "cum"in the
+bass, fall on metricallyweak beats.
+Example7b is a proportional
+graphthat indicatesthe attackpoints of
+the firstandsecondparts.A proportional
+exchangeoccursbetweenthe alto
+and the bass; the proportion18 : 26 in the alto exchanges with the proexchangebetween
+portion26: 18 in thebass.Thereis another
+proportional
+the discanto and tenor.The discanto values are 14 and 16, as compared
+with tenor values of 16 and 13. A metric adjustmentaffects the tenor's
+durations.
+The "cum"in the tenorat m. 277 appearsan eighthnote earlier
+than"cum"in the bass, because the syncopatedrhythmin the tenorreinforces the delayedentranceof the discantoas mentionedearlier.Because
+of this adjustment, proportional
+the
+exchangebetween discantoandtenor
+is not numericallyexact (14: 16 exchangeswith 16: 13). As in section 3
+(Examples4 and5), the proportional
+exchangesoccurringin section 2 are
+basedon durations notatedrhythmicvalues, andnot on duration secin
+in
+onds becausethe tempo changes in the last two measures(mm. 279-80).
+In section 2, both of the proportional
+exchanges involve not only an
+betweenthe proportion segmentsin a pairof voices, but also
+of
+exchange
+an exchangeof the durationsthemselves. Since the durationsexchanged
+are in a 1: 1 relation,this example of proportional
+exchange is similarto
+the earlier example of voice-exchange in Weber (Example 1). Therefore, the proportionalexchanges in this section suggest an element of
+symmetrymore strongly than the aforementionedexamples (Canticum
+SacrumIV, section 1: Example 3 and section 3: Example5).
+Proportional Exchange And Text-Setting
+The following discussion of the caritas section of the thirdmovement
+of CanticumSacrumconsidersin detail how text and proportional
+structure can be related.This movement consists of three sections: caritas,
+spes, andfides. The caritas andfides sections are similar;both of their
+second partsemploy canon.The proportional
+exchangesthatare strongly
+affectedby the text setting occur in the canon partof the caritas section
+(mm. 116-29). Example 8 (pp. 248-49) shows the canon and the row
+structure.
+This section is repeatedwith differenttext (mm. 116bis-29bis).
+245
+
+274
+
+275
+
+276
+
+277
+
+278
+6
+
+8
+*
+
+D
+
+,-'
+
+pater
+
+',Et
+
+(14),--
+
+8
+A
+-
+
+(12)
+
+-'
+
+Et
+
+'
+
+Et
+
+\
+
+8
+
+8,,-'
+T
+
+13
+
+\
+
+6
+'
+
+pater
+15
+
+(4)',
+
+*
+
+b
+
+pater
+
+,'
+8
+
+B
+
+12
+*
+pater
+
+,
+
+/,(4)
+
+*
+
+cum
+
+\cum
+
+10
+*
+
+Et
+
+pater
+
+'8
+
+.
+
+.
+
+cum
+
+Example 7a. Canticum Sacrum IV, section 2, proportion
+
+274
+
+275
+
+276
+
+277
+
+278
+
+14
+**
+Et
+
+D
+
+26
+**
+Et
+
+A
+
+16
+
+13
+
+27
+
+Et
+
+T
+
+cum
+
+cum
+
+*
+
+18
+
+26
+*
+
+B
+Et
+
+cum
+
+Example7b. CanticumSacrumIV, section 2, proportional
+graphshowing the a
+
+117
+
+|
+
+TENORI
+
+f ii
+Di
+
+118
+
+-
+
+-
+
+'r f
+
+i,1
+
+Tir
+li
+
+-
+
+RI 11
+
+It
+
+tl
+
+Do
+
+ges
+
+1i
+RIID
+
+ges
+
+-
+
+Do
+
+-
+
+num De
+
+-
+
+-
+
+tu
+
+T lJ
+um
+
+ex ...............
+
+to
+
+-
+
+125
+
+um
+
+cor
+
+.r
+D-r
+
+ta
+
+for -
+
+...jJ
+
+.
+a.
+
+Do
+
+1<L
+
+ti
+
+Di
+
+mi- num
+
+De
+
+]1Yj Li
+
+A
+
+li-
+
+um
+
+i''
+
+um
+
+-
+
+to - ta
+
+ex
+
+a
+
+ni-
+
+to
+
+ma
+
+tu
+
+tu
+
+-
+
+-
+
+-
+
+-
+
+li
+
+ges
+
+-
+
+^~br
+
+I10
+
+rI
+
+129
+
+rfr
+a .............
+
+1
+w4j. Ir 'j.
+mi - num
+
+Do
+
+ges
+
+tu
+
+tu
+
+um
+
+De
+
+128
+
+-
+
+i J,
+.1,
+-
+
+num
+
+J^^
+
+r rTr
+tu
+
+RI 11
+
+12
+
+ex.............
+
+127
+
+u - di - ne
+
+-
+
+de
+
+^.li
+
+126
+
+'i-
+
+J
+
+um
+
+.
+
+to
+
+ir-
+
+I^r
+
+-
+
+-r- r J ! ,1
+- mi
+
+jR4
+
+i-r
+De
+
+num
+
+123
+
+-
+
+um
+
+-
+
+J IJ
+L==I.
+
+It
+?^ T,(r 7
+
+~i
+?,
+
+tu
+
+mi
+
+-
+
+122
+
+jh
+
+A
+
+-
+
+Do
+
+ges
+
+i il J'i
+
+L
+
+j^j.
+
+j
+RI 10
+
+DISC. 120
+
+mi
+
+-
+
+R4 Di
+
+_
+
+-
+
+ir
+'
+
+-
+
+De -
+
+4
+um
+
+tu
+
+-
+
+-
+
+um.
+
+um.
+
+.
+
+j
+
+Example 8. CanticumSacrumIII, the caritas section, mm. 116-29 and
+mm. 116bis-29bis
+Though the difference between the first canon and its repetitionmay at
+firstappearto be limitedto the text, it actuallyinvolves the formaldesign.
+Figure5a shows the text assignedto the firstcanon (mm. 116-29) and
+the distribution the text among the threecanonic voices. The firstpart
+of
+of the text, "Diliges DominumDeum tuum,"is assignedto the beginning
+of each voice; at the end of the tenorandthe alto partsthis partof the text
+is repeated.The second partof each voice startswith "ex"(omitting"et"
+248
+
+I
+
+A
+
+116bis.
+
+t
+
+A
+
+-
+
+. qui
+
+r ,,j
+
+?r
+Di
+
+i
+
+ga
+
+-
+
+-
+
+in
+
+JJ
+RI 10
+
+I
+
+-
+
+vi -
+
+-
+
+-
+
+a
+
+cha
+
+IJ ? ib j yr
+
+r- r ir
+-
+
+nos
+
+mas
+
+PJ
+
+lr i
+
+j
+
+i
+
+-
+
+Ty
+
+119bis.
+
+l18bis.
+
+~
+
+- cem,
+
+a
+
+qui
+
+cha -
+
+ri -
+
+tas
+
+RI 11
+
+J$
+
+120bis.
+
+121bis.
+
+SANT
+
+-
+
+om
+
+nis ....
+
+qui
+
+124bis.
+
+123bis
+
+IJI
+C- IJr
+
+1i(j
+
+di
+
+-li
+
+ex
+
+git,
+
+-
+
+De
+
+-
+
+o
+
+est; .......
+
+*
+
+91r-
+
+et......
+
+'LJ
+
+qui
+
+~? f fT
+.
+
+De - o..........
+
+De
+
+-
+
+-
+
+cog
+
+i - git .......
+
+na
+
+nos
+
+cit
+
+LJ I 1 l,,J.
+'b""1_t iJ.
+
+-
+
+tus
+
+ex
+
+De
+
+-
+
+na - tus
+
+o
+
+L j^r
+IAr
+
+-
+
+I 10
+
+128bis.
+
+129bis.
+
+r
+
+l
+
+t
+
+est,
+
+'
+et
+
+b
+cog
+
+._
+
+nos - cit
+
+-
+
+De
+
+-
+
+-
+
+um.
+
+-
+
+jJ
+De
+
+r'i,
+
+um ..........
+
+.
+
+I r J
+et
+
+di -
+
+127bis
+
+J
+
+j
+J
+est,
+
+nis
+
+j
+
+nos - cit
+
+cog
+
+'"
+
+P4
+T.
+
+om
+
+126bis.
+
+JrTr
+rbl
+'
+
+et
+
+ir
+
+125bis.
+
+0-.'
+
+tus
+
+'t
+m
+
+i Fr
+
+r; -
+
+r r ,
+
+est,
+
+na -
+
+o
+
+RI I
+
+T
+
+D.
+
+I
+
+II
+
+RI 1
+
+De
+
+ex
+
+'
+RI 11
+
+~,J
+
+IJ
+
+122bis.
+
+I r h; r4
+
+r J
+... et
+
+.
+
+F
+
+um
+
+..
+
+Ir
+
+'
+
+.
+
+J.
+
+ii
+
+Example 8. (continued)
+in the original text). "Ex toto corde tuo," "ex tota anima tua," and "ex tota
+fortituadina tua" are assigned to the tenor, alto, and discanto respectively.
+Thus, with respect to the text, the tenor and the alto can be divided into
+three parts, and the discanto into two parts. The row structure in this canon
+closely corresponds to the division of the text. In both tenor and alto, up
+to the points where the repetition of "Diliges" begins, the same rows
+appear twice: RIi1 for the tenor, and R4 for the alto. At the point where the
+249
+
+Diliges DominumDeum tuumex toto corde tuo, et ex tota animatua, et
+ex tota fortitudina
+tua. (Vulgata,Deuter.,VI:5)
+Tenor:
+Alto:
+Discanto:
+
+Diliges DominumDeum tuumex toto corde tuo,
+Diliges DominumDeum tuum.
+Diliges DominumDeum tuumex tota animatua,
+Diliges DominumDeum tuum.
+tua.
+Diliges DominumDeum tuumex tota fortitudina
+
+Figure5a: The text in the caritas section of CanticumSacrumIII
+(mm. 116-29)
+
+Diligamus nos invicem, quia charitasex Deo est; et omnis qui diligit ex
+Deo natusest, et cognoscit Deum. (Vulgata,Prima Epistola Beati Joannis Apostoli, IV: 7)
+Tenor:
+Alto:
+Discanto:
+
+Diligamus nos invicem, quia charitasex Deo est;
+et omnis qui diligit ex Deo natusest, et cognoscit Deum.
+quia charitasex Deo est;
+et omnis qui diligit ex Deo natusest, et cognoscit Deum.
+et omnis qui diligit ex Deo natusest, et cognoscit Deum.
+
+Figure5b: The text in the caritas section of CanticumSacrumIII
+(mm. 116bis-29bis)
+forms appear:Ill for
+repetitionfor "Diliges" starts,their non-retrograde
+the tenor and P4 for the alto. In the discantoRI1appearstwice.
+The proportional
+betweenthe text androws is quiteclear.
+relationships
+Example9a shows that the tenor and the alto last a durationof 19 quarter notes until the phrasewith "ex" starts,and then last 12 quarternotes
+until the repetitionof "Diliges."Thus, the tenoris divided into 19 + 12 +
+20, the alto into 19 + 12 + 17. The discantolasts 18 quarter
+notes untilthe
+text with "ex"starts;it is dividedinto 18 + 17. Example9b shows another
+In
+proportional
+graphaccordingto the row structure. both tenorand alto,
+the segments with the retrograde
+forms (RIi for the tenor and R4for the
+of
+alto) last a duration 31 quarter
+forms
+notes, whereasthe non-retrograde
+last a durationof 20 for the tenor (IIl) and 17 for the alto (P4).Comparforms
+ing Examples9a and9b revealsthatthe pointswherethe retrograde
+turn to non-retrograde
+forms coincide with the points where the text
+repeats(startingwith "Diliges").In the tenor,the text before the repetition lasts 31 quarter
+notes, as does the RI,1row form. The text repetition
+250
+
+116
+
+120
+
+1
+
+18
+
+17
+
+Di
+
+ex
+
+D
+
+12
+
+19
+
+A
+
+-
+
+Di
+
+T
+
+19
+*Di
+
+ex
+12
+
+20
+
+ex
+
+Di
+
+Example 9a. Canticum Sacrum III, the caritas section, mm. 116-129, proporti
+
+116
+
+120
+
+12
+
+15
+
+20
+
+RI1
+
+D
+
+RI1
+
+m,
+
+15
+
+A
+
+16
+
+0
+
+-
+
+R4
+
+R4
+
+15
+T
+
+*1
+
+16
+R
+
+RI11
+
+20
+
+RI1 I
+
+IIn
+
+I
+
+Example 9b. Canticum Sacrum III, the caritas section, mm. 116-129, proportional
+
+116
+
+120
+
+125
+
+21
+D
+
+14
+v
+
+*
+
+et
+
+et
+
+18
+
+20
+
+qui
+
+et
+
+**
+
+A
+
+10
+
+T
+
+*
+
+1
+
+Di
+
+17
+
+1
+
+et
+
+e
+
+e
+
+v
+
+qui
+
+Example9c. CanticumSacrumIII, the caritas section, mm. 116-129 bis, proportion
+
+occupies 20 quarternotes, as does the Il, row form. Similarly,the text
+before the repetitionlasts 31 quarternotes as does the R4 row form; the
+rest of the text and the P4 segmentlast 17 quarter
+notes alike. Only in the
+discantois the proportion text androw divisions dissimilar:the former
+of
+is 18: 17 and the latteris 15 : 20. Thus, in the firstcanon of caritas, the
+proportionbetween the two segments accordingto text division correspondsto thatof the tone-rowdivision in the tenorand alto parts.
+In the second canon (mm. 116bis-29bis), the text androw proportions
+differ.Figure5b (p. 250) shows the text assignedto the second canon and
+the distribution the text to its threevoices. Unlike the firstcanon,in the
+of
+second the entiresentence is assigned to the tenor,the sentence from the
+second phraseto the end is assignedto the alto, andthe sentencefromthe
+thirdphraseto the end is assigned to the discanto.There is no text repetition in any of the voices. The text assigned to the second canon can be
+divided into two large segments at the semicolon: "Diligamus..." and
+the second phrase starting with "et omnis...." Example 9c shows a
+proportional
+graphindicatingthe attackpoints of the beginning of text
+phrases.Accordingto these divisions, the tenor durationsare 21 and 30
+notes; the alto durationsare 18 and 30.
+quarter
+Because only the text differs in the second canon, its proportional
+graph according to row structureis the same as that of the first canon
+(Example 9b). However, comparisonof Examples 9b and 9c discloses
+proportional
+exchanges in the second canon not found in the first.In the
+tenor, while the proportionbetween the first and second text segments
+(Example9c) is 21: 30, the row proportionis 31: 20 (Example9b). In
+the alto, the text proportion 18 : 30 while the row proportion 31: 17.
+is
+is
+In the discanto,a text proportion 21: 14 exchanges with the row proof
+portionof 15 : 20. In every voice of this canon, therefore,the proportion
+between the two large segments according to text divisions exchanges
+with thatbetween the segments accordingto the row divisions.16
+The two differentrealizationsof proportional
+structure the two carin
+itas canons give to text setting a pronouncedformal role. In the first
+canon, the proportionbased on the text division and that based on the
+tone-rowdivision are parallel,while in the second canon the proportion
+based on the text division exchanges with that based on the tone-row
+division. The realizationof proportional
+exchangein the second canon is
+unlike our earlierexamples, because it depends on the superimposition
+of two proportionalstructures.This allows for the voice in the second
+canon to be divided in two differentways.
+The audibledifferencebetween the two canons does not rely only on
+their dissimilar proportions.The syllabic organizationaudibly differs.
+The text assignedto both firstand second canons has 37 syllables.About
+the samenumberof syllables is assignedto each alto anddiscanto:28 syllables for the alto in both canons, and 20 syllables for the discantoin the
+254
+
+first canon and 19 for the discanto in the second canon. By contrast,27
+syllables are assigned to the tenorsin the firstcanon and 37 syllables are
+assigned in the second canon. So the audible difference between these
+two canons might more dependon these surface,textualdifferencesthan
+on the occurrenceof the proportional
+exchange. Indeed,the proportional
+differencesbetween the canons is not readily heard. Nevertheless, as a
+constructivefeature with connections to other parts of the works, proportionalexchange as an outgrowthof the text setting is, I would argue,
+significantin the caritas canons.
+Conclusions
+This essay suggests that proportionalexchange is a primaryformal
+featureof Stravinsky'scanonic compositions.It is, however,not readily
+relaaudible,due to its intricaterealization.The functionof proportional
+is analogous to the superstructural
+ironwork of a building.
+tionships
+becomes invisiThough once a buildingis completedthe superstructure
+frame. Analogously,
+ble, it nonetheless provides an essential structural
+proportional
+exchange relates to organizationon a compositionallevel,
+but perhapsnot on a perceptuallevel.
+Proportionalexchange allows a section to be well-balanced, hence
+confers a formalstability.As a result,sections thatareorganizedthrough
+proportionalexchange are well-articulatedand set off in the formal
+design. The underlyingidea of "exchange"is processual, and suggests
+change and motion. Stravinsky,however, reinterpretsthe role of exchange, anduses it to evoke qualitiessuch as symmetry,balance,and stability.So theessence of Stravinskian
+proportional
+exchangelies in a transfer of the kinetic to the static.
+However, a question remains: Do proportionalexchange and symmetry always performa similarfunction?In terms of formaldesign, for
+example, does the symmetricalstructureof Symphonyin C performthe
+same function as the proportional exchange structure of Canticum
+Sacrum?Althoughthe proportional
+exchanges in the analyses show sim(for
+ple symmetricalstructures example, 2: 1 exchangingwith 1: 2), the
+actual durationalvalues involved with the exchange are relatedin quite
+abstractways.
+To clarify the complex natureof proportional
+exchange, I refer again
+to Figure 4b, in which proportionalexchange occurs between the proportions2: 1 (the actualdurationsare 16: 8 and 8 : 4) and 1: 2 (11 : 22).
+The durationsof the firstpartof the formerratio,2: 1 (numeral"2"),are
+16 and 8, and those of the second part of the latter ratio, 1: 2 (again,
+numeral"2"),are 22; the durationsof the second partof the formerratio
+(numeral"1")are 8 and 4, and those of the firstpartof the latterratioare
+11. Comparisonof these durations(16 and 8 to 22, and 8 and 4 to 11)
+255
+
+does not disclose obvious structural
+significanceor balance.Proportional
+exchange, therefore,manifestsitself throughhighly elaboratedurations.
+Thougha ratiowhich is an outcome of proportional
+exchangemight present a simple symmetricalbalance, the structuresof proportionalexchange actuallydiffer from symmetrybecause of theirintricacyof musical realization.
+The quality of balance in Stravinsky'suse of proportional
+exchange
+can be appreciatedby consideringthe music spatially,atemporally.'7
+In
+this regard,it is interestingto note how StravinskydescribedWebem's
+music:
+It
+[E]achopusoffersitself only as a whole,a unityto be contemplated. is
+and
+is
+essentiallystatic,therefore, thusthe cost in subjectivity high. But
+if one feels constricted
+listeningto a successionof Weber's very short
+the
+pieces, and attributes feeling to 'lack of scope', let me say thatthe
+to
+in
+attempt follow a chainof unitiesis a quantitative
+misunderstanding
+the firstplace.18
+As indicatedin the analysesin this article,Stravinsky's
+early serialmusic
+stresseskindsof formalbalance,apartfromtemporalprocess.It is not the
+intent of this article to deny the presence of the linearityin Stravinsky's
+detached
+music, but rather,to emphasizeaspects of the musical structure
+from temporality.
+Whenwe look at a painting,we areable to experiencethe work'smany
+elements as we choose, withouta rigid, fixed order.Similarly,analyzing
+proportional
+exchange highlights significantatemporaland noncontiguous relationshipsbetween segments.The idea of proportional
+exchange,
+therefore,suggests that we consider atemporalstructureswithin music,
+as we do for pictorial art. The analysis of proportionalexchange in
+Stravinsky'smusic revealsnot only an aspect of his innovativeapproach
+to formaldesign, but also the spatialaspect of his aesthetics.
+
+256
+
+NOTES
+Examples 2, 4, 6, and 8 are reprintedby permission. ? Copyright 1956 by Boosey
+and Hawkes, Inc., Copyright Renewed.
+1. By early, I mean works before Threni, which do not consistently use twelve-tone
+rows as do the later works.
+2. Henri Pousseur (1972) shows the similarities between Stravinsky's pitch organization and Weber's.
+3. Stravinsky had employed contrapuntal techniques since the beginning of his
+career, but the number of contrapuntal compositions increased once he became
+involved with serial technique. Glenn Watkins (1986) includes a list of canonic
+works found in Stravinsky's music. From this list, it is apparentthat canonic work
+was concentrated in the composer's early serial music.
+4. Proportional structure is also found in Bart6k's and Debussy's music. See Erno
+Lendvai (1966), and Roy Howat (1983).
+5. Several important investigations of Stravinsky's music have been carried out
+invoking proportional structure. Edward Cone (1962) proposes a proportionally
+symmetrical structure for the first movement of Symphony in C. B. M. Williams
+(1973) extends Cone's analytical principles into the second and third movements
+and presents a proportional structure symmetrically established over the entire
+piece. JonathanKramer(1986) applies proportional structureas a principle of formal coherence in Symphonies of Wind Instruments and Agon. Kramer suggests
+that in Agon the proportional ratio, 1 : 1.19, is found extensively among segments,
+sections, or movements. Marianne Kielian-Gilbert's (1987) analyses of Three
+Pieces for String Quartet and L'Histoire du soldat attempt to elucidate the composer's design by considering foreground pitch and rhythm, and formal organization as a rhythmic unit.
+6. The term "voice exchange" in post-tonal music as used in this discussion does not
+imply a transfer of all the connotations associated with the terms used in tonal
+analysis, such as in Schenkerian analysis.
+7. Milton Babbitt (1964) briefly mentions the construction of the row applied in this
+movement. He points out the Weberian character of the row structure.
+8. I label the rows taking Po as beginning on C. So P1 in Figure 3a is <B G A Bb>.
+9. The graphing in this essay follows Allen Forte's (1980) method of graphing durations.
+10. Strictly speaking, Y1' starts with one rest which has the value of a quarter-note
+triplet (duration 1 + 1/3). However, the attack point of the Z2 segment on the
+downbeat reinforces the attack point of the Y1' segment on the upbeat. Hence, in
+the proportionalgraph of this section (Example 3), the attack point of the Y 1' segment occurs on the initial downbeat of m. 260, where the Z2 segment also starts.
+11. The three invariantsubsets between P7 and 17are as follows:
+768 101192
+1 40 35
+P7
+4 350 1 102119
+786
+17
+12. The three invariantsubsets between R2 and RI2 are as follows:
+
+257
+
+010711
+894
+6 5 312
+R2
+132
+RI2 4 69 5 8 701011
+13. As in Example 3, the proportional graph for section 1, the numbers in parentheses
+representthe total length of each segment (in eighth notes). The numbers indicated
+under the braces are the lengths of segments up to the entrances of segments in
+other layers. The attack points affecting the other segments are shown by vertical
+dotted lines.
+14. The proportion 3: 5 or 5 : 3 is prevalent in this section. YI : Z = 45 : 27 = 5: 3;
+Y1 :Z2 = 45:75=3:5;
+XI :Y = 28:45
+3:5. These
+3:5;xl :Y1 = 26:45
+proportions, however, do not appear among corresponding segments and do not
+produce proportional exchange.
+15. As the attack point of the segment Y1' in Example 3 occurs on the initial downbeat, the attack point of Y3 in Example 4 also comes on the downbeat of m. 303
+(considering that a rest, one third of a quarter-notetriplet, is a part of the beginning of Y3).
+16. The durations involved with the exchanges systematically diverge one unit from
+producing their simple ratios; for example, 21: 30 exchanges with 31: 20. (Similarly, 31: 17 exchanges with 18 : 30, as does 15 : 20 with 21: 14). Because the
+percentage of the deviation is small and, moreover, the proportional structure
+brings about a significant difference between the first and second canon, the proportional exchanges cited here, I consider, are valuable for my discussion.
+17. Robert Morgan (1980) points out that a "musical grammar" of tonality is independent of time. He mentions the concept of background in Schenkerian analysis
+as an example.
+18. Igor Stravinsky 1966.
+
+WORKS CITED
+Babbitt, Milton. 1964. "Remarks on the Recent Stravinsky." Perspectives of New
+Music 2(2): 35-55.
+Cone, Edward. 1962. "The Uses of Convention: Stravinsky and His Models." Musical
+Quarterly 48(3): 287-99.
+Forte, Allen. 1980. "Aspects of Rhythm in Weber's Atonal Music." Music Theory
+Spectrum 2: 90-109.
+Howat, Roy. 1983. Debussy in Proportion. Cambridge: Cambridge University Press.
+Kielian-Gilbert, Marianne. 1987. "The Rhythms of Form: Correspondence and Analogy in Stravinsky's Designs." Music Theory Spectrum 9: 42-66.
+Kramer,Jonathan. 1986. "Discontinuity and Proportion in the Music of Stravinsky."
+In Confronting Stravinsky: Man, Musician, and Modernist. ed. Jann Pasler, 17494. Berkeley: University California Press. (Revised and republished in 1988. The
+Time of Music. New York: Schirmer Books.)
+Lendvai, Erno. 1966. "Duality and Synthesis in the Music of Bela Bart6k."In Module,
+Proportion, Symmetry,Rhythm, ed. Gyorgy Kepes, 174-93. New York: Braziller.
+
+258
+
+Morgan, Robert. 1980. "Musical Time/Musical Space." Critical Inquiry 6: 527-538.
+Pousseur, Henri. 1972. "Stravinsky by Way of Webern:The Consistency of Syntax."
+Perspectives on New Music 10(2): 13-52 and 11(1): 112-145.
+Stravinsky, Igor. 1972. Themes and Conclusions. Berkeley: University of California
+Press.
+Watkins, Glenn. 1986. "The Canon and Stravinsky's Late Style." In Confronting
+Stravinsky, ed. Jann Pasler, 217-46. Berkeley: University of California Press.
+Williams, B. M. 1973. "Time and the Structureof Stravinsky's Symphony in C."Musical Quarterly 59(3): 355-69.
+
+259
+
+

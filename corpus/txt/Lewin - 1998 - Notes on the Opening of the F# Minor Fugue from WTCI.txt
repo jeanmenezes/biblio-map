@@ -1,0 +1,310 @@
+Yale University Department of Music
+
+Notes on the Opening of the F# Minor Fugue from WTCI
+Author(s): David Lewin
+Source: Journal of Music Theory, Vol. 42, No. 2, Neo-Riemannian Theory (Autumn, 1998), pp.
+235-239
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843876
+Accessed: 16/12/2009 12:14
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+NOTES ON THE OPENING
+OF THE Ft MINOR FUGUE
+FROM WTCI
+
+David Lewin
+
+In a recentarticleI proposedanalyticstudyof this fugue using a graph
+that lays out the variousforms of the pcset (013) in a certainformat.'A
+version of that graph, somewhat modified for present purposes, is displayed below.
+Until furthernotice, the graph is to be considered as extending indefinitelyin all directions.Formsof (013) that are displayedas adjacent
+vertically include the same minor-seconddyad. Forms that are adjacent
+include the same major-seconddyad. Forms
+upper-left-and-lower-right
+thatareadjacentlower-left-and-upper-right
+include the same minor-third
+dyad. In the cited article, I point out that "the analogous graph for...
+harmonictriads would illustrate,in its three differentdirectionalbondings, Riemann's relations of our relative major/minor,of our parallel
+Related matters are studied
+major/minor,and of his Leittonwechsel."2
+recentwork by RichardCohn.3
+exhaustivelyin important
+On the graph as given here certain (013)-forms appearusing lowercase letternames. The reasonfor thatwill become clear lateron. At present, one can observethatthe lower-caseforms fill a connectedregion of
+the graph.
+My cited articleinvites its readers"toexplore how the graphis surfed
+by consecutive forms of Forte-set3-2 in J. S. Bach's choralepreludeon
+235
+
+GRAPH
+{BGtA}
+{BA
+
+{A BbC}
+{AB[ G}
+
+{f# g a}
+
+{AF# G}
+
+{F# G F}
+
+LGAL}
+{et fXg#}
+{FGE}
+{AFt G}
+{et ft gt}
+{EFG}
+{FDE}
+{e# dt}
+ft
+{FD E}
+{e f d}
+{EFG}
+{CD El}
+{ec dt}
+{EFD}
+{EC D}
+{b c dt}
+{CDB}
+{B C#D}
+{CAB}
+{b# c#a#}
+{bc#a}
+{B C D}
+{CA B,}
+{bg#at}
+{GAB'}
+{B CA}
+{GA,Be,}
+{b g#a}
+{GAF#}
+{GE F#}
+{GAbF}
+{ft g a}
+{G EF}
+
+'DurchAdams Fall,' or in the f#m fugue from Book I, WTC."4Here I
+shall carry out such an explorationfor the opening of the fugue. Interested readerscan then carry out an analogous exercise for the chorale
+prelude,if so inclined.
+The music example lays out "consecutiveforms of Forte-set3-2" at
+the opening of the fugue, throughthe end of the Answer.The forms are
+numberedin orderof appearance.
+Forms 1 through9 and 12 through16
+are melodic; forms 10, 11, and 17 arise in the contrapuntal
+cross-talkbetween voices.
+The figurereproducesthe lower-caseportionof the graph,with some
+numericalannotations.The numberson the figurekey in to the numbers
+on the music example:they label the variousforms of (013) thatoccur at
+the opening of the fugue, in orderof appearance.
+The reader'sattentionis drawnto the form {ft g# a} = {a ft g ), which
+appearsboth at the lower left of the figure and at the upperleft, labeled
+"1, 5, 10."This form is the only form thatoccurs in two different
+places
+on the figure. The phenomenonbefits the form's status as the "tonic"
+(013)-form for the fugue. On the music example we see how {ft g# a}
+opens the fugue as form 1, and how it cadences the Subject as form 5.
+Later on we shall explore the special geometric meaning of form 10
+the
+when it "modularizes" figure,suturingtogetherthe upperleft with the
+lower left.
+Using the numberson the figure, and referringback to the music example as needed, we can see how the Subjectof the fugue, which comthe
+space of the
+prises forms numbered1 through5, "surfs" metaphorical
+figure:startingat the lower left of the figure(with the form labeled "1"),
+it moves up two ranks and over one column to the right (form labeled
+"2");then it repeatsthatgesture,againmoving up two ranksandover one
+column to the right(formlabeled "3");afterthatit sinks back down to its
+236
+
+6
+
+I Y# trF Far rr r
+1
+
+2
+
+3
+
+4
+
+7
+
+5
+
+I
+
+8,
+
+10
+11
+
+9
+
+12
+
+13
+
+15
+
+14
+
+16
+
+17
+
+MUSIC EXAMPLE
+at
+point of departure the lower left (form labeled "5"),on the way filling
+in (form labeled "4")some of the paththatit had hoppedover on its way
+up. The Subjectthus constitutesa somewhat"closed"spatialgestureon
+the figure, form 5 being at the same spatial location as form 1. And the
+motivic structure the Subjectis reflectedin the spatialmotif thattakes
+of
+us two-ranks-up-and-one-column-right the figure.
+on
+The Answercomprisesforms labeled6, 8, 12, 15, and 16. Being a real
+answer,it tracesout a path,on the figure,thatis an exact gesturalanalog
+to the path traversed the Subject.
+by
+Now let us examine the Countersubject, melody thataccompanies
+the
+the Answer.It begins by presentingforms 7 and 9. On the figure,we see
+how form 7 fills in the one "missing"form in the region traversed the
+by
+subject(forms 1, 2, 3, 4, 5). Form9, which restatesform 4, is not necesmotivic
+sary to do any work of filling-in. Form 9 ratherhas a particular
+relationto form 7, which directly precedes it within the Coungestural
+tersubject.Specifically, the move from form 7 to form 9 is down two
+ranksand over one column to the left. That is the inverse gesture to the
+move "up-two-ranks-and-over-one-column-to-the-right,"
+the motivic rismove within the Subject.To be sure,the inversionalrelationbetween
+ing
+the openingof the Subjectandthe opening of the Countersubject manis
+ifestly audiblein the pitch intervalsand contoursof the music itself; we
+do not need the fancy spatial map of the figure to hear the relation as
+such. What the map does bringout is the way in which the particular
+inversional relationof the forms employedfills in a connectedspatial reFIGURE
+1, 5, 10 {a f#
+gf}
+
+{e# fx g#} 12
+{e# f g# 11
+{e# f d#} 8
+
+15 {e f# d#}
+6, 16 {e c#d#}
+{b#ct d#} 14, 17
+{b ct a#} 3,13
+7 {b c at}
+2 {b g# a#}
+(bg#a } 4,9
+{f g#a } 1,5, 10
+
+237
+
+gion on the figure.Thatregion comprisesthe forms labeled 1, 2, 3, 4, 5,
+7, and9. Even thoughthis tally neglects the temporallyinterveningforms
+6 and 8 of the music as a whole, the observationis still cogent, for forms
+1, 2, 3, 4, 5, 7, and 9 are indeed temporallyconsecutive within the individual voice thatopens the fugue with the Subjectand then continueson
+to the Countersubject.
+Form 10, which involves the first (013)-vertical cross-talk between
+Answer andCountersubject,
+solidifies the narrative farby restatingthe
+so
+same trichordas that of forms 1 and 5, the incipit-and-cadence
+trichord
+of the Subject.The readercan see on the upperleft of the figurehow form
+10, as discussed earlier,suturestogetherthatplace on the figurewith the
+lowerleft, modularizing geometry.Thereaderis reminded,in this conthe
+nection, that form 10 is the "tonic"(013) of the fugue, and that its pcset
+is the only pcset of the figurewhich appearsin two locations thereon.
+Continuingto examine the upperhalf of the figurewe can follow the
+Answer,which proceedsthroughforms 6, 8, 12, 15, and 16. The one gap
+on the figureleft unfilled by the Answer is the gap at form 11. The spatial function of form 11 (which sounds temporallyin the middle of the
+Answer) is now clear.Form 11 does for the Answer what form 7 did for
+the Subject:it fills in a gap to connect the spatialregion traversed the
+by
+Answer.
+Form 11 also connects to the "Answer-region" form labeled "1, 5,
+the
+the
+10",thatis the formwhich characterizes beginningof the Subject,the
+end of the Subject,and the firstcross-talkbetweenAnswer and Countersubject.In sum, we see how the two cross-talkforms 10 and 11 have special spatial functions on the figure, in suturingtogether and connecting
+the spatialrealmsof SubjectandAnswer.5
+has
+Form 14, the final form of the Countersubject, a like function:it
+connects the "highpoint"of the Subjecton the map, form 3, recalled as
+form 13, to the (local tonic) "lowpoint"of theAnswer,form6. The crossand
+talk of Countersubject Answer, at form 17, cements the connection.6
+And so, when we reach the end of the passage at issue, at the end of the
+the
+Answer-cum-Countersubject, entire map of the figure is fully filled
+in, is completely connected,and is cyclically closed-the {a f# g#} at the
+top left linking cyclically with the {f# g# a} at the bottomleft.
+As suggestedearlier,the readermay wish to use the same graphto see
+AdamsFall"surfsits regionof the graph.
+how the choraleprelude"Durch
+thereseems to takeits originfromthe
+The emphasison the (013) trichord
+cadentialF-E-D of the choralemelody, at the text "ganzverderbt."
+
+238
+
+NOTES
+1. The articleis "Cohn
+Journalof MusicTheory40.2 (Fall 1996):181Functions,"
+216. The graph,withmy proposal,
+on
+appears page 189.
+2. "Cohn
+note
+Functions," 4, page215.
+3. Richard
+Parsimonious
+and
+Trichords, Their
+Cohn,"Neo-Riemannian
+Operations,
+TonnetzRepresentations,"Journal of Music Theory 41.1 (Spring 1997): 1-66.
+
+4. "Cohn
+Functions,"
+page 189.
+5. The"spatial"
+functions forms10 and 11 on thefigurearenicelyprojected,
+of
+alleverticaldistancebetweenthe voices duringthe time
+gorically,by the maximum
+thoseformssoundin the music.As one noteson the example,thatmaximum
+vertical distanceis the seventhGt3-Ft4, involvingpreciselythe common-tones
+Ft
+andGt thatsuture
+forms10 and 11. Oneremarks thetwo pitchclassesFt and
+that
+Gt openthe fugue(form1) andcadencethe subject(form5).
+6. Andherethe spatialgestureon the figure,wherethe top of the bottompartmeets
+thebottomof the top part,is nicely allegorized the clausulagestureof form17
+by
+in the music(on theexample),wherethe two voices-answer above,countersubject below-converge into a unison.Is it a coincidencethatthe unisonhere,Ct3,
+lies exactlymidwayinsidethe verticalseventhGt3-F#4,
+discussedin note 5?
+
+239
+
+

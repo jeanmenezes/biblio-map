@@ -1,0 +1,517 @@
+Yale University Department of Music
+
+A Schenker Bibliography: 1969-1979
+Author(s): David W. Beach
+Source: Journal of Music Theory, Vol. 23, No. 2 (Autumn, 1979), pp. 275-286
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843727
+Accessed: 15/12/2009 14:57
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+A SCHENKER BIBLIOGRAPHY: 1969-1979
+
+DavidW. Beach
+
+The following compilation of information is intended as a supplement to "A SchenkerBibliography,"
+publishedoriginallyin the Journal
+Music Theory in 1969 (XIII, pp. 2-37), and reprinted without
+of
+changein Readingsin SchenkerAnalysis, edited by MauryYeston (New
+Haven: Yale University Press, 1977, pp. 275-311). As in the original
+study, the itemshavebeen dividedinto two main categories,"Schenker's
+Works"and "Works
+ConcerningSchenkerand His Theories."
+Part I contains a complete listing of Schenker'smajor publications,
+includingboth his theoreticalworks andhis editions of music, together
+with information about which works or parts of works have been
+reprintedor translated.A list of his other writings(miscellaneousessays
+and reviews)has not been included here; it is availablein Appendix C
+of the original
+A
+bibliography. useful guide to the location of Schenker's
+analyses of individual works is now available in Larry Laskowski's
+Heinrich Schenker: An Annotated Index to his Analyses of Musical
+Works
+(see Part II, Section E).
+With a few exceptions only works published in the last ten years
+(includingreprintsof earliersources) have been listed in Part II, which
+has been subdivided here into five sections. The first (A) comprises
+analyses of music of the eighteenth and nineteenth centuries,arranged
+275
+
+alphabeticallyby composer. The second section (B) lists extensions of
+Schenker'stheories to the analysis of (1) rhythmic structurein tonal
+music, (2) early (pre-Baroque)music, and (3) music of the twentieth
+century. This is followed by pedagogicalapplications(C) and criticisms
+(D) of Schenker's theories. Finally there are listed other sources of
+interest (E), works that do not fit conveniently into any of the
+categorieslisted above.
+The extent to which Schenker'stheories have begun to influence
+our thinking about music is reflected in the large number of sources
+listed in Part II below. Also significantin this respect is the increased
+availabilityof Schenker'sown works during the past decade, both in
+reprintandin translation.Forexample, in additionto the second edition
+of Der freie Satz (1956), the following sources are now availablein
+reprint: Beethovens neunte Sinfonie, Beethovensfiinfte Sinfonie, Das
+Meisterwerkin der Musik, and the Five GraphicMusic Analyses. His
+editions of the CompletePiano Sonatas and the Erlauterungsausgaben
+of the late sonatas of Beethovenhave also been reissued.Until recently
+the only work readily available in English translationwas Harmony
+(1954). Now availableare A Contributionto the Study of OrnamentaI
+tion, large portions of Das Meisterwerk and II, and Ernst Oster'slongawaited translation of Der freie Satz, publication of which was
+subsidizedby the AmericanMusicologicalSociety. A translationof the
+BrahmsOctavenund Quintenis scheduledfor publicationin TheMusic
+Forum V.
+One reason for the profusion of materialsabout Schenker'stheories
+is the recent increase in the number of periodicals that deal with
+theoretical issues. A few years ago the main outlets for such information were the Journal of Music Theory, first published in 1957, and
+Perspectives of New Music. The appearancein 1967 of The Music
+Forum greatly increased the channelsfor disseminationof Schenker's
+ideas. More recently we have In Theory Only, the Indiana Theory
+of
+Review, and Theory and Practice (the Newsletter-Journal the Music
+of New York State), all of which publish analysesand
+Theory Society
+articles about Schenker'stheories.In Theory Only andIndiana Theory
+Review arepublishedby graduatestudentsat the Universityof Michigan
+and Indiana University, respectively. (The former contains numerous
+analyses and articles of various length and quality, only the most
+of
+substantialof which have been listed below.) Finally the appearance
+Music Theory Spectrum, the official publication of the newly formed
+Society for Music Theory, should be noted. It too will provide an
+outlet for articles and analytic studies related to Schenker'stheories.
+Some of the works listed in Part II below are directlyinfluencedby
+Schenker'sideas while others are only peripherallyrelated, and some
+accurately represent his approach to music while others do not.
+276
+
+Although it is beyond the scope of this study to indicate the levels of
+influence and gradationsof accuracy with which Schenker'stheories
+are representedfor each case, a few observationsare in order. First of
+all, one cannot help but notice the recent increase of interest in
+rhythmic theory and the possible applicationof Schenker'sconcept of
+pitch organizationto the analysis of rhythmicstructurein tonal music.
+The most direct interpretation of Schenker'sthought in this area is
+found in CarlSchachter'spreliminarystudy. Many of the other works
+listed, though less orthodox in their application of Schenkerianconcepts, also contain provocative ideas about rhythmic and metric
+organization.Another area that has shown considerablegrowth in the
+last few years is the use of Schenkerianconcepts in the teaching of
+elementaryharmony and counterpoint. Here the amount of influence
+varies greatly from one textbook to the next; however, the point is
+not so much the level of directnessor influence in each case, but that
+Schenker'sideas are more than everbefore becomingpart of the undergraduatetheory curriculum.This can only be seen as an advancein the
+field of music education.
+A Schenkerbibliography
+would not be complete without mention of
+two important sources of information about Schenker and his work.
+They are the collections of Ernst Oster and OswaldJonas. The Oster
+collection, housed in the New York Public Libraryat Lincoln Center,
+will not be availableto the public until its contents are microfilmed.
+The contents include: (1) a large number of sketches and analysesin
+variousstages of completion; (2) Schenker'sscores, some of which are
+heavily annotated, (3) manuscripts,including the first version of Der
+freie Satz, and (4) correspondence.The Jonascollection, housed in the
+main library at the University of Californiaat Riverside,is currently
+being cataloguedand microfilmedfor generaluse. It contains: (1) correspondencebetween Schenker and his students, (2) Schenker'sdiary
+(approximately4000 pages), (3) an incomplete book on interpretation
+(Die Kunst des Vortrags), and (4) manuscripts for Tonwille and part of
+Das Meisterwerk in der Musik. Once available, both collections will be
+
+valuable sources of information for scholars and serious students of
+Schenker'stheories.
+PART I. SCHENKER'S
+WORKS
+A. TheoreticalWorks
+Ein Beitrag zur Ornamentik. Vienna: Universal, 1904. Neue revidierte
+und vehrmehrte Auflage, 1908.
+A Contribution to the Study of Ornamentation. Trans. Hedi Siegel
+277
+
+(based on a preliminary draft by Carl Parrish), The Music Forum,
+IV (1976), 1-139.
+Neue musikalische Theorien und Phantasien: I. Harmonielehre. Vienna:
+Universal, 1906. Repr. with a Foreword by Rudolf Frisius, 1978.
+Harmony. Ed. and annotated by Oswald Jonas, trans. Elisabeth Mann
+Borgese. Chicago and London: The University of Chicago Press,
+1954. Paperback edition (Cambridge, Mass.: MIT Press), 1973.
+Instrumentations-Tabelle von "Arthur Niloff." Vienna: Universal, 1908.
+Neue musikalische Theorien und Phantasien: II/1. Kontrapunkt (Cantus
+firmus und zweistimmiger Satz). Vienna: Universal, 1910.
+Beethovens neunte Sinfonie. Vienna: Universal, 1912. Repr. 1969.
+Der Tonwille. 10 issues. Vienna: A. Gutmann, and Leipzig: F. Hofmeister, 1921-24. Later republished in three volumes by Universal.
+A translation by Elliott Forbes and F. John Adams, Jr. of Schenker's
+analysis of the first movement of Beethoven's Fifth Symphony
+(originally published in Der Tonwille, I [1921], 27-37) is contained
+in Beethoven. Symphony No. 5 in C minor, Norton Critical Score,
+ed. Elliott Forbes (New York: W. W. Norton, 1971), 164-182.
+Neue musicalische Theorien und Phantasien: 11/2. Kontrapunkt (Dreiund mehrstimmiger Satz). Vienna: Universal, 1922.
+Beethovens V. Sinfonie. Vienna: Universal, 1925. Repr. 1969. Originally
+published in three separate installments in the first (1921), fifth and
+sixth (1923) issues of Der Tonwille.
+Das Meisterwerk in der Musik. Three Yearbooks. Munich: Drei Masken
+Verlag, 1925, 1926, and 1930. Reissued as three volumes in one in
+slightly reduced facsimile. Hildesheim: Georg Olms, 1974.
+"Haydn. Die Schopfung: Die Vorstellung des Chaos" (Yearbook II,
+161-170). Reprinted in Zur musikalischen Analyse, ed. Gerhard
+Schuhmacher (Darmstadt: Wissenschaftliche Buchgesellschaft, 1974),
+59-71.
+Sylvan Kalib. "Thirteen Essays from the Three Yearbooks 'Das
+Meisterwerk in der Musik' by Heinrich Schenker: An Annotated
+Translation." Three Volumes. Ph.D. diss., Northwestern University,
+1973. Ann Arbor: University Microfilms (73-30, 626).
+"The Largo of J. S. Bach's Sonata No. 3 for Unaccompanied Violin
+[BWV 1005]" (Yearbook I, 63-73), translated by John Rothgeb,
+The Music Forum, IV (1976), 141-159.
+"Organic Structure in Sonata Form" (Yearbook II, 45-54), trans.
+Orin Grossman, Journal of Music Theory, XII (1968), 164-183.
+"The Sarabande of J. S. Bach's Suite No. 3 for Unaccompanied
+Vionloncello [BWV 1009]" (Yearbook II, 97-104), trans. Hedi
+Siegel, The Music Forum, II (1970), 274-282.
+Funf Urlinie-Tafeln. Vienna: Universal, 1932.
+Five Analyses in Sketchform was published the following year by
+278
+
+the David Mannes Music School in New York under the direction of
+Hans Weisse; repr., with a new introduction and a glossary by Felix
+Salzer, as Five Graphic Music Analyses (New York: Dover, 1969).
+Johannes Brahms. Oktaven und Quinten u.A., aus dem Nachlass
+herausgegeben und erlautert von Heinrich Schenker. Vienna: Universal,
+1933.
+Translation by Paul Mast scheduled for publication in The Music
+Forum V.
+Neue musikalische Theorien und Phantasien: III. Der freie Satz. 2 volumes: I, Text; II, Musical Figures. Vienna: Universal, 1935. 2nd ed.,
+ed. and rev. Oswald Jonas, 1956.
+Free Composition. Trans. Ernst Oster. Introductory Materials by
+Forte, Jonas and Oster. New York: Longman, 1979.
+B. Editions of Music
+Ph. Em. Bach. Klavierwerke. Neue kritische Ausgabe. Vienna: Universal,
+1902-3. 2 vols.: I, 6 Sonatas; II, 3 Sonatas, 4 Sonata movements and
+1 Rondo.
+G. F. Handel. Sechs Orgelkonzerte. Nach den Originalen ffir Klavier zu
+4 Handen bearbeitet. Vienna: Universal, 1904.
+J. S. Bach. Chromatische Phantasie und Fuge (d moll). Kritische
+Ausgabe mit Anhang. Vienna: Universal, 1910.
+Erlduterungsausgaben der letzten fiinf Sonaten Beethovens: Op. 109
+(1913); Op. 110 (1914); Op. 111 (1915); Op. 101 (1920). Vienna:
+Universal.
+Reissued as Die letzten Sonaten, ed. Oswald Jonas, 1971-72;
+reviewed by William Drabkin in Perspectives of New Music, XII
+(1973-74), 319-330.
+Beethoven. Sdmtliche Klaviersonaten. Nach den Autographen rekonstruiert von Heinrich Schenker. Vienna: Universal, 192-.
+Rev. ed. by Erwin Ratz, 1947. Reissued as the Complete Piano
+Sonatas, ed. Heinrich Schenker, with a new introduction by Carl
+Schachter. 2 vols. New York: Dover, 1975.
+Beethoven. Sonata, Op. 27, Nr. 2. Mit drei Skizzenblattern des Meisters,
+herausgegeben in Faksimile-Reproduktion von Heinrich Schenker.
+Vienna: Universal, 1921.
+
+279
+
+PART II. WORKS CONCERNING SCHENKER
+AND HIS THEORIES
+A. Explanations and Analytical Applications: Music of the Eighteenth
+and Nineteenth Centuries.
+General
+Burkhart, Charles. "Schenker's 'Motivic Parallelisms,"' Journal of Music
+Theory, XXII (1978), 145-175.
+Jonas, Oswald. Einfuhrung in die Lehre Heinrich Schenkers. Das Wesen
+des musikalischen Kunstwerks. Rev. ed. Vienna: Universal, 1972.
+Rothgeb, John. "Design as a Key to Structure in Tonal Music," Journal
+of Music Theory, XV (1971), 230-253.
+Rothgeb, John. "Strict Counterpoint and Tonal Theory," Journal of
+Music Theory, XIX (1975), 260-284.
+Bach
+Schachter, Carl. "Bach's Fugue in Bb Major, Well-Tempered Clavier,
+Book I, No. XXI," The Music Forum, III (1973), 239-267.
+Travis, Roy. "J. S. Bach, Invention No. 1 in C Major: Reduction and
+Graph," In Theory Only, II/7 (Oct. 1976), 3-7.
+Travis, Roy. "J. S. Bach, Invention No. 13 in A Minor: Reduction and
+Graph," In Theory Only, II/8 (Nov. 1976), 29-33.
+Beethoven
+Beach, David. "Beethoven: Sonata, Op. 53 [Introduction to the
+Rondo]," Journal of Music Theory, XIII (1969), 188-203. Repr. in
+Readings in Schenker Analysis, ed. Maury Yeston.
+Forte, Allen. The Compositional Matrix [Beethoven, Op. 109]. Repr.
+Da Capo Press, 1973.
+Kamien, Roger, "Aspects of the Recapitulation in Beethoven Piano
+Sonatas," The Music Forum, IV (1976), 195-235.
+Mitchell, William J. "Beethoven's 'La Malinconia' from the String
+Quartet, Opus 18, No. 6," The Music Forum, III (1973), 269-280.
+Brahms
+Greenberg, B. "Brahms's Rhapsody in G Minor, Op. 79, No. 2: A Study
+of Analyses by Schenker, Schoenberg and Jonas," In Theory Only,
+I/9-10 (Dec.-Jan. 1975-6), 21-29. Comment by C. J. Smith, 31-32.
+Kielian, Marianne, Marion A. Guck, and Charles J. Smith. "Brahms: 'Der
+Tod, das ist die kuhle Nacht,' Op. 96/1," In Theory Only, II/6 (Sep.
+1976), 16-43.
+280
+
+Laufer, Edward. "Brahms: 'Wie Melodien zieht es mir,' Op. 105/1,"
+Journal of Music Theory, XV (1971), 34-57. Repr. in Readings in
+Schenker Analysis, ed. Maury Yeston.
+Schenker, Heinrich. "Two Analytic Sketches of the Chorale St. Antoni
+Theme [from Der freie Satz II: Fig. 42, 2 and Fig. 138, 3]," repr. in
+Brahms. Variations on a Theme of Haydn, Opp. 56A and 56B, Norton
+Critical Score, ed. Donald M. McCorkle (New York: W. W. Norton,
+1976), 165. Followed by "A Commentary on Schenker's Analytic
+Sketches" by Murray J. Gould.
+Beethoven and Brahms
+Collier, Michael. "The Rondo Movements of Beethoven's Concerto No.
+3 in C minor, Op. 37, and Brahm's Concerto No. 1 in D minor, Op. 15:
+A Comparative Analysis," Theory and Practice, III/1 (Feb. 1978), 5-15.
+Chopin
+Beach, David. "Chopin's Mazurka Op. 17, No. 4," Theory and Practice,
+II/3 (Feb. 1977), 12-16.
+Burkhart, Charles. "The Polyphonic Melodic Line of Chopin's B Minor
+Prelude," Chopin: Preludes, Op. 28, Norton Critical Score, ed. Thomas
+Higgins (New York: W. W. Norton, 1973), 80-88.
+Parks, Richard S. "Voice Leading and Chromatic Harmony in the
+Music of Chopin," Journal of Music Theory, XX (1976), 189-214.
+Salzer, Felix. "Chopin's Etude in F Major, Opus 25, No. 3: The Scope
+of Tonality," The Music Forum, III (1973), 281-290.
+Salzer, Felix. "Chopin's Nocturne in C# Minor, Op. 27, No. 1," The
+Music Forum, II (1970), 283-297.
+Haydn
+Salzer, Felix. "Haydn's Fantasia from the String Quartet, Op. 76, No.
+6," The Music Forum, IV (1976), 161-194.
+Liszt
+Neumeyer, David. "Liszt's Sonetto 104 del Petrarca: The Romantic
+Spirit and Voice Leading," Indiana Theory Reveiw, 11/2 (Winter 1979),
+2-22.
+Schubert
+Pazur, Robert, "An Interpretation of the Pitch Structure of Die schone
+Miillerin,"In Theory Only, 1/6 (Sep. 1975), 9-13.
+Carl Schachter and John Rothgeb on Schubert's "Moment Musical,"
+Op. 94, No. 1: Schachter, Analysis in Journal of Music Theory XII
+(1968), 222-239; Rothgeb, "Another View on Schubert's Moment
+Musical, Op. 94/1," Journal of Music Theory XIII (1969), 128-139;
+Schachter, "More about Schubert's Op. 94/1," Journal of Music
+281
+
+Theory, XIII (1969), 218-229. Repr. in Readings in Schenker Analysis,
+ed. Maury Yeston.
+Schumann
+Komar, Arthur. "The Music of 'Dichterliebe:' The Whole and Its Parts,"
+Schumann: Dichterliebe, Norton Critical Score, ed. Arthur Komar
+(New York: W. W. Norton, 1971), 63-94. Also reprinted in this work
+are:
+Allen Forte, [Schenker's Analysis of Song 2] from "Schenker's
+Conception of Musical Structure," Journal of Music Theory, III
+(1959), 7-14 and 23-24.
+Felix Salzer, [The Opening of Song 5] from Structural Hearing I,
+p. 154 and II, Fig. 287.
+Heinrich Schenker, [Analytic Sketches of Song 2, Song 3, and
+Song 4] from Der freie Satz II, Fig. 22b and Fig. 152/1. (Sketch of
+Song 3 is previously unpublished.)
+Lester, Joel. "Substance and Illusion in Schumann's 'Erinnerung,' Op.
+68: A Structural Analysis and Pictorial (Geistliche) Description," In
+Theory Only, IV/1 (April 1978), 9-17.
+Wagner
+Mitchell, William J. "The Tristan Prelude: Techniques and Structure,"
+The Music Forum, I (1967), 162-203.
+B. Extensions and Interpretations
+1. Rhythm
+Epstein, David. Beyond Orpheus: Studies in Musical Structure. Cambrige, Mass.: MIT Press, 1979.
+Hennenberg, Gudrun. Theorien zur Rhythmik und Metrik. Tutzing:
+Hans Schneider, 1974.
+Komar, Arthur J. Theory of Suspensions: A Study of Metrical Pitch
+Relations in Tonal Music. Princeton, New Jersey: Princeton University
+Press, 1971.
+Reviews: Graham George inNotes, XXIX (1972), 52-54; Christopher
+Hatch in The Musical Quarterly, LIX (1973), 320-322; John Rothgeb
+in Journal of Music Theory, XVI (1972), 210-219.
+McCreless, Patrick. "Schubert's Moment Musical No. 2: The Interaction
+of Rhythmic and Tonal Structures," In Theory Only, III/4 (July 1977),
+3-11.
+Morgan, Robert P. "The Theory and Analysis of Tonal Rhythm," The
+Musical Quarterly, LXIV (1978), 435-473.
+Pierce, A. Alexandra. "The Analysis of Rhythm in Tonal Music." Ph.D.
+diss. Brandeis, 1968. Ann Arbor: University Microfilms (69-5449).
+
+282
+
+Schachter, Carl. "Rhythm and Linear Analysis: A Preliminary Study,"
+The Music Forum, IV (1976), 281-334.
+Yeston, Maury. The Stratification of Musical Rhythm. New Haven: Yale
+University Press, 1976.
+Reviews: Robert Hopkins in Notes, XXXIV (1977), 77-80; Henry
+Martin in In Theory Only, II/5 (Aug. 1976), 13-26; Gary Wittlich in
+Journal of Music Theory, XXI (1977), 355-373; Charles J. Smith in
+Perspectives of New Music, XVI/1 (Fall-Winter 1977), 144-176.
+Yeston, Maury. "Rubato and the Middleground," Journal of Music
+Theory, XIX (1975), 286-301. Repr. in Readings in Schenker Analysis,
+ed. Maury Yeston.
+2. Early Music
+Bergquist, Peter, "Mode and Polyphony around 1500: Theory and
+Practice," The Music Forum, I (1967), 99-161.
+Mitchell, William J. "The Prologue to Orlando di Lasso's Prophetiae
+Sibyllarum," The Music Forum, II (1970), 264-273.
+Novack, Saul. "Fusion of Design and Tonal Order in Mass and Motet:
+Josquin Desprez and Heinrich Issac," The Music Forum, II (1970),
+187-263.
+Novack, Saul. "The History of the Phrygian Mode in the History of
+Tonality," Miscellanea Musicologica, IX (1977), 82-127.
+Salzer, Felix. "Tonality in Early Medieval Polyphony: Towards a
+History of Tonality," The Music Forum, I (1967), 35-98.
+Schachter, Carl. "Landini's Treatment of Consonance and Dissonance:
+A Study in Fourteenth-Century Counterpoint," The Music Forum, II
+(1970), 130-186.
+3. Twentieth Century
+Chatman, Stephen. "George Crumb's Madrigals Book III: A Linear
+Analysis," In Theory Only, I/9-10 (Dec. 1975-Jan. 1976), 55-79.
+Forte, Allen. "Schoenberg's Creative Evolution: The Path to Atonality,"
+The Musical Quartely, LXIV (1978), 133-176.
+Guck,
+
+Marion A. "Tracing Debussy's
+
+'.
+
+. Des pas sur la neige,"'
+
+In
+
+Theory Only, 1/8 (Nov. 1975), 4-12.
+Hough, Philipp. "The Tonal Structure of Bartok's Autumn Tears, Opus
+16, No. 1," Theory and Practice, 111/2 (Sep. 1978), 15-20. Response by
+Bruce McKinney, "Further Reflections on Autumn Tears," Theory and
+Practice, IV/1 (Mar. 1979), 25-27.
+Lester, Joel. "A Theory of Atonal Prolongation as Used in an Analysis of
+the Serenade, Op. 24, by Arnold Schoenberg." Ph.D. diss., Princeton
+University, 1970. Ann Arbor: University Microfilms (71-1615).
+283
+
+Neumeyer, David. "Counterpoint and Pitch Structure in the Early Music
+of Hindemith." Ph.D. diss., Yale University, 1976. Ann Arbor:
+University Microfilms (76-30, 240).
+Stein, Deborah. "Schoenberg's Op. 19, No. 2: Voice Leading and Overall
+Structure in an Atonal Work," In Theory Only, II/7 (Oct. 1976), 2743. Responses by Charles J. Smith and Marion A. Guck, In Theory
+Only, 1/10 (Jan. 1977), 23-24. (See also letter from Roy Travis, In
+Theory Only, II/10, p. 3.)
+Travis, Roy. "Tonal Coherence in the First Movement of Bartok's
+Fourth String Quartet," The Music Forum, II (1970), 298-371.
+Travis, Roy. [Analysis of Movement I ("Bewegt") of Webern's
+Orchestral Pieces (1913)], Journal of Music Theory, XVIII (1974),
+6-12.
+The Schenker-Schoenberg Polemic
+Dahlhaus, Carl. "Schoenberg and Schenker," Proceedings of the Royal
+Music Association, C (1973-174), 209-215.
+Dunsby, Jonathan M. "Schoenberg and the Writings of Schenker,"
+Journal of the Arnold Schoenberg Institute, II (1977), 26-33.
+Simms, Bryan R. "New Documents in the Schoenberg-Schenker
+Polemic," Perspectives of New Music, XVI/1 (Fall-Winter 1977), 110124.
+C. Pedagogical Applications
+1. Textbooks
+Aldwell, Edward and Carl Schachter. Harmony and Voice Leading.
+2 volumes with workbooks. New York: Harcourt, Brace, Jovanovich,
+1978-79.
+Review: John Vander Weg in In Theory Only, III/12 (Mar. 1978),
+31-35.
+Forte, Allen. Tonal Harmony in Concept and Practice. New York:
+Holt, Rinehart and Winston, 3d ed., 1979.
+Kraft, Leo. Gradus: An Integrated Approach to Harmony, Counterpoint and Analysis. 2 books and 2 anthologies. New York: W. W.
+Norton, 1976.
+Reviews: Robert Gauldin in Journal of Music Theory, XX (Fall
+1976), 306-319; Fred Geissler in Notes, XXXIV (1977), 330-334.
+Salzer, Felix and Carl Schachter. Counterpoint in Composition. New
+York: McGraw-Hill, 1969.
+Reviews: Stanley Persky in Perspectives of New Music, VIII/1 (FallWinter 1969), 151-154; John Rothgeb in Journal of Music Theory,
+XIII (1969), 307-316; Jurgen Wilbrandt in Beitrage zur Musikwissenschaft, XIII (1971), 226-227.
+284
+
+Warfield, Gerald. Layer Analysis: A Primer of Elementary Tonal
+Structure. New York: McKay, 1976.
+Reviews: Richard Brooks in Theory and Practice, II/2 (Sep. 1976),
+8-9, with a reply by Walter Hartley in Theory and Practice, II/3
+(Feb. 1977) 10-11; Fred Geissler in Notes, XXXIV (1977), 330334; Bruce Campbell in Journal of Music Theory, XXII (1978),
+313-316; Edwin C. Hantz in Perspectives of New Music, XVI/2
+(Spring-Summer 1978), 237-246.
+Westergaard, Peter. An Introduction to Tonal Theory. New York:
+W. W. Norton, 1975.
+Review: Fred Geissler in Notes, XXXIV (1977), 330-334.
+2. Other Sources
+Gould, Murray. "Schenker's Thought in the World of Teacher and
+Student," a paper read at the opening session of the Seventeenth
+Annual Meeting of the College Music Society. Printed with discussion
+and responses by Richmond Browne, Charles Burkhart and Oswald
+Jonas in the College Music Symposium, XV (1975), 133-149.
+Kudlawiec, Dennis P. "The Application of Schenkerian Concepts of
+Musical Structure to the Analysis Segment of Basic Theory Courses at
+the College Level." Ed.D. diss., University of Illinois, 1970. Ann Arbor:
+University Microfilms (71-14,836).
+Levy, Edward, "Structural Analysis and Interdisciplinary Arts Courses,"
+College Music Symposium, XIV (1974), 102-121.
+D. Criticisms
+Narmour, Eugene. Beyond Schenkerism: The Need for Alternatives in
+Music Analysis. Chicago: University of Chicago Press, 1977.
+Reviews: John Rothgeb in Theory and Practice 3/2 (September
+1978), 28-42, and in the Journal of Research in Music Education
+26/4 (Winter 1978), 481-486; Ruth Solie in Notes XXXIV/4 (Winter
+1978), 857-859; Kay Dreyfus in The Journal of Aesthetics and Art
+Criticism 36/4 (Summer 1978), 505-507; James McCalla in 19th
+Century Music 2/3 (March 1979), 267-269. [See also Steven
+Haflich's review in this issue, pp. 287-304.-Ed. ]
+Sessions, Roger. "Heinrich Schenker's Contribution," Critical Inquiry,
+II/1 (Autumn 1975), 113-119. Reprinted from Modern Music, XII
+(1935), 170-178.
+E. Other Sources of Interest
+Beach, David. "The Origins of Harmonic Analysis," Journal of Music
+Theory, XVIII (1974), 274-306.
+Beeson, Roger A. "Background and Model: A Concept in Musical
+Analysis," The Music Review, XXXII (1971), 349-359.
+285
+
+Burdick, Michael F. "Some Nineteenth-Century Precedents of the Stufe
+Concept," Indiana Theory Review, I/1 (Sep. 1977), 23-30.
+Clifton, Thomas. "An Application of Goethe's Concept of Steigerung
+to the Morphology of Diminution," Journal of Music Theory, XIV
+(1970), 165-189.
+Frankel, Robert E., Stanley J. Rosenschein, and Stephen W. Smoliar,
+"A LISP-Based System for the Study of Schenkerian Analysis,"
+Computers and the Humanities, X/1 (Jan.-Feb. 1976), 21-32.
+Gould, Murray J. "Species Counterpoint and Tonal Structure." Ph.D.
+diss., New York University, 1973. Ann Arbor: University Microfilms
+(74-1894).
+Kassler, Michael. "Explication of the Middleground of Schenker's
+Theory of Tonality (1)," Miscellanea Musicologica, IX (1977), 72-81.
+Keiler, Allan R. "The Syntax of Prolongation (Part I)," In Theory
+Only, III/5 (August 1977), 3-27.
+Laskowski, Larry. Heinrich Schenker: An Annotated Index to his
+Analyses of Musical Works. New York: Pendragon Press, 1978.
+Laskowski, Larry. "Context and Voice Leading: Influence on Thematic
+and Tonal Structure", Theory and Practice, IV/1 (Mar. 1979), 15-24.
+Lerdahl, Fred and Ray Jackendoff. "Toward a Formal Theory of Tonal
+Structure," Journal of Music Theory, XXI (1977), 111-171.
+Lester, Joel. "Articulation of Tonal Structures as a Criterion for
+Analytic Choices," Music Theory Spectrum, I (1979), 67-79.
+Morgan, Robert P. "Dissonant Prolongations: Theoretical and Compositional Precedents," Journal of Music Theory, XX (1976), 49-91.
+Morgan, Robert P. "Schenker and the Theoretical Tradition," College
+Music Symposium, XVIII (1978), 72-96.
+Walker, Alan. "Schenker: A Musician's Musician," Composer, XLIII
+(1972), 9-10.
+Webster, James. "Schubert's Sonata Form and Brahm's First Maturity
+(I)," 19th Century Music, II (1978), 18-35. Part 2 scheduled for publication in vol. III (1979).
+Yeston, Maury, ed. Readings in Schenker Analysis and Other Approaches.
+New Haven: Yale University Press, 1977. A reprint of articles and
+analyses from the Journal of Music Theory.
+Review: James McCalla in 19th Century Music II (1979), 267-269.
+
+286
+
+

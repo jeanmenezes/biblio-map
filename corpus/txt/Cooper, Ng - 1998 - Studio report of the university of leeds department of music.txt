@@ -1,0 +1,175 @@
+STUDIO REPORT OF THE UNIVERSITY OF LEEDS DEPARTMENT OF MUSIC
+David Cooper and Kia Ng *
+Department of Music, University of Leeds, Leeds LS2 9JT, UK.
+* School of Computer Studies, University of Leeds, Leeds LS2 9JT, UK.
+E-mail: d.g.cooper@leeds.ac.uk , kia@scs.leeds.ac.uk
+URL: http://www.leeds.ac.uk/music/Studio/
+
+Abstract
+Current studio facilities and research of the Electronic Studio at The University of Leeds are reported.
+
+1. Introduction
+Since its inception in 1987, the Electronic Studio of the Department of Music at the University of Leeds has
+expanded from its humble beginnings in one small room, into a comparatively substantial facility spanning most of
+the upper floor of the Department. It provides the infrastructure for undergraduate and postgraduate studies in music
+technology, research and composition. The Leeds Computer Music group, hosted by the studio, currently consists of
+members of the Music Department, the School of Computer Studies and the School of Electronic and Electrical
+Engineering and fosters a direct and close collaboration between composers, programmers, engineers and
+researchers.
+
+2. Studio
+The Electronic Studio facilities (see Figure 1) are mainly PC based, though a Silicon Graphics Unix workstation and
+Acorn RISC PC (running Sibelius 7) are also available. All PCs are networked and can share resources. Studio 1 is
+primarily used by advanced undergraduates and postgraduates and provides a substantial array of synthesisers,
+samplers, audio processing units, with eight- and two-track digital recording facilities and a MIDI automated mixer,
+as well as hard-disk recording and editing. An integrated professional-quality video recording set-up and
+synchronisation facility is also available. Studio 2 has six workstations (one with a CD production facility) and a
+further video set-up. A third studio has a networked computer cluster devoted to music processing, Csound and
+general use. All studios are equipped with industry-standard software, including Cubase, Finale and Csound.
+
+(a) Main setup in Studio 1.
+
+(b) A panoramic view of Studio 2.
+Figure 1: Images of the studio.
+
+3. Research Projects
+In this section, brief summaries of current areas of computer-music research are presented, with some technical
+details of specific methodologies and references to recent publications.
+
+3.1 Optical score recognition
+Our interests in optical music score recognition was initiated in 1991 [Ng et al., 1995, Ng, 1995, Ng and Boyle,
+1996] and we are currently porting our UNIX based prototype, onto the PC platform. This prototype, designed for
+printed music, attacks complex notation by sub-dividing composite groups of features into low-level graphical
+primitives, such as note-heads, stems and beams, before recognition, and then reconstructs the final results using the
+primitives with the assistance of musical syntax and conventions (see Figure 2). This works well on printed scores
+and provides a useful intermediate stage where many neighbouring primitive classifications can be checked and
+confirmed with each other. However, the sub-segmentation process relies on the straight edges of the symbols and it
+is not robust when dealing with hand-written manuscripts because of their typically slanted line segments [Ng et al.,
+1996a].
+
+(a)
+
+(b)
+
+Figure 2: (a) An example input and (b) the reconstructed result.
+
+As a result of competitive bidding, the University of Leeds has provided a grant of £90,000 to support the
+development of an OMR system for hand-written manuscripts by the authors. An institutional bid for funding the
+project has also been submitted by the University of Leeds to one of the UK’s national educational research funding
+organisations, and the result of the process is currently awaited.
+3.2 Tonal analysis
+In order to substantiate assertions of vestigial tonal traces in non-tonal music, a measure is required, against which
+the degree of residual tonality may be judged. Such a measure has been developed by Kia Ng, David Cooper and
+Roger Boyle as a by-product of work on the OMR system described above [Cooper, 1998]. The forty-eight preludes
+and fugues of Bach’s The Well-Tempered Clavier, Books I and II, in MIDI file format provided an initial data set for
+analysis. Two types of information are extracted from the MIDI files: the frequency of occurrence of each of the
+twelve pitch-classes, and the total duration associated with each pitch-class (the sum of all individual durations).
+Each pitch-class is ranked from 0 to 11 according to its total duration, the pitch-class with the longest total duration
+being given the lowest numerical ranking (see Figure 3). After analysis of the training data, an algorithm was
+designed which, in a mechanical way, is able to simulate the process of key-signature detection (and thus underlying
+tonality) with considerable accuracy [Ng et al., 1996b].
+Sort Index
+
+10
+
+5
+
+0
+0
+1 2
+3 4
+Note-class number
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Figure 3: Semitone offset from tonic compared to ranking (sort index) by duration for the training data.
+
+3.3 Music notation file format – Expressive MIDI
+The ExpMIDI file format (Cooper et al., 1997), an extension of the standard MIDI file, was developed as an output
+format for the Leeds OMR system. Note names and lengths can be explicitly coded, and most ‘expressive’ details
+included (dynamics, hairpins, standard expression marks and so on). As the format makes use of an existing hook in
+the MIDI specification, ExpMIDI files should be playable on any MIDI-file conformant rendering engine, as
+playback systems should ignore any events they do not recognise.
+3.4 Tuning by Ratios using Csound
+In his monumental work, On the Sensations of a Tone, the eminent 19th century German scientist Hermann
+Helmholtz proposed a tuning system in which frequencies are tuned according to simple ratios. It is now possible,
+using digital audio synthesis software such as Csound, to explore this theory in detail. Through various musical
+illustrations supported by Csound orchestra and score files, postgraduate research student Robert Asmussen’s paper
+demonstrates that simple ratios of frequencies (such as 2:3, 5:4) are at the very heart of traditional Western tonality
+(see Figure 4). Included in this paper is a set of computer programs in C that may be used to reprocess and expand
+existing Csound scores. For more details, see http://www.leeds.ac.uk/music/Studio/lcmg/sw/tuning/tuning.htm.
+
+Figure 4: Bach Chorale harmonisation tuned by Helmholtz ratios.
+
+4 Final-year Undergraduate Projects
+As part of their final-year work for the BA in Music and Electronic Engineering, undergraduate students have been
+building a system on a Unix platform for the gestural capture and parameterisation of a data from live musician
+which can be used to control a synthesiser implementing a physical modelling algorithm. An input signal from a
+microphone is digitised and windowed and Fourier Transforms are calculated every 0.01 second (a phase-vocoder
+implementation is felt to provide the most efficient means of data analysis). A number of parameters, including the
+fundamental, several formant frequencies, their associated magnitudes and the peak to average magnitude are passed
+to a mapping section which converts them to appropriate variables for the synthesis engine.
+The Departments of Music and Electronic Engineering are currently negotiating with the manufacturer of an
+innovative and high-profile hardware sequencing device to establish several research studentships for the further
+development of hardware and software. It is hoped that one or more of our new graduates may be involved in this
+exciting new venture.
+4.1 Music and Fractals
+The relationship between 1/f noise and music proposed by Voss in his Ph.D. thesis of 1975 and subsequent papers
+published in Nature and the Journal of the Acoustical Society of America still dominates discussions of the
+connections between fractal geometry and music. Voss’s experimental work showed that the power spectrum of a
+signal which has been squared and passed through a 20Hz low-pass filter (which for Voss is a correlate of the
+instantaneous loudness of the music the signal represents) has a 1/f shape when plotted as a log-log graph. A similar
+graph was found for the power spectrum of the instantaneous frequency (using a zero-crossing measurement
+methodology), which Voss relates to musical pitch. It is now, perhaps, appropriate to reconsider what his results
+
+imply from the point of view of music. We have discovered, that the amplitude spectra of musical signals, when
+observed over different time scales, are similar (see Figure 5). In Fractal Geometry this property is called selfsimilarity. An on-line version of the paper is available at http://www.leeds.ac.uk/music/Studio/lcmg/es-rrs.html
+[Henze and Cooper, 1997].
+
+Figure 5: Palestrina: ‘Osculetur me osculo oris sui’ a) entire piece; b) half of the piece, centred; c) quarter of the piece,
+centred; d) five sec; e) five sec, extreme gap; f) two sec, highlight
+
+5. Concerts and Demonstrations
+An international festival of the British Association for the Advancement of Science held at the University of Leeds in
+Fall 1997 included performances of works for live instruments and electronics and software demonstrations, and was
+attended by some 300 journalists and 1500 visitors. Several other concerts of electronic music were held during the
+year.
+
+References
+[Cooper et al., 1997] David Cooper, Kia Ng and Roger Boyle, “An extension of the MIDI file format: expressive
+MIDI - expMIDI”, in Beyond MIDI: The Handbook of Musical Codes, eds., E Selfridge-Field, Center for
+Computer Assisted Research in the Humanities, Stanford University, Menlo Park, CA, United States. MIT
+press, 1997, pp. 80 – 98.
+[Cooper, 1998] David Cooper, “The Unfolding of Tonality in the Music of Béla Bartók”, Music Analysis, March
+1998, pp. 21 – 38.
+[Cooper and Ng, 1996] David Cooper and Kia Ng, “A monophonic pitch-tracking algorithm based on waveform
+periodicity determinations using landmark points”, Computer Music Journal, 20(3):70 - 78, Fall 1996.
+[Henze and Cooper, 1997] Sabine Henze and David Cooper, “Fractal Characteristics of the Fourier Spectra of
+Recordings of Musical Compositions”, ESRRS-1997-02, 1997.
+[Ng, 1995] Kia Ng, Automated Computer Recognition of Music Scores, Ph.D. Thesis, School of Computer Studies,
+University of Leeds, Leeds, UK. 1995.
+[Ng and Boyle, 1996] Kia C. Ng and Roger D. Boyle, “Recognition and Reconstruction of Primitives in Music
+Scores”, Image and Vision Computing, 14: 39 - 46, 1996.
+[Ng et al., 1996a] Kia C. Ng, David Cooper, and Roger D. Boyle, “Handwritten Music-Manuscript Recognition”, in
+International Computer Music Conference - On the Edge, pages 354 - 357, The Hong Kong University of
+Science and Technology, Clear Water Bay, Kowloon, Hong Kong, August 1996.
+[Ng et al., 1996b] Kia Ng, Roger Boyle and David Cooper, “Automatic Detection of Tonality using Note
+Distribution”, in Journal of New Music Research, Vol. 25, 1996, pp. 369 – 381.
+[Ng et al., 1995] Kia C. Ng, Roger D. Boyle, and David Cooper, “Low and High Level Approaches to Optical Music
+Score Recognition”, in IEE Colloquium Digest 1995/191, Document image processing and multimedia
+environments, pages 3.1 - 3.6, Savoy Place, London WC2R 0BL, UK., 2nd November 1995, Institution of
+Electrical Engineers (IEE).
+
+

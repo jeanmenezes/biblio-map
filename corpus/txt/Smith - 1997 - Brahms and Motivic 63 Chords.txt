@@ -1,0 +1,4509 @@
+Brahms and Motivic 6/3 Chords
+Author(s): Peter H. Smith
+Source: Music Analysis, Vol. 16, No. 2 (Jul., 1997), pp. 175-217
+Published by: Blackwell Publishing
+Stable URL: http://www.jstor.org/stable/854465
+Accessed: 19/06/2010 16:54
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=black.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Blackwell Publishing is collaborating with JSTOR to digitize, preserve and extend access to Music Analysis.
+
+http://www.jstor.org
+
+PETER H. SMITH
+
+BRAHMSAND MOTIVIC 6/3 CHORDS
+
+Introduction
+Brahms has long been admired for his powers of motivic integration, his
+'progressive' harmony and his proclivity for blurred formal articulations.* A
+quintessentiallyBrahmsian amalgamation of the motivic, harmonic and formal
+dimensions is the composer's use of motivic 6/3 chords at points of formal
+articulation. The topic divides into two categories: 6/3 chords that arise via a
+5-6 motion over a tonic bass and 6/3 chords that function as inversions of the
+tonic. The opening of the scherzo from the Piano Quintet provides an example
+of a type 1 6/3 chord (Ex. 1). A striking instance of a type 2 chord is the initial
+tonic ofthe BSminor Intermezzo (Ex. 2). Both types of 6/3 chord are powerful
+means through which Brahms destabilises or delays tonic articulation - a
+hallmarkof his engagement with traditionalforms.l A 6/3 chord at the opening
+boundary of a tonic prolongation invests generic harmonic function with
+idiosyncratic character. The individuality of the context extends beyond
+features that make any tonic articulation unique - thematic material, voicing,
+instrumentation, registration, etc. - to include either an atypical pitch content
+or an unconventional bass pitch.
+The two types of 6/3 chord accentuate the importance of context for
+harmonic analysis. At a level of abstraction that is often useful for chord
+classification, the opening harmonies of the scherzo and the Intermezzo fall
+into the same category as first inversion triads. From this perspective, the main
+difference between the chords is their quality. Yet despite similarities of
+interval content, the two harmonies relate to their tonal environments in very
+different ways. The 'first inversion' classification might suggest Romannumeral functions of VI6 and I6, respectively. The scherzo, however, like the
+
+* An earlierversion of this article was read at the Annual Meeting of the Society for
+Music Theory in Baton Rouge, Louisiana, 1996, and at the Annual Meeting of Music
+Theory Midwest in Kalamazoo, Michigan, 1996. The author wishes to thank Robert
+Morgan and MargaretNotley for their critical comments on a preliminarydraft.
+
+MusicAnalysis, 16/ii (1997)
+
+175
+
+(C)Blackwell Publishers Ltd. 1997. Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UI
+
+I
+
+X
+
+I( |
+
+- |gA ? I
+
+-XI
+8
+J
+
+176
+
+-
+
+$8
+
+7
+
+I
+
+,$
+
+-
+
+;
+
+-
+
+I fJ)
+r) -
+
+I
+
+P>|
+
+-
+
+-
+
+-
+
+J ll2
+
+;
+
+>_0
+-
+
+-
+
+PETER H. SMITH
+
+Ex. 1 Piano Quintetin F minor, Op. 34, scherzo,openingbars
+Scherzo
+^
+
+Allegro
+
+|
+
+646
+
+1. Violine
+
+-
+
+1$
+
+:$ 0
+sen1p)
+
+;z S
+
+D; X
+
+e pP
+
+2. Violine
+|
+
+8
+
+Z
+
+-
+
+|
+
+l
+
+l
+
+|
+
+|
+
+0
+
+-
+
+l
+
+Bratsche
+
+pizz.
+
+Violoncell
+
+|
+
+j|
+
+:i
+
+G
+
+4
+
+8 8
+
+Allegro
+8
+
+8
+
+8
+
+|
+
+8 8
+
+8 8 |
+
+8
+
+-
+
+J
+
+t): rr <
+
+Pianoforte
+)
+
+sempl
+
+e pP
+
+6
+
+(s)
+
+6
+
+tFi r5hr? /C 51 ;uLilr
+
+1e
+i
+
+<-<58
+$f
+
+s1,X |
+
+Il;,
+
+\;881
+
+(\C:1J\S\:l8f
+
+zrl
+
+^r
+
+: ,^. :5 ,-,f;ll2Wr
+
+S
+
+K
+
+Vl %88J\1J\381
+
+'
+
+r
+
+1X'
+
+i:
+
+l 2>
+
+5\8114
+
+r : S #; 5 1 r v $ 5-:: 1 5 ri>J ,> ? - ,
+J :$ ,,; ,J
+:¢ , DJ , >, C , , :
+
+>
+
+2;>
+42
+V
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+16C 116it s,,,
+
+;,
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+177
+
+Ex. 2 Intermezzoin B; minor, Op. 117 NO.2, openingbars
+Andantenon troppoe con moltoespressione
+
+si40 $rx
+
+<7v
+
+tEc,.
+
+8Wz
+
+>.8t
+
+p dolce
+
+94R82
+
+j
+
+48hR;UC
+
+48R>82
+
+}8
+
+825
+
+48
+
+C'OI X.
+i6
+
+i6
+
+Intermezzo, articulates tonic function. Ex. 3 illustrates the contrasting linear
+and harmonic derivation for the two harmonies. In the scherzo, Alw
+displaces
+the G fifth of the 5/3 chord that is implied above C in bars 1-2. Because we
+infer tonic function from the bass, what we are dealing with is fundamentallya
+root position chord. Though the opening material contains the pitches of the
+submediant, it does not articulate submediant function. (In this sense, type 1
+motives are like cadential 6/4 chords, which contain the pitches of the tonic
+but which function as part of the dominant.) In the Intermezzo, on the other
+hand, the sixth above the bass itself represents the tonic; we can speak of
+type 2 motives as first inversion harmonies in terms of both abstract chord
+structure and concrete tonal function. A major contribution of Schenkerian
+theory has been its insight into these types of functional distinctions.2
+Ex. 3
+
+5
+1
+
+6
+
+6
+i
+
+One of Brahms's sources for development of his motivic 6/3 chords relates
+to the influence of context on harmonic function. The duality of submediant
+pitch content and tonic function makes type 1 chords especially rich in
+possibilities for harmonic reinterpretation.Indeed, type 1 motives often return
+independent of their original position within tonic expansion. The attention
+that Brahms focuses on alternativetonal implications will lead us to reconsider
+the idea that the submediant pitch content of type 1 chords is harmonically
+insignificant.Another point that will emerge is that type 1 and 2 harmonies are
+not the polar opposites that my analysis of the scherzo and Intermezzo implies.
+MusicAnalysis,16/ii (1997)
+
+t) Blackwell Publishers Ltd. 1997
+
+PETER H. SMITH
+
+178
+
+Ex. 4 illustrates reversals of standard type 1 and type 2 function. The
+Schenkerian approach that I have just outlined would seem to deny the
+possibility for these interpretations. Yet we will see that Brahms draws
+consequences from the apparent submediant embedded within his type 1
+motives; linear 6/3 chords can take on significance as inversions. Similarly,the
+sixth of a type 2 chord can function as a displacement of the fifth of III, rather
+than as a representative of the tonic root; reinterpreted in this way, an
+inversional 6/3 chord inflects a harmonic frameworkthat is oriented around a
+stationary bass. One of my goals will be to take advantage of Schenkerian
+insights, without denying the possibility for a type 1 chord to function as an
+inversion or for a type 2 chord to function as part of a 5-6 motion.
+Ex. 4
+
+1$$
+
+X=,
+
+X
+
+VI
+
+4:ibi
+
+l-s
+III
+
+Because type 1 motives appear more frequently in Brahms, it will be helpful
+to put the second category aside and focus on the first group. I will return to
+first inversion tonics toward the end of this study, after a thorough exploration
+of Brahms's type 1 usage. Table 1 summarises some of the transformations
+that Brahms applies to type 1 chords. The fascination of the motivic process is
+not in the transformations per se, but in the interaction of the motivic
+dimension with formal and tonal context. From the perspective of motivic
+association, the changes are minimal, especially if a given transformation is
+counterbalancedby invariance in other dimensions. A chromatic adjustment,
+an addition of a pitch or a change in bass, however, can have enormous
+consequences for chord function. The Quintet scherzo provides a straightforward example. Consider the repetition of the thematic idea at bar 43
+(Ex. 5). The addition of FXin no way weakens the obvious connection with the
+opening theme. Yet this XIV7/;3
+transformation is sufficient to allow the 6/3
+chordto operate in a drasticallydifferent context. Material that was originally
+partof a tonic point of departure is absorbed into a retransitional dominant
+prolongation.It is important to observe that the fragment retains C as bass
+regardlessof the new tonal environment - a factor that both confirms the
+motivic character of the 6/3 position and expands the possible harmonic
+functionsfor the C pedal.3
+One way to approach these two motive forms is as different consequences of
+the same musical idea. The C pedal throughout the opening phrase and the
+i-4-8 bass at bar 13's imperfect cadence support an initial tonic attribution,
+(v.:
+Blackwell Publishers Ltd. 1997
+
+Music
+Analysis, 16/ii ( 1 997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+179
+
+Table 1
+sourcechordand
+functions
+transformations* somepossible
+i-S-8
+
+I5-6
+
+(literal)
+
+5-6 (5/3 implied)
+
+I6 (5/3 elided)
+VI6 (tonicised)
+V6/bII
+
+bII6in dominant key
+minor VI6 (tonicised)
+6-1-3
+
+VI (interruptedcadence)
+VI (tonicised)
+
+V/bII
+6-bi-3
+
+minor VI (tonicised)
+
+some representatlve passages
+
+C minor String Quartet, first movt., bars 1-3;
+A major Violin Sonata, second movt., bars
+14-15; Horn Trio, fourth movt., bars 145-6
+(in dominant key)
+Piano Quintet, third movt., bars 1-4; D
+minor Piano Concerto, first movt., bars 1-3;
+Horn Trio, fourth movt., bars 45-6 (in
+dominant key)
+Piano Quintet, third movt., bar 47; B major
+Trio, fourth movt., bars 1 and 54
+F minor Clarinet Sonata, first movt., bars 3852; B major Trio, fourth movt., bars 30-33
+F minor Clarinet Sonata, first movt., bars
+136-7; C minor String Quartet, first movt.,
+bars 110-11
+F minor Clarinet Sonata, first movt., bars 3852; B major Trio, fourth movt., bars 30-37
+Horn Trio, fourth movt., bars 55-60 (in
+dominant key)
+B major Trio, fourth movt., bars 57 and 288;
+Horn Trio, fourth movt., bar 271
+C minor String Quartet, second movt.,
+passirtl.; Piano Quintet, first movt., bars 7490; A majorViolin Sonata, second movt.,
+bars 16-71
+F minor Clarinet Sonata, first movt., bars 129
+and 134
+Piano Quintet, first movt., bars 35-56;
+F minor Clarinet Sonata, first movt., bars
+120-28
+
+-A3-6-#4
+i-3-$g#4
+6_X_A3_#4
+
+8_X_A3_bE
+
+#IV7/b3
+(dim. third chord) Piano Quintet, third movt., bars 39-40 and
+178-9, and fourth movt., bars 249-50
+VII4/3/V
+B major Piano Trio, fourth movt., bar 7
+German #6/5
+Horn Trio, fourth movt., bars 79-80 (in
+dominant key); B major Trio, fourth movt.,
+bars 284-5 and 288-9
+V7/bII
+C minor String Quartet, fourth movt., bars
+96-101;
+Horn Trio, fourth movt., bars 75-6
+(in dominant key)
+
+* left-most pitch = bass
+
+MusicAnalysis,16/ii (1997)
+
+g
+
+Blackwell Publishers Ltd. 1997
+
+ZS
+
+o*--dimin.
+.*** =EP
+PP
+
+vx
+
+r#S-
+
+0;
+
+-;
+
+180
+
+PETER
+
+tr
+
+o >vS
+
+C
+
+V
+
+H. SMITH
+
+Ex. 5 Piano Quintet, scherzo,bars 41-50
+(47)
+
+(4l )
+
+0498
+
+(43)
+
+Iy 47 V V 8$ ;i; r i r gr?t>:v$ V 8$i'
+\: 1t
+1$
+
+'s .<, fJpT:
+5r^r pt
+
+1W:v$81$v$b2- 5:588$81- I - l - l - l -1
+711
+fz
+
+fz
+
+l8At.Z588$8115847 trvl,,.z>:::81:\SppAkJS7DIJALt
+jf?t
+PIZZ.
+
+|tzzz$\l
+
+t: j7=L7^:lz288$8l-pplf:fvlS:Y:!C:+¢:l;z:C
+
+I
+
+{t 04
+
+...2.#,
+
+l
+.
+
+V
+
+#IV;3
+
+.
+
+.
+
+j
+.
+
+.
+
+S;n;;tz>$|
+
+_
+
+¢
+
+FJ,<
+
+6
+
+.
+
+V
+
+i?
+
+#IV;
+
+V
+
+3
+.
+
+as does the preparatory dominant and G-C bass at the counterstatement of
+the material at bar 47. The reorientation of the motive around the dominant in
+the retransitionis, if anything, even more single-minded. I prefer, however, to
+treat flexibility of harmonic function as an invitation for retrospective
+reevaluation.The situation requires sensitivity not only to changing functions
+of a motive in new contexts, but also to reinterpretationsof an original based
+on different listening perspectives.4 This analytical approach treats motivic
+processas a form of self-analysis. What a composer reveals about his material
+in a restatement sheds light on the original. The instability of the #IV7/;3
+transformation,for example, highlights the tenuous character of the head
+motive.Despite the aforementioned indications of tonic function, the idea has
+built into it the instability that comes to the fore in the retransition. The
+arpeggiotheme articulates Abas a frame around C and ES,rather than as the
+displacementof G that we might expect in a more explicit 5-6 motion. The
+disorientation that arises from bass emphasis on the tonic and melodic
+
+t)
+Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii ( 1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+181
+
+emphasis on the submediant is heightened by the syncopation of the parts.
+Even at the counterstatement at bar 47, the premature intrusion of ASdisrupts
+a moment of potential harmonic clarity; elision of the 5/3 harmony pushes
+tonic function, which was already a matter of implication in the original, even
+further into the conceptual realm.
+The elision at bar 47 also accentuates the most basic difference between the
+counterstatement and the original: the repetition repositions a point of
+initiation within a larger continuity. On the one hand, the preparatory
+dominant and G-C bass support a tonic attribution, as mentioned above. Yet
+the counterstatement - like the retransition - also further exposes the degree
+to which the original contains the seeds for dominant reinterpretation. One
+crucial moment for analysis of the 6/3 chord is the FkAS neighbour around G
+in bars 49-50. The addition of F# reawakens the #IV7/;3transformation and
+points the motivic sonority ahead again toward the dominant. Ex. 5 illustrates
+this connection across the entrance of the counterstatement. The framing of
+the thematic return within two #IV7/;3-Vprogressions joins the premature
+entrance of ASat bar 47 to pull the head motive from its tonic moorings. The
+result is a characteristicallyBrahmsian ambivalence: a formal articulation that
+both evokes and effaces the tonic. The opening material itself can be heard as
+a less extreme form of the same strategy:the original is a 'scattered' version of
+the #IV7/;3
+transformation. In this view, the accumulation of pitches - first the
+AS arpeggiation, then the FkAS neighbour, and finally the C-BWmelodic
+motions in bars 6 and 8 - gradually draw the opening phrase into the orbit of
+the dominant. The initial type 1 chord does not articulate a solid point of
+departure, but rather forms part of an anacrusis to the imperfect cadence at
+bar 13.
+The statement and counterstatement of the main theme illustrate the
+tendency for motivic 6/3 chords to destabilise tonic articulation. (Later we will
+have occasion to observe 6/3 chords that participate in outright tonal delay.)
+The passages also help to establish some basic characteristicsof the analytical
+method for this study. Brahms's motivic 6/3 chords are profitably approached
+with diverse analytical tools. My analyses will continue to combine a
+Schenkerian approach to tonal structure, a transformationalmodel of motivic
+process, and traditional formal concepts. Throughout, I will focus on multiple
+interpretations of events based on different listening perspectives. A central
+concern will be to evaluate the effect, on the characterof the opening tonic, of
+both the initial 6/3 chords and the motivic processes they generate. I will also
+address relationships between motivic 6/3 chords and key areas, and the role
+these chords often play in creating unity across Brahms's multi-movement
+cycles. The Quintet, in fact, develops issues of cyclic unity in tandem with
+links between 6/3 chords and key areas. It will be fruitful therefore to continue
+with it. I will then move on to consider excerpts from the following works: the
+
+Music Analysis, 16/ii ( 1997)
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+182
+
+PETER H. SMITH
+
+Amajor Violin Sonata, Op. 100; the F minor Clarinet Sonata, Op. 120 No. 1;
+the C minor String Quartet, Op. 51 No. 1; the E; major Horn Trio, Op. 40;
+the Tragic Overture, Op. 81; the F major Viola Quintet, Op. 88; and the B;
+minor Intermezzo, Op. 117 No. 2. Because the motivic 6/3 chords in these
+pieces often interact with large-scale tonal structure, the reader will find it
+necessaryto have complete scores handy for each.
+
+The F minor Piano Quintet, Op. 34
+Up to this point, I have focused on the potential for a type 1 motive to shift
+emphasis off the tonic and onto the dominant. This compositional strategy
+takes advantage of multiple possibilities of tonal function for 8. The pitch
+easilyfunctions within tonic prolongation, not only as part of a 5-6 motion but
+also as part of other common techniques of tonic expansion such as I-IV-I
+progressions. But in minor, the descending leading-note potential of 8 is one
+of the most powerful means to intensify motion to or around V. The anacrusic
+character of the main theme, in relation to the dominant, encourages
+consideration of another context with an important influence on harmonic
+interpretation: the preparation of a movement by the conclusion of the
+previous movement. Indeed, motivic 6/3 chords often participate in this type
+a
+of inter-movement continuity. Though Brahms does not mark attacca,
+A; tonic of
+performance that pauses briefly can create a link between the final
+the slow movement and the scherzo's motivic 6/3 chord. Ex. 6 shows that,
+even at the outset, the tonic is undercut by a retrospective connection across
+the C articulation, similar to the continuity at the counterstatement. Here we
+see the first suggestion of submediant function for a type 1 motive. The order
+of pitches in the upper parts takes on special significance when heard in
+relation to the previous A; tonic. This listening perspective further complicates
+the inference of a 5/3 chord above C by making the bass sound like a chordal
+third. The status of the 6/3 chord as an inversion of A; meshes with the
+material'ssubsequent independence from tonic function.5
+The continuity at the crossoverinto the scherzo is part of a network of intermovement connections. The scherzo's 6/3 chord bears special relationship
+with a primary source of pan-movement integration: the pitch DS, which
+functions both as a melodic neighbour and as a key area throughout the cycle.
+Ex. 7a shows the initial statement of the D; motive in the main theme of the
+first movement. Ex. 7b interprets the material in relation to a structural tonic.
+Here, in contrast to the scherzo, it is the 5-6 motion that is more explicit; the
+listener must infer a tonic bass. The similarity of the passages is obvious
+nevertheless. The relationship extends to the potential for multiple interpretations that undercut a tonic attribution. Ex. 8 outlines one alternative.The
+graph highlights the prominence of C in the lowest voice of the theme's
+
+t) Blackwell Publishers Ltd. 1997
+
+MusicAnalysis, 16/ii (1997)
+
+tXetIIJ.
+
+j
+
+PP
+
+)
+
+DX(+-t
+
+sempfe
+
+9g:=
+p,2D
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+183
+
+Ex. 6 Piano Quintet,Andante,closingbars;scherzo,openingbars
+Scherzo
+poco riten.
+f
+
+%
+
+Dr
+
+,>
+
+J
+
+I S.
+
+Allegro
+
+§48
+
+I J.
+
+L=
+
+>
+
+$ V 1 1 SJ21 - hXr
+$
+j
+:r
+
+-
+
+sempz
+
+mJ
+-
+
+-12. 12.
+pP
+
+EIJ
+
+ACa -
+
+JI2
+
+; ;
+
+_
+
+;%bt \
+
+/ K oviwi-jU- IJ i-j?WiIJ J n
+..
+
+;'l
+
+W'
+
+W'
+
+W'
+
+W'
+
+I Allegro
+
+^
+
+t8
+
+_o
+
+IJ|t
+
+v>o
+|- iG
+(
+
+|6
+
+I:
+
+.
+
+I >
+
+:::
+
+:5
+
+W'
+
+W'
+
+W'
+
+i'
+
+i
+
+pp
+
+poco riten.
+
+|l
+
+sen7ple SJ
+
+M:Xa f ;/ f
+;/ V
+
+=:z
+
+I |
+
+pip
+
+pizz.
+
+9W9,l ll lI,>CJ | J$ $
+:,:,:
+C
+l l
+wp
+n
+
+e
+
+I - I - I - I -
+
+[
+
+=:PP
+
+:g
+
+1
+
+P
+
+.
+
+-
+
+-
+
+- v $#:-, 5 r r
+
+_
+
+_
+
+5
+
+_
+
+_
+
+$;j111
+
+J |
+
+5j
+
+SZ ..
+
+z
+
+wp
+
+A;:
+
+I
+
+I3?
+
+I3;
+
+6
+C: VI3
+
+v
+
+Ex. 7 (a) Piano Quintet, firstmovement,openingbars
+Allearonon troppo
+_^
+
+1,
+
+_
+
+>
+
+riten.
+
+I
+
+a tempo
+
+_
+
+1. Violine
+
+|
+
+2. Violine
+
+Xbt,
+
+$ ll
+
+_
+
+_
+
+I
+
+_
+
+|
+
+-
+
+18Sie$11
+
+Bratsche
+
+I
+
+I
+
+-
+
+I
+
+-
+
+I -
+
+-
+
+I :#efll::: 2IJ-- 5r?-tlD, 'LlL7
+
+Violoncell
+
+Allegronon troppo
+
+C| Xe C g
+
+:
+
+=
+
+$ $
+
+j
+
+$$
+
+j
+
+7$ X
+
+riten.
+
+C?
+
+2LD
+
+h#--
+
+St
+
+a tempo
+
+l ; SSL
+
+w
+
+w.f
+
+Pianoforte
+
+/t
+
+;i;G:
+
+Fr
+
+r z <
+
+MusicAnalysis,16/ii (1997)
+
+: Drfr
+
+:D
+
+4
+
+X
+
+>-¢
+
+g Blackwell Publishers Ltd. 1997
+
+184
+
+PETER
+
+H. SMITH
+
+Ex. 7(b)
+X
+
+03
+
+11
+
+s.0s
+(9Si; }-' }-^ 4@pi;it
+
+:t
+
+f
+
+I
+
+*
+
+5-6-s
+
+6-5
+4 -
+
+i
+
+[V1
+
+F
+V W
+
+Ex. 8
+19
+
+X
+
+16;$ -
+
+Tr
+
+lS;
+6
+4
+
+s -4s
+: r
+5
+h3
+V
+
+polyphonic melody. The absence of harmonisation allows the C to connect to
+the goal dominant in bar 4. From this perspective, the initial arpeggiation
+forms part of a 6/4 to 5/3 motion over the dominant. The emphasis on V is
+similar to the situation in the scherzo, where the opening phrase also functions
+as an anacrusis to an imperfect cadence. The continuation of the main theme
+(bars 5-11) prolongs the half-cadential V. The result is that an unequivocal
+tonic enters only at the counterstatement of the opening material, which
+supplies the emphatic F bass and full harmonisation thus far withheld (bar
+12). Our previous strategy of using restatements as an aid to harmonic
+interpretationis helpful here as well: the recapitulation supports the idea that
+the initial phrase is part of a structural anacrusis to bar 12's climactic arrival.
+The prominence of C in the head motive allows Brahms to bring back a
+fragmentaryversion of the opening phrase within the retransitional dominant
+(bars 160-64). (The dominant Stufeis initiated by the C minor statement of
+the second theme at bar 150.) The dominant extends across the return of the
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+Music Analysis) 16/ii (1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+185
+
+middle section (bars 166-72) and does not resolve until the entrance of the
+counterstatement (bar 173). From a thematic perspective, the recapitulation
+begins to emerge at bar 160. Yet through an explicit dominant harmonisation
+of the head motive, Brahms more fully realises the function of his material as
+preparationfor a delayed tonic articulation.6
+The initial type 1 chords of the first and third movements demonstrate
+Brahms's interest in motivic ideas that have built-in potential for multivalence.
+The absence of harmonisation is crucial to his invention of material that is less
+than clear-cut in harmonic function. Though a tonic attribution might be
+our first inclination for an opening gesture that touches on i, 2 and/or 8,
+Brahms hardly locks into a stable point of departure. Initial open-endedness
+allows him room to explore less obvious consequences of his material, which
+in turn influences our view of the original, as well as our encounters with it in
+section repeats and in rehearings.A passage that illustrates Brahms's proclivity
+for structural ambivalence, even when he is involved with more explicit type 1
+chords, is the transition of the first movement. The need for forward
+momentum makes the transition a logical place for a composer to loosen the
+control of the tonic. Though it is not unusual for the 5-6 technique to
+function in this capacity,7 Brahms's approach in the Quintet is of special
+interest, both for its internal details and for its relationship to the movement's
+thematic process. A score excerpt and two possible graphs of the passage
+appear in Ex. 9. The situation is similar to the multivalent potential of the
+main theme: the first graph interprets the F 6/3 chords in bars 23-5 as part of
+a structural tonic; the second emphasises the appoggiatura character of the
+chords in relation to the dominant. The tonic interpretation rests on our
+ability to hear an elision of the F 5/3 chord that would normally enter before a
+motion to 8. The strong cadential dominant that prepares the thematic
+entrance supports this conceptualisation; so too do the similar progressions at
+the return of the type 1 motive in bars 24, 25 and 29. What this interpretation
+says, in terms of middleground structure, is that the big opening tonic remains
+in effect all the way up to the final F 6/3 articulation at bar 29. Only after that
+point does the progression move decisively away from F and on to the V/C#
+that enters at bar 33.
+I do not include the second graph to undermine the idea that the first part
+of the transition remains under the control of the F Stufe. Rather, my intention
+is to explore the character of this particular transitional destabilisation of an
+opening structural tonic. An attribution of appoggiatura status to the F 6/3
+chords is not difficult to defend when the influence of the top voice is taken
+into account. The main melodic constituent is the DWC neighbour motive.
+Rather than hear the F bass exclusively in relation to the big opening tonic, it
+is possible to focus on a local context in which i functions as consonant
+support for the D; dissonance. The impact of the motive is so strong that it
+
+Music Analysis) 16/ii ( 1997)
+
+1))Blackwell Publishers Ltd. 1997
+
+lt
+
+s|
+|
+
+8
+
+:
+
+2+
+
+-
+
+espress.
+
+: v J vC
+
+73
+8
+
+3-
+
+2t
+
+PETER
+
+186
+
+L
+
+51
+
+3
+
+:
+
+:
+
+: :¢'
+3
+
+:
+
+p
+
+X
+
+3
+
+H. SMITH
+
+Ex.9 (a) Piano Quintet,first movement,bars 22-9
+X
+
+=
+
+^
+
+1,
+
+^
+
+r ¢
+<y:>; ¢ 1 rSr-
+
+r
+a >:
+
+r
+
+:lX
+
+-
+
+p espress.
+
+@* $ i $
+
+|
+
+2
+
+d
+
+|d
+
+J;
+
+|'
+
+z°
+
+r
+
+|
+
+d
+
+p dolce espress.
+
+.
+
+48
+
+-:1
+
+ffiS-J
+
+rl
+
+l
+
+3
+
+.
+
+l
+
+:t
+
+::
+
+P
+
+J:
+
+9tt
+
+-
+
+Z
+
+I
+
+p dolce
+
+)
+
+(l-)$t:
+
+; $
+
+E$ F $ ; $ j $
+
+S
+
+iL
+I§2V C
+
+¢
+
+$
+
+Cfi
+
+j|
+
+X
+
+/lvM7
+
+SV:
+
+\'
+
+$ ;
+
+$
+
+9
+6
+4
+V
+
+tBlackwellPublishersLtd.
+
+1997
+
+9
+5
+3
+
+_
+
+:, ! :,5
+
+:r
+
+j $ ,
+
+I
+
+_
+
+4
+
+-
+
+1
+
+-
+
+7'
+
+1
+P
+
+_
+
+9 bbbb
+
+vJ $
+
+$
+8
+
+j $ , $ .
+9
+6
+4
+
+8
+5
+3
+
+V
+
+MusicAnalysis:, 16/ii (1997)
+
+187
+
+AND
+BRAHMS MOTIVIC6/3 CHORDS
+
+Ex.9(b)
+
+Q25)
+
+r r-
+
+,:) bi
+
+8 6 etc.
+
+6
+
+-
+
+L_
+
+'-
+
+r
+
+r
+
+b
+
+i
+
+v
+
+i
+
+v
+
+i
+
+-'
+
+7 6
+
+6
+
+6
+
+7 9
+
+- -J^><
+
+ll-
+
+$ $ '-hwr
+6
+
+Ex. 9(c)
+(23,
+
+v
+
+i
+
+v
+
+i
+
+:
+v
+
+feeling of local
+gives the end of the bar, in both the top voice and bass, a
+first
+The controlof the dominantincreaseswith the shift from the
+stability.
+supportfor the
+inversionC triad to root positionin bar 24. We find further
+repetition at bar 27. As
+idea of dominant prolongationin the phrase
+doubts about
+annotationsin Ex. 9a show, Brahms does away with any
+part of two 6/4 to
+the
+harmoniccontroland reharmonises neighbourDSsas
+5/3 motionsoverthe dominant.
+seen
+A tendencyto resetmotivic6/3 chordswithindominantprolongation, are
+bolstersthe idea thatthe sonorities
+in both the firstand thirdmovements,
+importance
+is
+agents of cyclic unity. Another uniifyingcharacteristic the 7b - like
+the chords.Ex.
+embeddedwithin
+Brahmsassignsto the submediant
+as
+of the scherzo - treats the submediantarpeggiation
+our initial analysis
+achieves
+incidentalto a 5-6 motion. Yet here too the apparentsubmediant
+A
+listeningperspective.
+when heardfroman alternative
+harmonicsignificance
+minoras
+of
+statusfor VI beginsto emergeat the arrival C#
+moreindependent
+MusicAnalysis,16/ii (1997)
+
+t
+
+Blackwell Publishers Ltd. 1947
+
+PETER H. SMITH
+
+188
+
+Ex. 10
+
+S WV °
+
+i
+
+C
+
+vi;-W
+
+1st
+
+2nd
+
+glp.
+
+11 -°
+
+iv
+
+v S-X
+
+Dev. Retrans.
+
+grp.
+
+the exposition's second key (bar 35). The return of the neighbour motive - at
+the new 8-8-8 level and in both the top voice and accompaniment encourages a connection with the opening. The process continues with the
+shift to Db major for the closing material (bar 74). To some analysts, these
+motivic connections might seem fairly straightforward.Yet a sceptic might
+argue that it is one thing to relate the secondary key to the Db neighbour, but
+quite another to assert a connection with the Db arpeggiation in bar 1; to hear
+the arpeggiation as a VI chord is to sever the material from its tonal context.8
+My response to this objection is twofold. First, we must recognise that even an
+interpretationthat limits the motivic connection to a relationship between the
+neighbour and the tonicisation has partially to ignore tonal context. As Ex. 10
+shows, the Db of the second key is part of a motion that descends in thirds
+from the tonic; it is not an enlarged neighbour. Second, Brahms connects the
+tonicised Db with the Db arpeggiation, at the exposition repeat. Ex. 11 traces
+the process, starting from the final cadence of the second group. An important
+feature of the first ending is the F-GEAS fragment in bars 91a-92a. The figure
+partly adumbratesthe modulation back to F, as does the 6/4 chord that results
+from the bass motion to C in bar 94a.9 But the persistence of the Db tonic
+makes it possible to hear the Gh as a raised 4. Thus, when the fragment is
+reincorporatedinto the main theme at the repeat, it is not a decisive indication
+of tonic return.l° Indeed, the new Db pickup at the close of the first ending
+connects to the Dbsin bars 1-2. The result is a submediant bass as support for
+the F and ASof the polyphonic melody. A motivic 6/3 chord, whose status as
+an inversion might otherwise seem tenuous, is revealed to be the source for the
+Db tonicisation. The similarity of this passage with the crossover from the
+Andante into the scherzo is unmistakable.
+These excerpts make it clear that the interconnection of type 1 motives and
+the submediant is a characteristic shared by the first and third movements.
+The Andante and the finale also join the process of cyclic unification through
+Db
+emphasis on the submediant. In the f1nale,the situation is straightforward:
+group of the exposition (bars 62-7), as
+tonicisations appear within the first
+part ofthe development (bars 206-14), and as the point of departure for the
+
+(g)Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+|
+
+j|,.,
+
+@
+
+@:
+
+P
+P
+
+$
+
+A
+
+;
+
+=
+
+e
+
+9|: P
+P
+.
+
+P
+
+-
+
+:
+
+11
+
+S:t
+P
+
+i
+
+A
+
+|:
+
+A
+
+I
+
+I
+
+riten.
+
+9
+
+=
+
+¢8
+
+o
+
+AND MOTIVIC6/3 CHORDS
+BRAHMS
+
+189
+
+Ex. 11 Piano Quintet,firstmovement,lead into expositionrepeat
+
+1;Xt0 J.ils J ; Jls ; S Jls ; - I - I - I 1
+JI$ J ; l$ ; $ l$ - l$ $ l$ - t$ $ I
+
+X $ Nd
+
+|
+
+| @$ ;91$ S Jlt; $ ;1$;
+Db
+
+3
+
+j1X $ b 9; $ h ¢ $ w
+@
+
+$
+
+d
+
+$
+
+i
+
+j
+
+:
+
+$
+
+S
+
+;
+
+A
+
+4
+
+5
+
+5
+
+6 -7
+
+}
+
+$
+
+S
+
+:T
+
+$
+
+t
+
+f
+
+r$
+
+r
+
+f
+
+t
+
+.
+
+I---------------
+
+I
+
+V
+
+[Vii7]
+
+A
+
+h
+
+tW:
+t
+
+;
+.
+
+D;:
+
+- 1$; $ Jlt J 1:; ;
+
+A
+
+P
+
+/ l,
+
+$
+1 J $ JI
+
+JIt J t JI$ J I$ 1 $ t
+
+: X[$ Wd
+
+|8@$
+
+,,
+
+.
+
+.
+
+(9)
+
+(3
+
+litun
+
+o
+
+o
+187it
+
+11
+
+;-
+
+-
+
+|
+
+-
+
+| @¢ j S ^1if2IJ-f2Izrt
+
+l l,
+
+@$
+
+d
+
+{
+
+-
+
+|
+
+_
+
+;I S
+
+$
+
+r
+
+IJ
+r r 5DLSI 7 rXr If r! Cr! _r1a *
+--I
+F:
+
+VI
+
+16/ii
+MusacAnalysas, (1997)
+
+t Blackwell Publishers Ltd. 1997
+
+PETER H. SMITH
+
+190
+
+coda (bars 342-9). All three locations closely integrate VI with the tonic key.
+The nearness of the tonic keeps the origin of the submediant alive, despite the
+absence of type 1 motives.'1 The Andante, like the scherzo, transposes the
+motivic third relation to accommodate a new tonal centre. Its middle section
+(bars 35-55) is in Ehmajor, the flat submediant in relation to the movement's
+A; major tonic. One possible motivation for the large-scale mixture is a desire
+for a parallelismwith the original tonic-submediant relationship.The A; tonic
+itself takes on a submediant function, when it carries over into the opening of
+the scherzo, as previously outlined in Ex. 6. Special features of the scherzo's
+coda join this ASlink to help articulate the I-III-V-I key scheme of the cycle
+as a unifsed progression. Ex. 12 reproduces a representative excerpt. The
+passage is noteworthy for both the major version of the C tonic and the return
+of the motivic 6/3 chord at its original transposition level. The combination of
+these characteristicsmakes the C tonic begin to sound like a dominant. The
+new tonal orientation anticipates the return of F minor for the f1nale - a
+continuity not unlike the earlier pivot function for AS at the crossover into the
+scherzo. In addition to this prospective connection, the coda intensifies the
+links between the scherzo and the first movement. This is most obvious in the
+shift back from C 6/3 to F 6/3 chords. But a connection with the f1rst
+movement is also encouraged by emphasis on the semiquaver fragment from
+the scherzo's second theme. The motive is marked with an X in Ex. 12. A
+Ex. 12 Piano Quintet, scherzo,bars 176-80
+x
+
+(I769
+
+08(N
+
+} :' '=;
+
+,S,
+I , ;>C:C IY
+
+Iof
+
+C C:Ij
+AdWe.2f C:b;
+|l X tCC= Cl Frr ;Q;:rl4'
+
+Ib
+
+5Oi l
+
+9X S1R;ff
+
+21X5V$
+11t :
+g
+
+$ v
+$
+
+$
+
+Blackwell Publishers Ltd. 1997
+
+V
+
+ADXt
+,;, ff ,4CJFqpqA
+Music Analysis, 16/ii ( 1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+191
+
+glance back at Ex. 9a reveals the original source for the material:the transition
+of the first movement, a passage similarly dominated by F 6/3 chords. The
+connection throws light on our earlier debate about harmonic control in the
+transition. The dependence, in the scherzo's coda, of F 6/3 chords on the C
+major tonic retrospectively supports Ex. 9c's interpretation of type 1 motives
+as appoggiaturasto the dominant.
+
+The A major Violin Sonata, Op. 100
+The prominence of D; as a key area in the Quintet provides a good example of
+the relationship between motivic 6/3 chords and tonicisation. The situation is
+noteworthy for the link between the DS key and the type 1 motive, at the
+exposition repeat in the first movement. Brahms has other, more direct means
+of connecting type 1 chords to tonicisations. The second movement of the A
+major Violin Sonata provides an example of a more straightforward
+relationship.12 The movement alternates between an Andante tranquillo
+section in F major and a contrasting Vivace section in D minor. The form of
+the whole articulates an AB-AB-AB pattern. Brahms achieves tonal closure by
+transformingthe final B statement (bar 162) into a cadential flourish in F; the
+material functions as a coda, ratherthan as a fully-fledged return. This closing
+section, however, is hardly a simple confirmation of a harmonicfait accompli: it
+resolves a tonal dialectic between F and D in which a motivic 6/3 chord plays a
+central role.
+The ambivalent relationship of F and D is partly a result of the absence of
+transitional passages to connect the keys. Score annotations in Ex. 13 outline
+Brahms's main method of modulation. In the final bars of the A section, the
+fifth of the closing F tonic moves to a sixth to yield a type 1 6/3 chord. The
+Vivace simply inverts the triad to root position and proceeds in D minor.
+Given its temporal priority, we are likely to assume that F is the tonic for the
+movement as a whole. As the alternation between the keys continues, however,
+F and D acquire the characterof a third-relatedpair in stasis: it is not entirely
+clear which tonic will take precedence. Brahms exploits the issue to create
+momentum across a formal scheme that otherwise might tend toward
+excessive sectionalisation.
+A factor that contributes to the conflict between tonics is the motivic and
+harmonic continuity at the onset of each section. Brahms uses his
+to
+KnupfFechnik complement the abrupt modulation at the entrance of the B
+material:the head motive of the Vivace theme is an embellished version of the
+violin's A-D fourth in the final bar of the A section (Ex. 13). The
+sophistication of the linkage includes a reversal, across the entrance of bar 17,
+of the A section's 5-6 motion. From the perspective of a passage in D minor,
+there is nothing extraordinaryabout this voice leading, nor about the emphasis
+
+Music Analysis, 16/ii ( 1997)
+
+g
+
+Blackwell Publishers Ltd. 1997
+
+{D
+
+dim.
+l
+
+l
+
+S-
+
+_-
+
+192
+
+vivace
+1lle
+
+PETER
+
+l
+
+l
+
+t
+
+P
+l
+
+K
+
+=
+
+H. SMITH
+
+Ex. 13 Violin Sonatain A major,Op. 100, second movement,bars 14-19
+
+S
+
+vivace
+
+(C
+tI
+
+t
+
+gr
+
+I , )
+
+,1< -;;-;;
+1 2 :1 .
+
+D
+
+|| b 4
+
+.
+-; i
+
+-
+
+_
+
+b3P n7(r,le¢iel*
+*
+;5
+g
+C
+
+I
+
+I:
+
+;
+r :,t;
+
+:;
+
+;<
+
+f;
+
+%
+
+(6-7;
+
+P
+
+5
+
+6
+
+F: I
+
+(VI 6 )
+- .
+
+(Vl 6 )
+D: i 3
+
+III
+
+Vt
+
+on the resulting F major chord; the mediant is part of a standard I-III-V# bass
+arpeggiation. For this particular movement, however, the situation has
+enormous significance: it initiates a pattern in which the tonic of one section
+overflows into the beginning of the next. At the entrance of the B material this
+might not seem so unusual; at that point in the form, F has been established as
+a clear tonic, presumably the tonic for the movement as a whole; a slight
+weakening of the type-l-derived D minor only seems to confirm what we have
+assumed to this point. But at each of the two returns of the Andante material,
+D remains in force - not as a colouration of a new key like the F mediant in
+the Vivace, but as an unambiguous tonic. The first A return (bar 72)
+replicates, in D major, bars 1-5's modulation from tonic to dominant, before it
+reintroduces F. The second return (bar 150) heightens the ambivalence
+between F and D by alternatingbetween the keys: initially, D sounds as tonic
+(bars 150-51); then the tonal focus briefly shifts to F, before V/D enters in the
+second half of bar 153. The passage summarises what has become a tonal
+issue for the movement as a whole, with one crucial difference: D is placed in
+the superior position in the alternation. It seems as if Brahms is beginning to
+favour the tonality that derives from the type 1 motive. The intuition continues
+even after F emerges at bar 155 as tonic for the conclusion of the second A
+return: when Brahms articulates the motivic 5-6 motion one last time (bars
+160-61), it is hard to resist the thought that the pendulum is about to swing
+back at the last moment in favour of D. Not until the coda, where the Vivace
+
+t)Blackwell Publishers Ltd. 1997
+
+MusicAnalysis, 16/ii ( 1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+193
+
+certainwhichtonic will win
+materialis takenoverby F, can we be absolutely
+out.
+
+The F minor Clarinet Sonata, Op. 120 No. 1
+betweentype 1 chordsand key areasin the Quintetand the
+The relationship
+tonicisationshifts
+Violin Sonatainvolvessituationsin which the submediant
+the motivic sonority into root position. The connection of chord to key
+the
+demonstrates potentialfor a composerto drawharmonicconsequences
+as
+froma sonoritythatis often described linearin originand function.A more
+unusual example of a dichotomy between linear origins and harmonic
+the
+is
+consequences the rareoccasionin whichBrahmsmaintains 6/3 position
+the
+a
+of a type 1 chordeven afterhe has used it to generate key.Perhaps most
+instanceis the first movementof the F minor ClarinetSonata.A
+spectacular
+of
+featureof the movementis the tonicisation a motivic6/3 chord
+remarkable
+exposition(bars38-52). Ex. 14 outlinesthe
+as the second key in a three-key
+middlegroundcontext for the tonicisation.The tension between harmonic
+autonomyand linear derivationis extreme:within the middle key, the 6/3
+tonic; from a middleground
+chord functionsas an inversionof the local DlR
+on the F tonic 5/3. The secondkeyis partof
+it
+perspective remainsdependent
+Ex. 14 Tonicisationof D; in ClarinetSonatain F minor,Op. 120 No. 1,
+first movement
+5
+
+bars:
+
+12
+
+25
+
+3233
+
+46
+
+38
+
+53
+
+6
+C: WII
+i s
+
+Key Areas: F minor
+
+MusicAnalysis,16/ii (1997)
+
+Vh
+
+i
+
+(VI) 6
+
+IIb
+
+V
+
+D; major
+
+C minor
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+;
+
+/lt)@
+
+194
+
+r C X
+
+le
+
+°;
+
+-tt
+
+PETER H. SMITH
+
+an enlargement, within a single F Stufe,of the foreground 5-6 motions that
+give rise to motivic 6/3 chords at bars 6 and 26. As in the Quintet, emphasis
+on the submediant originates in an unharmonised Db neighbour in the very
+opening bars (Ex. 15). Indeed, the scale pattern of the entire initial phrase,
+with its adjustment of 2 to GS, anticipates the move to Db.'3The situation is
+also remarkable for the pivot function of the Db area: the subsequent
+modulation to C minor (bar 53) hinges on a reinterpretation of the F 6/3
+chord as a Neapolitan to the dominant.
+Ex. 15 ClarinetSonatain F minor, openingbars
+A
+
+A
+
+A
+
+Allegro appassionato
+Klarinette in B
+
+p¢is
+
+>
+
+3
+
+1
+
+>
+
+_
+
+[
+
+_
+
+_
+
+/,,,(,,f
+Allegro appassionafo
+
+81i@3('t-tKlavier
+
+1){)({)
+f
+
+bi
+
+a
+
+;J':\'-'1J:
+
+0
+
+$
+
+i
+
+X
+
+P
+
+The influence of the motivic chord on the Sonata's tonal scheme extends
+beyond the exposition's middle key. The submediant reemerges with greater
+harmonic independence in the development. The climactic arrival at bar 120
+articulates the root position submediant as tonic for a passage in C# minor.
+The shift back to the major submediant at bar 129 facilitates the recapitulation
+of the movement's opening phrase in the Neapolitan at bar 130. The F# minor
+return of this material is an outgrowth of the GS in bar 4; the result is an
+overlap between the development and the recapitulation. Despite the change
+of key, however, the submediant remains the prolonged harmony; C# is
+rearticulated at bar 134. The connection between the development's
+submediant and the exposition's F 6/3 chords is clarifiedby the voice exchange
+that follows. Fig. 1 outlines the process. The motion from VIF# to the 6/3
+position at bar 136 corresponds with a respelling of the C# chord as Db. From
+there, Brahms simply reverses the motivic 5-6 voice leading to reintroduce the
+tonic and main theme at bar 138. He then immediately returns to the 6/3
+chord as the theme continues with its original 5-6 motion.'4
+The Clarinet Sonata demonstrates that harmonic consequences of motivic
+6/3 chords need not be limited to tonicisation; type 1 motives can take on any
+
+1:¢
+Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+Fig.
+
+195
+
+1
+
+C
+
+C
+
+DSF;
+
+FWDS
+
+F
+
+F DS
+
+DS
+
+F
+
+F
+
+S
+
+VI6
+
+i5
+
+i5
+
+VI6
+
+VI S
+
+of the functions associated with the submediant To summarise: the movement
+includes not only tonicisations of VI, in both first inversion (exposition) and
+root position (development), but also a reinterpretationof the type 1 motive as
+V/bII (development) and as a large-scale Neapolitan in the dominant key
+(exposition).lf The V/;II usage points to another common function for the
+submediant: the potential for the chord to link semitonally related keys via
+either the familiar V7/German sixth equivalence or - as in the Clarinet Sonata
+- a similar procedure more intimately connected to the motivic structure of a
+movement. (As we have seen, the FFFF modulation at the recapitulation
+hinges on a reversal of the characteristic 5-6 voice leading, rather than on
+resolution of V7/F# as a German sixth chord.) Regardless of the modulatory
+details, however, it is clear that key relation by semitone is an important
+characteristicof the Sonata. The prominence of semitone relations marks the
+movement as an example of what one recent commentator has labelled the
+Neapolitan complex.l6 The idea of a Neapolitan complex is relevant because
+there is a strong correlation, in Brahms, between motivic 6/3 chords and tonal
+schemes that focus on semitone relations. Though analysts have long
+recognised the importance of the submediant for the Neapolitan complex,l7
+the special case in which the crucial VI harmony originates in a type 1 chord
+has yet to be explored. We will continue to see the tendency for type 1 motives
+to function as part of an emphasis on semitone-related keys in our final two
+examples of type 1 usage: the C minor String Quartet and the Horn Trio.
+
+The C minor String Quartet, Op. 51 No. 1
+Up to this point, we have observed situations in which type 1 chords are
+consequential for the key scheme of a single movement. The C minor Quartet
+provides an example of a motivic 6/3 chord that blossoms into the tonic for an
+entire later movement. The type 1 motive enters at the very outset of the cycle.
+As outlined in Ex. 16, the context is noteworthy for penetration of the motive
+into multiple dimensions, almost to the point of saturation.l8Unlike the Piano
+Quintet and the Clarinet Sonata, the first movement avoids tonicisation of the
+
+MusicAnalysis,16/ii (1997)
+
+g
+
+Blackwell Publishers Ltd. 1997
+
+PETER
+
+196
+
+H. SMITH
+
+No. 1, firstmovement,openingbars
+16
+Ex. StringQuartetin C minor, Op. 51
+
+|
+
+iJS d
+
+b2
+
+W
+
+....
+
+|
+
+o
+
+d
+
+nbt3 0iJJ?2
+v-f\Fy
+K
+
+!d
+
+j
+
+tJ.
+
+2
+1. d
+
+$
+
+t
+v
+t ot ot ot zt
+
+d j
+
+f t
+
+lJor t- :(t)
+
+:
+
+<
+(}(9Ct
+
+5
+
+. ,,i3_ ,
+
+!
+
+!
+
+t
+
+lt
+'r: :48:8 :r7F: r2CtPt$; $_ =
+
+>4
+
+2l§;ib ' 4r
+
+,
+
+.\
+
+_
+
+Allegro
+
+*
+f
+
+}
+
+)
+
+; ; e 4
+: : :
+
+-\d
+
+P ;
+
+P
+
+a
+'-t
+f,}
+
+:
+
+C$
+
+:
+
+f
+
+J
+
+6
+
+ASa tonic (Ex. 17). The
+Brahms waits until the Romanze to make
+submediant;
+choice of key is confirmed by thematic
+of
+influence the motive on Brahms's
+A; chord and the same rising
+note the 6/3 position of the opening
+quotation:
+the main theme of the first
+(violin 2) and dotted rhythm that characterise
+third
+1 motive into a type 2
+The A; key transforms the original type
+movement.l9
+different form of the tension
+The shift in status reflects a somewhat
+harmony.
+function that we observed in the
+between linear origin and harmonic
+is
+the Sonata, the tonicised F 6/3 chord
+expositionof the Clarinet Sonata. In
+middleground
+D; key area; in terms of
+heardas an inversion only within the
+opening F tonic. By contrast, the C 6/3
+voiceleading, it is an offshoot of the
+A;
+an inversion in relation to an overall
+harmonyof the Romanze functions as
+by
+motive of the first movement - and
+tonic; the connection to the type 1
+extenssonto ltS _ m1nortonsc -1S assoczatsve.
+in the Romanze is a delay of a
+One consequence of the thematic quotation
+Even there Brahms avoids repose and
+root position tonic until bars 19 and 22.
+motion toward closure. In the end, he
+absorbs the 5/3 chords into the final
+dominant in bar 24 remains unresolved,
+withholds the closing tonic itself; the
+into the middle section (bar 27). The
+and the brief transition that follows leads
+a bit of the restlessness of the first
+absence of tonal anchors maintains
+atmosphere. Indeed, the function of
+movement, despite the newly serene
+articulation contributes to the cyclic
+motivic 6/3 chords to delay tonic
+for tonal instability is hinted at from
+integration of the Quartet. The tendency
+emphasis on the type 1 motive in the
+the outset of the first movement. The
+characterof the material (Ex. 16).
+opening phrase contributes to the anacrusic
+tonic, the weight of emphasis
+Though the phrase departs from a structural
+bar 7. Brahms heightens the instability
+falls on the half-cadential dominant in
+.
+
+t
+
+.
+
+_
+
+*
+
+Blackwell Publishers Ltd. 1997
+
+.
+
+.
+
+.
+
+.
+
+MusicAnalysis, 16/ii (1997)
+
+y
+
+lMb
+
+-0
+
+R
+
+X
+-
+
+..
+
+X
+
+-
+
+i
+
+<
+
+-#
+
+I
+
+1
+
+1
+
+1#
+
+17
+
+-
+
+BRAHMSAND MOTIVIC613 CHORDS
+
+197
+
+Ex. 17 StringQuartetin C minor, Romanze,openingbars
+
+^
+
+Romanze
+Poco Adagio
+LI
+
+'^Zb
+
+h
+
+e
+
+/
+
++
+
+47
+
+l
+
+X
+
+l
+
+l
+
+}
+
+#-'
+
+X
+
+X
+
+j
+
+j
+
+. }
+
+p esrvl
+ess
+i;+
+
+3 JJ
+
+;_;ZJJ
+
+:
+
+P
+
+8@3S1>
+
+1vL
+
+S ,<r
+
+rr 57
+
+9;i3
+
+gg-}
+
+:
+
+J9r C
+
+p
+
+at the recapitulation (bar 135), where the C 613 chord replaces, rather than
+grows out of, the tonic 5/3. The result is that there is no tonic rearticulationat
+the beginning of the reprise. Instead, the imperfect cadence at the end of the
+main theme initiates the structuraldominant for the movement as a whole. Ex.
+18 outlines the middleground significance of this dominant articulation. The
+expansion of the 6/3 idea at the beginning of the recapitulationparticipates in
+a delay of tonic return all the way to the point of closure at bar 216.2°
+Ex. 18
+(32)
+
+(75)
+
+First
+Group
+
+Second
+Group
+
+9A
+
+Dev.
+
+11
+-
+
+-
+
+-
+
+(216) (224)
+
+(I73)
+
+(I37)
+
+First
+Group
+
+Coda
+
+Second
+Group
+
+r -. - oO
+
+11
+
+r
+
+@
+
+2
+
+-v *
+
+6
+
+i
+
+III
+
+W
+
+v
+
+F
+
+i
+
+A preoccupation
+with tonal delayscoloursthe finale as well. A numberof
+commentators
+havenoted similarities thematiccontentand formalstrategy
+of
+in the first and fourth movements.2l
+What has not been recognisedis the
+importanceof motivic 6/3 chordsin creatinga sense of dejavu as the finale
+unfolds.A connectionwith the firstmovementis signalled the sametype of
+by
+thematicquotationthat occursin the Romanze(Ex. 19). Transposition the
+to
+subdominant
+levelallowsthe motivicideasto functionas a bridgebetweenthe
+Music Analysis, 16/ii (1997)
+
+t) Blackwell Publishers Ltd. 1997
+
+198
+
+PETER
+
+H.
+
+SMITH
+
+F minor Allegretto and the finale.22The link between the movements is
+immediately followed by the first tonal delay: motivic 6/3 chords at bars 3 and
+15 prevent resolution to an opening structuraltonic. The tonic does not enter
+until bar 21, and even there the resolution is weak; continued thematic
+instability defines the cadence as an anticipation of the rock-solid tonic that
+finally enters at the structural downbeat of bar 33. As we shall see, Brahms
+takes advantage of the emphatic character of this articulation in the
+recapitulation,where the material marksthe structuralclose.
+Ex. 19 StringQuartetin C minor, thirdmovement,closingbars;finale, opening
+bars
+Allegro
+,^1l:
+
+bbbw;,
+
+_S
+
+Lt
+
+rj,
+
+I
+
+4
+
+.
+
+C;S
+X
+
+t b
+¢
+
+V$ 3 V y
+pizz.
+
+I \
+
+I
+
+H
+
+I i
+
+I
+
+'I
+
+,
+
+r$
+
+o
+
+f
+
+'
+
+FW
+
+,
+
+g
+
+'I
+
+t
+
+'I
+
+_
+
+r
+
+C Wr
+
+X sJ;
+
+i¢'nf;0C-$
+
+t::$ 03'r:
+,
+
+,_
+
+_
+
+*
+
+E
+
+tfo
+
+_
+
+r.
+
+,,
+
+-
+
+;_'
+hS1'
+
+Xr
+E
+
+trl
+
+:
+
+0-
+
+/).)(o f
+
+pizZ.
+
+gSbb7
+
+hS
+
+;::
+
+v
+
+|gibe
+
+t7
+
+11>94¢ gf;
+
+5
+
+;-
+
+0
+
+t;
+
+-
+
+'
+
+bJ
+
+pn
+
+r
+
+°
+
+g
+
+r
+
+2
+
+s
+
+i
+
+;
+
+The finale, like the first movement, responds to an unstable main theme
+with an extensive delay of tonic rearticulation at the recapitulation.23 is
+It
+appropriate first to comment on the similar key schemes of the two
+development sections. Both developments centre around A minor and C#
+minor. The type l motive plays a crucial role in the Neapolitan tonicisation of
+each, similar to the situation in the development of the Clarinet Sonata.24In
+the first movement, the motion to C# grows out of the 5-6 step sequence in
+bars 108-l l. Ex. 20 provides an analysis of the modulation and highlights a
+motivic connection with the type l chord of the main theme. The recall of the
+opening phrase allows us to hear the G# dominant of bar l l l as a
+reinterpretationof the original C 6/3 sonority. The new harmonic orientation
+for the triad is solidified by the shift to root position for the cadential
+dominants of bars l l 5, l l 7 and l 2 l . In the finale, the connection of VIC#with
+the C 6/3 motive is more direct. The type l harmony dominates the rondo
+refrain that follows the exposition (bars 94-lOl). Brahms simply shifts the
+triad into root position and respells it as G# to lead into the Neapolitan at
+
+It Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii ( 1997)
+
+l§###
+C\*Z
+
+;
+
+..
+
+->
+
+SIL
+
+.
+
+nS
+
+r pt
+.
+
+/
+
+l
+
+I
+
+f
+
+7-7C-:=
+
+>_
+
+-
+
+-
+
+./-
+
+2
+
+Dr
+
+2 S#fL-#f
+
+#'I
+
+,
+
+l
+
+e;;e
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+199
+
+Ex. 20 StringQuartetin C minor, first movement,bars 108-15
+L__;__
+
+ite
+
+'D
+
+e
+
+-
+
+'111
+-
+
+_
+
+W
+
+4
+
+'u
+
+:
+
+L
+
+I ;
+
+6
+
+:
+
+L_4z
+
+IL
+
+: ::
+
+-
+
+>
+
+DD
+
+Ll r
+
+81;l 1 &
+
+Illr
+
+f L
+
+>
+
+<:
+
+e#W#
+
+-g
+,
+
++-7
+1"-
+
+P
+
+####
+
+<
+
+5
+
+.;': 1f 8 -;t
+5
+
+6
+
+-
+
+####
+
+6
+[C4-E;-A; 1 = [B -D
+
+4
+
+] = V/C
+
+,
+
+p(l-es(.
+| #8
+
+-
+
+1ji#; tt
+
+tt
+
+tt
+
+LL L
+
+z
+
+"
+
+7
+
+LL
+
+o
+
+k
+11
+
+r
+
+j
+
+D#J
+-t
+
+>
+
+tt-ttXf5t2Stt torl 1z1
+
+l l l l l l l l
+
+f
+
+I
+
+WI
+
+<
+
+i t XL j r a rrE f SSSs ] i1 11 ILIrr' J-
+
+(les.
+
+1;
+
+ls
+
+5:!
+
+rJr1?r
+
+ll"et'tiltT i lt-tX
+p
+
+::
+
+;
+
+1
+
+_TL
+
+p
+
+_
+
+,i
+
+(7es(o.
+
+/o-
+
+_
+I
+
+,
+
+g
+
+r
+
+I
+
+I
+
+f)
+
+I
+
+z
+
+11
+
+1}
+
+_
+
+6
+v
+
+FII
+
+bar 102. The tonicisationof bIIgives way almost immediately A minor,
+to
+which enters decisivelyat bar 110 and continuesinto the thematicreturnat
+bar 124 (= bar 33). The absence of tonic return at bar 124 initiatesthe
+recapitulation's
+tonal delay.The emphasison A minorprovidesBrahmswith
+the opportunityto present the repriseas a sequence of the exposition:the
+expository
+keysof C minorand Ebmajoraretransposed the A minorand C
+to
+majorlevels,respectively. sequenceallowsthe expandedfinalrefrain(bar
+The
+192) to receiveformal justification the unit responsiblefor restoringthe
+as
+minor mode. The refrain also has the even more essential function of
+
+MusicAnalysis,16/ii (1997)
+
+t) Blackwell Publishers Ltd 1997
+
+200
+
+PETER H. SMITH
+
+articulatingthe return of the tonic chord itself, since the second key area (bars
+141-91) prolongs V/C.25
+The situation sets the stage for an apotheosis of the idea of type 1 chords as
+agents of tonal delay. The final refrain continues to subvert potential points of
+resolution by means of the type 1 motive (bars 202-3 and 221-4). But now it
+is not a matter of delay simply within the main theme; the dominant
+prolongation extends the delay that stretches across the entire recapitulation.
+This is where we see the main theme's structuraldownbeat reinterpretedas an
+agent of tonal closure. Brahms approaches the closing tonic of bar 231 with
+material analogous to the counterstatement of the opening idea (bars 15-20 =
+bars 225-30). In the exposition, the cadential progression at the end of this
+formal unit resolves weakly, as previously described. At the end of the
+movement, Brahms takes advantage of the cumulative character of the
+cadential material, but he provides a conclusive resolution immediately, by
+proceeding directly to material analogous to bar 33. A fourteen-bar tonic pedal
+leaves no doubt that we have finally arrivedat our long awaited tonal goal. It is
+interesting to note that Brahms is unable, even at the decisive arrival (bar
+231), to resist motion to AN.In this context, though, 8 clearly functions within
+tonic expansion. The cadential phrase similarly injects an element of motivic
+discharge. The final motion to closure touches on an augmented sixth chord
+(bar 229), a factor that is in itself unremarkable. But within a movement indeed within a cycle - that is so tightly integrated motivically, the chord can
+be heard as a transformation of the type 1 idea.26 Brahms 'liquidates' a
+characteristicfunction of his motive - its tendency to delay tonic articulationin favour of generic identity within a standard cadential progression.
+
+The El7
+major Horn Trio, Op. 40
+Our final type 1 example, the finale of the Horn Trio, introduces a new
+context into the discussion: the 6/3 chord enters in bar 46, just after the bifocal close of the main theme (bar 43); the sustained bass is 8 rather than i'.
+The passage demonstrates the potential for a type 1 chord to function in a
+major-mode sonata form; up to this point, all sonata form examples have been
+in minor. The formal outline in Table 2 will facilitate discussion of the type 1
+motive as it reappears in different guises throughout the second group. The
+motive and its transformations are again central to the delay of a structural
+harmony, in this case the tonicised dominant. As the graph in Ex. 21
+illustrates,a middleground B; chord does not enter until the structuralclose of
+the exposition (bar 83). The context for the entrance of the motive at bar 46 is
+similarto the opening of the Piano Quintet's scherzo: there too a motivic 6/3
+chord enters after reiterations of an unharmonised bass. (Other similarities
+include the subsequent pedal function of the bass, the expression of the
+' Blackwell Publishers Ltd. 1997
+
+Music
+Analysis, 16/ii (1997)
+
+lpXR ^ tOr*,JiJ8(te
+o 2
+;ffi<J^,.
+. ,IX,,,(,)o
+
+[>
+
+<
+
+<
+
+,.
+
+- -* ,i,
+,,g,,*.',
+<
+
++0
+
+;^b14'> tJH
+<:-°
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+201
+
+Table 2 Horn Trio in ES,Op. 40, finale:formaloutline of second group
+FirstPart
+
+SecondPart
+
+closingmaterial
+
+bi-focal first
+second
+first
+second
+close
+subphrase subphrase subphrase subphrase
+bar43
+45-52
+53-67
+67-74
+75-82
+83-91
+
+Ex. 21 Graphof Horn Trio in ES,Op. 40, finale,bars 1-83
+
+3
+
+^
+
+4th prg. (B-
+
+A4- Gh - F)
+
+I
+
+IIh
+
+V
+
+motivic chord as an ascending arpeggiation, and the 6/8 metre.) The
+difference here is that the implied B; 5/3 chord is major. The shift to D; and G;
+produces an apparent WVI
+chord that is analogous to the type 1 motive in the
+Quintet, as well as in our other minor-mode examples. As the analysis
+proceeds, it will become clear that this particularform of the 5-6 technique the pairing of major triads whose roots are a major third apart - has important
+mot1v1c
+consequences.
+Throughout the first subphrase (bars 45-52), all aspects of the tonal
+structure define G; as a neighbour to F. The linear character of Wg
+denies the
+6/3 chord status as an inversion. The tonicisation of the submediant within the
+second subphrase (bar 55), by contrast, allows the apparentWVI resonate in
+to
+the harmonic dimension. The motion to Ahin the bass changes the motivic
+sonority to minor. (The shift to double mixture motivates the spelling of bars
+55-60 in F#minor.27) noteworthy aspect of the passage is the contribution of
+A
+the bass to oche
+duality of linear and harmonic tendencies for the type 1 motive.
+At the very point that Ngbegins to have harmonic influence, the lower voice
+shifts to a linear orientation:the Ahinitiates a bass passing motion to F (This is
+.
+
+.
+
+MusicAnalysis,161ii(1997)
+
+t) Blackwell Publishers Ltd. 1997
+
+202
+
+PETER H. SMITH
+
+the fourth progression labelled in the graph). The combination of Blw
+mobility
+and DIG; invariance retrospectively affects our interpretation of the original
+type 1 chord. Prolongational hearing defines the original and tonicised 6/3
+chords as distinct entities: the first results from the 5-6 technique, the second
+from a passing motion in the bass. Associative hearing, by contrast, permits an
+identity relationship: though the bass Blw
+and Ah have distinct voice-leading
+functions, they hold analogous positions within the same motivic triad.
+Through a kind of interpretativetransitivity,the initial 6/3 chord shares in the
+new harmonic status of F#/GS: Blw = Ah6/3 with a shift in quality, and Ah
+if 6/3
+6/3 = inversion of a local F# tonic, then it must be possible - at least partly and
+in retrospect- to hear Blw as an inversion with G; as root.
+6/3
+Following the F# tonicisation, the second group temporarily turns away
+from the type 1 chord. The influence of the motive is limited to repetitions of
+its 8Ag neighbour until the final approach to closure. (A good example of the
+independence of the neighbour from its original harmonisation is the GWF
+alternation in the top voice of bars 61-3; another is the enlarged major version
+of the 8-8-8 figure that follows immediately after the arrival on IIqat bar 67
+(Ex. 21).) Not until the final subphrase (bars 75-82) does the 8Ag constituent
+reconnect with the type 1 motive. Up to this point, the harmonic influence of
+the 6/3 chord is limited to the F# tonicisation. The closing passage introduces
+two additional harmonic functions. The GSneighbour appears, expanded and
+in the bass, as support for a progression centred around the V7/German sixth
+equivalence. This is another example of the potential for a type 1 motive to
+connect semitone-related keys, as seen in the Clarinet Sonata and the String
+Quartet. In the first part of the passage (bars 75-8), the root position version
+of the motivic chord functions as the dominant of BFminor. The second part
+(bars 79-82) reinterprets the harmony as a German sixth in Bl>. The
+augmented sixth prepares the return of the middleground IIq, which finally
+resolves to the long awaited Blw
+structuralharmony. The absence of a dominant
+5/3 chord between the cadential 6/4 and the Blw
+tonic (bars 81-3) creates a
+direct connection between resolution of the motivic harmony and arrivalat the
+tonal goal.
+As in our other examples, the influence of the type 1 motive extends beyond
+the confines of any single formal section. The retransition(bars 143-68) is one
+area in which the motive returns with great emphasis. A look at the passage
+will help to connect the type 1 usage in the finale with the cyclic integration of
+the whole. Throughout we will see that the chromatic status of the motive and
+its derivatives contributes to their distinctiveness and thus to their ability to
+unify the cycle. The arrivalof the home dominant articulates the beginning of
+the retransition, which divides into three sections: an antecedent phrase (bars
+145-51), a consequent phrase (bars 153-61) and a final anacrusis passage
+(bars 161-8). The initial tonal gesture of the antecedent is the same motivic
+
+t) Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+###Ijis,mls',>-<;4l
+
+8
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+203
+
+8Ag motion over Bl>.
+The rising arpeggiationin the piano accompaniment joins
+the mixture to cement a connection with the second group. In contrast to the
+earlier section, however - where the neighbour figure and harmonic
+consequences are stressed - the retransition extracts the 8Ag pattern as a
+source for development. The voice leading becomes the model for a sequential
+pattern in both the antecedent and consequent. In the antecedent, the
+sequence breaks off after five bars to allow for a cadential arrival back on Blw
+(bar 151). The consequent, on the other hand, adjusts the continuation, so
+that the passage arpeggiates through an augmented triad. Ex. 22 presents a
+schematic version of the voice leading. Each stage of the sequence replicates
+the pairing, of major triads separated by major third, of the original 8Ag
+motion. Brackets and X labels beneath the reduction clarify this. The final
+repetition of the pattern - the motion from Dq to Blw occurs in the anacrusis
+passage that leads into the recapitulation.
+Ex. 22
+
+S-6
+
+5-6
+X
+
+5
+
+S-6
+
+L
+X
+
+X,,
+
+The retransitionalfunction of the DEB; pair is one way in which the finale
+contributes to the unity of the cycle. Within the movement itself, the strategy
+is motivic: DW also a central component of the tonic return toward the end of
+is
+the main theme. In bar 25, DW
+enters as V of a locally tonicised Ghminor. A
+mini G-C-F circle of fifths progression in bars 33-4 is all that separates DW
+from a direct progression to the home dominant. The similarity of the passage
+with the retransition becomes even more obvious in the recapitulation:in the
+new formal context, the V/Ghto V/EIX
+progression within the main theme (bars
+193-202) echoes the situation in the retransition.The link is strengthened by a
+hint of the mediant key in the retransition. There a V/Ghfunction arises both
+from the parallelismof DW
+with the B; dominant of the antecedent (cf. bars 151
+and 161) and from the DEGhprogression in bars 157-9.
+These idiosyncratic retransitionaltechniques forge a close tie with strategies
+of tonal return in the first movement, where we also see emphasis on the DEB;
+type 1 pair. The retransitions in the first movement are part of an unusual
+AB-AB-A formal scheme. The first B section (bars 77-130) expresses the
+
+Music Analysis, 16/ii ( 1997)
+
+!t Blackwell Publishers Ltd. 1997
+
+204
+
+PETER H. SMITH
+
+contrasting key of Gh minor largely through emphasis on the motivic DW
+dominant. The progression from this V/Ghback to the home dominant at bar
+127 is virtually identical to the harmonic motion just prior to the
+recapitulation in the finale. The main difference is that the prolonged DW
+bass
+makes the voice leading even more like the motivic 8Ag pattern. The same
+progression also governs the retransition to the final refrain, but a new tonal
+context expands the network of inter-movement connection. The second B
+section (bars 167-99) transposes the material to BS minor. Rather than alter
+the end of the restatement to prepare for a return of the tonic key, Brahms
+maintains a strict parallelism: V/BSleads to V/G; in bars 195-6, just as V/Gh
+led to V/EDin the earlier passage. The final A refrain (bar 200) thus begins
+with a tonicisation of the GSchord that will later receive emphasis as a type 1
+motive. Indeed, the first movement signals the importance of G; from the
+outset. Its first modulation- a small-scale tonicisation within the A section - is
+to WIII
+(bars 37-43). The beginning of the BSminor B section also touches on
+G; (bars 167-73). All three points of emphasis establish G; as a source for
+inter-movement connection with subsequent type 1 motives.28
+The reappearance of GS in the guise of a type 1 chord in the finale raises
+important issues about the relationshipbetween motivic 6/3 chords and sonata
+form. Brahms's treatment of the type 1 motive in the finale also forges
+connections with the other sonata form in the cycle, the big A section of the
+scherzo. Both movements articulate their motivic 6/3 chords as part of largescale dissonance; according to the sonata principle, in Edward T. Cone's
+words, the dissonant section 'must either be re-stated in the tonic, or brought
+into a closer relation with the tonic, before the movement ends'.29
+The method
+of resolution in the finale is straightforward: recapitulation transposes the
+the
+type 1 material to the tonic level (bars 213-59). It might be possible for this
+new version alone to provide tonal reconciliation. Brahms nevertheless returns
+to the CS form of the type 1 motive in the coda. The chord appears twice
+within the approach to the closing structural tonic (bars 267 and 271). The
+second SVI participates in a deceptive progression that helps to create the
+powerful sense of arrival at the tonic resolution of bar 277. It is in this sense
+that the coda carries the idea of tonal reconciliation to a logical conclusion.
+The situation in the scherzo is similar, both with respect to the dissonant
+status of the type 1 material and its resolution later in the movement. Table 3
+summarises the formal layout of the movement's A section.30The scherzo also
+introduces G; via a 8Ag motion in the dominant key area (bar 61). The type 1
+chord forms part of the head motive for a parallelperiod toward the end of the
+second group (bars 61-8 and 69-77). The antecedent and consequent of this
+phrase both lead to cadential progressions by transformingthe GSsubmediant
+into an augmented sixth chord. The second of these cadences articulates the
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+MusicAnalysis, 16/ii (1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+205
+
+Op.
+Table 3 Horn Trio in ED, 40, scherzo:formallayoutof A section
+Part 2
+
+Part 1
+
+1
+
+first group:
+a (4+4+4+4)
+
+key
+
+bar description
+
+key
+
+ES
+
+81
+
+first group:
+a (first 4+4)
+
+ES
+
+89
+
+bar description
+
+developmental
+interruption
+
+121 developmental
+episode
+153 retransition
+
+(Bh= CS)
+
+163 resumption of
+first group:
+a (second 4+4)
+17
+
+Bh
+
+ES
+
+171 a'
+
+a'
+
+snto
+... merges
+
+znto........
+... merges
+33
+
+transition
+
+to V/BS
+
+187 transition
+
+to V/ES
+
+49
+
+second group
+
+BS
+
+199 second group
+
+ES
+
+structural close of the exposition. Thus in terms of both harmonic progression
+and formal location, the usage is analogous to the function of the motive in the
+finale. The relationship also includes resolution of the type 1 material at the CS
+level later in the movement. An expanded version of the parallel period (bars
+227-71) culminates in the structural close not only for the A section, but also
+- following the da capo - for the movement as a whole.
+The prominence of CSin the approach to closure in the scherzo and finale
+also relates to another shared aspect of tonal organisation. The scherzo is the
+more straightforwardcase so let us begin there. We have previously noted the
+tendency for motivic 6/3 chords to take on harmonic functions associated with
+the submediant, including the enharmonically equivalent V7 and German
+sixth transformations.The scherzo exploits this duality to emphasise semitonerelated keys, just as we have seen in other type 1 contexts. As noted above,
+Brahms uses the augmented sixth transformation to approach cadential
+major episode at the
+dominants within the BS key area. It is not until the BW
+heart of the development (bars 121-53) that GSitself functions as a dominant.
+(Prominent statements of the motivic chord in its new function as V/Bhoccur
+at bars 120, 125, 143 and 151.) The aforementioned return of CS in the
+major
+approach to closure can be heard as a rapprochement of this BW
+Music Analysis, 16/ii (1997)
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+206
+
+PETER H. SMITH
+
+tonicisation with the home key, in addition to the more direct relationship the
+material forms with the end of the second group. The situation in the finale is
+similar. We have already seen that Brahms takes advantage of the V7/German
+sixth equivalence to hint at the Neapolitan key of BW prior to the close of
+just
+the exposition. He picks up BW
+again in the development (bars 111-1 9) .
+(Interestingly enough, the motion to BW
+engages the same V/Ghchord that is
+prominent in so many other transitional passages.) Though the development
+reinterprets BW V/EW, passage still forms an associative connection with
+as
+the
+the second group. Because the emphasis on BW not nearly as strong as in the
+is
+scherzo, the need for resolution is much less intense. The prominence of SVIin
+the recapitulation and coda can nevertheless be heard as a response to both
+the type 1 motive and the BW
+harmony.
+Type 2 6/3 chords
+Now that we have a clear idea of Brahms's type 1 strategies, we are in a
+position to explore type 2 6/3 chords and their relationship to the first
+category. The BSminor Intermezzo, the Tragic Overture and the finale of the
+F major Viola Quintet each begin with a 6/3 chord that functions as an
+inversion of the tonic. A glance back at Ex. 2 refreshes our memory of the
+parallel 6/3 chords that initiate the Intermezzo. Ex. 23 shows type 2 chords in
+the opening mottos of the Overture and Quintet. Normally we think of the two
+chord types as distinct in origin and function. To repeat the Schenkerian view
+put forward at the outset of this study: type 1 chords arise out of a linear
+motion above a stationary tonic bass - the 6/3 chords do not have harmonic
+significance; type 2 chords, on the other hand, are harmonic in orientation they extend or represent the 5/3 chords from which they are generated through
+inversion. Yet we have seen that Brahms uses the apparent submediant of his
+type 1 motives as a topic for development; this function grants linear 6/3
+chords status as inversions. The type 2 examples similarly demonstrate that
+first inversion tonics can exhibit characteristicsthat we normally associate with
+the type 1 category. Specifically, all three pieces express intriguing
+relationshipsbetween their 6/3 chords and the mediant harmony. This is most
+immediately apparent in the Overture: the F bass of the I6 initiates an
+arpeggiationof III in the lower voice (Ex. 23a). Because a dominant intervenes
+between the opening tonic and the F major chord at bar 3, the progression is
+not a straightforward
+6-5 motion. The same F harmony, though, does connect
+directly to the motto at its return in bar 4: F and A remain as common tones
+and D replaces C, similar to a type 1 5-6 alternation. A slightly different form
+of emphasis on the mediant occurs when V6/5/IIIprepares the rearticulationof
+I6 on the downbeat of bar 9.
+We have seen that Brahms consistently uses type 1 motives to generate
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+i;3
+,
+
+;$
+
+I
+
+t
+
+t
+
+'t7;
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+207
+
+Ex. 23 (a) TragicOverture,Op. 81, openingbars (stringsonly)
+
+j6
+
+(b) StringQuintetin F, Op. 88, finale, openingbars
+Allegro energico
+I
+t
+
+18;
+
+g
+
+;
+
+i
+
+T
+
+$
+
+s
+
+18; 3
+
+T
+
+$
+
+^
+
+$
+
+'g':2t:mt
+
+7:o2::g
+
+3
+
+--
+
+-
+
+f
+
+$
+
+:
+
+1t
+
+JtJ$
+
+9W3
+
+I
+
+.
+
+-
+
+$
+
+$
+
+:rL:t:
+
+tg:"g
+
+s
+
+$
+
+i
+
+$
+
+$
+
+_
+
+LS
+
+s
+
+I6
+
+V
+
+I3
+
+v6
+
+I
+
+The same is the case with type 2 chordsand
+of
+tonicisations the submediant.
+the mediant.In each of our type 2 examples,the bass of the first inversion
+tonic becomes the bass for the tonicised mediant of the second key. The
+tonics prior
+structural
+root-position
+and the Quintetboth articulate
+Overture
+One
+to their modulations.31 resultis that the emphasison 3, as an important
+bass pitch for both key areas, remains associative. The absence of a
+connection might raise doubts about the idea of a motivic
+prolongational
+
+MusicAnalysis,16/ii (1997)
+
+C3Blackwell Publishers Ltd. 1997
+
+PETER H. SMITH
+
+208
+
+relationship across the first and second groups. Yet in the Quintet, the choice
+of III#for the second key - though certainly not without precedent32 is itself a
+'characteristic'feature; a motivic association with the motto is plausible on its
+own terms, especially if one considers the importance of the mediant major
+throughout the cycle.33(I will return to the issue of III#in the other movements
+shortly.) The key scheme of the Overture, by contrast, follows formal
+convention; we need additional evidence to support the proposed relationship.
+A passage that bolsters a motivic interpretationcomes at the end of the second
+group - a context that is similar to the exposition repeat in the first movement
+of the Piano Quintet. Instead of a repeat, what we have in the Overture is a
+partial restatement of the main theme prior to the development (bars
+185-209).34 This abridged refrain provides an opportunity for a direct
+connection between the tonicised mediant and the motto. The retransition of
+bars 181-4 isolates F and A from the closing F tonic of the second group.
+These pitches are joined by D at the arrivalback at the opening material (bar
+185). Though Brahms highlights the reentry of D by putting it in the bass, the
+restatement is part of a prolongation of the mediant: F returns to the lower
+voice for the repetitions of the motto in bars 187 and 190 and the phrase
+culminates back on III at bar 196. The new tonal context transformswhat was
+originally a type 2 chord into a type 1 chord: within an F Stufe,D functions as
+a displacement of the C fifth, rather than as a root transferred to an upper
+voice.
+
+The Viola Quintet demonstrates another similarity between Brahms's
+approach to type 1 and type 2 6/3 chords: a key scheme that interacts with a
+type 2 harmony tends also to participate in cyclic unification. Though the first
+two movements of the Quintet do not contain type 2 motives, the key of A
+major has a central role in each. The first movement, like the finale, adopts III#
+as the key for its second theme group (bar 46). The second movement
+emphasises A major within a different formal context. A brief digression into
+the organisation of the movement will suffice to demonstrate a connection
+with the type 2 motive of the finale. The movement's form is based on an
+alternationbetween a slow A section and a fast B section, very much along the
+lines of the middle movement of the A major Violin Sonata. Another similarity
+with the Sonata is the issue Brahms raises regardingwhich of the tonics of the
+two sections will take precedence as the tonal centre for the movement as a
+whole. In this case, the third-related keys are C# minor and the motivic A
+major. In the Violin Sonata, the key of the A section eventuallywins out. Here,
+however, the A major of the B section emerges as the closing tonic at the very
+end of the final A restatement (bars 196-208).35 The last-minute shift to A
+major comes just in time to prepare the A bass of the finale's opening tonic
+6/3. The continuity in the cello line across the movements supports the idea of
+a motivic connection between the finale's A major second key and the I6
+t Blackwell
+
+Publishers Ltd. 1997
+
+Music
+Analysis, 16/ii (1997)
+
+9Wit
+
+T
+
+,T)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+209
+
+chords in the main theme.
+In both the Overture and the Quintet, the relationship between type 2
+chords and mediant tonicisations is more suggestive than emphatic; I do not
+wish to overstate my case for a motivic association. The B7minor Intermezzo,
+by contrast, articulates a more forthright connection. A crucial difference in
+the Intermezzo is that its A section avoids a tonic 5/3. This allows the bass of
+the type 2 motive to remain availablefor a prolongational connection with the
+mediant of the B section. Ex. 24 traces the bass-line continuity across the
+formal units. The representationis based on Schenker's unpublished graph of
+the Intermezzo, an analysis that was recently brought to the attention of the
+music theory community by Allen Cadwallader.36
+The situation is similar to
+the tonal relationships in the exposition of the Clarinet Sonata. In the Sonata,
+the F bass of the D7 key area is an offshoot of the F bass of the opening
+structuraltonic (Ex. 14). In the Intermezzo, the D7 bass of the B section is an
+offshoot of the D7 bass of the opening 6/3 chord. What I would like to add to
+Cadwallader's exegesis is attention to the tension between the structural
+significance of the opening tonic and the lack of articulative strength for any
+particular B7 chord until the final cadence. Of special interest is the weakness
+of the tonic when compared to the more solidly articulated relative major.
+Despite the tonic function of the opening 6/3 chord, the progression into the B
+section resembles a 6-5 motion over a stationary bass. Normally the 5/3 chord
+is the controlling harmony in this type of structure. In the Clarinet Sonata, for
+example, the 6/3 chord of the second key depends on the opening tonic. But in
+the Intermezzo, the tonicised mediant takes the more stable perfect
+Ex. 24 Graphof Intermezzoin Bl7
+minor
+(3 (H)(i)
+
+(g)(0)
+
+(9)i) (i)
+
+(i3
+
+(S
+
+5
+
+4
+W
+
+Fd
+
+(H)(e
+
+O *A,-
+
+-
+
+;, *
+
+6
+
+v
+
+-
+
+#
+
+,-45
+
+e-w
+
+s
+
+!
+
+3
+
+2
+
+1
+
+.
+
+C o
+
+I
+
+6
+
+<
+
+'
+
+'
+
+>
+
+j
+
+A
+
+III
+B
+
+A'
+
+coda
+
+(FirstGroup
+
+Second Group Retrans.
+
+FirstGroup
+
+Second Group)
+
+MusicAnalysis,16/ii (1997)
+
+V
+
+i
+
+t Blackwell Publishers Ltd. 1997
+
+210
+
+PETER H. SMITH
+
+consonance. It is almost as if the tonic 6/3 depends on the mediant. The
+reversal is enforced by the greater harmonic stability of the D; area. Though
+both A and B sections consist of parallel periods, the Bb material avoids
+dominant preparation for its tonic 6/3 chords at bars 1 and 10. Indeed, the
+emphasis on the C-G; tritone in the preparatory II6 chords hints at the
+connection of I6 to the mediant. By contrast, the antecedent and consequent
+of the B section (bars 23 and 31) not only both depart from a root position DS
+tonic; they each also approach the harmony from a root position dominant.
+The authentic cadence that closes the middle section at bar 38 conf1rmsthe
+superior strength of the mediant.
+Brahms follows the tonal imbalance of the A and B sections with an A'
+section that also shifts the weight of emphasis off the tonic. The result is that
+the type 2 motives participate in a delay of solid tonic articulation until the
+structural close (bar 83). Because the A' material has some of the
+characteristics of a recapitulation, it will be helpful to mix sonata form
+terminology into discussion of this process of delay. Annotations beneath the
+graph in Ex. 24 illustrate the correlation of ternary and sonata attributes.
+Before we consider new elements of instability in the reprise, it is first
+important to observe the apparent tonic that enters at the beginning of the
+retransition (bar 39). Ex. 25 reproduces Cadwallader's analysis of the
+passage.38 his graph shows, the apparent BStonic results from a 5-6 motion
+As
+above a prolongation of the B section's DSbass. The foreground connection of
+DS and B; harmonies parallels the middleground progression across the A and
+B sections. The fact that Brahms hints at the tonic return with a type 1 chord
+supports the idea that the original modulation resembles a 6-5 motion.
+If we return to Ex. 24, we see that the home dominant at bar 48 prepares
+the thematic return. Brahms nevertheless undercuts tonic rearticulation
+through an ingenious blend of restatement and recomposition. He replaces the
+I6/3 point of departure of the A section with a V6151IV
+chord (bar 52). The
+result is that the thematic reprise prolongs the retransitional dominant up to
+the half-cadential V toward the end of the antecedent (bar 57). This is why
+Ex. 24 locates a tonic rearticulation only at bar 61. The character of the
+recomposed consequent extends the tonal instability of this formal overlap.
+The phrase does not provide a structuralafterbeatto confirm the tonal return.
+Rather it immediately merges into a structural anacrusis that prepares the
+climactic dominant at bar 69. Otherwise, there are no other structural tonics
+in the A' section. The recapitulation of the B section/second group (bar 73)
+sustains the dominant emphasis, as illustrated in Ex. 24. Brahms's strategy for
+the return of the material centres around dual purposes. One function is to
+bring the second theme into closer relation to the tonic key through
+transposition to BS.Yet Brahms counterbalances this element of reconciliation
+by refusing to relent to a root position tonic chord until the last possible
+
+(¢ Blackwell Publishers Ltd. 1997
+
+Music Analysis, 16/ii (1997)
+
+/S
+
+-
+
+-
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+211
+
+EX.25 AfterCadwallader,
+'Schenker's
+UnpublishedGraphicAnalysis',Exs 4b
+and 4c
+bars (i)
+
+(;)
+
+4
+
+°
+
+0
+
+3
+
+i)
+
+)
+
+(4)
+
+(4)
+
+e
+
+--
+
+;k
+
+S
+
+0
+
+;
+
+III:
+
+'
+
+v/
+
+5
+sixth-progression
+
+s
+/\
+
+A
+
+4
+
+fi
+
+S
+
+3
+
+o
+
+O
+
+(2)
+
+^
+
+C
+
+III:
+
+e
+,//
+72 =Ett r //simplificatitl,
+
+b
+
+(C7)
+
+,
+
+A C
+
+;
+
+f
+v
+
+moment. He places the restatementover an F pedal and reinterprets
+the
+material partof a prolongation the closingstructural
+as
+of
+dominant.
+If we take a step back and considerthe Intermezzo a whole, we see that
+as
+Brahmshas yet to provide a solid tonic articulation.The type 2 motives
+participate a tonal delaythat stretchesacrossthe entirepiece. We also see
+in
+that similarities type 1 and type 2 usage can penetrateinto the deepest
+of
+structural
+levels.To summarise: tonic is weaklyarticulated the A section
+the
+in
+as a resultof the 6/3 positionand absenceof directdominantpreparation;
+the
+B section heightensthe instability makingthe openingtonic prolongation
+by
+seem like an inflection of an enormous mediant Stufe; finally, the
+recapitulation
+blursthe tonic returnin favourof motiontowardthe dominant.
+The emphasison the mediantand the dominantcontributes the powerful
+to
+impactof the closingtonic at bar 83 - the only structural 5/3 chordin the
+BlX
+piece. Beyondwhat these observations
+mightcontribute an appreciation
+to
+of
+the Intermezzo,
+they sustainan overarching
+theme:that Brahmssmotivic6/3
+chordsrequirean interpretation reachbeyondSchenkerian
+to
+paradigms.
+Just
+as a type 1 chord can be more than a by-product contrapuntal
+of
+activity,a
+type 2 chordcan be less thanunequivocal articulative
+in
+strength,
+evenwhenit
+is the sole representative the tonic throughout bodyof a movement.
+of
+the
+MusicAnalysis, 16/ii (1997)
+
+t Blackwell Publishers Ltd. 1997
+
+212
+
+PETER H. SMITH
+
+Conclusion
+I began this study by drawing a sharp distinction between type 1 and type 2
+6/3 chords. Part of the interest in the topic, however, lies precisely in
+relationshipsthat transcend these analytical categories. It is without question a
+sign of progress that we have moved beyond the days when chords of both
+types could be lumped together indiscriminately as examples of first inversion
+triads. Brahmss motivic invention nevertheless contradicts the assumption
+that these two subcategories are mutually exclusive. How then should we deal
+with the apparent illogic of a 6/3 chord that can be both the result of a 5-6
+motion and an inversion with the third in the bass? First we can categorise our
+analyticaldescriptions as either primary or secondary hearings. The 6/3 chords
+in the first group of pieces that I dealt with are primarily type 1 motives with
+secondary type 2 characteristics;for the second group, it is just the reverse. We
+can also accommodate seemingly contradictory analytical statements by
+focusing on multiple listening perspectives. That is to say, the contradictions
+evaporate when it is clear that we are dealing with perceptions that arise at
+different temporal locations in a piece.39Yet another alternative is to focus on
+rehearings of the same event, with different theoretical models functioning as
+the primaryheuristic frameworkfor each encounter. In any case, it is clear that
+to evaluate a motivic 6/3 chord from only one perspective - be it the local
+vertical slices of traditional harmonic analysis or the synoptic perspective of a
+Schenker graph - would be to turn our back on the very dynamism for which
+Brahms is rightly celebrated.
+NOTES
+1. Joseph Dubiel explores the function of a type 1 chord to postpone the appearance
+of a stable tonic in 'Contradictory Criteria in a Work of Brahms', in David
+Brodbeck (ed.), Brahms
+Studies,
+vol. 1 (Lincoln: University of Nebraska Press,
+1994), pp. 81-110. The work he analyses, the D minor Piano Concerto, Op. 15,
+begins with perhaps the most famous example of a type 1 chord in Brahms's
+aeuvre.
+2. Throughout this study, when I identify a chord by pitch-class label I will use the
+bass pitch, not the chord root. For example, I will refer to the Quintet scherzo's
+type 1 motive as a C 6/3 chord and the Intermezzo's type 2 motive as a Db 6/3
+chord. When I do wish to refer to harmonic function I will do so via Roman
+numerals. This will help avoid confusion in cases like the scherzo, where triadic
+structure and harmonic function diverge.
+3. Similar usages of the type 1 motive occur in the retransitionof bars 124-45, first
+as embellishment to V/III and then as part of the return to the home dominant.
+The final C 6/3 chord of the retransition (bars 144-5) is an exception to the
+tendency for the material to appear as part of dominant prolongation: the
+arpeggiation leads to an expanded tonic in bars 146-50. The twice-stated circle-
+
+g
+
+Blackwell Publishers Ltd. 1997
+
+MusicAnalysis, 16/ii ( 1997)
+
+BRAHMS AND MOTIVIC 6/3 CHORDS
+
+213
+
+of-fifths sequence that follows confirms the shift to tonic prolongation. Yet even in
+the context of this tonic expansion, it is still possible to hear a similarity with
+earlier dominant contexts. The final C 6/3 chord of bar 144 prevents direct
+resolution of the retransitional dominant. Moreover, the sequence delays the
+arrival of the closing structural tonic until the coda: the tonic that enters at bar
+146 functions as an anticipation of the decisive resolution at bar 158.
+4. My emphasis on temporality and multivalence is inspired by Edward T. Cone's
+and David Lewin's critiques of the tendency for music theorists to regard as
+definitive analyticalstatements that are rendered from a synoptic perspective. (See
+Cone, 'Three Ways of Reading a Detective Story - Or a Brahms Intermezzo', in
+Music: A Viezvfrom Delft, ed. Robert P. Morgan (Chicago: The University of
+Chicago Press, 1989), pp. 77-93; and Lewin, 'Music Theory, Phenomenology,
+3
+and Modes of Perception', Music Perception, (1986), pp. 327-92.) I apply the
+analytical methodology that Lewin develops to counter this tendency in my
+'StructuralTonic or Apparent Tonic?: ParametricConflict, Temporal Perspective,
+and a Continuum of ArticulativePossibilities',ffournalof Music Theory,39 (1995),
+pp. 245-83.
+5. Another good example of a type 1 chord that is preparedby the closing cadence of
+the previous movement is the head motive of the finale of the B major Trio, Op. 8
+(revised version). The movement begins directly on its type 1 motive with G in
+the top voice. One way to interpret the departure from G is as part of a 5-6
+motion in which the fifth has been elided. Another is to hear the 5-6 motion
+initiated by the closing B tonic of the slow movement, with its prominent F# in the
+top voice.
+6. This interpretationof the main theme and its recapitulationsummarises the more
+detailed analysis I present in 'StructuralTonic or ApparentTonic?', pp. 270-72.
+7. Edward Aldwell and Carl Schachter discuss the 5-6 technique as an agent of
+Leading, 2nd edn (San Diego: Harcourt Brace
+modulation in Harmonyand Voice
+Jovanovich, 1989), pp. 200-202.
+8. John Rothgeb, for example, asserts that 'Only one triad controls the first two bars
+of the quintet, namely the F minor tonic triad; the Db is an upper neighbor to the
+tonic's fifth - regardless of the extent to which the notation presents the visual
+image of a Db triad' (review of Walter Frisch, Brahms and the Principle of
+Developing Variation(Berkeley: University of California Press, 1984), in Music
+TheorySpectrum,9 (1987), p. 211, n. 8).
+9. Preparation by the 6/4 chord in the first ending also lends support to an
+interpretationof bars 1-4 as a 6/4 to 5/3 motion within the dominant.
+10. The ability to hear both the F-GEAN fragment and the 6/4 chord within a
+continuation of Db is supported by bars 78-80 of the Db key area. The passage
+articulates these two references to the main theme within a clear expansion
+of a D; tonic. Other statements of Gqin the Dbcontext occur in the VII6/5/Vchords
+at bars 86 and 88. Roger Graybill discusses these aspects of continuity
+between the Db area and the exposition repeat in 'Brahms's Three-Key
+Expositions: Their Place within the Classical Tradition' (PhD diss., Yale
+
+MusicAnalysis,16/ii (1997)
+
+t
+
+Blackwell Publishers Ltd. 1997
+
+PETER H. SMITH
+
+214
+
+University, 1983), pp. 350-53.
+11. The finale does include prominent statements of a motivic 6/3 chord just prior to
+the arrival of the second theme group (bars 91-2). The addition of FXto the
+sonority is similar to the XIV7/;3
+transformationin bar 43 of the scherzo. Here too
+the motive functions as part of a dominant prolongation, in this case V/C. In the
+recapitulation,the same material appears at the tonic level (bars 249-50).
+12. My approach to the movement is similar to the sensitive and somewhat more
+detailed analysis presented by Margaret Notley in 'Brahms's Chamber-Music
+Summer of 1886: A Study of Opera 99, 100, 101, and 108' (PhD diss., Yale
+University, 1992), pp. 82-107. Carl Schachter's brief comments on the piece are
+also consonant with the main thrust of my argument ('Analysis by IRey:Another
+Look at Modulation', MusicAnalysis,6 (1987), pp. 294-5).
+13. The harmonisation of the return of the opening material in bars 19-24 confirms
+the association with the Db area. The motivic 6/3 chord at the outset of this
+passage makes the connection especially strong. Roger Graybill discusses aspects
+of the tonic area that anticipate the modulation to Db in 'Brahms's Integration of
+Traditional and Progressive Tendencies: A Look at Three Sonata Expositions',
+70urnal of Musicological
+Research,8 (1988), pp. 143-7. For a detailed look at the
+entire movement, see my 'Brahms and the Neapolitan Complex: WII,
+bVI, and
+Their Multiple Functions in the First Movement of the F minor Clarinet Sonata',
+in David Brodbeck (ed.), BrahmsStudies,vol. 2 (Lincoln: University of Nebraska
+Press, forthcoming).
+14. James Webster discusses this unusual retransition in 'The General and the
+Particularin Brahms's Later Sonata Forms', in George S. Bozarth (ed.), Brahms
+Studies: Analytical and Historical Perspectives
+(Oxford: Oxford University Press,
+1990), pp. 69-72. See also the discussion in my 'Brahms and the Neapolitan
+Complex'.
+15. A foreground example of the bII/Vfunction for a motivic 6/3 chord can be found
+in the finale of the B major Trio, Op. 8 (revised version). In bars 30-33, a twicerepeated V4/21VI
+chord embellishes the type 1 motive. Brahms then reinterprets
+the (weakly) tonicised VI6 as WII6 the FX
+in
+cadential progression of bars 33-7.
+16. Christopher Wintle, 'The "Sceptred Pall": Brahms's Progressive Harmony', in
+Michael Musgrave (ed.), Brahms 2: Biographical,Documentaryand Analytical
+Studies(Cambridge:Cambridge University Press, 1987), pp. 197-222.
+17. See Wintle, 'The "Sceptred Pall"'. Two other studies that highlight the special
+role of the submediant in Brahms's Neapolitan practice are James Webster,
+'Schubert's Sonata Form and Brahms's First Maturity', Nineteenth-Century
+Music,
+2 (1978), pp. 18-35, and 3 (1979), pp. 52-71; and Margaret Notley, 'Brahms's
+Cello Sonata in F Major and Its Genesis: A Study in Half-Step Relations', in
+Brodbeck (ed.), BrahmsStudies,vol. 1, pp. 139-60.
+18. Allen Forte traces occurrences of the C 6/3 motive, as well as other characteristic
+thematic ideas, across the first movement of Op. 51 No. 1, in 'Motivic Design and
+StructuralLevels in the First Movement of Brahms's String Quartet in C Minor',
+
+t) Blackwell Publishers Ltd. 1997
+
+MusicAnalysis, 16/ii ( 1997)
+
+BRAHMS AND MOTIVIC 6/3 CHORDS
+215
+
+in Musgrave (ed.), Brahms2, pp. 165-96.
+19. There is also a strong similarity between the C-EXAb cello line here and at the
+recapitulation of the first movement (bars 133-7). Forte notes this connection in
+'Motivic Design and StructuralLevels', p. 196.
+20. I discuss this movement in the context of other Brahms recapitulationsthat delay
+tonic rearticulationuntil the structural close in 'Brahms and Schenker: A Mutual
+Response to Sonata Form', Music TheorySpectrum,16 (1994), pp. 77-103.
+21. For discussion of cyclic unity in the Quartet, see Donald F. Tovey, 'Brahms's
+Chamber Music', in Essays and Lectureson Music (London: Oxford University
+Press, 1949), pp. 251-2; William G. Hill, 'Brahms's Op. 51: A Diptych', Music
+ReviezlJ, 13 (1952), pp. 110-24; Rainer Wilke, Brahms, Reger, Schonberg
+Processe und formale Gestalt (Hamburg:
+Motivisch-thematische
+Streichquartette:
+of
+Wagner, 1980), pp. 62-84; Frisch, Brahmsand the Principle DevelopingVariation,
+pp. 109-116; Musgrave, The Music of Brahms (London: Routledge and IRegan
+Paul, 1985), pp. 111-16.
+22. Tovey notes the continuity in 'Brahms'sChamber Music', p. 252.
+a
+23. The movement is an example of one of Brahms's favourite Mischformen, special
+type of sonata-rondo hybrid that he likely learned from his studies of Mozart.
+Robert Pascall labels this type of movement a sonata form with conflated
+response ('Some Special Uses of Sonata Form by Brahms', Soundings,4 (1974),
+pp. 58-63). On the relationshipbetween Brahms's and Mozart's formal strategies,
+see John Daverio, 'From "Concertante Rondo" to "Lyric Sonata": A
+Commentary on Brahms's Reception of Mozart', in Brodbeck (ed.), Brahms
+Studies,vol. 1, pp. 111-38. Daverio interprets Brahms's formal hybrids from the
+perspective of the aesthetic theories of Friedrich Schlegel in Nineteenth-Century
+Music and the GermanRomanticIdeology(New York:Schirmer, 1993), pp. 127-54.
+The formal analysis of the finale I present here is similar to Arnold Whittall's
+interpretation in 'Two of a IRind?:Brahms's Op. 51 Finales', in Musgrave (ed.),
+Brahms2, pp. 150-57.
+minor and Neapolitan relationships. Note, in
+24. The Romanze also emphasises AW
+and
+bars 37-42, the tonicisation of AW the return to Abvia the V7/German sixth
+.
+
+relnterpretatlon
+
+.
+
+.
+
+25. The dominant prolongation of the second key area is another feature that the
+finale shares with the first movement. I explore the tendency for Brahms to use
+this kind of second group as part of a delay of tonic return until the structural
+close in 'Brahms and Schenker', pp. 95-103.
+26. The parallelism with the chord above C in bar 227 strengthens the motivic
+connection.
+27. Edward Aldwell and Carl Schachter develop the category of double mixture in
+Harmony and VoiceLeading, pp. 503-8. The term refers to the adjustment in
+quality of a chord that is borrowed from the parallel mode. Thus the major bVI
+chord that is borrowed from Bbminor becomes a minor bVIchord.
+
+MusicAnalysis,16/ii (1997)
+
+t) Blackwell Publishers Ltd. 1997
+
+216
+
+PETER H. SMITH
+
+28. In this regard, it is interesting to note that the Eb minor Adagio mesto absorbs
+Gbinto the tonic chord itself. bSreceives special emphasis as bass for the opening
+tonic 6/3 chord. The movement, like the first, also makes its first modulation to
+Gbmajor (bar 10). A closer look at the Adagio is unfortunately beyond the scope
+of this study.
+29. Cone, MusicalFormand MusicalPerformance
+(New York:Norton, 1968), p. 77.
+30. The A section is another example of the sonata-rondo hybrid that we saw in the
+finale of the C minor String Quartet. Neither Daverio nor Pascall include the A
+section in their lists of Brahms's sonata-rondo Mischformen.
+They most likely omit
+it because it is part of a largerternary form and not an independent movement in
+its own right. It nevertheless exhibits all of the characteristicsthat Daverio and
+Pascall associate with this special sonata-form variant. In addition to type 1
+motives and sonata-form procedures, the A section and the finale also share a
+'hunt-like' characterand similar techniques of metric-rhythmicorganisation. Both
+movements are strongly hypermetric and the larger rhythmic groupings make the
+scherzo's 3/4 metre sound not unlike the 6/8 of the finale.
+31. In the Quintet, this occurs almost immediately with the emphasis on i in the
+fugue subject (Ex. 23b); a more emphatic tonic arrives at the homophonic climax
+toward the end of the first group (bar 23). The Overture'smotto is part of a delay
+that pushes the arrivalof a tonic 5/3 ahead to bar 21.
+32. Among Brahms's works, the first movement of the Third Symphony is another
+example of a major-mode exposition with a I-IIIXkey scheme. Perhaps the most
+famous example is the first movement of the Waldstein
+Sonata.
+33. With respect to the similarity of type 1 and type 2 usage, it is interesting to note
+that the A major tonic and the main theme's 6/3 chord reverse the progression in
+the Horn Trio from the Bb tonicised dominant to its type 1 offshoot. Both
+progressionsinvolve major triads whose roots are separatedby a major third.
+34. The return of the main theme is part of a conflation of recapitulatory and
+developmental functions in the second part of the form. The general formal
+strategy is similar to the finale of the C minor String Quartet and the scherzo of
+the Horn Trio: the first part of the main theme returns in the tonic following the
+exposition (bars 185-209); the partial restatement is followed by a passage that
+doubles as recapitulation and development of the remaining material of the first
+group and transition (bars 209-99); the recomposed transition preparesthe return
+of the second theme at the tonic level for the resumption of the recapitulation
+proper (bar 300). For an interesting discussion of these formal relationships, see
+James Webster, 'Brahms's Tragic Overture:The Form of Tragedy', in Robert
+Pascall (ed.), Brahms: Biographical, Documentary and Analytical Studies
+(Cambridge:Cambridge University Press, 1983), pp. 99-124.
+35. Like the movement in the Violin Sonata, the last refrain of the A section also
+begins in the key of the B section. For a detailed analysis of the movement, see
+Kevin Korsyn, 'Directional Tonality and Intertextuality:Brahms's Quintet Op. 88
+and Chopin's Ballade Op. 38', in William Kinderman and Harald Krebs (eds.),
+TheSecondPracticeof Nineteenth-Century
+Tonality
+(Lincoln: University of Nebraska
+(C)
+Blackwell Publishers Ltd. 1997
+
+Music
+Analysis, 16/ii ( 1997)
+
+BRAHMSAND MOTIVIC6/3 CHORDS
+
+217
+
+Press, 1996), pp. 45-83.
+36. Allen Cadwallader, 'Schenker's Unpublished Graphic Analysis of Brahms's
+Intermezzo Op. 117, No. 2: Tonal Structure and Concealed Motivic Repetition',
+Music TheorySpectrum,6 (1984), pp. 1-13. The first part of my Ex. 24 is very
+similarto Cadwallader'sFigure 4 (p. 7).
+37. For an analysis that views the Intermezzo as a sonata form, see Elmar Budde,
+'Johannes Brahms' Intermezzo Op. 117, Nr. 2', in Werner Breig, Reinhold
+Brinkmann and Elmar Budde (eds.), Analysen:Beitragezu einerProblemgeschichte
+(Stuttgart: Franz Steiner, 1984), pp. 326-7. My view is closer to
+des Komponieren
+Ann Besser Scott's suggestion that the piece is primarily a ternary design with
+some secondary sonata-form attributes ('Thematic Transmutationin the Music of
+Brahms: A Matter of Musical Alchemy', 70urnal of MusicologicalResearch, 15
+(1995), p. 204, n. 31).
+38. Cadwallader,'Schenker'sUnpublished Graphic Analysis', Exs. 4b and 4c (p. 12).
+39. For a thorough discussion of this point, see Lewin, 'Music Theory,
+Phenomenology, and Modes of Perception',passim.
+
+MusicAnalysis,16/ii (1997)
+
+t) Blackwell Publishers Ltd. 1997
+
+

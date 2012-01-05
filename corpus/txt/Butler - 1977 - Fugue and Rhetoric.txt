@@ -1,0 +1,2923 @@
+Yale University Department of Music
+
+Fugue and Rhetoric
+Author(s): Gregory G. Butler
+Source: Journal of Music Theory, Vol. 21, No. 1 (Spring, 1977), pp. 49-109
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843479
+Accessed: 15/12/2009 12:39
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+FUGUE AND RHETORIC
+
+Gregory G. Butler
+
+Toward the end of the fifteenth century, largely as a result
+of the growing influence of humanism, a trend can be detected in certain musical circles toward an increasing awareness of, and stress upon, the great affinity between music and
+poetry.' As a result, music came to be viewed more and more
+as a highly affective form of artful expression imbued with all
+the learned artifice and persuasive qualities of its sister art,
+poetry. One of the most important and fascinating aspects of
+this trend is the application of rhetoric, whose precepts
+govern poetic creation, to music.
+Classical rhetoric is divided into five distinct branchesinvention, disposition, elocution, memorization, and pronunciation. Of these elocution or eloquence, the decoration or
+embellishment of speech by clothing and filling it out by
+means of various rhetorical figures, was the prime consideration in the rhetoric of the Renaissance. In the later sixteenth
+century in the northern European countries of Germany,
+France, and England, the trend toward the application of
+rhetorical precepts to music manifests itself in a particular
+predilection on the part of theorists to refer to certain
+49
+
+musical structures and compositional techniques in terms of
+specific rhetorical figures. From the very beginning of this
+movement, fugue is conspicuous as the most frequently
+mentioned of these techniques. Gallus Dressler (1533-c.1585),
+the most important musica poetica theorist before Joachim
+Burmeister, was prompted to remarkthat "in musica poetica,
+nothing is more worthy for insertion [in a composition] than
+fugae. Indeed, they embellish music and they result in music
+constructed according to nature and art."2 Why was the fuga
+elevated to such a preeminent position as a musical-rhetorical
+element?
+First of all, it must be realized that this whole movement was
+largely highly learned and intellectual, even academic,in nature,
+and of course the fuga was looked upon as a highly learned
+element of composition. Secondly, the fuga was a structure of
+great artifice and at the same time a highly expressive and
+affective musical force, and therefore highly valued as a powerful musical-rhetoricaldevice. Thirdly, poetry deals largely with
+verbal imagery, and there is growing evidence that the fuga
+was thought of in terms of a highly artificial musical image,3
+and was therefore a prime ingredient of musica poetica.
+The study which follows will illuminate the development
+and evolution of fugue as one of the most important of the
+multitide of musical-rhetorical structures. In a period when
+discussions of fugue in theoretical sources are almost completely of a practical and highly technical nature, such a
+study is absolutely essential for a deeper understanding of
+the way in which the composer and theorist conceived of
+fugue in rhetorical terms.
+Almost four decades before the statement by Dressler
+quoted above, there is early evidence of the application of
+the names of rhetorical figures to musical structures. In what
+seems to be the earliest instance of such an application,
+reference is made to only a single rhetorical figure which,
+significantly, is applied to the fuga. As early as 1537, Joannes
+Stomius (1502-1562)4 begins his discussion of the fuga as
+follows:
+INGENIOSA, QUAS MIMESES SEU FUGAS appellant:
+ubi eadem vox a pluribus, sed certis temporum spaciis
+intervenientibus, consequenter canitur.
+50
+
+Things ingenious, which are called Mimeses or fugae, where
+a single voice is sung in consequence but with certain intervals of time intervening.5
+Stomius here refers to the fuga, meaning in this case canon,
+as a specific rhetorical figure, mimesis. Almost equally important is the fact that on the same page, he uses the name of
+this figure as a generic designation in the title of his musical
+example-Mimesis. IIII. vocum. Authore Ludovico Senflio.
+Mimesis (imitatio) refers to the literal repetition of one person's words by another person, usually for the purpose of
+emphasis.6 This process of mimicry involves not only exact
+imitation of a verbal model in very close consequence (the
+use of consequenter here is significant), but also implies a
+response from separate and distinct sound sources; as such,
+the device is very close in concept to the canon, to which
+structure it is applied. Although in this first appearance of
+the musical-rhetorical figure, the particular figure in question
+is highly general in nature, there is nevertheless a close
+parallel between rhetorical figure and musical structure.
+This close identification of the fuga with mimesis remains the
+most common fugal-rhetorical application throughout the
+whole period under discussion and even beyond, right up to
+the present day.
+The first truly extensive treatment of the application of
+rhetorical figures to musical procedures is that which appears
+in a treatise entitled De musica (after 1559)7 of Anonymous
+of Besanqon; but even here, only four basic figures are
+discussed:
+Prima Graecis dicta est VrXOK: Latinis copulatio. Sed
+vulgus nunc cantorum fugam nominat. Est autem ploce,
+vocum repetitio similium aliquo modo parallela, hoc est,
+partium collatione aequali, vel simili, sibi inter se respondentium.
+The first figure is called pl6ke in Greek, copulatio in Latin.
+But among singers, it is now commonly referred to as fuga.
+It is however ploce, a parallel repetition of similar tones in
+a certain way, that is, a uniform or like comparison of
+parts corresponding to one another.8
+It is clear that this theorist is struggling with a highly
+51
+
+complex and involved musical-rhetorical concept, for he
+introduces no less than three distinct rhetorical figures in
+his attempt to define this concept clearly. All three of these
+figures have one aspect in common, the element of repetition.
+Beyond this, they all carry characteristic nuances of meaning
+which convey a comprehensive picture of diverse elements
+integrated under one musical procedure. The theorist himself
+defines one of these three figures, ploce, which involves a
+special kind of repetition in which there is parallel reiteration
+of similar elements.9 This concept of parallelism is important,
+for it has a number of implications for fugue. It supposes first
+of all a simultaneous progression of two elements in tandem,
+the one moving at a certain fixed distance from the other.
+This concept is remarkably close to the fuga as a close point
+of imitation at a given vertical pitch interval. At the same
+time, parallelism implies the comparison of analogous elements, a concept which emerges clearly in the definition
+given by the theorist himself in the above passage.Comparison
+(collatio), the process by which similarity or dissimilarity is
+established, is of course one of the most basic procedures in
+logical reasoning. This likening of the fuga to a logical procedure is further reinforced by the use of the term collatio
+in the definition of ploce. Collatio is itself a rhetorical figure,
+a procedure involving a comparison made between two analogous elements, as the result of a logical sequence in which a
+similitude is developed to a full comparison.10 Thus the
+sequence of entries which makes up the fugal exposition is
+seen as a strictly logical series.
+The simplest of the four rhetorical terms presented in the
+above passage is copulatio, which is simply the vehement
+repetition of a single word or short phrase in rapid succession
+with a minimum of intervening material, for the purpose of
+amplifying a subject.1 This is an excellent capsule description of the fuga, a close point of imitation. At the same time,
+it clearly outlines the basic purpose behind fugal imitation
+in rhetorical terms, the elaboration or extension (amplificatio)12 of the subject of a discourse (propositio).
+Copulatio, it should be stressed, was valued by rhetoricians
+as a forceful manner of speaking which served to make a deep
+impression on the minds of the audience.13 This strong
+52
+
+psychological or affective impact was not lost on Anonymous
+of Besangon, who clearly alludes to this facet in the concluding summation to his discussion of the fuga:
+Sed quoniam in re musica varietas prima est, quae in similitudine delectat; quae vero sine varietate & sine modo
+aliquo novo atque inexpectato continuantur, satietatem
+pariunt: repeti licebit frequenter idem prorsus vocum
+systema: sed utique ex uno loco transpositum in alium, ne
+idem omnino canamus, sed aliud: & una cum similitudine,
+dissimilitudo agnoscatur.
+But since in musical matters, variety is the prime consideration, whatever is in the nature of a similitude attracts
+attention. Whatever things are continued utterly without
+variety and without any novel or unexpected aspect produce satiety. Frequently, the same complex of tones can
+be repeated straightway but only if it is transposed from
+one place into another, provided that we do not sing
+literally the same complex altogether, but another, and
+together with similitude, dissimilitude is perceived.14
+While he stresses variety as the ideal, the author is quick to
+point out that the similitude offered by the fuga is important
+since it acts as an effective contrast to variety, thereby
+"attracting attention." However, he places conditions on
+repetition and stresses that the fuga does not involve literal
+repetition, but rather transposes and melodically slightly
+alters the repeated elements.
+Anonymous of Besanqon is unique among the early music
+theorists who apply rhetorical precepts to music in the large
+number of figures he cites in his attempt to arrive at a clear
+and comprehensive delineation of the rhetorical concept of
+fugue. Later musica poetica theorists, like Stomius early in
+the century, invariably adopt the simplistic, and by now
+traditional, rhetorical view of fugue in terms of imitation
+(mimesis, imitatio) or repetition (anaphora, repetitio).
+Gallus Dressier, in the treatise of 1564 mentioned above, is
+typical in that he refers to the fuga simply as repetitio.sl
+However, with his subsequent description of fugal imitation
+as being established by means of an "emphatic, ordered
+sequence" ("ordine expressa"),16 he clearly presents an
+53
+
+affirmation of the rhetorical concept implicit in Anonymous
+of Besangon's application to the fuga of the term copulatio.
+Later, he relates the specific fugal procedure in which the
+interval of time between the successive entries of the subject
+is varied, to the rhetorical figure, emphasis. In so doing, he
+adds a new rhetorical dimension to the fuga:
+Aliquoties fit ut unius fugae per diversa intervalla instituatur repetitio, quae, cum singulae voces se ipsas fugando
+imitari videantur, auribus non mediocrem affert delectationem intervenientibus vocalibus emphasin praeseverantibus.'7
+
+Sometimes it happens that the repetition of one fuga is
+built up through various time intervals, which, when single
+voices seem to be imitated by averting one another, brings
+to the ears no moderate degree of pleasure, the intervening
+singers being cut off prematurely by means of emphasis.18
+Emphasis can be defined on two distinct rhetorical levels.
+In a very general sense, it refers simply to an imposing or
+forceful style of writing which imparts rhetorical stress, a
+synonym
+
+for the Latin terms pondus19 or significdtio.20 It
+
+also refers to a more specific rhetorical figure in which a
+deeper meaning is revealed than is actually expressed by the
+words themselves. This usually consists in the suppression or
+deliberate omission of a word or a group of words.21 In the
+case under discussion, just as Stomius had before him,22
+Dressier seems to be employing the term in its general sense
+to apply to the strong rhetorical effect which results when an
+entry of the subject breaks in prematurely, interrupting a
+preceding entry before it is complete.
+Joachim Burmeister (c.1566-1629) is by far the most
+important of the later musica poetica theorists, and a figure
+who plays a vital role in the present discussion. He also treats
+the fuga in very general terms, as the musical procedure "in
+which all the notes of a melody are imitated for some considerable time in the statement of each part in its etymological relation at the same or equal intervals of time."23 However, it is his peripheral discussion of the fuga, peppered as it
+is with rhetorical terminology and concepts, which contributes substantially to our knowledge of how the fuga was
+54
+
+perceived rhetorically by musicians around the close of the
+sixteenth century.
+To begin with, it is significant that to the traditional
+concept of the fuga as mimesis quoted above, Burmeister
+adds the qualifier, "in its etymological relation" ("in suo
+conjugio").24 From this, it would seem that Burmeisterviews
+each of the entries of the subject in a given fugal exposition
+as words, linked etymologically with all of the other similar
+entries in that exposition, there being a common derivation
+from an invariable root or primitive. To this basically grammatical conception, Burmeister adds a logical view with his
+cryptic statement that "one [?] can be tested and weighed
+carefully, even, in practice, transformed through many [? ] ."25
+
+Here, Burmeister seems to be alluding to the standard rhetorical procedure of confirmation (confirmatio) of the initial
+subject or proposition by the process of amplification and
+transformation by repetition. In so doing, he supports Anonymous of Besangon's earlier reference to the fugal exposition
+as a logical series.
+Slightly later, Burmeister treats at greater length the
+grammatical concept of the fuga to which he had alluded
+earlier:
+Vacua ulterius loca aptis & appositis concordibus
+conjugatis characteristicis sonorum complebuntur, quo
+spontaneum, vix cum labore, incrementum consequetur
+syntaxis.
+
+..
+
+The empty place that lies beyond is filled up with fitting
+concords in apposition, etymologically related by distinctive qualities of sounds, whereby spontaneous augmentation
+with scarcely any effort follows as a consequence by
+means of syntax . .. 26
+It is clear from this passage that Burmeister views each point
+of imitation as a unit filling up a block of space, as a word or
+phrase to which each subsequent appearance of the same
+point is fused in grammatical apposition and linked etymologically through the close similarity of the vertical concords
+generated between the pair of entries in each point. Finally,
+the whole series of points in the larger structural sense is
+strictly regulated by syntax, a separate branch of grammar
+55
+
+dealing with orderly and logical grammatical arrangement.
+Burmeister's use of the term incrementum in the above
+passage is also significant, for it is a specific rhetorical procedure, one of the four principal methods of amplification.27
+Since amplification is the principal means of confirmation,
+the use of this term would seem to support the idea that
+Burmeister saw the fuga as an amplificatory series of repeated
+points constituting a confirmation.
+As Dressler had before him, Burmeister stresses the efficacy of the fuga as the introductory section (exordium) in
+the musical oration:
+Exordium, est prima carminis periodus, sive affectio,
+Fuga ut plurimum exornata, qua auditoris aures & animus
+ad cantum attenta redduntur, illiusque benevolentia
+captatur.
+The exordium is the first section or affective period of
+the composition, for the most part embellished with a
+fuga, by which the ears and mind of the listener are rendered attentive to the music, and his sympathy is captured.28
+
+Burmeister, however, goes further than his predecessors,
+actually arrivingat a convincing explanation of the power of
+the fuga to attract and hold the attention of the listener, a
+power which Anonymous of Besancon had attributed simply
+to its property of similitude as a strong contrast to constant
+variety:
+Hoc fieri animadvertitur ilico, ac nova affectio a Fugae
+affectione prorsus aliena introducta apparet.
+When this has occurred [i.e., when the opening statement
+of the point of imitation has culminated in a cadence],
+the mind is diverted immediately as a new statement
+appears, a fresh element having been introduced all the
+way through by means of the statement of the fuga.29
+Burmeister sees the powerful psychological effect of the fugal
+exposition as a consequence of its unique structure. Successive entries of paired points of imitation gradually fill up the
+texture, but the structure is not complete until all such
+56
+
+entries have occurred. Each successive entry shatters the
+silence of that pair of voices to that point. This diverts the
+listener's attention suddenly from the previous simultaneously concluding entry, capturing and holding that attention throughout the duration of that particular entry and so
+on, through the entire sequence of entries. Thus the diversion
+of attention is not simple, but rather consists of a complex
+periodic series of progressive new diversions.
+Burmeister's treatment of fugue is vitally important in
+another respect: he extends the application of rhetorical
+figures to include a diversity of fugal techniques-double
+fugue (metalepsis), counter fugue (hypallage), incomplete
+entry of the subject (apocope), and incomplete exposition of
+the subject (anaphora).
+He defines the first of these, metalepsis, as "that style of
+fuga in which two melodies in harmony on this side are taken
+over on that side and are transformed into a fuga."30 A defi-
+
+nition of the term in a rhetorical sense will serve to clarify
+Burmeister's meaning. Metalepsis (transumptio) occurs when
+a word or phrase is explained or clarified by another word or
+phrase which is removed from the original expression by
+certain degrees.31 The initial expression has no meaning by
+itself and only acquires significance as a result of the subsequent related expression, so that the figure provides a transition by step to conclusion. For Burmeister, each point of
+imitation presents a small-scalefuga, where the fugal imitation
+occurs between each of the brief paired statements of the
+subject. The fugal exposition similarly is considered to be a
+fuga on a larger scale where it is the points of imitation themselves, the miniature fugae, which are presented in imitation,
+naturally at a much greater time interval. In the case of the
+simple fuga the scheme is clear right from the initial point of
+imitation, since within its narrow confines it presents a fuga;
+but when the initial point of imitation contains two distinctly
+different subjects "on this side," the fugal scheme is not
+clarified until the second identical point is stated "on the
+other side." In the case of such a "fuga duplex," then, fugal
+imitation does not take place between each of the paired
+entries of the subject in a given point, but only on the larger
+scale between the points themselves.
+57
+
+The term metalepsis has two further specific rhetorical
+connotations,32 both of which have ramifications for the
+later rhetorical concept of fugue in the Baroque. The first is
+logical in nature, and refers to the understanding of an antecedent by means of a logical consequent, and vice versa. The
+close identity with syllogistic reasoning suggested by this
+definition is not stated explicitly, but it does emerge almost a
+century later in the writings of one of the most important
+Baroque theorists, Angelo Berardi. The second of these
+meanings refers to the statement of a cause removed in time
+from the statement of the effect close at hand. This concept
+of subsequent entries of the fugal exposition standing in a
+causal relationship to the initial entry is alluded to more
+specifically by Burmeisterhimself in his discussion ofapocope,
+as will be seen presently, and takes on great significance when
+one considers the later Baroque analogy between comes and
+aetiologia.
+The second of Burmeister's four fugal figures, hypallage,
+occurs "when a fuga is presented with the succession of
+intervals inverted."33 It is obvious that the analogy between
+hypallage as a rhetorical and as a musical figure is not exact,
+for rhetorically, this figure involves lateral or horizontal
+inversion of word order34which if applied to music literally
+would involve retrogradation and not melodic inversion.35
+Nevertheless, the process of inversion resulting in contraries
+is vitally important in the larger rhetorical scheme. As indicated previously, Anonymous of Besancon considered the
+fuga in terms of the rhetorical collatio, in which similitude is
+developed to a full comparison. However, an equally valid
+and common rhetorical procedure is the arrival at a full
+comparison by the juxtaposition and examination of contraries through the property of dissimilitude. This aspect of
+juxtaposition of contraries also gives rise to opposition, one
+of the most vital aspects of rhetoric, particularly its dialectical side. This is of tremendous importance for the later
+rhetorical concept of fugue in the Baroque.
+Apocope and anaphora, the third and fourth of these fugal
+figures, both have to do with incompleteness of the fuga. The
+former refers to the case in which one or more entries of the
+subject are "ripped away from the fuga,"36 and the latter to
+58
+
+the case in which the subject is not carried systematically
+through all the voices of the texture, leaving the fugal exposition incomplete.37 Although Burmeister does not go into the
+affective or psychological significance of this process of
+abbreviation, it should be noted that the resulting effect, the
+defeat of expectation, was taking on vital importance as an
+affective musical-rhetoricaldevice at this time.38
+Apocope, as a rhetorical figure, refers to the excision of a
+syllable from the end of a word,39 and as such, is very close
+to its fugal analogue where fragments of one or more entries
+of the subject are "ripped away from the fuga." In light of
+the above discussion concerning the causal relation of subsequent entries of the subject to the initial entry, it is interesting that Burmeister attributes the abbreviation here to "a
+pruning of some cause, which takes place in one voice or
+another."40
+
+The analogy between anaphora, the repetition of the same
+subject at the beginning of successive clauses of sentences,41
+and the incomplete fugal exposition in which entries of the
+subject do not occur in all voices, is not nearly so precise as
+the others. Perhaps Burmeister was considering the figure
+anaphora in very general terms, simply as repetition. He may
+also be employing a contemporary turn-of-the-century usage
+reflecting the trend toward the specific fugal procedure of
+stating the subject only once at the beginning of each fugal
+period following the initial full fugal exposition, a concept
+which was to have great significance for fugue in its larger
+structural ramifications later in the seventeenth century.
+It is with Burmeister that the application of rhetorical
+figures to such musical structures as the fuga reaches its
+zenith in Germany. Even the most important of the German
+musica poetica theorists writing after Burmeister, such as
+Johannes Nucius (c.1556-1620), treat fugue in general,
+simplistic rhetorical terms, employing the by this time commonplace rhetorical analogies of imitation and repetition.
+In the three decades after the publication of Burmeister's
+Musica poetica in 1606, it is largely in England42that the
+forward impetus in the growth and evolution of musicalrhetorical application takes place.
+One of the most comprehensive and important applications
+59
+
+of rhetorical figures to musical procedures appears in the
+writings of Henry Peacham (the younger) (c.1576-c.1643),
+who, in his discussion of music, declares:
+Yea, in my opinion, no rhetoric persuadeth or hath
+greater power over the mind. Nay, hath not music her
+figures, the same which rhetoric? What is a revert but her
+antistrophe? her reports but sweet anaphoras?her counterchange of points, antimetaboles? her passionate airs but
+prosopopoeias? with infinite other of the same nature.43
+What is so highly significant for the present discussion is
+that of the four figures mentioned by Peacham, three involve
+fugal procedures.
+Thomas Morley states that "the reverting of a point (which
+we also term 'a revert') is when a point is made rising or falling and then turned to go the contrary way as many notes as
+it did first."44 Since in rhetoric antistrophe refers to the
+inversion of word order in a phrase or sentences,45 the analogy here is identical with Burmeister's earlier linking of
+melodic inversion and hypallage.
+Peacham's equation of musical "reports" with rhetorical
+anaphoras, however, differs from Burmeister's usage and
+reflects clearly the broadening scope of the concept of fugue
+as a more extensive structure. Morley speaks of "keeping
+report,"46 and Charles Butler later defines the report as "the
+iterating or maintaining of a point in the like motion,"47 referring to the periodic repetition of the subject throughout a
+long work. This concept is clarified even further by the
+etymological derivation of the word "report" (as it is used
+here) from the French word report,48which is a continuation
+by means of bringing forward or advancing an element
+through periodic repetition.49 Thus it seems that by the
+second decade of the century, the rhetorical figure anaphora
+had begun to be applied to fugue in its strictest sense. Rhetorically, anaphora does not refer to simple repetition, the
+sense in which Burmeister seems to use it, but rather to a
+very specific type of repetition in which each one of a
+number of successive clauses or sentences begins with the
+same word. This more specific meaning clearly implies an
+extended structure whose members are linked together by a
+60
+
+common element placed prominently at the beginning of
+each member. This is remarkably close to the extended fugal
+structures emerging at this time, in which at least one entry
+of the subject serves to open each successive musical period.
+Of Peacham's three fugal figures, the last, in which counterchange of points is related to the rhetorical figure antimetabole, is by far the most interesting since it introduces an
+entirely new fugally related musical-rhetorical application.
+The term counterchange seems to appear only once more in
+an English musical theoretical source, in the writings over a
+century later of Roger North,50 who uses it in the most
+general terms. However, since counterchange has the specific
+meaning of the interchange or exchange of parts or positions,51 it is used in exactly the same way as the parallel
+German term, Verwechselung, to indicate contrapuntal
+inversion. Although antimetabole (commutatio) is very
+closely related to hypallage and antistrophe, all three having
+to do with the inversion of word order to produce a contrary,
+it is more specific in meaning. Antimetabole, unlike the other
+two procedures, does not involve simple inversion of word
+order, but an exact exchange or interchange of two elements,
+each of which occupies the other's place in the transformed
+phrase or sentence.52 As such, it serves to clarify and to
+reinforce the meaning ascribed above to its analogous musical
+figure, counterchange. There is nothing to suggest that
+counterchange involves melodic as well as contrapuntal
+inversion. Morley, however, does give two types of double or
+invertible counterpoint.53 The first involves simple contrapuntal inversion; the second, which involves both contrapuntal and melodic inversion, he links closely with strict
+canon.
+A somewhat later English source, Francis Bacon (15611626), is no less important for his commentary on the
+close relationship between certain rhetorical figures and
+their musical counterparts, even though they are not so
+completely given over to fugal structures. He writes that
+"the Reports, and Fuges, have an Agreement with the Figure
+
+in Rhetorick, ... .of
+
+Repetition,
+
+and Traduction."54 Bacon
+
+makes the same analogy between reporting and repetition as
+had Peacham before him, but with his equating of fugue and
+61
+
+traduction, we are introduced to yet another attempt to capture the essence of the fugal process in rhetorical terminology.
+The rhetorical figure traduction,55a generic heading for such
+figures as adnominatio and polyptoton, refers to a particular
+kind of repetition in which the repeated element, although
+directly derived from the initial word, is slightly altered by
+changes in case, tense, part of speech, and the like.56 This may
+in fact reflect an attempt on the part of rhetorician-musicians
+to come to grips rhetorically with the fugal concept of the
+tonal answer in which there are minor alterations in pitches
+when the fugue subject is repeated, a procedure which was
+coming to dominate fugal practice at this time. Traductio is
+presented as an etymological figure in which an invariable
+root undergoes slight variations. This strongly supports
+Burmeister's insistence on the close relationship between a
+series of entries of the fugue subject and a series of etymologically related ("conjugate") words.
+With Charles Butler's treatise, The Principles of Music
+(1637), which shows no advance over Peacham and Bacon
+in the rhetorical treatment of fugue, the door is closed on
+the strictly Renaissance musical-rhetorical approach to fugue
+in terms of elocution. Rationalism, with its stress on logical,
+coherent structure, was taking a strong hold in all areas of
+artistic endeavor, and music was to prove no exception. In
+1627, almost one hundred years after the first evidence of
+the application of rhetorical figures to such structures as
+fugue, we arrive at the watershed between the Renaissance
+and Baroque in music theorists' treatment of fugue as a
+musical-rhetorical structure, with the following comment by
+MarinMersenne (1588-1648):
+La Retorique enseigne comme il faut disposer le sujet
+pour le mettre en Musique & apprend au Musicien comme
+il faut imiter les figures de Retorique, en faisant divers
+passages, dinimutions, fugues, consequences, &c.
+Rhetoric instructs how the subject should be disposed in
+order to put it into the music and teaches the musician
+how he must imitate the figures of rhetoric in making
+various passagi, diminuzione, fuge, conseguenze, etc.57
+Although Mersenne here refers to fuge and conseguenze
+62
+
+(close canons) as "figures of rhetoric," he does so only in the
+vaguest of terms, and only after first stressing the disposition
+or logical organization of the subject within a musical structure. This element of logical structure is central to the
+second of the aforementioned five branches of rhetoric,
+disposition. Later, in the seventeenth century, disposition
+replaced elocution as the primary concern of composers and
+theorists in their continued close linking of rhetoric and
+fugue.
+General references to fugue as an extended rhetorical
+discourse or oration, described variously as a conversation,
+an argument, a dispute, a debate, and even as a battle among
+a number of opposing parties, appear frequently in theoretical sources up to the end of the eighteenth century. The
+first theorist to compare fugue with an extended rhetorical
+structure is Athanasius Kircher (1602-80), who speaks of
+fugue as "a series of fugae"
+
+("series . . . fugarum") and
+
+likens it to "the skillful connection of figures in oratory
+through the faculty of rhetoric."58 Not only is the formation
+of a larger structure by a series of points of imitation the
+important aspect of fugue for Kircher, but he sees it as a
+vital connective element in welding together figures to form
+the complete oration itself. In this respect, he hearkens back
+to Burmeister's concept of syntactic logical connection,
+although this aspect of fugue is now applied on a much
+larger scale. The English theorist, Christopher Simpson
+(c. 1610-69), views the "repeating or renewing of the Fuge or
+point.
+
+. . when it comes in after some Pause or Rest . . .
+
+as of a man that begins to speak again, after some little time
+of silence."59 This concept of fugue as a discussion among
+several people (voices) must have been widespread during
+the late Baroque and is remarkably close to the concept of
+strict contrapuntal writing attributed to J. S. Bach by his
+first biographer, Johann Nikolaus Forkel (1749-1818).60
+Thomas Mace (c.1613-1709) refers to fugue as "an Extention,"6' that is, as a discourse or oration amplifying a particular proposition or subject which is treated in music "as
+a Theam, or as a subject matter in Oratory, on which the
+Orator intends to discourse."62 Here we have the concept
+63
+
+of fugue as an extended rhetorical structure involving the
+formal presentation of a subject or proposition followed by
+the discourse or debate which is the outcome of this presentation. The use of the specific rhetorical term extension, the
+structure which amplifies a subject,63is particularly interesting. Similarly, Roger North (1653-1734) writes that fugue
+"hath a cast of business or debate, of which the melodious
+point is made the subject."64
+The leading German theorist, Johann Mattheson (16811764), in distinguishing between fugue and canon, refers to
+the former as a "free oration" (freye Rede") and to the
+latter as a "strict oration" ("solutam orationem").65 He sees
+the various contrapuntalvoices in the fugue as "combattants"
+("Kampfer") and the element of opposition between these
+voices as a "pleasant dispute ("Luststreit").66 Elsewhere in
+the same treatise, he expands greatly on Simpson's concept
+of fugue as a conversation. In his discussion of imitation, of
+which he considers fugue to be the mother,67 he writes as
+follows:
+eine Stimme die andre gleichsam Gesprachsweise unterhalte, Fragen aufwerffe, Antworten gebe, verschiedener
+Meinung sey, Beifall erhalte, sich vereinbare, Wiederspruch
+annehme u.s.w.
+Denn, gleichwie eine Unterredung, da zu allen Vortragen
+blosserdings Ja oder Nein gesaget, und keine Untersuchung
+vorgenommen, keine Behauptung angebracht, keine Gegenrede verspiiret, kein kleiner freundlicher Streit erreget, ja,
+gar keine Muihe genommen wird, es einander nach oder
+auch zuvorzuthun, gar bald schlafrig macht, und schlechte
+Freude erwecket: also erfordert auch eine jede Harmonie,
+wenn sie gleich nur aus zwo Stimmen bestunde, eben solche
+Er6rterung, Einwiirffe, Beispriiche und Lustgefechte in
+den Klingen, die man durch kein bessers Mittel, als durch
+die so genannte Nachahmung, welche mit ihrem Kunstworte, Imitatio, vel potius Aemulatio vocum heisset,
+vorstellig machen kan.
+one voice, so to speak, converses with the other after the
+manner of a conversation, throws out questions, gives
+answers, is of a different opinion, secures approval, is in
+agreement, accepts opposition, etc.
+64
+
+For just as in the case of a conversation where simply
+yes or no is said to all propositions, where no investigation
+is undertaken, no proposition brought forward, no opposing statement perceived, no minor friendly dispute stirred
+up, in short, where no struggle whatsoever is undertaken in
+dealing with one another either before or after, one is
+soon made quite sleepy, and little joy is aroused. In the
+same way, each harmony, even if it consists only of two
+voices, also requires just such debate, objection, qualification, diverting combat in sounds, which one can accomplish through no better means than through so-called
+imitation, which is referred to by its art words, Imitatio, or
+better, Aemulatio vocum.68
+In this passage, Mattheson stresses the necessity of opposition in providing the combative atmosphere so vital for
+diversion.
+
+In his analysis of the fugue in d minor from the second
+volume of J. S. Bach's Das wohltemperierte Clavier, Friedrich Wilhelm Marpurg(1718-95) refers to the fugue similarly,
+as a "dispute" ("Streit")69in which the various voices join. In
+his codification of the fugal practice of Francesco Antonio
+Vallotti (1697-1780), Luigi Antonio Sabbatini (1739-1809)
+refers to fugue as "representinga true and real combat among
+two, three, four and more parts."70The foregoing references
+represent but a general indication of a much deeper and more
+far-reachingconcept of fugue as an extended rhetorical structure in the Baroque.
+Although fewer in number, there are other references to
+fugue during the Baroque which make a much more explicit
+analogy, often technical in nature, between fugal structure
+and rhetorical disposition. Before examining these, it is
+necessary to acquire some understanding of the technical
+aspects of rhetorical disposition itself.71 In the standard
+classical disposition, the oration is divided into as many as
+seven distinct sections-exordium (prooemium), [narratio],
+propositio, [divisio], confirmatio, confutatio (refutatio),
+peroratio (conclusio). The exordium is the beginning of the
+oration, which should prepare the audience to listen with
+interest. The narratio consists of the exposition of pertinent
+65
+
+topics, deeds, and events. It appears in square brackets here
+because it is often considered optional. Its function is taken
+over to some extent by the propositio, which involves a
+formal statement or enunciation of the principal argument(s)
+at issue. In the divisio, the propositio is broken down into
+the particulars relevant to a specific aspect of the argument
+in order better to explain the exact nature of the matter. It
+too appears in square brackets above because it is often
+considered more properly to form an integral introductory
+element within the confirmatio, where arguments are cited
+to support and strengthen the case. In the confutatio, arguments brought against the case by the opposing party are
+refuted and dismissed. Finally, the peroratio should form a
+convincing, artistic close to the oration, usually involving a
+forceful conclusive statement of the argument.
+As has already been stated, musical elocution, the application of rhetorical figures to musical structures, was the
+primary preoccupation of the musica poetica theorists in
+the sixteenth and early seventeenth centuries. Although it
+seems to have been a subordinate rhetorical consideration
+for these theorists, disposition nevertheless emerged as an
+important element in structural considerations, and in the
+early treatment of structure, the fuga appeared as an important element. In these early discussions,72the musical oration
+is generally divided into three sections only-exordium,
+medium (or "ipsum corpus carminis" as Burmeister refers
+to it73), finis. Although the outer sections of the comprehensive scheme outlined above are clearly present here, the
+five possible sections between them are subsumed together
+under the general designation of medium.74 This basic tripartite musical-rhetorical disposition is evident in the first
+explicit references to fugue as an extended rhetorical structure in the middle Baroque.
+Mignot La Voye (fl.1650) refers to fugue as "that which
+is related in some way with a gathering of a number of people
+who, having debated one after the other about some proposed subject, all come to the same conclusion."75 This is
+a very early, much more specific and comprehensive statement of the same analogy expressed later by Simpson,
+Mattheson, and Forkel. What is so important here is the close
+66
+
+identification of fugue with the process of reasoning by
+logical argument. Implicit in this passage is the notion of a
+large-scale structure consisting of the proposition of the
+subject, the argument or debate upon this subject, and the
+arrival of all voices at the same conclusion. La Voye clearly
+outlines the three subsections of the rhetorical scheme of
+disposition, propositio, confirmatio, and conclusio. Concerning the last of these three sections, it is interesting to speculate as to whether La Voye means by "the same conclusion"
+simply the final cadence of the fugue, or whether this is an
+early reference to the much more complex concept of the
+treatment of the thema in close canon, or stretto, as an element of conclusion. At any rate this appears to be the first
+reference to fugue in which a definite, continuous structure
+according to the incipient tripartite musical-rhetorical disposition scheme of the sixteenth century is given as the principal
+determinant in arrivingat a viable concept and definition of
+fugue as a largerstructure.
+The musical theorist most enlightening on the close
+relationship between fugal structure and rhetorical disposition
+in the seventeenth century, largely because he relates unambiguously specific fugal techniques with specific sections of
+the rhetorical disposition scheme, is Angelo Berardi(c.1635p.1693). In discussing music generally, he stresses the great
+value of the other liberal arts in the formation of the musician. It is highly symptomatic of the times that in his general
+discussion of rhetoric, Berardi closely links logic and rhetoric,
+which "render man fit to argue."76 In so doing, he stresses
+both the logical and the dialectical thrust of rhetoric current
+at this time.
+Berardi treats the rhetorical aspect of fugal structure at
+some length. His fugal disposition features the same tripartite
+structure as does La Voye's, but Berardi refers specifically
+to the initial exposition of the thema as "la propositione
+della fuge,"77 to the following intermediate section somewhat
+vaguely as "qualche bel passagio,"78 and to the final division
+as "il concludere."79 Like other theorists before him, Berardi
+views the subject of the fugue as the propositio and refers
+to the body of the fugue in rather vague terms. He is the
+first theorist, however, to identify a specific fugal technique
+67
+
+with the conclusio of the fugue, where "the fugue [subject]
+should be disposed in stretto."80 He attributes the particular
+placement of this canonic section at the conclusion of the
+fugue to its being full of artifice.81 This is completely in
+accord with the basic definition of the peroratio given above,
+in which artistry is stressed as a requisite concluding element.
+Even more fascinating is Berardi's comparison of fugal
+imitation with the basic structure of the art of logic, the
+syllogism:
+Altri l'hanno chiamata conseguenza, pigliando la denominatione dal silogisimo, che usano i Logici, si come in
+quello posta la maggiore, e minore, se ne deduce la conseguenza, cosi dall'ordine, 6 modulatione posta dal Compositore in una parte, ne segue, che in conseguenza si possa
+da un'altra parte cantare l'istesso ordine, 6 modulatione.
+Others have called it [fuga] conseguenza, taking the designation from the syllogism, which the logicians use. Just
+as in the syllogism, one exposes the major and minor
+[terms] and from these is deduced the consequent. Similarly, from a progression or melody exposed by the composer in one part, it follows that, as a consequence, the
+same progression or melody can be sung by another
+part.82
+
+The term conseguenza had been used as early as the midsixteenth century by such theorists as Zarlino to denote a
+type of close imitation.83 Although it certainly is a technical
+term employed in logic, Berardi is the first theorist to draw
+attention to this derivation and in so doing, to view fugue
+literally as being analogous to the process of reasoning by
+logic.
+The tripartite fugal-rhetorical disposition outlined above
+had become crystallized by the end of the seventeenth
+century, especially in Italy, where this basic scheme continued
+well into the eighteenth century. It remained for German
+theorists to rigorously apply the rhetorical disposition
+scheme in its complete form to such musical structures as
+fugue.
+Writing to Mattheson on July 28, 1718, Johann Christoph
+68
+
+Schmidt (1664-1728),84 Capellmeister in Dresden, includes
+the following observations on fugue writing:
+Denn eine Fugam zu tractiren, muss ich die artificia
+so wohl aus der Oratoria, als bey dem Stylo modemo,
+nehmen, ob gleich darinne mehr die Harmonia, als Oratio, dominiret. Denn Dux ist Propositio: Comes Aetiologia, Oppositum ist Inversio varia Fugae; Similia geben
+die veranderten Figuren der Proposition, secundum valorem; Exempla k6nnen heissen die propositiones Fugae in
+andern Chorden, cum augmentatione & diminutione
+Subjecti; Confirmatio ware wenn ich das Subjectum
+canonisire; und Conclusio, wenn ich das Subject gegen die
+Cadenze, in Imitatione, iiber eine notam firmam horen
+lassen, der ander artificiorum zu geschweigen, welche in
+Eintretung des Subjecti anzubringen und zu observiren
+sind.
+For in order to treat a fugue, I must take artifice just as
+much from oratory as from the modern style, although
+music dominates more in this than does oration. For the
+dux is propositio; the comes, aetiologia. Oppositum is
+the varied inversion of the fugue. Similia indicates the
+altered notes of the propositio according to value. Exempla can refer to the propositiones of the fugue in other
+keys with augmentation and diminution of the subject.
+Confirmatio would be when I treat the subject in canon,
+and conclusio, when I cause the subject to be heard in
+imitatione over a long held note toward the cadences, not
+to mention the other artifices which are to be brought in
+and observed in the entry of the subject.85
+The structural scheme applied here by Schmidt to fugue
+is a pedagogical variant of the classical disposition scheme
+of rhetoric, the chria.86 As treated by one of the leading
+German rhetoricians of the period, Christoph Weissenborn, the chria consists of four distinct sections which
+compare with the classical rhetorical disposition scheme
+as follows:87
+69
+
+CHRIA
+
+pro tasis
+aetiologia (probatio)
+.
+~~~~~~......
+amplificatio
+......
+..
+conclusio
+
+DISPOSITIO
+exordium
+narratio
+propositio
+.divisio
+confutatio
+confirmatio
+conclusio
+
+Weissenbor distinguishes between a "simpler chria" ("leichtere chria") and a "more complex chria" ("schwerere
+chria"),88 the only difference between the two being an
+extension of the amplificatio in the latter by a greater working out.
+The chria lacks the initial two sections of the classical
+disposition scheme, exordium and narratio, commencing
+immediately with the protasis or principal thesis, synonymous with the propositio. The chria then presents a new
+section not found in the classical disposition scheme, aetiologia or probatio. Aetiologia is the process of assigning
+causes for effects given89 and therefore its function is to
+further clarify and elaborate the protasis. The alternate
+terminology given for this section by Weissenborn,probatio,
+would indicate that it was looked upon as a proof or demonstration; it is interesting that probatio was sometimes given
+by rhetoricians as the third division of the oration, i.e.,
+prooemium, [narratio], propositio, probatio, etc.90 It is clear
+that aetiologia acts as a qualifying, explicative element, and
+is therefore closely bound to the propositio as a consequent
+element in a causal relationship. Thus it has been bracketed
+together with protasis above in parallel with propositio. The
+next two sections in the classical disposition scheme, confirmatio and confutatio, both involve the statement of
+arguments, the former to strengthen the case, the latter to
+refute arguments brought against it by an opposing party.
+Thus it is not surprising that these two sections were often
+linked together under the single term contentio, and their
+particular sequence in the dispositio scheme seems to be
+reversible.91Weissenborn, under amplificatio, gives four basic
+70
+
+methods of amplification-a contrario, a comparato, ab
+exemplo, and a testimonio.92 Both the chria and the classical dispositio scheme end with the conclusio. It is significant
+for later discussion of this closing section that Weissenborn
+typifies it as consisting of either a repetition of the protasis
+(propositio), or a logical consequent in the form of an axiom
+or a wish, commonly in the form of a short verse.93
+Weissenborn
+Schmidt
+propositio (dux)
+aetiologia (comes)
+oppositum (inversion)
+similia (alteration in duration of notes of subject)
+ab exemplo
+exempla (transposition, augmentation, diminution)
+a testimonio
+......
+......
+..
+confirmatio (stretto)
+conclusio
+conclusio (closer stretto
+over pedal)
+It is interesting that Schmidt's fugal-rhetorical dispositio
+scheme follows the chria almost literally, the only exceptions being that he dispenses with the testimonium among
+the various procedures of argumentation included under
+amplificatio, giving only the first three of these-oppositum
+(a contrario), similia (a comparato), and ab exemplo,
+there being no musical structure analogous to testimonium
+applicable. Also he inserts confirmatio between amplificatio and conclusio. In so doing, he has presented a hybrid
+structural scheme, predominantly from the chria, but
+with slight reference to the classical disposition scheme
+of rhetoric. Most fascinating for this study, however, is
+Schmidt's linking of specific fugal techniques with each of
+the sections and subsections of this musical-rhetorical dispositio scheme. He thus continues, on a truly comprehensive
+scale, a process begun just over three decades earlier by
+Berardi with his linking of stretto and conclusio.
+Each of these sections of the rhetorical dispositio scheme
+and their respective fugal applications must now be examined
+protasis
+aetiologia
+amplificatio - a contrario
+a comparato
+
+71
+
+and discussed in light of the writings of other theorists from
+this period.
+Schmidt begins his discussion of fugal-rhetorical disposition with the propositio in keeping with the parallel structural scheme of the chria, dispensing with exordium and
+narratio.94On rare occasions, the fugue itself, most often a
+vocal fugue, begins with a short, full-textured, predominantly
+homophonic section which is usually highly imposing and
+portentous and employs the thema of the fugue somehow in
+its construction. Sabbatini refers to these brief introductory
+complexes as "the figure of the prologue or exordium which
+with its few measures should always announce the subject
+matter or affect of the fugue."95
+We turn now to a discussion of the first section of the
+fugal-rhetorical disposition scheme proper, the propositio.
+Mattheson refers to the propositio as "the strict statement"
+containing "the subject or purpose of the piece."96 As is
+evident from passages quoted above, the conception of
+propositio had been associated first with the fuga as conceived as a complete unit in the sixteenth century, and later
+in the seventeenth century simply with the thema. There is
+no change in this concept in the eighteenth century. Both
+Mattheson and Sabbatini97view the thema of the fugue in
+terms of a propositio, the former referring to the thema as
+"what for the orator, is the text or subject."98 Schmidt, as
+his discussion of fugal-rhetorical disposition would indicate,
+differentiates more clearly, viewing only the initial statement
+of the thema, the dux, as the propositio.
+For Mattheson, the rhetorical parallel goes further than
+simple analogy between thema and propositio, bearing on
+the actual construction of the thema:
+Bey
+
+dem
+
+Themate
+
+oder
+
+Hauptsatze,
+
+. . .mussen
+
+gewisse besondere Formuln im Vorrath seyn, die auf
+allgemeine Vortrage*) angewandt werden k6nnen. Das ist
+zu sagen: Der Setzer muss an Modulationen, kleinen
+Wendungen, geschickten Fallen, angenehmen Gangen und
+Spriungen, durch viele Erfahrung und aufmercksames
+Anh6ren guter Arbeit, hie und da etwas gesammelt haben,
+welches, ob es gleich in lauter eintzeln Dingen bestehet,
+dennoch was allgemeines und gantzes, durch figliche
+72
+
+Zusammensetzung hervorzubringen verm6gend sey. Wann
+ich z.E. folgende drey unterschiedene und abgebrochene
+Gange im Sinn hatte: [Example 1] und aus denselben
+einen an einander hangenden Satz machen wollte, k6nnte
+derselbe etwa so aussehen: [Example 2]
+Diese Specialien miissen aber nicht so genommen
+werden, dass man sich etwa ein Verzeichniss von dergleichen Brocken aufschreiben, und, nach guter Schulweise, daraus einen ordentlichen Erfindungskastenmachen
+misse; sondern auf dieselbe Art, wie wir uns einen Vorrath
+an W6rtern und Ausdriickungen bey dem Reden, nicht
+eben nothwendig auf dem Papier oder in einem Buche,
+sondern im Kopffe und Gedachtniss zulegen ..
+*)Specialia ad generalia ducenda nennen es die Redner.
+As for the thema or principal statement, certain special
+formulae must be kept in stock, which can be employed
+in general enunciations.*) That is to say, the composer
+must, through experience and attentive listening to good
+work, have chosen from here and there, modulations,
+small turns of phrase, suitable examples, agreeable conjunct and disjunct passages, which, whether it consists
+purely of particular things, nevertheless is capable of
+generating something general and complete through
+suitable combination. For example, if I had in mind the
+following three independent and distinct passages [Example 1] and out of these wished to make a statement dependent on another, the result might appear somewhat
+as follows [Example 2].
+These specials must, however, not be construed in such
+a way that one writes down a sort of catalogue of such
+fragments oneself and from that must construct an ordered
+box of inventions after the fashion of proper erudition,
+but rather in the same way as we continue adding to our
+stock of phrases and expressions in oratory, not necessarily on paper or in a book, but rather in the head and
+memory.
+
+. .
+
+*) Orators call it specialia ad generalia ducenda.99
+These passages are crucial, for they reveal a facet of thematic
+construction which has hitherto been overlooked. Mattheson
+73
+
+1
+rr^B^
+I
+
+sees the thema as a general thesis which is the end result of
+the synthesis of a number of special elements; and he quite
+rightly likens this to the dialectical procedure of "proceeding from specials to generals" ("specialia ad generalia ducenda"). Moreover, from his description of these specials as
+a stock of common elements taken from here and there and
+preferably stored "in the head or memory," it is clear that he
+is drawing a clear parallel with the whole process of memoria,
+which earlier was probably the most vitally important of the
+five branches of rhetoric. In this process a myriad of images
+is stored in the memory by associating them with an organized place system such as that provided by the rooms in
+a house.?00 These stock musical elements implanted in the
+memory are referred to by earlier theorists as loci communes, or simply commonplaces. Most assuredly, it is exactly
+this longstanding rhetorical tradition to which Mattheson is
+here drawing attention. It will be necessary to return to this
+concept of the thema as general thesis and the specials from
+which it is synthesized presently in the subsequent discussion
+of confutatio.
+Thus far, only the generalconcept of the thema has been discussed. Certain more specific and detailed musical-rhetorical
+applications in this particular section of the fugue must now
+be considered. We will begin this discussion with the most
+characteristic musical aspect of the fugal propositio, the
+dux-comes combination. Schmidt refers to dux as propositio,
+and comes as aetiologia. The concept of comes as a direct
+causal consequence of dux implicit in the term aetiologia
+had been clearly in evidence well over a century earlier in
+Burmeister's discussion of the fuga, particularly in his treatment of the figures metalepsis and apocope. The same
+approach is promulgated with even greater clarity by Berardi
+in his musical-logical definition of comes as conseguenza. The
+integral concept inherent in the analogy between comes
+and the term probatio is also clearly a traditional one, established in Burmeister's statement that "one [propositio, that
+is, dux]
+
+can be tested and weighed carefully..
+
+.
+
+through
+
+many [statements, i.e., comes and subsequent entries].""'
+There is nothing then which is strikingly novel, except for
+the new chriistic terminology, in Schmidt's conception of
+75
+
+the close causal and complementary structural relationship
+between propositio and aetiologia (probatio).
+Mattheson's concept, on the other hand, runs completely
+counter to that of Schmidt's in that he sees the two, dux
+and comes, as opposing elements:
+Eine jede Fuge hat so zu reden zween Hauptkampfer,
+welche die Sache mit einander ausmachen miissen. Der
+eine heisst Dux, der andre Comes. . . . Der Anfihrer, oder
+
+Ducem, begleitet sein Gefihrte, oder Comes. Doch geschiehet diese Nachfolge oder Begleitung in unterschiedlichen
+Klangen, um dadurch eine gewisse Nacheiferung, eine
+aemulationem oder einen Luststreit auszudrucken, als
+worin fast der gantze Unterschied zwischen dem Fuhrer
+und Gefahrten bestehet.
+Each fugue has, so to speak, two principal combatants
+who have to settle the issue with one another. The one is
+called dux, the other, comes.
+
+..
+
+. The leader or dux
+
+accompanies its follower or comes. Nonetheless, this
+succession or accompaniment occurs in different keys,
+thereby expressing a certain rivalry, an aemulatio or a
+heated dispute. In this consists almost the entire difference
+between the leader and the follower.102
+For Mattheson, the opposition between dux and comes in
+the initial exposition is tonal in nature, arising from the
+close horizontal juxtaposition of statements of the thema
+in sharply contrasting keys, usually tonic and dominant. In
+fact, the comes often concludes with a pitch which is not an
+element of the tonic chord because of the particular melodic
+configuration of the thema. Moreover, unless the thema is
+modulatory, the comes at its conclusion normally has
+strongly established the dominant key. In both cases, there
+is a need to return to the tonic for the subsequent entry of
+the dux in that key, both on the purely practical compositional level, to effect smooth harmonic progression, and
+also very importantly on the dialectical-rhetorical level, to
+resolve the opposition which in this case consists of the
+powerful tonal tension generated between dux and comes.
+In actual practice, this is usually effected either by a modulatory passage involving sequential imitation of a fragment of
+76
+
+the thema, or by a more sudden chromatic shift. Mattheson
+refers to such modulatory passages of resolution added after
+the statement of the comes as conciliatio, a general dialectical
+term for the process in which two different parties in opposition are brought together in agreement:
+Noch ein Kunstwort, nachst obigen zweien, ist hiebey
+zu betrachten.
+
+....
+
+Es heisst Conciliatio
+
+Modorum, da
+
+man ein Thema, dessen Schluss etwas ausserordentliches
+hat, durch einen kleinen Zusatz in die rechte Gleise bringet,
+und gleichsam mit dem anhebenden Nachsatze vers6hnet.
+Still another art word, besides the above two, should
+here be considered.
+
+...
+
+It is called conciliato modorum,
+
+where one brings a thema, whose close has something
+irregular about it, onto the right track through a small
+addition, and as it were, brings it together into agreement
+with the beginning subsequent statement.103
+Slightly later, Mattheson refers more specifically to the
+process of tonal opposition and its subsequent resolution
+when he refers to the process as "bringing itself into agreement with the key: because it had, as it were, fallen out with
+it over some matter,"104 at which time he gives a musical
+example of conciliatio (Example 3). For Schmidt, then, dux
+and comes are complementary elements, while for Mattheson
+they are opponents, rivals locked in a dispute concerning the
+principal argument, the thema or propositio. As will become
+evident, it is the latter of these concepts which is in keeping
+with the whole concept of fugue at this time.'05
+A much more general rhetorical element involved with
+successive entries in the thema must now be considered, that
+of repetition. Sebastien de Brossard's(1655-1730) definition
+of repetition indicates that this procedure was linked inseparably with fugue:
+REPLICA, ou REDITTA. veut dire, REPLIQUEor REPETITION. C'est lorsqu'une Partie apres quelque silence
+repette les memes Nottes, les memes Intervalles, le meme
+mouvement, en un mot le meme Chant qu'une premiere
+partie a deja dite pendant le silence de celle-cy. C'est la
+proprement qui fait la fugue.
+77
+
+Example 3
+
+Werde
+
+r
+
+-c,
+
+f
+
+ACR -
+
+mein
+
+Gemithe
+
+J Jr
+- J. L
+
+r f
+
+f
+.
+
+---
+
+f
+
+_
+
+l
+_
+
+I.-
+
+IIr
+
+Fr
+
+munter
+
+_
+
+rr
+
+o'J
+
+r
+
+r r
+
+r
+
+X J
+
+J
+
+'
+
+-r
+
+r
+
+J
+
+X
+
+j
+
+Conciliatio
+
+-
+
+1:I
+
+3::#
+
+78
+
+-
+
+v
+
+_
+
+-
+
+_
+
+-
+
+_
+
+Replica or reditta means reply or repetition. This is when
+one part, after some silence, repeats the same notes, the
+same intervals, the same motion, in a word, the same
+melody as a first part has already stated during the silence
+preceding the second entry. Properly speaking, it is this
+which gives rise to fugue.'06
+Brossard seems to be pointing more precisely to the opening
+repercussio of the fugue. Mattheson refers to the same aspect in his discussion of repetition, defining it as "what one
+in fugal matters generally calls the repercussio, that is if I
+transpose a certain phrase higher or lower."'07 He refers to
+these repetitions as "clausulae synonymae,"'08 a rhetorical
+term referring to a passage of exposition in which the sense
+of the opening statement is clarified and elaborated on by
+the use of consequent statements each of which has the
+same meaning as the initial statement.'09
+The aspect of repetition discussed above reflects the
+tendency later in the seventeenth and early eighteenth centuries to view the term in a very general manner. However,
+the actual term anaphora (repetitio) has a quite specific
+meaning, namely, the repetition of the first word of a phrase
+at the beginning of a number of parallel subsequent phrases.
+This concept carried over into the eighteenth century;"? and
+it is significant that musically, it is the fugue which most
+perfectly exemplifies this procedure, since each period
+begins with one or more statements of the thema.
+We come now to the second section proper of the rhetorical dispositio scheme, the confutatio or refutatio. This is
+the section in which the opposition to the propositio is
+resolved by refutation.
+In his discussion of musical-rhetorical disposition, Burmeister had described the second section of his tripartite
+division, the corpus cantilenarum or medium, as "comprising congeries, by which texture, just as by the varied arguments of the confirmatio of rhetoric, minds are penetrated
+so that a general truth [i.e., propositio] can be grasped and
+examined more clearly.""' Burmeister's reference to the
+important role of the rhetorical figure congeries (accumulation) in this section is significant, for congeries is probably
+79
+
+the most important of the four distinct techniques11 within
+the more general process of amplificatio, the term which
+corresponds in Weissenborn's chriistic dispositio scheme to
+the classical confutatio."3
+The figures incrementum (augmentation) and congeries
+(accumulation) are very similar in nature, both consisting of
+a rising climactic series of like elements. In their musical
+adaptation, they consist of sequential repetition.14 Since this
+is an element common to this portion of the musical structure not only in fugue, but in all musical genres of the period
+under consideration, it will not be dwelt on further at this
+point; but it should nevertheless be kept in mind, since it
+was a basic aspect of musical-rhetorical argumentation in
+the confutatio of the fugal-rhetorical dispositio scheme.
+Applied to this basic sequential framework in the confutatio, however, was a musical technique highly germane
+to the discussion of fugue-that of thematic fragmentation.
+One of the first theorists to come to grips with this technique
+as it was applied in those sections of the fugue between
+entries of the thema was Giovanni Bontempi (c.1624-1705):
+Nelle altre Parti, non potendo elleno havere i Soggetti
+interi, si addatteranno i membri loro, che sono particelle
+degli stessi Soggetti, introdotte non con infilzature d'intervalli non convenevoli per riempir le Parti, e formar con
+quelle agevolmente il Mostro d'Horatio: ma con intervalli
+ragionevoli, e con ragione o di Fuga o d'Imitatione: in
+guisa tale, che non vi sia movimento alcuno, il quale non
+habbia la sua relatione e convenienza [Example 4].
+In the other sections, not being able only to have complete
+subjects, their members are adapted. These are particles
+of these same subjects, not with a stringing together of
+periods not suitable for filling up the parts, and with ease
+to fashion the prodigious feat of Horatio,"5 but with
+rational periods, by means either of fuga or of imitatione.
+This assures that there will be no progression whatsoever
+which does not have its relation and connection"6 [Example 4].
+
+Bontempi's terminology here is carefully chosen, highly technical in nature, and is most fascinating in light of Mattheson's
+80
+
+Example 4
+
+rrrF
+
+n
+
+r-r-J
+
+rfT
+
+Guida
+
+-
+
+4c
+
+jIJ
+
+v
+
+Consequente
+
+fl
+~-;
+
+-
+
+-
+
+i
+
+~
+
+ofI i
+t,l,
+
+I
+
+U
+Vv
+V
+
+~
+
+I
+
+I liil.'
+
+P
+A
+I ?
+
+I
+
+I
+,
+
+I
+
+'
+
+'
+
+,
+
+i
+
+I
+
+II
+
+-_-
+
+v
+
+~
+
+--,
+-
+
+I
+
+I
+
+I
+
+r-
+
+__
+iI
+
+_
+
+i
+
+I
+,
+
+I
+
+I
+I
+
+I
+
+I
+,
+
+I
+
+'
+
+..
+,
+
+I
+
+Cad.
+00
+
+i
+
+~
+
+F
+;--
+
+,;
+
+I
+
+.,
+
+I
+
+I~
+
+'
+
+iI
+-
+
+CI
+
+Memb.
+
+I:-I
+
+I
+
+I
+
+I I
+I
+I
+IMemb
+Memb.
+
+,
+
+:
+
+I
+
+I
+
+conception of the thema as a universal or general composed
+of a number of particulars or specials. Bontempi reinforces
+this concept, referring to fragments of the subject as "particles" (particelle).17
+
+This term had a very specific meaning,
+
+referring to the smallest possible atomic units resulting from
+subdivision of an element, reduction to particular matter
+in the most strictly literal sense. Equally interesting, in this
+case for its grammaticalsignificance, is Bontempi's use of the
+word "members" (membri)118 for these fragments. This is
+a specific, technical grammatical term, also called colon,
+to indicate a portion of a sentence which-although succinct
+and complete in its brevity-does not express the entire
+thought, relying for completion on supplementation, ideally
+by two further members.19 It is just this element of incompleteness inherent in such a fragment which creates, in conjunction with the climactic aspect of sequential repetition,
+such a powerful effect. It demands continuation to and
+completion by the eventual statement of the complete
+sentence or thought (thema) in a subsequent section. Bontempi's emphasis on the need for logical connection and
+relationship between sections with its resultant unity is
+significant in light of the highly rational and logical approach
+to fugue taken by such contemporaries as Berardi.
+According to Mattheson, every musical propositio was
+thought of as a general constructed by the synthesis of a
+number of particulars. Bontempi here reveals that in the
+subsequent section, the confutatio, the propositio as fugal
+thema is subjected to the reverse process of decomposition
+or analysis back into its particulars; and here one or more
+of the resulting fragments is subjected to close musical
+scrutiny, so that in a manner of speaking, these particulars
+become the thema of the confutatio. This whole process,
+then, is the reverse of the procedure described above by
+Mattheson in connection with the construction of the thema
+to be employed in the propositio, not "proceeding from
+specials to generals" (specialia ad generalia ducenda), but
+rather "proceeding from generals to specials" (generalia ad
+specialia ducenda), a process basic to dialectic.
+It is highly significant that it is precisely this abstract
+dialectical technique of thematic fragmentation which lends
+82
+
+its name to a separate section in the classical rhetorical disposition scheme directly following the propositio, the divisio.120 In fact, the process of thematic fragmentation itself
+is most often designated in musical-rhetorical theory by the
+term distributio, a rhetorical figure for which the term
+divisio is the most commonly employed synonym. Johann
+Adolph Scheibe (1708-76) makes such a connection later in
+the eighteenth century, and in doing so stresses this figure's
+great effect in fugue:
+Die VIIste ist die Zergliederung (Distributio.) Diese
+geschiehet, wenn man einen Hauptsatz eines Stiickes auf
+solche Art ausfihret, dass man sich bey jedem Theile
+desselben nacheinander besonders aufhalt. Wenn man
+etwa ein Thema zu einer Fuge, das etwas lang ware, so
+zergliedern wollte, dass man zuerst einen Satz, oder Takt,
+und alsdann auch das ubrige gleichsam zertheilet, ausfiihrte, und folglich alle Theile des Hauptsatzes, als besondere Satze betrachtete, und durch eine verschiedene Ausfihrung von einander absonderte. Dass diese Figur zur
+geschickten und vollkommenen Ausarbeitung einer Fuge
+sehr viel beytragt, erhellet bereits hieraus zu geniige.
+The 7th [figure] is dissection (distributio). This occurs
+when one works out the principal subject of a piece in
+such a way that one dwells upon each part of it specially,
+one part after another. If one wished perhaps to dissect
+the thema of a fugue that was somewhat long, then one
+would first treat one phrase or measure and then also
+fragment in a similar manner what remained, and consequently would consider all parts of the principal subject
+as special phrases and isolate these from one another by
+different treatment. That this figure contributes a great
+deal to the skillful and consummate working out of a
+fugue, has already become abundantly clear from the foregoing.121
+
+Scheibe stresses the concept of proceeding to specials,
+referring in his discussion to treating fragments "specially"
+and as "special phrases." He emphasizes in his concluding
+statement the powerful dialectical potential of this figure
+as a forceful, persuasive arguing agent:
+83
+
+Ueberhaupt aber muss diese Figur dazu dienen, den
+Verstand nachdr(icklicher zu machen, und die Zuh6rer
+gleichsam zu tiberzeugen.
+Above all, however, this figure must make more of an
+impression on the comprehension, and at the same time,
+convince the audience.122
+Forkel supports the concept of divisio as a distinct section
+in the rhetorical dispositio scheme, when he refers to that
+segment immediately following the thematic complex as "die
+Zergliederung."'23Significantly, he characterizes the process
+employed in this section as "the individualization of general
+affections,"124 by which phrase he stresses not only the
+still current concept of the principal thema as the general
+expression of an affect, but also the dialectical procedure
+of specialization or particularization of the general thesis.
+Now that the more general aspects of the confutatio,
+sequential amplification and thematic fragmentation, have
+been discussed at some length, it is necessary to examine
+the specific methods of argumentation which Schmidt
+applies to this section and their musical application in fugue.
+As an important preliminary step in this more detailed
+study, Mattheson's definition of confutatio should prove
+highly enlightening:
+Die Confutatio ist eine Auflosung der Einwiirffe, und
+mag in der Melodie entweder durch Bindungen, oder auch
+durch Anfiihrung und Wiederlegung fremdscheinender
+Falle ausgedruckt werden: Denn eben durch dergleichen
+Gegensatze, wenn sie wol gehoben sind, wird das Gehor
+in seiner Lust gestarcket, und alles, was demselben in
+Dissonantzen und Rtickungen zu wieder lauffen m6gte,
+geschlichtet und aufgel6set.
+The confutatio is a resolution of the objections and
+may be expressed in music either through suspensions or
+also through the introduction and refutation of strangeseeming passages. For it is just by means of these elements
+of opposition, provided that they are deliberately rendered
+prominent, that the delight of the ear is strengthened and
+everything in the nature of dissonances and syncopations
+which may strike the ear is settled and resolved.125
+84
+
+The rhetorical purpose of the confutatio is to refute objections to the principal thesis of the argument; the musical
+purpose is to resolve opposition to the thema. According
+to Mattheson, this opposition generally takes three forms.
+The first, the clashing dissonance resulting from suspension
+figures, involves vertical harmonic contraposition; the second,
+the jolt resulting from the rhythmic displacement by syncopation, involves vertical rhythmic contraposition; and the
+third, the introduction of foreign sounding passages, is a
+horizontal sort of juxtaposition serving as a strong contrast
+to the reiterated thema. In the first case, the resolution of
+such opposition takes the form of the harmonic resolution
+inherent in the suspension figure; in the second case, it takes
+the form of the rhythmic resolution afforded by such structures as the cadence where the voices merge rhythmically on
+a strong pulse; in the third case, although it is not stated
+explicitly, such resolution consists in the eventual reappearance of the thema.
+Mattheson's example of the confutatio employs the first
+of these three procedures of opposition and resolution, and
+at the same time furnishes a good example of thematic
+fragmentation (see example 5). In a footnote, he refers to
+this passage as a series of "opposing statements with their
+resolutions called the confutatio, the dissolutio by rhetoricians, the resolutio by us musicians."'26 Here, the elements
+
+of opposition are represented by a series of suspended
+dissonant sevenths and fourths, and the refutation of this
+musical opposition is achieved by various resolutions of these
+dissonances, in every case to the consonant third.
+It is significant that for Mattheson, the aspect of opposition completely dominates the musical confutatio. It should
+be recalled that a contrario is the first of the four genera in
+the subdivision of the amplificatio into the various methods
+of argumentation in the chria. Of course, the element of
+opposition is basic to the whole process of argumentation
+and is by far the most important element in the fugal confutatio. Schmidt, it should be remembered, refers to oppositum
+(a contrario) in the fugue somewhat cryptically as "the
+varied inversion of the fugue," by which it would seem that
+for him, the principal method for opposition in the fugue
+85
+
+,
+
+00
+oo
+
+Example 5
+
+1FL
+
+i
+
+-
+
+t1-1
+
+=-
+
+I'r-
+
+c
+
+f-
+
+^ -
+
+~
+
+~
+
+'u
+
+I
+
+It
+
+I
+
+F
+]iI
+
+__.r
+
+-Jt
+
+I II
+W
+
+, ,-
+
+11-I-
+
+-,
+
+rJ~.
+
+v
+
+~r
+
+Example 6
+
+GGF
+
+i"0^
+
+Da sagt
+
+s_
+
+.b
+
+p
+man zu
+
+if
+
+am
+
+und Hand, kein
+mit Mund
+
+|,1
+
+-r
+
+doch wenn
+nur ge-wandt,
+der Ri-cken
+
+~/
+
+r
+
+ist
+
+Pr
+
+Wor
+s
+
+X
+'
+
+scho
+
+consists in the various types of musical inversion. This brings
+to mind immediately the close analogy drawn between
+the musical processes of melodic and contrapuntal inversion and the various rhetorical figures involving the inversion
+of word order such as hypallage, antistrophe, and antimetabole in early seventeenth-century musical-rhetorical sources.
+As will be seen from the following discussions of musical
+opposition by eighteenth-century theorists, inversion was
+still one of the most powerful methods of musical opposition, and new aspects of musical-rhetorical opposition were
+also emerging at this time.
+Early in the century, Brossard's definition of opposition,
+like Mattheson's later discussion, stresses the element of
+vertical juxtaposition to produce harsh dissonances, above
+all at cadences:
+OPPOSITIONE ou OPPOSIZIONE. veut dire, OPPOSITION. C'est lorsqu'on met quelque chose aupres d'un
+autre, quoyque ce ne soit pas naturellement sa place, cela
+arrive souvent, sur tout dans la preparation des cadences,
+ou l'on met par opposition la 6. ainsi6.
+Oppositione or opposizione means opposition. It is when
+one places something against another although this is not
+naturally its place. This often occurs above all in the
+preparation of cadences where one places by opposition
+the 6th thus 6.27
+
+Moritz Vogt (1669-1730) defines antitheton (contrapositum), a more specific type of opposition in which contraries are contrasted by juxtaposition, as "opposition such
+as that which occurs in subjects and countersubjects as well
+as the opposition of dissonances."128 Vogt thus includes
+the element of the vertical harmonic clash which Brossard
+had discussed earlier, as well as the important aspect of
+vertical thematic clash between subject and countersubject.
+Johann Gottfried Walther (1684-1748) refers to the
+same term as "a musical phrase through which those things
+which are contrary and opposite to one another can be expressed,"129 but interestingly enough, he treats the term
+antithesis more specifically as "proceeding from a clausula
+formalis directly into a foreign passage,"130 a definition
+87
+
+which anticipates Mattheson's similar mention of "strange
+seeming passages" as an element of opposition.
+Mattheson, in his treatment of opposition as an articulating agent in music, contributes further insights into the
+whole question of contraposition:
+Gegensatze k6nnen auf verschiedene Weise im Gesange
+ausgedruckt werden, es sey durch gewisse Klange, die
+ihren Gang umkehren; durch Intervalle, die einander
+zuwieder lauffen, durch plotzliche Veranderung der
+Tonart, des Tacts etc. Zur Vermeidung der Weitlauffigkeit wollen wir nur von der ersten Gegenbewegung eine
+Probe geben [Example 6].
+Opposites can be expressed in music in various ways,
+be it through certain notes which invert their motion,
+through intervals which run against one another, through
+sudden changes of key, of tactus, etc. To avoid running
+on at too great length, we will give a sample only of the
+first, contrary motion131 [Example 6].
+Mattheson's musical example offers graphic proof of the
+powerful impact of the element of opposition which is given
+first place in his discussion, contrary motion by melodic
+inversion. The text, expressing the contradictory nature of
+hypocrisy, is divided into two parallel opposite phrases, the
+second a strict inversion of the melody of the first. Mattheson then mentions the aspects of dissonance, and that of a
+sudden key change which recalls the conflicting relationship
+between dux and comes discussed above. A related element
+of opposition is the sudden change of time signature, a facet
+of opposition not dealt with by any other theorist but
+obviously one of great significance for such genres as the
+canzona.
+Meinrad Spiess (1683-1751) takes three elements into
+account in his discussion of musical opposition:
+Antithesis, Contrapositio, Gegensatz geschiehet, wann
+einem Themati das Contra-Thema;oder denen erwartenden
+Consonantien die Dissonantien entgegengesetzt werden.
+Wiederum so man aus einer Clausula formali gehling
+hinweg- und in eine fremde gehet.
+88
+
+Antithesis, contrapositio, opposition occurs whenever
+the contrathema is set in opposition against the thema,
+or dissonances are set in opposition against anticipated
+consonances. Again, it occurs when one leaves a clausula
+formalis and enters into a foreign one.132
+His treatment is obviously derivative of those of Walther
+and Mattheson, but it is interesting that in his approach to
+the opposition of dissonances, Spiess clearly introduces the
+concept of the frustration or defeat of expectation as an
+affective impact.
+Scheibe gives a comprehensive discussion of opposition,
+and significantly, its important application in fugue is
+stressed:
+Die VIIIte ist der Gegensatz (Antithesis.) Wenn man
+einige Satze gegen einander stellet, um den Hauptsatz
+dadurch desto deutlicher zu machen. Dieses geschiehet
+vornehmlich in Fugen, da man dem Hauptsatze jederzeit
+noch andere Satze entgegen setzet, um jenen desto besser
+auszuftihren und zu erheben. Insonderheit aber geh6ret
+zu dieser Figur, wenn man ganz fremde Satze erfindet,
+die an sich selbst und einzeln genommen im geringsten
+nicht mit dem Hauptsatze verbunden zu seyn scheinen.
+The 8th figure is opposition (antithesis). When one
+places subjects against one another in order to make the
+principal subject that much clearer. This occurs especially
+in fugues, where one constantly sets the principal subject
+in opposition to still other subjects in order to better
+clarify it and render it all the more prominent. This
+figure, however, is especially suitable when one invents
+completely foreign subjects which, taken by themselves
+individually, seem to be not in the least related to the
+principal subject.133
+Scheibe is careful to distinguish between that type of opposition which arises whenever a different counterpoint is juxtaposed with the principal subject, and the particular case in
+which the counter subject is really an alien principal subject
+in its own right such as that which appears, for instance, in
+a double fugue. He also stresses invertible counterpoint as
+89
+
+an element of opposition, a concept referred to only vaguely
+by Schmidt, and by no other theorist, stating at the conclusion of his discussion that "this is the real basis of opposition."134
+
+Much later, Forkel adds a further musical-rhetorical
+dimension to the question of opposition:
+Die Gegensatze sind in der Musik das, was in der eigentlichen Rede die Beyspiele sind, wodurch wir den Zuhorer
+n6thigen, unsern Hauptsatz gleichsam eben so gegriindet
+zu finden, als das angeftihrte ahnliche Beyspiel. Sie sind
+in dieser Ricksicht eine Art von Beweisen. Bisweilen
+werden sie mit dem Hauptsatze zugleich verbunden, wie
+in Fugen
+
+..
+
+Opposites are to music what examples are to the real
+oration, through which we compel the listener to find our
+principal subject just as thoroughly grounded as the preceding similar example. They are in this respect a type of
+proof. Sometimes they are bound together with the
+principal subject as in fugues. . . .135
+According to Forkel, elements of opposition serve to exemplify the thema and thus function as proofs by example.
+There is a merging here of the first and third of the four
+genera in the subdivision of the amplificatio of the chria,
+oppositum and exemplum. The connection with logical
+argument here is unmistakably clear.
+An aspect of the process of opposition closely related to
+Mattheson's mention of rhythmic opposition by syncopation
+-and one not elaborated upon at all by music theorists in
+this period-is contrary time (tempus contrarium). Marpurg
+defines this term as "imitation on opposed or mixed parts
+of the measure, imitatio per arsin et thesin or in contrario
+tempore,"136 to refer to that type of imitation in which
+one part begins on the strong downbeat and the other on the
+weak upbeat. Marpurg'suse of the word "opposed" (widrig)
+to describe the resultant rhythmic clash is testimony to the
+strong opposition involved. It is also significant that the
+passage from the fugue by J. S. Bach which Marpurgrefers
+to as a "dispute," consists in imitatio per contrario tempore
+(Example 7). Marpurganalyzes the above passage as follows:
+90
+
+Example 7
+
+Der Alt hebet denselben darinnen in der Gegenbewegung
+an, und ein Viertheil spater und also in Arsi folget der
+Bass vermittelst der engen Nachahmung ein eben dieser
+Bewegung. Der Diskant scheint auch gewillet seyn sich
+in diesen Streit zu mischen. ..
+The alto takes up the thema at that point in contrary
+motion; and a quarter later, and therefore in arsi, the bass
+follows in the same motion by means of close imitation.
+The discant also seems to be willing to engage in this
+dispute...
+
+.
+
+137
+
+The dispute consists for Marpurgin the entry of the thema
+in the bass on the weak beat a quarter note's duration after
+the entry in the alto on the strong beat. Another factor
+contributing to the intense opposition, in this case on the
+larger scale of the entire fugue, may be the fact that both
+entries present the thema inversa, thus opposing the prior
+entries of the thema recta.
+It is significant for this discussion that contrary time is
+an integral part of musical-rhetorical amplification. For
+climax (gradatio), one of the most important musicalrhetorical figures of augmentation, Walther gives the following definition:
+Climax,
+
+oder Gradatio,
+
+..
+
+(2 eine Notenfigur,
+
+wenn
+
+nemlich zwo Stimmen per Arsin & Thesin, d.i. auf- und
+unterwerts gradatim Tertzenweise mit einander fortgehen.
+Climax, or gradatio, ..
+
+(2 a musical figure in which
+
+two voices proceed with each other upwards and downwards by step in thirds per arsin et thesin.138
+Having dealt at length with the first and most important
+of the four basic procedures employed in the confutatio,
+oppositum (a contrario), we will now move on to the second,
+a comparato. This procedure numbers among its subtechniques similia, which Schmidt refers to as "the altered
+notes of the propositio, according to value." In rhetoric,
+this sort of varied repetition is called paranomasia (allusio),
+a figure in which a word is repeated, making slight changes
+or alterations to letters or syllables in that word, or adding
+letters or syllables to or subtracting them from words.139
+92
+
+This is precisely the same as the musical procedure
+adopted in fugue whereby the value of one or more notes
+of the original theme is altered, or intervals between one or
+more pairs of successive notes undergo a change. Although
+he does not mention fugue specifically, Scheibe does devote
+a lengthy discussion to paranomasia as a musical-rhetorical
+element, defining it as follows:
+Die VIte Figur, die Verstarkung. (Paranomasia) Diese
+ist insgemein mit der vorhergehenden Figur, namlich mit
+der Wiederholung, verbunden. Sie geschieht, wenn man
+einen Satz, ein Wort oder ein Redensart, so schon da
+gewesen, mit einem neuen, besondern und nachdriicklichen Zusatze wiederholet. .. . Es geschieht auch die
+Wiederholung einiger wenigen Noten . . . mit noch ein-
+
+mal so viel geltenden Noten.
+The 6th figure, amplification (paranomasia). This is
+commonly combined with the preceding figure, namely
+with repetition, and occurs when one repeats a sentence,
+word, or figure of speech which is already present, with a
+
+new and especially with an expressive addition.
+
+....
+
+It
+
+occurs also in the form of the repetition of some few notes
+. . with notes of twice the value.'40
+
+Scheibe translates paranomasia as "amplification" ("Verstarkung"). In so doing, he gives the name of the entire
+section (amplificatio) of the chriistic dispositio scheme for
+one of the subtechniques of the second procedure employed
+in this section. According to rhetoricians, paranomasia was
+most effective when the new word which resulted from the
+alteration, addition or subtraction of letters or syllables was
+contrary in meaning to its model.'41 Is there any indication
+in musical sources that we are dealing with yet another
+aspect of fugal opposition here?
+In answer to this question, it is interesting that Scheibe
+includes the technique of strict augmentation at the conclusion of his definition of paranomasia. Forkel adds diminution in his definition of the same term, referring to it as
+"an augmented or diminished statement."'42 In his letter,
+Schmidt had referred to augmentation and diminution of
+the thema as exempla which Forkel classifies as opposites
+93
+
+in his definition of opposition.143 The prevailing contemporary musical-rhetorical concept of augmentation in the
+early eighteenth century would seem, then, to refute the
+view that it acts as an element of opposition.
+Another theorist who treats the technique of augmentation-diminution in musical-rhetorical terms is Vogt, who
+defines diminution in terms of the rhetorical figure schematoides as follows:
+Schematoides. Figura composita est, cum idem modulus
+a voce una proportione longa, ab alia tardius incipiente
+proportione brevi tandem confluit: ut exemplum est in
+una nostra Missa ad tres choros [Example 8].
+Schematoides. This is a composite figure. When the same
+measure in one voice with long note values occurs later
+in another voice with note values shorter than those in
+the original, nevertheless there is a confluence of the two
+as in the example from one of our masses for three choruses'44 [Example 8].
+This is a fascinating musical-rhetorical application, for
+schematoides is the Greek term for figura or modellum, a
+formula or configuration similar to an architect's smallscale model from whose proportions the large-scalestructure
+can be derived.'45 Diminution and augmentation had traditionally been closely bound up with the mensural element of
+proportion, and Vogt stresses this facet in his definition.
+This analogy is very close to that drawn by Schmidt between
+augmentation and exemplum,.the third genus in the subdivision of the amplificatio, for exemplum carries with it the
+connotation of a model set up as an object for imitation.
+We come now to the penultimate section of the rhetorical
+dispositio scheme, the confirmatio. Both Mattheson and
+Forkel refer to it as a type of repetition of the thema "after
+the preceding objections and doubts have been refuted."'46
+In Schmidt's scheme, this affirmation of the thema takes
+the form of "treating the subject in canon" or what is now
+commonly called stretto. This piling up of entries of the
+thema overlapping with one another has close parallels
+with the procedure adopted by rhetoricians in the confirmatio, where the thesis or argument, by now established by
+94
+
+Example8
+
+4:clI
+
+VT
+
+7
+
+Ky- ri -e
+
+e
+
+rF
+
+Ky-ri
+
+Ad
+
+.
+'-j
+
+w
+
+u-nan
+
+le -
+
+-
+
+-
+
+4
+i -son
+
+e
+
+pro -per
+
+e-le-i
+
+-
+
+-
+
+a
+
+son
+
+-
+
+mus
+
+)
+
+l
+;
+
+W-
+
+Ad u - nam pro-per--a-mus
+
+me
+
+I
+U
+
+me
+
+refutation of counterarguments in the preceding confutatio,
+is consolidated and confirmed by piling up and hammering
+home that thesis by overlapping repetitions. The musical
+counterpart in the fugue is stretto. Since it is in this section,
+just prior to the conclusio, that augmentation and diminution most often occur, in conjunction with stretto of the
+thema, it would seem that these techniques in fact were not
+thought of as elements of opposition as suggested by Forkel,
+but rather as affirming or confirming agents.
+A general explanation for the spread of stretto from the
+concluding section back into the confirmatio is that canonic
+treatment of the thema represents a logical growth and evolution of the overall conclusion of the fugal structure, the
+peroratio. Furthermore, early in the eighteenth century,
+fugue seems to have been viewed in general structural terms
+as a bipartite structure with an initial expository section
+comprising all manner of figures of contrapuntal artifice and
+a concluding canonic section. This concept is reflected in
+Mattheson's general summation of the fugue as beginning
+with "the figurae principales which then lead to the canones
+in which one takes pains to bring the thema ever closer."147
+However, there is a more technical rhetorical explanation
+for the placement of stretto in a penultimate structural
+position in the fugal-rhetorical disposition scheme. It should
+be recalled that one of the four basic procedures included
+under amplificatio by rhetoricians was the formal element of
+ratiocinatio,l48
+
+the process of logical reasoning which follows
+
+the statement of the propositio (thema) and the questions
+raised against it (confutatio.)149 The position of the ratiocinatio following the confutatio and in direct consequence
+of it is clear. Since Berardi draws the analogy between the
+close canonic imitation of the consequenza and the syllogism of logic, perhaps stretto of the thema was seen as a
+strong formal argument to conclude the contentio complex,
+where musical ratiocination, canonic treatment of the thema,
+would constitute a powerful agent. This view is strongly
+confirmed when one subjects the term stretto to strict
+etymological scrutiny. Stretto is derived from the Latin
+strictio (stringere) which refers to a particularly strict,
+concise, bound style.150 More importantly, a closely related
+96
+
+term, constrictio (constringo), is an important logicalrhetorical figure. Significantly, Spiess applies this term to
+the concluding stretto in fugue in his discussion of musicalrhetorical disposition:
+In den Fugen.
+
+. . wird die gr6ste Force mit vollstimmiger
+
+Constringit-Repetit-und Imitirung des Thematis, Subjecti, &c. gebraucht zu Ende der Composition.
+In fugues,.
+
+. . the greatest power with full-voiced con-
+
+strictio, repetitio, and imitatio of the thema, subjectum,
+etc. is to be employed toward the end of the composition.l51
+
+Of the three techniques named by Spiess, constrictio is the
+most specific, and unambiguously rhetorical in its derivation. Constrictio refers to a binding together, a compression
+or a bringing into narrow compass of the propositio, specifically in the section of the oration following the confutatio.'52
+This definition offers close parallels with the use of stretto
+in the fugal confirmatio.
+Strict logical reasoning by syllogism (in music, the conseguenza or close canon), closely binds together statements
+of the thema (propositio) in an overlapping series. This
+theme has been refuted through various procedures involving
+musical-rhetorical opposition in the preceding confutatio
+and dismembered by thematic fragmentation. By means of
+such a stretto, statements of the thema are compressed into
+a narrow compass as far as time is concerned, and tied together into a tight knot. Spiess's application of constrictio
+to stretto strongly supports Berardi's concept of canon as
+strict logical reasoning in music, and clarifies its placement
+in the confirmatio by close rhetorical parallel.
+The final section of the rhetorical dispositio scheme is
+the conclusio (peroratio), to which both Mattheson and
+Forkel refer as "the ending or close of the piece,"'53 and for
+both it involves repetition. Mattheson sees this as a type of
+ritorello,l54 while Forkel refers to it as "the ultimate,
+strongest repetition of such phrases as constitute, as it were,
+a consequence of the preceding proofs, refutations, dissections and confirmations."'55 Both these theorists stress the
+need for especially affective expression in this section,
+97
+
+according to Forkel "for the purpose of completely driving
+home for the listeners the emotion aimed at in the piece
+one last time."156
+
+For Mattheson, this especially expressive
+
+quality "consists not only in the flow or continuation of the
+melody, but rather above all in an epilogue, whether it be a
+fundamental note or a more intense accompaniment."157
+These elements of the pedal note and harmonic intensity are
+somewhat interdependent and entirely in keeping with both
+Schmidt's and Sabbatini's'58concept.
+The importance of the pedal point as a device employed
+in the conclusio of the fugue is reinforced and amplified by
+C. P. E. Bach (1714-88), who says of it:
+Dieser letztere [Orgelpunkt] kommt gemeiniglich in
+gearbeiteten Sachen, besonders in Fugen, am Ende ....
+Im erstern Falle pflegen die Componisten fiber diesem
+Orgelpunkt alle mogliche contrapunktische Kiinste gerne
+in der Enge zusammen zu bringen.
+This latter [pedal point] occurs most commonly in
+strictly worked out things, especially in fugues at the
+end. ...
+
+In this case, composers are accustomed to bring
+
+together every possible contrapuntal artifice, usually
+tightly. 59
+
+Strict contrapuntal artifice tightly woven over a pedal point,
+above all at the end of fugues, would strongly suggest the use
+of stretto. That the canon is even closer in the conclusio than
+in the preceding confirmatio, as is here implied, would seem
+to be confirmed by Schmidt's use of the term imitatio in
+his reference to the conclusio. This is a freer species of
+conseguenza or extremely close canon. The rhetorical
+rationale behind this closest, strictest canonic treatment of
+the thema may well lie in the rhetorical nature of the conclusio itself. It has already been pointed out above that
+rhetorically, this sectionr is characterized by repetition of
+the opening propositio, a logical consequent in the form of
+an axiom or general truth, or a wish, commonly in the form
+of a short verse, an aphorism. All of these elements can be
+related on the musical level to close canonic treatment of
+the thema. It goes without saying that the thema is repeated
+at this point and the link between close canon and the
+98
+
+concept of logical consequent have already been dealt with
+at length. An axiom is a law, and canon and law had for
+a long time been closely linked one with the other.160 It
+is also clear that musically, the canon was viewed in exactly the same way as the maxim or aphorism was poetically.161
+
+We should be loath to part with what seems to us the
+seemingly archaic, ostentatiously erudite Greek and Latin
+terminology used by theorists and composers in connection with the fugue, for we find over and over that these
+terms are rhetorical in origin, referring to specific, highly
+enlightening rhetorical procedures. This terminology is
+our only key to a close understanding of the early concept
+of such genera as the fugue. These terms are not only rich
+in meaning with their wealth of subtle nuance but are more
+accurate in describing certain musical procedures than
+translations or alternate terminology derived since. The
+conglomeration of terms adapted by latter day theorists
+from so-called "sonata form" and from purely abstract
+compositional practices often obscure and even distort
+the true nature of fugue rather than clarify it. A blatant
+example of this state of affairs is the use of the word "episode" or "interlude" for the confutatio. Both these terms
+carry the connotation of an incidental interpolation, a
+break in the flow and action of the drama. This has nothing
+whatsoever to do with fugue. There is no relaxation of
+dramatic tension, no departure from the strict logic of
+fugue in the confutatio, with its harsh and abrasive frictions and clashes created by various elements of musicalrhetorical opposition, its logical thematic analysis through
+fragmentation, and its climactic intensification achieved
+by the musical-rhetorical process of amplification, all to
+be resolved by the eventual cadence and attendant climactic
+entry of the thema. The word confutatio, with its specific
+rhetorical implication of the refutation of opposing objections, is much more illustrative of what really occurs. And
+so it is with the other musical-rhetorical terms employed
+in connection with fugue. Current terminology stresses
+contrapuntal compatability among the voices and mechanical
+compositional procedures which leave the fugue bland
+99
+
+and lifeless instead of exciting and vital as it was in the
+period during which it evolved as a musical structure of
+central importance.
+NOTES
+* This article combines expanded and revised versions of two papers.
+The second, dealing with the Baroque, was read before the National
+Convention of the American Musicological Society in Washington,
+D.C., November 2, 1974. The first, dealing with the Renaissance,
+was read before the National Convention of the Canadian Association of Universities and Schools of Music in Edmonton, June 7,
+1975.
+1. The humanistic liberalization and expansion of the trivium to
+include music, together with music's new role in this expanded
+curriculum and its close relationship with the other subjects of the
+trivium (dialectic, grammar, and rhetoric), are discussed at length by
+Wilibald Gurlitt in his article, "Musik und Rhetorik," Helicon, V
+(1944), pp. 67-86; repr. in Wilibald Gurlitt: Musikgeschichte und
+Gegenwart, Beihefte zum Archiv fir Musikwissenschaft, I, 1, ed.
+Hans-Heinrich Eggebrecht (Wiesbaden, 1966), pp. 63-81. Hans
+Heinrich Unger attributes the growing influence of rhetoric on the
+other arts, through the strong impulse of humanism, to the rise of
+public educational institutions around 1500 (Die Beziehungen
+zwischen Musik und Rhetorik im 16.-18. Jahrhundert [Wiirzburg,
+1941, repr. Hildesheim, 1969], p. 13).
+2. ". . . in poetica Musica nihil artificis est dignius quam fugas inserere.
+
+3.
+4.
+5.
+6.
+
+Hac enim ornant cantum et musicam natura et arte instructum
+referunt." (Praecepta musicae poeticae [MS treatise, 1564], mod. ed.
+B. Engelke, Geschichtsbldtter fiir Stadt und Land Magdeburg, XLIX,
+LX [1914, 1915], p. 242.)
+See the author's "The Fantasia as Musical Image," The Musical
+Quarterly, LX (1974), pp. 602-15.
+The author is presently at work on a study of Stomius, his Salzburg
+school of poetics with special emphasis on music instruction, and his
+position as one of the earliest musica poetica theorists.
+Prima ad musicen instructio (Augsburg, 1537), folio C 2 verso.
+Lee A. Sonnino, A Handbook to Sixteenth Century Rhetoric (London, 1968), pp. 108-9. Sonnino puts great emphasis on those rhetorical figures which occur in English sources, supplementing and
+amplifying these with other contemporary sixteenth-century European definitions as well as those from the classical treatises on
+rhetoric. Thus her book offers an excellent compendium of definitions, and will be cited as a source whenever possible. In those cases
+where a figure does not appear in Sonnino's list, or where a logical
+
+100
+
+7.
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+18.
+19.
+20.
+21.
+22.
+23.
+
+or grammatical structure comes under discussion, the original
+source itself will be cited.
+The entire treatise is printed from a manuscript in the Acts of the
+Synod of Besancon of 1571, in Johann F. Schannat and Joseph
+Hartzheim, eds., Concilia Germaniae (Cologne, 1759-75), VIII,
+pp. 203-8. Claude Palisca first drew attention to this important
+source in his article, "A Clarification of 'Musica Reservata' in Jean
+Taisnier's 'Astrologiae'," Acta Musicologica, XXXI (1959), p. 150,
+156. The author wishes to express his thanks to Professor Palisca
+for making available a copy of his typescript of this treatise and for
+his interest in the present study.
+Anonymous of Besancon, De musica, p. 206b.
+Sonnino, Handbook, pp. 103-4.
+Ibid., p. 39.
+Ibid., p. 64.
+Ibid., pp. 167-68.
+Ibid., p. 64.
+Anonymous of Besancon, De musica, p. 207a.
+"Quid est fuga? / Est duarum vel trium vel plurium vocum repetitio
+quae fit vel per unisonum, 8, 5 vel 4." (Praecepta, p. 242.)
+Ibid., p. 247.
+In his transcription, Engelke suggests "prae se ferentibus" as an
+orthographical correction for "praeseverantibus." In the context of
+the passage, however, the original spelling is obviously the correct
+one.
+Ibid.
+Cicero, De oratore, II, xvii, 72.
+Quintilian translates emphasis into Latin as significatio. (Institutio
+oratoria, IX, ii. 3.)
+Sonnino, Handbook, pp. 200-1.
+Prima . .. instructio, folio A 6 verso. Stomius here uses the term
+in connection with the unnatural use of musica ficta.
+"In quo omnes Harmoniae voces aliquam alicuius vocis in suo conjugio affectionem imitantur intervallis iisdem vel paribus." (Joachim
+Burmeister, Musica poetica [Rostock, 1606], facs. ed., Martin
+Ruhnke [Kassel, 1955], p. 57.) For discussions of Burmeister's
+musical-rhetorical figures and his definitions, see Heinz Brandes,
+Studien zur musikalischen Figurenlehre im 16. Jahrhundert (Berlin,
+1935);Hans-Heinrich Unger, Die Beziehungen; Martin Ruhnke,
+Joachim Burmeister, in Schriften der Landesinstitut fur Musikforschung Kiel, V (Kassel and Basel, 1955); Claude V. Palisca, "Ut
+Oratoria Musica: The Rhetorical Basis of Musical Mannerism," in
+The Meaning of Mannerism, ed. Franklin W. Robinson and Stephen G. Nichols, Jr. (Hanover, N.H., 1972). The last of these essays
+is particularly interesting in that Palisca presents a thorough explanation of Burmeister's musical-rhetorical analysis of Orlando di
+Lasso's In me transierunt, extending this analysis to include other
+musical-rhetorical figures employed in the composition.
+
+101
+
+24. For uses of the term conjugium or its derivatives in its etymological
+sense, see Cicero, Topica, iii, 12 and ix, 38, and Quintilian, Institutio, V, x, 85. This phrase is echoed later in Burmeister's definition
+(e.g., "aptis & appositis concordibus conjugatis" and "aptae &
+appositae sonorum conjugatae") (Burmeister, Musica poetica, p. 58).
+25. "Unum pro multis examinari & perpendi, ac in usum transferri
+potest." (Ibid., p. 57.)
+26. Ibid., p. 58.
+27. See below, p. 30.
+28. Burmeister, Musica poetica, p. 72.
+29. Ibid.
+30. "Talis habitus Fugae, in quo duae Melodiae in Harmonia hinc inde
+transsumuntur & in Fugam vertuntur." (Ibid., p. 58.)
+31. Sonnino, Handbook, pp. 186-87.
+32. Ibid.
+33. "Quando Fuga converso intervallorum ordine introducitur." Burmeister, Musica poetica, p. 58.
+34. Sonnino, Handbook, pp. 164-65.
+35. For a discussion of this aspect, see n. 45 regarding the definition of
+the synonymous musical-rhetorical figure, antistrophe.
+36. "In fugam abrepta est." (Burmeister, Musica poetica, p. 59.)
+37. "Est ornamentum, quod sonos similes per diversas aliquas, non
+autem omnes, Harmoniae voces repetit. . . . "(Ibid., p. 65.)
+38. For a discussion of this important rhetorical device, see Palisca,
+"Ut Oratoria Musica," p. 45, and the author's unpublished doctoral
+dissertation, The Canonic Sequence in Theory and Practice, A
+musical-rhetorical study of its origins, and development in keyboard music to 1750 (University of Toronto, 1973), pp. 208-24.
+39. Sonnino, Handbook, p. 205.
+40. "Aliquam causam in una aliqua voce fit amputatio." (Burmeister,
+Musica poetica, p. 59.)
+41. Sonnino, Handbook, p. 161.
+42. There is a steadily growing body of evidence attesting to the great
+activity in the application of rhetorical figures to musical procedures by the English late in the sixteenth and early in the seventeenth centuries. That this evidence is just now coming to light is
+due in large part to the fact that the close relationship between
+rhetoric and music is largely pursued not in theoretical musical
+sources, but in works dealing specifically with rhetoric. Claude
+Palisca has already drawn attention to the importance of Francis
+Bacon in this respect ("Ut Oratoria Musica," pp. 42, 45-46). However, there are other equally important figures as well, and the
+application of rhetoric to music in England during this period
+deserves more detailed examination.
+43. The Compleat Gentleman (London, 1622), mod. ed. Virgil B. Heltzel(Ithaca, N.Y., 1962), p. 116.
+44. A Plaine and Easie Introduction to Practicall Musicke (London,
+1597), mod. ed. Alec Harmon (New York, 1952), p. 162.
+
+102
+
+45. Sonnino, Handbook, pp. 63-64. It is interesting that in later
+seventeenth century English theoretical sources, the term "revert"
+does, in fact, come to have a meaning which more closely parallels
+the meaning of its rhetorical equivalent, antistrophe, that of retrogradation. See Christopher Simpson, A Compendium or Introduction to Practical Musick (London, 1667 ff.), p. 133, and Roger
+North, "The Comon Caracters of Musick," Musicall Grammarian,
+MS treatise, 1728, in Roger North on Music, trans. and ed. John
+Wilson (London, 1959), p. 179.
+46. Plaine . . .Introduction,p. 151.
+47. The Principles of Musik, in Singing and Setting (Ecclesiastical and
+Civil) (London, 1636), p. 72.
+48. An Etymological Dictionary of the English Language, ed. Rev.
+Walter W. Skeat (Oxford, 1958), p. 511. The etymological derivation is not from the word rapport, as suggested by Harmon in
+Morley, Plaine . . . Introduction,
+
+p. 151, fn. 1.
+
+49. Harrap's Standard French and English Dictionary, ed. J. E. Mansion
+(London, 1966), I, p. 732.
+50. Memoires of Musick, MS treatise, 1728, in Roger North on Music,
+p. 329.
+51. Sonnino, Handbook, pp. 42-43. The English term "counterchange"
+had long been associated with the rhetorical figure antimetabole.
+See George Puttenham, The Arte of English Poesie (London, 1589),
+p. 217.
+52. Sonnino, Handbook, pp. 42-43.
+53. Plaine. . .Introduction,p. 188.
+54. Sylva sylvarum: or A naturall historie. In ten centuries (London,
+1627), p. 38. This passage is quoted and discussed in general terms
+by Palisca, "Ut Oratoria Musica," p. 45.
+55. It is significant that almost thirty-five years before Bacon's application of traductio to fugue, in what appears to be the first instance
+in which the name of a rhetorical figure is applied to a musical
+procedure in an English source, Henry Peacham (the Elder) refers
+to the same figure with regard to music. After giving a definition
+of the figure, Peacham goes on to compare it to "pleasant repetitions and divisions in music" (The Garden of Eloquence [2nd ed.,
+London, 1593], p. 49). This passage is quoted in Sonnino, Handbook, p. 179. Since any mention of music is completely absent in
+the definition of the same figure, and indeed of any other figure
+in the first edition of the same treatise in 1577, this might suggest
+that the inception of musical-rhetorical application in England
+dates from the 1580's.
+56. Sonnino, Handbook, pp. 24-25.
+57. Traite de l'Harmonie Universelle (Paris, 1627), p. 21. Mersenne in
+fact views correct disposition as one of the principal considerations
+in any definition of art itself (ibid., pp. 17-18).
+58.
+
+". .. ex figurarum artificioso
+
+contextu
+
+in Oratoria facultate
+
+...."
+
+(Musurgia universalis [Rome, 1650], I, p. 368.)
+
+103
+
+59. A Compendium, pp. 136-37.
+60. "He [Bach] considered his parts as if they were persons who conversed together like a select company. If there were three, each
+could sometimes be silent and listen to the others till it again had
+something to the purpose to say. But, if in the midst of the most
+interesting part of the discourse, some uncalled and importunate
+strange notes suddenly rushed in and attempted to say a word, or
+even a syllable only, without sense or vocation, Bach looked on
+this as a great irregularity, and made his pupils comprehend that it
+was never to be allowed." (Uber Johann Sebastian Bachs Leben,
+Kunst und Kunstwerke, von J. N. Forkel [Leipzig, 1802], facs. ed.
+J. M. Miiller-Blattau [Augsburg, 1925]; Eng. trans. The Bach
+Reader, ed. Hans T. David and Arthur Mendel, rev. ed. [New York,
+1966], p. 330.)
+61. It is interesting that Anonymous of Besancon gives as his second
+figure tone, for which the Latin equivalent is extensio (see Palisca,
+"A Clarification of 'Musica Reservata'," p. 156, fn. 128). Anonymous of Besancon defines tone as the repetition of "the same notes
+at equal intervals in different places" ("in diversorum locorum
+spatiis aequalibus, voces easdem") (De musica, p. 207a). From this
+definition, Palisca quite correctly equates tone with the figure
+auxesis, a figure of amplification, and with sequential repetition.
+Thus it seems that Mace views fugue in terms of the elaboration of
+a theme by sequential treatment, a vitally important aspect of
+fugue which will be dealt with at length later.
+62. Musick's Monument (London, 1676, facs. ed. New York, [1966]),
+p. 116.
+63. Oxford English Dictionary, III, p. 458.
+64. An Essay of Musicall Ayre, MS treatise, c. 171 5-20, in Roger North
+on Music, p. 117.
+65. Critica musica (Hamburg, 1722-25, facs. ed. Amsterdam, 1964), I,
+p. 266.
+66. Der vollkommene Capellmeister (Hamburg, 1739), facs. ed. Margarete Reimann (Kassell and Basel, 1954), p. 367.
+67. Ibid., p. 337.
+68. Ibid., p. 331.
+69. Die Abhandlung von der Fuge (Berlin, 1753), I, p. 143.
+70.
+
+fra due, tre,
+". . . rappresnta un vero, e reale combattimento
+quattro, e piu Parti. . .. (Trattati sopra le Fughe Musicali [Venice,
+
+1802], facs. ed. Giuseppe Vecchi [Bologna, 1969], p. 1.)
+71. For a concise treatment of rhetorical disposition, see Sonnino,
+Handbook, p. 243.
+72. Dressier, Praecepta, pp. 243-48;Burmeister, Musica poetica, p. 58.
+73. Burmeister, ibid.
+74. It is significant that Burmeister closely links this section with the
+"confirmatio of rhetoric" (see above, pp. 29-30).
+75.
+
+". ..
+
+ce qui se rapporte
+
+en quelque
+
+facon
+
+a une assemblee
+
+de
+
+quantit6 de gens, qui ayant raisonne les uns apres les autres sur
+
+104
+
+quelque sujet propose, viennent tous a une mesme conclusion."
+(Traite de musique [Paris, 1656], p. 114.)
+76.
+
+". ..
+
+la Logica, e Rettorica
+
+[rendono
+
+l'huomo]
+
+atto a disputare."
+
+(Arcani musicali [Bologna, 1690], p. 28.)
+77. Ibid., p. 22.
+78. Miscellanea musicale (Bologna, 1689), p. 204.
+79. Ibid., p. 179.
+80.
+
+". . . la fuga deve esser tessuta stretta
+
+...
+
+"(Ibid.)
+
+81. Ibid.
+82. Documenti armonici (Bologna, 1687), p. 36. Mersenne had earlier
+drawn a close comparison between the three terms (propositions)
+of the syllogism (major, minor, conclusion), and the basic tripartite
+disposition scheme. (Harmonie universelle, pp. 17-18.)
+83. Le istitutioni harmoniche (Venice, 1558, facs. ed. New York,
+[1965]), vol. 3, chap. 51. This close imitation can be either strict,
+i.e., canonic (legata), or free (sciolta).
+84. Schmidt preceded Johann David Heinichen as Capellmeister at
+Dresden. Because of his conservative stand on certain musical
+issues he aroused the critical ire of Mattheson. However, the two
+are in relatively close accord in their approach to musical-rhetorical
+disposition.
+85. Published in Mattheson's Critica musica, II, pp. 267-68.
+86. The author wishes to express his thanks to Professor George
+Buelow of Rutgers University for drawing this aspect of Schmidt's
+treatment of rhetorical disposition to his attention, for providing a
+copy of the relevant portion of Weissenborn's treatise, and for his
+instructive criticism of this aspect of the study.
+87. Griindliche Einleitung zur Teutschen und Lateinischen Oratorie
+und Poesie (Dresden and Leipzig, 1731), pp. 93-94.
+88. Ibid., p. 92.
+89. Sonnino, Handbook, p. 145.
+90. Quintilian, Institutio, III, ix, 1.
+91. For instance, in Mattheson's particular exposition of this scheme,
+the confutatio precedes the confirmatio, the sequence fairly
+standard at this time. Since Weissenborn gives as an alternate procedure for amplificatio a contrario, amplificatio per confutationem
+(see Griindliche Einleitung, pp. 97-98), it seems clear that he is
+equating the amplificatio and the confutatio as parallel sections.
+This is confirmed by the appearance of the confirmatio following
+the various methods of amplification and just prior to the conclusio in Schmidt's adaptation of the chria to fugue.
+92. Ibid., p. 94.
+93. Ibid.
+94. It is clear that by this time, the introductory and preparatory function of the exordium was invariably the province of the preludial
+composition which in most cases immediately precedes the fugue
+proper, and that the narratio was considered as optional and more
+often than not, dispensed with entirely. It should be noted, however,
+
+105
+
+that the exordium does figure, albeit infrequently, in the rhetorical structure of the fugue itself. Mattheson defines the musicalrhetorical exordium as follows:
+Das Exordium is der Eingang und Anfang einer Melodie,
+worin zugleich der Zweck und die gantze Absicht derselben
+angezeiget werden muss, damit die Zuh6rer dazu vorbereitet,
+und zur Aufmercksamkeit ermuntert werden.
+The exordium is the introduction and beginning of a piece
+in which the goal and the whole intention of this piece must
+be revealed immediately in order that the audience may prepare itself for the piece and rouse itself to attentiveness.
+(Der vollkommene Capellmeister, p. 236.)
+95. ". . . la figura di Prologo, o Esordio della Fuga, par che dovrebbe
+sempre con le sue poche Battute annunziare il Soggetto, o Sentimento della Fuga. . . . "(Trattati, p. 46.)
+96. "Die Propositio oder der eigentliche Vortrag enthalt kurtzlich den
+Der vollkommene
+Inhalt oder Zweck der Klangrede ...."
+Capellmeister, p. 236.
+.. "(Trattati,
+97. "Queste Fughe dunque propongono il soggetto.
+p. 2.)
+98.
+
+". . . was bey einem Redner der Text oder Unterwurff
+
+ist
+
+..
+
+"
+
+101.
+102.
+103.
+
+(Der vollkommene Capellmeister, p. 122.)
+Ibid., pp. 122-23.
+For a discussion of this process and its application to music, see
+the author's "The Fantasia as Musical Image," cited above in n.3.
+See above, p. 7.
+Der vollkommene Capellmeister, p. 367.
+Ibid., p. 378.
+
+104.
+
+". ..
+
+99.
+100.
+
+sich hernach mit der Tonart wiederum vergleichen
+
+lassen:
+
+weil er gleichsam mit ihr in etwas zerfallen war." (Ibid., p. 383.)
+105. In English theoretical sources of the period, the parallel musicalrhetorical term for the comes or answer is "retort" (see Roger
+North, "Notes of Comparison between the Elder and Later
+Musick and Somewhat Historicall of Both," MS treatise, c.1726,
+in Roger North on Music, p. 290). The retort constitutes a sharp
+or incisive reply, especially one by which the first speaker's
+statement or argument is in some way turned against itself or is
+met by some countercharge.
+106. Dictionnaire de musique (Paris, 1703, facs. ed. Amsterdam,
+1964).
+107. ". .. was man sonst in fugirten Sachen den Wiederschlag nennet,
+d. i. wenn ich einen gewissen Satz in andre Hohe oder Tiefe
+versetze." (Der vollkommene Capellmeister, p. 124.) The term
+repercussio has been used here to indicate entries of the thema
+which follow immediately upon one another. This term had been
+in common use among German theorists for well over a century
+by the early eighteenth century and it is significant that the
+
+106
+
+origins of the term lie in rhetoric. Repercussio referred to a
+specific type of repetition involving the sharp, hammered reiteration, especially of verbs with the same root (Quintilian,
+Institutio, VI, iii, 78). The parallel English rhetorical term, report,
+was applied in exactly the same way by North, who states that
+"the point being once entered in the consort, the parts took it
+one after another, and in different keys, which they call reporting ("The Comon Caracters of Musick," Musicall Grammarian,
+Roger North on Music, p. 179).
+108. Ibid. The same expression occurs in Quintilian, Institutio, IX,
+iii, 45.
+109. Under the figure synonymia, see Sonnino, Handbook, pp.1 16-17.
+110. See Unger, Die Beziehungen, pp. 68-69.
+111.
+
+112.
+113.
+114.
+115.
+
+116.
+117.
+
+". ..
+
+comprehensa
+
+congeries,
+
+quibus textus
+
+velut variis Confir-
+
+mationis Rhetoricae argumentis, animis insinuantur, ad sententiam clarius arripiendam & considerandam." (Musica poetica,
+p. 72.) Burmeister's reference to the confirmatio section in the
+same passage offers clear evidence that he is linking these two
+distinct sections together in his medium to form a confutatioconfirmatio complex. Since the process of argumentation is
+basic to both these sections, such an amalgamation is not out
+of order.
+The other three are incrementum (augmentation), comparatio
+(comparison), and ratiocinatio (syllogistic reasoning). (Quintilian,
+Institutio, VIII, iii, 90.)
+Sonnino, Handbook, pp. 111-12, 56-57.
+For a more comprehensive treatment of the relationship between
+these figures of amplification and sequential repetition, see the
+author's The Canonic Sequence in Theory and Practice, pp. 61-73.
+According to Roman legend, it was resolved that a war raging
+between Rome and Alba Longa during the reign of Tullius
+Hostilius (672-640 B.c.) should be settled by a combat between
+two sets of triplet brothers, the Roman Horatii and the Alban
+Curiatii. Two of the Horatii were killed almost immediately but
+the third, by pretending to flee, cleverly managed to separate the
+pursuing Curiatii because of the differing degree of their wounds.
+By so doing, he was able to dispatch them individually.
+This legend was revived by Pierre Corneille in his play Horace
+(1640), and this may well be the source of Bontempi's mythological allusion. At any rate, the close parallel between "the
+prodigious feat of Horatio" and the fragmentation of a fugue
+subject is clear.
+Giovanni Andrea Bontempi, Historia musica (Perugia, 1695),
+p. 252.
+It is significant that in his discussion of fugue, Berardi refers to
+"imitatione d'una particella" (Documenti armonici, p. 36), and
+that Sabbatini terms this whole section of the fugue "imitazione"
+(Trattati, p. 22).
+
+107
+
+118. Almost a century and a half earlier, Dressier had discussed the use
+of membra in the medium sine fugis as a connective element.
+(Praecepta, p. 245.)
+119. Sonnino, Handbook, pp. 129-30.
+120. Ibid., pp. 243, 244.
+121. Der critische Musikus (Hamburg, 1745), pp. 692-93; see also
+pp. 467-68.
+122. Ibid., p. 393.
+123. Allgemeine Geschichte der Musik (Leipzig, 1788-1801, facs. ed.
+Graz, 1967), I, p. 51.
+124. Ibid.
+125. Der vollkommene Capellmeister, p. 236.
+126.
+
+". . . die
+
+Gegensatze
+
+mit
+
+ihren
+
+ein:
+
+Auflosungen
+
+confutatio,
+
+rhetoribus dissolutio, nobis resolutio." (Ibid., p. 238, n. e.)
+127. Dictionnaire, p. y.
+128.
+
+". ..
+
+oppositio
+
+tam fit in thematibus,
+
+& contrathematibus,
+
+quam
+
+in oppositione dissonantiarum." (Conclavae thesauris magnae
+artis musicae [Prague, 1719], p. 150.)
+129.
+
+". ..
+
+ein musicalischer
+
+Satz,
+
+wodurch
+
+solche
+
+Sachen,
+
+die ein-
+
+ander contrair und entgegen sind, exprimirt werden sollen."
+(Musikalisches Lexikon [Leipzig, 1732], facs. ed. Richard Schaal
+[Kassel and Basel, 1953], p. 40.)
+130.
+
+". ..
+
+aus einer Clausula formali, gehling in eine fremde...."
+
+(Ibid.)
+131. Der vollkommene Capellmeister, p. 188.
+132. Tractatus musicus compositiorio-practicus
+p. 155.
+133. Der critische Musikus, p. 693.
+134.
+
+"...
+
+dieser ist, der eigentliche
+
+(Augsburg, 1745),
+
+Grund des Gegensatzes.
+
+.."
+
+(Ibid., 395.)
+135. Allgemeine Geschichte, I, p. 51.
+136.
+
+im widrigen oder vermischten
+". . . Nachahmung
+imitatio per arsin et thesin oder in contrario tempore.
+
+137.
+138.
+139.
+140.
+141.
+
+Abhandlung von der Fuge, p. 8.)
+Ibid., p. 143; musical example, Ibid., TAB. XVII.
+Musikalisches Lexikon, p. 172.
+Sonnino, Handbook, pp. 26-27.
+Der critische Musikus, pp. 691-92.
+Sonnino, Handbook, pp. 26-27.
+
+142.
+
+". . . einem starkern oder verminderten
+
+Tacttheile,
+..."(Die
+
+Vortrag
+
+..."(Allge-
+
+meine Geschichte, p. 57.)
+143. Ibid., p. 51.
+144. Conclavae thesauris, p. 151. Spiess's figure, diminutio, is purely
+musical (Tractatus musicus, p. 156).
+145. Sonnino, Handbook, p. 100. It is interesting in light of this concept of diminution as the proportional reduction of the dimensions of a given structure to form a model, and by extension, of
+augmentation as the proportional enlargement of dimensions of a
+
+108
+
+model, that North sees fugue as "a sort of scheme or model to
+work upon, and the contrivances are to protract that" (Roger
+North on Music, p. 182).
+146.
+
+". . . nachdem
+
+vorher
+
+Einwendung
+
+und
+
+Zweifel
+
+widerlegt
+
+worden sind." (Der vollkommene Capellmeister, p. 53).
+147.
+
+". ..
+
+148.
+149.
+150.
+151.
+
+in denen man die themata immer naher zu bringen beflissen ist."
+(Critica musica, I, p. 267.)
+See above, fn. 112.
+Sonnino, Handbook, pp. 154-55.
+Quintilian, Institutio, X, i, 77; XII, x, 52.
+Tractatus musicus, p. 134.
+
+152.
+
+Figurae principales,
+
+die fiihren hernach zu den Canonibus
+
+". . . quae [ars logica] rem dissolutam
+
+divulsamque
+
+conglutinaret
+
+et ratione quadam constringeret..."
+(the art of logic binds
+together a proposition which has been refuted and torn asunder,
+and brings something into a narrow compass by reasoning).
+(Cicero, De oratore, I, xlii, 188.)
+153.
+
+". . . der Ausgang
+oder Beschluss
+unsrer Klangrede..."
+(Mattheson, Der vollkommene
+Capellmeister, p. 236); ". ..
+
+Schluss und Ausgang eines Tonstiicks..."
+Geschichte, p. 53).
+154. Der vollkommene Capellmeister, p. 236.
+155.
+
+". ..
+
+die nochmalige
+
+kraftigste
+
+Wiederholung
+
+der
+
+(Forkel, Allgemeine
+solcher Satze, die
+
+gleichsam eine Folge von den vorhergegangenen Beweisen, Widerlegungen, Zergliederungen und Bekraftigungen sind .. ."
+(Forkel, Allgemeine Geschichte, p. 53.)
+156.
+
+157.
+
+158.
+159.
+160.
+161.
+
+". . .um dadurch den Zuh6rer zulezt noch ganz mit der durchs
+
+Tonstiick abgezielten Empfindung zu durchdringen." (Ibid.)
+"Und diese findet sich nicht allein im Lauffe oder Fortgange der
+Melodie, sondern vornehmlich in dem Nachspiele, es sey im
+Fundament, oder in einer starckern Begleitung." (Der vollkommene Capellmeister, p. 236.)
+Trattati, p. 23.
+Versuch fiber die wahre Art das Clavier zu spielen (Berlin, 1753),
+facs. ed. Lothar Hoffmann-Erbrecht (Leipzig, 1969), pp. 181-82.
+Walther, Musikalisches Lexikon, pp. 132-33.
+At this time, it was a tradition for poets to inscribe witty aphorisms in guest albums. Musicians, contributed canons, usually in
+enigmatic notation.
+
+109
+
+

@@ -10,7 +10,7 @@ import itertools
 import random
 import pygraphviz as pgv
 
-CORPUS = glob.glob('./txt/*.txt')
+CORPUS = glob.glob('./corpus/txt/*.txt')
 
 def conta_e_associa(autores, palavras, textos):
     autores_e_textos, autores_e_palavras, textos_e_autores, textos_e_palavras, palavras_e_autores, palavras_e_textos \
@@ -23,15 +23,15 @@ def conta_e_associa(autores, palavras, textos):
             txt = str(textos[t])
             if a and a not in autores_e_textos[a]:
                 if au.findall(txt):
-                    autores_e_textos[a].append(t[6:-4])
+                    autores_e_textos[a].append(t[13:-4])
                     textos_e_autores[t].append(a)
             if p and p not in textos_e_palavras[t]:
                 if pa.findall(txt):
                     textos_e_palavras[t].append(p)
-                    palavras_e_textos[p].append(t[6:-4])
+                    palavras_e_textos[p].append(t[13:-4])
     for tx in CORPUS:
         for au in autores:
-            if tx[6:-4] in autores_e_textos[au]:
+            if tx[13:-4] in autores_e_textos[au]:
                 autores_e_palavras[au] = textos_e_palavras[tx]
                 for pa in autores_e_palavras[au]:
                     palavras_e_autores[pa].append(au)

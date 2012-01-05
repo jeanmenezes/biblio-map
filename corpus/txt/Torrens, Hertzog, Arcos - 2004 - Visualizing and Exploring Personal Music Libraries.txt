@@ -1,0 +1,287 @@
+VISUALIZING AND EXPLORING PERSONAL MUSIC LIBRARIES
+Marc Torrens
+MusicStrands Inc.
+Corvallis, OR, USA
+torrens@MusicStrands.com
+
+Patrick Hertzog
+AI Lab., EPFL
+Lausanne, Switzerand
+Patrick.Hertzog@epﬂ.ch
+
+ABSTRACT
+Nowadays, music fans are beginning to massively use
+mobile digital music players and dedicated software to organize and play large collections of music. In this context, users deal with huge music libraries containing thousands of tracks. Such a huge volume of music easily overwhelms users when selecting the music to listen or when
+organizing their collections.
+Music player software with visualizations based on textual lists and organizing features such as smart playlists
+are not really enough for helping users to efﬁciently manage their libraries. Thus, we propose new graphical visualizations and their associated features to allow users to
+better organize their personal music libraries and therefore
+also to ease selection later on.
+1. INTRODUCTION
+New technologies combining portable digital music players with dedicated software (such as iPod 1 with iTunes 2 ),
+together with new music distribution channels through Internet are quickly changing the way people organize and
+play music. Thus, a new community of digital music users
+is emerging. These users deal with music differently compared to the traditional way. Instead of dealing with albums or CDs, they basically face their music at the track
+level by :
+• acquiring track by track, and
+• creating and playing personalized playlists.
+In such contexts, users have to deal with huge libraries
+of music in their computers and mobile players. Music libraries can easily contain thousands of tracks (corresponding to hundreds of CDs). Such a huge volume clearly
+overwhelms users when choosing the music to listen at a
+certain moment. Therefore, this situation poses several IT
+1
+2
+
+http://www.apple.com/iPod.
+http://www.apple.com/iTunes.
+
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies
+are not made or distributed for proﬁt or commercial advantage and that
+copies bear this notice and the full citation on the ﬁrst page.
+c 2004 Universitat Pompeu Fabra.
+
+Josep-Llu´s Arcos
+ı
+IIIA, CSIC
+Bellaterra, Spain
+arcos@iiia.csic.es
+
+challenges regarding how to offer adequate tools to users
+in order to support them organizing their collection and
+in their decision making process of selecting, and playing
+music.
+1.1. The challenge
+Music player software with visualizations based on textual
+lists and organizing features such as smart playlists are
+not enough for helping users to efﬁciently manage their
+libraries which may easily contain thousands of tracks.
+Thus, in order to avoid the current situation where users
+are clearly overwhelmed with the problem of selecting
+tracks, we propose new visualizations and their associated
+managing features. In the following, we describe our proposals and then we compare and evaluate them.
+We have basically explored three 3 different visualizations which allow users to have a better overview of the
+contents of their music libraries and therefore to ease its
+organization. On the other hand, the two ﬁrst visualizations are shown to be very useful helping users to build
+playlists graphically instead of having to express ﬁltering
+criteria which may may be confusing to users.
+2. VISUALIZATION TECHNIQUES
+This section presents three different ways of graphically
+visualizing music libraries considering ﬁve criteria (thus,
+ﬁve dimensions) which are genre, artist, year and a quantitative criterion to be chosen by the user such as playcount,
+rating, added or last played date. The goal of these visualizations is two-fold: a) to give an overview of the contents
+of a music library, and b) to visualize playlists and give
+some support to manage and organize them. Depending
+on the visualization model users get different advantages
+since they have a different geometric expressiveness. All
+the explored techniques give a topologic overview of a
+music library regarding its tracks.
+2.1. Disc Visualization
+This approach, called disc visualization, is based on wellknown graphical charts in form of discs. Users are used
+to manage such kind of visualizations which give good
+percentage and proportional overviews.
+3 As we will see, the two ﬁrst visualizations, using discs and rectangles, can be considered as variants of the same basic concept.
+
+2.1.1. Description
+As shown in Figure 1, the disc is divided in different sectors that represent each of the genres of the library 4 . The
+size of a sector is proportional to the number of tracks
+of the associated genre with respect to the whole library.
+Therefore, the size of a sector is directly proportional to
+the importance of the corresponding genre within the library. At the same time, sectors are split in sub-sectors
+representing the artists of the associated genre. Again, the
+size of sub-sectors is proportional to the number of tracks
+of the artist. The radius of the disc, from the center to the
+perimeter, can be seen as the time axis: the center represents the year of the oldest track of the library and over
+the perimeter the most recent tracks are positioned. Tracks
+are then depicted as points over the disc according to their
+attributes, i.e., genre, artist, year. Tracks belonging to the
+same album are positioned contiguously, thus it has the effect of producing like arcs of points representing albums.
+The order in which the albums are depicted is alphanumeric, and the order for the tracks of the same album is
+the original order in the album. The quantitative attribute
+to be chosen by the user (for instance playcount, rating,
+last played date, added date, etc) is depicted according to
+different color tonalities. Colors are used to express the
+exact value for one track in its associated point. The mean
+value of all the tracks for one genre is also used to color
+the corresponding sector.
+Figure 1 illustrates how playlists and smart playlists
+can be shown using the disc visualization. Tracks of playlists without any grouping logic can be depicted by using
+geometric forms different than regular points which are
+used in general for the rest of the songs. For instance,
+in Figure 1, the playlist called “Jogging playlist” (number 4) is displayed by using bigger points in red. The
+other example in the ﬁgure for playlists which do not follow any geometric logic is the “25 last played” (number
+3) whose tracks are represented as little red crosses. The
+other playlists (numbers 1, 2, and 5) are shown as red regions since they follow a regular geometric form. The rest
+of the playlists (numbers 6 and 7) are not highlighted since
+the user has not activated their corresponding checkboxes.
+In such a visualization, the track currently being played
+could be highlighted and a path grouping the tracks to be
+played next could also be displayed. In this way, the user
+will get an idea of what regions of his library are going to
+be used in the current music sequence.
+
+corresponding sub-sector is highlighted. In a similar way,
+the year is indicated with a circle.
+Zoom. When a user is interested in getting a more
+detailed view of his library, he can zoom over any sector of the disc. This zoom will then generate a disc with
+the same visualization and interaction principles but applied to just the genre of the selected sector. Therefore, in
+this ﬁrst zoom level, sectors representing genres become
+sectors representing artists with sub-sectors representing
+albums. All the other dimensions and general principles
+remain the same. Finally, the latest zoom level when selecting a sector representing an artist would produce a disc
+where sectors are the albums of the selected artist, without any sub-sector. Thus, in this latest zoom level, users
+obtain a graphical representation of the tracks for a given
+artist.
+Playlist management. As explained in Section 2.1.1
+and shown in Figure 1, the disc visualization can be nicely
+used to graphically display playlists and smart playlists.
+Moreover, this visualization can be used to edit or create new playlists with useful graphical help. The mechanism is based on considering playlists as sets and then being able to construct set operations to form new playlists.
+Multiple playlists can be selected at the same time and
+then apply operations such as union, intersection, difference, and so on. Since playlists are graphically visualized
+as sets, it is convenient and useful to apply set operations
+over them. The resulting playlists are also graphically displayed.
+When creating (or editing) playlists with tools like the
+ones provided by iTunes (either directly selecting songs,
+or by constructing a set of logic rules for smart playlists),
+the disc visualization is useful for showing the playlist being created step by step. So, at any moment of the creation (or edition) of a playlist, the user can immediately
+see how the new playlist changes, its approximate size
+and its topology. Such procedures help users to have a
+better idea of which zones of the library are overused or
+
+2.1.2. Interaction Principles
+In this section, we describe how users interact with the
+disc visualization. Basically, the following principles have
+been identiﬁed:
+Navigation. The attributes of any track of the library
+can be visualized in textual form by just positioning the
+cursor over its point. When moving the cursor over the
+disc, the track details are displayed and the artist of the
+4 The ﬁgures illustrating the disc and rectangle approaches were generated with a real music library of about 2.500 tracks.
+
+Figure 1. Visualizing playlists and smart playlists in music libraries by using discs.
+
+underused, or the zones implied in each playlist.
+Standard search procedures. When using standard
+ﬁltering procedures based on keyword search, the disc visualization can also be of a great help by highlighting the
+ﬁltered songs dynamically. In the same way that iTunes
+dynamically changes the list of tracks in the results window, the visualization highlights the tracks graphically.
+2.2. Rectangle Visualization
+This visualization is similar to the disc visualization but
+using rectangles instead of discs. In the disc visualization,
+the time axis was represented along the radius of the disc,
+and in the rectangle visualization the time axis goes along
+the vertical axis. Similarly, for this visualization, the attribute genre goes along the horizontal axis. The result of
+this visualization is shown in Figure 2.
+
+addition to genres and artists, the axis also represents the
+albums for each artist. The horizontal axis and its scroll
+bar are accordingly adapted depending on the zoom level.
+2.3. Tree-Map Visualization
+This visualization is using Tree-Maps in a similar way as
+described in [1] but for visualizing music libraries.
+In this visualization 5 , the size of rectangles are always
+proportional to the number of tracks in the attribute represented by the rectangle. At the same time, rectangles are
+recursively split in sub-rectangles showing other proportions. For example, in Figure 3 rectangles are recursively
+split three times: the whole library (the parent rectangle)
+is split into genres, each genre is split in its sub-genres,
+and ﬁnally each sub-genre is split in its artists.
+The color of each rectangle indicates a quantitative attribute to be chosen by the user, similarly as the previous
+visualizations, e.g., playcount, last played date, ratings,
+and so on. However, in this visualization, since tracks are
+not depicted, only mean values are represented by different color tonalities.
+The interaction mechanism for the visualization is very
+straightforward for zooming: the user selects a rectangle,
+and the parent rectangle shows then the selected attribute.
+
+Figure 2. Visualizing music libraries by using rectangles.
+Even if both visualizations have similar features, they
+may give different user experiences with their advantages
+and downsides as described in Section 3.
+2.2.1. Interaction Principles
+The main principles described for the disc visualization
+apply to this visualization, however the zoom functionality may be differently applied.
+Zoom. In this visualization, zooms can be done in the
+same way as for disc visualizations. When zooming over
+a genre (which is a sub-rectangle), the horizontal axis becomes the artist dimension. Similarly, when zooming over
+an artist, the horizontal axis becomes the album dimension.
+Another way of applying zooms in the rectangle visualization is to just consider that all the tracks in the library are always shown, but the scale of the horizontal
+axis changes. Therefore, using this approach, the user explores the whole library just by using a scroll bar for panning over an speciﬁc zone. In this case, when zooming
+in, the horizontal axis still represents the genres, and the
+artists within each genre. With a second level of zoom, in
+
+Figure 3. Tree-Map visualization for a whole music library.
+
+3. COMPARISON
+The visualizations using discs and rectangles basically offer the same functionalities, while the Tree-Map visualization is more likely to be used just for giving a better
+overview of the contents of music libraries. This is because the disc and the rectangle approaches are capable to
+show information at the track detail whereas it is unclear
+5 For better showing the concept of Tree-Maps visualizations for music libraries, we assume that a sub-category of genre, called sub-genre,
+is available for each track.
+
+how to represent tracks using Tree-Maps. A comparison
+among the different presented visualizations and their features is summarized as follows:
+• Visualizations based on discs and rectangles offer
+similar functionalities, but also different pros and
+cons due to their different geometric forms:
+– Discs give a better visual idea about the proportions of sectors and sub-sectors compared
+to rectangles and sub-rectangles.
+– Track points are differently distributed in discs
+and rectangles. For libraries with more recent tracks than old ones, the points are better
+placed in the disc visualization. On the other
+hand, libraries which are more homogeneous
+with respect to the year of their tracks are better suited for the rectangle approach.
+– The zooming feature is more useable with rectangles since the whole library space can be
+represented with the help of scroll bars. Zooming in the disc visualization implies to focus to
+a smaller portion of the library.
+– In the rectangle version, criteria for both coordinates is explicitly shown (genre/artist/albums
+and year) thus the positioning of tracks is easily understood by users. In the disc representation, the year coordinate goes along the radius
+of the disc so possibly more efforts could be
+required by users to quickly understand it.
+• Tree-Map visualizations are more adequate to give
+an overview with respect to the number of tracks
+belonging to each attribute represented by the size
+of its rectangles.
+• The Tree-Map approach is not very well-suited for
+displaying information about tracks or playlists.
+• Discs and rectangles can be used to visualize, and
+more importantly to create and edit playlists. The
+Tree-Map representation does not offer this possibility because tracks are not shown.
+All the approaches presented in this paper (and also
+textual lists) should be regarded as complementary by considering the above arguments. In this way, a complete music player software may allow users to choose among the
+different approaches. Also, it is feasible to automatically
+decide which approach has to be used depending on the
+topology of the library of the user and the action the user
+is considering, resulting in a really smart music organizer.
+4. CONCLUSIONS
+Textual list-based visualizations and organizing features
+such as smart playlists are not enough to really support
+users who deal with music collections of thousands of
+tracks. In order to assist music fans to better manage huge
+
+digital music libraries, we have proposed new visualizations and their associated features. However, the proposed
+approaches should be regarded as complementary to more
+conventional tools like textual lists.
+We believe that advanced but yet simple visualizations
+are critical for supporting the process of exploring and
+therefore re-discovering personal music collections. Actually, it seems reasonable to believe that many times users
+may be interested in rediscovering their own music instead
+of thinking about enlarging their collections. Moreover,
+users may be interested in exploring their music collection to actually decide what to acquire or listen next. Currently, this rediscovering process can be tedious by using
+textual lists, while the presented new approaches facilitate
+such task.
+4.1. User Studies
+Stronger and ﬁnal arguments for validating the suggested
+approaches should be given by rigorous user studies. These
+user studies will be developed with different type of users
+considering at least factors like technology matureness,
+age, educational background, and topology of their libraries
+(size, recency of tracks, homogeneity).
+
+Acknowledgments
+We would like to thank Michel Speiser for his great implementation of the ideas shown in this paper during a
+semester project at the EPFL. We also thank MusicStrands
+S.A. for providing XML parsers to read real iTunes libraries.
+5. REFERENCES
+[1] Ben Shneiderman. Tree Visualization with TreeMaps: 2-d Space-Filling Approach. ACM Transactions on Graphics, 11(1):92–99, January 1992.
+
+

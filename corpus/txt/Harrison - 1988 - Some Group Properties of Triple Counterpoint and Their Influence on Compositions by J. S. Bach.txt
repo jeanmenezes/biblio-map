@@ -1,0 +1,2322 @@
+Yale University Department of Music
+
+Some Group Properties of Triple Counterpoint and Their Influence on Compositions by J. S.
+Bach
+Author(s): Daniel Harrison
+Source: Journal of Music Theory, Vol. 32, No. 1 (Spring, 1988), pp. 23-49
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843384
+Accessed: 16/12/2009 01:06
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+SOME GROUPPROPERTIES
+OF
+TRIPLECOUNTERPOINT
+AND THEIR
+INFLUENCEON COMPOSITIONS
+BY J. S. BACH
+
+Daniel Harrison
+
+Invertible
+in
+counterpoints tonalmusic are a specialand uniqueclass of
+thematicrepetition.Like unvaried
+and
+reprises,recapitulations, transpositionalsequences,invertible
+reusethematicmaterialin differcounterpoints
+ent partsof a musicalform. Unlikethese otherprocedures,
+whichpreserve
+interrelationships
+amongthe severalmelodiclines, invertiblecounterpoint
+alters these interrelationships that the melodic componentsare rearso
+rangedwith respectto each otheruponrepetition.Forthis reasoninvertible
+can
+counterpoint be a more subtleand covertmeansof thematicrepetition
+than the other proceduresmentionedabove, and thereforecan become a
+In
+powerfulway to unify musical structure. the handsof J. S. Bach, who
+new andunexplored
+it
+recognized
+possibilitiesfor invertible
+counterpoints,
+is used so oftenandwith such imagination the formaleconomiesof his
+that
+compositionsare often extraordinarily
+simple in relationto the beautifully
+complex sound of the music.
+Inthe pagesfollowing,I will examine
+boththe generalproperties triply
+of
+invertiblecounterpoints
+and
+(triplecounterpoint) the use of this compositionaltechniquein some of Bach'smusic. The readermightwell ask why a
+is
+The
+studyof Bach'suse of doublecounterpoint not prerequisite. answer
+lies in thedifferent
+abstract
+of
+structure thesetwotypesof invertible
+counterpoint and the effect these differenceshave on compositionalprocedure.
+23
+
+with two voices only two possible
+For instance, in double counterpoint
+of
+arrangements melodiclines arepossible:line A as the treblepartandline
+B as the bass part,or line B as trebleandline A as bass.'Therefore, pasa
+can
+sage writtenin doublecounterpoint be used only once more beforea
+of
+on
+repetition a previoussectionis heard.2
+Triplecounterpoint, the other
+distinctarrangements threelines. The compoof
+hand,has six functionally
+of
+sitionalimplications this difference
+betweenthese two types can thusbe
+one
+summedup neatly: for every measurewrittenin doublecounterpoint
+othermeasurehavinga different
+musicalforeground be generated;
+can
+but
+for every measurewrittenin triple counterpoint, other measurescan
+five
+be generated.This differenceaffectssuch compositional
+decisionsas how
+will
+function
+counterpoint be, what structural
+long a passageof invertible
+will it perform,and how manytimes it will be used.
+is
+Anotherdifference
+betweenthese two types of invertible
+counterpoint
+that inversionsat intervalsother than the octaveand its equivalents
+(e.g.,
+but
+@12th,@10th)arecommonin doublecounterpoint rarein triplecouninvertible
+possibilitiesof a doublecounterpoint
+terpoint.Thecompositional
+intervals correspondingly
+are
+at bothoctaveandnon-octave
+greater.In fact
+as
+they are so interesting to deservea separatestudy.My discussionwill
+ininversionsin triplecounterpoint,
+not deal with the issues of non-octave
+on
+triguingas they are, and will concentrate inversionsat octaveintervals.
+differentcomposition
+approaches
+two-part
+Finally,Bachquitenaturally
+from three-part.In keyboardworks, for instance,these two types of
+ly
+of
+writing are characteristic differentgenres. Comparingdouble versus
+would thus involvecomparingnot only these abstract
+triple counterpoint
+theoretical
+entities,but also their role in compositionsthatare themselves
+writing.
+by
+distinguished the respectivedemandsof two- and three-part
+Even in a comparison
+involvingsimilargenres-Inventionsand Sinfonias,
+a
+for example-it wouldbe difficult,not to say misleading,to atttempt separationof genre and technique.
+disclosessome speof
+the
+Examining groupstructure triplecounterpoint
+cial properties,propertiesthat control the latent structural
+potentialities
+which Bach recognizedand exploitedin this procedure.After examining
+I
+these groupproperties, will discusstheir influenceon the formalorganiinsteadof
+zationof some of Bach'smusic, showingthattriplecounterpoint,
+and
+being some dry-as-dust esotericartifice,is a musicallysatisfyingway
+coherencewithoutsacrificingvarietyin the musical
+of gainingstructural
+foreground.
+GROUP DEGREE
+OF
+A PERMUTATION
+TRIPLE
+COUNTERPOINTAS
+melodiclines.
+the
+3. I shallattach letter-tokens B, andC to threeseparate
+A,
+called
+These tokenscan be placedin different
+by
+arrangements operations
+reflectthe placementof
+permutations.Musicallyspeaking,arrangements
+24
+
+the musical lines in one of three voice parts,treble, middle, and bass. If
+Z
+I definepermutation to replacetokenA by tokenC, tokenB by tokenA,
+and tokenC by tokenB, the operationZ can be writtensymbolicallyas in
+Figure la, where each letterin the left column is replacedby the letterin
+Z
+The notationillustrates
+the same row in the rightcolumn.3
+permutation
+and
+of
+by showing"before" "after"
+arrangements the tokens. In Figure la
+Z
+permutation producesthe arrangement A, B) from (A, B, C).
+(C,
+Z
+"before"
+In Figurelb permutation acts on a different
+(A,
+arrangement
+C, B), producinga different"after"
+(C,
+arrangement B, A). Even though
+tokensC and B in the left columnof Figure lb haveexchanged
+"registral"
+to
+shownin the left columnof Figure
+positionscompared theircounterparts
+la, this differencedoes not affectthe actionof permutation despitethe
+Z;
+in
+rearrangement the left column,tokenC still is replacedby B, andtoken
+B by token A, and token A by token C.
+Permutations be combinedto produceother permutations. incan
+For
+Y
+stance,let us definepermutation to replacetokensA with A, B with C,
+andC with B (Figure2). The product permutation followedby permuof
+Z
+tationY is shownin Figure3a. ZY replacesA by C throughpermutation
+Y.
+Z, and then replacesC by B throughpermutation (The rows of Y are
+in
+ZY
+verticallyrearranged the Figure.)Thus permutation ultimatelyreplaces A with B. By inspectingthe other rowsof Figure3a, we can determine the effect of ZY on tokens B and C in the same fashion. Figure3b
+showsthatthe compoundpermutation producesan arrangement
+YZ
+different than that producedby ZY, an important
+demonstration multiple
+that
+can
+permutations fail to commute.
+The notationfor permutations
+foundin Figures1 through is unwieldy,
+3
+are
+especially when multiplepermutations considered.I will now use a
+shorthand
+which breakspermutations
+down into cycles. An illustration
+of
+this notationis shown in Figure4a. Each token in the parentheses reis
+placedby its successoron the right,andthe last tokenby the first.Permutation Z is thusnotatedas the cyclingof tokenA into C, C into B, and B into
+A. Everypermutation be represented cyclic notation.Permutation
+can
+in
+Y
+for instance,shownin Figure2, is the cycle (A)(B C), whereA is cycled
+into itself, B is cycledinto C, andC into B. Adhering mathematical
+to
+convention,cycles of a single element, such as (A) in permutation will be
+Y,
+Y
+omitted, so thatpermutation is writtenas (B C). Figure4b showshow
+the product permutations be represented a cycle. The permutation
+of
+can
+as
+Y = (B C) takestokenA into tokenA; Z = (A C B) then takestokenA
+intotokenC. So the net effectof YZ is to takeA intoC. Wecan startwriting
+a cycle for YZ as YZ = (A C ?. Since we haveconsideredonly the effect
+of the two permutations tokenA, we are unableto statewhat happens
+on
+to token C or how token B is affected.To get rid of the questionmarkin
+the cycle, we must next computethe effectof YZ on tokenC. Y = (B C)
+takes C into B; Z = (A C B) takes B into A; YZ thus takes
+25
+
+A C
+B A
+C, B
+
+Z=
+
+Figure la
+(A C
+
+Z=
+
+CB
+BA
+Figure lb
+A A
+
+Y=
+
+B C
+C B
+Figure2
+
+ZY=
+
+B
+C
+
+A
+C
+
+A
+B
+
+A
+B
+
+(A
+B
+
+B
+A
+
+C
+
+=
+
+C
+
+Figure3a
+A
+
+YZ =
+
+A
+
+A
+
+C
+B
+
+C
+B
+
+B
+A
+
+A
+
+B
+C
+
+A
+B
+
+=
+
+(A
+
+Figure4a
+Y = (B C)
+Z = (A C B)
+YZ = (BC)(ACB) = (AC)
+
+Figure4b
+26
+
+B
+A
+
+=B
+
+Figure3b
+
+Z=
+
+C
+
+C
+
+C
+
+B
+C
+
+C
+
+B)
+
+C into A. Because YZ takes A and C into each other, we can now close
+the parentheses
+around cycle. Therefore = (A C)(?.Sinceonly one
+this
+YZ
+tokenis now left to replacethe questionmark,YZ musttakeB into itself,
+and we can deduceYZ = (A C)(B), which is simply (A C) in the simplified notation.4
+The actionsof thesepermutations
+withina musicalcontextareillustrated
+in Example1, which excerptsportionsof Bach'sf-minorSinfonia,BWV
+795. The threelines thatmakeup mm. 7-9 are shownin Examplela. For
+the
+purposesof illustration, threelines are separated voice part(treble,
+by
+staves.In Examplelb, takenfrom
+middle,andbass) andare given separate
+mm. 31-33, the material mm. 7-9 is rearranged
+of
+the
+through actionof perZ.
+mutation Lines A and B now occupythe voice partsformerlyinhabited
+while line C occupiesthe formervoice part
+by lines B and C respectively,
+of line A. Bachhas rewritten B slightly(at *) so thatit can be a more
+line
+bass
+sectionof line B foundin Exappropriate line thanthe corresponding
+la. In ExampleIc, takenfrom mm. 18-20, the lines are transposed
+ample
+to the key of the dominant presented an arrangement
+and
+in
+from
+generated
+the action of permutation on the music of Examplela. Again line B is
+Y
+this
+slightly rewritten, time changingregisterat t.
+As mentionedearlier,six functionalarrangements tokensA, B, and
+of
+C arepossible.Therearealso six permutations
+whichcan produceall these
+fromanygiven one. Bothpermutations arrangements
+and
+are
+arrangements
+shown in Table 1. All six permutations shownwith the same "before"
+are
+is
+(A,
+arrangement B, C). This arrangement taken into the six possible
+shown in the rightcolumn of each group;the permutations
+arrangements
+which effect these transformations also writtenin cyclic notation.The
+are
+thattakesthe tokensA, B, andC intothemselvesis the identity
+permutation
+labelled I in the Table.
+permutation,
+The multiplication any two of the six permutations
+of
+producesone of
+those six permutations.
+These productsare shown in Table2. Each entry
+on the Tableis the productof the cycle at the left of its row with the cycle
+at the top of its column. For example,the permutation B)-entered in
+(A
+the fifthrow of the thirdcolumn-is the product (A C), which leadsthe
+of
+fifth row, and (A C B), which tops the third column. Thus (A B) =
+of
+(A C)(A C B). TheTablerevealsthatthreeimportant
+properties mathematicalgroup structure
+have been satisfied:first, the productof any two
+withinthe groupbelongsto the group;second,an identityelepermutations
+ment is found within the group;third, an inversefor any permutation
+is
+containedwithin the group. By an "inverse" a generic permutation
+for
+P,
+I mean a permutation satisfyingPQ = QP = I. One writes Q = P.5
+Q
+The box in the top left cornerof Table2 encloses a propersubgroup
+H
+in G-that is, a subsetof G whichis itself a group.Besidesthe identitypermutation, subgroupH contains the 3-cycle permutations B C) and
+(A
+(A C B). The 2-cyclepermutations B), (A C), and (B C) do not form
+(A
+27
+
+a.
+
+mm. 7-9
+
+A
+
+B
+(|
+
+y I.
+4
+
+YI
+
+L
+
+C
+
+b.
+
+mm.31-33
+
+C
+
+A
+
+B
+
+z;. d
+Jbi
+
+|b.b':
+\I
+C.
+
+A
+
+b-
+
+wJ
+
+21 r^
+
+cJ
+
+'
+
+$
+
+mm. 18-20
+
+J
+
+=9A^,. ?
+w
+
+J
+
+b
+
+j) -r
+
+^=
+
+C
+
+B
+
+Example 1
+
+(A
+
+B
+B A
+c c
+
+or
+
+(A B)
+
+c
+i
+
+or
+
+B C)
+
+or
+
+(A C)
+
+B
+
+A c\
+B B
+C A
+
+AC
+B A
+C B,
+
+(A B C)
+
+or
+
+(A C B)
+
+AA
+B
+C C
+Table 1
+
+28
+
+or
+
+C A
+
+(A A
+B C
+
+A B
+B C
+
+or
+
+(A)
+
+(B) (C)
+
+=
+
+I (identity)
+
+a subgroupsince they do not satisfy the requirements group structure
+for
+under multiplication.Nonetheless, it will be instructiveto consider the
+as
+2-cycle permutations a subset K of G. The followingpropertiesabout
+both K and H shouldbe noted:
+1. The elementsof K combineinto elements H. (Theelements subof
+of
+combineamongthemselves.)
+groupH, by definition,
+2. Eachpermutation K is its own inverse.The two 3-cyclepermutations
+in
+in H are inverses
+each of the other.
+distinctionbetween 2-cycle and 3-cycle permutaThe group-theoretic
+actionsin musical
+tionshas a strongeffecton the analysisof theirrespective
+composition. 3-cycle permutations,for instance, apply to genuine and
+since all threelines are rearranged, seen in
+as
+propertriple counterpoints
+the transformation Example la into lb under the 3-cycle permutation
+of
+however,can be analyzedas double
+(A B C). The 2-cycle permutations,
+of
+(A
+counterpoints twoout of threelines. Forinstance,the permutation C)
+whichchangesthe arrangement lines in Examplelb intothatof Example
+of
+Ic does not affectthe relativepositionof line B. Hence, it is possibleto describeExampleIc as a doublecounterpoint the top two lines @8ve with
+of
+to Examplelb.
+respect
+of
+H,
+Focusingnow on the 3-cycle permutations subgroup we find that
+becauseof the different
+inverserelationships
+with respectto G, H satisfies
+the conditions a cyclicgroup,a groupwhichcan be generated repeated
+of
+by
+combinations one elementwithinthe group. H can be generated
+of
+cyclicalto
+ly in two relatedways.Using superscripts indicatehow manytimesa permutationis combinedwith itself, we write: H = (A B C), (A B C)2 =
+(A C B), (A B C)3 = I; or alternately: H= (A C B), (A C B)2 =
+(A B C), (A C B)3 = I.
+
+The cyclicproperty subgroup is of particular
+of
+H
+interest
+becauseit can
+be used to generatetwo distinctarrangements tokensfroma starting
+of
+arThis type of generation shownin Figure5. In Figure5a, peris
+rangement.
+mutation C B) is appliedagainandagain,starting
+with arrangement
+(A
+#1;
+this producesarrangements and #3 beforecyclingbackto #1. In Figure
+#2
+5b permutation B C) is used in the same way.Here, given the starting
+(A
+are
+only two other arrangements possible no matterwhich
+arrangement,
+is
+affectsonly the order
+3-cyclepermutation used;the choice of permutation
+in which the arrangements
+appear.Figure5b retrogrades
+Figure5a; thatis
+because (A B C) = (A C B)-'.
+Also affectedby the choice of permutation, Figures5a and 5b, is the
+in
+overall registraleffect of a musical realization.In Figure 5a permutation
+(A C B) continuallyoverlapsthe top two tokens with a token which had
+previouslybeen on the bottom.Whenrealizedmusically,this characteristic
+of the Figurewill give the illusionthatthe corresponding
+musicallines are
+to
+In
+"sinking" the bass with each subsequent
+arrangement. Figure5b the
+29
+
+(A B)
+
+(A C)
+
+(B C)
+
+(A B)
+
+(A C)
+
+(B C)
+
+I
+
+(B C)
+
+(A B)
+
+(A C)
+
+(B C)
+
+(A B)
+
+I
+
+I
+
+(A BC)
+
+I
+
+(A B C) (A C B)
+
+(A CB)
+
+(A B C)
+
+(A B C) (A C B)
+
+(A C B)
+
+(A C B)
+
+I
+
+(A B C)
+
+(A C)
+
+(A B)
+
+(A B)
+
+(A C)
+
+(B C)
+
+I
+
+(A C)
+
+(A C)
+
+(B C)
+
+(A B)
+
+(A C B)
+
+(B C)
+
+(B C)
+
+(A B)
+
+(A C)
+
+(A B C) (A C B)
+
+(A B C) (A C B)
+I
+
+Table2
+
+(A C B)
+A
+
+(A C B) (A C B)
+B
+
+A
+
+3
+
+C
+
+1
+
+B
+~(A B C)I
+#:
+ARRANGEMENT
+
+2
+
+1
+
+Figure5a
+(A BC) (A BC)
+
+(A BC)
+A
+
+A
+
+C
+
+B
+)
+( AC B
+
+I
+if:
+ARRANGEMENT
+
+1
+
+3
+
+2
+Figure5b
+
+30
+
+(A B C)
+I
+
+situationis reversed.The apparent
+motionof musicallines will be in the
+aroppositedirection;they will "rise"to the treble with each subsequent
+I
+the
+of
+rangement. will thus characterize cyclic application a 3-cycle permutationas either a TB progression("trebleto bass")as in Figure5a, or
+as a BT progression("bassto treble,"),as in Figure5b.
+The remainingthree arrangements shown in Figure 5 can also be
+not
+different
+fromany of the first
+generated
+cyclicallyif a starting
+arrangement
+threeis used (Figure6). An arrangement Figure6 can be generated
+of
+from
+an arrangement Figure 5 only by means of some 2-cycle permutation
+of
+from subsetK. Figure7 shows how the variousarrangements Figure6
+of
+are relatedto those of Figure5 by 2-cycle permutations. will henceforth
+I
+referto thesetwocollectionsof threearrangements as the two conjugaeach
+tions of subgroup I intendthe word"conjugation" as a grammatical
+H.
+here
+Lateron, I shall show how Bach "runsthrough"
+such conjugametaphor.
+tions in segmentsof his musicaldiscourse.
+Some interesting
+are
+propertiesof the two conjugations these:
+1. When a 3-cycle permutation
+from H is used to generateboth conwill have a TB progressionand the
+jugations,one conjugation
+other a BT progression.
+2. If each arrangement lines in a conjugation
+of
+makes correctthreethen each arrangement the other conjugation
+in
+partcounterpoint,
+will also make correctcounterpoint.
+The firstproperty be verifiedby examining
+can
+Figures5 and6. The second propertyresultsfromthe generational
+a
+principleof the conjugations,
+principlethatcauses every line to be cycledthroughthe bass once in each
+Since the integrity an invertible
+of
+conjugation.
+counterpoint
+dependsupon
+the formation permissibleintervals
+of
+abovethe bass, the successof line A,
+for instance,as the bass of an arrangement one conjugation
+in
+guarantees
+its successas a bass in the otherconjugation, inversion the othertwo
+the
+of
+partsnotwithstanding.8
+BACH'S
+USE OF CONJUGATIONS COMPOSITION.
+IN
+Bach recognized new opportunities structural
+for
+controlaffordedby groupingtriple
+into
+In
+counterpoints conjugations. two compositionsin which all six arof a triplecounterpoint used, Bachdeployed conjugations
+are
+the
+rangements
+in sucha waythattheybecomeimportant
+structural
+in theirownright,
+pillars
+their apparent
+functionas an organizational
+convenience.
+transcending
+In the D-majorSinfonia,BWV789, the two conjugations
+appearat the
+beginningandend of the piece to createan unusualtype of expositionand
+structure given additional,
+is
+recapitulation
+(Figure8). This conjugational
+thematicimportance the role one of the melodiclines playsas the main
+by
+subjectof the Sinfonia.The three lines are shown in Example2 as they
+31
+
+(A C B) (A CB)
+
+(A CB)
+A
+
+C
+
+B
+
+A
+
+6
+
+4
+
+(ABC)
+ARRANGEMENT 4
+#:
+
+5
+
+Figure6a
+(A BC)
+
+(A BC) (A BC)
+
+\- (A CB)
+ARRANGEMENT
+#:
+
+4
+
+6
+
+5
+
+4
+
+Figure6b
+
+I (A C)
+
+T(B C)
+
+(AB)
+C
+A
+B
+1t (A C)
+
+l(B C)
+B
+C
+A
+ot (A B)
+I x-- -1
+
+(A B)
+
+(B C)
+
+(A C)
+
+A
+B
+C
+
+I
+
+A
+C
+B
+
+C
+B
+A
+
+B
+A
+C
+
+5
+
+6
+
+t
+
+ARRANGEMENT
+#:
+1
+
+2
+
+4
+
+3
+Figure7
+
+32
+
+Measures:
+
+I
+
+Section:
+
+8
+10
+12
+142/4
+Thematic
+Thematic
+Motivi
+Exposition Mod. Episode
+Entry Mod. Episode
+
+B
+A C
+B A
+Arrangement:free C B
+Permutation:
+Harmony:I
+ov
+
+B
+C
+A
+
+D
+E
+F
+
+(A C B) (A C B)
+V I
+
+(D E
+V of VI
+
+III
+
+First Conjugation(TB)
+First Conjugation(TB)
+Figure 8
+
+appearin the second half of measure3. Again, the lines are separated
+by
+voice part and presentedon their own staves.The bracketsenclose those
+portionsof the lines which are common to five of the six contrapuntal
+uses
+versionsof lines
+the
+arrangements; remaining
+arrangement shortened
+whichwill be discussedbelow.Thematically,
+the
+A andC, an abridgement
+to
+lines used in this triplecounterpoint
+correspond the subjectof the Sinfonia (line B of Example2), and two countersubjects
+(lines A and C).
+A fugue-likethematicexpositioncomprisesthe first section, mm. 1-8.
+in
+The subjectfirstappears the top voice, accompanied a bass line while
+by
+the middle voice is silent. The answerfollows in the middle voice (mm.
+2).
+3-4) while the outervoices havethe two countersubjects
+(Example This
+of
+is the firstappearance all threelines to be used in the triplecounterpoint.
+The thematicexpositionends after the completionof the bass subjectin
+of
+the
+mm. 6-8. Thearrangement voices accompanying bass subjectin mm.
+of
+6-8 is generated the permutation C B) actingon the arrangement
+(A
+by
+in
+mm. 3-5. The two three-voicethematicstatements the expositionthus
+belong to the same conjugation,as shownon Figure8.
+of
+Althoughthe thematicexpositionends at m. 8, the firstconjugation
+is not yet completed.A short modulatingepisode in
+triple counterpoint
+fromthe
+of
+mm. 8-10 separates firsttwo arrangements the conjugation
+the
+which begins in m. 10. This episode, by isolatingthe
+final arrangement,
+thematic
+Yet,
+aspectsof the structure. the
+exposition,emphasizes
+fugue-like
+locatedin the
+in
+thematicstatement m. 10, which wouldbe appropriately
+form of a fugal structure,assertsan importance
+beyondthat of a typical
+to
+theoriespertaining fugue. The entrycomthematicentry in traditional
+thusclosing as it werea "conjugational
+exposipletesthe firstconjugation,
+cadenceon
+tion." The sense of closureis projected the strongauthentic
+by
+VI in m. 12, the firstauthentic
+cadencesince the thematicexposition.The
+of
+importance the arrivalon VI in m. 12 is indicatedby the lengthof the
+dominantwhich supportsthe thematicentry-the only time the theme
+at
+thana toniccontext.The arrival m. 12 is also
+rather
+entersin a dominant
+by
+emphasized the immobilebass on the long tonic B followingthe downbeat of that measure.This strongrhetoric,makingthe cadencean approsection, causes lines A and C to be
+priateending for the conjugational
+at
+alteredin the triplecounterpoint
+arrangement the thirdbeatof m. 11,an
+the
+that
+alteration accommodates unusualharmonicsettingof the thematic
+with the completionof the first
+are
+statement.These features all associated
+and
+conjugation, theyall delineatea strongclosure.The term"conjugationto
+al exposition,"which I introduced
+above, is appropriate referencethe
+formalsection.
+Justas the thematicexpositionwas isolatedby an episode, so too is the
+to
+exposition.An episode modulating III in mm. 12-14 folconjugational
+This episode leads not
+of
+lows the final arrangement the firstconjugation.
+to anotherthematicstatement,as did the first episode, but to yet another
+34
+
+episode (mm. 14-18), one in which motivic developmentis the primary
+feature
+insteadof harmonic
+modulation. developmental
+The
+episodeof mm.
+14-18,togetherwith the modulating
+epsiodeof mm. 12-14which precedes
+it, comprisesthe longestsectionof the piece duringwhichthe themeis not
+heardin its entirety.
+This largemiddlesectionof the Sinfonia,mm. 12-18,separates two
+the
+of
+As
+conjugations triplecounterpoint. Figure8 shows,the secondconjugationbeginsto unfoldat m. 19,wherethe subjectsimultaneously
+returns.
+The
+sectionpreceding 19endswitha pedalpointsupporting local V7,a gesm.
+a
+ture which in the contextsuggestsan upcomingstructural
+And
+boundary.
+indeedwe get a full thematic
+overmm. 19-25. The recapitularecapitulation
+tion is coupledto a harmonic
+structure
+typicalof a thematic
+exposition-that
+in
+Howis, a subject-answer
+relationship the firsttwo thematicstatements.
+ever,Bach skewsthe harmonic
+relationship beginningthe recapitulation
+by
+on the subdominant. placementof the answeron the required
+The
+"dominant"of the subdominant
+allowsBachto exploitthe doublefunctionof this
+harmonydeftly, sneakinginto the tonic, as it were, by the back door.
+Unlikethe treatment
+the
+givento the firstconjugation, secondis presented as an uninterrupted
+block of music. No arrangement separated
+is
+from
+of
+with subjectis
+any otherby an episode. The identification conjugation
+thus made complete;the re-exposition the subjectin mm. 19-25 coinof
+cides with the expositionof the second conjugation.The complementary
+of
+is
+relationship the two conjugations given furtherstrength the use of
+by
+the samepermutation C B) to generate arrangements
+the
+(A
+which, as was
+mentionedabove, resultsin a TB progressionin the firstconjugation
+and
+a BT in the second.
+While the second conjugation
+variesthe first both in the arrangements
+heardand in the rising sense of the BT progression,there is still a sense
+in which we can say thatmm. 19-25 give a conjugational
+"recapitulation"
+of mm. 1-12. The sense is that which David Lewin calls transformational
+The
+of
+this
+"isography."10 diagram Figure9 showsa graphillustrating idea.
+Eachsmallcircle (node)on the diagram
+a
+where
+represents formal"place"
+a contrapuntal
+can occur. The nodes can be filled with "conarrangement
+in
+tents" a varietyof ways.If we inputthe arrangement B, C) as the con(A,
+tents of the left-handnode on the graph, the indicatedtransformational
+chain will producearrangement A, B) as the contentsof the middle
+(C,
+node, andarrangement C, A) as the contentsof the right-hand
+(B,
+node;this
+gives us the overallcontentof a network
+modelingthe conjugational
+exposition of the Sinfonia.If, on the other hand, we inputthe arrangement
+(A,
+C, B) into the left-handnode, the chainwill produce(C, B, A) as the contents of the middle node, and (B, A, C) as the contentsof the right-hand
+node; this models what I have called the conjugational
+"recapitulation."
+Whatis "recapitulated" is the actionrepresented the transformationhere
+in
+al graph.
+35
+
+*8
+
+I ..
+
+I
+
+A
+
+e
+
+rP
+
+rI
+
+r,friw
+
+B
+
+C
+
+1Ps
+
+E
+
+2
+
+Example 2
+
+(A C B)
+
+(A C B)
+
+Figure 9
+Figure 9
+
+D
+E
+
+F
+
+Example 3
+
+36
+
+-
+
+As we know,the relationship
+betweenthe twoconjugations determined
+is
+of
+by the 2-cycle permutations subset K. As if to underscorethis transon
+role, Bachuses one of the 2-cyclepermutations threenew
+conjugational
+lines in the sectionof motivicdevelopment
+which separates two conjuthe
+these threenew lines as D,
+gations,mm. 14-18.In Figure8, I havemarked
+the
+As
+E, and F in orderto illustrate permutation. one sees by comparing
+Example3 to Example2, lines D and E are madeup of head and tail motives fromthe subjectof the Sinfonia,and line F is derivedfrom partsof
+the countersubject line C, as well as from partsof the subject.Despite
+of
+theirclose relationship the lines used in the conjugations,
+to
+lines D, E, and
+F participate an invertible
+in
+fromthatof lines A, B,
+counterpoint
+separate
+and C. As Figure8 shows, the arrangement E, F), which startsin the
+(D,
+secondhalf of m. 14, is permuted (D E) to producethe arrangement
+(E,
+by
+D, F) startingin m. 16. The use of the 2-cycle permutation E) on mo(D
+the
+tivically relatedlines subtlyadumbrates upcomingchangeof conjugation while still maintaining separation the two structures.
+the
+of
+The F#-major
+Clavier,Book 2 also uses
+Fuguefromthe WellTempered
+two conjugations triplecounterpoint developa structural
+of
+to
+parallelism.
+In Figure 10 two formalconjugations bracketed
+are
+involvingtokensA, B
+and C. At first glance, the widely separated,
+block-likedeployment the
+of
+seems to be the same structural used in the D-majorSinidea
+conjugations
+makes a complete
+fonia, the only differencebeing that each conjugation
+of
+(A
+cycle underpermutation B C); the firstand last arrangements each
+conjugationare thus identical." However,Bach investsthis techniqueof
+construction
+that governsconnecdeploymentwith a more sophisticated
+tions between arrangements both conjugations.This innovation
+in
+allows
+him to connectthe conjugations the other structural
+to
+shown
+parallelisms
+in Figure 10, creatinga highly unifiedand economicalcomposition.
+Thethreelines organized conjugation shownin Example as they
+are
+4
+by
+appearin m. 13. Althoughthe Exampleshows the verticalfit of the three
+horizontalorganization
+which conlines, it cannot revealthe remarkable
+trols the unfoldingof the individualconjugations. Figure10 shows,the
+As
+in
+arrangements each conjugation
+appearin uninterrupted
+sequence.It is
+thus possibleto examinea particular
+voice partin each conjugation disto
+coverhow each line of the triplecounterpoint connectedto its successor
+is
+in thatvoice. The resultsof such an examination shownin Example5.
+are
+The trebleline of mm. 13-20 is used as a reference;
+each line of the triple
+is
+of
+counterpoint markedoff by brackets-includingthe two appearances
+line A. Betweenthe brackets "connectors"
+are
+whichbridgetwo lines of the
+Below the connectors
+foundin the trebleof mm. 13-20
+triplecounterpoint.
+are shownall the remaining
+connectors
+used in each voice partin bothconto
+jugations,transposed the key of the Example.Connectors
+havingvariant
+formsaregroupedtogether,suchas connectors P, andE. Withrespectto
+a,
+the connectorsused in the trebleline of mm. 13-20, the taskof connectors
+37
+
+(JK)
+
+65
+57
+53
+45
+41
+33
+37
+25
+T
+Middle
+Theme Theme Theme
+Theme
+Episodei 2 Bass Middle Treble Episode #3 Theme Episode #4
+Exposition Episode #1 Treble I
+Y
+K
+B C AB
+J
+M
+- J K ABCA
+X
+J
+M,
+X
+J
+K ABCA
+J
+K
+Y
+M2
+Arrangement: J K M, BCAB
+Z
+L
+L CABC
+K
+- -J
+J
+z
+K
+CABC !
+tI
+,
+
+Measures:
+
+I
+
+I3
+
+L
+
+21
+
+I
+
+First
+Conjugation
+
+Second
+Conjugation
+
+A~/\~
+
+(X.Y)
+
+Figure 10
+
+g aiduuex
+
+--A
+
+.
+I
+
+r
+^
+r
+
+,
+
+ft
+
+^
+F r -_A==-k
+r
+X
+
+I
+
+--II'
+
+I
+
+I^
+f
+
+I
+
+r
+
+C-r F
+
+tI I
+
+I
+
+--
+
+t aiduwexg
+
+I
+
+I
+
+I
+
+. I
+
+I
+
+I
+
+V
+
+I
+
+fl
+
+I
+
+__
+
+-
+
+.^
+
+SO
+L0
+
+a
+
+UL
+
+40
+
+13,y, and ?2 is to bridge a change in register.Connector( also effects a
+but
+changeof register, it also slightlyaltersthe couplingbetweenline C and
+A in some arrangements.
+A completesummary connectorsand arrangements both conjugaof
+in
+tions is shown in Figure 11.Whereno special connectoris indicated,the
+bridgebetweentwo lines is the same connectorused in the treblepassage,
+mm. 13-20, shown in Example5. Discountingthe use of variantsand of
+connector ,, the progression lines in both conjugations identical.For
+of
+is
+are
+instance,the connectorsin the bass line of both conjugations varieties
+of c, a, and 6. In fact, correspondences
+betweenthe connectorsand aris
+rangements so close that it is possible to conceive of each voice partin
+a conjugation a concatenation the lines of triplecounterpoint, illusas
+of
+as
+tratedin Figure 12. For instance,the bass part, madeup of lines C, A, B,
+C, is definedas a compositeline F; B, C, A, B is definedas a composite
+line E; and A, B, C, A is definedas line D. The relationship
+betweenthe
+two conjugations thenbe roughlydescribed the actionof permutation
+can
+as
+is
+(D E) on the compositelines. The resultof this organization that mm.
+13-21 and mm. 45-53 can be analyzedas havingtwo levels of triplecounwith transformaterpoint,a small-scalerelationship conjugation-shift,
+by
+tional isography,and a large-scale, somewhatfreer relationshipby the
+(D
+2-cycle permutation E).
+are
+Multiplelevels of triple counterpoint also foundin anotherpair of
+mm. 25-33 (episode#2) and mm. 57-65 (episode#4). Example
+episodes,
+6 showsthe beginnings bothepisodesandalso marksoff the triplecounof
+terpointswithin the excerpt. Both episodes are made up of two-measure
+units which are repeatedusing a 2-cycle permutation affectsonly the
+that
+top two lines. As seen in the example,the lines are labelled U, V, and W
+and are permuted (U V). This 2-cycle permutation used throughout
+is
+by
+both episodes. However,the orderingof arrangements the two-measure
+of
+unitsof episode #2 is reversedin episode #4-that is, the arrangement
+(U,
+V, W) begins episode #2 at m. 25, but arrangement U, W) begins epi(V,
+sode #4 at m. 57. If the same process of linear concatenation
+used above
+with the conjugations employedhere, the relationship
+is
+betweenthese two
+labelled(X Y) in
+episodesis definedby a large-scale,2-cyclepermutation,
+of
+between
+Figure13.The similaritiesin the structures triplecounterpoints
+these two episodesandthe episodescontaining conjugations striking;
+the
+is
+the significantdifferenceis that a single type of permutation-one that
+workson only the top two lines-is used to createthe doublelevel of triple
+counterpoint in episodes #2 and #4.12
+
+As Figure10 shows, otherstructural
+parallelisms
+resultingfromthe apare
+the
+plicationof the sametype of 2-cycle permutation foundthroughout
+associated
+withthe fuguethemeareperhaps
+fugue.The triplecounterpoints
+the most striking.Example7 showsthe openingsof the fugue subject(J),
+(K),
+principal
+countersubject andfouradditional
+secondary
+countersubjects
+41
+
+FIRSTCONJUGATION
+mm. 13
+15
+17
+19
+A
+B
+C
+A
+B yC
+API3IB
+
+C s,
+
+A a,B
+
+T
+
+f
+
+SECONDCONJUGATION
+45
+47
+49
+51
+B yC
+A, A2
+B
+A
+B
+C C A
+8 C
+8 C
+C Fs2A
+a2B
+I
+t
+t
+t
+CONNECTORS
+Figure 11
+
+A +B
+B +C
+C +A
+
++C +A =D
++A + B=E
++ B+C
+=F
+
+B +C +A + B=E
+A+ B +C +A =D
+C +A + B+C
+=F
+(D E)
+Figure 12
+
+mm. 25-33
+U + U +U + V = X
+V + U +V + U = Y
+w + w + w +w = z
+
+mm. 57-65
+V + U +V
+U + V +U
+
+w + w+ w+ w=z
+(X Y)
+Figure 13
+
+42
+
++ U = Y
++ V = X
+
+used throughout fugue (L, Ml, M2, and M3).13 is readilyapparent
+the
+It
+from the Examplethat countersubjects all work on the same voiceM
+leadingprinciples:a span of an ascendingfourthsequenceddown a step.
+With the exceptionof M2 and M3, which appearonly once in the fugue,
+in
+the secondarycountersubjects
+of
+particpate permutations triplecounterare
+point, as seen in Figure 10. All these permutations the type of 2-cycle
+permutation
+affectingthe top two lines.
+Becauseof the use of this permutation
+the
+throughout fugue, extending
+even to the conjugationalrelationship,structural
+units can be analyzed
+based on the same principlesof linear concatenation
+used in connection
+with other episodes. For instance,mm. 21-33, containingepisode #2 and
+a thematicstatement the bass, can be relatedto mm. 57-65 by meansof
+in
+a large-scalepermutation 0), illustrated Figure 14.
+in
+(N
+On a scale even larger and-it must be admitted-more inexactthan
+those examinedso far, the first sixty-ninemeasuresof the fugue can be
+and
+roughlydividedintoformallycomparable parallelsections(Figure15).
+Bracket1 encloses the sectionsdiscussedin the previousparagraph
+related
+(N
+by the permutation O). Bracket2, in additionto the sections encoma
+followedby
+passedin bracket1, encloses sectionscontaining conjugation
+some thematicstatement.Bracket3 increasesthe area coveredto include
+the thematicstatements the expositionand the "expositional"
+of
+thematic
+statements mm. 33-45 -so namedbecauseof the progressive
+of
+placement
+of the fugue subjectin each voice withoutthe interruption an episode.14
+of
+These parallelismsare, of course, not exact. Shortfiguresconnectingthe
+individualsectionsare oftendifferent the parallelsections,as are the loin
+cation of subjectsin the variousthematicstatements
+and choice of their
+Yet
+of
+accompanying
+countersubjects. the manycontributions triple counof
+in
+and
+terpointto the construction parallelisms the fugueare undeniable
+Bach'sintegrationof structuresgeneratedfrom the different
+impressive.
+of
+showsa profound
+properties 2- and 3-cyclepermutations
+understanding
+of the compositionalopportunitiesaffordedby triple counterpointand
+opens up new and fruitfulareasof inquiryfor the analyst.
+The majorityof Bach'sworkswhich use triplecounterpoint not emdo
+is
+Rather,
+ploy all six possible arrangements.
+triplecounterpoint generally
+a secondarymeans of organizationin the service of other structuresare
+harmonic,thematic,and so forth. When five or fewer arrangements
+used in a composition,the conjugations
+cannotbe explicitlyused in their
+the
+entirety.Yeteven thenBachdoes not completelyabandon conjugational
+is
+principle,for in manycases one completeconjugation used while members of the other are smoothlyincorporated the structure.
+into
+In a few cases, Bach makesa point of using only one completeconjugation. This practice, to one familiar with his techniques, defines the
+of
+almostas clearlyas is
+complementary
+relationship the two conjugations
+Becausethe contrapuntal
+possibleby the use of bothconjugations.
+integrity
+43
+
+Y+K O -X+M
+
+l
+
+L
+
+Z+J
+
+=P
+
+=P
+
+Z +J.
+
+Example7
+
+mm. 25-37
+
+mm. 57-69
+
+X + M,= N
+Y + K = O
+P
+Z+J=
+
+Y + K = O
+X + M,= N
+P
+Z + J=
+
+1
+
+M3
+
+.
+
+I
+
+(N O)
+Figure 14
+
+mm.
+
+1
+
+13
+
+25
+
+33
+
+j
+
+12
+L3
+3
+
+45
+
+37
+
+t
+1
+
+Figure 15
+44
+
+2
+
+57
+
+69
+
+I
+J
+
+of one conjugation
+the
+of
+three
+guarantees integrity the other,the remaining
+are, in a sense, presentby implication.A good exampleof
+arrangements
+a single conjugation
+used in this way is foundin the middlesection of the
+in
+organTocatta F major,BWV 540 (mm. 218-238, 270-290, 332-352).'5
+Insteadof groupingthe arrangements the conjugation
+of
+togetherin a single
+block, Bach separateseach arrangement lengthy sequentialpassages.
+by
+Since the passagesin triple counterpoint not part of the surrounding
+are
+linear
+sequences,they are a welcomerelief fromthe otherwiseunrelenting
+out
+motion,standing as islandsof structural
+stabilityin the sea of sequences.
+The roughlyequidistant
+of
+thus
+placement the arrangements createsa threesection of the tocatta.By expanding
+the
+partdivision withinthe particular
+structural of each arrangement,
+role
+Bachchangesthe structural of the
+role
+itself; he emphasizeshere the division of a single conjugation
+conjugation
+into three arrangements,
+ratherthan the articulationof an entire triple
+into two conjugations.
+counterpoint
+Whenin additionto a completeconjugation, arrangement two bean
+or
+is
+the
+longingto the otherconjugation used, Bachoftenintegrates arrangementsfromtwo conjugations a compositestructure takingadvantage
+into
+by
+of the propertiesof 2-cycle permutations
+under multiplication.
+Figure 16
+showsthe progression arrangements Contrapunctus fromthe Art of
+of
+in
+8
+are
+Fugue, BWV 1080; the lines of this triple counterpoint the themes of
+the triplefugue. As the Figureshows, duringthe unfoldingof the conjugation by the actionof permutation C B), an arrangement
+fromthe other
+(A
+is intercalated
+betweenthe thirdand fourth(= first)arrangeconjugation
+ments.By usingtwo successivepermutations
+fromsubsetK whichproduce
+the permutation C B) under combination,the arrangement
+from the
+(A
+otherconjugation gracefullyintroduced the scheme.The use of peris
+into
+mutations C) and (A C) actuallyreinforces governance permutathe
+of
+(B
+tion (A C B) as the overallgenerator the conjugation diminuting
+of
+it,
+by
+so to speak, into two permutational
+factors;the intercalated
+permutations
+(B C) and(A C) are as it were"passing
+permutations"
+fillingin the overall
+(A C B).
+An exampleof conjugational
+intercalation a more complex structure
+in
+is found in the f-minor Sinfonia, BWV 795. The three lines of its triple
+were alreadydisplayedin Example 1. Figure 17 shows the
+counterpoint
+of
+The
+progression the variousarrangements. lines on Figure17arelabelled
+accordingto the schemeof Example1, which accountsfor the unusuallabelling of their firstcompletearrangement 3) as (C, A, B). Although
+(m.
+nine arrangements foundin the Sinfonia,only fourdifferent
+are
+possibilities
+of the triplecounterpoint used: a completeconjugation
+are
+three
+containing
+and
+from the other conjugation.The comarrangements an arrangement
+a
+as
+twice, unfoldedfirstthrough BT progression
+plete conjugation
+appears
+partof the thematicexposition,and then througha TB progressionin the
+finalsection, a progression
+interrupted by a temporarily
+only
+immobilizing
+45
+
+nun.
+
+148
+
+152
+
+159
+
+171
+
+183
+
+A
+B
+C
+
+C
+A
+B
+
+B
+C
+A
+
+C
+B
+A
+
+A
+B
+C
+t
+
+I
+
+(A CB)
+
+S..
+
+(A C B) % (B C)
+
+(A C) I
+/e
+1
+-0
+
+%
+
+(A C B)
+Figure 16
+
+MM.
+
+3
+C
+A
+B
+
+\"
+
+7
+11
+B
+A
+C
+B
+A
+C
+\\-1
+
+(A BC) (A BC) (A BC)
+
+>
+(A C)
+
+31
+C
+A
+B
+
+26
+C
+A
+B
+
+33
+B
+C
+A
+
+>K>K>
+\
+(B C)
+
+(A CB)
+
+I
+
+(A CB)
+
+SAME CONJUGATION;
+TB USING (A C B)
+
+BT
+CONJUGATION;
+USING (A B C)
+Figure 17
+
+46
+
+24
+A
+B
+C
+
+18
+A
+C
+B
+
+13
+C
+A
+B
+
+The two unfoldingsare separated an intercalated
+identitypermutation.
+by
+from the other conjugation
+which not only providesa buffer
+arrangement
+betweenthe two unfoldings,but also reinforcesthe statusof line B as the
+favoredbass. The more naturalbass line A-more naturalbecause of its
+use
+climacticpoints:
+widespread as a groundbass-is savedfor structurally
+the first harmonicturn awayfrom the tonic-dominant
+of
+relationship the
+and
+of
+expositionin mm. 11-13, the finalappearance the threelines in mm.
+33-35.
+The deploymentand participation the triple counterpoint the fof
+in
+minorSinfoniais reminiscent the techniquein the D-majorSinfonia,as
+of
+befitstwo compositionsof the same genre and collection. In both works,
+the triple counterpoint organizedinto two conjugational
+is
+blocks having
+different
+directional
+and
+progressions separated a section rearranged
+by
+by
+one of the 2-cycle permutations. is ironic that the well-knownf-minor
+It
+Sinfoniais oftencited as a tourdeforce of triplecounterpoint
+even though
+it possesses only four of the six combinations,
+while the relativelyunheraldedyet conjugationally
+completeD-majorhas rarelybeen acknowledged
+in theoreticalliterature a significanttechnicalachievement.16
+as
+*
+
+*
+
+*
+
+I hope that the precedingand necessarilyincompletesurveyof triple
+in
+counterpoint Bach'scompositionshas shownsome of the waysin which
+this most disciplinedof composershandledmaterials themselveswere
+that
+I
+disciplinedby the laws of both music and mathematics. wouldhardlyintimatethatBach, despitehis wide learning,anticipated almosta century
+by
+the development mathematical
+of
+grouptheory.I believe it is nonetheless
+clear that Bach, the consummate
+understood
+that the arcontrapuntalist,
+of
+couldbe neatlyandsuggestively
+collected
+rangements triplecounterpoint
+into what I have termedconjugations.'7 is reasonable believe that the
+It
+to
+rotational
+propertyof the two conjugations-a propertywhich enabledall
+lines to appearin every voice in only threearrangements-attracted
+Bach's
+attentionand interest,as it did my own when I first startedmy researches
+into triple counterpoint.
+However,this property,as well as others having
+of
+compositional
+implications,is but one partof the entiregroupstructure
+a
+which nourishesit as a compositional
+artitriplecounterpoint, structure
+fice. The graftingof group-theoretic
+ideas onto the relativelysimpleproperty of rotationdoes not then join two separateconceptualvarietals,but
+ratherattachesa vine to a branchof its own kind. The resultendowsinvertiblecounterpoint morepowerful suggestive
+with
+and
+theoretical
+support
+as well as wider ranginganalyticimplications. we havelong enjoyedthe
+If
+fruits of invertiblecounterpoint, can now appreciate cultivation.
+we
+its
+
+47
+
+NOTES
+1. This apparenttautology("doublecounterpointin two voices") is actually a necessary
+specification;in the course of this article I will touch upon some double counterpoints
+which occur in three-voicedmusic.
+2. It is, of course, possible to place a "double-counterpoint-of-a-double-counterpoint"
+(A
+over B changedto B over A changedback to A over B) at a differentpitch level than
+the original A over B arrangement.This correspondsto a transposedrepetitionof A
+over B and is more often heardas such ratherthanas a double counterpoint B over
+of
+A. A more complicatedsituationarises when the "transposedrepetition"is inverted
+at an intervalthatmakesthe registraldistancebetweenthe two partsdifferentfrom that
+found in the original passage. Besides the differencein registralspace, such a change
+can also create voice-crossingsnot foundin the originalor, alternately,
+eliminatesuch
+voice-crossings, therebychanging slightly the shape of the musical foreground.
+3. This notation is differentthat that used in standardtexts on group theory, where A,
+is
+B, and C are displayedhorizontallyand the permutation writtenbelow it. My notation better reflectsthe standardnotationalarrangement contrapuntal
+of
+lines in registral space and will be useful when discussing examples of triple counterpointsin
+music. A useful referencework that discusses permutationgroups is WalterLedermann, Introductionto the Theoryof Finite Groups(New York:IntersciencePublishers, 1957), pp. 62-95.
+4. Figure 3b shows the multiplicationof the same two permutationsY and Z in noncyclic notation.
+5. The other requirementfor group structure,that the combinationof permutationsbe
+associative, is also satisfied, but cannot be seen at once by inspecting the Table.
+6. It is sometimes more profitableanalytically to describe invertible counterpointsof
+three-partmusic in just this way. For instance, Bach'sorgan sonatas-like others of
+his trio sonatas-are conceived as two treble voices and a bass. The uppertwo parts
+are often invertedunderpermutation B) while the continuo-likeline C in the bass
+(A
+is left untouched.The techniqueis used, for example, in SonataI BWV 525, I, mm.
+1-4 and mm. 22-25; Sonata VI BWV 530, I, mm. 21-28 and mm. 29-36.
+and
+7. "Cyclic notation" "cyclicgroup"are completelydifferentideas; the first is a notathe
+tional convenienceused with permutations, second is a special propertyof certain
+groups. Because subgroupH is both
+groups which might or might not be permutation
+a cyclic group and a permutation
+group capableof being expressed in cyclic notation,
+the use of the same term in two differentsenses might createconfusion. Caveatlector.
+in
+of
+8. This propertyactuallymakesa permutation triplecounterpoint which the top two
+lines exchange positions extraordinarily
+easy to compose. Although in an invertible
+counterpoint@8ve, for example, a fifth will still invert into a troublesomefourth, a
+this
+bass partundernearth inversioneliminatesthe problemsince the intervalin question is found between two upper parts and is thereforepermissible.
+of
+9. In the arrangement mm. 10-12 line A is in the bass; line C is in the middle.
+10. David Lewin, GeneralizedMusical Intervalsand Transformations
+(New Haven:Yale
+UniversityPress, 1986), p. 183. Lewin develops a more formaldefinitionof isography
+in pp. 193-201.
+11.This situationwas presentedas an abstractionin Figure 5 and 6.
+12. It is importantto remindthe readerthat our permutationsas definedoperateon thematic tokens (line) A, B, C, etc., not on registral tokens like "top," "middle,"and
+
+48
+
+"bottom."Thus (A B) changes line A to line B and line B to line A, in whateverregisters the two lines appear; in contrasta registrallydefined permutation,such as (top
+middle), would exchange the melodic lines of the top and middle voices, whatever
+those lines happenedto be. (Top middle) is thus not a member of our permutational
+system as we have developed the system. Nevertheless the pertinenceof the registral
+permutationsis clear in connection with the presenttext. In additionto this important
+distinction between thematic and registralpermutations,I should also point out here
+thatother musical dimensionscan be represented tokensA, B, and C. For instance,
+by
+the tokens could representthree instruments,or two manuals and pedal on an organ.
+the
+All that is needed is some musical dimension which "separates" three lines.
+13. The only time outside the exposition that the theme appearswithoutany of the seconversion of the principal
+dary countersubjects-and indeed, without a straightforward
+countersubject-is in mm. 71-75.
+14. Althoughthe thematicimpressionof this section is like that of an exposition, the section does not conform to the harmonic requirementof an exposition (the entries are
+for
+on V, I, and VI), and the use of differentsecondarycountersubjects each thematic
+entrance somewhat obscures the relationshipof this section to the exposition.
+15. The triple counterpointis not exact throughouteach section. The conjugationalrelationship can thus best be seen in a few, relatively exact portions, viz. mm. 223-233,
+mm. 275-285, mm. 337-347.
+16. The D-major Sinfonia is the only composition in the collection that uses all six possible arrangementsof triple counterpoint.
+17. Friedrich Wilhelm Marpurgrecognized the basic idea of conjugationalgrouping in
+Abhandlungvon der Fuge. He divided the six arrangementsinto two conjugational
+groupsof three, but he consideredone conjugationas the primaryand basic structure,
+Each arrangementin
+therein die Hauptversetzungen.
+calling the three arrangements
+was defined as a double counterpoint
+the other conjugation(die Nebenversetzungen)
+of one arrangementin the Hauptversetzungen.
+Marpurgdid not note that any Haptcould produceany Nebenversetzung means of some double counterpoint
+by
+versetzung
+permutation.F. W. Marpurg,Abhandlungvon der Fuge, 2 vols. (Berlin: A Haude and
+illustrationof the NebenJ. C. Spener, 1753-54), 2:6-7. There is an errorin Marpurg's
+versetzungenon p. 7. The contrapuntalarrangementsin (2) and (3) should be exchanged each with the other to match the description in the text.
+
+49
+
+

@@ -1,0 +1,5386 @@
+Yale University Department of Music
+
+A Schenker Bibliography
+Author(s): David Beach
+Source: Journal of Music Theory, Vol. 13, No. 1 (Spring, 1969), pp. 2-37
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843213
+Accessed: 15/12/2009 03:57
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+2
+
+A
+
+Schenker
+
+Introductiont
+Heinrich Schenker
+has emerged
+as one of the most significant
+in the history of western
+individuals
+music.
+His contribution
+to the field of music theory
+is uniquethat is, his theories
+the only instance
+of what might properly
+be labelled
+represent
+atheoryof
+tonality. *1 Because his conception of musical strucfrom his detailed investigation
+of the works
+ture, which resulted
+of the great tonal composers,
+differed
+so radically
+from those
+I am indebted to Ernst Oster and Allen Forte
+able assistance
+and advice in the preparation
+raphy.
+
+for their invaluof this bibliog-
+
+3
+
+Bibliography
+
+DAVID BEACH
+which has
+now that the controversy
+him, it seems
+preceding
+whether
+surrounded
+his works was inevitable.
+Nevertheless,
+one is willing to accept all, part, or none of Schenker's
+ideas,
+on
+it cannot be denied that they have exerted more influence
+musical
+thought in the twentieth
+century than those of any other
+*2 As Schenker would have hoped, this influence
+has
+theorist.
+by no means been limited to the fields of music theory and pedagogy. *3
+The fact that Schenker's
+is a
+ideas are so often misunderstood
+direct result of his revolutionary
+approach to musical structure.
+To put it bluntly, many musicians,
+assuming
+they have the dedo not possess
+the patience nor intellectual
+stamsire,
+simply
+ina necessary
+for the comprehension
+of an approach so foreign
+
+4
+to their own. It is impossible
+to grasp the real significance
+of
+what Schenker
+intended without detailed
+study of a number of
+The earlier
+his works.
+works contain his most significant
+concepts
+only in their embryonic
+stages,
+yet it is almost imto understand
+the contents
+of the later publications
+possible
+without first reading the earlier
+ones.
+To this one must add
+the further obstacle presented
+often difficult style
+by Schenker's
+of writing.
+Most of Schenker's
+in print.
+works are no longer
+Very little
+is available
+in German
+and even less in English
+translation.
+about this will be provided later on.)
+(More specific information
+This means that many musicians
+of
+(I am thinking especially
+students
+sources.
+here) are forced to rely on secondary
+Unfortunately,
+very few of these sources
+help to clarify his ideas
+and, in fact, they often propagate
+about
+popular misconceptions
+them.
+Such a situation does little to facilitate
+the understanding
+of the profound insights with which Schenker
+the ininterpreted
+ner workings
+of great musical
+works of art.
+The influence
+of Schenker's
+ideas on music
+pedagogy in this
+offered at incountry is witnessed
+by the number of courses
+of higher learning which purport to deal, at least in
+stitutions
+called
+'Schenkerian
+part, with what is commonly
+Analysis".
+All too often, the only relation between such courses
+and Schenker is his name.
+Thus students are often faced with secondor third-hand information
+about concepts attributed to Schenker,
+without being made aware of the proper sources.
+The primary
+a
+then, is to provide as complete
+purpose of this bibliography,
+of both primary
+and secondary
+In
+sources.
+listing as possible
+most cases,
+the important features of each entry are mentioned,
+when it is necessary
+to clarify the position of an auespecially
+thor or to point out an obvious misconception.
+It is hoped that
+the information
+contained herein will be especially
+useful to the
+student as well as provide additional
+source material
+inquiring
+for those who are already acquainted
+with Schenker's
+ideas.
+The bibliography
+itself is divided into two main sections:
+the
+first is concerned
+with Schenker's
+own publications,
+boththeoretical
+and practical.
+This information
+involves
+a listing of
+Schenker's
+of music,
+as
+major publications,
+including editions
+well as a partial listing of his articles
+and reviews.
+The availof specific
+works in German
+ability and projected
+publication
+or English
+translation
+have also been indicated.
+The second
+section deals with writings
+about Schenker
+and his
+by others
+method of analysis.
+This body of literature
+can be divided into
+the following
+categories:
+
+5
+(1) Works which attempt to explain or interpret his theories.
+Some of these are major publications but most
+are simply surveys of his work.
+These are usually di(2) Criticisms of his concepts.
+rected toward specific ideas with which the author disagrees.
+(3) Applications of his ideas. These include applications
+to Gestalt psychology and to the analysis of music other
+than that of the eighteenth and nineteenth centuries.
+Of course there are some publications which do not fit neatly
+into any of these categories
+and others which fall into more
+than one. An attempt has been made to clarify such situations
+when necessary.
+An effort has also been made to be as thorough as possible in
+To the best of my knowledge, all
+compiling this bibliography.
+However, I am
+pertinent material in English has been listed.
+fully aware of the fact that the listing of sources in German and
+other foreign languages is incomplete. *4 It would be virtually
+impossible to track down all of Schenker's minor publications
+short articles and reviews appearing in newspapers) as
+(e.g.,
+well as many articles published in foreign periodicals.
+I would
+appreciate learning of additional sources from readers and
+apologize in advance for omissions.
+I.
+
+SCHENKER'S WORKS
+
+For the sake of clarity, I have divided Schenker's works into
+the following three categories:
+(1) theoretical works (see Ap(2) editions of music
+pendix A for a chronological listing),
+(see Appendix B), and (3) articles and reviews (see Appendix
+C for a partial listing by source).
+A brief discussion
+of his
+unpublished works (books and sketches in various stages of
+completion) is also included. Finally, I have indicated which
+of Schenker's publications are currently available, or will be
+available in the near future, either in German or English translation.
+A.
+
+Theoretical Works (See Appendix A for complete
+bibliographic information. )
+
+Ein Beitrag zur Ornamentik (als Einfiihrung zu Ph. Em. Bachs
+Klavierwerken
+mitumfassend
+auch die Ornamentik Haydns,
+Mozarts, Beethovens etc.), 1904. Neue revidierte und ver-
+
+mehrte
+
+Auflage,
+
+1908.
+
+This extended
+on C.P.E.
+on ornamentation
+is based
+essay
+Bach's "Essay
+on the True Art of Playing
+InstruKeyboard
+iiber die wahre Art das Clavier zu spielen,
+ments" (Versuch
+1762); it was written in conjunction
+with, and partly as an introduction
+of the "Klavierwerke"
+(discussed
+to, his edition
+Schenker
+C.P.E.
+considered
+Bach to be one of the
+later).
+and musical
+and points to his inthinkers,
+greatest
+composers
+fluence
+on Haydn, Mozart,
+The title of this
+and Beethoven.
+since it deals with other aspects
+essay is somewhat
+misleading
+of Bach's works (e. g., form and performance)
+as well as ornamentation.
+The comments
+on form hint at Schenker's
+con[Stufe] first stated in his Harmonielehre,
+cept of the scale-step
+as it relates
+to his conception
+of tonality.
+The main portion of
+the essay is devoted to discussions
+of the various
+ornaments.
+
+Instrumentations-Tabelle
+einer Einfihrung,
+1908.
+
+von Artur
+
+Niloff
+
+[a pseudonum].
+
+Mit
+
+This short publication
+is divided into the following
+four sections:
+of instruments;
+(1) the classification
+(2) the production
+of musical
+of instruments
+into families;
+pitch; (3) emergence
+instruments.
+Also included
+is a large table
+(4) transposing
+which shows each instrument
+from the litera(with examples
+and its transposition.
+ture), its range,
+
+Neue musikalische
+Vol.
+Vol.
+Vol.
+
+Theorien
+
+und Phantasien
+
+I: Harmonielehre,
+1906
+II: Kontrapunkt
+(Part 1, 1910; Part
+III: Der freie Satz, 1935
+
+2,
+
+1922)
+
+This series,
+over a span of thirty
+published
+intermittently
+the full cycle of development
+and transforyears,
+represents
+of Schenker's
+mation
+of musical
+structure.
+The
+conception
+can be traced from their
+growth of his most important
+concepts
+initial statements
+in his Harmonielehre
+to their final form of
+in Der freie Satz.
+The importance
+of many of these
+expression
+ideas to Schenker's
+central
+thesis becomes
+clearer
+with each
+volume; others lose their relevance
+and quite natusubsequent
+It is absolutely
+to be aware of this
+rally disappear.
+necessary
+continual process
+of growth and development
+within "New Musical Theories
+and Fantasies"
+if one is to arrive at a fair evaluation of any or all of its parts.
+In fact Schenker
+intended it to
+
+7
+of these changes.
+One
+be, among other things, a documentation
+should be aware of the fact that these volumes
+were also deof harmony,
+in the traditional
+signed to instruct
+disciplines
+and form.
+For it is in Schenker's
+to
+counterpoint,
+approach
+this material
+that we find a radical departure
+from the past.
+At the time of the publication
+of his Harmonielehre
+*5, Schenker
+was partially
+under the influence
+But
+of conventional
+concepts.
+the real importance
+lies in the fact that it
+of this publication
+contains
+ideas in their initial
+many of his less conventional
+Of primary
+here are his
+importance
+stages of development.
+of "composiof the scale-step
+[Stufe] and the process
+concepts
+tional unfolding"
+which has been docu[Auskomponierung],
+mented by Oswald Jonas,
+as follows:
+The chief merit
+of Schenker's
+in
+early work consists
+the concept
+of scale-step
+(which is
+having disentangled
+part of the theory of harmony) from the concept of voiceof counterpoint).
+to the sphere
+(which belongs
+leading
+. . The theory of
+The two had been confused for decades.
+as the means
+shows voice-leading
+"Auskomponierung"
+is made to
+by which the chord, as a harmonic
+concept,
+unfold and extend in time. *6
+term than "chord"
+then, is a far more inclusive
+Scale-step,
+with "triad" in conventional
+(synonymous
+theory) as the basic
+A scale-step
+unit of harmony.
+might encompass
+any number
+of "chords", all of which serve to prolong that harmony in time.
+(It should be pointed out here that this process
+of prolongation
+can apply to melodic
+as well.)
+The application
+of
+phenomena
+these ideas to increasingly
+broader
+levels
+of compositional
+structure
+led Schenker to his concept of the "fundaeventually
+mental structure"
+in Der freie Satz.
+Another impor[Ursatz]
+tant contribution
+contained in this volume is the distinction
+made
+between
+"tonicalization"
+and modulation.
+[Tonikalisierung]
+is a direct outgrowth of the concepts
+of scaleThis, of course,
+The above-mentioned
+are
+step and Auskomponierung.
+concepts
+of basic importance
+to the development
+of Schenker's
+central
+thesis.
+Others are less significant;
+many were altered considand others wisely dropped.
+erably in subsequent
+publications
+is a complete
+Kontrapunkt *7, the second volume in this series,
+treatise
+on species
+Included are numerous
+refcounterpoint.
+erences
+to the classical
+treatises
+(Fux,
+Albrechtsberger,
+of the existing apBellerman,
+Cherubini) as well as criticisms
+to the subject.
+It is, in fact, a history of counterpoint
+proaches
+pedagogy as well as a systematic
+study of fundamental problems
+
+of voice-leading
+within the framework of strict composition.
+Of primary significance here is the fact that Schenker incorporates his concepts of musical structure and motion, first
+stated in his Harmonielehre,
+into this discussion.
+Part 1 of
+Kontrapunkt is devoted to detailed discussions of Cantus Firmus
+and principles of two-voice composition.
+Part 2 begins with a
+continuation of procedures discussed in Part 1 as applied to
+The last section
+three-, four-, and multi-voiced composition.
+of this part, UTransitionto Free Composition' [Ubergainge zum
+freien Satz], is probably the most significant single section in
+the development of Schenker's conception of musical structure.
+Here Schenker shows the relationship between strict and free
+composition, by approaching the latter through so-called "mixed
+As the
+species", which, by convention, belongs to the former.
+title suggests,
+"Transition to Free Composition" contains the
+seeds of what is to follow. For that matter, many of the ideas
+presented throughout the Kontrapunkt volume appear later in
+Der freie Satz in condensed forms.
+Schenker's final work, Der freie Satz *8, was published in 1935
+shortly after the author's death. It is divided into two partial
+volumes; the musical figures are contained in the Anhang, separate from the text. Although the title might suggest a book on
+compositional method, in reality it is a study of structure in
+tonal music.
+Schenker shows how counterpoint combines with
+harmony, and other musical elements such as rhythm, to form
+musical composition.
+He arrived at his theory of tonal structure through detailed analysis of compositions
+by the great
+masters.
+His method of analysis is the result of this life-long
+study, and the concepts presented in this work are the final
+The
+synthesis of those contained in his earlier publications.
+contents of Der freie Satz are divided into three main sections,
+corresponding to Schenker's concept of three levels of musical
+structure (foreground, middleground, and background). Starting with the background, Schenker shows how it is prolonged
+by the content of the middleground, and that of the middleground
+is prolonged by the content of the foreground.
+Viewed in this
+manner, a musical work of art can be seen as the "interacting
+composite" of these levels; this is the central thesis of Schenker's conception of musical structure.
+In his discussion
+of the background level, Schenker presents
+his discoveries of the fundamental line [Urlinie] and fundamental
+structure [Ursatz]. *9 The Ursatz of a composition is its skeletal structure, which one may arrive at through a process of
+reduction beginning with the foreground detail. As Jonas has
+observed:
+
+9
+With the Ursatz concept, the circle of Schenker's
+system
+it opened,
+in "Harmony",
+is closed:
+with the quest for a
+as art.
+It closed with the
+pattern in Nature for music
+of the primordial
+chord and its artistic
+rediscovery
+creation
+of 'Auskomponierungl.
+*10
+through the process
+Much of Der freie Satz is devoted to the discussion
+of specific
+of prolongation
+and foreground
+at the middleground
+techniques
+levels.
+Also included are brief discussions
+of form, and meter
+and rhythm.
+of form in tonal music is
+Schenker's
+conception
+to his concepts
+of Urlinie and Ursatz.
+related
+All of
+closely
+the above-mentioned
+in the
+illustrated
+are clearly
+concepts
+and
+of musical
+Anhang to Der freie Satz, a collection
+examples
+drawn from the literature
+of tonal music.
+With the
+diagrams
+aid of the analytic sketch, one is more easily able to follow and
+Schenker's
+of musical
+structure.
+appreciate
+understanding
+
+neunte Sinfonie.
+Beethovens
+Inhaltes unter fortlaufender
+und der Literatur.
+1912.
+
+Eine Darstellung
+Beriicksichtigung
+
+des musikalischen
+auch des Vortrags
+
+Schenker dedicated
+this study of Beethoven's
+Ninth Symphony
+to Uthe memory
+of the last master
+of German
+composition,
+Johannes
+Brahms*.
+As might be expected,
+the analytic
+apin this study is quite traditional
+in compariproach exhibited
+son with his later works; yet it contains a number of deep musical insights
+and was a unique effort for the time.
+A clear
+outline of the form is provided
+at the beginning of the detailed
+of each movement.
+discussion
+Each part contains a "literature"
+section (discussion
+of available sketches
+and comments
+on other
+and a section in which problems
+of performance
+are
+analyses)
+discussed.
+are Schenker's
+on
+comments
+Especially
+interesting
+as it relates
+to structure.
+rhythmic detail and instrumentation
+Numerous
+musical
+and reductions
+are included but
+examples
+the sketchtechnique
+used in later analyses
+is not evident.
+This
+an inearly example of Schenker's
+analytic approach provides
+with his later analyses
+of Beethoven's
+teresting
+comparison
+Fifth Symphony (1925) and Third Symphony (1930).
+
+Der Tonwille.
+zum Zeugnis unwandelbarer
+Flugblaitter
+der Tonkunst
+einer neuen Jugend
+von
+dargebracht
+10 issues.
+1921-24.
+Schenker,
+in these ten
+Contained
+music and its structure,
+
+are
+monographs
+over twenty-five
+
+Gesetze
+Heinrich
+
+numerous
+on
+essays
+analyses of composi-
+
+10
+and a number of miscellaneous
+comments
+relevant
+tions,
+to
+work.
+Of particular
+are the two essays
+Schenker's
+importance
+his concept of the Urlinie,
+and two related to quesconcerning
+tions of performance
+("Der wahre Vortrag" and "Wirkung und
+"Von der Sendung des deutschen
+Other essays
+are:
+Effekt').
+der Tonkunst",
+"Gesetze
+"Geschichte
+der Tonkunst",
+Genies",
+"Die Kunst zu horen",
+zu seinem Opus 127".
+and "Beethoven
+in Der Tonwille
+contained
+are of compositions
+Analyses
+by Ph.
+Em. Bach,
+J.S. Bach,
+Brahms,
+Handel,
+Beethoven,
+Haydn,
+and Schumann.
+Included in
+Mendelssohn,
+Mozart,
+Schubert,
+these analyses
+are a number of musical
+and sketches
+diagrams
+which are early examples
+of Schenker's
+method of graphic preThe analysis
+sentation.
+of Beethoven's
+Fifth Symphony, which
+in three separate
+installoriginally
+appeared in Der Tonwille
+was published
+in 1925.
+ments,
+separately
+
+Das Meisterwerk
+1926; III, 1930.
+
+in der Musik.
+
+Drei
+
+Jahrbucher:
+
+I, 1925; II,
+
+These three volumes
+a continuation
+of Der Tonwille.
+constitute
+Included
+are seven essays,
+fifteen analyses
+of
+approximately
+and comments
+and miscellaneous
+separate
+compositions,
+the relationship
+between art and the world
+thoughts (concerning
+in general).
+Of special
+is the essay on "The Art
+significance
+of Improvisation",
+in which Schenker
+states his views that imunderlies
+the creation
+of a masterwork,
+and that
+provisation
+free composition
+is based on the strict
+and elemental
+contraAlso included
+are further
+observations
+on the
+puntal forms.
+Urlinie
+on organic
+contributions),
+concept (2 separate
+essays
+in fugue and sonata form, one titled "Weg mit dem
+structure
+(Down with Phrasing
+and the
+Marks!),
+Phrasierungsbogen"
+in Jahrbuch
+III: "Rameau
+oder Beethoven?
+following
+essay
+oder geistiges
+Leben in der Musik?".
+Erstarrung
+Analyses
+contained in the Jahrbicher
+are of compositions
+by J. S. Bach,
+Beethoven,
+Chopin, Haydn, Mozart, Max Reger, and Domenico
+Scarlatti.
+With the exception
+of the one essay mentioned above
+(and a few miscellaneous
+the entire Jahrbuch III*11
+remarks),
+is devoted to a detailed
+and discussion
+of Beethoven's
+analysis
+Third Symphony.
+Included in the analysis
+are the following:
+detailed dissection
+and discussion
+of each movement,
+comments
+on Beethoven's
+revised
+copy and the original from 1806, discussion
+of questions
+of performance,
+a "literature"
+section,
+and diagrams
+of the entire composition.
+This is the most inand complete
+of all of Schenker's
+of largeteresting
+analyses
+scale compositions.
+
+1
+Fiinf Urlinie
+
+- Tafeln,
+
+1932.*12
+
+in Sketchform'
+These "Five Analyses
+provide further examples
+method of graphic
+The analyses
+of Schenker's
+presentation.
+were actually
+of Schenker
+under his close
+done by students
+and published
+without additional commentary.
+The
+supervision
+five compositions
+are:
+ich sollte bissen"
+"Ich bin's,
+Choral:
+(Matt(1) Bach.
+hiuspassion).
+I
+Klavier
+I, Praeludium
+(2) Bach.
+Wohltemperiertes
+(C dur).
+moveSonata Es dur, G. A. No. 49 (First
+(3) Haydn.
+section).
+ment, development
+Etude F dur, Op. 10, No. 8.
+(4) Chopin.
+Etude C moll,
+(5) Chopin.
+Op. 10, No. 12.
+
+Johannes
+Schenker,
+
+Brahms.
+1933.
+
+Oktaven
+
+und Quinten,
+
+edited
+
+by Heinrich
+
+and fifths
+of parallel
+octaves
+This work is based on examples
+that Brahms found in compositions
+of other composers.
+Schenker interprets
+and adds some of his own.
+Brahms'
+comments
+The significance
+of the study is pointed out by Allen Forte as
+follows:
+He [Schenker] makes clear that the significance
+of Brahms'
+collection
+of examples
+of parallel
+fifths and octaves
+lies
+in the composer's
+of the contradiction
+between
+recognition
+a theory which dealt with immediate
+relationships
+only,
+often of a transient
+and his own highly refined
+nature,
+sense of hearing which encompassed
+large spans. *13
+
+B.
+
+Editions of Music
+information)
+
+(See Appendix
+
+B for complete
+
+bibliographic
+
+Ph. Em. Bach.
+Klavierwerke
+Neue kritische
+[Auswahl].
+AusTwo Volumes:
+4 Sonata
+I, 6 Sonatas;
+II, 3 Sonatas,
+gabe.
+movements
+and 1 Rondo.
+This selection
+is taken from Ph. Em. Bach's Six Collections
+"fur Kenner und Liebhaber".
+It is based on the Breitkopf
+und
+Hartel "Urtext Edition" and was done in conjunction
+with the
+Included are fingerings
+and footnotes.
+Beitrag zur Ornamentik.
+
+12
+G.F. Haindel. Sechs Orgelkonzerte
+[Op. 4]. Nach den Originalen fur Klavier zu 4 Handen bearbeitet.
+1904.
+J. S. Bach. Chromatische Phantasie
+tische Ausgabe mit Anhang. 1910.
+
+und Fuge (d moll).
+
+Kri-
+
+Inthe appendixto this critical edition Schenker discusses prinand problems of
+ciples of fingering, non-legato,
+dynamics,
+He also compares different
+composition and performance.
+sources and discusses different readings.
+der letzten funf Sonaten Beethovens.
+Erliuterungsausgaben
+Op. 109 (1913); Op. 110 (1914); Op. 111 (1915); Op. 101 (1920).
+These critical editions of four of the last five piano sonatas by
+Beethoven (Schenker was unable to complete this series because
+the autograph of Op. 106 was, and is, missing) are based on the
+The merits of
+autographs, first editions, and revised copies.
+each of these sources are discussed at great length by Schenker
+in his commentaries.
+(Schenker was one of the first to realize
+the importance of autograph study in relation to one's conception of dynamics, phrasing, rubato etc. in a specific piece. In
+fact he considered himself [justifiably so] the founder of that
+Also included are quotes from the Literature (Biilow,
+science!)
+Marx, Reinecke etc.) and critical discussions
+of their views.
+The music itself is presented with a minimum of editing - fingerings, measure numbers, and short footnotes only. However,
+analyses are provided (least in Op. 109, more in Op. 110, and
+extensive ones in Op. 111 and Op. 101)which include comments
+on form, performance and rhythm, and articulation.
+Special
+attention is given to rhythm and harmonic progression,
+and
+(where applicable) the significance of Beethoven's own fingerings is discussed.
+Beethoven.
+
+Klaviersonaten.
+
+192-.
+
+This critical edition of the complete piano sonatas of Beethoven
+is based on the autographs and first editions. The sonatas were
+first published in single editions and later in four volumes.
+Aside from a few footnotes,
+only Schenker's fingerings are
+added. Beethoven's own fingerings are made recognizable by
+the use of italics.
+
+13
+Beethoven.
+Sonata,
+Op. 27, No. 2 (facsimile
+1921. (Includes
+a Foreword
+and three sketches
+
+C.
+
+Further
+
+reproduction).
+by Beethoven.)
+
+Information
+
+a number of short articles,
+Articles
+etc.:
+Schenker published
+and periodicals
+in various newspapers
+beand reviews
+essays
+A few were published
+after his death in
+tween 1892 and 1935.
+fur Musik (edited by Oswald Jonas
+Der Dreiklang,
+Monatschrift
+it is
+1936-38.
+As was mentioned
+and Felix Salzer),
+earlier,
+to track down all of these short contributions;
+almost impossible
+a partial listing by source is given in Appendix C.
+material:
+When Schenker died in 1935, he left beUnpublished
+and manuscripts
+sketches
+hind a large number of unpublished
+An incomplete
+in various stages of completion.
+book on inter"Die Kunst des Vortrags',
+is in the possession
+of
+pretation,
+in Germany
+Oswald Jonas and is to be published
+by Universal
+The following
+Edition under his supervision.
+two manuscripts
+of Felix Salzer:
+are in the possession
+"Von dem Stimmfuihrung
+and "Kommentar
+zu
+des Generalbasses"
+(Aus dem Nachlass),
+. . " (incomplete).
+Ph. E. Bach's Versuch.
+Numerous sketches
+were left unpublished,
+most of which are in the possession
+of
+The following
+Ernst Oster.
+is a partial list of sketches
+which
+exAll are in his possession
+he is preparing
+for publication.
+cept for the Handel, which is in Salzer's
+possession.
+Bach.
+
+Beethoven.
+Chopin.
+
+Handel.
+Brahms.
+
+French Suite in E.
+No. 5 in D
+Concerto
+Brandenburg
+Motet:
+Singet dem Herrn
+Several piano pieces,
+Op. 106
+especially
+the Fugue).
+(and particularly
+Preludes
+and Nocturnes
+Scherzo in Dl, Op. 31
+Finale of Sonata in Bb minor,
+Op. 35
+Etudes (complete)
+Mazurkas
+Suite no. 2 in F (Adagio I)
+Paganini Variations,
+Op. 35
+Waltzes,
+Op. 39
+Piano Pieces,
+Op. 76, 79, 116, 117, 118,
+and 119.
+
+of Works: The following of Schenker's
+Availability
+publications
+in print, all of which are published
+are currently
+by Universal
+Edition:
+Ein Beitrag zur Ornamentik
+(UE 812); Der freie Satz
+
+14
+und Phantasien),
+Theorien
+sec(Part III of Neue musikalische
+ond edition, edited by Oswald Jonas (UE 6869/69a);
+Oktaven und
+Ph. Em. Bach,
+Klavierwerke;
+Beethoven,
+Quinten (Brahms);
+Klaviersonaten.
+Reprints of Schenker's
+analyses of Beethoven's
+Fifth and Ninth Symphonies
+(UE 26306 and 26307) will be availUniversal
+Edition is also planning to publish the
+able shortly.
+reder letzten funf Sonaten Beethovens,
+Erliauterungsausgaben
+The first two to be issued are Op. 101
+vised by Oswald Jonas.
+A forthcoming
+(UE 26301) and Op. 110 (UE 26304).
+reprint of
+in der Musik(3
+vols. in 1) is listed in Bulletin
+Das Meisterwerk
+19 (Autumn 1968) of Blackwell's
+Music Shop (Oxford, England).
+Fiinf Urlinie-Tafeln
+is scheduled
+to be reprinted
+Finally,
+by
+Dover Publications.
+The only available
+of a major publiTranslations:
+translation
+cation by Schenker
+is: Harmony,
+edited and annotated
+by Oswald Jonas, translated
+Mann Borgese
+by Elisabeth
+(Chicago:
+of Chicago Press,
+men1954). *14 A few sources
+University
+tion a translation
+of Kontrapunkt,
+Part I, by John Petrie Dunn,
+but it is not available.
+*15 A translation
+of Der freie Satz by
+Ernst Oster should be published soon by M. I. T. Press. *16 As
+was mentioned
+some
+above, Oster is also planning to publish
+of Schenker's
+in his possession.
+sketches
+Included in the first
+scheduled
+for publication
+are: Bach, Invengroup of sketches
+tions (selected);
+of
+Chopin, Scherzo in Db (Op. 31) and Finale
+Sonata in Bb minor (Op. 35); Brahms,
+A
+Waltzes
+(Op. 39).
+translation
+of Schenker's
+by Orin Grossman
+essay "Vom Order Sonatenform'
+in der Musik,
+(Das Meisterwerk
+ganischen
+Jahrbuch
+in the Journal
+of Music Theory,
+III) was published
+One would hope that more of these short essays
+12/2 (1968).
+will be translated
+in the future. *17
+and published
+
+II.
+
+WORKS CONCERNING
+
+SCHENKER
+
+AND HIS THEORIES
+
+This part of the bibliography
+is divided into the following three
+sections:
+of Schenker's
+and surveys
+(1) explanations
+works,
+of his theories,
+(2) criticisms
+and (3) applications
+of his ideas.
+A complete
+of sources
+which deal in some way with
+listing
+Schenker and his theories
+is provided in Appendix D. *18 Since
+this body of literature
+is quite extensive,
+only the most important of these works will be mentioned
+in the following
+discussion.
+Reference
+in the text to a specific
+book or article
+will
+be made by author and title only; complete
+inforbibliographic
+mation can be found by referring
+to Appendix D.
+
+15
+A.
+
+Explanations
+
+and Surveys
+
+The most complete
+of Schenker's
+and discussion
+explanation
+is contained
+in Oswald Jonas' book, "Das Wesen des
+theories
+in die Lehre Heinmusikalischen
+Eine Einfihrung
+Kunstwerks:
+*19 The importance
+rich Schenkers".
+of this work lies in the
+fact that Jonas,
+further informaa Schenker
+student, provides
+tion about his most important
+such as those of the
+concepts,
+Urlinie and Ursatz,
+in an effort to clarify
+and interpret
+them
+in Schenker's
+there is no equivalent
+own terms.
+Unfortunately,
+book in English. *20 Most of the articles
+written in an attempt
+to explain Schenker's
+are too limited,
+and end up simconcepts
+ply as surveys of his works.
+signifVery few have contributed
+of his ideas.
+icantly toward the understanding
+Two of the best introductions
+in English,
+to Schenker's
+ideas,
+are: Allen Forte,
+"Schenker's
+Conception of Musical Structure"
+and Adele Katz, "Heinrich Schenker's
+Method of Analysis".
+*21
+In the former,
+Forte gives detailed explanations
+of Schenker's
+most
+their
+and indicates
+important
+concepts
+significance.
+Schenker's
+own works are discussed,
+as in much of the pertinent literature
+about him.
+The last part of the article is devoted to discussions
+of five unsolved
+in music theory
+problems
+and how Schenker's
+ideas might contribute
+toward their soluThe five unsolved
+tions.
+cited by Forte are: (1) conproblems
+a theory of rhythm for tonal music,
+(2) determining
+structing
+the sources
+and development
+of triadic tonality,
+(3) gaining inabout compositional
+formation
+(4) improving
+technique,
+theory
+and (5) understanding
+the structure
+of problematic
+instruction,
+modern works.
+article
+Katz's
+is divided into two main sections:
+a section
+(1) Tonality and (2) Harmony (which includes
+on counterpoint).
+Much of the article is concerned
+with a discussion of Schenker's
+most important
+and the definiconcepts
+tion of terms associated
+with them.
+Katz also points out the
+difference
+between Schenker's
+to musical
+structure
+approach
+and those of the earlier
+theorists
+in particular,
+is
+(Riemann,
+This difference
+is explained
+noted).
+of the
+by her definitions
+words Analysis
+and Synthesis
+[Schenker's
+approach].
+"Analysis is the dissection
+of a work into its various parts.
+Synthesis
+is the re-assembling
+of a work whose various parts grow out
+A further source of interest
+of one principle"
+is the
+[p. 312].
+and Chapter I (The [Schenker's]
+Introduction
+Concept of TonalA New Conto Musical
+Tradition:
+ity) of her book, Challenge
+later).
+cept of Tonality (to be discussed
+There are also a few articles
+of importance
+which are concerned
+with the clarification
+and amplification
+of specific
+areas
+of
+
+16
+Two that warrant
+of tonal structure.
+Schenker's
+conception
+and Large"Register
+special mention here are: Ernst Oster,
+"Heinrich Schenker's
+and William Mitchell,
+Scale Connection'
+The first of these is based on Schenker's
+Approach to Detail".
+that is, it
+view that register
+can have structural
+significance;
+the larger connections
+can play an important role in establishing
+a chapter of Der
+devotes
+in a musical
+(Schenker
+composition.
+freie Satz to a discussion
+of "Obligatory
+[obligate
+Register"
+where
+Oster goes on to show "a number of instances
+Lage].)
+certain
+in an essential
+contributes
+way to clarifying
+register
+or thematic-motivic
+connections
+and
+structural,
+contrapuntal,
+article
+The primary
+value of Mitchell's
+is
+relations"
+[p. 57].
+concern with detail.
+This fact is
+that it points out Schenker's
+too often overlooked,
+especially
+by those who have criticized
+ideas concerning
+connection.
+Mitchell
+Schenker's
+large-scale
+makes the point that "no valid appraisal
+of his theory of the
+whole can be made before complete
+with his theory
+familiarity
+of detail has been gained" [p. 118].
+B.
+
+Criticisms
+
+is a difficult task.
+It demands
+criticism
+at least
+Responsible
+of the obtwo things of the critic:
+(1) thorough understanding
+and (2) constructive
+for change
+ject of criticism
+suggestions
+and for alternate
+solutions.
+most of the critiUnfortunately,
+cisms that have been leveled
+at Schenker's
+ideas are characterized
+traits.
+have been
+by the opposite
+Specific
+concepts
+from their context,
+isolated
+out of ignorance
+but
+occasionally
+more often to the deliberate
+of the critic.
+This is
+advantage
+most noticeable
+in those criticisms
+that have been aimed at
+earlier
+Schenker's
+and at his concepts
+of the Urpublications
+linie and Ursatz.
+in these instances
+can one find any
+Rarely
+constructive
+solutions,
+ones, offered as alternatives.
+especially
+I do not mean to imply that Schenker's
+ideas are above criticism.
+They are not. But when questioning
+specific
+concepts,
+one must always relate them to their proper context and criticize them within this context.
+One must also keep in mind the fact that Schenker's
+ideas went
+of development
+and transformation
+through a continual process
+It is quite natural that some of the ideas
+during his lifetime.
+inhis earlier
+became obsolete
+and simpresented
+publications
+while others were changed considerably
+in
+ply disappeared,
+An example of the former is Schenker's
+subsequent publications.
+with the number five (e. g., the first five partials
+preoccupation
+of the overtone
+the interval
+of a fifth, etc.)
+in his
+series,
+Harmonielehre.
+Although he dropped this line of investigation
+
+17
+later on, it has still been the object of much unfavorable
+criticism. *22 The process
+of growth and development
+associated
+with Schenker's
+in his analyses.
+reflected
+thinking is clearly
+An excellent
+of this is his analysis
+of Beethoven's
+example
+Fifth Symphony (1925), originally
+in three separate
+published
+in Der Tonwille
+installments
+Not only does his
+(1921-24).
+method of notation change from first installment
+to last, but a
+clear change in thinking
+as to what musical
+events constitute
+the background
+of the piece is evident.
+The later publications,
+Der freie Satz, contain a number of analyses of pieces
+especially
+that Schenker
+had discussed
+in earlier
+These
+publications.
+show a more highly developed
+later analyses
+way of musical
+of his principles.
+In
+thinking and a more rigorous
+application
+the large number of analyses
+there are
+published
+by Schenker,
+and a few that are simply
+some that are questionable
+naturally
+and
+(One can only point to all those that are excellent
+wrong.
+allow forhumanerror!)
+One criticism
+on an analthat centers
+in d minor from his
+Prelude
+ysis of a specific
+piece (Bach's
+Twelve Little Preludes,
+No. 6 - BWV 940) canbe found in Walter
+"Sind Schenkers
+zur
+Kolneder's
+article,
+Analysen
+Beitrage
+Bacherkenntnis?
+was published
+in Das
+(Schenker's
+".
+analysis
+Meisterwerk
+in der Musik, Jahrbuch I.) There is good cause
+to question Schenker's
+of this piece but, unfortuinterpretation
+Kolneder
+does not come up with a better solution.
+In
+nately,
+this sense,
+the criticism
+is empty and meaningless.
+for criticism
+have been the
+By far the most popular targets
+of the Urlinie and Ursatz.
+Schenker
+arrived at them,
+concepts
+or more precisely
+discovered
+their existence,
+after years of
+for the fundamental
+and natural laws of tonality.
+searching
+They
+did not come into being, as is often implied,
+as theoretical
+abstractions
+or fabrications
+from which Schenker derived the rest
+of his ideas.
+They are, rather, the final stage of development,
+and conceptually,
+in the evolution
+of his underchronologically
+of tonal structure.
+standing
+They are truly meaningful
+only
+when one considers
+them in relation to other levels
+of musical
+structure.
+But those who have criticized
+the Urlinie and Ursatz
+most often have divorced
+them from this context and treated
+them as isolated
+theoretical
+constructs.
+This mistake has resulted in such misconceptions
+as the characterization
+of Schenker's ideas as "static".
+One who has criticized
+the concepts
+of the Urlinie and Ursatz on this basis is John Daniskas
+in his
+voor de analytische
+Vormleer
+der Musiek".
+book, "Grondslagen
+*23 The inaccuracy
+of this view has been pointed out by Milton
+Babbitt as follows:
+Nothing
+
+could be less
+
+accurate
+
+that Daniskas's
+
+charac-
+
+terization
+of Schenker's
+methods
+as embodying
+a 'static'
+essential
+concern is with
+notion of tonality.
+Schenker's
+the means whereby the inceptually
+static triad is activated
+in time in accord with the principles
+of structural
+polythe unfolding through variphony, which makes possible
+ous levels of the total temporal-spacial
+unity which is the
+musical
+*24
+composition.
+Another who has criticized
+of the Urlinie
+Schenker's
+concepts
+and Ursatz is Roger Sessions.
+two obHe gives the following
+jections:
+The first is that it [the Urlinie-Ursatz
+concept] isfartoo
+as a description
+of the actual events which conprimitive
+stitute a musical
+and appercepwork, or the sensations
+tions that constitute
+the ultimate
+of that
+comprehension
+work.
+(p. 176). . . [The second] is in essence the Alexandrian or 'ex post facto' conception
+which envisages
+creation as the painstaking
+and meticulous
+embodiment
+of
+that were once vital and in process
+of developprinciples
+ment, but whose very definiteness
+and, so to speak, foreither their insufficiency
+or their
+mulability
+proclaim
+. ... It is precisely
+exhaustion.
+when Schenker's
+teachings
+leave the domain of exact description
+and enter that of
+that they become sterdogmatic and speculative
+analysis
+ile.
+(p. 177)*25
+An objection
+similar
+to Sessions'
+first
+Riezler
+in his article,
+"Die 'Urlinie'".
+Michael Mann as follows:
+
+one is stated by Walter
+This is pointed out by
+
+He [Riezler]
+takes great pains to show by analogy with
+the other arts that an analysis
+of any art work proceeding
+from a given framework
+can never give evidence of specific traits contained within the framework
+without suppleideas
+menting the basic structural
+principle
+by specific
+such as are found in music in the concepts
+of motives,
+etc.. *26
+rhythmical
+patterns,
+The most obvious fault in these criticisms
+is that both Sessions
+and Riezler
+have separated
+Schenker's
+of the whole
+concept
+from his concept of the parts.
+They have failed to grasp the
+real significance
+of the Urlinie and Ursatz in relation to middleevents.
+is particularly
+Sessions
+ground and foreground
+vehement in his condemnation
+of these ideas, yet he acknowledges
+the fact that Schenker's
+earlier
+contain a number
+publications
+of clear and profound insights.
+
+19
+The most extensive
+is contained
+theories
+critique of Schenker's
+in Michael Mann's article,
+to Music
+USchenker's
+Contribution
+(and Riezler) extensively,
+Theory".
+Although he quotes Sessions
+work
+Mann differs from him onthe following
+point: "Schenker's
+" (p. 7) Later
+in
+must be accepted
+or rejected
+in its entirety.
+the article,
+he states:
+. we have found ourselves
+to reject Schencompelled
+method in all its phases
+as inseparably
+ker's
+analytic
+which characterizes
+bound up with the fixed conservatism
+his view of music history,
+and as therefore
+,essentially
+sterile
+in tendency:
+rather than an explanaa negation,
+realities.
+tion, of musical
+(p. 26)
+In this statement,
+we find a common
+to Schenker's
+objection
+with the music
+view of music history,
+namely his preoccupation
+and nineteenth
+centuries.
+This objection
+has
+of the eighteenth
+been answered
+in two ways: There are those who have attempted
+of contemto apply certain of Schenker's
+ideas to the analysis
+more
+music.
+(This will be discussed
+porary and "pre-tonal"
+others
+fully later on.) These attempts have been condemnedby
+on the grounds that Schenker
+concerned
+with
+was exclusively
+the fundamental
+his ideas do not
+laws of tonality and therefore
+and should not be applied to music other than that of the tonal
+in their purest
+Since these laws manifest
+themselves
+period.
+or most perfect form through the masterworks
+of the eighteenth
+and nineteenth
+it is only natural that he was concenturies,
+cerned almost exclusively
+with that period in music history.
+And although Schenker had little regard for contemporary
+muof his ideas as they
+sic, this should not affect our evaluation
+We must meet him on his own ground apply to tonal music.
+the music of the eighteenth
+and nineteenth
+centuries.
+ideas - what
+Mann points out a further objection to Schenker's
+he calls
+"an accusation
+of coldness
+and dogmatism".
+This
+view is the basis of Paul Henry Lang's Editorial
+in
+particular
+the Musical Quarterly.
+*27 What begins as a review of Donald
+to
+Francis
+"Beethoven"
+and Adele Katz's "Challenge
+Tovey's
+Musical Tradition",
+and emotional
+atends up as an irrational
+tack on Schenker.
+between a "techLang makes a distinction
+In essence,
+nical expert" [Schenker]
+and an "esthete"
+[Tovey).
+he thinks that Schenker's
+lacks feeling and is too cold
+approach
+and calculating.
+He goes on to say that ". . .Schenkerand
+his fervent
+ever more - attack all those who find
+disciples
+beauties
+that cannot be proved by logic or be reduced
+to their
+constitutent
+atoms. " (p. 300)
+This is, of course,
+ridiculous
+and a complete
+to
+of Schenker's
+misrepresentation
+approach
+
+20
+It is especially
+music.
+surprising
+coming from a man of Lang's
+stature and influence.
+One possible
+reason for this characterization of Schenker's
+approach as "cold and dogmatic'
+may be
+related to his self-assured
+and often offensive
+manner of presentation.
+It is understandable
+to be irritated
+by this manner,
+but it should not affect one's evaluation
+of the meaning and significance
+of his ideas.
+concern
+Schenker's
+was with
+primary
+real music,
+not theoretic
+The latter was a byformulation.
+of the music he viewed
+as living
+product of his investigation
+art. *28
+C.
+
+Applications
+
+As was mentioned
+a number of attempts
+have been
+earlier,
+made to apply Schenker's
+ideas to the analysis of contemporary
+and "pre-tonal'
+music.
+The extent to which these ideas have
+been borrowed and the success
+of their application
+has differed
+from one author to another.
+Some of Schenker's
+ideas are inFor examfinitely more "usable" than others in this context.
+such as those of structural
+levels,
+ple, concepts
+large-scale
+and reduction
+can be made flexible
+connection,
+enough to apply
+to most any kind of music,
+while others
+(e. g. Urlinie and Urfrom the laws of tonality.
+satz) are inseparable
+As mentioned
+these attempts have been condemned
+previously,
+by others on
+the grounds
+that Schenker's
+total concern was with the fundamental laws of tonality
+as manifested
+in the masterpieces
+of
+the tonal era.
+to music other than that of the
+Any applications
+is viewed as a misinterpreeighteenth and nineteenth centuries
+tation (or misrepresentation)
+of his ideas.
+This controversy
+has resulted
+in major disagreements
+even among Schenker's
+students.
+One of those who has applied certain of Schenker's
+ideas to the
+of contemporary
+music
+is Allen Forte in his book,
+analysis
+Tone Structures".
+*29 Forte acknowledges
+his
+"Contemporary
+indebtedness
+to Schenker
+"for the notion of the analytic sketch
+and for certain terminology"
+back[foreground,
+middleground,
+functional relationships,
+The
+ground, spans of structure,
+etc.].
+basic technique
+used in this study is reduction,
+and "aid is provided by the analytic sketches,
+which constitute
+a visualmeans
+for comprehending
+a means which is often more distructure,
+rect and more valuable
+than the verbal commentary'.
+(p. v)
+and terminology
+are borrowed
+but never is an atTechniques
+context.
+tempt made to apply a tonal concept in a non-tonal
+The
+are: Bartok,
+Fourth String Quartet;
+major works discussed
+for Violin with Piano Accompaniment;
+Schoenberg,
+Phantasy
+Petrouchka.
+The shorter
+works
+are:
+Stravinsky,
+analyzed
+
+21
+from the Five Fingers;
+Midi
+Milhaud,
+Stravinsky,
+Larghetto
+Number III from From My Diary;
+from Une Journee; Sessions,
+3 from Four Piano Blues; Bartok,
+Number
+Number
+Copland,
+VIII from Fourteen Bagatelles,
+Fugaundecima
+Op. 6; Hindemith,
+in B from Ludus Tonalis.
+Scores of the shorter
+are
+pieces
+included for ease in following
+the analyses.
+of contemporary
+certain
+of SchenAnalyses
+pieces employing
+ker's ideas can also be found in Adele Katz's book, "Challenge
+A New Concept of Tonality". *30 Beginto Musical Tradition:
+1 is an explanation
+of Schenker's
+ning with chapter 2 (chapter
+of tonality),
+of
+the book is divided into discussions
+conception
+the following
+Johann Sebastian Bach, Philip Emancomposers:
+uel Bach, Josef Haydn, Beethoven,
+Richard Wagner,
+Debussy
+to the bulwark of tonality"),
+and Stravinsky
+("first
+challenge
+and Schbnberg ("representatives
+of the new order in music").
+These particular
+were chosen because
+composers
+they "offer
+afforded by the tonal
+a well-rounded
+picture of the possibilities
+as well as an introduction
+to the techniques
+of the polysystem,
+tonal and atonal systems".
+are
+(p. xxi) These latter "systems"
+in an effort "to find the new concept
+of tonality
+investigated
+the book, the basic terminology
+they express".
+Throughout
+with Schenker's
+associated
+ideas and a sketch technique derived
+from his method of graphic representation
+are both in evidence.
+The most well-known
+of the
+and also the most controversial
+works based on Schenker's
+is Felix Salzer's
+"Structheories
+in Music". *31 Some have conTonal Coherence
+turalHearing:
+demned it vehemently
+while others have accepted it as the main
+theories
+in English.
+Its external
+source of Schenker's
+layout is
+to that of Schenker's
+similar
+Der freie Satz: It is published
+in
+two volumes,
+the first containing
+the text and the second
+confrom the Middle
+of compositions
+taining numerous
+analyses
+The contents
+of volume 1 are divided into
+Ages to the present.
+three parts,
+as follows:
+of the basic terms
+Part 1 (definition
+used throughout the book and their implications);
+Part II, The
+and Systematic
+(inApproach to Structural
+Pedagogic
+Hearing
+The Contrapuntal
+The Harmonic
+cludes;
+Concept,
+Concept,
+Structure
+and Prolongation
+I, II, III, and the Concept of Tonalof structural
+and consequences
+ity); Part III ("the implications
+as they concern
+of musical
+hearing
+problems
+understanding,
+and musicology").
+ideas are
+interpretation
+Many of Schenker's
+used by Salzer
+in the discussion
+and analysis
+of "pre-tonal"
+as well as modern works. *32 To those who are
+compositions
+works, his influence is clear
+already acquainted with Schenker's
+To others,
+it is often difficult
+to tell whether
+a
+throughout.
+idea should be attributed to Schenker or to Salzer.
+particular
+
+22
+behind Structural
+motivation
+The primary
+Hearing was the orideas into textbook
+form.
+This is
+of Schenker's
+ganization
+as follows:
+pointed out by Salzer,
+Schenker's
+This book is based on Heinrich
+revolutionary
+coherence.
+and musical
+.. . My
+of tonality
+conceptions
+into a workable,
+syspurpose is to mold his conceptions
+students and pertematic
+approach for use by teachers,
+in the
+interested
+as well as by anyone seriously
+formers,
+and structure.
+of musical continuity,
+coherence,
+problems
+(Dover Edition,
+p. xv)
+has been the only textbook
+Structural
+Until recently,
+Hearing
+with Schenker's
+theories.
+*33
+in English which deals extensively
+for serious students of harmony
+As a major source of reference
+it has been extremely
+influential.
+But for
+and counterpoint,
+about Schenmany it has become the sole source of information
+The result hasbeen that
+ker. This is an unfortunate
+situation.
+name when, intruth,
+with Schenker's
+ideas are often associated
+One may blame
+they have little or nothing to do with him.
+between his and Schenker's
+Salzer for not clearly differentiating
+but the real blame should rest on those who have never
+ideas,
+In its own terms,
+to consult
+the primary
+bothered
+sources.
+and valuable contribution
+to the
+Structural
+is a serious
+Hearing
+of tonal structure.
+understanding
+to apply certain of Schenker's
+ideas to the analysis of
+Attempts
+music have also been made by Roy Travis in his
+contemporary
+UTowards a New Concept of Tonality? "*34 and "Diarticles,
+rected Motion in Schoenberg
+Both are strongly
+and Webern".
+influenced
+The contemporary
+Structural
+by Salzer's
+Hearing.
+in the former are the opening of Stravindiscussed
+compositions
+and two pieces
+from Bartok's
+sky's Le Sacre du Printempts
+Mikrokosmos.
+are made between
+the structure
+of
+Analogies
+these pieces and selected
+from the eighteenth
+and
+compositions
+nineteenth
+Most striking is Travis'definicentury literature.
+tion of tonality:
+"Music is tonal when its motion unfolds through
+time a particular
+or chord." (p. 261) This contone, interval,
+of Schoenberg's
+cept of tonality is also applied to the analysis
+and Webern's
+Piano
+Op. 19, No. 2 (from Six Little Piano Pieces)
+in his second
+Variations,
+article.
+Op. 27 (second movement),
+The extension
+of the meaning of "tonal" to include a particular
+tone or interval is a radical departure
+from Schenker's
+concept
+of tonality.
+It is also a major point of difference
+between Travis
+and others who have attempted
+to apply "Schenkerian
+analysis"
+to the understanding
+and interpretation
+of modern music.
+
+23
+between Schenker's
+of the relationship
+An interesting
+discussion
+theories
+and Gestalt Psychology
+is provided by Hellmut Federof five essays,
+zur musikalishofer in his collection
+"Beitrage
+*35 Federhofer's
+chen Gestaltanalyse".
+approach to Schenker's
+One thing he is concerned
+with
+ideas is basically
+scientific.
+of reduction.
+of Schenker's
+is the "scientification"
+technique
+would have opposed this as he would have opposed the
+(Schenker
+In the third
+with art.)
+of anything associated
+"scientification"
+in detail the connection
+discusses
+between
+Federhofer
+essay,
+form.
+The last two papers (Der strenge
+"Gestalt" and musical
+zur Kompositionslehre
+und freie Satz und sein Verh'altnis
+von
+Heinrich
+in der Fassung
+seines
+Schulers
+Schutz
+Christoph
+bei Johann Sebastian
+Tonale und reale Beantwortung
+Bernhard;
+in the
+of certain
+Bach) are devoted to discussions
+problems
+older music in relation to Schenker's
+ideas.
+Sketches of pieces
+and Brahms
+are provided in the Anhang.
+by Bach, Mozart,
+with the rhythmic
+strucMany of the recent studies concerned
+ture of music have also been influenced,
+at least indirectly,
+by
+theories.
+The most detailed of these is the study
+Schenker's
+made by Cooper and Meyer. *36 In it, a technique
+of reduction
+is applied to the analysis
+of
+of the "rhythmic
+organization
+and sections".
+The authors also may have
+phrases,
+periods,
+in
+been influenced
+levels
+by Schenker's
+concept of structural
+the formulation
+of their concept of "Architectonic
+alLevels",
+is no direct correlation
+between the two. The imthoughthere
+of Schenker's
+levels to the forportance
+concept of structural
+mulation of a theory of rhythm has been pointed out by Forte in
+of Musical Structure".
+"Schenker's
+He states that
+Conception
+a general theory
+although Schenker did not attempt to formulate
+of rhythm,
+certain of his statements
+suggest that rhythm, like
+He goes on
+levels
+of structure.
+pitch, may exist at different
+to say that the following two questions
+need answering
+before a
+general theory of rhythm can be formulated:
+level do rhythmic
+events
+(1) At what structural
+begin to
+determine
+the tonal structure
+of a given work?
+(2) What
+is the nature of the relationship
+between
+the constituent
+in a given work?
+levels
+the analytic
+rhythmic
+Clearly,
+techniques
+developed
+by Schenker would be indispensable
+in the answering
+of these questions.
+(p. 21)
+In "Some Problems
+in Rhythmic Theory
+and Analysis",
+Peter
+discusses
+both Forte's
+comments
+and the ideas
+Westergaard
+in the Cooper-Meyer
+contained
+book.
+Although he likes the
+of the Cooper-Meyer
+he feels that it is
+flexibility
+approach,
+for the formulation
+inadequate and points to Forte's
+suggestions
+
+24
+of a theory of rhythm for tonal music.
+Once this is accomto apply
+plished,
+Westergaard
+suggests that it might be possible
+Schenker's
+to the study of rhythm in contemporary
+concepts
+music.
+He points out that contemporary
+music
+and music
+of
+the eighteenth
+and nineteenth
+centuries
+are more closely
+related with respect
+to rhythm than pitch structure.
+He also
+notes that Schenker's
+ideas have already been applied to pitch
+structure
+in contemporary
+music.
+The rest of the article
+is
+concerned with an analyses of the rhythmic structure
+ofWebern's
+Piano Variations,
+Op. 27 (third movement).
+Two interesting
+and unique studies
+which employ Schenker's
+basic approach
+to music
+are:
+"The Fantaisie-Impromptu--A
+Tribute to Beethoven"
+and "The Dramatic
+Character
+of the Egmont Overture",
+In the former,
+both by Ernst Oster.
+Oster
+with parts of Beethocompares
+Chopin's Fantaisie-Impromptu
+ven's Moonlight Sonata.
+After detailed
+of both comanalyses
+he comes to the conclusion
+that Chopin consciously
+positions,
+and deliberately
+modeled his piece on some of the main features
+of Beethoven's
+finale.
+It is probably for this reason that Chopin
+(It was published
+kept it from publication.
+by Jules Fontana
+after the composer's
+The major portion of the second
+death.)
+article is devoted to a detailed
+of Beethoven's
+analysis
+Egmont
+Overture.
+Oster shows how Beethoven
+built an entire
+comon a minimum
+of material
+and how he developed
+and
+position
+in a musical
+shaped this material
+way to achieve a dramatic
+In this context, he points out the necessity
+effect.
+of considernot in terms of one
+ing music and drama on their own terms,
+another (as Wagner has done).
+In both of these articles,
+Oster
+states his belief that detailed
+and meaningful
+is possianalysis
+ble only with the use of Schenker's
+approach to music.
+Only in
+this way is it possible
+to discover
+the structural
+relationships
+which exist in a work of art.
+It is difficult to determine
+the extent to which Schenker's
+ideas
+have influenced
+musical
+in the twentieth
+thought and practice
+The publications
+that have grown out of his work are
+century.
+to the importance
+of his concepts
+but this alone is
+testimony
+not an accurate
+measure
+of their influence.
+One can only guess
+at the impact they have had on music performance
+and pedahave openly stated their indebtedness
+to
+gogy.
+Many musicians
+Schenker
+but few have done so in print.
+Two that have are
+Wilhelm
+and Bruno Walter.
+(See Reference
+Furtwaingler
+3.)
+A discussion
+of the importance
+of Schenker's
+ideas in relation
+to performance
+is contained
+in "Heinrich Schenker und grosse
+Schenker's
+ideas
+have also
+Interpreten"
+by Oswald Jonas.
+influenced
+the teaching
+of harmony
+and counterpoint,
+greatly
+
+25
+of tonal music.
+and even the composition
+There are
+analysis,
+offered
+in this
+numerous
+courses
+at colleges
+and universities
+on his approach to
+country which are based to some degree
+In a few of these the subject matter is approached from
+music.
+Schenker's
+point of view, but in many there is little corresideas and what is actuallytaught.
+pondence between Schenker's
+This latter situation
+is reflected
+in Israel Silberman's
+article,
+via Schenker's
+Theories".
+Silberman
+Composition
+"Teaching
+states that "any course of instruction
+in composition
+that purof the
+ports to deal with classical
+style must take cognizance
+of Schenker".
+theoretical
+His approach
+to
+findings
+(p. 301)
+in this style is to analyze a given compositeaching
+composition
+tion and then use its basic structure
+as a model for creating
+new compositions.
+is not really
+new.
+Com(This approach
+have been writing music this way for centuries.)
+The
+posers
+used as a model in this article is the exposition
+of
+composition
+the first movement
+of Beethoven's
+Piano Sonata, Op. 2, No. 1.
+One can overlook the fact that Silberman
+uses certain of Schenker's ideas and rejects
+others; many of them simply cannot be
+What cannot be overlooked
+is
+applied to the act of composing.
+his analysis
+of the Beethoven
+Here it is evident that
+piece.
+does not
+Silberman,
+despite all he has to say about Schenker,
+the significance
+of Schenker's
+really understand
+analytic
+ap1 and 2 (diagrams)
+Nowhere in Examples
+is there any
+proach.
+indication of the relationships
+which exist within and among the
+different
+levels of structure
+in this piece.
+Also both reductions
+show the piece beginning
+on f2 rather than ab2!*37
+It is unfortunate that Schenker's
+of this piece (Der Tonwille,
+analysis
+Heft 2) was not available
+to the author.
+Of course there are
+also many good ideas contained
+in this article.
+But what is
+is that Silberman's
+of Schenker's
+ideas
+deplorable
+"application"
+does not give a fair representation
+of his approach
+to musical
+structure.
+The number of publications
+based on Schenker's
+theories
+is one
+to their influence.
+In some cases
+this influence
+is
+testimony
+subconscious
+(or at least undocumented)*38,
+but most often it
+is clearly
+defined.
+of each of these pubdiscussion
+Complete
+lications
+is beyond the scope and purpose of this bibliography.
+The most important
+of these have been mentioned
+in the preothers are simply listed in Appendix D. Beceding discussion;
+fore coming to a close,
+I would like to mention
+two further
+sources
+of interest.
+One is the "Analysis
+Symposium"
+(published in this periodical).
+The purpose
+of this symposium
+is
+to publish two or three analyses
+of the same composition
+for
+the purpose
+of comparison.
+An effort is made to represent
+diverse analytic approaches,
+one of these being oriented toward
+
+26
+The other is "The Music Forum' (edited
+Schenker's
+approach.
+In the first volume of
+and Felix Salzer).
+by William Mitchell
+the editors
+state their intent to publish,
+this annual,
+among
+which are based on Schenker's
+other things,
+articles
+approach
+to music.
+Both of these sources are helping to bring Schenker's
+A particularly
+ideas before the musical
+encouraging
+public.
+works
+of some of Schenker's
+publication
+sign is the scheduled
+that have not been generally
+Even more significant
+available.
+is the probability
+of some of his works will be
+that translations
+All of this points to an increasing
+available in the near future.
+in his work.
+interest
+
+27
+
+APPENDIX
+
+A:
+
+A CHRONOLOGICAL
+LISTING
+THEORETICAL
+WORKS
+
+1904
+
+Ein Beitrag
+
+1906
+
+Neue Musikalische
+Theorienund
+Vol. I: Harmonielehre.
+
+1908
+
+Ein Beitrag zur Ornamentik.
+Vienna:
+Edition.
+Universal
+
+zur Ornamentik.
+
+Instrumentations
+tion.
+
+- Tabelle
+
+OF SCHENKER'S
+
+Vienna:
+
+Universal
+
+Phantasien.
+
+Neue
+
+Vienna:
+
+revidierte
+
+von "Artur
+
+Edition.
+Universal
+
+und vehrmerte
+
+Niloff".
+
+Vienna:
+
+Edition.
+
+Auflage.
+
+Universal
+
+Edi-
+
+1910
+
+und Phantasien.
+Neue musikalische
+Theorien
+EdiVienna:
+Universal
+tion.
+Vol. II, Part 1: Kontrapunkt
+und zweistimmiger
+(Cantus Firmus
+Satz).
+
+1912
+
+Beethovens
+
+1921-1924
+
+A. Gutmann
+Der Tonwille.
+10 issues.
+Vienna:
+later in 3 volumes
+Edition).
+by Universal
+
+1922
+
+Neue musikalische
+Theorien
+und Phantasien.
+Vienna:
+EdiUniversal
+tion.
+Vol. II, Part 2: Kontrapunkt
+und mehrstimmiger
+(DreiSatz).
+
+1925
+
+Beethovens
+fiunfte Sinfonie.
+versal Edition,
+7646).
+
+1925-1930
+
+Das Meisterwerk
+
+neunte
+
+Sinfonie.
+
+Vienna:
+
+Vienna:
+
+in der Musik.
+
+Universal
+
+Edition.
+Verlag.
+
+A. Gutmann
+
+Miinchen:
+
+Drei
+
+Verlag.
+
+Masken
+
+(Republished
+
+(Also
+
+Uni-
+
+Verlag.
+
+Jahrbuch
+Jahrbuch
+Jahrbuch
+
+I, 1925
+II, 1926
+III, 1930
+
+1932
+
+Fiinf Urlinie
+
+- Tafeln.
+
+1933
+
+Johannes Brahms.
+Oktavenund Ouinten u. A., aus dem Nachlass
+herausvon Henrich Schenker.
+Vienna: UniversalEdition.
+erl-iutert
+gegebenund
+
+1935
+
+Neue musikalische
+Theorien und Phantasien.
+Vienna: Universal
+Vol. III: Der freie Satz.
+Two Volumes:
+I, Text; II, Musical
+Second Edition,
+edited and revised
+1956.
+by Oswald Jonas,
+
+Vienna:
+
+Universal
+
+Edition.
+
+Edition.
+Figures.
+
+APPENDIX
+
+B:
+
+SCHENKER'S
+
+Ph. Em. Bach.
+tion, 1902-3.
+Vol.
+Vol.
+
+Klavierwerke.
+
+1:6 Sonatas
+11:3 Sonatas,
+
+G.F.
+Handel.
+Sechs
+bearbeitet.
+Vienna:
+
+Sonata,
+Sonata,
+Sonata,
+Sonata,
+
+op.
+op.
+op.
+op.
+
+109,
+110,
+111,
+101,
+
+Neue
+
+4 Sonata
+
+kritische
+
+der
+
+letzten
+
+und Fuge
+1910.
+finf
+
+Universal
+
+Sonaten
+
+zu 4 Hianden
+
+fur Klavier
+
+(d moll).
+
+Kritische
+
+Beethovens.
+
+Ausgabe
+
+Vienna:
+
+E dur, 1913
+As dur, 1914
+c moll,
+1915
+A dur, 1920
+
+Beethoven.
+Sonata, Op. 27, Nr. 2. Mit drei Skizzenblaittern
+des meisters,
+- Reproduction
+in Faksimile
+von Heinrich
+Schenker.
+Vienna:
+gegeben
+1921.
+Edition,
+
+APPENDIX
+
+Die Zunkunft
+
+C:
+
+mit
+
+Universal
+
+Beethoven.
+Samtliche
+Klaviersonaten.
+Nach den Autographen
+rekonstruiert
+Heinrich Schenker.
+Vienna:
+Universal
+192-.
+Neue Ausgabe revidiert
+Edition,
+Erwin Ratz.
+Vienna:
+Universal
+1947.
+Edition,
+
+*Schenker
+was unable
+and is, missing.
+
+Edi-
+
+and 1 Rondo
+
+movements,
+
+Phantasie
+Edition,
+
+Vienna:
+
+Ausgabe.
+
+Nach den Originalen
+Orgelkonzerte.
+Universal
+1904.
+Edition,
+
+J. S. Bach.
+Chromatische
+Vienna:
+Universal
+Anhang.
+*Erlauterungsausgaben
+Edition.
+
+OF MUSIC
+
+EDITIONS
+
+to complete
+
+this
+
+series
+
+because
+
+A PARTIAL LISTING OF ESSAYS
+BY HEINRICH SCHENKER
+
+the autograph
+
+AND REVIEWS
+
+(Berlin)
+
+in Wien".
+1892.
+October,
+'Mascagni
+'Eine jung-italienische
+Schule? ". December,
+1892.
+'Rantzau'".
+1893.
+"Mascagnis
+February,
+'Notizen
+zu Verdis Falstaff".
+May, 1893.
+'Friedrich
+Smetana".
+July, 1893.
+'Der Sonzongno-Markt
+in Wien".
+1893.
+August,
+*"Anton Bruckner".
+1893.
+October,
+Leoncavallo'.
+1894.
+"Ruggiero
+January,
+1894.
+"Konzertdirigenten".
+April,
+"Deutsch-Oesterreichischer
+Musikverkehr".
+1894.
+April,
+'Verdis
+Falstaff".
+May, 1894.
+fur Instrumentalkomponisten".
+"Tantiemen
+May, 1894.
+'Anton Rubinstein".
+1894.
+August,
+1894.
+October,
+'Eugen d'Albert".
+1896.
+"Siegfried
+Wagner".
+February,
+"Das Heimchen
+am Herd' [Rubin Goldmark].
+1896.
+April,
+"Johannes
+Brahms".
+May, 1897.
+
+von
+von
+
+herausUniversal
+
+of Op. 106 was,
+
+29
+
+Neue Revue
+
+(Vienna)
+
+"Epilog zur Schubertfeier".
+'Johannes
+Brahms".
+April,
+
+1897.
+
+February,
+1897.
+
+Die Zeit (Vienna)
+'Zur musikalischen
+September,
+Erziehung".
+1896.
+'Don Juan'".
+:"Mozarts
+April,
+:"Uber Brahms".
+May, 1896.
+1896.
+*"Anton Bruckner".
+Wochenblatt
+
+Musikalisches
+"Brahms,
+*"Bruckner,
+
+1895.
+
+(Leipzig).
+
+1892.
+Chor op. 105".
+5 Gesange fur gemischten
+August,
+1893.
+Psalm 150 fur Chor, Soli und Orchester".
+
+Der Kunstwart
+
+(Munich).
+
++
+
+'Eine Rettung der klassischen
+Musik-Texte:
+Das Archiv
+1929.
+Wien. " March,
+National-Bibliothek,
+Ein verschollener
+Brief von Mozart und das Geheimnis
+1931.
+Wiener
+
+seines
+
+Schaffens".
+
+July,
+
+Abendpost
+
+'Beethoven
+Der Geist der
+the Gesellschaft
++Further
+wart.
+
+in der
+
+fiir Photogramme
+
+articles
+
+'Retouche'".
+
+January,
+
+1901.
+
+Technik.
+musikalischen
+(A brochure.
+in Wien.)
+der Musikfreunde
+can be found in Deutsche
+
+Zeitschrift,
+
+Original
+
+brochure
+
+a continuation
+
+owned
+
+by
+
+of Der Kunst-
+
+in: Der Dreiklang,
+Monatsschrift
+fUr Musik (edited
+*These articles were republished
+1936-38.
+Also inVienna:
+Krystall-Verlag.
+by Oswald Jonas and Felix Salzer).
+are the following
+short essays
+and analyses
+cluded in this publication
+by Schenker:
+in der Musik" (From Der freie Satz)
+'Vom Hintergrund
+im generalbass'
+'Von der Stimmfiihrung
+(from the earlier
+of Der freie Satz)
+'Von der Diminution'
+(From Der freie Satz)
+zu Haydns 'Chorale St. Antoni'"
+"Urlinietafel
+zu Schindler,
+Beethovens
+'Ein Kommentar
+Spiel betreffend'
+
+unpublished
+
+version
+
+30
+APPENDIX D: WORKS CONCERNING SCHENKER AND HIS THEORIES
+BOOKS
+Daniskas, John. Grondslagen voor de Analytische
+dam: W.L. and J. Brusse, 1948.
+Federhofer, Hellmut. Beitrage zur musikalischen
+mische Druck-U. Verlagsanstalt,
+1950.
+
+Vormleer der Musiek.
+
+Gestaltanalyse.
+
+Rotter-
+
+Graz: Akade-
+
+Forte, Allen. Contemporary Tone Structures. New York: Bureau of Publications,
+Teacher's College, Columbia University, 1955.
+Jonas, Oswald. Das Wesen des musikalischen Kunstwerks. Eine Einfihrung in die
+Lehre Heinrich Schenkers.
+Wien: Im Saturn-Verlag, 1934.
+Katz, Adele T. Challenge to Musical Tradition:
+York: Alfred A. Knopf, 1945.
+Salzer, Felix.
+Saturn-Verlag,
+
+A New Concept of Tonality.
+
+Sinn und Wesen der abendlandischen
+1935.
+
+Mehrstimmigkeit.
+
+New
+Wien:
+
+Salzer, Felix. Structural Hearing: Tonal Coherence in Music. Two volumes.
+York: Charles Boni, 1952. New York: Dover Publications, 1962.
+
+New
+
+Roth, Hermann. Elemente
+Gruninger Verlag, 1926.
+
+Carl
+
+der Stimmfihrung
+
+(Der strenge Satz).
+
+Stuttgart:
+
+ARTICLES
+'Das Schenker-Institut
+am neuen Wiener Konservatorium",
+Bamberger, Carl.
+Anbruch (Osterreichische
+Zeitschrift fur Musik), 18. Jahrgang, Heft l(J'annerFebruar, 1926), pp. 7-8.
+"The Role Of Heinrich Schenker",
+Citkowitz, Israel.
+l(November-December,
+1933), pp. 18-23.
+
+Modern Music, Vol. 11, No.
+
+Dale, Frank Knight. 'Heinrich Schenker and MusicalForm", Bulletin of the American Musicological Society, Vols. 1-3, No. 7(1936-41), pp. 12-13.
+'Der Nachlass Heinrich Schenkers", Der Dreiklang (Monatsschrift
+(April, 1937), pp. 17-22. (Oswald Jonas, unsigned).
+
+fur Musik), I
+
+Federhofer, Hellmut. 'Die Funktionstheorie Hugo Riemanns und die Schichtenlehre
+Heinrich Schenkers", Bericht uber den Internationalen Musikwissenschaftlichen
+Kongress (Wien), 1956, pp. 183-190.
+Hellmut.
+Federhofer,
+'Die Musiktheorie Heinrich Schenkers",
+Musikzeitung, Jahrgang 87, Nr. 2(Oktober, 1947), pp. 265-268.
+
+Schweizerische
+
+Federhofer, Hellmut. 'Heinrich Schenker", Anthony van HobokenFestschrift
+75. Geburtstag). Mainz: B. Schott's Sbhne, 1962, pp. 63-72.
+
+(zum
+
+Federhofer, Hellmut.
+"Heinrich Schenker".
+Riemann Musik Lexikon (zw6lfte
+vollig neubearbeitete Auflage in drei Banden herausgegeben von Willibald Gurlitt),
+Band 2. Mainz: B. Schott's Sohne, 1961, pp. 596-597.
+Forte, Allen.
+"Schenker's Conception of Musical Structure",
+Theory, Vol. 3, No. l(April, 1959), pp. 1-30.
+
+Journal of Music
+
+31
+
+Karl.
+"Heinrich
+Grove's
+Schenker".
+Geiringer,
+Dictionary
+edited by Eric Blom.
+Fifth Edition,
+1954(Sixth Printing,
+cians,
+St. Martin's
+(Vol. 7).
+Press,
+Inc., pp. 477-478
+
+of Music and MusiNew York
+1964).
+
+und Karl
+Heinrich.
+'Heinrich
+Schenker
+Hartmann,
+sikzeitschrift,
+7, Nr. 2(1952),
+Jahrgang
+pp. 46-52.
+
+Osterreichische
+
+K.
+'Die Stimmfiihrung
+Hirschkorn,
+Heinrich Schenkers",
+Musikerziehung
+XII(1959),
+pp. 233-234.
+
+Marx",
+
+des Geigers.
+als Leitstern
+Zeitschrift
+zur Erneuerung
+
+Mu-
+
+Die Bedeutung
+der Musikpflege,
+
+to "Harmony" by Heinrich Schenker,
+Introduction
+trans. by ElisaOswald.
+Jonas,
+The University
+of Chicago Press,
+beth Mann Borgese.
+1954.
+Chicago:
+pp. v-xxiv.
+Jonas,
+(Ma'rz,
+
+'Die Kunst des Vortrags
+Oswald.
+1962), pp. 127-129.
+
+nach Heinrich
+
+Schenker",
+
+Musikerziehung
+
+Die Musik in Geschichte
+Oswald.
+'Heinrich
+Schenker".
+Jonas,
+der Musik, edited by Friedrich
+Blume.
+Allgemeine
+Enzyklopadie
+reiter Kassel,
+1963, columns
+1670-1672(Vol.
+11).
+Oswald.
+Jonas,
+Musikzeitschrift,
+Jonas,
+(1965),
+
+Schenker
+und grosse
+Interpreten",
+19(December,
+1964), pp. 584-589.
+
+Osterreichische
+
+zu Schenkers
+
+Musikerziehung
+
+'Heinrich
+Jahrgang
+
+Oswald.
+'Nachtrag
+pp. 205-209.
+
+Aufsatz
+
+'On the Study of Chopin's
+Oswald.
+Jonas,
+Wien:
+(Internationale
+Chopin-Gesellschaft).
+Jonas,
+(1934),
+
+'The
+Oswald.
+pp. 344-347.
+
+'Das
+Oswald.
+Jonas,
+1(1936),
+pp. 6-7.
+
+Schenker's
+Method
+1935), pp. 311-329.
+
+Hubert.
+Periodical
+pp. 1-11.
+
+Kolneder,
+Deutsches
+Lang, Paul
+296-302.
+
+Walter.
+Jahrbuch
+Henry.
+
+'Sind Schenkers
+Analysen
+der Musikwissenschaft,
+3.
+
+"Schenker's
+Mann, Michael.
+10(1949),
+pp. 3-26.
+William J.
+"Heinrich
+Mitchell,
+1, No. 2(1946),
+pp. 117-128.
+
+and
+
+18.
+
+The
+
+The
+
+Musical
+
+Contribution
+
+Jahrgang,
+
+Musical
+
+Schenker's
+
+Ernst.
+and Large-Scale
+Oster,
+'Register
+Vol. 5, No. 1(April,
+1961), pp. 54-71.
+
+Quarterly,
+
+Approach
+
+Connection",
+
+Nr.
+
+Quarterly,
+
+Schenkers",
+
+for Analysis
+of Contemporary
+State Teacher's
+Association),
+
+zur
+Beitr-ige
+Jahrgang(1958),
+
+to Music
+
+15
+
+Letters,
+
+und Reaktion in der Lehre Heinrich
+Heft 1(1965),
+Jahrgang,
+pp. 5-9.
+
+"On the Value of Schenker's
+Ideas
+of Theory-Composition
+(Illinois
+(Mimeograph).
+
+Editorial.
+
+Music
+
+Anbruch,
+
+of Analysis",
+
+1956
+
+Chopin-Jahrbuch
+pp. 142-155.
+
+Manuscripts",
+Amalthea-Verlag,
+
+Photogramm-Archiv",
+
+'Fortschritt
+Harald.
+Kaufmann,
+126.
+Neue Zeitschrift
+fur Musik,
+Kessler,
+Music",
+1(1958),
+
+Schindler",
+
+iiber
+
+in Vienna",
+
+Photogram-Archives
+
+Wiener
+
+'Heinrich
+Katz, Adele.
+Volume 21, No. 3(July,
+
+und Gegenwart:
+Basel:
+Baren-
+
+Vol.
+
+Bacherkenntnis?",
+pp. 59-73.
+
+Theory",
+
+to Detail",
+
+Journal
+
+No.
+
+32,
+
+The
+
+2(1946),
+
+Music
+
+Musicology,
+
+of Music
+
+pp.
+
+Review,
+
+Vol.
+
+Theory,
+
+32
+
+Arthur.
+56, No.
+
+Plettner,
+ica, Vol.
+Reich,
+(1934),
+
+Willi.
+"Kant,
+pp. 29-32.
+
+Felix.
+1937),
+
+Schenker's
+10, 1936),
+
+Die Musik,
+
+"Die historische
+pp. 2-12.
+
+"Heinrich
+Schenker".
+Fifth Edition,
+revised
+1433.
+Schmid, Edmund.
+fur Musik,
+119.
+
+Contribution
+p. 14.
+
+to Theory",
+
+und der Nachliufer",
+
+Schenker
+
+"Die Urlinie",
+
+Walter.
+
+Riezler,
+510.
+Salzer,
+I(April,
+
+"Heinrich
+3(February
+
+Drei
+
+Vol.
+
+Heinrich
+
+Sendung
+
+Baker's
+Biographical
+by Nicolas
+Slonimsky.
+
+und Zwanzig,
+
+No.
+
+22,
+
+Musical
+
+Amer-
+
+Nr.
+
+pp. 502-
+
+1930),
+
+7(April,
+
+Der
+
+Schenkers",
+
+15-16
+
+Dreiklang,
+
+of Music and Musicians.
+Dictionary
+New York: G. Schirmer,
+1958, p.
+
+und Originalausgaben
+Beethovens",
+"Autographe
+1958), pp. 746-747.
+Jahrgang(December,
+
+Neue Zeitschrift
+
+Elmer.
+"Ursatz".
+Riemann
+Musik Lexikon(zw6lfte
+Siedel,
+vbllig neubearbeitete
+von Willibald
+und
+Gurlitt,
+Auflage in drei Banden),
+Sachteil(begonnen
+fortgefuhrt
+von Hans Heinrich
+B. Schott's
+Mainz:
+Sbhne, 1967,
+herausgegeben
+Eggebrecht).
+1010-1011.
+pp.
+Sessions,
+192-197.
+
+"Escape
+
+Roger.
+
+"The
+Sessions,
+Roger.
+(1938), pp. 257-262.
+
+Israel.
+Silberman,
+in Music
+Research
+
+of
+
+Function
+
+"Heinrich
+170-178.
+
+Sessions,
+Roger.
+No. 4(1935),
+pp.
+
+Modern
+
+by Theory".
+
+"Teaching
+Education,
+
+Composition
+Vol. 12, No.
+
+Journal
+
+Otto.
+
+"Heinrich
+
+Schenker",
+
+Die Musik,
+
+Vol.
+
+Vrieslander,
+
+Otto.
+
+"Heinrich
+
+Schenker",
+
+Kunstwart,
+
+IX(1930),
+
+and Nathan Broder.
+"Musical Synthesis
+Musical Mercury,
+Vol. 11, No. 4(1935),
+
+Hans.
+"Uber die 'Urlinie'
+Wingert,
+Vol. 3, No. 5(1950),
+pp. 244-246.
+"Schenkers
+Wolf, Hans.
+1937), pp. 176-184.
+
+und ihren
+
+Personlichkeit
+
+Victor.
+Zuckerkandl,
+"Bekenntnis
+5(Mai, 1935), pp. 121-125.
+
+im Unterricht",
+
+zu einem
+
+Lehrer",
+
+Victor.
+Zuckerkandl,
+Ursatz*.
+Harvard
+'Urlinie,
+Harvard University
+Press,
+1960, pp. 779-780.
+
+of Music
+
+4
+
+12,
+
+17.
+
+Dis-
+
+pp.
+
+181-189.
+
+pp.
+
+Zeitschrift
+
+Anbruch,
+
+of
+
+Theory,
+
+19, No. 1(1926-27),
+
+Der Dreiklang,
+
+Dictionary
+
+No.
+
+Vol.
+
+Ph.D.
+
+as Expounded
+pp. 56-64.
+
+Sch6pfer",
+
+pp.
+
+Journal
+Theory".
+pp. 295-303.
+
+Vrieslander,
+33-38.
+
+Waldeck, Arthur
+The
+Schenker",
+
+15,
+
+Music,
+
+in Perspective".
+
+a New Concept
+of Tonality?",
+1959), pp. 257-284.
+
+3(1938),
+
+Vol.
+
+Modern
+
+Via Schenker's
+4(Winter,
+1964),
+Schenker
+
+15, No.
+
+Music,
+
+Contribution",
+
+"The Theories
+of Heinrich
+Slatin, Sonia.
+Columbia University,
+1967.
+sertation,
+"Towards
+Travis,
+Roy.
+Vol. 3, No. 2(November,
+
+Modern
+
+Theory".
+
+Schenker's
+
+Vol.
+
+Music,
+
+by Heinrich
+
+fur Musik,
+
+VII(Oktober,
+
+Jahrgang,
+
+of Music.
+
+Heft
+
+Cambridge:
+
+33
+
+FURTHER
+Analysis
+Theory.
+
+Published
+
+Symposium.
+
+Vol. 10, No. l(Spring,
+wright and Ernst Oster,
+
+OF INTEREST
+
+SOURCES
+
+at irregular
+
+1966): Mozart's
+contributors.
+
+in the Journal
+
+intervals
+
+in D, K. 355.
+
+Menuetto
+
+of Music
+
+Howard
+
+Vol. 12, No. 2(Winter,
+Moment musicale
+in C, Op.
+1968): Schubert's
+1. Matt Hughes,
+and Carl Schacter,
+Lawrence
+contributors.
+Moss,
+David.
+Beach,
+Music Theory,
+Cockshoot,
+and Kegan
+
+'The Functions
+of the Six-Four
+Chord in Tonal
+Vol. 11, No. l(Spring,
+1967), pp. 2-31.
+
+John V. The
+Paul.
+1959.
+
+in Beethoven's
+
+Fugue
+
+Piano
+
+Music.
+
+Boat-
+
+94, No.
+
+Music',
+
+Journal
+
+London:
+
+of
+
+Routledge
+
+Der Dreiklang
+fur Musik),
+(Monatschrift
+edited by Oswald Jonas and Felix Salzer.
+1937-38.
+This publication
+contains a number of artiVienna:Krystall-Verlag.
+cles and analyses,
+a few of which have been listed above, which are related to Schenker's theories.
+Franz.
+Eibner,
+Denken",
+'Chopins
+Kontrapunktisches
+(Internationale
+Chopin-Gesellschaft).
+Wien:Amalthea-Verlag,
+
+1956
+
+Chopin-Jahrbuch
+pp. 103-122.
+
+The Music Forum,
+edited by William
+J. Mitchell
+New York:
+and Felix Salzer.
+Columbia
+Press.
+Vol. 1(1967):
+Peter.
+"Mode and PolyUniversity
+Bergquist,
+around 1500:
+and Practice";
+J.
+William
+'The Tristan
+Mitchell,
+phony
+Theory
+Prelude:
+and Structure";
+Felix.
+Salzer,
+Techniques
+"Tonality in Early Medieval
+Toward a History of Tonality".
+Polyphony:
+Vernon L. 'The
+Kliewer,
+Ph.D.
+sis'.
+Dissertation,
+
+Concept
+Indiana
+
+Ernst.
+'The Dramatic
+Oster,
+Vol. 2, No. 3(April,1949),
+pp.
+Ernst.
+'The
+Oster,
+Vol. 1, No. 4(1947),
+
+of the
+
+Character
+269-285.
+
+in Music',
+
+Felix and Carl Schacter.
+Salzer,
+New York: McGraw-Hill
+Leading.
+
+Travis,
+Music,
+
+W. E.
+"A Clarification
+1952.
+of Indiana,
+
+Journal
+
+Otto.
+'Carl
+pp. 222-279.
+
+Philipp
+
+Musicology,
+
+to Beethoven",
+
+Musicology,
+
+of Music
+
+Theory,
+
+in Composition:
+Counterpoint
+Book Company,
+1969.
+of the
+
+Tonality
+
+Emanuel
+
+Concept",
+
+and Webern",
+pp. 84-89.
+Bach
+
+als
+
+and Analy-
+
+Criticism
+
+Overture',
+
+Egmont
+
+Tribute
+
+'Directed
+Motion in Sch6nberg
+Roy.
+Vol. 4, No. 2(Spring-Summer,
+1966),
+
+Vrieslander,
+Musik(1925),
+
+Unity in Music
+1961.
+
+Fantaisie-Impromptu--A
+pp. 407-429.
+
+William.
+Reynolds,
+'Unity
+1958), pp. 97-104.
+(April,
+
+Thomson,
+University
+
+of Organic
+University,
+
+Vol.
+
+A Study
+
+2,
+
+No.
+
+1
+
+in Voice
+
+Ph. D Dissertation,
+
+of New
+
+Perspectives
+
+Theoretiker",
+
+Von Neuer
+
+Peter.
+"Some Problems
+in Rhythmic
+and Analysis",
+Westergaard,
+Theory
+of New Music,
+Vol. 1, No. l(Fall,
+1962), pp. 180-190.
+spectives
+
+Per-
+
+34
+R
+
+E
+
+F
+
+E
+
+R
+
+E
+
+N
+
+C
+
+E
+
+S
+
+1
+
+An attempt to formulate
+a theory of the twelve-tone
+to Schensystem
+analogous
+ker's theory of tonality is mentioned
+'Toward
+by Michael Kassler in his article,
+a Theory
+That is the Twelve-Note-Class
+of New Music,
+Perspectives
+System",
+Vol. 5, No. 2(Spring-Summer
+1967), footnote 53.
+
+2
+
+The word theorist
+should be emphasized
+the importance
+and influence of composers
+musical
+tieth-century
+thought.
+
+3
+
+of course,
+intended many of his ideas to relate directly
+or indirectly
+Schenker,
+to performance.
+The influence
+of his ideas on two prominent
+musicians,
+Wilhelm Furtwangler
+and Bruno Walter, is pointed out by Allen Forte in his article,
+'Schenker's
+of Musical
+Structure"
+Vol.
+(Journal of Music Theory,
+Conception
+devotes
+a chapter to Schenker
+in his book, Ton
+3, No. 1, pp. 1-2).
+Furtwangler
+und Wort (Wiesbaden:
+F. A. Brokhaus,
+1954), and Walter acknowledges
+Schenker's influence
+in his autobiography,
+Theme and Variations
+(New York: Alfred
+A. Knopf, 1947).
+
+4
+
+of Schenker
+A biography
+to be published
+by Oswald Jonas,
+in preparation.
+I would hope that some of this information
+that publication.
+
+5
+
+the first volume of Neue musikalische
+Harmonielehre,
+Theorien
+und Phantasien,
+- in 1906
+was first published
+anonymouslyby an artist [von einem KUnstler]
+The publication
+by J. G. Cotta, Stuttgart.
+rights were taken over by Universal
+Edition at a later date.
+
+6
+
+Oswald Jonas,
+Mann Borgese
+
+7
+
+Part
+Part
+
+8
+
+Two of those who have reviewed
+Modern Music,
+by Theory",
+Dahlhaus
+(Die Musikforschung,
+
+9
+
+The relationship
+between these concepts
+and the foreground
+of a composition
+has
+block for many.
+It is impossible
+to grasp their meaning and
+proved a stumbling
+without having followed,
+of reduction
+significance
+which
+step by step, the process
+led Schenker to them.
+
+10
+
+Oswald
+
+Introduction
+to Schenker's
+Harmony,
+of Chicago Press,
+(Chicago:
+University
+
+1 of Kontrapunkt
+was first
+2 was published
+by Universal
+
+Jonas,
+
+here.
+In no way do I intend to belittle
+like Schoenberg
+and Webern on Twen-
+
+op.
+
+cit.,
+
+published
+by J.G.
+Edition in 1922.
+
+in Germany,
+is now
+will be included in
+
+translated
+by
+1954), p. ix.
+Cotta
+
+(Stuttgart)
+
+Elisabeth
+
+in 1910.
+
+this important
+work are Roger Sessions
+("Escape
+Vol. 15, No. 3. (1939),
+) and Carl
+pp. 192-197
+XII(1959),
+523-525).
+pp.
+
+p. xxiv.
+
+11 Jahrbuch III has been reviewed
+fur Musikwissenby Oswald Jonas (Zeitschrift
+schaft,
+and E.W. (Music and Letters,
+XV(1932-33),
+Vol. 12, No.
+pp. 92-94.)
+(1931), pp. 306-307.).
+12
+
+in Sketchform'
+'Five Analyses
+was published simultaneously
+by the David Mannes
+Music School (New York) under the direction
+of Hans Weisse,
+one of Schenker's
+students.
+an influential
+Weisse,
+teacher himself,
+was really the first to introduce Schenker's
+theories
+to this country in the 1930's.
+
+13
+
+Allen
+
+'Schenker's
+Forte,
+3(1959),
+Theory,
+p. 25.
+
+Conception
+
+of Musical
+
+Structure",
+
+Journal
+
+of Music
+
+3
+
+35
+
+14
+
+This translation
+has been reviewed
+by J. K. Andrews
+and William J. Mitchell
+37, No. 2(1956),
+pp. 180-182)
+Vol. 41, No. 1(1955),
+pp. 256-260).
+
+15
+
+I have
+Oster.
+
+16
+
+of Der freie
+Another translation
+State
+lished Ph. D. Dissertation,
+
+17
+
+of other essays
+and analyses
+are scheduled for publicaTranslation
+by Schenker
+This is also the case with The Music
+of this periodical.
+tion in future issues
+Uniand Felix Salzer (New York: Columbia
+edited by William Mitchell
+Forum,
+Press).
+versity
+
+18
+
+were particularly
+three sources
+The following
+helpful to me in compiling
+Ap'A UnionBibliographyof
+the Works of Heinrich Schenpendix D: Hest, Jeffrey.
+of Analysis",
+ker and Works Pertaining
+to the Schenkerian
+Queens ColSystem
+1968 (first draft, unpublished);
+of New York, February,
+lege of the City University
+School of Music,
+"Heinrich Schenker",
+Eastman
+Mast, Paul.
+May 1969 (bibliin
+"The Theories
+of Heinrich
+Schenker
+Slatin, Sonia.
+ography unpublished);
+1967 (bibliography).
+Columbia University,
+Ph.D.
+Dissertation,
+Perspective",
+
+19
+
+A completely
+revised and enlarged
+for publication
+and is scheduled
+1969.
+
+20
+
+An attempt to organize
+Schenker's
+ideas into textbook form has been made by
+Tonal
+in his book, Structural
+Felix Salzer
+(also a Schenker
+student)
+Hearing:
+in this book are
+in Music.
+Coherence
+However,
+many of the ideas presented
+either those of the author or his own personal
+adaptation of those of Schenker.
+For this reason, Structural Hearing was not intended nor should it be considered,
+ideas.
+of Schenker's
+as is often the case,
+as truly representative
+
+21
+
+to Schenker's
+IntroOther informative
+introductions
+ideas are: Oswald Jonas,
+of
+Mann Borgese (Chicago:
+trans. by Elisabeth
+ductionto
+University
+'Harmony",
+"Musical Synthesis
+as
+1954); Arthur Waldeck and Nathan Broder,
+Chicago Press,
+Vol. II, No. 4(1935));
+(The Musical Mercury,
+Expounded by Heinrich Schenker"
+'Structural
+Review of Salzer's
+Milton Babbitt,
+Hearing" (Journal of the AmeriVol. 5, No. 3(Fall 1952), pp. 260-265.
+can Musicological
+Society,
+
+22
+
+review of Schenker's
+One such criticism
+'Harmony",
+appears in H. K. Andrew's
+of
+Mann Borgese (University
+edited by Oswald Jonas and translated
+by Elisabeth
+Besides
+Vol. 37(1956), pp. 180-182.
+1954), in Music and Letters,
+Chicago Press,
+basis
+of an (albeit modified)
+acoustical
+his objection
+to Schenker's
+"acceptance
+for
+him for his "almost
+for harmony",
+Andrews criticizes
+complete
+disregard
+before the time of
+of music and musical
+the history and development
+technique
+J.S.
+Bach".
+
+23
+
+theories
+as being static is Leonard
+Schenker's
+Another who has characterized
+of Chicago Press,
+University
+Chicago:
+Meyer (Emotion and Meaning in Music,
+1956, pp. 52-54).
+
+24
+
+Milton Babbitt.
+Review
+American
+Musicological
+
+seen a copy of Dunn's translation
+It is handwritten
+and reproduced
+
+of Kontrapunkt,
+by Opolograph,
+
+Vol.
+(Music and Letters,
+(The Musical
+Quarterly,
+
+Part II, owned by Ernst
+of Edinburgh.
+University
+
+Satz was done by T. Howard
+of Iowa, 1960).
+University
+
+Krueger
+
+(Unpub-
+
+edition of this book is being prepared by Jonas
+in the fall of
+Edition (UE26202)
+by Universal
+
+"Structural
+of Salzer's
+Hearing" in the Journal
+Vol. 5, No. 3(Fall 1952), p. 262.
+Society,
+
+of the
+
+30
+
+25
+
+Vol. 12,
+Modern Music,
+'Heinrich
+Schenker's
+Contribution",
+Roger Sessions.
+A more vehement
+on the same subject
+can be
+attack by Sessions
+No. 4(1935).
+Vol.
+found in "Escape by Theory'
+(A review of Der freie Satz), Modern Music,
+15, No. 3(1938).
+
+26
+
+Michael Mann.
+Vol. 10(1949),
+
+27
+
+Paul Henry Lang.
+1946), pp.296-302.
+
+28
+
+In "Heinrich Schenker
+und grosse Interpreten"
+(Osterreichische
+Musikzeitscrift,
+was a practical
+musiDecember,
+1964), Oswald Jonas points out that Schenker
+He also indicates the
+cian (composer,
+critic) as well as a theorist.
+performer,
+ideas have had on performance.
+impact Schenker's
+
+29
+
+Tone Structures
+has been reviewed
+by Hans Keller (Music and
+Contemporary
+Vol. 32, No. 2(1956),
+and Howard Boatwright
+(Journal of
+Letters,
+pp. 187-189)
+A rebuttal
+Vol. 1, No. 1(1957),
+Music Theory,
+pp. 112-118).
+by Forte to the
+in the Journal of Music Theory,
+Vol. 1, No. 2, pp. 201-205,
+latter was published
+in the following
+and Boatwright's
+answer
+was published
+issue,
+subsequent
+pp.
+85-92.
+
+30
+
+to Musical Tradition
+has been reviewed
+Challenge
+by Percy M. Young (Music
+Vol. 28, No. 4(1947),
+and Letters,
+and Paul Henry Lang (Editorial,
+pp. 390-391)
+The Musical Quarterly,
+The latter is more
+Vol. 32, No. 2(1946),
+pp. 296-302.
+of an attack on Schenker
+of Miss Katz's book.
+than an evaluation
+
+31
+
+Structural
+Hearing has been reviewed
+by Milton Babbitt (Journal of the American
+Vol. 5, No. 3(1952),
+Nathan Broder
+(The
+Society,
+Musicological
+pp. 260-265),
+Musical Quarterly,
+Vol. 39, No. 1(1953),
+and Norman Lloyd [pro]
+pp. 126-129),
+and Oswald Jonas [con] (Notes,
+Vol. 10, No. 3(June,
+1953), p. 438 and p. 439).
+In the Introduction
+to Schenker's
+Mann Bor"Harmony" (translated
+by Elisabeth
+Jonas criticizes
+Salzer as follows:
+gese),
+
+"Schenker's
+pp. 16-17.
+Editorial.
+
+Contribution
+
+The
+
+to Music
+
+Musical
+
+Theory",
+
+Quarterly,
+
+The Music
+
+Vol.
+
+32,
+
+No.
+
+Review,
+
+2(April
+
+Recently an attempt was made to offset this objection [that Schenker's
+theory
+is too 'narrow' and 'lopsided']
+ideas to modern music
+by applying Schenker's
+and its interpretation:
+'Structural
+Salzer
+(New York:
+Hearing'
+by Felix
+Charles
+Such an attempt was possible
+Boni, 1952).
+only through misinterof Schenker's
+basic theories,
+first of all his concept of tonality,
+pretation
+and therefore
+is failed to doom.
+(footnote 2, p. viii)
+32
+
+Much of the third part of Structural
+is concerned
+with the analysis
+of
+Hearing
+older music.
+The application
+of Schenker's
+ideas to the analysis
+of this music
+was begun by Salzer
+in his earlier
+Sinn und Wesen der abendlandischen
+work,
+(Wien: Saturn-Verlag,
+1935).
+Mehrstimmigkeit
+
+33
+
+A textbook on counterpoint
+which is strongly
+influenced
+ideas has
+by Schenker's
+been published:
+in Composition
+(New York: McGraw-Hill,
+recently
+Counterpoint
+1969) by Felix Salzer and Carl Schachter.
+
+37
+
+34
+
+A response
+to this article by Ernst Oster marks the beginning of an interesting
+In 'Re: A New Concept of Tonality(?)"
+(Journal of Music Theory,
+controversy.
+Vol. 4, No. l(April,
+Oster criticizes
+Travis on a number of
+1960), pp. 85-98),
+His main criticism
+centers
+around Travis'
+total reliance
+on Salzer's
+points.
+A number of errors in
+Structural
+and ideas.
+Hearing as a source of information
+of the Chopin and Mozart pieces
+his analyses
+are detected
+and Oster points out
+of one of the same pieces was never consulted.
+that Schenker's
+He also
+analysis
+Travis for his failure to indicate the differences
+criticizes
+between his approach
+and Schenker's.
+Salzer for making similar modAlong the way, Oster criticizes
+in Schenker's
+ideas and his failure to document these changes.
+ifications
+In a Letter to the Editor (Journal of Music Theory,
+Vol. 4, No. 2(November,
+Hans Neumann
+to Oster's
+criticisms
+of Salzer's
+1960), pp. 274-275),
+responds
+Structural
+Oster for misrepresenting
+He criticizes
+Salzer's
+intentions
+Hearing.
+for implying
+Salzer had "belittled'
+for
+that
+work.
+Schenker's
+Neumann states
+that Salzer had given Schenker
+sufficient
+credit and therefore
+was under no obfrom dogmatism
+and orthodoxy".
+ligation to "account for every single departure
+Otherwise
+he does not discuss
+of Oster's
+the merits
+criticisms
+of Salzer's
+and
+extensions
+Travis'
+of Schenker's
+ideas.
+Oster's
+point of view is defended
+by Arthur Komar in his Letter to the Editor
+Music Theory,
+Vol. 5, No. l(April
+(Journalof
+1961), pp. 152-156).
+Komarpoints
+tothe fact that Salzer departs from Schenker
+even in his approach to traditional
+music.
+He gives three examples
+of instances
+where their analyses
+of pieces by
+and Chopin differ.
+And although he does not feel it was necessarily
+Beethoven
+to do so, Komar states
+Salzer's
+that it would indeed clarify the
+responsibility
+if all departures
+from Schenker
+situation
+were documented.
+Komar's main obsource of their
+jection is to those who "cite Structural
+Hearing as the published
+of Schenkerian
+techniques".
+knowledge
+Roy Travis is included in those he mentions.
+
+35
+
+A review of this book by Mosco
+32, No. 2(1951),
+pp. 177-180.
+
+36
+
+Cooper,
+Chicago:
+
+37
+
+A better analysis
+of the opening
+Method of Analysis"
+Schenker's
+Adele Katz.
+9) by
+Example
+
+38
+
+One example of this is "Unity in Music" (Journal of Music Theory,
+Vol. 2, No.
+1959), pp. 97-104) by William H. Reynolds.
+name
+l(April,
+Although Schenker's
+is never mentioned,
+a number of ideas and terms generally
+associated
+with his
+to music
+are used by the author.
+In "Re: Analysis
+and Elementary
+approach
+Vol. 2, No. 2(November,
+1958), pp. 240Harmony" (Journal of Music Theory,
+Gettel disagrees
+with many of the statements
+249), William
+contained
+in the
+article.
+Gettel also makes use of a number of ideas and terms generReynolds
+with Schenker's
+name.
+(Schenker and Salzer's
+Structural Hearing
+ally associated
+are mentioned
+in footnote 1.) In "Re: Analysis
+and Unity" (Journal
+of Music
+Vol. 3, No. l(April,
+1959), pp. 140-147),
+to Gettel's
+Theory,
+replies
+Reynolds
+criticisms.
+
+Carner
+
+was published
+
+Grosvenor
+and Leonard B. Meyer.
+The University
+of Chicago Press,
+
+in Music
+
+The Rhythmic
+1960.
+
+and Letters,
+
+Structure
+
+measures
+of this piece is contained
+Vol. 21,
+(The Musical Quarterly,
+
+Vol.
+
+of Music.
+
+in "Heinrich
+No. 3(1935),
+
+

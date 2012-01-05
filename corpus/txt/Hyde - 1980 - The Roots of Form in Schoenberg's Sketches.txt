@@ -1,0 +1,2153 @@
+Yale University Department of Music
+
+The Roots of Form in Schoenberg's "Sketches"
+Author(s): Martha MacLean Hyde and Schoenberg
+Source: Journal of Music Theory, Vol. 24, No. 1 (Spring, 1980), pp. 1-36
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843737
+Accessed: 15/12/2009 16:00
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE ROOTS OF FORM IN
+
+SCHOENBERG'S SKETCHES
+
+Martha MacLean Hyde
+
+Descriptive titles seem preferableon the whole, but I was tempted
+to call this paper "SchoenbergIs Alive" because my principalaim will
+be to reversethe conclusions advancedby PierreBoulez under the title
+"Schoenberg Is Dead." Boulez published his prematureobituary for
+Schoenberg'sinfluence in 1952, but its argumentsstill merit consideration for two reasons. First, it remains the most forceful and concise
+expression of difficulties that Boulez found in Schoenberg'smethodone he has never retracted,but rather reiteratedand extended in later
+works. Second and more important, Boulez's criticisms, though
+severely challengingSchoenberg'sachievement,have been neglected by
+all but a very few scholars.2 Schoenberg'sinfluence will obviously not
+live or die on scholarlycommand,but Boulez's criticism,and I hope my
+reply, are valuable because they help us better to understand the
+method and the achievementof his music.
+resourcesof Schoenberg's
+Of the two major apparentdifficulties in Schoenberg'stwelve-tone
+method, what might be called "the harmonicproblem"and "the form
+problem," Boulez concentrates on the latter-the potential of the
+method to sustain extended forms comparable to those of tonal
+compositions. Against the common view that Schoenbergwent too far
+in trusting to a method that lacks structuralprinciplescomparableto
+1
+
+those of tonal harmony,3 Boulez, the second-generation
+avant-gardist,
+asserts that Schoenberg did not go far enough. In Boulez's view,
+Schoenbergfailed to explore the potential of the twelve-tonemethod to
+generateits own forms.
+This explains a certain weaknessin most of [Schoenberg's] twelveand classicalforms ruling most of his
+tone works. The pre-classical
+compositions were in no way historicallyconnected with the twelvetone discovery;the result is that a contradictionarises between the
+forms dictated by tonality and a language[the twelve-tonemethod]
+of which the laws of organizationare still only dimly perceived.It is
+not only that this languagefinds no sanction in the forms used by
+Schoenberg,but something more negative:namely, that these forms
+rule out every possibility of organization implicit in the new
+material.4
+Boulez complains further of Schoenberg'suse of "clich6s typical of a
+romanticism at once ostentatious and outmoded," in particular
+accompanied melody, counterpoint based on principaland subsidiary
+voices (Hauptstimme and Nebenstimme), rhythmic structurebased on
+broken chords, and repetistrong and weak beats, false appoggiaturas,
+tions. These complaints lead to the conclusion that Schoenberg's
+twelve-tone music did not escape the basic principles of the tonal
+language,as Schoenbergalwaysclaimed,becauseit maintainedmelody,
+harmony,and counterpointas separatefunctions.5
+Whether,in the common view, from going too far or, in Boulez's
+view, from not going far enough, it is clear that Schoenberg'smethod
+is at least gravelyill by his own standards
+unless one can show that the
+forms and phrases he employs, though they may seem pre-classical
+or
+classical, are not tonal cliches, and do not rule out the possibilitiesof
+implicitin twelve-tonecomposition, but ratherfulfill them.
+organization
+That is what this paper attempts to do with the help of Schoenberg's
+manuscriptsketches. In this initial study, I will have to concentrateon
+Schoenberg'stechniques for structuring phrases, the smallest formal
+units of his compositions, and his techniques for motivic variationand
+development. Far from incorporatingtonal clich6s, these techniques
+provide the means by which Schoenbergwas able to build up extended
+forms usingtwelve-toneproceduresalone.
+It may be helpful first, however,to see what claims Schoenberghimself made for the formal resources of the twelve-tone method. They
+hardly bear out Boulez's contention that even "though Schoenberg's
+work is essentially experimental, it lacks ambition."6 Statements in
+Schoenberg'spublicationsthroughoutthe 1920's and 30's show that he
+wasambitiouspreciselywhere Boulez would find him timid-in developing the twelve-tonemethod's potential for extended forms:
+2
+
+It is evident that abandoningtonality can be contemplated only if
+other satisfactory means for coherence and articulation present
+themselves.
+From the very beginning,this was clear in my mind: tonality's aids
+to articulation having dropped out, one must find some substitute,
+so that longer forms can once more be constructed.7
+Implicit in these sentences is Schoenberg'sconfidence that his method
+did provide its own means for coherence and articulation-satisfactory
+substitutes for tonal techniques-but other statements make this claim
+explicit. In "Composition With Twelve Tones," his manifesto first
+presentedin 1934 and publishedin 1950, he proclaimssuccess:
+After many unsuccessfulattempts duringa period of approximately
+twelve years, I laid the foundations for a new procedurein musical
+constructionwhichseemed fitted to replacethose structuraldifferentiations providedformerlyby tonal harmonies.8
+Toward the end of his life, the claim became even stronger,the success
+less ambiguous:
+Forty yearshave since provedthat the psychologicalbasis of all these
+changes was correct. Music without a constant reference to a tonic
+was comprehensible....9
+
+In most of these statements,Schoenbergwas respondingto scepticism
+about his method that would receive something like definitive form in
+Boulez's article. But his declarationsrarely satisfied his critics, either
+then or now. When pressed further by those he sometimes called his
+"inquisitivetormentors,"he tended to become mystical, or to resortto
+vague analogies with tonal music, or to impugn the imagination and
+intelligenceof his critics:
+Who can say today how a principalsubject must be built up. What
+one must do that it may hold together?... Who can say how a fluid
+form is solidified, how an introduction or a development must be
+evolved? He who can do these things and knows will not be in doubt
+as to whetheror not tonality must be restoredto achieve form.10
+Schoenbergmaintainedthis Buddha-likereticenceabout his techniques
+for buildingup extended forms, but the claim that those who say don't
+know and those who know don't say hardly silenced the talkers. The
+manuscriptsketches show clearly that Schoenbergpreferredto suffer
+his inquisitive tormentors in enigmatic silence rather than join in the
+chatter by divulgingthe techniques he had worked out for achieving
+form. Whenhe did respond, he was evasive, if not quite misleading,as
+the sketches show. They are therefore crucially important in under3
+
+standingSchoenberg'ssystem, for they make clearwhat he kept hidden
+-how an extended form can be derivedfrom a single twelve-tonerow.
+I need to begin by reviewingsome principlesof twelve-toneharmonic
+structurewhich I have discussedelsewhere,becauseharmonicstructure
+is the foundation upon which Schoenbergbuilds extended form.'1 It
+will be convenient and appropriateto use examplesfrom Schoenberg's
+lecture "Composition With Twelve Tones," for it representshis only
+sketches, illustrate
+manifesto, and its examples, with the corresponding
+the fundamentalprinciplesof twelve-toneharmony.
+Part way through an early version of "Composition With Twelve
+Tones," Schoenberg advances an ambiguousredefinition of what constitutes a harmonyunderhis new method:
+I... arrived at the concept whereby the vertical and horizontal,
+harmonicand melodic, the simultaneousand the successivewere all
+in reality comprisedwithin one unified space. It followed from this
+that whateveroccurs at one point in the space, occurs not only there
+but in every dimensionalaspect of the spatialcontinuum,so that any
+particularmelodic motion ... will not only have its effect upon the
+harmony, but on everything subsequent that is comprised within
+that spatialcontinuum.12
+Schoenberg,then, does not conceive of a harmony as merely a vertical
+event with pitches sounding simultaneously, but asserts that melodic
+events also have harmonic implications. He proposes that a legitimate
+harmony comprisesall pitches, either simultaneousor successive,which
+are temporarilyassociated or, as he describesit, "comprisedwithin the
+same spatialcontinuum."
+One of the examplescited in "CompositionWithTwelve Tones" will
+clarify Schoenberg's rather obscure concept of "multi-dimensional
+musical space" and show precisely its importancefor harmonic structure, and also for form. This example (Example 1) contains the opening
+phrase of the Minuet from the Piano Suite, Op. 25. Schoenberg
+points out that the basic set, which is partitionedinto three tetrachords,
+is presentedin an irregularfashion: "The melody begins with the fifth
+tone, while the accompaniment, much later, begins with the first
+tone."13 (In this and the following examples,the pitches are labelledby
+order numbers 1 through 12.) Schoenberggives two reasons to justify
+this irregular presentation: first, the Minuet represents the fifth
+movement of the Suite so that the basic set has become sufficiently
+familiar,and second, each tetrachordmaintainsthe correct orderingof
+its pitches and consequently each tetrachordcan function as an independent small set. But Schoenberg stops short of explaining what
+criteriacontrol how these tetrachordsare used independently.Analysis
+of the harmonic structureof this example revealssome of his criteria,
+4
+
+A
+
+A
+
+A
+A
+BasicSet: E F G Dflat G-flat E-flat /A-flat D B C A B-flat'
+
+Example 1. Suite, Op. 25, Minuet
+Copyright 1925 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+5
+
+for it exposes two connected dimensions. The first, which can be
+termed the "primarydimension,"includes the entire phraseand simply
+reproducesthe twelve successive pitches of the basic set. That is, the
+"primary harmonic dimension" contains contiguous elements of the
+basic set and occurs with each of its orderedstatements. The second,
+the "secondary dimension," spans each individualmeasureand represents two hexachordal harmonies (marked A) which contain pitches
+that are non-adjacentin the basic set, but which are equivalent to its
+principal hexachord. "Equivalent" here means that they are not
+identical, but rather are unordered and related by transposition or
+inversion or both. In other words, measure 1 unfolds a hexachordcontaining pitches with the non-successiveordernumbers1, 2, 5, 6, 7, and
+8, but this harmony is equivalentto (in fact, is an inverted transposition of) the pitches with the successiveordernumbers1, 2, 3, 4, 5, and
+6. Similarly,the second measureunfolds a hexachordcontainingpitches
+in
+non-adjacent the row, but againequivalentto the principalhexachord
+of the basic set. Notice that while the hexachordsin both measuresare
+equivalent to the principalhexachord of the basic set, the orderingof
+their respective pitches differs from those in the basic set. Thus, even
+though this secondaryharmonic dimension contains hexachordswhich
+are inversionsor transpositions(or both) of the principalhexachordof
+the basic set, they are not presented by the same succession of
+14
+intervals.
+This simple example shows how Schoenbergcould legitimatelyassert
+that a single twelve-tone row can integrate all harmonicand melodic
+dimensionsof a composition, andalso shows the rudimentary
+techniques
+implied by that assertion. Scholarsand composershave misunderstood,
+however, and would assertthat becausepitches adjacentin the example
+are not adjacentin the row, Schoenberghas had to impose an arbitrary
+harmonicstructureon his theme in orderto generatea complete musical
+texture, since the row itself was insufficient to generateone. 1 Boulez
+does not mention this example in "SchoenbergIs Dead,"but it is easy
+to infer his position from other argumentsand examples.16 No doubt
+he would complain that Schoenberg'sattempt to combine the twelvetone method with the tonal form of the minuet involvedhim in arbitrary
+and contradictory restrictions. The accented downbeats and two-bar
+phrases requiredin a minuet, Boulez would argue, block a rhythmic
+and harmonic structure uniquely serial. But, as this example shows,
+two
+Schoenberg's simultaneousdimensionsof harmonicstructureclearly
+delineate a two-bar phrase subdivided into two measures of equal
+length. The minuet form is thus not a tonal convention arbitrarily
+imposed, but ratheris re-created
+throughtwelve-tonetechniquesalone.
+Example 1 is worth a moment more, because it conveniently
+demonstrates three principles of Schoenberg'smethod for organizing
+6
+
+harmonicstructure. First, twelve-tone harmoniesneed not be simultaneous, that is, they need not occur only in the vertical dimension. In
+Schoenberg'sidea of "two-or-more-dimensional
+space" no categorical
+distinctionexists between the verticaland the horizontal.Consequently,
+he no longer defines harmoniesas vertical simultaneities,but ratheras
+pitches occupying the same "spatialcontinuum." This concept allows
+Schoenberg in Example 1 to regard the hexachord unfolded in each
+measure as an harmonic entity, even though its elements unfold
+successively.
+Second, a single harmonic event necessarily affects more than one
+dimension. In Example 1, for instance, each pitch functions simultaneously in two different harmonic dimensions. This principle is
+confirmedby statementsin "CompositionWithTwelveTones."
+Any particularmelodic motion-for instance, a chromaticstep-will
+not only have its effect upon the harmony, but on everything
+subsequent that is comprisedwithin that spatialcontinuum .... This
+circumstance. . . enables the composer to assign one part of his
+thinkingto ... the vertical,and anotherin the horizontal.17
+Because, in Schoenberg's view, musical ideas necessarily affect both
+vertical and horizontal dimensions, a composer must structure both
+he
+simultaneously; cannot merely attend to the unfoldingof the row.
+Third, and most important, the order of the twelve pitch-classes
+defines the harmoniesof the basic set, but it defines them primarilyby
+intervallic content rather than by pitch-classcontent. In Example 1,
+for instance, the harmonies marked A in the composition contain
+entirelydifferentpitches from those markedA in the basic set, but have
+identical total intervalliccontent. Moreover,these harmoniesneed not
+be presented by the same succession of intervals,that is, the internal
+ordering of their pitches need not be the same. Notice that the
+harmoniesmarkedA are, in fact, stated by entirely different intervallic
+patterns; consequently the ordering of their respective pitches is not
+identical. But because they all are related by transpositionor inversion
+or both, their total intervalliccontent is the same.
+This view of how the basic set generates harmonic structuresin
+several dimensions is confirmed repeatedly by Schoenberg'scompositional sketches. One of them, a sketch for the String QuartetNo. 4,
+Op. 37, given in Example 2, shows him working out a harmonicstructure similarto that of Example 1.18 In this sketch he searchesfor a pair
+of complementaryhexachordscomprisedof pitches non-adjacentin the
+row but still equivalent to the principalhexachord of the basic set. He
+has written two combinatoriallyrelatedrow forms which I have labelled
+PO and Is. Schoenberghas stemmed the pitches of the first and third
+trichords of Is and connected them with a beam, and done likewise
+7
+
+Used by permission of Belmont Music Publishers, Los Angeles, CA.
+
+(transcription)
+
+I
+II I
+
+I
+
+I
+
+I
+
+j~~~
+I
+
+I
+
+[P01
+
+db
+
+IF)
+
+(j
+
+11
+11
+I
+
+"I I
+
+d
+
+i
+I
+
+ir t 'r 'i
+. .
+I
+
+I
+
+i
+
+I
+
+b
+
+Example2. Sketch for StringQuartetNo. 4,
+
+8
+
+a,44
+
+F
+
+(I
+
+37
+Op. (#1 03 1)
+
+with the pitches of the second and fourth trichords. This procedure
+divides the row into two complementaryhexachords,each containing
+non-adjacentpitches in the row. (Notice that the verticallines between
+the row forms indicate the pitches occupying similarpositions in both
+row forms.) Schoenberghas also considereda second pair of complementary hexachordswhich he indicated with beams above P. The first
+beam connects non-adjacentpitches with order numbers 1, 3, 4, 7, 9,
+and 10; the second beam connects pitches with the remainingorder
+numbers 2, 5, 6, 8, 11, and 12. Schoenbergapparentlydecided, however, that this second pair of hexachordswas unsatisfactoryand crossed
+out the hexachord indicated by the second beam above P. Whatwas
+wrong with this pair of hexachords?If one examines the structureof
+both pairs of hexachords, one discovers that only the pair marked
+below Is is equivalent to linear segments of the row. In fact, they
+represent transpositionsor inversions (or both) of the principalhexahis
+chord. Probablyas an aid to memory, Schoenbergsummarized findin the table to the right of the sketch. Notice that below Is he has
+ings
+labelled the trichordswith the letters d, b, c, and a, and then tabulated
+all the possible pairingsof trichords,using a vertical line to mark the
+four trichord pairs (db, ac, ab, and ca) which represent either the
+principalhexachordsor equivalentforms of the principalhexachords.19
+The method shown in Example 2 works throughout the Fourth
+Quartet to generateharmonicstructure,but it also providesa foundation for the larger-scalestructures that are the topic of this essay. In
+Example 3 the same method-use of hexachords equivalent to the
+principalhexachords of the row-can be seen structuringthe opening
+theme of the first movement. The theme consists of a melody presented
+three instruby the first violin with an accompanimentby the remaining
+ments. The melody contains one complete statement of the basic set
+partitioned into four trichords, which I have marked a, b, c, and d.
+The other instruments accompany each trichord of the melody with
+three chords representingthe three remainingtrichordsof the row. The
+phrase thus contains four complete statements of the same row form,
+and each accompanyingchord, taken with the melodic trichord,forms
+a hexachord that is either a linear segment of the row or equivalentto
+one. Upper case letters show the successionof hexachordsin the phrase
+and their equivalent forms in the basic set. Like Example 1, Example3
+displays two harmonic dimensions derived from the basic set. The
+primary dimension simply representsfour complete statements of the
+row, while the secondary dimension binds together the melody and
+accompanimentby hexachords either identical or equivalentto linear
+segments of the row. If we neglect Schoenberg's redefination of
+harmoniesby their intervalliccontent ratherthan pitch content, we will
+9
+
+A
+
+Allegro molto, energico
+a~~~
+rIr
+
+r
+
+A-
+
+-1
+
+AIA A
+
+I
+
+A
+
+A
+
+I
+
+b
+JH.7FI---b
+
+-, r
+
+A
+
+ff
+
+i ~~
+?r4
+
+A
+A
+
+~
+
+A
+
+c
+A
+
+A
+
+B
+
+9
+
+A
+
+%d
+
+a
+
+b
+
+A
+
+A
+
+A
+
+B
+
+A~~~~~~fC
+
+b
+
+A
+
+A
+
+A
+
+A
+
+d g-a
+
+A
+
+BasicSe-.' D C-sharp A,,B-flat F E-flat"E C A-flat,,G F-sharpB'
+B
+B
+
+37,
+Example3. StringQuartetNo. 4, Op. mm. 1-6
+
+10
+
+Copyright 1939 by G. Schirmer, Inc., New York.
+Used by permission.
+
+be mystified here by his claim to deriveall harmonicdimensionsfrom a
+singlebasic set.20
+Examples 1 and 3 show Schoenbergassociatingnon-adjacentpitches
+of the basic set to create equivalentforms of the principalhexachord
+and using these hexachords to connect several harmonic dimensions
+within a single row form. Perhapsmore often, this same techniquebinds
+together several different row forms, creating a harmonic dimension
+that determines the length of an individual phrase. Consider, for
+example, a phrase from the Suite, Op. 29, (Ex. 4), which contains four
+combinatoriallyrelated row forms, labelledP9, 12, 4, and Pll. Schoenberg's designationof the principalvoices by the signs "H-" and "N-,"
+dividesthe phraseinto these two melodic voices and an accompaniment.
+If we examine the harmonic structure of these voices, each of which
+contain pitches extracted from four different row forms, we discover
+that Schoenberg repeatedly uses forms of the principalhexachordto
+connect the four row forms into a single phrase. The voice marked
+"H-" unfolds two occurrences of the principal hexachord (marked
+"A") each containing pitches from two different row forms. Moreover, the entire voice of fourteen pitches contains only six different
+pitch-classesand thus unfolds only one form of this hexachord. The
+voice marked "N-" unfolds nine pitches but contains only six pitchclasses, which make one occurrence of the principal hexachord.
+(Notice that the hexachord is completed only with the entrance of
+the final pitch, B flat.) Becauseit spans all four row forms, this voice
+definesthe length of the phraseand also binds it into an indivisibleunit.
+The principalhexachord of the basic set lends itself well to this kind of
+and has only four distinct
+phrase structure, for it is all-combinatorial
+forms. Example 4 clearly shows, then, how intervallicpropertiesof the
+basic set can generate discrete phrases.It now is possible to understand
+more clearly why Schoenberghas included markingsdesignatingthe
+principalvoices. It is not merely to arbitrarilycreate a familiartonal
+texture of theme and accompaniment, but rather to indicate those
+voices unfolding discrete secondaryharmonicdimensionswhich define
+and unify individualphrases.It is importantto note that these secondary
+dimensionsare derivedfrom twelve-tone proceduresalone and are not
+in any sense dependentupon tonal procedures.21
+One common view of Schoenberg's techniques for structuring
+phrases has been analogous to the standardcriticism of his harmonic
+harmonic
+structure:the row itself judged to be incapableof generating
+texturesor extended forms, followed by the conclusion that Schoenberg
+has had to impose an arbitraryorder, one not derivedfrom the row.
+Phrases,in this view, are delineatedby changesin textural, rhythmic,
+or dynamic patterns.22 These surface features do, of course, mark
+phrasesin Schoenberg'stwelve-tonemusic, but they do not account for
+11
+
+P9,
+
+14
+
+12
+
+Pit
+
+41.
+A
+
+A
+BasicSet: A D-flat C E A-flat F'F-sharp E-flat D B-flat B G'
+
+Example4. Suite, Op. 29, Overture,mm. 105-108
+Copyright 1929 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+-
+
+*
+
+7
+
+1910 12-
+
+t
+: 12
+
+s
+
+'
+
+t
+
+Example5. WindQuintet, Op. 26, Andante
+12
+
+Copyright 1925 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+the shapethese phrasestake, that is, they do not explain what determines
+the unity of these phrases. This common view is as superficial as an
+account of sentencestructurethat attendedonly to commasand periods.
+A second, more fruitful, approachemphasizesthe use of invariantsand
+the combinatorialproperty to provide continuation and association.23
+Even this approach is less than complete for it often fails to explain
+what determinesthe shape and unity of discretephrases.In Example4,
+for instance, the combinatorialproperty explains why these four row
+forms are associated, but not why only four row forms appear.Moreover, while invariants insure smooth continuation between the four
+row forms, they again do not account for the unity of the phrase. In
+this example, the unity of the phraseis determinedby the violin line
+whose derivationis not directly dependent on either the combinatorial
+propertyor invariants.
+An additional example from "Composition With Twelve Tones"
+exhibits a second important method for buildingindividualphrases.In
+the lecture Schoenberguses the opening theme of the third movement
+of the Wind Quintet, Op. 26, which appears in Example 5, to
+demonstratewhathe calls a more "complicatedprocedurefor constructing themes." Within the theme, he says, there is a definite regularityin
+the distribution of tones, but he stops there, shrinking from an
+explanation that he says in an early versionof the lecture would be too
+complex.24 Example 5 is indeed complex, and I will point out only one
+of its more interesting features. The example consists of three repetitions of a single row form; thus, its primary dimension of harmonic
+structure is simply the ordered presentation of the row. A secondary
+dimension of harmonicstructureunfolds in the uppervoice, played by
+the horn. Notice that the successivepitches in this voice are mostly nonadjacent in the basic set. But in fact this upper voice consists of
+exactly the twelve pitches of the row and spans all three row forms.
+Even though the upper voice does not follow the order of the row, it
+does contain all of its pitches and consequently has the same total
+intervallic content. It is this secondary dimension of harmonic structure which joins the three repetitions of the basic set into a single
+phrase, and which Schoenberg referred to as a "more complicated
+procedurefor constructingthemes."25
+The desire to systematizefurtherthis procedurefor buildingphrases
+led Schoenbergto some of his most experimentalcompositions,including the StringQuartetNo. 3, Op. 30, and the StringTrio, Op. 45. In the
+Third String Quartet, for example, he uses not one, but three different
+forms of the basic set, even though in "Composition With Twelve
+Tones" he explicitly rejectsusing more than one. His row tables for the
+ThirdQuartet,partiallyreproducedin Example6, show that in all three
+forms of the basic set, the first five pitches occur in the same order,
+13
+
+Example6. Sketch for StringQuartetNo. 3, Op. 3
+
+Used by perm
+
+while the last seven pitches occur in three different orders.Schoenberg
+N
+labels the principalending as "M1 " (Mittelsatz Nachsatzl) and the
+two variantsas "M2N2" and "M3N3."26 We can discoverwhy Schoenberg has ignored his own principle that a composition have only one
+basic set if we analyze how he uses the three sets to design mutlidimensionalharmonic structures. One particularlyingenious structure
+integratesthe second principaltheme of the first movement. Example7
+shows the theme as it appears in what we might loosely call the
+beginning of the Recapitulation. It consists of six different row
+permutations (Pl, RIlo, Pll, Io, I4, RPi) which employ all three
+alternative orderings.The first permutation,PI, for example, uses the
+third ending which I have indicated by the (3) following the row label;
+the second permutation, RI10, uses the first ending, indicated by the
+(1); and so forth. Schoenberguses these alternativeendingsto construct
+a melody that spans and integrates the entire phrase. This melody,
+presented by the cello, uses two pitches from each row form and
+unfolds an ordered permutation of the principal basic set, labelled
+P7. The two pitches from each row form played by the cello always
+represent order numbers6 and 7, or 11 and 12 in the row they come
+from. Schoenberghas used only pitches with these order numbersin
+order to partition each row form into two five-note segments and one
+two-note segment, a partition which characterizesand dominates the
+entire movement. The alternative endings are thus required if the
+necessaryintervalsare to appearat these two points in the row. In contrast to Example 5, the harmonic dimensionthat forms the phrasenot
+only duplicates the intervalliccontent of the basic set (as of course it
+must), but also maintainsits exact successionof intervals.
+This example also displays the third, and perhapsmost importantof
+Schoenberg's techniques for building individual phrases. Within the
+accompanyingvoices he binds together successive row forms by constructingharmoniesequivalentto linearsegmentsof the basic set. These
+segments, however, are not limited to the principalhexachord, or the
+universalset, but occur in various sizes. The first violin, for example,
+unfolds a two-barharmony (markedA) which spans the first two row
+forms and is equivalent to the final seven-notesegment of the principal
+basic set (M1N1). The second violin likewise unfolds a two-bar
+harmony which spans the first two row forms (marked "B") and is
+equivalent to the nine-note segment markedB on the principalbasic
+set. A similarstructurebinds the next two row forms together with two
+different forms of the same eight-note harmony, markedC, which are
+equivalent to the linear segment marked C on the principalbasic set.
+The final two row forms are connected in the same way by two
+harmonies equivalent to the first seven-note segment of the principal
+basic set, marked D. Notice that because none of these equivalent
+15
+
+harmonies have the same succession of intervalsas the basic set, they
+relate to the basic set primarilythroughtotal intervalliccontent.27
+Example 7 shows Schoenbergcarefully associatingvariousorderings
+of the basic set in order to build a complex but unitary phrase.This
+phrase depends upon large harmonies,containing seven, eight, or nine
+pitches; earlier examples depended upon harmonies of six or twelve
+pitches. In general Schoenberg seems willing to use harmonies of any
+size from the basic set to connect the multiple dimensionsof harmonic
+structure, though he perhaps tends to prefer smaller ones. Consider,
+for example, the opening theme for the first movement again of the
+Third Quartet shown in Example 8a. It consists of two repetitions of
+the row form P7 which uses the first and second alternateorderingsof
+the basic set, respectively.The entire line presented by the first violin
+unfolds pitches contained in the final seven-note segment of the basic
+set, and the second violin and viola present the first five-note segment
+of the basic set. Of special interest is the four-noteharmonypresented
+by the cello which spans the entire theme and consists of the sixth and
+seventh pitches of both alternativeforms of the row. Notice that even
+though these pitches are not adjacentin either form, they nevertheless
+are equivalentto the harmonymarkedC on the basic set. A brief sketch
+for this theme, shown in Example 8b, shows Schoenbergmarkingwith
+brackets and bar lines this important harmonic relation. This sketch
+leaveslittle doubt that he regardsthese four pitches as a singleharmony,
+and their prominent position in the opening theme reflects their
+specialimportance.
+These last two examples are particularlyinterestingfor they show
+that Schoenbergis willing to modify one of the principaltenets of his
+system, that a composition should have only one basic set, in orderto
+produce harmonicallyintegratedphrases.These phrasesin turn, are the
+basic units, the building blocks of his extended forms. The remaining
+examples will further illustrate more extended forms and show how
+Schoenberg'sconcept of "developingvariation" grows from the same
+multiple dimensionsof harmonicstructurediscussedabove.
+Throughout his writings, Schoenberg consistently stresses the
+importance of "harmonic" or "developing variation" for building
+extended forms, but he fails to say how to managevariationby twelvetone techniques alone. Repetition, he says, is the basic principle of
+musical form, because form depends upon motives and motives can
+only be recognizedif they are repeated. Non-primitivemusic, he says,
+conceals its repetitions through variation and development, methods
+which allow forms to be built or shaped.28Schoenbergdefines variation
+as "changing some of the less important features of a musical idea,
+while preservingthe more important ones."29 The changing features
+create new ideas or themes, while the preserved features insure
+16
+
+Pll (2)
+
+RIlo(L)
+
+P (3)
+
+Io(2)
+
+RP,O)
+
+14(3)
+
+D
+8
+
+I,
+
+9
+.- :'',.
+
+I
+
+0
+
+II
+
+12
+
+r,
+
+.a ,
+
+I
+
+-
+
+<.10
+
+. ffi
+*
+
+f d
+
+/
+
+__/\
+
+118
+
+D
+
+-
+
+-
+
+Tt
+
+r
+
+^
+lirfV8
+
+_
+
+r
+
+1 l'
+
+'r 1
+
+f./
+
+D
+C
+BasicSet: G E' D-sharp A C F'F-sharp/ B B-flat D-flat A-flat D
+__
+
+A
+
+__
+
+\
+
+B
+
+Example 7. String Quartet No. 3, Op. 30, mm. 174-180
+Copyright 1927 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+17
+
+b>
+
+bA).
+
+6
+
+T
+_
+
+B-
+
+l-
+
+3
+
+E 'r
+
+9
+
+K e
+
+5
+
+4
+
+-- -
+
+?
+
+-
+
+-
+
+1
+
+p
+
+12
+
+gR
+
+-
+
+'3
+
+2
+
+34 2
+
+4
+
+t
+
+7
+P
+11
+
+P7(2)
+
+aJ
+
+r^
+
+R
+
+-
+
+zr
+
+_
+
+t *,
+1.J .^.^
+
+IA,
+
+-}
+
+B
+A
+BasicSet (1): 'G E D-sharp A C" FF-sharp B B-flat C-sharp,G-sharp
+D'
+C
+
+Example8a. StringQuartetNo. 3, mm. 5-12
+Copyright 1927 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+C,
+P7(l)
+P7(2)
+I
+
+I
+
+C
+8b. Sketch for StringQuartetNo. 3 (#999)
+Example
+18
+
+Used by permission
+
+of Belmont Music Publishers, Los Angeles, CA.
+
+coherence of form. It would seem that development differs from
+variationin that it changesorganicallyin a single directiontowardsome
+end. Variations can also change organically, of course, but to that
+extent they may be said to develop, ratherthan simply vary.
+In "Composition With Twelve Tones," Schoenberg says that the
+basic set functions as the motive, and its repetitionwith what he terms
+"developingvariation" generates form. The phrase "developingvariation" seems to insist on an integral and organic relation among the
+varied repetitions of the basic set. Schoenberg does discuss several
+examples of developingvariationin his lecture, but, as we soon discover
+from his sketches, his methods are more complex than he was able, or
+willing, to explain.
+One example, from the Suite, Op. 29, will demonstratethe variation
+uses to associatetwo phrasesin order to construct
+techniqueSchoenberg
+the "A" sections of a small ABA form. In a sketch for the Suite,
+(Ex. 9a), Schoenbergwrites "Wiederbreit, wie vorher (33)," referring
+to measure 33 where "wieder breit" previously occurred. The two
+passages appear in Examples 9b and 9c. Even though their soprano
+lines contain the same pitches (F sharp,G, D flat, C), differencesin row
+forms, texture, instrumentation, and rhythm apparently conceal the
+formal connection suggestedby the expressivemarkingand specifiedin
+the sketch. If we look more closely, however-beyond those tonal conventions Boulez finds so reactionary-we find that these phrasesare not
+connected merely by a mood or tempo marking,but that the primary
+and secondary harmonic dimensionsin both passagesare very similar.
+This feature is concealed from immediate view because the vertical
+harmoniesof the earlierpassageconsist of pitches that are adjacentin
+the row, while in the later passagethey consist of pitches that are nonadjacent. But, nevertheless,equivalentforms of the tetrachordsmarked
+"A" and "B" on the basic set dominate the verticalharmoniesof both
+passages. It is significant that only these two tetrachordsappearmore
+than once as linear segments of the basic set: tetrachord"A" occurs
+twice, and tetrachord"B" appearsthree times.
+By emphasizingthe same verticalharmoniesin both passages,even
+though in the first they are formed from adjacent pitches in the basic
+set and in the second largely from non-adjacentpitches, Schoenbergis
+able to vary, but at the same time associate,two separatepassages.This
+example helps us to understand more clearly Schoenberg's idea of
+"developingvariation"in which nonessentialfeatures of a musicalidea
+can change while essential ones recur.In this example,the nonessential
+features such as texture, instrumentation,and rhythm change almost
+beyond recognition, while the essentialfeature, the harmonicstructure,
+remains constant. This example also exposes the naivete of Boulez's
+criticism of Schoenberg's principle of developing variation. Boulez
+19
+
+*4~~
+,l e
+
+Example9a. SkizzenbuchV (Sk 612): Suite, Op. 29, Overture
+Used by permission of Belmont Music Publishers, Los Angeles, CA.
+
+(Pi )
+
+(RP,)
+3
+C=-L-"
+
+10
+
+9
+
+L
+
+3
+
+~~~~~5
+~ ~
+
+8
+
+9
+
+10
+
+11
+
+1
+
+VI.
+2ij
+
+_1
+
+11
+
+Vc
+
+8
+
+522
+
+):
+
+__
+
+'--I
+
+9-v-
+
+A BAB
+
+r -'
+
+-r--Tj
+
+C
+
+D C
+
+_
+
+_
+
+_
+
+I
+
+A
+
+C
+
+A
+
+Example9b. Suite, Overture,mm. 33-37
+Copyright 1929 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+20
+
+(11)
+
+(P6)
+
+Pf
+
+-r-
+
+(P6)
+
+'-*-' -
+
+L-r-
+
+A
+
+r
+
+B
+
+B
+
+-r-'
+"
+
+B
+
+E
+
+B
+
+1
+
+7
+
+1
+
+-r
+A A
+
+-'
+
+r'
+
+E
+
+'I-r
+
+B
+
+B
+
+s bbr
+4
+
+3 :
+
+j
+
+. -
+
+.
+;t / I f6 b2
+Q
+
+q
+^(
+
+?F
+
+.B BI
+
+B
+I
+
+B
+
+B
+
+B
+
+B
+
+l
+
+0
+
+.
+
+?
+
+y^
+
+b
+
+AB
+
+A
+
+E
+B
+'
+A
+C
+'A
+BasicSet: 'D-flat F \EA-flat"C Aj\B-flat G F-sharp D/ E-flat B'
+/
+B
+B
+D
+
+Example9c. Suite, Overture,mm. 47-49
+Copyright 1929 by Universal Edition, A.G. Vienna.
+Used by permission.
+
+21
+
+arguesthat becausethe row must maintaina fixed intervallicsuccession,
+it demands a strict contrapuntaltreatment and thus can not be easily
+combined with harmonicvariation.This argumentneglects completely
+the severaldimensionsof harmonicstructure-and their use in achieving
+form-that Schoenbergdevelopedfrom twelve-toneproceduresalone.
+The concluding examples will show, though only briefly, several
+techniques Schoenberguses to generateform in the StringTrio, Op. 45,
+a composition commonly regardedas among his most ambitious, but
+also among his most problematic.His sketchesshow him extending and
+systematizing proceduresthat appear in the previous examples. Most
+students of the String Trio have mistakenly described it as a hexachordal composition, meaning that it is based not upon a twelve-tone
+of
+row, but on differentorderings combinatoriallyrelatedhexachords.30
+The row tables for the String Trio, partiallyshown in Example 10,
+indicate that Schoenberguses not a groupof hexachords,but two basic
+sets: the first set contains eighteen pitches, and the second containsthe
+usual twelve. In the eighteen-noteset, labelled "Basic Set No. 1," the
+first and last hexachordscontain identical pitches, but they are ordered
+differently. The twelve-note basic set, labelled "Basic Set No. 2," is a
+variation on Basic Set No. 1; its first hexachord is identical to that of
+Basic Set No. 1, and its second hexachord contains the same pitches,
+but in a different order, as the second hexachordof Basic Set No. 1. In
+his row tables, Schoenbergassociateseach prime form of the basic set
+with the combinatoriallyrelated row form that relatesby Is, and both
+row formsalwaysappearon the same system and unfold simultaneously.
+Notice that in the tables for Basic Set No. 1, Schoenberg stemmed
+has
+separatelythe first and last pitches of every hexachord. This produces
+from each pair of row forms twelve pitch-classes,which form a kind of
+secondary basic set. Throughout the String Trio, when Schoenberg
+presents two combinatoriallyrelated row forms, he frequently creates
+an extra harmonic dimension containing only the twelve pitches that
+begin and end the hexachords and that he stemmed separatelyin the
+row tables. And it is this dimension which often spans and unifies
+individualphrases.
+One typical example, shown in Example 11, appears shortly after
+the introduction, and presentssuccessivelytwo combinatoriallyrelated
+row forms, P2 and 17. The secondarybasic set, comprised of the first
+and last pitches of every hexachord, appearsin the violin, the principal
+voice marked "P". It is this harmonic dimension, comprisedprimarily
+of non-adjacentpitches extracted from two row forms, that delineates
+the phrase. It is important to understand precisely how the combinatorialpropertyaffects the structureof this phrase.Most importantly
+it insures equal pitch-class distribution throughout the phrase, even
+thoughthe row itself contains repeatedpitches. Whilethe combinatorial
+22
+
+BasicSet No. 1
+...,
+
+I
+/, Mia 1,t'.
+KMF
+Y ,t %
+I I
+
+7\L -V
+I
+r
+
+I
+
+-
+
+I - -.
+
+, Ji. ,' ,b ;r .
+.
+r
+f >s u .
+7
+
+I
+^ N6tkr
+
+l~l~
+If
+
+*
+
+.
+
+A
+I
+
+.. -
+
+frK
+Ki.
+.-'
+
+.
+
+-4-4'I
+*
+
+I
+- I r-
+
+-7-
+
+I
+
+VWYlr
+
+l
+
+-l
+
+t
+
+~tC
+I'
+
+hr
+
+0t!k
+y
+
+#
+
+Example 10. Sketchesfor StringTrio, Op. 45 (#1
+
+Used by permission of B
+
+P2
+. ni
+
+P
+J. s
+90
+
+r- pLzz-
+
+5
+9?
+
+7
+
+r
+
+n.EC
+>l
+
+12
+
+r
+Fb
+
+~
+
+'
+
+j ?
+
+~
+
+,
+
+?
+
+5^
+
+Si
+
+f1
+
+y
+
+|3 1 .
+
+:
+
+|I
+
+0
+
+Yf
+
+Irt
+
+tel
+
+13
+R
+
+18
+carco
+
+1,8
+
+| (
+
+a
+
+iF
+
+'
+
+o (?i)
+
+14
+
+o,7
+
+(f)
+
+..
+
+1z
+
+,
+
+*-
+
+r
+
+-
+
+!L -
+
+16
+
+14 16
+
+oJL
+
+jpiz.
+
+*oC
+
+15
+
+15
+
+1
+
+3
+
+2
+
+7X,1o
+I?.
+
+I =
+
+4-
+
+,
+
+_
+
+1-
+
+,_
+
+._
+
+1-
+
+I
+I
+B
+C
+A
+BasicSet No. 1: D' Bflat E-flat A E D-flat B /A-flat CGflatG F' C E'DB-flat A D-flat'E-flat
+
+Example 11. String Trio (Part I), mm. 12-17
+Copyright 1976 by Boelke-Bomart Publications, Hillsdale, NY.
+Used by permission.
+
+24
+
+between measures14 and 15, it in no
+property does form one aggregate
+or forms the harmonic dimension that determines the
+way requires
+phrase.To assumethat in his later compositions Schoenbergdependson
+the combinatorialproperty to structurephrases,is to tell less than half
+the story: a misleading half, for Schoenberg in fact uses the same
+techniques to structure phrases in both his combinatorial and noncombinatorialcompositions.
+The next examples further clarify Schoenberg'sconcept of developing variationand show how it can generatelarge formalsections. Again
+the String Trio provides the example because of its experimentaland
+enigmatic form. Even a cursory glance through the sketches calls into
+question one of Boulez's important assertions: that "Schoenbergwas
+not much preoccupied with the problem of forms."31 Consider, for
+example, part of a table from his sketches for the StringTrio, shown in
+Example 12. Here Schoenberg has tabulated the duration of every
+phrasein both beats and seconds, and arrivedat a balancewithin each
+part of the composition and among all parts. Notice how his measurement in seconds accommodates the frequent changes in tempo and
+indicates a form that would not be suggestedby merely counting the
+numberof beats or measuresin each part.
+The String Trio consists of a single movement which is dividedinto
+five sections labelled Part I, Episode I, Part II, Episode II and PartIII.
+Schoenbergbases PartsI and II on the eighteen-notebasic set (Basic Set
+No. 1), and Episodes I and II on the twelve-note basic set (Basic Set
+No. 2). Example 11 shows the three linear tetrachords,marked "A,"
+"B," and "C," that make up the principalmotivic materialof Part I. As
+the phrasein Example 11 indicates,these are the three tetrachordsthat
+remain after Schoenberg separates the first and last pitches of each
+hexachord to form a separate harmonic dimension. Not surprisingly,
+tetrachords A, B, and C get special emphasis.Not only do they often
+comprise the principalvoices, but equivalent forms of them also often
+appearin the accompanyingvoices, formedby associatingnon-adjacent
+pitches in the basic set. Withvery few exceptions, every phraseof Part I
+simultaneouslyunfolds multiple occurrencesof these tetrachords;they
+consequently dominateits harmonicstructure.
+Schoenberg builds the twelve-note basic set for Episode I around
+tetrachordsA and C as linearsegments,and developsthis feature in one
+of the principal themes for Episode I (shown in Example 13). The
+principalvoice of the theme unfolds tetrachordsC and A, but not as
+they occuras linear segments.Instead,Schoenberguses new forms made
+by associating non-adjacentpitches in the basic set, those with order
+numbers 1, 2, 4, 6 and order numbers 7, 8, 10, 12. In addition two
+other dimensionsof harmonicstructurealso repeat forms of tetrachords
+A and C. The viola plays one form of tetrachord C comprised of
+25
+
+4=66
+?
+Jt-eo
+
+'^ r I/ 4
+
+d1.=
+t-tw
+
+12
+
+6
+
+/f
+
+*^qo
+
+It
+
+I
+
+/6
+
+6t
+
+17r
+
+3
+
+(2..
+
+3/
+
+/Z
+
+-4)
+t1
+
+?7
+
+(0
+
+7
+
+(
+
+J -o
+4__
+
+<23 ^
+6S
+
+3
+
+.s
+
+..
+.
+
+~Y
+
+z4
+
+Z
+
+46 ,Z . JI
+
+)=7t
+-
+
+J
+TART
+
+zqo
+
+92 -6 S6 <I i
+
+v40
+
+(p
+
+/ 8
+
+-/ a
+/5.
+
+7
+
+7
+// /6 I
+f
+O/ by
+
+-
+
+S
+.(-^21 .8
+.
+
+6
+
+.1.-fS
+(I-
+
+acMi- 21
+
+K /AK,o'o
+
+~/2X
+/[/r
+
+,r. I
+
+4 a- 2t.
+.3
+
+iP^rt
+
+-
+
+........
+
+. .
+
+3,%,
+Example 12. Sketch for StringTrio (#1067)
+
+26
+
+Example 12 (continued)
+Used by permission of Belmont Music Publishers, Los Angeles, CA.
+
+27
+
+a tempo
+6P
+Plo
+
+7
+
+4
+
+r"-`
+
+(
+1 IIt_i;- (^iJ4t)j
+~c
+CA
+
+10
+
+is
+
+;
+I
+
+~~~~A
+
+C
+Lt
+
+I|C-
+
+3
+p
+
+..9
+
+111
+
+o' a
+'"r L_
+
+7 IF-
+
+.1
+
+---:
+
+2
+
+C-
+
+13
+
+[:y y r
+
+3.
+
+L
+
+5
+6 ~,,,,,
+
+jP-
+
+3,
+
+BasicSet No.2 :\B-flat
+
+7
+8-
+
+y
+
+1
+
+N
+
+a
+
+-
+
+IfFY
+i-
+
+9
+1L
+'
+
+- A
+
+11
+h
+
+12
+
+s4
+
+-J:' I
+
+11ir
+
+A
+A
+G-flat B F C "A D C-sharp,E G E-flat A-flat,
+C
+C
+
+Example 13. StringTrio (Episode I), mm. 85-86
+Copyright 1976 by Boelke-Bomart
+Used by permission.
+
+28
+
+Publications,
+
+Hillsdale, NY.
+
+pitches with ordernumbers3, 5, 9, 11, and this dimension
+non-adjacent
+both measures and makes them a single phrase. Moreover,the
+joins
+accompanyingvoices present the eight-note complement of tetrachord
+C (marked"C")in the first measureand A (marked"A") in the second.
+This last dimension is controlled by the combinatorialproperty, and
+arises by joining the combinatorially related row forms P0l and I3.
+Thus, this phrase has four simultaneousharmonic dimensions, all of
+whichunfold equivalentforms of two tetrachordsor their complements.
+It is essential to recognizethat all of the harmoniesmarkedin Example
+13 are formed by pitches non-adjacentin the basic set or by pitches
+from different row forms. This feature in Episode I develops the
+motives of Part I, in which the principal voices (those marked "P")
+present tetrachords A and C only as linear segments of the row. The
+third principalmotive of PartI, tetrachordB, does not occur in Episode
+I and must wait until Part II to be repeated or developed further.
+EpisodeI is thus not a repetitionof Part I, for it omits essentialmotives.
+Rather, it representsa variation, as well as a development of two of
+the three principalmotives of Part I. We can perhapsnow understand
+why Schoenbergrefers to this section as an Episode-it fulfills precisely
+the function of the episodes of Baroquefugues by repeating,varying,
+and developingelements of the principalthematicmaterial,and it does
+so throughtwelve-toneproceduresalone.
+The last example (Ex. 14), also from the String Trio, makes a final
+later
+Schoenberg's
+point: that contemporarytheorists,by characterizing
+works as hexachordalcompositions,have somewhatmisunderstoodand
+obscured the innovative techniques he has developed for building
+extended structures.Example 14 shows a phrasefrom Part II in which
+tetrachord B returns; tetrachord B, you remember, was the only
+principal motive of Part I not developed in Episode I. The phrasein
+Example 14 unfolds four pairs of hexachords;each pair representsthe
+second pair of hexachords formed by pairing combinatoriallyrelated
+forms of the eighteen-note basic set. Three harmoniesstructure this
+phrase,each of which representsa linear segment of the basic set. The
+first is tetrachord B, the chromatic tetrachord,a form of which each
+instrumentplaysonce in every measure;each measuretherefore consists
+of three different forms of tetrachordB. The second structuralharmony
+representsa hexachord, marked "D," which binds together the three
+instrumentalparts. Each half measureunfolds this hexachord,which is
+always comprisedof pitches from two row forms. The third structural
+harmony, the whole-tone tetrachord, marked "E," binds together the
+four measuresinto a single phrase.Notice that the transpositionsof the
+four successiverow pairs-P1114, P9I2 and so forth-outline the wholetone tetrachord. Thus, although the harmonies that structure this
+29
+
+P,,
+
+14
+
+P92I
+
+Moderato
+icon lord,,. 9
+
+B
+
+t = 104
+10
+
+B
+
+11
+
+9
+
+10
+
+1
+
+p
+B
+
+con sord.
+
+con sord.
+
+I
+
+8
+
+i-
+
+o
+
+2
+
+P I
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+D
+
+P318
+
+P, 16
+
+PlB
+
+R
+
+q
+
+a
+
+,I
+
+Bk ,
+
+A
+
+sempre P
+
+1 it
+7.
+
+a
+
+D
+
+9
+
+B BO
+
+H
+
+10~~~~~~~~~
+I
+
+I
+D
+
+I
+
+I
+
+D
+D
+
+DBai: D
+
+BasicSet No. 1: (PO) D A sharp DsharpA E Csharp
+(Is) G B
+Fsharp C F Gsharp
+
+aB
+
+D
+
+E
+Aflat FsharG
+
+aBflat Dflat Eflat
+D
+
+DBflat)A Csharp Eflat
+D E A/ F G B
+CA flat Gflat
+D
+I
+B
+jcE
+
+Example 14. StringTrio (PartII), mm. 148-151
+Copyright 1976 by Boelke-Bomart Publications, Hillsdale, NY.
+Used by permission.
+
+30
+
+phrase are formed by pitches from two or more row forms, they all
+occur as linearsegmentsof the eighteen-notebasic set.
+Contemporarytheorists have noted these structuralharmonies,but
+have failed to recognize their ultimate source in the basic set. Instead
+they have argued that the piece is structured on the harmonies
+derived from pairs of combinatorialhexachords.32This argument can
+sometimes find evidence. In the paired combinatorialrow forms at the
+bottom of Example 14, for instance, two of the three structural
+harmonies, marked "D" and "B," do in fact link together the paired
+hexachords. But this argumentcan not explain the source of tetrachord
+E, the whole-tone tetrachord that shapes the phrase, and so the
+proponents of a hexachordalbasis for the String Trio can only assume
+form. I certainlydo not
+that Schoenberghas had to impose an arbitrary
+want to maintainthat harmoniesformed by combinatorialhexachords
+never representlinear segments of the row. Obviouslymany often do,
+and no doubt Schoenbergdesignedhis basic set to develop this feature.
+But it is undeniablethat many harmoniesformed by the pairedhexachords are not emphasized. Theorists have noted this fact with some
+puzzlement, because they have not understoodthat Schoenberguses as
+structuralharmonies only those that representlinear segments of the
+basic set. Failure to recognize this principle is easy to understand.If
+Schoenbergoften presents only one hexachord from a row form, why
+not say that hexachords,ratherthan a basic set, control the piece? The
+String Trio makes this view even more tempting, for its row no longer
+contains only twelve pitches. Thus, it is easy, even attractive,to ignore
+the fact that Schoenbergdoes usually presentthe complete row, and to
+concentrate on the recurrenceof hexachordswhich appearto be freely
+ordered, that is, not dictated by a basic set. In other words, theorists
+have found it easier to relinquishthe concept of the basic set, then to
+relinquishthe rule that a basic set contains twelve pitches. The sketches,
+however, show precisely the opposite, that he was willing to relinquish
+the rule that a basic set must contain twelve pitches, but not the
+concept of a basic set itself as the source for the harmonicand formal
+structureof his music.
+manifesto "CompositionWithTwelve Tones," as
+In that half-hearted
+Schoenbergproposedthree fundamentalprinciples
+everyoneremembers,
+for his new method: that the basic set alone generate harmonic and
+formal structure,that the basic set contain only twelve pitches with no
+pitch repeated, and that a composition have only one basic set. But to
+judge by his music and his sketches, we ought probably to see these
+three principles arranged as a hierarchy. Schoenberg is willing to
+modify and experiment with the latter two: the ThirdQuartetuses not
+one but three orderingsof the basic set; the String Trio uses two basic
+sets, one of which has eighteen notes. Neither the numberof basic sets
+31
+
+nor the number of pitches in each set is absolute, then, but if we
+analyze pieces in which they are not absolute, we discover that
+Schoenbergmodifies his principleswith the sole purpose of expanding
+or redefining harmonies of the basic set in order to generate more
+elaborate and integratedformal structures.The first principle-that the
+structure and form of twelve-tone music derive from a basic set-is
+absolute and in fact both motivates and controls departuresfrom the
+secondaryprinciples.
+Schoenberg'scritics, lacking the evidence of his sketches, have not
+recognized that what seemed his inflated claims for his method were
+actually its one absolute. They were mistaken, but in a sensejustified,
+in complaining
+that he went too far in discarding
+techniquescomparable
+to tonal harmonic functions or, like Boulez, that he did not go far
+enough in developing uniquely twelve-tone techniques for producing
+extended forms. And those contemporarytheorists who bend his most
+important principleby identifying hexachordsas the bases for his later
+music, confirm the criticisms of the skeptics-that he had to rely on
+or
+arbitrary contradictoryproceduresto build extended forms.
+As he superstitously feared, Schoenberg died on Friday the 13th,
+July 1951 in Los Angeles.But since the music he wrote and the methods
+he invented prove less derivative and arbitrary,more coherent and
+fruitful, than he cared to explain, we can confidently apply to Schoenbergwhat the poet said of Diirer,"Deadis he not, but departed-for the
+artist never dies."33
+
+32
+
+For those who may find it useful, I list below the pitch-class set
+names according to Forte's The Structure of Atonal Music for the
+lettered pitch-classsets in the musicalexamples.
+Example 1
+A 6-2
+Example2
+a 3-4
+b 3-9
+c 3-12
+d 3-4
+ab: 6-16
+ac 6-16
+cd: 6-16
+db: 6-16
+Example3
+a : 3-4
+b 3-9
+c :3-12
+d 3-4
+A 6-16
+B 6-z48
+B 6-z26
+Example4
+A 6-20
+Example7
+A 7-10
+B 9-10
+C 8-27
+D 7-32
+
+Example8
+A: 7-32
+B 5-32
+C 4-14
+Example9
+A: 4-17
+B: 4-19
+C 4-10
+D: 4-3
+E: 4-7
+Example 11
+A: 4-9
+B: 4-1
+C 4-7
+Example 13
+A: 4-9
+A 8-9
+C 4-7
+C 8-7
+Example 14
+B: 4-1
+D: 6-32
+E: 4-21
+
+33
+
+NOTES
+This paper is an expanded and revised version of a lecture delivered at the
+AMS/SMT National Conference in November, 1979.
+1. "Schoenberg Is Dead," The Score 6 (1952), pp. 18-22. See also Boulez, Notes
+OfAn Apprenticeship (New York: Alfred A. Knopf, Inc., 1968) and Conversations with Celestin Deliege (London: Eulenburg Books Ltd., 1976).
+2. Milton Babbitt and David Lewin are most prominent among those who have
+considered the same difficulties Boulez points to. See especially Babbitt,
+"Some Aspects of Twelve-Tone Composition," The Score 12 (1955), pp. 5361; "Twelve-Tone Invariants as Compositional Determinants," The Musical
+Quarterly 46 (1960), pp. 246-59; "Set Structure as a Compositional Determinant," Journal ofMusic Theory 5 (1961), pp. 72-94; and Lewin, "A Theory
+of Segmental Association in Twelve-Tone Muisc," Perspectives of New Music
+1 (1962), pp. 89-116; "A Study of Hexachord Levels in Schoenberg's Violin
+Fantasy," Perspectives of New Music 6 (1967), pp. 18-32; "Inversional Balance
+as an Organizing Force in Schoenberg's Music and Thought," Perspectives of
+New Music 6 (1968), pp. 1-21.
+3. Schoenberg's claim that the basic set regulates all harmonic and structural
+elements has met with considerable skepticism, Skeptics assert that "licenses,"
+such as reorderings, repetitions, and association of non-adjacent segments of
+the basic set, as well as the verticalization of ordered segments to form
+vertical harmonies, result in many events unrelated to the basic set and point
+toward serious weaknesses in his twelve-tone method. This skepticism began
+during Schoenberg's life and has continued until the present. The following
+can fairly represent it: Richard S. Hill, "Schoenberg's Tone-Rows and the
+Tonal System of the Future," The Musical Quarterly 22 (1936), pp. 14-37;
+Ernst Krenek, "New Developments of the Twelve-Tone Technique," Music
+Review 4 (1943), pp. 81-97; Peter Stadlen, "Serialism Reconsidered," The
+Score 22 (1958), pp. 12-27; Seymour Shifrin, "A Note From the Underground," Perspectives of New Music 1 (1962), pp. 152-53; George Perle,
+Serial Composition and Atonality (London: Faber and Faber Ltd., 1962),
+pp. 61-110 and Twelve-tone Tonality (Berkeley and Los Angeles: University
+of California Press, 1977), pp. 23-24. Various theorists and composers have
+refused to interpret these "licenses" as weaknesses, but have not succeeded in
+explaining how they are regulated by the basic set. See for example the
+responses to Stadlen's article by Walter Piston, Roberto Gerhard, and Roger
+Sessions, all in The Score 23 (1958), pp. 46-64. The inadequacies of these
+responses is aptly pointed out by George Perle, "Theory and Practice in
+Twelve-Tone Music," The Score 25 (1959), pp. 58-64. George Rochberg in his
+review of Perle, Serial Composition and Atonality, harkens back to the earlier
+responses by ignoring entirely Schoenberg's theoretical claim while explaining
+away his "licenses" by appeal to creative genius (Journal of the American
+Musicological Society, 16 [1963], pp. 413-18). Ren6 Leibowitz and Josef
+Rufer, on the other hand, tend to ignore the whole issue and merely describe
+uncritically Schoenberg's procedures and his use of classical forms. Babbitt
+comments tellingly on the superficiality of this approach in his review of
+Leibowitz, Schoenberg et son ecole (Paris: J. B. Janin, 1947) and Qu'est ce
+
+34
+
+que la musique de douze sons? (Liege: Editions Dynamo, 1948) in Journal of
+the American Musicological Society 3 (1950), pp. 57-60, as does Krenek in
+his remarks on Rufer, Die Komposition mit zwolf Tonen (Berlin: Max Hesses
+Verlag, 1952) appearing in "Is The Twelve-Tone Technique on the Decline?"
+
+TheMusicalQuarterly (1953), pp. 513-27.
+39
+4. "Schoenberg Is Dead," p. 20.
+5. "Schoenberg Is Dead," p. 21, and see also "Trajectories: Ravel, Stravinsky,
+Schoenberg" in Notes Of An Apprenticeship, pp. 256-58.
+6. "Schoenberg Is Dead," p. 18.
+7. The first passage is from "Problems of Harmony" in Style and Idea, ed.
+Leonard Stein, trans. Leo Black (New York: St. Martins Press, 1975), p. 279;
+the second from "Opinion Or Insight?" in Style and Idea, p. 263.
+8. Schoenberg, "Composition With Twelve Tones (1)" in Style and Idea, p. 218.
+9. "My Evolution" in Style and Idea, p. 88.
+10. "Tonality and Form" in Style and Idea, p. 257.
+11. For further discussion see my article "The Telltale Sketches: Harmonic
+Structure in Schoenberg's 12-Tone Method," The Musical Quarterly 66
+(1980), forthcoming.
+12. Schoenberg, "Vortrag / 12 T K / Princeton," ed. Claudio Spies, Perspectives of
+New Music 12 (1974), p. 83.
+13. "Composition With Twelve Tones (1)," p. 235. In the following examples I
+have added standard row labellings, letter labels of pitch-class sets, and the
+basic set below each example. Appendix I gives Forte's pitch-class set names
+for the lettered pitch-class sets in the following examples.
+14. The pitch-class content of the complementary hexachords in this secondary
+harmonic dimension further suggests that Schoenberg was aware of this
+compositional procedure; each contains the same pitch-classes as the complementary hexachords in P6, the only transposition of the basic set used in
+the entire composition. I owe this insight, as well as a thorough and generous
+reading of my manuscript, to David Lewin.
+15. See, for example, Perle, Serial Composition and Atonality, pp. 99, 109-10.
+16. For further warrant for this inference see Boulez, "Schoenberg's Piano Works"
+
+in Notes Of An Apprenticeship, 375.
+p.
+17. "Vortrag / 12 T K / Princeton," p. 88.
+18. This and all other sketches discussed in this paper represent hitherto unpublished sketch material in the Arnold Schoenberg Institute, University of
+Southern California, Los Angeles, California. The catalogue number for each
+sketch appears with the example.
+19. Schoenberg has worked out a second harmonic structure indicated by the
+lettering "c" and "d" at the top of the sketch. While he uses this structure
+later in the second movement, it does not apply to the example under discussion.
+20. See Boulez's confusion about precisely this example in "Trajectories: Ravel,
+Stravinsky, Schoenberg," Notes Of An Apprenticeship, pp. 256-57, and in
+Boulez On Music Today (Cambridge: Harvard University Press, 1971),
+p. 132.
+21. For further discussion of the Suite, Op. 29, see my dissertation, "Schoenberg's Concept of Multi-Dimensional Twelve-Tone Music: A Theoretical
+Study of the Music and Compositional Sketches" (Yale University, 1977).
+
+35
+
+22. See, for example, Perle, Serial Composition and Atonality, pp. 123-28.
+23. See Note 3 for the most important articles that deal specifically with combinatoriality and invariant properties.
+24. "Vortrag / 12 T K / Princeton," p. 99.
+25. For a more detailed analysis of this example, see "The Telltale Sketches"
+which was somewhat anticipated by Professors Reinhold Brinkmann and
+Jonathan Khuner in letters to the editor of the Journal of the Arnold
+SchoenbergInstitute 1 (1976-77), 182-89.
+26. Included with the sketches for Op. 30 is a second row table (#1003) in which
+the reorderings of the basic set (M2N2, M3N3) are different from those shown
+in Example 6. This table, notated in English, was prepared in 1935 for a class
+in Los Angeles, eight years after Schoenberg completed the composition. I
+owe this information to Leonard Stein. While I can not explain why the two
+row tables do not show the same reorderings of the basic set, it is clear that the
+principal ones for the first movement are those appearing in Example 6
+(#1002).
+27. In Example 7 I have used the second theme as it appears in the "recapitulation" because its secondary harmonic dimensions are somewhat less complicated than in the "exposition." In its first appearance, the secondary
+harmonic dimensions derive from the second form of the basic set, perhaps
+suggesting a modulation away from the principal form; in its second appearance, the secondary harmonic dimensions derive only from the principal row
+form, implying a return ("recapitulation") to what Schoenberg considered the
+principal form of the basic set. In this and the following examples I do not discuss the role of invariants in structuring phrases because this technique has
+been investigated by other theorists (see note 3 above).
+28. "For a Treatise On Composition" in Style and Idea, pp. 265-66.
+29. Fundamentals of Musical Composition (New York: St. Martin's Press, 1967),
+p. 8.
+30. See, for example, George Rochberg, The Hexachord and its Relation to the
+12-tone Row (Bryn Mawr: Theodore Presser, 1955), pp. 4, 40.
+31. "Schoenberg Is Dead," p. 20.
+32. See, for example, George Rochberg, "The Harmonic Tendency of the Hexachord," Journal of Music Theory 3 (1959), pp. 218-30.
+33. Henry Wadsworth Longfellow, "Nuremberg" in The Complete Poetical Works
+of Longfellow (Boston: Houghton-Mifflin, 1893), p. 57.
+
+36
+
+

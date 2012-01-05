@@ -1,0 +1,858 @@
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+Volume 13, Number 4, December 2007
+Copyright © 2007 Society for Music Theory
+
+Get the free Flash
+player
+to view the video
+examples.
+Get the free QuickTime
+plug-in
+to download the video
+examples.
+
+Jacob Reed and Matthew Bain*
+A Tetrahelix Animates Bach: Revisualization of David Lewin’s Analysis of the
+Opening of the F Minor Fugue from WTC I
+
+KEYWORDS: 3-D geometry, animation, J.S. Bach, David Lewin, inversion, voice-leading, Cohn flips
+ABSTRACT: Music theory has long benefited from the use of visualizations to demonstrate analyses. This article presents one
+example of how music theorists might implement contemporary methods in graphic design and computer modeling. We apply
+three-dimensional geometric modeling and animation to a concise analysis on the opening of Bach’s F Minor Fugue from WTCI
+by David Lewin. The application models the voice-leading of Cohn flips on Forte-set 3-2 with a triple helix whose structuring
+tetrahedrons combine chromatic, trichord, tetrachord and octatonic elements. The animations of the music through this model depict
+the pattern and relationships of the (013) forms described in Lewin’s article but demonstrate how a 3-D figure and animation
+elucidate and amplify his analysis and reveal an unusual aspect of these six measures.
+Received July 2007
+
+[1] Lewin’s 2-D Visualizations
+[1.1] In his article “Notes on the Opening of the F Minor
+Fugue from WTCI,” Lewin inspects the pattern and function
+of the seventeen appearances of Forte-set 3-2 (013) within
+the first six measures of the piece. To demonstrate his
+
+Graph 1. David Lewin’s graph of Cohn flips on Forte-set 3-2
+
+analysis Lewin uses “a graph that lays out the various forms
+of the pcset (013) in a certain format” and a musical example
+that “lays out consecutive forms of Forte-set 3-2.”(1) He then
+illustrates how an area of the graph of Cohn flips “is surfed
+by consecutive forms of Forte-set 3-2”(2) within the first six
+measures. The graph, presented here as Graph 1, is central to
+Lewin’s analysis and he begins by explaining its
+composition:
+
+(click to enlarge)
+
+Forms of (013) that are displayed as adjacent vertically include the same minor-second dyad. Forms that are adjacent
+upper-left-and-lower right include the same major-second dyad. Forms that are adjacent lower-left-and-upper-right
+include the same minor-third dyad.(3)
+The graph is divided into lower-and-uppercase lettering, where lowercase trichords distinguish forms of pcset (013) that appear in
+the opening of the fugue. Lewin extracts these and presents them in a separate figure with annotated numbers that “key in to the
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 1 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+numbers on the musical example.” Lewin’s figure and musical example accompany this article as Figure 1 and Example 1.
+Figure 1. David Lewin’s isolation of (013) forms appearing in
+the first six measures of Bach’s F minor Fugue
+
+(click to enlarge)
+
+Example 1. David Lewin’s reduction of the first six
+measures
+
+(click to enlarge)
+
+[1.2] While these visualizations suffice to assist Lewin’s analysis, many of their structural characteristics and Lewin’s own
+statements suggest the use of more explicitly geometric models. To begin with, the graph duplicates common tones of the (013)
+forms appearing in Bach’s first six measures. For example, notice that the (G ) of the first trichord labeled 1,5,10, the lowest and
+leftmost form of the figure, is the same (G ) in the form labeled 2. While such duplications are rendered harmless when the graph is
+theoretically conceived in pitch-class space, we find the repetitions make it difficult to imagine the music progressing through the
+graph. Secondly, Lewin’s graph pictures the relation by Cohn flip of each (013) form to three other forms but the format of
+staggered rows and columns disjoins these relations. Related sets along the diagonals seem farther away than the sets related
+vertically. This arbitrarily prioritizes the Cohn flips that preserve minor seconds. To describe the graph further Lewin quotes his
+own article “Cohn Functions,” and points out that “the analogous graph for ... harmonic triads would illustrate, in its three different
+directional bondings, Riemann’s relations of our relative major/minor, of our parallel major/minor and of his Leittonwechsel.”(4)
+However, at least in reference to this analysis, Lewin’s graph relegates these three directional bondings to an arbitrary hierarchy that
+is difficult to visually process quickly. Lastly, grouping the trichord sets in brackets visually asserts them as forms of (013) but also
+creates an ordering problem. The trichord sets in Lewin’s 2-D Graph are ordered so that the common tones of the Cohn-flip-related
+sets are, for the most part, in the same place, first, middle or last. Unfortunately, this ordering rotates the interval content of each set,
+when read left to right, making the Graph harder to read. Visually depicting the common tone retention of the Cohn flip is only one
+aim of the graph and in this 2-D case we believe the choice between accessibility and purpose is well made. As the following
+section demonstrates the need to compromise is alleviated and many of the other structural difficulties are resolved when a more
+geometric model is used.
+[1.3] As Lewin alludes, his graph can be easily reconstructed as
+a Tonnetz. The equilateral triangles in Figure 2 represent (013)
+forms. Moves along the horizontal axes are moves of interval
+class 1. Moves on the diagonal axes are either ic2 or ic3. This
+(013) Tonnetz succeeds in restructuring the trichords as
+individual pitch classes grouped in a triangular form so that
+neighboring sets can literally share common tones. The
+triangulation of trichords provides a more accurate
+representation of common tone retention between Cohn-fliprelated sets. Furthermore, each triangle is adjacent to three and
+only three other triangles, each of which is one of the three
+possible Cohn flips respectively. Take, for example, the triangle
+(C,C ,D ) near the center of the figure. Preserve the minor
+second, vertices (C ) and (C) but exchange vertex (D ) for
+vertex (A ). The newly formed triangle is not only adjacent to
+the original it is the only adjacent triangle that shares the
+common tones (C ) and (C).
+
+Figure 2.
+
+(click to enlarge)
+
+In this manner, the entire surface of the Tonnetz can be traversed with rotations over common tone edges—literal Cohn flips. Sets
+realized by Bach’s music can be highlighted, replacing differentiation by upper and lower case lettering. Here the sets within the
+subject are blue, and those in the countersubject red. It must be noted that Richard Cohn’s “Parsimonious Tonnetz” establishes the
+generalized model for our Figure 2. In fact, Figure 2 can be seen as a specific example, with slight reorientation, of his
+“Parsimonious Tonnetz” where X equals 1.(5)
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 2 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+[1.4] Structurally, the (013) Tonnetz resolves the issues of repetition and order. In addition, under this revisualization the three
+possible Cohn flips on any given set are no longer forced into an arbitrary hierarchy. Each triangle is bordered by its three Cohnflip-related sets on its three edges respectively. Despite this the (013) Tonnetz cannot resolve the fundamental issue of register.
+Neither Lewin’s graph, and descriptions of it, nor the (013) Tonnetz delineate a registration or pitch-specific structure. This slows
+the transfer from the aural perception of Bach’s music to the visual representation of Lewin’s analysis. In other words, while the
+progression through the graph is roughly analogous to the music itself, there is no rigorous system of correlation between musical
+and visual direction.
+[1.5] A theoretical issue underlying this problem of register is the distinction between pitch space and pitch-class space. When he
+introduces his graph of Cohn flips on the pcset (013) in the article “Cohn Functions,” Lewin is working in the pitch-class universe,
+despite occasional use of letter names.(6) When he introduces the graph at the beginning of his article “Notes on the Opening of the
+F Minor Fugue from WTCI,” he states that “Until further notice the graph is to be considered as extending indefinitely in all
+directions.”(7) This statement, implying octave inequality, his use of letter names for pitches and the fact that he is analyzing Bach, a
+decidedly tonal composer, might lead the reader to believe he is operating in pitch space. However, later he describes how
+chronological form 10 “sutures together that place on the figure [the area of the answer] with the lower left, modularizing the
+geometry.”(8) In a general sense, the language here implies the use of a geometric model—one that, as opposed to the relatively listlike row-and-column graph, portrays visually some of the geometry that can be found in Bach’s music. More specifically, the
+“special spatial functions” of the cross-talk which “modularize the geometry” suggest the use of a model that could illustrate a
+modularization to pitch-class space or at least better represent these functions.(9) While Lewin’s graph and its 2-D Tonnetz
+revisualization do not articulate register, graphs conceived in pitch-class space by definition preclude register.
+[1.6] Thus we searched for geometry that could visualize the interrelation of (013) forms by Cohn flip, demonstrate the general and
+specific spatial functions described in Lewin’s analysis, and solve problems of register, pitch-specific structure and order. The
+integration of the first two goals with the third proved the most challenging but also the most fruitful.
+[2] Development of 3-D Geometric Models
+[2.1] Acknowledging the preclusion of register, this section introduces
+a modularization of our (013) Tonnetz. The subsequent comparison of
+this model to some similar examples of geometric modeling will
+provide context to the reader and further define our method.
+Theoretically, just as a triadic Tonnetz in equal temperament becomes a
+torus so may the (013) Tonnetz. However what the resulting torus looks
+like depends greatly on the limits of the (013) Tonnetz and our method
+of elevating it out of two dimensions. When we introduced the Tonnetz
+of Figure 2 we did not specify if and when it terminated. If the (013)
+Tonnetz were constructed in just intonation or even in equal tempered
+pitch space it would theoretically continue indefinitely. If the (013)
+Tonnetz is modularized into mod12 pitch-class space, then its spatial
+map in two or three dimensions would consist of only twelve sites. The
+2-D version in Figure 3 requires that the reader make strange visual
+jumps from edge to edge to connect all the (013) forms. The
+distribution of points on the twisted torus shape of a 3-D version would
+distort the triangles of the (013) forms and estrange the related pitches.
+Both problems drastically reduce the emphasis on voice-leading.
+However, if duplications are allowed the patterns created by the
+construction of the Tonnetz as it is extended reveal the 12 by 24 chart
+of Figure 4. Each horizontal line is extended to include all pitch classes
+mod12. These chromatic lines are layered vertically with consecutive
+shifts to the right of two and a half sites. We confine ourselves to the
+grid of the original row and wrap the consecutive shifts around
+appropriately. This rotation implies that the chromatic lines become
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Figure 3.
+
+(click to enlarge)
+
+Figure 4.
+
+(click to enlarge)
+
+Figure 5.
+
+Page 3 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+circles/cycles. The pattern of shifts repeats after twenty-four rows.
+Figure 4 can then be bent around both horizontally and vertically to
+create a torus like the one of Figure 5. This torus has not been twisted
+for ease of construction, but the triangular (013) forms of the 2-D (013)
+Tonnetz are maintained.
+[2.2] Contemporary music theory contains many examples of the use of
+geometric modeling and computer animation. Neo-Riemannian related
+work in particular is well suited to such visualization. In his
+dissertation, “Tonal Intuitions in Tristan und Isolde,” Brian Hyer maps
+Riemann’s dominant, leittonwechsel, relative and parallel
+transformations around a hypertorus—a torus with four dimensions.
+The torus appears again in his article “Reimag(in)ing Riemann.” Unlike
+Figure 5 Hyer’s torus locates triads on the vertices or sites. Jack
+Douthett and Peter Steinbach use 3-D geometry to visualize voiceleading transformations between and within set classes. Their article,
+“Parsimonious Graphs: A Study in Parsimony, Contextual
+Transformations and Modes of Limited Transposition,” maps voiceleading and transpositions with several models including two tori, a
+“cube dance,” and “power towers.” As with Hyer, Douthett and
+Steinbach use vertices to represent triads or seventh chords not
+individual pitches. This leaves the visualization of common tones to the
+reader but enables moves along edges or between sites on Hyer’s torus
+to define transformations.
+
+(click to enlarge)
+
+[2.3] In his articles “Neo-Riemannnian Operations, Parsimonious Trichords, and Their “Tonnetz” Representations” and “Maximally
+Smooth Cycles, Hexatonic Systems, and the Analysis of Late-Romantic Triadic Progressions,” Richard Cohn depicts trichords with
+triangles, using vertices to represent pitch classes. Furthermore, his in-depth work investigates the mathematical properties
+underlying generalized Tonnetz presentations as well as the problems of 2-D and toroidal tonnetze. Edward Gollin also conceives of
+a hypertorus in his article “Some Aspects of Three-Dimensional ‘Tonnetze.’” However, Gollin works with tetrachords situated in a
+3-D space lattice. Vertices represent pitch classes and “units in a positive direction” along each of three axes represent 4, 7, and 10
+semitones respectively. Gollin cleverly constructs a pitch-class space lattice containing tetrahedrons whose edges fall nicely onto
+three axes. This exemplifies a successful re-designation of points in 3-D. While the edges on the surface of the torus in Figure 5 are
+not as easily described with respect to axes they do represent constant interval cycles. Gollin investigates “the relation of a
+Tonnetz’s geometry to the group structure of the transforms relating its elements” coming to some conclusions that will prove useful
+in a discussion of the pedagogical worth of our work.(10)
+[2.4] As stated earlier, the pitch class modularization of the (013) Tonnetz ignores the very musical concept of registration and thus
+prevents a rigorous directional correlation to the music itself. An attempt to trace the tenor voice up to the downbeat of measure four
+and begin the fugue’s answer on any (013) Tonnetz with duplications will demonstrate that allowing these duplications does not fix
+the problem. None of our preliminary models or Lewin’s 2-D model assigns a global direction to register.
+[2.5] From a geometric perspective, the problem with our preliminary models is that their elevation into a 3-D realm is partially
+flawed. The (013) torus fails to define the Z-axis that adds the third dimension. Bending the right and left ends of 2-D Tonnetz
+around to meet each other bends the X-axis around a newly added Z-axis. Bending the ends of the resulting rod around to meet each
+other bends the Y-axis around the Z-axis as well. Yet this change leaves the Z-axis undefined and does not actually re-designate the
+three Cohn flips to three different dimensions. It simply wraps them around so that their constrained range or repetition is pictured
+cyclically. The solution to both problems becomes obvious—their integration. The successful model will bend a map of Cohn flips
+around a Z-axis defined by register thereby creating a 3-D geometry with rigorously defined axes that can incorporate a
+fundamental aspect of Bach’s fugue.
+[3] A Tetrahelix
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 4 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+[3.1] To introduce our figure we will emulate a graphic presented by Carol L.
+Krumhansl in “The Geometry of Musical Structure: A Brief Introduction and
+History” and proposed by R. N. Shepard. Krumhansl presents a single helix on
+which “neighboring tones … form the chromatic scale. The figure wraps around
+so that tones separated by octaves … are located above one another.” The rest of
+the figure demonstrates how a double helix is derived by “splitting the chromatic
+
+Animation 1.
+
+scale into two whole tone scales.”(11) Our Animation 1 consists of three panels or
+individual figures. The right panel replicates the single chromatic helix. The
+second panel splits the chromatic scale into three tetrachords (0369), (147T) and
+(258E) and thusly onto three helices. The third panel of Animation 1 presents a
+tetrahedral triple helix, or tetrahelix as it will be called that triangulates the
+vertices of the triple helix creating (013) forms. As the animation shows, the same
+three tetrachord strands exist as spiraling helices on the tetrahelix. (Lower
+resolution versions of all animations are available for faster viewing. However the
+clarity and thus success of our animations is greatly increased when the high
+quality versions are downloaded and viewed in a large window.)
+
+(click to view animation)
+
+[3.2] Similar to models of tetrachords constructed by Edward Gollin and Richard Cohn, the volume, not just the surface, of our
+three dimensional figure is decisively relevant. Richard Cohn’s work, “A Tetrahedral Graph of Tetrachordal Voice-Leading Space,”
+begins on a similar premise as ours. Cohn takes a 2-D graph of voice-leading relations and extends it in three dimensions
+constructing a large tetrahedron with vertices and additional sites representing 29 T/I-type tetrachord classes. Cohn extensively
+defines the figure, discusses several results of generalization and investigates some of the inherent peculiarities. Cohn focuses on the
+theoretical implications of his geometric model—how the location of tetrachord classes within the symmetry of the graph correlate
+to their inherent voice-leading relations and what certain parallels and discrepancies suggest. As our dismissal of the pitch class tori
+makes clear, our focus is on developing a model that can be readily applicable to Lewin’s analysis of Bach’s music.
+[3.3] Figure 6 presents our tetrahelix in more detail. It is composed of tetrahedrons adjoined at faces on alternating sides so that it
+could potentially spiral endlessly in two directions. Note that most triangles can be said to be on the surface of the model but that
+some of the triangles, those that adjoin tetrahedrons, are inside the model. In Figure 7 these adjoining faces are highlighted and a
+closer view is provided. Because our goal is to model Bach’s realization of the voice-leading between (013) forms in pitch space,
+Figure 6 maps pitches represented by letter names onto the vertices of the tetrahedrons. Since we are mapping pitches and not pitch
+classes our mapping could continue endlessly with the geometry of the model. However, in this case, our model spans about two
+octaves as the registral subscripts illustrate.
+Figure 6.
+
+Figure 7.
+
+(click to enlarge)
+
+(click to enlarge)
+
+[3.4] In similar work, Elaine Chew and Alexandre R. J. Francois extend Krumhansl's helix into a spiral array. The outer spiral
+represents pitch classes. Major and minor triads create triangles connecting pitch classes on this spiral. Spatial points within each
+triangle create a second inner spiral of chords. In a similar manner “the union of pitch classes in three adjacent major triads ...
+uniquely define the pitch set of a major scale” thereby creating a third spiral of keys.(12) Chew and Francois create a computer
+environment “by which musical performances can be mapped in real-time to a concrete and visual metaphor for tonal space.”(13)
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 5 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+The system, MuSA.rt, integrates algorithms for tonal induction, including tonal segmentation and pitch spelling, with a real-time
+mapping of MIDI input to the visual display. This goes a step beyond visually animating some aspect of the theory, by automating
+the analysis. Uniquely, the viewer can manipulate the camera view “via a gamepad controller” or select an autopilot mode.(14)
+[3.5] Returning to our tetrahelix, notice that all outside faces present forms of pcset (013) and consequently the edges connecting the
+vertices of any given surface triangle represent the appropriate interval content: one minor second, one major second, and one minor
+third. All inside faces present chromatic trichords and, as will be shown, define a Z-axis with register.
+[3.6] In “Polyhedra: a visual approach” Anthony Pugh describes a tetrahelix as follows:
+A helix is a curve which runs around an imaginary cone or cylinder, a common example being a spring. Tetrahedra can
+be joined together face to face to create a form which can be likened to a twisted column with triangular faces. The edges
+of that arrangement of tetrahedra follow helical lines, so the figure is often referred to as a tetrahelix. The figure can be
+long or short, depending on the number of tetrahedra incorporated in it.(15)
+What separates our tetrahelix from any other is the way in which it maps pitches. The construction of our tetrahelix, described as
+follows, integrates the chromatic scale with a voice-leading map of (013) forms. A tetrahedron is constructed and assigned pitches
+(0123), one to each vertex. Picture triangle (012) as the base lying flat on a table with point (3) above. Next, a second tetrahedron,
+(1234), is created using triangle (123) as its base. Then another tetrahedron, (2345), is created using triangle (234) as its base. Thus,
+the structure of the tetrahelix is determined by subsequent additions of tetrahedrons such that each new tetrahedron shares the last
+three added points, and thus pitches, with the previously added tetrahedron. After at least one octave three ribs, or strands, of a triple
+helix will be easily visible. Taken individually, they each create the repeating tetrachords mentioned earlier, (0369), (147T) and
+(258E) respectively. Spiraling together in a triple helix, they produce the chromatic scale. The method of constructing the tetrahelix,
+as determined by the strict rule for the exact placement of each additional tetrahedron, besides the first, creates the very regular
+pattern of adjoined faces. These inside triangles, previously mentioned as the only triangles containing chromatic trichords, connect
+the three strands of the helix. These triangles, and the slow spiral they create between the three tetrachord strands, help create a
+model that accurately maps all the possible Cohn flips of (013) forms and simultaneously allows Bach’s lines to be correctly
+visualized with regards to register. This aspect of the fundamental structure of the tetrahelix creates as a skeleton for the geometric
+modeling of Cohn flips, a chromatic scale capable of depicting registration. Animation 2 presents the first six measures of Bach’s F
+Minor Fugue, WTCI as they move throughout the tetrahelix. Each vertex lights as the correlating pitch is struck.(16)
+Animation 2.
+
+Animation 3.
+
+(click to view animation)
+
+(click to view animation)
+
+[3.7] On the tetrahelix, like the 2D tonnetz or the torus, any move from one surface face to another surface face is a Cohn flip and
+adjacent triangles maintain the same relationships. Again the entire surface of the tetrahelix can be traversed, like the 2-D Tonnetz,
+with literal Cohn flips. In Animation 3, forms of pcset (013) that are created by Bach’s subject are colored blue and forms of pcset
+(013) created by the subsequent answer are colored red. When the notes of the subject or answer complete a triangle and thus a form
+of (013), that triangle is colored red or blue respectively. Here, each vertex that creates a (013) remains lit, despite the notated
+duration, until the triangle is created, and is only released at the approximate time that the last note of that form is released. To
+preserve the shape of Bach’s gestures the triangles created remain colored. Notice also that the first triangle colored blue turns a
+lighter color blue when the subject cadences in measure three and repeats form (F ,G ,A). The tetrahelix model rotates, and the
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 6 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+camera zooms in and out as the animation proceeds to allow a better view of each triangle formed. All (013) sets are listed in
+normal form to the right of the model in the approximate order in which they are represented on the tetrahelix. In this manner the
+reader can easily switch between labeling systems. Because we aim to animate the entire fugue sometime in the future we have
+abandoned Lewin’s chronological numbering system as it would become far too cumbersome.
+[3.8] In Animation 4 only the (013) forms of the answer and countersubject are highlighted. Animation 5 adds the crosstalk forms
+created between the answer and counter subject in purple. In Animation 6 the (013) forms of the subject are reinserted so that all
+forms appearing in measures one through six are represented. Lastly Animation 7 again shows all (013) forms appearing in the first
+six measures. We remove the tetrahelix base and vertex labels in this animation to emphasize the constellation-like aesthetic created
+by Bach’s music. Each animation focuses on a different area of the six measures and visualizes a different aspect of Lewin’s
+analysis. Without demonstrating the entire analysis in these new visualizations we will highlight a few areas where the transfer may
+not be immediate.
+Animation 4.
+
+Animation 5.
+
+(click to view animation)
+
+(click to view animation)
+
+Animation 6.
+
+Animation 7.
+
+(click to view animation)
+
+(click to view animation)
+
+[3.9] At the beginning of his analysis Lewin points out that a pattern of “two-ranks-up-and-one column-right” is established during
+the statement of the subject by the first three (013) motives.(17) This pattern, in a sense, skips two forms on his figure, our Figure 1,
+those labeled with the numbers 5, 9 and 7. Similarly, on the tetrahelix, the first three forms (F ,G ,A), (G ,A ,B) and (A ,B ,C )
+establish a skipping pattern that is partially filled in just before a restatement of the first form at the cadence of the subject. The
+answer then reproduces the geometry of the subject exactly. With reference to his figure, Lewin describes how form 7 of the
+countersubject fills in the last remaining form skipped by the subject area. Furthermore, he describes the move from form 7 to form
+9 as an inverse of the original “up-two-ranks-and-over-one-column-to-the-right” pattern.(18) This, Lewin states, completes an entire
+area of the figure with consecutive statements of (013)s made by the tenor voice. Again, the first motive of the countersubject, (C
+,B,A ) colors in the remaining gap left by the subject on the tetrahelix. The move from (C ,B,A ) to (B,A,G ), Lewin’s (7) and (9),
+presents a visual inverse of the pattern established by the subject.
+[3.10] Next, Lewin introduces the concept of vertical cross-talk explained as the creation of (013) forms between the lines of two
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 7 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+voices. The (013) forms created by cross-talk are labeled 10, 11, and 17 and complete his list of seventeen appearances. Form 10 is
+a restatement of the trichord (F ,G ,A) the “incipit-and-cadence trichord of the subject” stated by forms 1 and 5.(19) About this form
+he writes “the reader can see on the upper left of the figure how form 10 ... sutures together that place on the figure with the lower
+left, modularizing the geometry.”(20) Then Lewin illustrates how form 11 fills in the gap of the answer’s area on the figure as form 7
+filled in the gap left by the subject in its own area. He also points out that form 11 “connects to the ‘Answer-region’ the form
+labeled ‘1,5,10’.” Form 10, like form 11, can be understood to have “special spatial functions on the figure, in suturing together and
+connecting spatial realms of the Subject and Answer.”(21)
+[3.11] Animation 5 highlights the forms created by the answer, countersubject and the vertical cross-talk between the two. The
+forms created by cross-talk, (F ,G ,A), (E ,F ,G ) and (B ,C ,D ) are colored purple. Forms (F ,G ,A) and (E ,F ,G ), sounding in
+measure five, appear in two places simultaneously on the model. The vertical cross-talk of measure five creates forms (689) and
+(568) by combining pitches from the tenor and alto that do not create these forms within their individual lines respectively. Lewin
+talks about these as suturing elements, appearing sensibly at a cadence point. In the animations, these forms appear in both the
+subject and answer areas. Form (689) appears as cross-talk in the lower region of the countersubject area even though the (F ) or (6)
+that completes the form is struck an octave higher. Inversely, the form (689) at the higher end of the answer area is also colored
+purple even though pitches (G ) and (A) that complete it appear an octave lower in the countersubject. This doubling, also used with
+respect to cross-talk form (568), allows these specially created forms to be seen operating locally in both regions. However, because
+they are colored similarly the function of these forms as global stabilizers or suturing elements is conveyed as well. The final crosstalk, form (B ,C ,D ), Lewin’s form 17, is only shown once as it is created within only one register by the clausula gesture in
+measure six.
+[4] Amplifying the Analysis
+[4.1] On a basic level the media of computer modeling and animation provide us with new tools with which to demonstrate the
+analysis. On a deeper level the structure of our geometric model facilitates and augments comprehension of the analysis.
+[4.2] Lewin’s analysis shows the reader how the opening measures of the F Minor Fugue surf his graph. Presumably, Lewin uses
+the word “surf” because the visual movement inferred by his analysis suggests the curved ascent and descent a surfer makes while
+riding a wave. As previously shown, the tetrahelix animations realize this movement in real-time, thereby demonstrating the idea of
+the music surfing a graph or model of Cohn flips. The subject, shown in Animation 3, first ascends the model curving away and to
+the right along the spiral and then descends as it comes around the back of the model retuning to the starting position in front.
+However, this most general aspect of Lewin’s analysis is not the only visualization refined by using computer animation.
+[4.3] Another aspect of Lewin’s analysis amplified by computer modeling and animation is the way his forms 4, 7, and 11 fill the
+gaps created by the subject and answer on the graph or model. Here the difference between the way Lewin’s graph and the
+tetrahelix animations represent this phenomenon is simple yet drastic. The use of color to distinguish the subject, answer,
+countersubject and crosstalk creates a realization of the gap-filling that is instantly clearer. On Lewin’s graph the reader tracing the
+temporal pattern of the subject or answer in his/her mind sees how forms 4 and 11 are first skipped over and then later filled in.
+However, the pattern, its gaps, and the filling in of those gaps are really only understood after several steps in a logical process.
+First, the reader must study the graph, then the score and the musical example. Next, the reader must see how the figure is an
+isolation of the shape made as music of the example surfs the graph. Finally, the reader may see how the forms fill in skipped areas
+of the figure. On the tetrahelix the music is correlated with the illumination of vertices representing pitches. This allows the viewer
+to understand immediately movement on the model as visualization of the music. Furthermore, the triangles representing forms
+become highlighted with color as the form is heard in the music. This illustrates the pattern of the subject and answer as pathways
+traced in time. Thus, forms skipped by the subject and answer appear immediately as gaps recognizable as uncolored or grey
+triangles. Subsequently, when a musical gap is filled, a grey triangle is colored visualizing the aural and analytical concept instantly.
+Consider the gap of the subject filled in by form (G ,A,B), Lewin’s form 4. At the exact time each pitch is heard in the music, the
+connecting function of the form they create, form (8,9,E), is visually evident. Lewin’s form 11 has a connecting function like forms
+4 and 7. Like form 7, form 11 fills in the gap left by the answer. However, unlike forms 4 and 7, form 11 is created by cross-talk
+between the subject and countersubject.
+[4.4] In discussing the function of the three cross-talk forms, 10, 11, and 17, our (F ,G ,A), (E ,F ,G ), and (B ,C ,D ) Lewin
+writes:
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 8 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+Form 11 also connects to the “Answer-region” the form labeled “1,5,10” ... In sum, we see how the two cross-talk forms
+10 and 11 have special spatial functions on the figure suturing together and connecting the spatial realms of Subject and
+Answer.(22)
+The exact meaning of the metaphor aside, it is clear that these two cross-talk forms in some way unite the subject and answer areas
+of Lewin’s figure. However, notice that on the figure the idea of form 10 suturing the answer area to the subject area again requires
+a bit of imagination on the reader’s part. The fact that the form is a restatement of the initial trichord (F ,G ,A) is readily
+understood. However, the leap to seeing this as a suturing of the two areas requires that the reader create some extra-visual
+connection between the two statements of the trichord. Form 11 may be seen connecting the answer region to form 10 in a similar
+manner, but beyond that the reader is forced to project a stitch-like visual onto the figure. Limited by existing in two dimensions,
+neither Lewin’s graph nor its 2-D Tonnetz extension can picture the modular geometry that he hears in Bach’s music. The way the
+tetrahelix presents this aspect of the analysis again demonstrates the general differences between static graphs and animated
+computer models. The presentation of these cross-talk forms and the last cross-talk form also highlights the specific advantages of
+our geometric model. In fact, these cross-talk forms exemplify the connection between the two issues.
+[4.5] As previously mentioned, in Animations 5 and 6 these cross-talk forms, (F ,G ,A) and (E ,F ,G ), appear in both subject and
+answer areas. The vertices lighting in time with the pitches creating these forms are not doubled and remain split between the two
+voices. This method both defines visually the idea of cross-talk and demonstrates the two-part function of these forms as local gap
+fills and global stabilizers. As the triangles are colored in they fill gaps completing a defined area. Being doubled at the octave they
+stand out as purple bookends or caps on the entire area of the tetrahelix that the fugue traverses.
+[4.6] Lewin writes the following about the last form of cross-talk, form 17:
+Form 14, the final form of the countersubject, has a like function: it connects the “high point” of the subject on the map,
+form 3, recalled as form 13, to the (local tonic) “low point” of the Answer, form 6. The cross-talk of the Countersubject
+and Answer, at form 17, cements the connection.(23)
+Pitch (B ) of the last form of the countersubject, form (B ,C ,D ), creates another (013) form with the last two pitches of the
+answer, (D ) and (C ). Above, Lewin describes how these forms serve to further unite the two areas of the figure. Again the same
+visual amplification is made on the tetrahelix. Firstly, the analytic concept is realized in real-time. Secondly, the spatial connection
+is stronger as the triangles representing the trichord forms, lying directly adjacent one another, share a common tone axis.
+[4.7] The most intriguing part of this new visualization of the cross-talk forms relates to Lewin’s endnotes 5 and 6. These two
+endnotes partly detail the success with which the 3-D animations realize Lewin’s analysis and suggest that he might have approved
+of their use. Lewin’s Endnote 5 reads
+The “spatial” functions of forms 10 and 11 on the figure are nicely projected, allegorically, by the maximum vertical distance
+between the voices during the time these forms sound in the music. As one notes on the example, that maximum vertical distance is
+the seventh G 3-F 4, involving precisely the common tones F and G that suture forms 10 and 11. One remarks that the two pitch
+classes F and G open the fugue (form 1) and cadence the subject (form 5).(24)
+Lewin, in describing how significant musical phenomena emerge in the visual field of his graph, is pointing out aspects of the
+analysis that, only implied by his visualizations, stand out under 3-D modeling.
+[4.8] Seeing the vertical distance between the voices as forms 10 and 11 with Lewin’s visualizations requires cross-referencing the
+score with his figure. Under 3-D modeling the score remains helpful but is not required. Because the model’s skeleton is a
+chromatic scale the vertical distance between the lines is clearly articulated as the appropriate vertices light at distant ends of the
+tetrahelix.
+[4.9] Similarly, it is much easier to see this largest interval of a seventh (G 3-F 4), as connected to the (G ) and (F ) that ‘suture’
+forms 10 and 11 on the animated tetrahelix. With Lewin’s visual the reader must again either hear/see the music itself while
+inspecting the figure or graph. Under 3-D animation the viewer sees the vertical seventh and the common tones of form 10 and 11
+lit in real-time with the music as they form triangles functioning as stated above. Furthermore, the viewer will also see how this
+dyad, (F ,G ), recalls the two pitches of the form that open the fugue and cadence the subject.
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 9 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+[4.10] In his Endnote 6, Lewin remarks on the spatial allegory of cross-talk form 17 that unites the subject and answer areas of the
+figure in a clausula gesture at the cadence. The tetrahelix analog of this spatial allegory is clear. The two voices of the fugue lighting
+the tetrahelix vertices converge onto the final note (C ) and outline the appropriate triangles.
+[4.11] Returning to the ‘surfing’ nature of Bach’s Gesture, the geometry of the tetrahelix strengthens another aspect of the analysis.
+Investigating the details of this surfing motion, Lewin shows how chronologic forms 7 and 9, or forms (C ,A ,B) and (G ,A,B)
+perform an inversion of the original pattern established by the first three forms appearing in the subject. While this inversion is
+apparent on Lewin’s graph, the same move depicted in tetrahelix animation brings to light the relevance of the inversion. On the 2D graph, the connection between the pattern and its underlying voice-leading must be intuited by the reader. However, since the
+tetrahelix models (013) forms as triangles related by literal Cohn flips along its surface, the concept of inverting the visual pattern is
+not as segregated from the voice-leading that underlies such a move. Notice that triangles (C ,A ,B) and (G ,A,B) of the
+countersubject are hinged by their common tone pitch (B). Similarly, triangles (F ,G ,A), (G ,A ,B), and (B ,C , A ) the first three
+(013) forms that set the original pattern, are hinged by common tones. In addition, the pathways between the triangles of the pattern
+or its inversion are clearer on the tetrahelix. On Lewin’s graph the move between his forms 7 and 9 can be seen as passing through
+form 2. However the move from form 2 to form 9 invokes that disjoined diagonal relation that seems more distant than the vertical
+relation of form 7 and 2. On the tetrahelix each move from (C ,A ,B) to (G ,A ,B) to (G ,A,B) is simply one flip on a common tone
+axis.
+[5] A New Perspective
+[5.1] 3-D animation of the opening of the F Minor Fugue models an analytical observation not overtly discussed by Lewin. It
+involves the presence of three versions of Forte-set 4-28 on the three helices, each helix containing a different version of the
+tetrachord respectively. With reference to Straus’s pcset cycles each of the three helices will be referred to by the version of the
+pcset (0369) it represents and thus called Helix C30, Helix C31 and Helix C32 or HC30, HC31 and HC32 for short.(25) These cycles
+of tetrachords are present on the 2-D Tonnetz as continuous moves along the IC3 diagonals. These tetrachords may not at first seem
+relevant to an analysis of Bach. However, a closer look at the tetrahelix, the (013) forms and Bach’s fugue itself reveals another
+pattern within the opening six measures of the F minor fugue.
+[5.2] Begin by noticing that, on the tetrahelix, each helix constructs a cycle of IC3s in pitch space not pitch-class space. Straus’
+circles present interval cycles in a closed mod12 pitch-class space with octave equivalence. The tetrahelix takes his circles of C3
+and pulls them out into the third dimension spiraling them in a pitch space. Of course, the tetrahelix used in all the visualizations
+provided here only presents about two octaves, but could be extended further. Nevertheless, beyond register, this conversion enables
+us to see the combination of all three cycles, represented in 3-D, into a modular geometric structure. This geometric integration
+allows a fluid visualization of the musical movement between the cycles about to be discussed.
+[5.3] If the octatonic collection can be derived from a combination of
+any two C3-cycles, then analogously, the three permutations of Forteset 8-28 (0134679T), can be derived from the combination of any two
+helices on the tetrahelix. Walking the alternating half and whole steps
+of an octatonic collection on the model traces a lattice between two of
+the three helices and traverses one of the three twisting sides of the
+tetrahelix. Each side will be referred to as a combination of helices.
+Thus, the octatonic collection (0134679T) will be called HC30HC31,
+
+Table 1. Three octatonic collections and the
+list of (013) forms they each contain
+
+the collection (124579TE) HC31HC32, and the collection (0235689E)
+HC30HC32. Again, these lattice pathways are also visible on the 2-D
+Tonnetz, though, not as explicitly. These three octatonic pitch
+collections each contain eight of the twenty-four permutations of
+Forte-set 3-2 (013). These relations are apparent in the structure of the
+tetrahelix where each triangle is composed of two points from one
+helix and one from a second helix. Put another way, each triangle lies
+within one of the three octatonic pathways on the tetrahelix. Table 1
+presents the three octatonic collections and lists the (013) forms that
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+(click to enlarge)
+
+Page 10 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+they each contain.
+[5.4] Returning to Bach, the progression of (013) forms appearing in the subject delineates a distinct pattern with regard to the
+divisions in Table 1. The five appearances, (F ,G ,A), (G ,A ,B), (A ,B ,C ), (G ,A,B), and (F ,G ,A) move sequentially through
+each of the octatonic pathways or sides of the tetrahelix. Moreover, with repetition, they place preference on side HC32HC30, the
+side that opens and closes the subject. The answer replicates this pattern only beginning and ending with HC30HC31. Also note that
+the pathways the subject and answer prioritize are the octatonic collections whose pc content is closest to that of F minor and C
+minor respectively. In a slightly different manner, the countersubject begins in the pathway whose octatonic collection most
+replicates the key of B minor. Notice that the second trichord of the subject, form (G ,A ,B), lying in this same pathway,
+HC31HC32, is the form that could be interpreted as tonicizing (B). The analogous is also true for the third form of the subject, form
+(B ,C ,A ) that lies in the HC30HC31 pathway and could be seen as tonicizing C . The combined patterns of the subject and the
+answer described above produce the complex constellation-like form present at the end of Animation 3. The forms presented by the
+countersubject begin in HC31HC32, move through HC30HC32 and conclude with two forms in the prioritized pathway of the
+answer, HC30HC31. The two cross-talk forms of the first cadence, (F ,G ,A) and (E ,F ,G ) lie within HC32HC30 and as a
+repetition of form (B ,C ,D ) the final cross-talk lies in HC30HC31. The reader may easily trace all three patterns, subject, answer
+and countersubject as well as the placement of cross-talk forms, in Table 1. Animations 3-7 visualize these movements.
+[5.5] Certainly, it is easy to see octatonic relationships wherever Forte set 3-2 (013) is present, often without any musical impetus or
+relevance. Admittedly, these octatonic patterns have minor significance in any satisfactory analysis of Bach’s fugue. Note also, that
+the 2-D Tonnetz could easily be extended to permit the continuation of octatonic lattices and a chromatic scale can be traced
+through them. However, with regard to this specific concept and visualization, we are more interested in demonstrating the potential
+of the geometric model than in enhancing the analysis. To that extent, the helical model better depicts the cyclical nature of the
+tetrachordal and octatonic elements, their internal relationships and their realization within the music. If the tetrahelix can reveal this
+noticeable pattern in these six measures of Bach’s music then it may prove useful in the investigation of the music of more modern
+composers. Nevertheless, without implying that Bach was composing with trichord sets, tetrachord cycles or octatonic collections in
+mind, these patterns add another perspective on the nature and effect of the chromaticism present in the opening of the F Minor
+Fugue.
+[6] Conclusions and Some Prospects for Further Research
+[6.1] Three-dimensional animation and the tetrahedral triple helix elucidate Lewin’s analysis of the opening of Bach’s F Minor
+Fugue and bring into light another theoretical phenomenon. The 3-D modeling of these Cohn flips clarifies their inherent
+parsimonious voice-leading by presenting trichords as adjacent triangles sharing common-tone edges. The tetrahelix, constructed in
+a pitch space, integrates a chromatic scale into this modeling of Cohn flips, which allows an accurate correlation of visual direction
+with aural register. The saturation of the first six measures, and the entire fugue for that matter, with (013) forms establishes this
+particular trichord as the smallest building block with which the piece is constructed. Lewin’s analysis, remodeled and animated
+here, shows how these (013) forms move fluidly through a mapping of Cohn flip voice-leading in musically significant patterns.
+Animating the path of the music through the structure of the tetrahelix, pitch-by-pitch, introduces real-time digital imagery into the
+analysis. The amalgamation of these techniques simultaneously clarifies and extends Lewin’s analysis.
+[6.2] This article is not intended as pedagogical theory. Nor is it intended to advance a specific lesson, model or method for
+practical classroom use. However, the general nature of our media and design of our model correspond to established theories and
+techniques in the fields of music education and education in general. Wide-ranging evidence has shown that “the listening condition
+that include[s] both visual and kinesthetic elements in addition to the aural component [is] most effective in enhancing children’s
+aural perception of musical form.”(26) Entire methodologies of music education such as Kodaly or Dalcroze are founded on such
+concepts. In an article discussing reference maps and their effects on prose learning, educational psychologists Abel and Kulhavy
+state that “maps consistently have been found to improve memory for related prose” and that “maps add a dimension to pictorial
+adjuncts by depicting logical relations among individual features.”(27) However, referring to past experiments they reiterate that
+“the mere presence of extratextual information fails to account for increased learning when maps and prose are combined” but that
+“what matters is how the map information is provided.”(28) In previous work, Kulhavy and Schwartz explained that “figural
+characteristics work to maintain relational context, at least in the case in which a recall task demands performance that is spatially
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 11 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+isomorphic with the original stimuli.”(29) Concluding their study, Abel and Kulhavy write:
+Our results are consistent with Levie and Lent’s (1982) conclusion that ‘learner generated imaginal constructs are
+generally less helpful than provided illustrations’ (p. 226), and lend credence to the idea that attending to provided
+images requires fewer cognitive resources than generating and attending to idiosyncratic images. ... Data from the cued
+recalls demonstrate that spatiality and feature mimeticism led to the most learning. ... By adding a perceptual component
+to abstract (verbal) information, map features seem to function transformationally by supplying learners with an easily
+accessible analog of text context.
+[6.3] This concept is readily seen in common tools of music educators worldwide: listening maps, form charts and call charts. Music
+educator Samuel Miller writes: “A ‘listening map’ is a graphic representation that symbolizes the essential features of a musical
+selection in a visual format. It is a valuable teaching aid ... because it visually represents exactly where musical events take place,
+making it easier for children to understand musical relationships.”(30) Beverly Bletstein writes that “call charts have proven to be a
+valuable learning tool at all levels of music instruction and for all types of students” extending into the college curriculum.(31)
+[6.4] As demonstrated in section 4, our revisualization operates in two ways to make the analysis more accessible. It reduces the
+number of things the reader must keep in his/her head to visualize the theory by synthesizing the components of Lewin’s analysis.
+With one figure we can see the complete (013) graph, the musical line with register, and a graph of the forms in the subject, answer,
+counter-subject and cross-talk. Secondly, the animation weds the music and the analysis, portraying a second synthesis between the
+abstract concepts and the actual notes. Admittedly all the theory cannot be grasped at the speed at which even this slow fugue passes
+by and much of the analysis must be read prior to understanding the model. Nevertheless, both of these operations facilitate
+connections that, however easy for Lewin, may be more difficult for others. Lewin writes:
+To be sure, the inversional relation between the opening of the subject and the opening of the countersubject is
+manifestly audible in the pitch intervals and contours of the music itself; we do not need the fancy spatial map of the
+figure to hear the relation as such. What the map does bring out is the way in which the particular inversional
+relationship of the forms employed fills in a connected spatial region on the figure.(32)
+[6.5] This relation serves as an excellent example of a place where the real-time animation helps readers hear things Lewin hears
+easily. Our model, as an extension of Lewin’s visualizations, adds meaning to the analysis in exactly the same way. The overall
+meaning Lewin imparts to the analysis is that Bach’s realizations of (013) forms creates an intricate pattern on a map of Forte Set 32 as related by Cohn flips. This pattern is both aesthetically pleasing and rife with voice-leading and inversional relationships. Thus,
+as the example shows, and as detailed in section 4, our even fancier spatial map brings out these relationships and the way they fill
+the region of the tetrahelix. As Gollin writes at the end of his work on 3-D Tonnetze:
+We may view the Tonnetz as an independent framework that allows one to make distinctions among the (otherwise
+indifferent) transforms that underlie its elements. It allows one to posit analytical meaning or value to certain families of
+transforms ... based on the distance between elements mapped by those transforms, whose geometry in turn is
+determined contextually by the intervallic structure.(33)
+[6.6] The design and realization of the 3-D geometric animations presented here required us to make many decisions with regard to
+language, labeling, audio/visual relationships, timing, duration, camera angle, color, and most obviously geometric structure.
+Although we are confident that our choices were informed and find our results satisfactory, we fully acknowledge that many other
+ways to visualize Lewin’s analysis exist. Beyond this, more work remains available within the F Minor Fugue. The rest of the
+fugue presents various statements of the subject and countersubject that do not alter the local appearances of (013) forms. The
+invertible counterpoint allows the reappearance of the same three instances of cross-talk in different registers. Despite this, a case
+can be made for continuing to inspect the fugue with the same analytical tools. The episodic material that links and separates the
+restatements of the subject would appear under a complete animation of the fugue on the tetrahelix. A study of these measures
+shows that they are saturated with (013) forms as well. The divergent patterns of these appearances would be worth viewing
+animated on the tetrahelix and such work is underway. In addition, some of the aspects of the specific episodes and the general role
+of episodic material in a fugue suggest an entirely different modeling of the theory involved—one that emphasizes the bridge-like
+function of the episodes. The fluidity of the melodic lines implies a model in the style of a transportation map, while the prevalence
+and structure of cross-talk suggest a model with supportive architecture.
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 12 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+[6.7] Outside of the F Minor Fugue, this geometric model of (013)s has other potential applications. Bach’s chorale prelude on
+“Durch Adam’s Fall,” as mentioned by Lewin, contains its own pattern of (013)s. In addition the tetrahelix, with its octatonic
+pathways, might prove useful in analyzing certain 20th-century music such as that of Bartók or Varèse. Furthermore, groundwork
+for computer programming that would efficiently animate an entire piece exists. This programming would essentially assign each
+vertex of whatever model or graph was used to the correlating MIDI note. Then, the performance of this fugue, any fugue, or any
+music of whatever length, could be linked to trigger the on and off switches of the assigned vertices. This would extend the digital
+coupling of analytic visualizations with actual music to longer lengths of music and more complex and possibly morphing models.
+The possible uses for such technology are as endless as the amount of music to be studied.
+
+Return to beginning of article
+Jacob Rosenthal Reed
+Ohio State University
+School of Music
+1866 College Road
+Columbus OH, 43210
+ejacobreed@yahoo.com
+Matthew Neil Bain
+Ohio State University
+Department of Industrial, Interior, and Visual Communication Design
+128 N. Oval Mall
+Columbus OH, 43210
+bain.28@osu.edu
+Return to beginning of article
+
+Bibliography
+Abel, R. Robert, and Raymond W. Kulhavy. “Maps, Mode of Text Presentation, and Children’s Prose Learning.” American
+Educational Research Journal 23, no. 2 (Summer 1986): 263–274.
+Bletstein, Beverly. “Call Charts: Tools from the past for Today’s Classroom.” Music Educators Journal 74, no. 1 (September
+1987): 53–56.
+Chew, Elaine. “Slicing It All Ways: Mathematical Models for Tonal Induction, Approximation, and Segmentation Using the Spiral
+Array.” INFORMS Journal on Computing 18, no. 3 (Summer 2006): 305–320.
+Chew, Elaine, and Alexandre R. J. Francois. “Interactive Multi-scale Visualization of Tonal Evolution in MuSA.RT Opus 2.” ACM
+Computers in Entertainments 3, no. 4 (October 2005): 1–16.
+Cohn, Richard. “A Tetrahedral Graph of Tetrachordal Voice-Leading Space.” Music Theory Online 9, no. 4 (October 2003): 1–19.
+__________. “Neo-Riemannian Operations, Parsimonious Trichords, and Their ‘Tonnetz’ Representations.” Journal of Music
+Theory 41, no. 1 (Spring, 1997): 1–66.
+__________. “Maximally Smooth cycles, Hexatonic Systems, and the Analysis of Late- Romantic Triadic Progressions.” Music
+Analysis 15, no. 1. (March, 1996): 9–40.
+Douthett, Jack and Peter Steinbach. “Parsimonious Graphs: A Study in Parsimony, Contextual Transformations, and Modes of
+Limited Transposition.” Journal of Music Theory 42, no. 2, Neo-Riemannian Theory (Autumn 1998): 241–263.
+Gollin, Edward. “Some Aspects of Three-Dimensional ‘Tonnetze’.” Journal of Music Theory 42, no. 2, Neo-Riemannian Theory
+(Autumn 1998): 195–206.
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 13 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+Gromko, Joyce Eastlund, and Christine Russell. “Relationships among Young Children’s Aural Perception, Listening Condition,
+and Accurate Reading of Graphic Listening Maps.” Journal of Research in Music Education 50, no. 4 (Winter 2002): 333–342.
+Hyer, Brian. “Tonal Intuitions in Tristan Und Isolde.” PhD diss., Yale University, 1989.
+__________. “Reimag(in)ing Riemann.” Journal of Music Theory 39, no. 1 (Spring, 1995): 101–138.
+Krumhansl, Carol L. “The Geometry of Musical Structure: A Brief Introduction and History.” ACM Computers in Entertainments 3,
+no. 4 (October 2005): 1–14.
+Kulhavy, Raymound W., and Neil H. Schwartz. “Mimeticism and the Spatial Context of a Map.” Bulletin of the Psychonomic
+Society 15, no. 1 (1980): 416–418.
+Lewin, David. “Cohn Functions.” Journal of Music Theory 40, no. 2 (Autumn 1996): 181– 216.
+__________. “Notes on the Opening of the F Minor Fugue From WTCI.” Journal of Music Theory 42, no. 2, Neo-Riemannian
+Theory (Autumn 1998): 235–229.
+Miller, Samuel D. “Listening Maps for Musical Tours.” Music Educators Journal 73, no. 2 (October 1986): 28–31.
+Pugh, Anthony. Polyhedra: a Visual Approach. Berkeley and Los Angeles, CA: University of California Press, 1976.
+Rogers, Nancy and Michael Buchler. “Square Dance Moves and Twelve-Tone Operators: Isomorphisms and New Transformational
+Models.” Music Theory Online 9.4 (October 2003): 1–12.
+Straus, Joseph. Introduction to Post-Tonal Theory, 3rd ed. Upper Saddle River, NJ: Pearson Prentice Hall, 2005.
+Return to beginning of article
+
+References
+1. Lewin, “Notes on the Opening of the F Minor Fugue from WTCI,” 235.
+Return to text
+2. Ibid., 236.
+Return to text
+3. Ibid., 235.
+Return to text
+4. Ibid., (emphasis mine).
+Return to text
+5. Cohn, “Neo-Riemannnian Operations, Parsimonious Trichords, and Their “Tonnetz” Representations,” 14.
+Return to text
+6. Lewin, “Cohn Functions,” 189.
+Return to text
+7. Lewin, “Notes on the Opening of the F Minor Fugue from WTCI,” 235.
+Return to text
+8. Ibid., 238 (emphasis mine).
+Return to text
+9. Ibid.
+Return to text
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 14 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+10. Gollin, 195.
+Return to text
+11. Krumhansl, 9.
+Return to text
+12. Chew, “Slicing It All Ways: Mathematical Models for Tonal Induction, Approximation and Segmentation Using the Spiral
+Array,” 7.
+Return to text
+13. Chew and Francois, “Interactive Multi-scale Visualizations of Tonal Evolution in MuSA.RT Opus 2,” 1.
+Return to text
+14. Ibid., 3.
+Return to text
+15. Pugh, 53.
+Return to text
+16. In “Square Dance Moves and Twelve-Tone Operators: Isomorphisms and New Transformational Models” Nancy Rogers and
+Michael Buchler show a correlation between “musical and square dance transformations.” No 3-D geometry is used, unless, of
+course, the reader performs the dances, but simple animations demonstrate the square dance moves and their twelve-tone analogs.
+Return to text
+17. Lewin, “Notes on the Opening of the F Minor Fugue from WTCI,” 236.
+Return to text
+18. Ibid., 237.
+Return to text
+19. Ibid.
+Return to text
+20. Ibid., 238 (emphasis mine).
+Return to text
+21. Ibid.
+Return to text
+22. Ibid.
+Return to text
+23. Ibid.
+Return to text
+24. Ibid., Notes, 239.
+Return to text
+25. Straus, Introduction to Post-Tonal Theory, 154–155.
+Return to text
+26. Gromko and Russel, “Relationships among Young Children’s Aural Perception, Listening Condition, and Reading of Graphic
+Listening Maps,” 334–335.
+Return to text
+27. Abel and Kulhavy, “Maps, Mode of Text Presentation, and Children’s Prose Learning,” 263.
+Return to text
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 15 of 16
+
+MTO 13.4: Reed and Bain, A Tetrahelix Animates Bach
+
+10/5/11 7:02 PM
+
+28. Ibid., 265.
+Return to text
+29. Kulhavy and Schwartz, “Mimeticism and the spatial context of a map,” 418.
+Return to text
+30. Miller, “Listening Maps for Musical Tours,” 28.
+Return to text
+31. Bletstein, “Call Charts: Tools from the past for Today’s Classroom,” 54.
+Return to text
+32. Lewin, Notes, 237–238.
+Return to text
+33. Gollin, 204.
+Return to text
+Return to beginning of article
+
+Copyright Statement
+Copyright © 2007 by the Society for Music Theory. All rights reserved.
+[1] Copyrights for individual items published in Music Theory Online (MTO) are held by their authors. Items appearing in MTO
+may be saved and stored in electronic or paper form, and may be shared among individuals for purposes of scholarly research or
+discussion, but may not be republished in any form, electronic or print, without prior, written permission from the author(s), and
+advance notification of the editors of MTO.
+[2] Any redistributed form of items published in MTO must include the following information in a form appropriate to the medium
+in which the items are to appear:
+This item appeared in Music Theory Online in [VOLUME #, ISSUE #] on [DAY/MONTH/YEAR]. It was authored by
+[FULL NAME, EMAIL ADDRESS], with whose written permission it is reprinted here.
+[3] Libraries may archive issues of MTO in electronic or paper form for public access so long as each issue is stored in its entirety,
+and no access fee is charged. Exceptions to these requirements must be approved in writing by the editors of MTO, who will act in
+accordance with the decisions of the Society for Music Theory.
+This document and all portions thereof are protected by U.S. and international copyright laws. Material contained herein may be
+copied and/or distributed for research purposes only.
+Return to beginning of article
+Prepared by Brent Yorgason, Managing Editor
+Updated 24 December 2007
+Number of visits since December 2007: 2,502
+
+http://www.mtosmt.org/issues/mto.07.13.4/mto.07.13.4.reed_bain.html
+
+Page 16 of 16
+
+

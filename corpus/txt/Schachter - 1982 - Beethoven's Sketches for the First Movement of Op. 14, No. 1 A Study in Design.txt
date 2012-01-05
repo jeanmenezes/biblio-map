@@ -1,0 +1,1097 @@
+Yale University Department of Music
+
+Beethoven's "Sketches for the First Movement of Op. 14, No. 1: A Study in Design"
+Author(s): Carl Schachter and Beethoven
+Source: Journal of Music Theory, Vol. 26, No. 1 (Spring, 1982), pp. 1-21
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843353
+Accessed: 15/12/2009 18:15
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+BEETHOVEN'S SKETCHES FOR THE
+FIRST MOVEMENT OF OP. 14, NO. 1:
+A STUDY IN DESIGN
+
+CarlSchachter
+
+The musicianwho wants to deepen his understanding Beethoven's
+of
+Piano Sonata, op. 14, no. 1, has availableto him a good deal of material
+to supplementthe printed score. Beethoven'sautograph-like those of
+the other early sonatas-has disappeared,but by way of compensation
+there is his unique recomposition of the sonata as a string quartet. In
+addition an unusuallylarge and highly fascinatingbody of sketcheshas
+survived;those for the first movement form the subjectof this article. I
+do not intend to discuss these sketches in anything approachingcomplete detail. InsteadI shall concentrateon some significantfeaturesthat
+have not been dealt with very much in the ratherextensive literature
+about op. 14/1. These features suggest interestinginsights into the finished movement and even provide a basis for some cautious generalizations about Beethoven'scompositionaltechnique and about the relation
+of sketch study to analysis.
+The surviving
+sketches (which seem to be fairly complete) are now to
+be found in four different cities: London, Berlin,Stockholm, and Washington. Most of them form part of the "Kafka"miscellany owned by
+the British Library.One very important sketch is found in the "Fischhof" miscellany in the Staatsbibliothek Pre,ussischer
+Kulturbesitz in
+West Berlin. Finally there are three fragments divided up among two
+1
+
+Stockholm collections and the Libraryof Congress.Douglas Johnson
+has shown that these fragmentsoriginally belonged to a single leaf.1
+Musicianswith an interest in sketches have known about the Fischhof
+and Kafka sketches for a long time, ever since GustavNottebohm transcribedand publishedthe greaterpart of them morethan a centuryago.2
+For the last decade the complete London source has been availablein
+both facsimile and transcriptionin a splendid publication by Joseph
+Kerman.3Douglas Johnson's remarkablycomprehensivestudy and reconstructionof Fischhof containsnot only the Berlinsketch of op. 14/1
+in transcriptionbut also the Stockholm and Washingtonfragments.4
+are
+Photocopies of all the extant sketches (as well as transcriptions) included in a carefullydone thesis by JenniferGild.5
+The sonata was published (together with its companionin G major)
+by Mollo of Viennain December, 1799. Nottebohm believedthat it had
+been composed much earlier, in 1795. There is compelling evidence,
+however, for the view that Beethoven composed it in 1798; Johnson
+gives a very clearsummaryof this evidence.6
+THE RISING FOURTH
+
+Workingback from the finished composition to the sketch is often
+as helpful as working forwardfrom the sketch to the composition. In
+the case of op. 14/1, the first four measuresof the sonata (Example 1)
+providethe best initialvantagepoint for viewingmanyimportantfeatures
+of the sketches. The idea that fills these four measuresis a most remarkableone: both the largershapeand its most prominentcomponent
+figure echo the rising fourth between the first two notes, b1 and e2.
+Thus the entire sopranoline rises from the bl of measure1 to the e3 of
+measure4; the line, therefore, representsthe initial fourth expandedin
+time from one bar to four and in size from a simpleintervalto a com2
+pound one. This expanded fourth is filled in by two passingtones, c
+and d# 2, that fall on the downbeatsof measures2 and 3; because of the
+passingtones, the expandedfourth is expressedas a stepwiselinearprogression, bl-c 2-dF2-e3. Nested within this overarching linear progres-
+
+sion is a smaller filled-in fourth (m. 4), emphasized by a new and
+characteristic
+rhythm. The small fourth helps to transferthe goal tone
+to the three-lineoctave;throughmotivic associationit also strengthup
+ens its connection to the initial tone, b1.
+of
+Note how the large fourth-progression the right-hand
+part is reinthe uppermostnotes of the left hand, which double it at the
+forced by
+lower octave. In addition, Beethoven'sslurshelp the playerprojectboth
+The new slurat the head of
+the large and the small fourth progressions.
+measure3 emphasizesdt2 and thus helps to connect it to e3 (measure
+4), which is separatedfrom it both in registerand in temporalsequence.
+The slurover measure4 isolatesanddefinesthe smallfourth-progression.
+
+2
+
+Example 1. Op. 14/1, 1st mvt., m. 1-4
+
+IP
+1j
+
+#
+
+>.d
+
+IP'e
+
+I~~~
+
+5"lx~~~-~
+
+~XUIlf~~5
+
+Example2. Berlinsketch
+3
+
+jjt:Fv
+;=
+v
+
+f 1UlLT^C^^
+
+^(4f
+t#
+v(
+
+;JF
+
+,
+F'WP
+
+1
+
+I
+
+20
+
+1%1#0~~~~~~~~~~~~~
+i1
+
+J
+
+I;
+
+4
+
+f<0A nY
+I /O
+
+I ItI#"l
+
+i
+
+O
+/
+
+-
+
+1i^
+I
+
+.
+
+v
+
+y
+
+T
+
+Example2. Berlinsketch (continued)
+
+4
+
+:11
+a
+
+These first four measures(and the two that follow them) appearin
+almost their final form in the earliest extant sketch-the one in the
+Fischhof miscellany. Example 2 shows this sketch. For the most part it
+follows Nottebohm, who transcribedthe first twenty measures,but I
+have added the last three bars, using Johnson's transcriptionand the
+photocopy of the originalin Gild.7 The sketch shows a complete miniature exposition, twenty-three measureslong. The definitiveappearance
+of measures1-6 is all the more strikingin that the rest of the exposition
+bears little outward resemblanceto the finished work and is, in some
+ways, rathercrudely put together. The tonic groupends with a strongly
+articulated half cadence (mm. 7-8). With astonishing abruptnessthe
+bridge begins in G major(m. 9); it leads, throughthe V of B major,to a
+dominant group containing two ideas, a "second theme" (mm. 14-18)
+and a codetta, (mm. 18-23), which is the unmistakable
+ancestorof the
+corresponding
+part (mm. 57-60) of the publishedpiece.
+The guiding idea of this sketch is most immediatelyevident in the
+second theme, which begins the dominant group. The first phase of
+this idea is based on a stepwise line risingfrom b (middle of m. 14) to
+e2; Beethoven emphasizesthis latter pitch by its position as goal of the
+ascent, by its duration, and by its insistent repetition. The boundary
+tones of this line, bl and e2, representthe rising fourth of measure 1,
+but now transplantedinto a B-major
+environment;the stepwisemotion
+from b1 to e2 recallsthe linearcomposing-outof the fourth in measures
+1-4. Even the registerin which the fourth occurs is the same as that of
+measure 1. In its new context, however, the fourth takes on a very different meaning; the e2, in particular,no longer functions as a stable
+element, for it forms a dissonancewith the local tonic triad,andit is constrainedto resolveto the dS2 that follows it.
+Except perhaps for general features of texture and contour, very
+little of this thematic idea found its way into the corresponding
+part of
+the completed movement. The sixteenth notes that lead into it-falling
+from f#2 to b'-have the contour of the upbeat to the final versionof
+the "second theme." In both the sketch and the sonata the descent is
+followed by a rising line, but in the sonata this line does not evoke the
+initial rising fourth, for it does not lead to e2. Although he did not incorporate it into the completed first movement, Beethoven may not
+have discardedthis sketchedidea, for it is strikinglysimilarto the opening of the third movement of op. 14/1 (Example 3); this sketch, then,
+may well be the source for the Finale'sopening theme.
+Of the two remainingparts of the Berlin sketch-the bridgeand the
+codetta-the latter is by far the less problematic.It begins, as does the
+correspondingpart of the completed movement, with a quotation of
+the fourth, B-E, of measure 1, in its originalhalf-note rhythmbut in a
+bass register.The bridge,however,is much more difficult to understand.
+The turn to G major is so abrupt and seemingly unmotivatedthat one
+5
+
+a. Rondo theme
+
+4
+I
+(6"o K'r V
+iJ
+
+col
+
+p
+,P
+
+f"e/ rrr
+r
+
+ir
+
++
+n 1A..
+
+8va
+
+r
+
+C c.
+cresC.
+
+b. Sketch for 1st movement, transposed to E
+
+=
+
+PE
+
+r
+
+#R
+
+-- C r^
+
+lr
+
+Example 3
+
+14
+
+12
+
+1-4
+
+I
+
+E9r-rW
+
+r:
+
+G:
+
+E
+
+1
+Fr
+
+B:
+
+I
+
+j ^' lr
+r
+
+11
+
+r
+
+Example 4
+
+15
+
+A1 12
+
+.J J If
+I.
+Ir
+
+,j
+~~-~"j.j 1.J 1i,J
+
+it
+
+bridge)
+
+20
+
+7
+
+1# J
+
+j
+
+I I" I
+r
+
+;
+
+=
+E
+
+(C2nd theme')
+
+25
+
+I
+LL:"
+
+j C
+10;j 'J r
+<
+etc.
+
+J
+
+6
+
+04
+
+T
+
+i- irf- T
+
+I rt r
+
+Example 5. London 1
+
+wonders what Beethoven had in mind. Part of the answersurelylies in
+the sixteenth-note figuration of measure 12, for the emphasizednotes
+are B, Ct, Do, and E, yet another transformationof our risingfourth.
+The G-major
+context leads to the substitutionof C I and Dg for C# and
+DS. And as in the coming B-majortheme, the E lies outside the local
+tonic chord; here it functions as upper neighborto the following Dt .
+Despite these differences the connection, both to the beginningand to
+the B-major
+theme that follows, is undeniable.
+In this draft, then, the four segmentsof the exposition-tonic theme,
+bridge, dominant theme, and codetta-are linked by the prominent
+appearancein each of them of the initial rising fourth. The fourth remains at the same pitch level, from B to E, even though it appearsin
+three different keys: E, G, and B (Example 4). It was evidently Beethoven's intention to pursue this fourth throughout the course of the
+entire tonal progressof the exposition.
+As the sketchesin the London sourceindicate, Beethovencontinued
+trying to connect the various strains of the exposition by using the
+fourth, B-E, as a common element. But is was an enterprisein which he
+was not fated to succeed. Among the London sketchesare three drafts
+of the entire exposition, which 1 shall call London 1, 2, and 3. London
+1 leaves out the first eight bars of the final version;the other two drafts
+are complete.8 Example 5 shows the bridge and the opening strain of
+the dominantgroupfrom London 1.
+The bridge is aleady very close to its final version; the shift to G
+of
+never
+majorand the transformation the B-E motive have disappeared
+to returnin any subsequentsketch. The second theme, however,is even
+further away from its eventual form than was the one in the Berlin
+sketch. It consists of a point of imitation with three entrances,arranged
+more or less like a fugal exposition. And the "subject"of this fugato
+begins with our risingfourth, B-E (Example5, m. 19). Withits rhythmic
+angularityand "learned"character,this theme seems almost totally out
+of keepingwith the restof the sketchedexposition;the notion that Beethoven was trying out variousways of transformingthe motivic fourth
+accounts at least partially for the strangeappearance a fugato at this
+of
+point in the exposition.
+In the London2 draft,the bridgeis so close to its definitiveform that I
+shall not quote it in Example 6. As the example shows, the second
+theme now beginsto resemblethe final version.In the sketch, however,
+the melodic line breaks up into two segments,each in a differentregister. The first segment begins with our fourth, expressed as b-e1 (the
+same as the correspondingnotes in London 1 and in the same register).
+And althoughthe second note in London 2 is shorterthan in London 1,
+the rhythm of attacksis the same in both sketchesand, for that matter,
+the same as that of measure1.
+London 3 differs significantlyfrom the publishedexposition only in
+7
+
+24
+
+etc.
+
+ar~~
+
+Example7. First sketch for development
+
+a. Sketch for recapitulation
+
+etc.
+
+b. Final version:beginningof recapitulation
+91
+
+B-E
+
+f
+
+Example8
+8
+
+the six barsthat precedethe codetta; by this time Beethovenhas finally
+abandonedhis attempt to make the risingfourth a prominentfeature of
+the first B-majortheme. It is perhapsnot altogetherfanciful to see a
+trend toward this abandonmentin the sequenceof earliersketches, for
+E, the upper note of the fourth, has dwindled from five notes filling
+three beats (Berlin)to a dotted quarternote (London 1) and then to an
+eighth (London 2) before we reach this version, where the fourth disappearsaltogether.
+Neither the development nor the recapitulation went through as
+many stages as the exposition. Almost all of the extant sketches for the
+development are in the London source;Example7 shows the earliest,a
+sketch for the opening of the section.9 It appearson the pagewhere the
+first B-majortheme receivedits more or less final form. Just before and
+obviously connected with it is a sketch for the dominant group;this
+sketch, which contains the definitive second theme, was incorporated
+into London 3, furtherdown on the same page. Thus Beethovenalmost
+certainly wrote the first sketch for the development after having comafter havpleted most of his work on the exposition and, in particular,
+ing given up his attemptto beginthe second theme with the B-E motive.
+As if to compensate for this sacrifice, the first five measuresof this
+sketch for the development contain yet a new transformationof the
+motive, placed in a high registerand probably animatedby a chain of
+trills. Beethoven was soon to abandon this new effort on behalf of the
+motive. The next sketch begins much like the final version and breaks
+off with the words "ohne das Thema durchzufuhren"("without
+developingthe theme").10
+Recapitulationsobviously offer less scope for new transformations
+of a basic motive than expositions and developments. However one
+small detail of this recapitulationmay representsuch a transformation.
+The London source contains one complete draft of the recapitulation
+and coda together with a few smallersketches. The draft begins with
+just the soprano line and would appearto representan unchangedquotation of the opening. The bridge takes the theme to C major and
+accompaniesit with two-octave scales in the left-handpart.1 In a later
+sketch, Beethoven transferredthese scales to the opening of the recapitulation; this change was retained in the published movement.12
+Example 8 suggests a possible reason for the change: the culminating
+notes of the scales(see brackets)might be viewed as anothermanifestation of the B-E motive. Although the possibilityof coincidence cannot
+be ruled out in a case like this, it is certainlyconceivablethat the revision was made in order to state the motive at its primarypitch levelbetween B and E.
+Beethoven's attempts to maintain the originalpitch level of the B-E
+motive did not at all preventhis using the motive in a less rigorousway.
+9
+
+Indeed measures5-6 of the Berlin sketch (and of the completed movement) contain figuration whose accented notes, G# -A-B-C#, form a
+rising fourth (see Example 2). This pattern certainly grows out of the
+B-E motive even though the goal tone, C#, is simply the upperneighbor
+of the main tone, B, that follows.
+a
+Transposing tonic-key motive to the dominant in the exposition's
+second group can take on a specialmeaningin sonata-form
+movements,
+for in the recapitulation, the transposed motive will reappearin its
+original tonic form. Beethoven introduced such transposedfourths at
+four different points in the dominantgroup and at four different stages
+of the compositionalprocess. The first instance occurs in London 1 in
+a part of the sketch that corresponds measures46-49 of the finished
+to
+movement;note the similarityof the left-hand figureto the rhythm of
+measure4 (Example9).
+A more prominenttransposedfourth makes its appearancein London 3, at the second strainof the dominantgroup(Example 10). In the
+sketch the rhythmic shape is identical to that of measure4, but in the
+final version (mm. 39-40) a turn replacesthe two sixteenth notes, so
+that the figure no longer conforms exactly to its model. Nottebohm
+commented on this change, speculatingthat Beethoven preferredto
+avoid a thematic correspondencein orderto preservethe light, graceful
+character of the work. Neither he nor Tovey, who makes much the
+same point, seems to have noticed just how much thematic correspondence Beethoven was trying to introduce into this light, graceful
+work.13
+
+The closing strainof the B-major
+groupin London 2 contains a rising
+fourth that does not relate so obviously to any previous statement
+(Example 11). Indeed in the sketch itself this fourth does not seem to
+express any strong motivic connection with earlierones. In the finished
+movement (m. 50), however, the idea occurs soon after the similar
+figure quoted in Example 10; the proximity gives it a more explicitly
+motivic character.Interestingly,Beethoven discardedthis idea in London 3, only to bring it back in the Washingtonand Stockholm draftprobablythe last sketch for the exposition.
+The Washingtonfragment of this draft introduces the last, and in
+some ways the most interesting, manifestation of the transposed
+fourth (Example 12). It occurs in the last big cadence,just before the
+codetta (mm. 54-57 of the exposition), and it is characterizedby a
+most expressiveregistertransfer,a downwardleap of almost two octaves
+that prepares the low register of the codetta.14 This beautiful transformation of the fourth takes on particularsignificancewhen it reappearsin the recapitulation,as we shall see presently.
+
+10
+
+*J
+r 1P4
+
+L
+_<1
+
+-
+
+t
+
+q
+
+Example~~~~~<
+9. L
+oetcc
+Il
+
+Example9. London 1
+
+-
+
+Example 10. London 3
+
+#
+
+~..-r"r
+
+54
+
+i-r- #J.
+
+-^*n'
+uiR
+
+m
+
+I1 Ip - rThp7
+
+Example 11. London 2
+
+Fl
+
+Gd
+
+Bt
+
+Al
+
+sketch
+Example 12. Washington/Stockholm
+11
+
+THECHROMATIC
+MOTIVE
+element in the
+The rising fourth is not the only importantrecurring
+design of this movement. Any perceptive and attentive performeror
+listener must be struck by the frequent use throughout the exposition
+of Gt and its enharmonicequivalent, Fx. The persistentintroduction
+of this chromatic sound is all the more strikingsince the exposition is
+otherwise very diatonic. Example 13 shows the most importantappearances of Gl /Fx in the three London drafts and in op. 14/1. The altered
+note usually functions as a chromatic passing tone; even where it is
+literally a neighbor (13a and m. 46 of op. 14/1), the continuation of
+the line to Ft-G$ suggestsa passingmotion, F# -Fx-G#, a motion that
+becomes explicit in the climacticmeasures(54-55) of the exposition.
+In a sense the chromaticismformed part of Beethoven'sconception
+turn to G major in the bridge
+from the very beginning.The surprising
+section of the Berlinsketch fits into a largermotion from E major(with
+G# as third) to F# as V of B. In its simplest form, the chromaticprogression inherent in this plan would constitute a passingmotion in one
+voice: G#-Gk -F#. This can be seen in Example 14, which attempts to
+reconstruct the larger harmonic and voice-leadingimplications of the
+Berlinsketch. It is partlyconjectural,as must be any analysisof a sketch
+that lacks the articulativeelements-including many of the notes-that
+would clarify the structureof a finishedcomposition. But I believe that
+the conjectures are well founded-especially the assumption that the
+G major preparesan augmented sixth chord that derivesby voice exchangefrom the initialtonic andthat resolvesto the V of B. (If I am correct, the C major that becomes an augmentedsixth in the parallelpart
+of the recapitulationcould be an outgrowthof this idea.)15
+In the Berlin sketch, as representedin Example 14, the Gt forms
+part of a large middlegroundprogression and is not in any sense a
+this
+"motive."It is fascinatingto observehow Beethoventransforms hidmotive shownin Example13.
+den pitch successioninto the foreground
+The progression F -Fx-G$ cannot function as a self-contained
+melodic entity; it traverses
+only a second ratherthan a chordalinterval,
+and its goal tone, G#, lies outside the local tonic. Thereforethe motive
+mostly serves to ornament a larger melodic line, the G$ functioning
+as the upper neighbor of F#. At its final and climactic appearancein
+measures 54-55, however, the chromatic progressioncontinues on to
+A# and B (Example 12); it becomes absorbedinto the basic figure of
+the rising fourth and thereby leads at last to a goal. It is an important
+goal, for this B functions as the melodic resolution(I) of the dominant
+group, the top-voice note of its main cadential I. What Beethoven has
+achievedhere is not merely a mechanicalcombination of motives, but
+rather a profoundly beautiful integrationof the motivic designinto the
+largertonal structure.
+12
+
+a. London 1 and all later versions
+
+~~~.
+
+~J
+F%
+
+-I
+
+l
+
+(Ft)
+
+G5{
+
+GI
+
+b. London 2
+30
+
+GO
+
+I8
+
+:
+
+"
+
+Gk
+
+r
+
+11
+
+rTrV
+Gtr
+
+r
+
+Pi4
+
+c. London 3 and op. 14/1
+
+f~
+
+F
+
+54
+
+Fn G#
+
+FS
+
+Example 13. The chromaticmotive
+
+1j",--
+
+(. G
+
+.
+
+G4
+
+3.
+
+F#)
+
+Example 14. Berlinsketch: voice-leadinggraph
+
+13
+
+The downward register transfer of measures55-56 (g#2-a#) leaves
+a residue of tension at the end of the exposition, for the g$2 is not
+continued and resolved in its own register.Such tension would be less
+appropriateat the end of the movement. In the coda, therefore, Beethoven introduces d# 3 and e3 in a very prominentway; these notes connect in register with the chromatic motive (b2-b$2-c#3) of measures
+145-146. Thus Beethoven leads the chromaticmotive to a goal in its
+own register and closes the movement with a wonderful final transformationof the risingfourth, B-E (Example 15).
+The appearance the chromaticmotive at the climacticcadencesof
+of
+the exposition and the recapitulation
+(measures54-55 and 145-146) is
+a featureof the last extant draftsfor these sections, those in Stockholm
+and Washington.From internal evidence it is clear that the two drafts
+were writtenaroundthe same time and that both arelater than the draft
+of the recapitulationin the London source, where the closing theme is
+the same as in the last London sketch of the exposition.'6 Thus the
+subtle and expressivetransformationof the fourth that bridgesrecapitulation and coda may well representBeethoven'slast important piece
+of compositionalwork on the movement.
+IMPLICATIONS THESKETCHES
+OF
+
+Probably the most striking aspect of these sketches-especially the
+ones for the exposition-is the tenacity with which Beethovenstruggled
+to retain the motivic B-E at its originalpitch level even where the foreground key changes. I find it impossibleto believe that this was not a
+fully conscious process; if I am correct, then one must conclude that
+Beethoven attached a positive value to the tightly unified design he
+would have achieved had he succeeded in these efforts. And, indeed,
+many benefits accrue to a piece in which an importantmotivic element
+persists untransposedthrough changes of key. For listenerswith good
+ears, the familiarpitches serve as a measureof the tonal distance that
+the piece has traversed,for any changeis best measuredin relationto a
+constant. Or to put it another way, since these patterns project into
+new key areas pitches originally associated with the tonic key, they
+serve to remind the listener of the tonic at the very time when other
+tonal areasarebeingexplored.In addition, repeatinga patternof pitches
+its
+while changing tonal meaninghelps to elaboratethe fabricof internal
+associationsfrom which any greatpiece of music derivesso much of its
+fascination.
+The use of untransposedpitch successionsin new keys has received
+little attention in the publishedliterature,but it occurs in very many
+pieces. Beethoven must have observedit in works by his great predecessors, for one can find marvellousexamples by such masters as Handel,
+Haydn, and Mozart. Beethoven himself employed this technique in
+many works, including some written around the time of op. 14/1; the
+14
+
+Example 15. Op. 14/1, recapitulation and coda
+
+U? J. |I
+j
+
+a.
+
+1. 1I1I
+
+I,
+
+C.
+
+*l
+
+"
+
+b.
+
+r
+
+nfu
+
+-4"'
+
+-;rn n
+
+Cm
+Cr
+to
+
+:
+"
+
+53
+
+0 410 t
+
+I
+
+'
+
+r
+
+UJl
+
+?
+
+I
+
+^
+
+ir
+
+J
+
+l
+
+i
+
+A
+n
+A:
+
+*ft-
+
+1lsI
+
+v
+
+v
+
+A
+
+390t'
+
+39i
+
++
+
+fa
+
+l
+
+< b:II
+
+Tr1i:
+
+d.
+
+t
+
+..
+
+'k
+
+_
+
+I
+
+*
+
+r
+
+, L
+
+.
+
+r
+
+A:
+
+sf
+
+*#.4L4~A
+
+_C
+
+e.
+
+'4 __M~
+I I
+Example 16. Op. 10/3, 1st mvt.
+15
+
+first movements of the Piano Sonata, op. 10/3, is an outstanding
+example that suggests what Beethoven might have been trying to
+accomplish with op. 14/1. The first four notes of the movement,
+D-CS-B-A, form an importantmotive whose pitches aremaintainedintact (or almost intact) throughtwo changesof key (Example 16a). The
+motive forms an importantpart of the highly originalbridgetheme in B
+minor;the only change in pitch is a chromaticadjustmentof A to At
+(Ex. 16b). A strikingaugmentationmarksthe climax of the harmonic
+transition from B minor to A major(Ex. 16c). A diminutionbegins the
+first strainof the dominantgroup(Ex. 16d); later on the motive is transposed to A-G$ -F# -E (Ex. 16e). A comparisonof these events with the
+Berlinsketch of op. 14/1 is most revealing(Examples2 and 4).
+One wonderswhy Beethovenwas unableto achievein op. 14/1 what
+he accomplished so brilliantly in op. 10/3. My hunch is that he was
+stymied more by the way he eventuallywanted to use the fourth-motive
+than by the motive itself, though an untransposedfourth does not
+easily changeits tonal habitat. If we comparethe B-majortheme of Berlin with those in London 1 and 2, we see that Beethovenfirst expanded
+the fourth and filled it in with passingtones, whereasthe later themes
+begin with skips from B to E, exactly like the beginningof the movement. In addition the expanded B-E of the Berlin draftunfolds over a
+polyphonic accompanimentwhereasthe two London sketches(and the
+final version) have an unaccompaniedmelody at the beginningof the
+B-majorsection.
+Now a melodicfourth,like the fifth of which it is the inversion,functions as the defining interval of a triad. Thus the fourth from B to E
+projects E as a triadicroot and-in the absenceof contraryinformation
+-suggests E as the tonic of a key. Only if the E functions as a nonharmonic tone will it stop soundinglike a root and, perhaps,a tonic.
+But in the second themes of the two London drafts, Beethoven introduces the B-E in an unaccompaniedsetting and before any B-major
+chord has been heard as a local tonic. In these circumstancesit is very
+difficult-if not impossible-to define the E as non-harmonic.That is
+why the Berlin sketch-the earliest of them all-curiously enough is
+the most successful at integratingthe fourth into a B-majorcontext. In
+the London sketches, the E still retains too many of its earliertriadic
+associations and thus seems to contradict the modulation to V that
+Beethovenhad preparedin the bridgesection.
+One must rememberthat Beethoven, unable to carry through his
+originalplan, did not abandonthe piece but adopted a different sort of
+design, one characterizedby a looser web of motivic relationships.
+Furthermorehe thought enough of the sonatato reworkand publishit
+as a string quartet. This suggeststhat one shouldview with caution any
+approachto analysisthat makes thematic or motivic uniformitydeterminative of the structureof tonal music. Rudolph Reti's discussion of
+16
+
+op. 14/1 is worth a glance in orderto show to what irrelevancies-occasionallyinterrupted a genuineinsight-such an approachcan lead.17
+by
+In view of how difficult it is to decipher Beethoven's sketches, it is
+small wonder that transcriptionsby different scholarswill sometimes
+of
+vary. In DouglasJohnson'stranscription the Berlindraft, for example,
+the first note of the B-majortheme (measure14) is c#2 ratherthan the
+b1 that I have shown in Example2. And in Kerman'sreadingof London
+1, the second note of the second theme (Example 5, m. 8) is f#1 rather
+than el as in my example. If one follows Kermanand Johnson, the B-E
+motive vanishes from the beginning of the exposition's B-majorpart;
+with it vanishesthe basis for much of what I've written about the meaning of these sketches.
+I am convinced that the readingsI have presented are the correct
+ones, for they alone permit a coherent picture to emerge from a comparisonof sketch to sketch and of sketch to completed movement. Of
+course there is a circularityin my reasoning:I use the sketches to discover a compositional idea, and then reversemyself and use the idea to
+decide how to read the sketches. But there is no way to avoid such
+circles in this kind of study; one can only proceed warily along them
+armed with common sense. A. E. Housmanmade much the same point
+in discussinga similarproblem that arises in evaluatingthe sources of
+classicalliteraryworks.
+The paradox is more formidablein appearancethan in reality, and
+has plenty of analogies in daily life. In a trial or lawsuit the jury's
+verdict is mainly based upon the evidence of the witnesses;but that
+does not prevent the jury from making up its mind, from the evidence in general, that one or more witnesses have been guilty of
+18
+perjuryand that their evidenceis to be disregarded.
+In the opus 14 sketches the "evidencein general"suggeststhat Beethoven was attempting to use B-E as a basic motive; and in this case, as
+it happens, there is no conflicting testimony to be disregarded. my
+To
+eye, the notes in question look more like b' and el than like c#2 and
+fl1. They looked that way to Nottebohm also; he transcribedthe two
+passagesjust as I have shown them, and he was certainly not trying to
+prove an analytic point. To be sure, Beethoven wrote the sketches for
+himself alone and did not bother with calligraphicniceties. His marksmanship is often inexact, and notes sometimesfall on lines or in spaces
+that cannot possibly be the intended ones. If a literal transcription
+has
+producesnonsense, the transcriber the rightto offer an emendation,
+as long as he indicates that he is doing so. As it happens,both Johnson
+and Kermanare carefulto showthe conjecturalnatureof their readings;
+Johnson has a question mark under his c#2, and Kermancites Nottebohm's conflicting transcriptionin an explanatory note.19 In the note
+he explains that his ftf is more "orthodox" than Nottebohm's el; by
+17
+
+this he presumablymeans that the imitative entrances in his version
+alternate fifth and fourth in the mannerof a fugue exposition with a
+tonal answer. But surely the pervasiveuse of the B-E motive through
+almost the whole sequenceof sketches representsa far more compelling
+clue than whether or not the fugato resembles an orthodox fugue
+exposition.
+The ability to transcribesketches and the ability to analyzefinished
+pieces are related, for to do either one well requires a knowledge of
+of
+composition. Every good transcriber Beethoven'ssketchesis, at least
+potentially, a good musical analyst. This surely includes Nottebohm,
+whose approachwas far from analyticalin today's sense of the word,
+but whose astonishingachievementsmust have resulted as much from
+his superbly developed musical skills as from his ability to read Beethoven's handwriting.The sketches for op. 14/1 reveal particularly
+clearly one of the things that a transcriberor analyst should try to discover in the course of his work: the presence of one or more compositional ideas-features like the rising fourth or chromatic motive of
+character.If he is fortunate
+op. 14/1-that help give a piece its individual
+enough to find such features, he may be able to deal successfullywith
+problemsthat cannot be solved on the basis of the sometimes very inconclusivegraphicevidencein the sources.
+I do not think that many people would dispute the suggestionthat
+trainingin analysiswill help develop the ability to transcribeand study
+Beethoven's sketches;if it doesn't do so, something is probablywrong
+with the training or with the analytic approach. Most analysts and
+scholars seem to feel that the reverse is also true, that studying the
+sketches is helpful to the analyst.Howevera very importantBeethoven
+scholar takes issue with this idea. In the Introductionto his study of
+the "Fischhof" miscellany, Douglas Johnson elaboratesa very negative
+view of the value of sketch study for the analysisof Beethoven'scompositions.20 He maintains that anything in a sketch that bears on a
+piece must also occur in the piece itself and must thereforebe available
+to the analystwithout the help of the sketch. Apartfrom their indisputable value as biographicaldata, the sketches merely confirm what the
+analyst could discoverwithout them. But surely this reasoningis wide
+of the mark. Finding confirmationfor one's ideas is a largeand highly
+important part of the analytic process and ought not to be dismissed
+as of negligiblevalue. Besides,studyingsketchesmay very well generate
+ideas about the piece. Of courseone can analyzemusic without recourse
+to sketches. But where sketches are available,it would be foolish to
+ignorethem.
+voiceJohnson suggests, only to reject, the notion that large-scale
+leading connections might emerge more clearly in a sketch than in the
+His
+completed piece with its complex fabric of tonal relationships.21
+18
+
+doubts on this score are partly justified; the sketches do not constitute
+structurallevels leading from backgroundto foreground.(It will be remembered that Schenkerexplicitly denied that his analysesreproduce
+the chronology of composition; he maintainedthat a composer might
+begin at any level or combination of levels.) And as I suggestedearlier,
+sketches-even relativelycomplete drafts-do not alwayspresenta foreground that is developed and articulatedwell enough to permita clear
+sense of backgroundto emerge.
+Nevertheless sketches do sometimes clarify the larger tonal connections of a piece; in closing this articleI should like to cite an instance
+from op. 14/1. In the B-majorpart of the exposition, the upper voice
+certainly descends from F# (m. 22) to B (m. 57), but the path from F#
+to B is by no means obvious, largely because the strongest cadence
+(mm. 54-57) lacks a stepwise descendingconnectionto B in the soprano.
+(The situation is the same in the correspondingpart of the recapitulation.) In the sketches,the materialof bars 50-57 first appearsin London
+2, where the cadential soprano clearly representsD#f-C#t-B(Example
+11). The simple soprano line of the sketch illuminatesthe final version
+in which it undergoes an elaborate transformation.The basis of this
+transformationis the suppressionof C# (2 of B), which allows B (i) to
+be approachedthrougha motion from the innervoice: F#-Fx-G# -A B. This motion is none other than the climacticand beautiful combination of the rising fourth and chromatic motive discussed above (see
+p. 12). Recognizing the underlying structure of this cadence would
+lead to an interpretationof the B-majorgroup like the one shown in
+Example 17.
+
+19
+
+'B:5
+
+4
+
+2
+
+t
+
+becomes
+
+J
+
+22
+
+3
+38
+
+r4 {6
+
+54
+
+56
+
+Example 17. Op. 14/1 exposition,
+graph of second group
+Example 17. Op. 14/1 exposition, graphof second group
+
+20
+
+NOTES
+1. DouglasPorterJohnson,Beethoven'sEarly Sketchesin the 'FischhofMiscellany', 2 vols. (Ann Arbor:UMIResearch
+Press,1980), 1:348.
+2. Gustav Nottebohm, Zweite Beethoveniana (Leipzig: C. F. Peters Verlag,
+New
+1887; reproduced
+photographically, York:JohnsonReprintCorporation,
+was
+1970), pp. 45-59. The materialon op. 14/1 in ZweiteBeethoveniana reprinted posthumouslyfrom two articles that had appearedin Musikalisches
+Wochenblatt 9 and 16 April 1875.
+on
+3. Joseph Kerman,ed., Beethoven. AutographMiscellanyfrom Circa 1786 to
+1799, 2 vols. (London: British Museum,1970), 2:25-33. Facsimilesof the
+op. 14/1 sketchesarein 1: ff. 65v, 121r, 121v, 122r, and 122v.
+4. Johnson,Beethoven's
+EarlySketches,2:57-61.
+5. JenniferGild, Beethoven'sPiano Sonata Op. 14, No. 1: an Analysis of the
+Sketches(M.A. thesis,Bar-Ilan
+University,1977).
+6. Johnson,Beethoven's
+EarlySketches, 1:350.
+7. Johnson,Beethoven'sEarlySketches,2:57; Gild,Beethoven,Appendix1, unpaged.Also see Nottebohm,ZweiteBeethoveniana, 45-46.
+pp.
+8. Nottebohm,ZweiteBeethoveniana, 47-51; Kerman,
+Beethoven,2:25-27.
+pp.
+9. Kerman,
+Beethoven, 1:f.122v, 2:28; the passageis not in Nottebohm.
+10. Nottebohm,ZweiteBeethoveniana, 51; Kerman,
+p.
+Beethoven,2:28.
+11. Nottebohm Zweite Beethoveniana,pp. 53-54; Kerman,Beethoven, 2:2829.
+12. The sketch is on one of the Stockholmfragments:transcription Johnson,
+in
+2:59.
+13. Nottebohm,Zweite Beethoveniana,p. 51. Also see Donald FrancisTovey,A
+to
+Sonatas(London:The AssociatedBoard
+Companion Beethoven'sPianoforte
+of the Royal Schools of Music, 1931), p. 71. A more perceptivediscussionof
+this passageoccurs in Paul Mies,Beethoven'sSketches, trans. Doris L. Mackinson (Oxford: Oxford UniversityPress, 1929, reproducedphotographically
+New York:DoverPublications,1974), p. 115.
+14. Transcribed Johnson,Beethoven'sEarlySketches,2:58.
+in
+15. Johnsonmakesthe samepoint in Beethoven'sEarlySketches, 1:349.
+16. Nottebohm,ZweiteBeethoveniana, 50-51 (exposition)and pp. 54-55 (repp.
+capitulation);
+Kerman,
+Beethoven,vol. 2, 2:27 (exposition)and 2:29 (recapitulation).
+17. RudolphReti, ThematicPatternsin Sonatasof Beethoven,ed. DeryckCooke
+(New York:Macmillan,
+1967), pp. 192-195.
+18. A. E. Housman,"The Applicationof Thoughtto TextualCriticism," John
+in
+Carter,ed., A. E. Housman.SelectedProse (Cambridge:
+University
+Cambridge
+Press,1961), p. 145.
+19. Johnson,Beethoven's
+EarlySketches,2:57; Kerman,
+Beethoven,2:278.
+20. Johnson,Beethoven'sEarly Sketches, 1:12-18. The greaterpartof this Introduction appearsin "Beethoven Scholars and Beethoven's Sketches,"19th
+Century Music 2 (1978): 3-17. Also see Johnson's responseto comments
+elicitedby this articlein 19th Century
+Music,2 (1979):276-279.
+21. Johnson,Beethoven's
+EarlySketches, 1:14.
+
+21
+
+

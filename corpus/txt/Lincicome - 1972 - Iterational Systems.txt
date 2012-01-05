@@ -1,0 +1,3733 @@
+Yale University Department of Music
+
+Iterational Systems
+Author(s): David Lincicome
+Source: Journal of Music Theory, Vol. 16, No. 1/2 (Spring - Winter, 1972), pp. 168-205
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843331
+Accessed: 11/12/2009 21:26
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+ITERATIONAL
+
+The object of this paper is to present
+a case for a new perThe perspective
+I
+on music and musical
+analysis.
+spective
+in
+shall present
+is one in which music is to be approached
+of "phenomenal"
+or "heard" characteristics.
+terms
+Further,
+a view of a musical
+work as
+this approach to music involves
+or sysan artifact of what I shall call an "iterational"
+practice
+tem. There may, in the view I shall present
+here, be many
+such systems,
+some of which are musical,
+and others of which
+and include what are commonly
+are non-musical
+called "lanof an iterational
+I shall argue,
+The artifacts
+guages."
+system,
+can be semantically
+involved to at least four different degrees,
+where semantic involvement
+is a matter of the degree to which
+an object functions as a sign or symbol.
+No one of these four
+of semantic
+levels
+involvement,
+ranging from the "zero degree" of purely "formal" entities to the highest degree of uni-
+
+169
+
+SYSTEMS
+
+DAVID LINCICOME
+
+vocal symbols, is, I shall urge, characteristic of music. The
+view I shall present, accordingly, avoids the dilemma between
+theories of music which require some semantic dimension for
+musical artifacts and those which insist that music is a product of an exclusively playful activity, none of whose artifacts
+have, as such, a semantic dimension.
+It would, I believe, be fair to say that the predominant focus
+of attention in philosophies of art since Plato has been the semantic dimension of works of art. Plato or Socrates was perhaps the first to hold that the poets literally do not know what
+they are doing.*l They represent gods and heroes, so the argument goes, in an all too human way. Their representations
+are derived from the only available cases of things divine or
+heroic, ordinary people with whom the poets have daily inter-
+
+170
+are decourse. But this implies that these representations
+rived from less than perfect cases of what they are represenare ignorant.
+such representations
+tations of. Accordingly,
+such a representation might, even though ignoNevertheless,
+rant, luckily be a true one. The result of such luck would be a
+work which would so direct the attention of ordinary mortals
+that they could transcend their imperfect acquaintance with
+heroes and begin at least to apprehend a
+less-than-heroic
+higher ideal for life. Fortuitously, a work of art can directthe
+human spirit in something like the way that, for Plato, reason
+directs that spirit by design. But, in order for this to happen,
+a philosopher - one whose spirit is already directed by reason - must select, on the basis of his knowledge of the ideal,
+those representations which luckily are true, and suppress all
+others.
+Here we have the first glimpse of three persistent bugbears in
+the philosophy of art. First, there is the view, which I shall
+call the "semiotic" thesis, that works of art have meanings or
+some sort of symbolic function. Second, there is the view that
+in some way or another works of art are really about something extraordinary - they have a semantic dimension, but it
+requires some sort of special sensibility to apprehend the true
+meaning of a work. I shall call this the thesis of special meaning. Third, there is the view that I (and my colleagues, of
+course), who happen to engage in that discipline which provides this sensibility (in the case of Plato, the discipline is
+philosophy), am thereby enabled to evaluate accurately works
+of art, while others, including even (or especially) the artist
+himself, are not capable of assessing those works. This bear
+I propose to call the thesis of a critical elite. In the twentieth
+century the first two bears have become bones of considerable
+contention. The third, on the other hand, has hardly been heard
+from, at least at a theoretical level.
+Richard Rudner, in an extremely important though neglected
+paper titled "On Semiotic Aesthetics," argues that, since the
+value of a work of art considered only as a work of art is intrinsic, and since the value of a sign or unit that has some semantic dimension or meaning, considered as a sign, is instrumental, a work of art as such could not be a sign.*2 This, by
+implication, means that music as music could not signify anything, although, of course, music can be musically abused to
+signify lots of things.
+
+171
+Eduard Hanslick,
+argues that music is in principle
+similarly,
+to or evoking) ordinary
+incapable of expressing
+(i.e., referring
+and thus has by itself
+like joy and sorrow,
+everyday
+feelings
+no semantic
+The "by itself" here is important,
+dimension.*3
+to Hanslick,
+music
+which is customarily
+since,
+according
+can take on an extraneous
+played on joyful occasions
+signification of joy, though in itself music cannot signify in this way.
+Hanslick
+goes on to argue that by itself music can have a se- music
+mantic
+can express
+musical
+dimension
+specifically
+rather than ordinary
+But, he argues
+feelings
+everyday ones.
+to the aesthetic
+is irrelevant
+value or
+further, such expression
+for Hanslick, though music
+beauty of music. In the last analysis
+certain feelings
+by itself can express
+by taking on a semantic
+music as such has no meaning whatsoever.
+This is
+dimension,
+a somewhat
+fancier way of coming to the same conclusion
+that
+Rudner came to some years later.
+Prima
+denials
+
+facie, the views of Rudner and of Hanslick constitute
+of both the semiotic
+and the thesis
+thesis
+of special
+music can have a special,
+almeaning,
+though, for Hanslick,
+in denying the thesis
+though irrelevant,
+meaning. Furthermore,
+of special meaning, or the musical relevance
+of such meaning,
+each of these views closes one of the main avenues leading to
+the thesis of a critical
+Much later in this paper I shall
+elite.
+views leave open another avenue
+argue that such "formalist"
+modern
+leading to the thesis of a critical elite in a peculiarly
+form of that thesis.
+and special meaning
+Opposed to such denials of the semiotic
+and theoretically
+theses,
+open (though flatly denying)
+leaving
+the thesis of a critical
+a view
+elite, Suzanne Langer presents
+of music in several
+and Form.
+chapters of her book Feeling
+Since my discussion
+of Langer's
+view is somewhat
+involved
+and leads to the central thesis of this paper, let me begin with
+a brief exposition
+of the salient points of her view.
+sort of thing beLanger holds that music is not a linguistic
+cause the elements
+of music are not discrete
+units with fixed
+conventional
+referential
+such as words are (the elemeaning,
+ments of a language).
+shares
+with lanMusic, nevertheless,
+which are "articulate
+guage the feature of involving artifacts
+forms."*4
+"forms which are made up of
+By this I understand
+and reidentifiable
+repeatable
+parts which can be deployed in
+various
+and combinations,"
+permutations
+although Langer offers no such definition.
+
+172
+a musical
+does
+Unlike linguistic
+composition
+expressions,
+have any meaning,
+according to Langer,
+although her sense
+It is opposed to what
+"meaning" is highly idiosyncratic.
+calls "import," which music does "have." Here we see the
+ginnings of a thesis of special
+meaning,
+although we are
+The import of music is
+joined from calling it "meaning."
+of subjective
+"dynamism
+experience."*5
+
+not
+of
+she
+beenthe
+
+of music
+This import arises in the following way. The elements
+are "moving forms of sound," units which, as above, are articulate forms and which move in and constitute
+a very special
+sort of time called "musical duration."*6
+Musical duration is
+an image or semblance
+of "lived" or "experienced"
+time, as
+opposed to the linear time of clocks. This "lived" time is what
+Henri Bergson called "duree."*7
+Musical duration is accorda time created only for perception,
+"virtual
+ingly an illusion,
+of its resemblance
+time." Because
+to experienced
+time, it exthat time. A piece of music has a "compressively
+symbolizes
+at
+manding form" which (I believe this is Langer's
+implication
+this juncture)
+is "the vital rhythm of the subjective
+time"*8
+which the piece symbolizes.
+The commanding
+form of a piece
+is a "matrix of musical
+logic" of the
+thought," the "internal
+and selfpiece
+by which the music is related
+("intimately
+to life.
+That is, the matrix of musical thought is a
+evidently")
+or logical structure,
+framework
+within which the vital import
+of the music arises,
+the structure
+by which the music images
+the dynamic forms of emotional
+life.
+There are, in this view, three points which bear further exFirst, there is the thesis that music,
+planation and examination.
+like language,
+involves
+articulate
+artifacts.
+Second, there is
+the thesis of special meaning, which in Langer's
+view takes on
+the aspect of a denial of musical meaning in favor of the notion
+of the vital import of music.
+This will be approached through
+a discussion
+of Langer's
+claim that, unlike linguistic
+meaning,
+the import of music is not a function of fixed, conventional,
+of elements,
+of linreferential
+as is the meaning
+meanings
+units.
+Third, there is her account of how this special
+guistic
+The key
+pieces.
+meaning or "import" is acquired
+by musical
+of this account are the notion of the "commanding
+features
+form" or "musical matrix" of a piece and the correlative
+notions of "musical duration" and 'lived time," together with the
+relation
+of symbolism
+each of
+between them. I shall discuss
+these points in turn in the first three of the following five secIn the remaining
+two sections,
+all these
+tions of this paper.
+
+173
+considerations will come together in a proposal to take the
+promised new perspective on music, in which music is seen
+as an iterational practice. Then, finally, I shall discuss some
+of the cultural dangers of failing to adopt this new perspective
+on music, focusing instead in a narrower way on the semantic
+dimension of music.
+
+1. Musical Artifacts
+Whenever people do things in such a way as to involve the production of something which subsequently is a center of human
+attention, we can speak of the something produced as an artifact. In some cases this way of speaking is a bit strained, as
+in the case of language, where someone utters by way of, say,
+giving some bit of news, a noise of some characteristic sort.
+The noise uttered is subsequently a center of some sort of human attention - it can be remembered, understood, agreed with,
+or the like, and it can serve as a basis for discussion, become
+subject to verification, corroboration, or criticism. That noise
+is called an artifact, even though it, unlike a stone axe or a
+pottery shard, is not persistent enough to remain available for
+human attention years after its author is gone from the scene.
+Musical artifacts, like linguistic artifacts, but unlike artifacts
+of many other common kinds, are of two distinct and significantly different sorts. There is the kind, usually on paper, that
+is persistent enough to outlive its author, and there is that
+other sort, evanescent, which is gone the moment it is completed. Only after the concert is over does the musical performance become a center of critical attention. We may recapture it only in memory, or perhaps on tape, but the result of
+playing the tape persists no more than the original performance. In what follows, I shall discuss only those fleeting
+artifacts, and not the persistent ones: the scores, records, and
+tapes which may be viewed as artifacts that are tributaries on
+the musical scene at large. Were there only scores unperformed and tapes unplayed, there would be no music to speak
+of.
+Though this narrows the field of our discussion considerably,
+a further exclusion is needed to get squarely in view those
+artifacts that we are hunting. There is a long tradition, both in
+musical aesthetics and in music theory, of focusing attention
+on such elements of musical artifacts as tones, intervals,
+
+174
+and the like, in such a way as to reduce them
+chords, figures,
+to acoustical
+terms - cycles
+and
+resonances,
+per second,
+of elements
+to such terms.
+strings or combinations
+belonging
+Thus are framed the stylistic
+fifths,
+proscriptions
+(parallel
+studies and
+octaves,
+etc.) we all know from our conservatory
+of such theorists
+the musical
+as Hindemith
+and
+universals
+of acoustiHeinrich Schenker. Without denying the importance
+cal analysis,
+I should like to focus on a very different sort of
+than that which can be said to be constructed
+out of tones
+thing
+which differ in frequency,
+size actimbre, decibels,
+temporal
+and
+continuation,
+cording to the clock, and modes of outset,
+Instead of the acoustical
+measured
+ending.
+object, ultimately
+and clocks, I should like to speak of what may
+by oscilloscopes
+be called the "heard music," or "the music as it is heard," or,
+if some fancier label is desired,
+"the musical phenomenon."
+The heard music can differ in just about any musically
+important way with music considered
+as an acoustical
+object. For
+take a metronome.
+Set it at 180 and listen to the
+example,
+metered
+ticks. In themselves,
+they have no pattern of emphasis, but, if you are so disposed,
+you can hear groups of three:
+
+mmmm....
+or two
+
+nnnnnn....
+or four:
+
+JJJJ
+
+JJJJ
+
+JJJJ...
+
+the sounds remain the same throughout these exAcoustically
+From an
+while musically
+they vary considerably.
+periments,
+the
+acoustic
+concerning
+point of view we might ask questions
+elements
+of sound in such a way as to proways of deploying
+on which only those heard sounds we have in
+vide an occasion
+or performers
+will be heard by those in
+mind as composers
+are those of musiSuch problems
+on the occasion.
+attendance
+Even so,
+and are not the central concern here.
+cal acoustics
+elements
+of ways in which acoustical
+the investigation
+provide
+some independent
+for heard
+sounds presupposes
+occasions
+the heard sounds, and it is to this latter
+means of describing
+be exclusively
+that our efforts will henceforth
+directed.
+
+175
+This
+
+turn
+
+away
+
+from
+
+acoustical
+
+analysis
+
+is made
+
+by Langer:
+
+of music are not tones of such and such
+. . . the elements
+and loudness,
+nor chords and measured
+pitch, duration,
+virbeats; they are, like all artistic
+elements,
+something
+Eduard Hanslick denoted
+tual, created only for perception.
+forms
+them rightly:
+"tbnend bewegte Formen"--"sounding
+in motion."* 9
+analIt is in light of this focus, not on the object of acoustical
+ysis, but on the heard music, that we must approach an underthesis that music, like language, involves
+standing of Langer's
+articulate
+This focus complicates
+matters
+somewhat.
+artifacts.
+For example,
+who possesses
+the heard music artifact is not
+always so clear as it is in the case of the sound of music when
+In view of the experiment
+with
+analysis.
+subjected to acoustical
+the metronome
+above, we might be led to the conprescribed
+to the hearer
+clusion that the heard rhythms are attributable
+alone - the heard music would thus be a radically
+subjective,
+sort of thing. Yet, contrary to this conclusion,
+there
+personal
+of more complex musical perforis the fact that on occasions
+mance the music we hear seems
+to be significantly
+the same
+music.
+of how these considerations
+sort themselves
+out,
+Regardless
+when I hear the triplets
+or quintuplets
+in the metronome's
+ticking, they are very much what I hear. And - this is the im- I can deportant methodological
+point for present purposes
+scribe this rhythm and account for how it emerges
+in my imagination without having to decide one way or another concerning
+its objective
+or subjective
+When I hear that rhythm,
+status.
+I am hearing it not as though it were a purely
+furthermore,
+but as though the sound itself,
+phenomenon,
+subjective
+apart
+from me, were rhythmic.
+The rhythm has no dream-like
+quality.
+Is it the case that the heard music is an articulate
+asartifact,
+are linguistic
+Is the heard music made up, that
+expressions?
+and reidentifiable
+is, of repeatable
+parts which can occur or
+be deployed in various permutations
+and combinations
+in such
+a way as to constitute,
+out of the same elements,
+a range of
+different
+I am inclined
+artifacts?
+to agree with
+significantly
+Langer on this point, though I should immediately
+qualify this
+in two ways.
+agreement
+
+176
+of the prospects
+of finding any
+First, I am extremely
+skeptical
+set of musical elements
+delimited
+which could be deployed difto constitute,
+say, a Bach fugue and Stockhausen's
+ferently
+hear these pieces.
+as I ordinarily
+But, following the
+Zyklos,
+I am equally skeptical
+of the prospects
+of
+analogy to language,
+set of linguistic
+elements
+which can be
+finding any delimited
+now a statement
+in English,
+variously
+deployed to generate
+now one in Chinese. The quest for universal
+musical elements,
+as in the analogous
+case of language,
+most likely will prove to
+be a focus of misplaced
+I should not like the thesis
+enthusiasm.
+that the heard music is an articulate
+artifact to be understood
+in such a way as to support such enthusiasm.
+structure
+should not be taken to
+Second, this view of musical
+should, or must, operate
+imply that a composer
+(or listener)
+within a single framework
+of musical elements,
+as
+exclusively
+might be suggested
+by the analogy with language. It does, howwithin some
+ever, imply that one must operate
+musically
+Such is the difference
+framework.
+between music and noise.
+Several
+come to mind which support this implicaexamples
+in his Poetics
+of Music,
+adtion. For example,
+Stravinsky,
+dresses
+himself
+to the question involved here when he writes:
+
+. . I experience
+a sort of terror when, at the moment of
+setting to work and finding myself before the infinitude of
+that present
+I have the feeling
+themselves
+possibilities
+that everything
+to me. If everything
+is peris permissible
+to me, the best and the worst; if nothing offers
+missible
+me any resistance,
+then any effort is inconceivable,
+and I
+cannot use anything as a basis,
+and consequently
+every
+is futile.*10
+undertaking
+or again:
+I have no use for a theoretic
+Let me have somefreedom.
+thing finite, definite - matter that can lend itself to my
+as it is commensurate
+with my
+operation
+only insofar
+. . .*11
+possibilities.
+called this terror
+the "abyss of freedom,"
+which
+Stravinsky
+makesthe
+unable to write. It is a direct consequence
+composer
+of the refusal to adopt a framework
+of combinable
+musical
+elements.
+twelve-tone
+theoretic
+framework
+was
+Sch6nberg's
+to continue writadopted by him in order to make it possible
+or exhausted) of
+(as arbitrary
+ing in the face of a rejection
+
+177
+That this framework
+frameworks.
+is adopted
+theoretic
+arbitrarily
+(by a convention of sorts) is beside the point - the
+fecund result of the adoption is all that counts.
+relatively
+
+older
+
+of musical elements
+a freedom from any framework
+Similarly,
+to constitute
+make for an inability
+would, for the listener,
+would
+imaginatively
+any "heard music" at all. The metronome
+continue to tick, but insignificantly,
+with no rhythm at all.
+of musical elements
+out of
+Though there is no one framework
+which we can constitute
+that there be some
+the heard music,
+such framework
+in each case of heard (or composed)
+music is
+a musical a priori without which there would be nothing musical.
+or structural
+dimension
+Thus, heard music has a syntactical
+Musical analclosely parallel to that of linguistic
+expressions.
+on the presupposition
+that a piece of music
+ysis may proceed
+can always be broken down into units which are reiterable
+in
+different
+contexts
+and recognizable
+from context to context,
+although, when faced with a piece, the problem of what sorts of
+elements
+to look for, what framework
+of musical elements
+can
+be relevantly
+over the
+brought to bear, often takes precedence
+problem of analyzing the particular
+piece. For example, traditional polyphonic
+or contrapuntal
+and "vertical"
+structures
+structures
+for attention in some early classical
+may compete
+and the desiderata
+music,
+brought to bear in such a situation
+might become extraordinarily
+complex.
+To identify a unit as a reiterable
+and reidentifiable
+unit is to
+look forward to the possibility
+of that unit's recurrence
+in different contexts such that those different compounds containing
+that unit are significantly
+different musically.
+Thus, to identify
+the phrase:
+(p)
+
+in the following:
+
+(a)
+
+I
+
+-w-
+
+~~~ftl~~~~~~U~~~J1
+Idr~~~~~~~~~~rm I
+p
+w
+I
+
+i~~~~~l
+
+178
+is to be much less surprised when one encounters that phrase
+in significantly different compounds - for example:
+(b)
+
+or
+
+(c)
+
+'a- I I I a-1 il I i Il i l JI
+HI
+*g^
+s^ ^
+
+I
+
+I
+
+-
+
+1
+
+*
+
+Here, we approach a juncture at which the semiotic thesis can
+naturally arise. In order to view the phrase (p) above as a musical element in (a), we must expect that it will recur in compounds, such as (b) and (c), which are significantly or ("importantly") different from (a). If, however, we ride the analogy
+between music and language just one step further, the semiotic
+thesis is implied on the strength of considerations of (p), (a),
+(b), and (c) taken above, since in linguistic analysis a unit is
+not isolated as a separate linguistic element unless it can occur in significantly different compounds, where what counts as
+a significant difference between compounds is a matter of a
+difference in meaning. Thus, to identify the expression:
+(e)
+
+it
+
+in
+(a') It is green.
+is to be much less surprised when one encounters that expression in significantly different compounds - for example:
+(b') It is on the table.
+(c') It is magenta.
+Here, of course, these compounds are significantly different in
+meaning, and the structural analogy with the cases of (p) above
+might suggest that (a), (b), and (c) likewise differ in meaning.
+Which, once the suggestion is accepted, involves one squarely
+in some version of a semiotic thesis.
+
+179
+A general argument which would support this line of analogical
+First, it may
+reasoning
+might go something like the following.
+be asserted
+that syntactical
+or structural
+is, wheranalysis
+not simply an arbitrary
+ever appropriate,
+matter of dividing
+"It is green" is not a combinathings into parts. The sentence
+tion of just any identifiable
+parts (such as the dot in the "i" and
+the vertical
+line in the "t," put together
+with the rest). What
+count as parts of a unit analyzed must be governed by considerations of something
+or syntactical
+dibeyond the structural
+mension of the artifact analyzed. Yet there seem to be just two
+sorts of features of any artifact that go beyond its structural
+These
+are semantic
+dimension.
+features
+or meanings
+and
+or features having to do with the purposes
+features
+pragmatic
+for which the artifact
+is used. In the case of musical or linthe use of the artifact is somewhat a degenguistic artifacts,
+erate affair - it is used just by being displayed,
+brought out
+- unlike a hammer,
+for inspection
+or a table, or other such
+artifact of human productive
+some
+activity, whose use involves
+effective
+of the artifact
+in further action with
+engagement
+Such display,
+if it is not simply pointless,
+must serve
+things.
+to signify or stand for something beyond the artifact displayed.
+musical
+is an entirely pointless
+Thus, unless
+affair,
+activity
+its artifacts
+must have a semantic dimension.
+- one which I shall eventualHere is something of a dilemma
+thesis and the view that
+ly try to avoid - between the semiotic
+musical
+artifacts
+are insignificant,
+simply playful, pointless
+products of a rather highly organized
+activity of noise-making.
+If we are not prepared
+to accept the latter thesis in general,
+we are enjoined to accept the former, or so the argument goes.
+If we follow the argument,
+we
+thus, to the semiotic
+thesis,
+provide
+thereby a foundation for musical
+analysis
+(ensuring
+ourselves
+of continuing
+as musicologists,
+employment
+etc.),
+to which analysis
+is not just an arbitrary
+according
+procedure
+of dividing a piece up into parts, but is governed by a semantic
+dimension
+of musical artifacts.
+Thus, analysis would have as
+its aim an articulate
+account of how musical elements
+conspire
+together to give rise to compounds with musical meanings.
+
+2. Musical
+
+Import
+
+Langer denies that the import (i.e.,
+"meaning" in an ordinary
+not Langer's)
+of music is a function of fixed, convensense,
+
+180
+tional, referential
+units.
+linguistic
+
+meanings
+
+of elements,
+
+as is the meaning
+
+of
+
+is an articulate
+form
+like language,
+...
+Music,
+Why,
+as it has often been
+then, is it not a language of feeling,
+called? Because its elements
+are not words -independent
+fixed by convention.
+associative
+symbols with a reference
+form is it found to fit anything; and
+Only as an articulate
+to any of its parts, it
+since there is no meaning assigned
+of language - fixed
+lacks one of the basic characteristics
+and therewith
+a single,
+referassociation,
+unequivocal
+ence.* 12
+I rather suspect that this is a spurious contrast with language,
+not because it misrepresents
+the nature of music,
+but because
+a large part of the ways in which linguistic
+units
+it mistakes
+have - words simply do not, despite
+have the meanings
+they
+of logicians,
+nor is it at all
+the protests
+have fixed meanings,
+that their meanings
+and it is
+clear
+are largely
+referential,
+to call the meanings
+as
+of words "conventional,"
+misleading
+conthough they were wholly a matter of some controllable
+nection made between words and things.
+Like the "social conthe "convention" is one which
+tract" of Hobbes and Rousseau,
+was not a matter of two or more parties laying down a convention or making an agreement.
+are we to maintain in the face of the word
+How, for example,
+"green" that its meaning is fixed when, depending on all sorts
+it means
+some of them extralinguistic,
+of contextual
+factors,
+"of a certain color called green," "sick," "envious,"
+variously
+and many other things when
+"new," "fertile,"
+"inexperienced,"
+need
+used in relatively
+creative
+This, however,
+metaphors?
+not be pursued here, since linguistic
+meaning is not our center
+of attention.
+of fixed, conventional,
+can be functions
+meanings
+though they need not be, and
+meanings of elements,
+of musical
+to be true,
+mutatis
+seems
+mutandis,
+It may be that music with such meanings tends not
+meanings.
+but it
+to be very good or tends to be relatively
+simple-minded,
+of the philoaberration
+would seem to me to be a fantastic
+on Langer's
+intellect
+part if she meant to deny the
+sophical
+of program
+music or folk music in which the notes
+existence
+a pentatonic tonal structure
+are so arranged
+as to constitute
+or
+and conventionally
+tenderness,
+quite specifically
+expressing
+Linguistic
+referential
+the same
+
+a mixolydian
+mode quite conventionally
+sadness,
+expressing
+That the conventions
+and like constructions.
+involved tend to
+be local does not dissolve
+them, any more than the fact that I
+do not speak Chinese dissolves
+the meaning of a Chinese sentence.
+Wagner's motif of the Rhine Maidens really does refer
+to those maidens,
+though we could never tell that it does on
+first hearing the motif apart from our program notes. But, so
+- on first hearit is in the case of the word "Rhine Maidens"
+it means nothing.
+ing it and apart from our dictionary,
+a subtler point in mind, one which
+But Langer has, I believe,
+would have it that such meanings
+are musically
+irrelevant.
+It
+is not music that never means in these ways, but rather, as
+Hanslick would argue, music as such, or music as music. It is
+with this thesis that we shall have to deal.
+I believe
+that any thesis to the effect that music,
+or, for that
+matter, language, either means or does not mean some kind of
+thing or in some sort of way, is an answer to an absurd question. The question would be a question such as "What does music (language) mean?," or "How does music (language) mean?"
+have been asking after the meaning of language
+Philosophers
+for close to two thousand years.
+As soon as one answer is
+another is offered,
+with arguments
+that exclude the
+proposed,
+is repeated over and over again. Lanfirst, and this process
+or abstracta,
+guage refers to universals,
+reporting the various
+On the contrary, linguistic
+units ulways they bundle together.
+refer
+them by
+timately
+only to particulars,
+characterizing
+virtue of their similarities
+with other particulars.
+None of the
+will claim. Language refers,
+insoabove, another philosopher
+far as it makes sense at all, only to sense-data,
+albeit elliptically.
+Until recently, it has fairly gone without saying that there must
+be some general and significant
+what lanway to characterize
+occasional
+guage is about. In the twentieth
+century,
+linguistically-oriented
+philosophers,
+among them John Austin in his
+titled Sense and Sensibilia,*13
+posthumously
+published lectures
+have come to be suspicious
+of the question that all these answers were supposed
+to be answers
+to. Like the question
+"What is language
+about," or "What does language mean?" is
+best answered "Anything at all," and promptly dismissed.
+Such
+are raised
+in such a way as to suggest that we conquestions
+sider all the things that we can think of, and then say which of
+them language is about or which of them it is not about. But,
+
+182
+task - how should we refer
+put this way, it sets an impossible
+to what, in our answer, we mean to exclude?
+with "How does language mean?" The only answer to
+Similarly
+a degenerate
+question of this sort is "It means in any way you
+can get away with." Anything more exclusive
+by way of an answer must eventually
+characterize
+the ways language does not
+in how, linguisticalmean, and, in sc doing, give us instruction
+and thus give our language meaning in
+ly, to mean something
+the excluded way.
+This is not in any way a restriction
+on semantic theory - it
+can still be significantly
+asked of any single linguistic
+expression what it, as opposed to other linguistic expressions,
+means,
+and how it means what it does.
+But the collection
+of all such
+and whatever pattern appears among investigations
+questions,
+set by them, is the whole of semantic theory.
+Much the same thing goes for music."What
+does music mean?"
+and "How does music mean?" are questions which aspire to an
+answer
+so general
+as to be virtually
+There is no
+nonsense.
+nor any single way it means.
+If
+thing music means,
+single
+someone were to ask of a particular
+piece of music,
+played in
+a specific
+context, what the heard music means, then we would
+have a question which we would at least know how to answer
+to a hidden and spurious
+without subscribing
+generalization.
+conAnd, then, the question of how (by resemblance,
+iconicity,
+vention, association,
+etc.) that music means what it does makes
+equally good sense.
+of special
+thesis
+fails, not through
+Thus, Langer's
+meaning
+us with a view of musical import which has it that
+presenting
+music means (specially)
+something which it does not or could
+in which
+not mean, but through failing to tell us which music,
+means that which she says music does, or has the
+contexts,
+of special meaning,
+Her thesis
+"vital import" she describes.
+or "vital import" of music must be understood
+by means of an
+of why she focuses on the particular
+sort of meanexplanation
+to music. The import of music, she says,
+ing that she ascribes
+Music "preof subjective
+is "the dynamism
+experience."*14
+sents a sentient and emotional
+reality"*15
+by means of a "nondiscursive
+image" of lived time, or, again:
+of the highest or. . . music is a symbolic
+presentation
+life of human beings.* l6
+the emotional
+ganic response,
+
+183
+This special
+is persuasive
+meaning thesis
+enough - from a
+philosophical
+point of view it rounds out many dangling edges
+of philosophical
+aspiration.
+Why have we never been able to
+the image of man
+capture, in our philosophical
+anthropologies,
+as a creature of such subtle and varied sensibilities,
+textures,
+of feeling, emotion, and cathexis?
+and directions
+Because this
+in words.
+Yet, all along we have
+image cannot be expressed
+had before us these artifacts,
+musical works,
+this
+expressing
+subtle and varied pattern of human sensibilities,
+directions,
+and textures
+of feeling and emotion.
+We have only to listen for
+- our mistake,
+such expression
+was to limit
+philosophically,
+to words.
+ourselves
+Music fills a gap in philosophical
+understanding.
+Music becomes,
+as it was in a very different way for Plato,
+a
+domain for those with a philosophical
+turn in their thinking.
+elitism
+attendant upon Plato's
+of
+thesis
+Though the critical
+that
+special meaning is not expressed
+by Langer, one suspects
+it lurks there between the lines.
+Once this perspective
+is taken on Langer's
+thesis of special
+I must confess,
+I find it difficult to take that thesis
+meaning,
+It all sounds very nice, comfortably
+like the sort of
+seriously.
+have in mind much of the time. Yet, in
+thing I, philosophically,
+the court of a Louis, when the quadrille was played, did not the
+music express
+the formal,
+animal motion of
+tense,
+secretly
+those
+silk-and-linen-clad
+rather
+than the dynamic
+bodies,
+life?
+when people
+shape of their emotional
+And, at Cithen,
+first heard the fantastic Chaconne Bach tacked onto his partita
+for violin, who could have thought of anything but just the music itself,
+the inexorable
+of that purely musical
+variations
+idea? Yet again, did not the Hospodi Pomilui of the Russian
+Orthodox church signify the raising and lowering of the cross,
+rather than the dynamic shape of the attendant joy and sorrow?
+Not that this music has to signify these things to me, now,
+when I play the record at home, or listen to it, cut off from its
+natural habitat and placed in that zoo, the concert hall. Should
+I even try to understand the tiger by watching him in his cage?
+In such contexts,
+music may very well tend to mean the same
+sort of thing. The tigers
+and the elephants become,
+in time,
+with the same glazed look in their eyes and
+"institutionalized,"
+the same aimless
+shuffle.
+Finally,
+
+back to the metronome.
+
+It may very well turn out that,
+
+184
+to the music,
+if you listen
+you will hear the rising
+carefully
+the grasping,
+and falling of human desire,
+groping, fluctuation,
+dissolution,
+retrenchment,
+leadings toward and
+regimentation,
+life. But you may also hear the
+away from of human emotional
+of a thousand jet warplanes
+descent
+rushing and geometrical
+a country pond filled with croaking frogs. Or, you
+assaulting
+of a highly disciplined
+play
+may hear nothing but the result
+the descents,
+the regimentawith sound - just the rushings,
+and so forth.
+The noises
+before you must
+tion, the leadings,
+be heard, and how they are heard should be just a matter of
+what heard sounds provide you with a most valuable experiThere is no a priori reason to suppose that you, as do I
+ence.
+or Langer, have a desire for insight into human emotional life,
+or even that, were you thus philosophically
+music
+inclined,
+would provide such insight.
+Langer is free, as is anyone else,
+a focus on music, but, as with the ticking of the
+to recommend
+I will hear largely
+the sort of thing I listen for.
+metronome,
+Musical
+pieces are complex enough as heard to admit of some
+relation
+with some case of any equally
+sufficiently
+regular
+such that the heard music can, with only
+phenomenon
+complex
+a minimal
+on the part of the listener,
+express
+predisposition
+For a physiolothat case of that other complex phenomenon.
+the dynamic pattern of
+gist, a piece of music might express
+the Krebs-cycle,
+while, for Langer, that same piece might exTo arbipress the dynamic pattern of mania and depression.
+be an arbitrary
+such views
+would inevitably
+trate between
+each derives
+in case Langer and the physiologist
+procedure,
+(as they most likely would) more or less the same degree of
+from the music he hears.
+satisfaction
+A more formal way to present this thesis might go something
+A piece of music,
+like the following.
+apart from being heard,
+- it can occasion
+is like the ticking of the metronome
+quite
+that we hear music as it
+different
+Langer proposes
+hearings.
+life of human
+with the emotional
+is dynamically
+isomorphic
+the dynamic patterns of that
+and thus, as it expresses
+beings,
+are open to hearing a piece of
+Yet the same prospects
+life.
+with
+music as it may turn out to be dynamically
+isomorphic
+beArbitration
+phenomenon.
+complex
+any other sufficiently
+of a piece of mutween any two of these prospective
+hearings
+sic would be reasonable
+only in case one or the other of those
+to a more positive
+evaluation of the
+led the hearer
+hearings
+piece, since this would indicate a more fruitful audition.
+Here,
+
+we must
+
+leave
+
+the subject
+
+for another
+
+time.
+
+I hold the
+
+185
+conclusion
+of this line of discussion
+as a point of general aes- that aesthetic
+is unlike other sorts of
+thetics
+evaluation
+not in being based on purely "aesthetic"
+considevaluation,
+eration or in being "intrisic" as opposed to "instrumental,"
+but
+in being positively
+directed
+or biased in favor of the work.
+That is, other things being equal, of two views of a work, one
+of which leads to a less positive
+evaluation
+(or more negative)
+of that work than the other, the burden of proof always lies on
+the first.
+The main reason why I hold this view is a fact,
+somewhat
+shuffle of theories
+of art,
+forgotten in the technical
+that works of art are the sorts of things people produce and
+above all with an eye to entertainment.
+it
+Thus,
+approach
+would be perverse
+to require
+someone to be entertained
+less
+because he is missing
+"the true meaning" of a work.
+
+3. The Musical
+
+Symbol
+
+We have now to look more closely at Langer's
+of spethesis
+cial meaning,
+and discuss her view of the way in which musical "import" arises.
+We have not, in the previous
+section,
+of special
+thesis
+but
+rejected
+Langer's
+meaning altogether,
+so a closer look at the "how" of
+only its claim to generality,
+the musical
+is in order.
+Still, it is imimport she describes
+of musical important to keep in mind that, if this explanation
+within the context of Langer's
+port is kept completely
+view, it
+appears as an answer to a spurious question - "How does music mean?" So, with an appropriate
+we
+degree of reservation,
+turn to Langer's
+account.
+The elements
+of music are moving forms of sound; but in
+their motion nothing is removed.
+The realm in which tonal
+entities
+move is a realm of pure duration.
+Like its elethis duration is not an actual phenomements, however,
+non. It is not a period - ten minutes or a half hour, some
+fraction
+of a day - but is something
+different
+radically
+from the time in which our public and practical
+life proceeds.*17
+The first thing we must contend with in this view is the somewhat paradoxical
+notion of motion.
+Musical elements,
+that is,
+the musically
+or important
+significant
+parts of the heard music, are in motion, yet "nothing is removed."
+Recall what you
+would normally
+hear in connection
+with musical
+excerpt
+(a)
+some pages back, and consider the part of what you hear that
+
+186
+corresponds to the figure (p). Most likely, you will agree that
+it is in motion, and yet it does not move as does an automobile
+down the street. There is no place that it is at at a time, and
+then is no longer there. This is true for two reasons. First,
+the heard sound does not have a location as does a physical
+thing. Second, the heard sound does not fit in with temporal
+orders that organize other things that one sees, hears, or
+Let me dwell on each of these points
+otherwise perceives.
+briefly, in an attempt to get them more clearly in focus.
+First, the heard sound does not have a location, such as, for
+example, my typewriter has. I might hear it as coming from
+the piano or the flute, but chances are I do not even locate it in
+this way when I listen to it as music. The source of the sound
+becomes irrelevant when I listen to the music. My habits of
+locating sources of sound are more tied up with practical concerns that I have - I locate, in this sense, the rattle in my
+car's engine because it might signal something in need of
+repair. But I do not listen to music, usually, with an eye to
+repairing the piano. Instead, if I am required to locate the
+sound of the figure (p), I am more likelyto locate it somewhere
+between high and low, but not "high" in the sense that the moon
+is high, nor "low" in the sense that the valley is low. I locate
+it, that is, metaphorically,
+though the metaphor is old and
+used as to be virtually a second literal use of
+well-enough
+"high" and "low."
+Second, the heard sound does not fit in with temporal orders
+that organize other things seen, heard, or otherwise perceived.
+What is strange, for example, about saying that the andante
+soda I had before the
+came ten minutes after the ice-cream
+concert,*18 even though it is quite literally true, by the clock,
+that the interval between them was just ten minutes? What is
+strange is that, in the temporal organization of the heard music of which the andante is a part, there is no relation of a
+temporal sort which extends outside the heard music. Here is
+another metaphor. Literally, if the concert began, as it did,
+after I had the sundae, and the andante began after the concert
+began, then the andante began after the sundae. But this transitivity of "after" is blocked by the boundaries of the metaphorical domain of the temporal labels I use to describe the
+heard music.
+These two metaphors conspire together, as do their literal
+counterparts, to frame a notion of motion. Something whose
+
+location
+
+or metaphorically)
+(literally
+changes in a span of time
+or metaphorically)
+moves (literally
+or metaphorical(literally
+- is not this just obfuscatory
+ly). But why not speak literally
+that is not a motion by a kind of sys talk, reporting something
+tematic indirection?
+Aside from a detailed
+of how
+discussion
+work,*19 the best answer to this is that at this point
+metaphors
+in the description
+of the heard sounds we have something to
+describe
+for which our language was not designed to describe.
+these metaphors
+is a tricky and perhaps imposLiteralizing
+- the most common attempts end up shifting
+sible undertaking
+the reference
+to something
+other than the heard sound. This
+for example,
+when one reduces
+happens,
+"high" and "low," or
+their comparative
+to acoustical
+terms having to do
+cognates,
+- unless,
+with frequency
+of course,
+the acoustical
+terms are,
+in turn, used metaphorically.
+With whatever
+caution is required
+we
+by these observations,
+can adopt the metaphors
+involved
+in Langer's
+claim that the
+elements
+of music are moving forms of sound. The next point
+we shall have to deal with is her notion that these moving elements constitute
+a very special
+sort of time, called "musical
+duration." We are told, above, that this is "something
+radicalfrom the time in which our public and practical
+ly different
+life proceeds,"
+but our consideration
+of the ice-cream
+sundae
+and the andante only establishes
+the bare difference.
+Musical
+time could be just like the time of clocks except that it does
+not extend beyond the boundaries
+of the musical phenomenon,
+as far as our considerations
+up to this point go.
+Yet
+
+and mix(and here we begin a wildly complex elaboration
+ing of the temporal
+metaphor) musical time, unlike the time of
+as it
+clocks, changes its pace. It can come to a stop, a stasis,
+does in the midst of a piece when a false cadence momentarily
+silence or "rest" is
+stops the whole show, or when a prolonged
+earned by an especially
+forceful line of motion cut off suddenly. Such a line continues into the rest, by virtue of our imagithe Gestalt it begins,
+but it also does not
+natively
+completing
+continue into the rest by virtue of the sudden and audible cessation of that line in mid stream.
+conThus, its imaginative
+tinuation is one temporal line, while its cessation
+is another the musical
+time
+"branches"
+into two lines of succession.
+Either of these lines may then be continued:
+the line of motion
+at a later point, or another line may be bemay be resumed
+of the previous
+continuation
+gun, cutting off the imaginative
+line. Or both may be continued,
+in polyphonic develsplitting,
+
+opment, the heard music into two distinct temporal lines. Thus,
+a fugal subject may end with a rest, and then continue with
+at the
+while the theme re-enters
+counterthematic
+material
+This happens in the second
+point of rest in the first voice.
+of Bach's G-minor Violin Sonata, for example.
+The
+movement
+a fabric of
+which establishes
+result is a temporal
+organization
+distinct temporal lines, each a succession
+by itself, but with no
+with
+in terms of the same relation of succession
+interrelation
+the others, such that one would be led to say that an element in
+one line follows
+in the other line. Then the
+upon an element
+and one voice may decline an element
+lines may coalesce,
+dimension
+which is continued by the other. Thus, the temporal
+a fabric, rather than a thread, while the
+of the music becomes
+of things that the clock measures
+is aldimension
+temporal
+ways a single linear array of times at which things are.
+that clock time does
+Musical time thus admits of qualifications
+can so conspire
+as to produce a temelements
+not. Musical
+a more or less filled or empty temor stretto,
+poral stasis
+of distinct temporal
+or coalescence
+poral line, a divergence
+resolutions
+within or between temporal lines,
+lines, tensions
+within a single line from one meter
+of these, transformations
+to another,
+and a wide variety of textures within a single mebecause of the metaare admissible
+ter. These qualifications
+of sound in
+to talk of elements
+turn that is required
+phorical
+such an intricate body of metThe task of literalizing
+motion.
+itself to us, but only were we to
+talk might present
+aphorical
+on the nature of music achave some philosophical
+designs
+that nature in a
+to which we would want to discuss
+cording
+It is not at all clear that we should
+scientific
+way.
+relatively
+For most critical and even musicological
+have such designs.
+seems to do quite well.
+the metaphorical
+vocabulary
+purposes,
+next step, the special symbolic function of music
+In Langer's
+between musical time,
+to appear. She notes a similarity
+begins
+or "musical duration," and "lived time":
+duration is an image of what might be termed
+Musical
+time - the passage of life that
+"lived" or "experienced"
+become "now," and "now" turns inwe feel as expectations
+is measurable
+fact. Such passage
+to unalterable
+only in
+and emotions.
+. . . The
+of sensibilities,
+terms
+tensions,
+time is the primary
+of this vital, experiential
+semblance
+an order of virtual
+of music.
+All music creates
+illusion
+to
+forms move in relation
+in which its sonorous
+time,
+
+189
+each other - always
+else exists there.*20
+
+and only
+
+to each
+
+other,
+
+for nothing
+
+we can say all the same sorts of things, mutatis
+Presumably
+life that we can say about music.
+about emotional
+mutandis,
+But instead of "moving forms of sound," we would speak of
+of feeling"
+or some such elements.
+elements
+The
+"moving
+of motion, thus, takes on a different
+domain, but it
+metaphor
+a metaphor.
+In this motion, nothing is removed.
+A
+remains
+cathexis has a "direction," as does a musical element,
+but it is
+directed toward the intended object of desire or aversion,
+just
+as one musical
+element
+can point to or away from another.
+A
+can be more or less intense,
+more or less "high," as
+feeling
+can a musical
+tone, though we have no tendency to reduce it,
+as we might (mistakenly)
+attempt in the case of a musical tone,
+to anything parallel
+to acoustical
+And a development
+notions.
+in the life of feeling can involve a motion within this space of
+in a piece of music
+"high" and "low," just as a development
+can involve, analogously,
+such motion.
+of emotional life have no literal location,
+The elements
+nor do
+orders that organize things ordinarithey fit in with temporal
+Yet when the metaly heard, seen, or otherwise
+perceived.
+and time conspire together,
+the result is a
+phors of direction
+opaque to the extent that any metaphor is, which
+vocabulary,
+can significantly
+be used to describe
+the emotional
+life in
+terms of stasis,
+or coalesstretto,
+filled, empty, divergence
+of emotional
+cence
+tensions
+within or between lines,
+lines,
+of these, transformations
+resolutions
+within a single line from
+one tempo to another,
+and a wide variety of textures within a
+single tempo.
+For Langer such a parallel
+between music and emotional
+life
+is tantamount to a symbolization-relation
+between them. In our
+the parallelism
+is a matter of some sort of isomorterms,
+and the domain
+phism between the domain of musical elements
+of feeling
+as they are sorted out by the metaphors
+elements,
+in question.
+Yet it is never the case that a similarity,
+even a
+for a relation of
+one, is sufficient (or necessary)
+thoroughgoing
+This is argued rather conclusively
+in more resymbolization.
+cent literature.
+For example,
+Nelson Goodman,
+in his Lanus with a relatively
+but conguages of Art, presents
+simple,
+in this regard. He argues, having someclusive, consideration
+what of a field day with the notion in question:
+
+190
+The most naive view of representation
+might perhaps be
+B if and only if A
+like this: "A represents
+put somewhat
+B to the exresembles
+B," or "A represents
+appreciably
+of this view, with astent that A resembles
+B." Vestiges
+sorted refinements,
+persist in most writing on represeninto
+Yet more error could hardly be compressed
+tation.
+so short a formula.
+An object resemSome of the faults are obvious enough.
+bles itself to the maximum degree but rarely represents
+B is as much like A as
+is symmetric:
+itself; resemblance
+the Duke
+A is like B, but while a painting may represent
+the painting.
+the Duke doesn't
+of Wellington,
+represent
+in many cases neither one of a pair of very
+Furthermore,
+A Constable paintthe other. ...
+like objects represents
+Castle is more like any other picture
+ing of Marlborough
+the Castle and
+than it is like the Castle,
+yet it represents
+not another picture - not even the closest
+copy.*21
+What is needed,
+over
+which may
+element,
+in
+relation,
+genetic
+Yet
+symbolization.
+The musical symbol
+view of iconoclastic
+
+is some other
+and beyond isomorphism,
+or a habit, or perhaps a
+be a convention,
+to become
+a
+order for an isomorphism
+denies
+conventionality.
+Langer explicitly
+is an icon, according to her view, and, in
+cited above, there is no such
+arguments
+
+thing.
+are substantially
+If these considerations
+correct,
+Langer has
+condition for music to symus with a sufficient
+not provided
+time or be, as she calls it, a "symbolic
+bolize
+subjective
+life
+the emotional
+of the highest organic response,
+presentation
+The net effect of Langer's
+of human beings."
+rhetorically
+of this view might very well be in the
+forceful
+presentation
+between mua relation of symbolization
+of effecting
+direction
+But this effect would be of the nature
+sic and subjective
+life.
+of her thesis.
+established
+of a convention
+by her presentation
+if we are prepared to listen to
+In a weak way, Langer's
+thesis,
+is self-verifying.
+music by its lights,
+But, by virtues no different from this, any similar thesis to the
+effect that music symbolically
+presents
+any other highly comand
+would be equally correct
+multilinear
+phenomenon
+plex,
+rather
+To insist on Langer's
+proposal,
+equally misleading.
+with the same virtue of being selfthan any of the others
+in favor of
+would be an act of choice or prejudice
+verifying,
+
+191
+one would like to
+one, rather than another sort of message
+look for in the music.
+One need not even accept any of the
+views in this prospective
+semiotic
+theses.
+range of different
+for "pure music," or
+Such a refusal would reflect a preference
+music as an exclusively
+phenomtemporal
+playful, intricate,
+enon without any transcending
+This is, I must
+significance.
+a preference
+I have on occasion.
+confess,
+But any of these views must remain a preference.
+The socalled controversy
+between the "heteronomist"
+and "autonomist" views of music is a controversy
+that ultimately
+carries
+back to a matter
+of choice,
+in which any of the available
+choices can result in a valuable
+on (some) music.
+perspective
+
+4. Iterational
+
+Systems
+
+I am now in a position
+to present
+the central thesis
+of this
+The conclusion
+our investigation
+paper.
+points to is that a
+as a symbol,
+piece of music may, but need not, be understood
+and that if understood
+as a symbol,
+it need not be understood
+as symbolizing
+sort of thing. In the light of this
+any particular
+conclusion
+be stated. Music, in
+my thesis can quite succinctly
+is a product of an iterational
+general,
+and, in particpractice,
+ular, any musical
+piece is to be viewed as belonging to an iterational
+An iterational
+of resystem.
+system is a collection
+elements
+which can be deployed in
+peatable and reidentifiable
+a variety
+of different
+and characterizable
+and
+permutations
+combinations
+in order to constitute
+differmany significantly
+ent compound units. In the case of music, any given iterational
+system in question (and it appears that many different systems
+are musical,
+according to our considerations
+above) will have
+as its elements
+"moving forms of sound," just as Langer mainAnd we can expect that (here is a necessary
+tains.
+and sufficient, though not very restrictive
+condition) the modes of combination of these elements
+will be such that the result is a
+and unified) musical
+complex
+time, in the sense
+(reasonably
+discussed
+in contrast
+to the simple,
+linear time in
+above,
+which we set our practical
+affairs.
+In this way, then, a piece of heard music is a unit which bewhose
+elements
+are moving
+longs to an iterational
+system
+forms of sound and which constitutes
+an order of musical
+time.
+Notice that any language
+is also an iterational
+system,
+in the sense defined above, though not a musical
+one. In what
+
+192
+that this
+follows I should like to explore some of the prospects
+focus on the nature of music opens up for us. In the remainder
+of semanof this section I shall outline four different degrees
+or semiotic
+tic involvement,
+status, that iterated units, and in
+heard music, can have. These four are (a) music as
+particular
+at all; (b)
+a purely formal entity with no semantic dimension
+music as a formal entity with what, to use Langer's vocabulary, might be called "virtual meaning";
+(c) music as a symand (d) mubolic entity with an equivocal semantic
+dimension;
+sic as a symbolic
+semantic
+dimension.
+entity with a univocal
+section of this paper, I shall turn away
+Then, in the concluding
+some of the
+and briefly
+examine
+from these considerations
+and dangers which might naturally be assocultural prospects
+of music which result from
+ciated with each of four theories
+focus on one or another of these four levels of
+an exclusive
+semantic
+involvement.
+To speak of levels of semantic
+involvement
+is to suggest that,
+in some way or another,
+things can have more or less meansuch talk would be a symptom of an espeing. Prima facie,
+has meaning,
+notion of meaning. "If something
+equivocal
+cially
+to
+not" would be an appropriate
+it has it, otherwise
+response
+units would
+such talk. Speaking of "more or less meaningful"
+betray a partial confusion of "meaningful" in the sense of "imYet among
+in the semantic
+sense.
+portant," with "meaningful"
+and especially
+of different
+the products
+iterational
+systems
+among those that we call "music," there seem to be four disof "meaningfulness,"
+in the semantic
+tinct degrees
+strictly
+an importantly
+different kind
+each of which represents
+sense,
+of heard music.
+In
+First there is the "zero" degree of semantic involvement.
+this is the degree to which meanings arise when we
+listening
+to us
+hear the music as simply a display. Nothing is presented
+Such sounds in motion may be said
+but the sounds in motion.
+a play of sound upon our auditory faculties.
+to be exclusively
+involvement
+Heard music at this level of semantic
+signifies
+can significantly
+differ from each other
+Two pieces
+nothing.
+shapes or by filling
+temporal
+very different
+by establishing
+of their meters with figures that organize tonal
+the interstices
+Musical value, at this level of semandifferently.
+components
+as one might
+would not necessarily
+tic involvement,
+involve,
+suspect,
+only hedonic values. For example, it could, where the
+even involve the heuheard music has no semantic
+dimension,
+our perceptive
+ristic value of developing
+apparatus; or it could
+
+193
+involve the kind of value which Eugene Minkowski ascribes
+to
+in general,
+imagination
+namely the value of escape from realdemand practical
+ities
+which constantly
+involvement
+and a
+of our vital energies;*22
+or it
+retrenchment
+corresponding
+could involve the sort of value which arises in connection with
+other absorbing
+as in the case of a
+with things,
+engagements
+where one loses
+derivation,
+complex mathematical
+sight enof the symbols manipulated
+dimension
+tirely of the semantic
+and comes away from such engrossment
+with a "shipwrecked"
+These
+are just possibilities,
+feeling
+(hardly pleasure).*23
+among many others that might appear with a more thorough
+There would, for example,
+also be a tendency at
+investigation.
+this level of semantic
+to speak of "purely aesthetinvolvement
+ic values" - values of design, unity and diversity,
+and the like.
+The next level of semantic
+involvement
+is the level at which
+the heard music takes on a semblance
+of meaningfulness.
+The
+music presents
+itself to us as though it were meaningful,
+as a
+of some expectation
+we have that it will symresult, perhaps,
+bolize something.
+Such an expectation
+can be a result of reador it can be a matter of cultural tradiing Langer extensively
+tion. At this level, however,
+no meaning is forthcoming.
+The
+music is still without a semantic
+but its elements
+dimension,
+themselves
+in our hearing
+with an elusive
+arrange
+aspect.
+This is like listening to speech in a foreign language - our attention is not entirely
+on the sounds that move, because
+we
+seek to grasp the "meaning" that we suspect is there. Part of
+the value that heard music can have at this level of semantic
+involvement
+is a function of that elusive or mysterious
+quality
+that the music takes on. Such meaningfulness
+may, to coin a
+with Langer's
+phrase in accordance
+usage, be called "virtual
+alone:' Analogous
+meaning" or "meaning created for perception
+cases of purposeful
+objects which elude any purpose are to be
+found among works of other arts. Kant, I believe,
+made such a
+level of practical
+involvement
+into a definitive
+characteristic
+of aesthetic
+objects.* 24
+The third
+the heard
+
+level of semantic
+involvement
+is the level at which
+music becomes
+but in such a way that
+meaningful,
+each of which is equalmultiple meanings
+suggest themselves,
+of music at this
+ly effected by the heard music.
+Interpretation
+level of involvement
+tends to be a relatively
+acimaginative
+the claims that the
+tivity - one might find equally satisfying
+music
+a squadron
+of jet warplanes
+a
+symbolizes
+attacking
+country pond filled with croaking frogs, or that it symbolizes
+
+194
+the eterthe siege of Byzantium,
+or, again, that it represents
+and passionate
+nal polarity
+between the contemplative
+aspects
+of human emotional
+tend to
+life. At this level interpretations
+of symbolization
+be more or less farfetched.
+The mechanism
+- the musical
+with
+is that of iconicity
+symbol is isomorphic
+what it is said to symbolize.
+Yet there is no settled convention
+to disambiguate
+the symbol.
+in
+thus, becomes
+Interpretation,
+or local convention (and thus, to
+part a matter of stipulation
+the musical
+some extent, incorrigible).
+Further,
+symbol at
+this level tends to be inexhaustible,
+in the sense that another
+The things symbolinterpretation
+might always be available.
+to display the same numized tend to be mutually isomorphic,
+ber of key elements
+with parallel relations
+among those eleto be
+The value of heard music at this level seems
+ments.
+a function of the potency of its symbolic dimension.
+primarily
+This can be a heuristic
+value, in the sense that it "loosens"
+to the point where we can readily associate
+our imagination
+of visual,
+structures
+and other
+emotional,
+tactile,
+complex
+the musical forms prowith those constituted
+phenomena
+by
+or in the sense that it turns our thought to
+vided by the music,
+the formal aspects of phenomena in general.
+of
+involvement
+there is the highest level of symbolic
+Finally,
+heard music.
+At this level, the music is a univocal symbol of
+some quite definite single thing or sort of thing. Even in case
+there
+with what it symbolizes,
+the heard music is isomorphic
+which
+or habitual association
+involved
+is a tight convention
+Heard music,
+the symbolization-relation.
+uniquely determines
+or
+tends to be programmatic,
+at this level of involvement,
+one sort of hearing of
+occasional
+specifically
+(as, for example,
+a miliSuite accompanied
+The Nutcracker
+by program notes,
+tary march, a national anthem, etc.). The value of heard music
+instrumenis primarily
+involvement
+at this level of semantic
+The heard music
+not "vocal").
+tal (as opposed to "intrinsic,"
+can promote the occasion well or ill, or fit the occasion more
+the scene or story more or less acor less well, or express
+as a matter of how exThis last can be understood
+curately.
+notes have to be written in order to prothe program
+plicitly
+to effect this level of semantic
+convention
+vide a sufficient
+involvement.
+at this level of involvement,
+Langer places music in general
+and in
+she will admit the previous level,
+though on occasion
+does not run to occasional
+spite of the fact that her discussion
+or program music. The sort of musical meaning she describes
+
+195
+is nevertheless
+and is a limiting case of the last sort
+univocal
+of value mentioned
+to her account there is
+above.
+According
+no conventional
+That an icon can at best function at
+element.
+the equivocal level when no habit or convention for interpretation is operative
+makes her theory of musical
+meaning fail.
+Nothing can mean that way, unless we are prepared to regard
+her theory as itself a convention
+which if adopted limits the
+range of things symbolized
+by heard music to the realm of human emotional life.
+There seems
+to be no reason why one of these levels of involvement
+needs be the sole level on which any given piece is
+heard on different
+Some pieces
+occasions.
+may lend themselves
+better to one than to another.
+Nor does it seem to me
+that we can in any but an arbitrary
+way proscribe
+any one of
+these levels of involvement
+as "musically (or aesthetically)
+irsince heard music at any of these levels remains,
+relevant,"
+after all is said and done, music. There are, however,
+at least
+four cultural
+dangers to which we can quite naturally fall prey
+in connection
+with these four levels of semantic
+involvement.
+Each of these dangers can best be seen as arising in a context
+in which the thesis
+of a critical
+elite is based on a theory of
+music which argues an exclusive
+for one of these
+preference
+four levels of semantic
+In the concluding
+involvement.
+section
+of this paper I should like to present
+a brief description
+of
+each of these cultural dangers.
+
+5. The Thesis
+
+of a Critical
+
+Elite
+
+Each of the four levels
+of semantic
+involvement
+described
+above might be adopted as though it excluded the rest, giving
+us a formalist
+view of music in case the zero level is exclua 'Kantian" theory of music in case the level
+sively preferred,
+of virtual meaning is preferred,
+or, in case one or the other of
+the higher two levels
+is preferred,
+we get some form of a
+semiotic
+Each of these views of music has an attendant
+thesis.
+cultural danger. The formalist
+view can lead to a type of critical elitism
+which promotes
+some degree of intellectual
+disWhat I call
+honesty among those who have to do with music.
+the Kantian view can lead to a form of critical
+elitism which
+some degree of a kind of intellectual
+promotes
+elusiveness.
+The view that musical meanings are equivocal
+can give rise to
+a critical
+elitism
+which promotes
+an exoteric
+dogmatism.
+the view that musical meanings are univocal can give
+Finally,
+
+196
+elitism which promotes
+intellectual
+rise to a form of critical
+of these four
+Let me briefly sketch the prospects
+selfishness.
+a cautionary
+in order to introduce
+note into
+cultural
+dangers
+of those who would opt for one or another of
+the proceedings
+of semantic
+of music to the exthese four levels
+involvement
+These considerations,
+clusion of the others.
+by their nature,
+must be inconclusive,
+though in an oblique way they militate
+of musical meantheories
+against all four of these exclusive
+ing.
+to the formalist
+view heard music has no semantic
+According
+The other three levels
+of semantic
+dimension.
+involvement,
+and especially
+those in which the heard music has an equivocal
+are excluded
+or univocal
+either by argufunction,
+symbolic
+ment to the effect that music is in itself incapable of symbolic
+or by argument to the effect that, though music can
+functions,
+such symbolism
+is nevertheless
+musicalitself symbolize,
+by
+(i.e., though music can by itself have a semantic
+ly irrelevant
+music as such has no such dimension).
+This last is
+dimension,
+as we reported earlier.
+the view of Hanslick,
+Any talk by way
+of what the music means is proscribed
+on
+of music criticism
+the grounds that such talk deals with matters which involve a
+to the music itself,
+to elements
+that are extraneous
+reference
+be beside the point
+must necessarily
+where
+such reference
+The governing
+here
+consideration
+musically
+(or aesthetically).
+one which can lead to an
+implies a more general proscription,
+If the symextreme form of "purism" if followed consistently.
+of heard music is irrelevant
+because in order
+bolic dimension
+it we must refer to something
+besides the music
+to describe
+what the music symbolizes),
+then any other
+itself
+(namely,
+as well, if, in order to
+feature of the heard music is irrelevant
+that feature,
+we must refer to something besides the
+describe
+this view would promusic itself.
+Yet carried to the extreme,
+feature that the heard muscribe as irrelevant
+any significant
+It would, for example,
+class as irsic could possibly
+have.
+as in the case of the
+relevant
+because,
+any heard rhythm,
+the
+which we considered
+metronome
+above, something besides
+involved
+mere noisy commotion (the ticks of the metronome)is
+more is a matter of what
+in the heard rhythm. This something
+a covert
+But this involves
+I expect or listen for in the music.
+to other heard music and
+either to me or generally
+reference
+on the
+to be enjoined by a consistent
+is accordingly
+purism
+grounds that we are to be enjoined from hearing or reporting
+to the music itself - the same grounds on
+anything extraneous
+which we are forbidden to speak of musical meanings.
+
+197
+Yet heard rhythms
+are indeed constitutive
+aspects of music.
+of pure music, carried to this
+The result is that the conception
+becomes
+identical
+with the conception
+of incoherent
+extreme,
+is just a matter of the logic of a fornoise.
+This, of course,
+would ever go this far, or at least
+malist
+view. No formalist
+I should hope not. If someone were even to dimly see results
+such as these, the vision would be sufficiently
+to
+embarrassing
+warrant
+considerable
+rationalization
+by way of patching up the
+formalist
+orientation
+towards music.
+music might
+Ultimately,
+turn out to be inarticulate
+the story between the lines
+noise,
+a workmight go, but in orderto acquire for musical purposes
+ing insight into music, we shall keep this ultimate out of sight.
+At this point things are ripe for an elitism.
+There are those
+that have gone all the way, run the course,
+and they are those
+who know.
+essence
+that
+They have found that pure musical
+- semantic,
+eludes capture by any of our categories
+metric,
+Then there are those that are on the way,
+tonal, or whatever.
+who might, if they work very hard, achieve this understanding,
+who have this understanding
+and, of course, there are geniuses
+as a gift. But most people are incapable of grasping (the grasp
+must necessarily
+be intuitive)pure
+music, but can only imperMusic is ineffable,
+and so
+fectly approach true understanding.
+forth.
+from the logic of purism,
+the unacceptable
+result that
+is no such thing as music becomes
+transformed
+into the
+result that there is no such ordinary thing, and muacceptable
+sic becomes
+the object of an extraordinary
+and not generally
+available
+The thesis
+of a critical
+elite can then
+sensibility.
+take over the cultural
+with authorities
+that
+scene,
+complete
+are not completely
+accountable
+for their evaluations
+of musical works.
+
+Thus,
+there
+
+Of course,
+there is nothing intrinsically
+wrong with elitism
+there
+will never underreally are some things the masses
+stand. But this particular
+form of critical
+elitism appears to
+be objectionable
+because of a characteristic
+effect it can have
+on those who have to deal with music.
+It encourages
+some desince, if our view of the logic
+gree of intellectual
+dishonesty,
+of purism is substantially
+there really is no such uncorrect,
+for the initiated to have. Carried to its
+available
+derstanding
+this approach has the music simply disapconclusion,
+logical
+pear, leaving
+Thus, nobody whose thinking is
+only the noise.
+clear on the matter can in good faith take the position of an
+Yet since, in good faith, it is quite possible
+to preauthority.
+
+1 98
+varicate enough to actually feel that, yes, I really do understand the music, I might nevertheless take such a position in
+good faith. I have listened to the music, lived with it, to the
+point where I have so much of my life invested in it that I have
+become virtually one with it. The only catch is that this understanding that I feel is inarticulate, it runs beyond the words in
+my language. I can pronounce, ex cathedra, an evaluation of
+the music, but I find that I can never completely capture in
+words the reason why I evaluate it as I do.
+Thus, I become an authority. I know a lot about the music, but
+there are things that I don't have the words to express. Yet, in
+my thinking, there is always that one small note of intellectual
+dishonesty, the one that takes a feeling of understanding that I
+do not have. This is my myth, the foundation of my authority.
+I might become eccentric, or get ulcers, or otherwise display
+symptoms of this very slightly dishonest foundation, but
+chances are I will never be cured of the myth. Since I am,
+meanwhile, very knowledgeable about details of musical works,
+I can maintain the public aspect of an authority, setting an example for others who, eventually, might come to feel that they
+understand the music also, or else give up the quest and sink
+back into the masses.
+The situation, though it can be a stable
+one, is quite unhealthy. Culturally it can limit the accessibility of music to people in general - why listen to it if only
+those who make it their whole life can understand it?
+The second level of semantic involvement is that at which the
+heard music takes on the semblance of something that has a
+semantic dimension, though it takes on no meaning per se. It
+becomes "meaningful, but with no meaning." A Kantian view of
+music (not Kant's, but very likely something Kant might have
+held) might propose to understand music only at this level of
+semantic involvement, excluding all the other levels as musiThis view tends very quickly to degenerate
+cally irrelevant.
+into a strict idealism.
+Listening to speech in a foreign language becomes a worthless procedure in itself, and all the
+more a waste of time in case there is no meaning we could apprehend if we only had the dictionary. Yet there could, according to this view, be no dictionary, since that would destroy the
+of virtual, but not actual,
+peculiarly musical characteristic
+symbolism.
+So one might come to imagine that something like a meaning
+An ideal to which music aspires,
+is there, only transcendent.
+
+199
+but which it can more or less apwhich it can never achieve,
+the music is musically
+better
+Further,
+proximate,
+emerges.
+this ideal.
+or worse as it more or less closely approximates
+the value of a musical
+Thus, in order to apprehend
+clearly
+work, we must in some way or another apprehend the ideal be
+not in the heard music,
+it could not possibly
+because
+there.
+to the point at
+This frame of thought can break down entirely,
+of some
+which someone comes to feel that he is in possession
+or transcendental
+line on the ideal. He then
+intuitive
+special
+takes on the role of authority,
+with the attendant elitism
+and
+- much as it can result
+that results
+intellectual
+dishonesty
+would be that
+from the purist view. A more likely development
+there arises
+an exoteric
+and an esoteric
+In order to
+doctrine.
+for music on the part of those who onmaintain an enthusiasm
+it is publicly to be pronounced
+that,
+listen,
+ly occasionally
+yes, music does have meaning,
+only this meaning is very hard
+to hear. It requires
+Such is
+respectful
+very close,
+listening.
+the public myth. Those who know, on the other hand, hold esothe true doctrine
+that the music is without meaning,
+terically
+that to be meaningful is only the ideal to which music aspires,
+but never, in principle,
+can reach. This esotericism
+might be
+were the theory correct,
+on the grounds that the sort
+justified,
+of value that music can have only arises to any full extent in
+the course of long and arduous listening
+to the music and looking for the meaning that it seems to have. But such listening
+the myth that music has a meaning.
+Each listener
+requires
+the full extent of the value that comes from
+will, on acquiring
+such long an arduous listening,
+for himself
+realize
+the esoteric truth that music has no meaning.
+Thus, this truth need
+to tell it at large
+not, must not, be generally
+told, because
+would be to deprive those who are willing to stick it out for the
+full realization
+of musical value.
+In addition to this duality, whenever
+a seeker
+after musical
+comes to feel that he has at last deciphered
+that difmeaning
+ficult language, one who knows must point out that, no, the music does not mean that. Thus, the cognoscenti,
+taking the public
+stance of those who have deciphered
+that elusive language, become intellectually
+to the point where nothing by way
+elusive,
+of interpretation
+could possibly
+count as correct.
+Which, of
+is a consequence
+of the theory in question.
+But the
+course,
+elusion is of a peculiar nature.
+It requires
+that
+the pretension
+there is some interpretation
+which is the correct one, a pre-
+
+200
+of its heuristic
+value rather than beheld because
+tension
+The result is a mode of approach which is entirely
+lieved.
+to make any move
+- one who knows is prepared
+sophistical
+of any higher level of semantic
+to cure a seeker
+whatsoever
+in the music.
+involvement
+Many of these moves will be rheand rhetoric
+in a
+is a disease
+which easily
+torical,
+spreads
+context in which those who are supposed to know readily acSuch elusivecept, or appear to accept, sophistical
+arguments.
+a culturally
+And
+ness can thus itself become
+favored style.
+a
+is never a healthy turn of events.
+this, I believe,
+Culturally,
+class of snobs arises whose entire attention is turned towards
+the cognoscenti.
+mimicking
+The third level of semantic
+is that at which the
+involvement
+- it is symbolic,
+heard music takes on a radical
+equivocacy
+For every
+but its various symbolic
+functions are inexhaustible.
+at this level of semantic
+involvement,
+offered,
+interpretation
+there is another which, different from the first, nevertheless
+with the first.
+tends to have a similarity
+This thread of simiof interpretations,
+and is
+larity runs throughout large families
+with what it
+the result of the heard music's
+being isomorphic
+The conventions
+is said to symbolize.
+which support such muare incomplete,
+and weak, and thus
+sical symbolism
+local,
+of music
+determine
+one symbolic
+function
+never
+uniquely
+Yet some sort of convention,
+rather than another.
+habit, exor the like must, as we have seen, be operant if the
+pectation,
+at
+involvement
+heard music is to reach the level of semantic
+of the
+to provide any interpretation
+which it becomes
+possible
+music.
+A theory of music which would exclude all other levels of semantic involvement
+exclusively
+adopting the view that music
+is an equivocal
+symbol, would, on the one hand, provide a justifor interpretation
+of music,
+fication
+and, on the other hand,
+The
+as having a limited validity.
+view any given interpretation
+of
+provided would most likely run in the direction
+justification
+the notion
+an analysis
+of symbolism,
+which would countenance
+That is,
+of iconicity
+as a sufficient
+condition for symbolism.
+with
+to this view, if the heard music is isomorphic
+according
+this
+then it may be said to symbolize
+some other phenomenon,
+that any given interThe limited
+other phenomenon.
+validity
+pretation
+might have would most likely be a matter of the fact
+will often be "seen" only by a few among
+that an interpretation
+thus, beInterpretation,
+background.
+people with a similar
+but quite acceptably
+critical
+comes a justifiable,
+subjective
+activity.
+
+201
+At this point, however,
+a tendency can develop for the doctrine
+to split into an exoteric
+made available to the public,
+doctrine,
+and an esoteric
+one, maintained privately
+by those who know.
+An interpretation
+offered need not be acceptedby
+anyone else.
+Yet if critical
+this fact must
+activity is to be taken seriously,
+be kept relatively
+secret.
+Thus, the outward form of critical
+as to whether one or
+takes on the aspect of debates
+activity
+another interpretation
+is correct.
+In such debates,
+different
+are featured
+as mutually
+exclusive.
+This
+interpretations
+amounts to an exoteric
+doctrine to the effect that music is seinvolved at the highest level,
+at which the music is
+mantically
+Someone who engages,
+over long years,
+in such disunivocal.
+that multiputations will, in any case, come to the realization
+have the sort of parity which, according to
+ple interpretations
+the esoteric
+doctrine, they have. But, by that time, such a person will have dealt with sufficiently
+of
+many interpretations
+works that he will be in a position to see how these multiple
+to make for an overall uninterpretations
+conspire
+together
+of the music.
+Before
+this appreciation
+derstanding
+develops,
+someone
+should not be apprised of the esoteric
+dochowever,
+trine. There are, thus, those who know, and those who are on
+the way to knowing.
+most people will never get to
+Inevitably
+the point where they can have the necessary
+on
+perspective
+critical interpretation
+to be able to see how multiple interpreeach of which might have only a subjective
+tations,
+validity,
+can jointly amount to a full, even objective,
+of
+understanding
+the music.
+Yet this elitism
+one who knows in a position of having
+places
+to publicly
+could be concluargue as though an interpretation
+But since,
+sively defended against all other interpretations.
+to the esoteric
+such argument must inevidoctrine,
+according
+of something which is only lotably be just a rationalization
+valid, that argument takes on a degree of
+cally or subjectively
+in which everything
+counts in favor of the interdogmatism,
+defended and nothing could possibly
+count against it.
+pretation
+The debates,
+tend to be standing debates with no
+accordingly,
+end in sight. Such dogmatism
+then tends to become a dominant
+cultural style, and there arises
+a class of disputants who, with
+little regard for the music itself,
+arduously defend one or another interpretation
+of a work by rhetorical
+This
+techniques.
+is not a healthy turn of events.
+Finally,
+musical
+
+a fourth level of semantic
+involvement
+is that at which
+A theory might be held which
+meanings are univocal.
+
+202
+that this level of semantic
+involvement
+maintains
+is, exclusive
+of music is to
+of the others, that at which a true understanding
+be achieved.
+Yet, in order for any artifact to have a univocal
+there must be a relatively
+function,
+symbolic
+tight convention,
+which determines
+habit, or expectation
+just what, in any given
+And a convention or the like is
+case, the artifact symbolizes.
+a consensus
+on the part of
+the sort of thing which requires
+those who have to do with its objects.
+A general
+consensus
+will usually not be forthcoming.
+Once a
+there is always a class of those
+convention
+is made explicit,
+who will find it more satisfying
+not to accept that convention.
+for correct
+of
+In this way, were the criteria
+interpretation
+music generally
+available,
+they would be subject to a process
+of a
+of multiplication
+to the point where any interpretation
+as any other.
+Critical
+piece of music would be as acceptable
+interpretative
+activity would no longer be seen as the serious,
+to the theory in question,
+sort of activity which, according
+it
+of a critical
+should be. The way is open for the establishment
+Were it the case that the
+elite via a thesis of special meaning.
+work was something
+sole meaning of a musical
+very special
+then one could expect only the speand difficult to apprehend,
+of the cognoscenti
+cial consensus
+in matters of critical interof
+Thus, in the face of an inadmissible
+pluralism
+pretation.
+a critical
+critical interpretations,
+elite might emerge,
+publicare universally
+that there
+valid criteria
+by
+ly maintaining
+can be viewed as correct or inwhich critical
+interpretations
+that such criteria are just
+correct, while privately
+recognizing
+a matter of convention.
+Someone who engages in the quest for
+of music will
+and that unique understanding
+these
+criteria
+either come in the course of his studies to adopt a convention
+or develop habits of interpretation,
+which closely enough corcritical elite so that the
+with those of the established
+respond
+he offers are in accordance
+with those offered
+interpretations
+he will fall back into the ignorant
+by one who knows. Otherwise
+In the first case, he could then safely be apprised of
+masses.
+To attempt
+the fact that these are, after all, just conventions.
+would
+to enlighten
+him prior to this point in his development
+to a two-year-old
+be like insisting
+child that the word "cow" is
+connected with animals of a certain sort, and
+only arbitrarily
+that child to use the word in other ways as well.
+encouraging
+He would never learn the language.
+The public aspect of one who knows, in this
+ment, is that of someone who is in possession
+
+sort of developof the "key" (the
+
+203
+He may of"dictionary") to music, but who keeps it to himself.
+but never the final reason for them. Thus,
+fer interpretations,
+selfishness
+it may come to be that a degree of intellectual
+is
+One attains an understanding
+of music only
+favored.
+culturally
+becomes
+effort, and that understanding
+virtually
+by individual
+Little spirit of mutual inquiry
+an article of private property.
+And this, I believe,
+would prevail.
+is not a healthy situation.
+A formalist
+view can give rise to a situation in which intelleca Kantian view of music
+tual dishonesty
+is culturally
+favored;
+can provide a milieu in which intellectual
+elusiveness
+is enat a cultural level; the view that musical meanings
+couraged
+are equivocal
+can encourage
+a dogmatic style of thought; and
+the view that musical
+meanings are univocal tends to promote
+a degree of intellectual
+None of these consideraselfishness.
+tions counts directly
+in quesagainst
+any of the four theories
+I believe,
+is that the consequences
+tion. What they do indicate,
+of adopting
+any one of these theories
+might be sufficiently
+such adoption regardless
+of the
+grave to warrant
+avoiding
+truth or falsity of a theory in question. Philosophically,
+though,
+I find this a paradoxical
+enough result that I hesitate to develop it any further.
+On the other hand, in the course of our considerations
+we have
+a theory of music which would accommodate
+the
+presented
+sort of insight offered by each of the four theories
+in question
+without the exclusive
+focus on one or another level of semantic
+of music.
+involvement
+is not
+Music, if our theory is correct,
+a language,
+nor need it be non-linguistic.
+Instead,
+necessarily
+like language,
+is an iterational
+where the
+music,
+practice,
+artifacts
+of any given iterational
+can be semantically
+practice
+involved
+to any degree.
+Of any given piece of music we might
+significantly
+judge whether that piece is best heard at one or
+another level of semantic
+or we might aim our
+involvement;
+critical
+at a judgment of any given piece, where our
+discussion
+standards
+of evaluation
+are such as to prefer one or another
+level of semantic
+of this, we might
+involvement;
+or, instead
+seek an evaluation
+of a piece from each of the four points of
+view provided
+of involvement
+described
+by the four levels
+above. But in all this, we would never have occasionto
+present,
+a priori,
+to the effect that music
+any generalization
+(rather
+than a particular
+or that music as such must
+piece of music),
+be heard or lend itself to being heard at any one of these levels. If we come to such a conclusion
+at all (and I seriously
+doubt the prospects
+of such a conclusion)
+it would be a poste-
+
+204
+as a result of having looked at many and various indiriori,
+vidual cases.
+Thus, our aesthetic
+theory, in an important way,
+does not obviate the need for looking at individual
+pieces of
+of what music is in
+music in order to arrive at a conclusion
+This is a virtue which our theory does not share with
+general.
+discussed
+in this last section of
+any one of the four theories
+the present paper.
+I believe that we can define music (aestheticians
+Accordingly,
+are always after the definition that it all adds up to) as a term
+whose
+which includes
+system
+any product of any iterational
+are "moving forms of sound," in the sense discussed
+elements
+in the fourth section of this paper. From this definition nothing
+the semiotic
+status of music,
+follows
+although it
+concerning
+that any given musical
+artifact
+has been observed
+might be
+involved to any degree.
+semantically
+
+REFERENCES
+
+1
+
+This
+logues.
+2.377,
+
+view is drawn from many scattered
+account of Plato's
+places in his diaof these are: Apology,
+22a-c; Republic
+Some of the more prominent
+Laws 2.670e,
+4.719c,
+10.596-607;
+though there
+6.484d, 8.568b,
+3.398a,
+
+are many others.
+2
+
+Richard Rudner, "On Semiotic Aesthetics,"
+icism,
+
+3
+
+Vol. X, No. 1, September,
+
+Eduard Hanslick,
+Music, by Gustav
+
+Journal of Aesthetics and Art Crit-
+
+1951, pp. 67-77.
+
+Vom Musikalisch-SchSnen,
+Cohen, London: Novello,
+and Form,
+
+4
+
+Susanne
+
+5
+
+Langer, pp. 113 ff. The relevant
+troduction to Metaphysics.
+
+Beautiful
+
+in
+
+New York:
+
+Scribner's,
+
+1953, p. 31.
+
+Langer, p. 109.
+
+7
+
+as The
+
+Langer, p. 32.
+
+6
+
+translated
+1891.
+
+Langer,
+
+Feeling
+
+text in this
+
+connection
+
+is Henri
+
+Bergson's
+
+In-
+
+205
+8
+
+Langer,
+
+p. 129.
+
+9
+
+Langer,
+
+p. 107.
+
+10
+
+of Music, trans.
+Poetics
+Igor Stravinsky,
+Harvard Univ. Press,
+1970, p. 85.
+
+11
+
+Stravinsky,
+
+A.Knodel
+
+and Ingolf
+
+Dahl, Cambridge:
+
+p. 85.
+
+12
+
+Langer,
+
+13
+
+John Austin, Sense and Sensibilia,
+G. J. Warnock, ed., New York: Oxford Univ.
+in this work is directed
+1964. Austin's
+Press,
+argument
+against the
+largely
+'What do we perceive?,"
+which is a bogus question in much the same
+question
+as that of what language means.
+way
+
+14
+
+Langer,
+
+p. 32.
+
+15
+
+Langer,
+
+p. 118.
+
+16
+
+Langer,
+
+p. 126.
+
+17
+
+Langer,
+
+p. 109.
+
+18
+
+I owe this example to Rita Nolan, who used it in the course of commenting
+on a
+of Sense-Categories,"
+read at the May, 1970
+paper of mine, titled "Definitions
+of the Western
+Division of the American
+Association.
+meetings
+Philosophical
+
+19
+
+The beginnings
+of such a detailed
+discussion
+may be found
+man's Languages
+of Art, New York: Bobbs-Merrill,
+1968.
+
+20
+
+Langer,
+
+21
+
+Goodman,
+
+22
+
+Eugene Minkowski,
+(1960), pp. 3-31.
+
+23
+
+Jose Ortega y Gasset,
+of essays,
+in his collection
+(Princeton,
+1968), uses the term "shipwrecked"
+about the novel.
+
+24
+
+Immanuel Kant, The Critique of Judgement,
+trans. J. Meredith (Oxford,
+is opaque enough to require
+more
+pp. 34 ff. (though Kant's language
+at this or any other passage).
+passing glance
+
+p. 31.
+
+in Nelson
+
+Good-
+
+p. 109.
+pp. 3-5.
+'Imagination?,"
+
+Revue
+
+Internationale
+
+de Philosophie,
+
+The Dehumanization
+in a similar
+context,
+
+XIV
+
+of Art,
+talking
+
+1952),
+than a
+
+

@@ -1,0 +1,3975 @@
+Yale University Department of Music
+
+The Physical Basis of Intervallic Quality and Its Application to the Problem of Dissonance
+Author(s): Richard Bobbitt
+Source: Journal of Music Theory, Vol. 3, No. 2 (Nov., 1959), pp. 173-207
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/842850
+Accessed: 14/12/2009 16:35
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE
+
+PHYSICAL
+
+BASIS
+AND
+
+TO
+
+THE
+
+ITS
+
+OF
+
+INTERVALLIC
+
+QUALITY
+
+APPLICATION
+
+PROBLEM
+
+OF
+
+DISSONANCE
+
+by
+Richard Bobbitt
+Needham, Massachusetts
+A primary function of music theory is the formulation of basic
+concepts which will enable the student to understand more readily the
+essential principles of composition.
+Of the many problems that beset
+the theorist, few are more pressing than the enigma of "consonance"
+and "dissonance" - two words which are evidently the least understood
+of any in the vocabulary of music.
+Willi Apel notes that "no wholly
+explanation and definition of consonance and dissonance
+satisfactory
+has yet been found" [1, articles "Consonance" "Dissonance"],
+and Sir
+James Jeans refers to the consonance phenomenon as "one of the unsolved problems of music" [15, 156].
+The writer does not propose that the line of thought pursued in
+this study be regarded as a panacea for the many controversies
+that
+have arisen from numerous attempts to account for the mystery of consonance and dissonance.
+It is hoped, nevertheless,
+that the observations presented here will be of value to the student who searches for
+more concrete channels of inquiry than are commonly offered.
+The acute need for clarification of the dissonance problem is seen
+more clearly as we become aware of the lack of understanding on the
+part of various writers who have dealt with the subject in more or less
+detail. This is illustrated by the following commentaries,
+among which
+no general agreement
+exists as to the exact meaning of the terms
+"consonant" and "dissonant!'
+According to Walter Piston [21, 6-7], consonant intervals are "the
+perfect intervals and the major and minor thirds and sixths"; dissonant
+intervals are "the augmented and diminished intervals and the major
+and minor seconds, sevenths and ninths"' As an exception, the perfect
+fourth is described as "dissonant when there is no tone below its lower
+tone,' and "consonant when there is a third or perfect fifth below it"
+Piston then emphasizes
+that "the essential quality of dissonance is its
+sense of movement and not, as sometimes
+assumed, its
+erroneously
+to the earl' Thus, in one breath, we are told
+degree of unpleasantness
+that:
+of certain intervals (the
+(1) dissonance is an inherent characteristic
+augmented and diminished intervals,
+major and minor seconds,
+sevenths and ninths);
+(2) dissonance depends upon the response to intervallic function within
+a given musical situation (the "sense of movement");
+173
+
+RICHARD BOBBITT
+should not be regarded as unpleasant (although many
+(3) dissonance
+listeners
+of Arnold Schonberg regard the atonal experiments
+in which the "dissonant" intervals of seconds, sevenths, and tritones play a large role - as being particularly disagreeable);
+(4)
+
+the dissonant quality of an interval may depend upon its position in
+a chord, and the same interval (e.g. perfect fourth) is therefore
+considered to be both consonant and dissonant!
+
+Ernst Toch, on the other hand, tells us that "no sound, considered
+by itself and detached from any other context, can under any circumstances be other than neutral and meaningless...
+To divide any kind of
+sound, be it tones, intervals or harmonies, into one category of consonances per se- white sheep - and another one of dissonances per se black sheep - is as absurd as it would be to divide the letters of the
+and dissonances"
+[29, 15]. Toch's view is
+alphabet into consonances
+generally supported by Helmholtz [13, 227-8], who says that "from the
+most perfect consonance tothe most decided dissonance there is a continuous series of degrees,
+of combinations
+of sound, which continually
+increase in roughness, so that there cannot be any sharpline drawn between consonance and dissonance,
+and the distinction would therefore
+seem to be merely arbitrary ... the decision does not depend, then, on
+the nature of the intervals themselves
+but on the construction of the
+whole tonal system''
+But Helmholtz also notes that "any relation of
+in small numbers is dissonant" [13,
+pitch which cannot be expressed
+331], thus completely reversing his earlier statement!
+Musical consonance and dissonance are defined by Norman Cazden
+to relations among harmonic aggre[7, 161] as "qualitative responses
+of a particular musical
+gates of tones within the frame of reference
+culture" and G. Revesz also refers to the consonance-dissonance
+phenomenon as the result of "esthetic evaluation" [24, 89]. But E. G. Bugg
+observes [5, 17] that it is "a mistake to attempt to make the history of
+the art of music the basis for a scientific
+explanation of consonance";
+and Apel tells us that "every interval contained in the major (or minor)
+triad and its inversions
+is a consonance, the other intervals are dissonances" [1, articles
+"Consonance"' "Dissonance"], in spite of Toch's
+insistence
+[29, 12] that "in the light of light there are countless
+shades of shade"
+who adhere to the concept that an isolated
+Among the theorists
+as consonant or dissonant,
+there
+interval per se may be categorized
+are many who classify the consonances as perfect or imperfect (or priJ. J. Fux, well-known 18th-century theorist
+mary and secondary).
+and composer,
+refers to the unison, fifth, and octave as perfect, the
+he then calls the second, fourth, disixth and third as imperfect;
+minished fifth, tritone, and seventh dissonances
+[11, 15]. A similar
+approach is used by W. J. Mitchell although, as is the case with many
+is no longer adhered to, and the "prithe Fux terminology
+theorists,
+now include the unison, octave, fifth, and major
+mary" consonances
+The sixths and minor third remain "secondary" while the fourth
+third.
+joins the secondary consonance category [L9, 32]. Goetschius, however,
+does not hesitate to classify the unison, octave, and perfect fifth as
+"secondary" consonances [12, 20]1
+174
+
+THE PHYSICAL BASIS OF INTERVALLIC QUALITY
+Again it should be evident that there is no general agreement as
+to the exact musical meaning of the words "consonant" and "dissonant!'
+The foregoing quotes, in spite of many discrepancies
+and contradictions, are useful in that they clearly expose the nature of the dilemma.
+to some (Bugg, Apel, Fux, etc.) is seen to
+Consonance-dissonance,
+mean the intrinsic, irrevocable characteristics
+of a particular interval
+in isolation; while to others the phenomenon is largely a qualitative reIt seems obvious,
+sponse dependent upon context (Toch, Cazden, etc.).
+therefore, that both consonance and dissonance are commonly conceived
+as dualistic phenomena - i. e. they are both defined according to the
+following classifications:
+(1)
+
+as predetermined,
+evaluations
+categorical
+sonorities (the non-functional approach);
+
+(2)
+
+as qualitative responses
+functional approach).
+
+to contextual
+
+of isolated
+
+intervallic
+
+intervallic
+
+relations
+
+(the
+
+Theorists who favor the non-functional classification
+of intervals
+as consonant or dissonant, regardless
+of context, usually make their
+judgements on the basis of number ratios, beating phenomena, or fusion. These characteristics,
+in turn, are assumed to account for various degrees of roughness-smoothness,
+or pleasantness-unpleasantness.
+Pythagoras proposed that sounds made by strings whose lengths are to
+each other as 1:2: 3:4, are more pleasant when heard together than
+sounds from strings whose relative lengths are expressed by larger
+numbers 2[3, 69]; and Jean Philippe Rameau observed [g2, 5] that "the
+order of the origin and perfection of consonant intervals is determined
+by the order of the numbers" (in the natural harmonic series) - i.e.
+the smaller the number ratios, the greater the consonance.
+Many
+acousticans
+of the 20th century still adhere to the same ancient
+in spite of the fact that the equally tempered fifth, which
+premises,
+cannot be distinguished by ear from the Pythagorean pure fifth, is approximately equivalent to the ratio 295:442 [J1, 7] - hardly a smallnumber relationship.
+F. R. Watson, for example, tells us [30, 107]
+that "two pure tones are harmonious and pleasing to the ear if the ratio
+of their frequencies is made up of small numbers'
+Helmholtz, in addition to his other theories of consonance, suggests that intervals are consonant if no "disturbing" beats are produced
+by the two tones or their harmonics [13, 186ff], and then arranges the
+various intervals in "order of smoothness"
+[.3, 193]. Otto Ortmann,
+however, states that "quality is a psychological reaction and has no independent physical component" [L2, 3].
+Intervallic classification
+according to the theory of "fusion" is
+conducted by Carl Stumpf [28], who
+chiefly the result of investigations
+measured the consonance of intervals according to their tendency (to
+the trained ear) to fuse together as a tonal unit (klang). Stumpf, in
+direct contrast to Ortmann, did not feel that the smoothness,
+or blendwas explainable
+on psychological
+ing quality, of certain intervals
+It was his opinion that "the cause of fusion is a physiological
+grounds.
+one ... the nature of the situation indicates that it is an aspect of feeland ining, a relationship inherent in the simultaneous tone-qualities,
+175
+
+RICHARD BOBBITT
+The relationships
+of feeling, like
+dependent of individual experience.
+are not based onunderlying psychological
+causes
+feelings themselves,
+but only on physical ones" [28, 2:211].
+Revesz, however, maintains
+that the blending quality of the octave,
+for example, is a result of
+"phenomenological similarity,' not of fusion [24, 61].
+The result
+of these many irreconcilable
+is, of
+viewpoints
+The issue, however, recomplete and thorough confusion.
+necessity,
+mains clear.
+Are we to regard consonance and dissonance as nonfunctional intervallic sonorities with varying degrees of "roughness" or
+'"moothness" or do we consider them to be qualitative responses to
+functional musical situations?
+To continue the dualistic description of
+consonant and dissonant intervals can hardly contribute to the growth
+of music theory as a practical science.
+Consonance and dissonance
+should not be used to describe both functional and non-functional situations.
+Surely, it borders on the ridiculous to tell a student that isolated
+intervals may be classified
+a priori as consonances and dissonances,
+and then to declare that a dissonance is really nothing but an interval
+which must "be followed by another harmony,
+without
+which the effect would be unsatisfactory
+and incomplete"
+Example 1. 25, 16]. According to the rule just stated, any interval
+might be "dissonant" in function if it seemed to require
+resolution and, if such be the case, why bother to categorically label every interval as consonant or dissonant?
+e
+Imagine the student's confusion when he is taught [25, 17;
+J
+20, 6] that the interval in Ex. 1 is consonant, but that the
+interval in Ex. 2 is dissonant I
+Example 2.
+The usual explanation,
+of course, is that the augmented fifth has a tendency to resolve upward, and that
+this "leaning" towards resolution conveys an impression
+of incompleteness
+(and consequently,
+dissonance) to the
+ear. Is it not equally logical, however, to assume that
+the minor sixth also could have a tendency to resolve
+downward (e. g. IV6 - I in c minor), and that such a tendtoward resolution would demand that it, too, be classified as disency
+sonant? The same reasoning applies to all intervals, since any interval
+may be spelled enharmonically.
+Semantic dualism of this nature can only produce connotative
+contradictions
+which add fuel to the controversy and offer little in the
+It is no longer possible, for example, to appreciate
+way of a solution.
+the meaning of music critics when they make statements similar to the
+following:
+Herr Von Einem opens with a movement marked Maestoso.
+It begins with a series of brass fanfares of dissonant nature
+contrasted with string passages of consonant nature.1
+
+1. From an article by Harold Rogers (Christian Science Monitor,
+Oct. 12, 1957) on the Symphonic Scenes for Orchestra,
+Opus 22, by
+Gottfried von Einem.
+176
+
+THE PHYSICAL
+BASIS OF INTERVALLIC
+QUALITY
+of many
+consisted
+fanfares
+mean that the brass
+Does the writer
+which
+and tritones
+"dissonant"
+of seconds,
+so-called
+intervals
+sevenths,
+or is he merely
+him because
+disturbed
+of their roughness,
+implying
+in contrast to the
+for brass
+were loud and strident
+that the passages
+lower decibel output of the strings ? Or, on the other hand, was he perin
+intervallic
+contextual
+relationships
+haps aware of certain
+disturbing
+distrior obviously
+the brass which - due to imbalance
+inappropriate
+as opposed to the
+a disturbing
+bution - caused
+response
+psychological
+of
+Because
+of the string passages?
+texture
+perhaps
+logical intervallic
+in terminology,
+we actually have no way of knowthe present
+confusion
+a qualitative
+to conwas describing
+the critic
+response
+ing whether
+functional
+intervallic
+or whether he was simply resituations,
+trasting
+chordto the apparent
+(or lack of it) of isolated
+ferring
+roughness
+and
+We can not know for sure since the words "consonant"
+structures.
+"dissonant"
+have no generally
+accepted
+meaning.
+and the
+is obviously
+The problem,
+one of semantics,
+therefore,
+as to which isolated
+intervals
+solution does not hinge upon the question
+as to
+shall be termed
+but upon the decision
+"consonant"
+or "dissonant"
+the exact meaning of the words themselves.
+We may regard consonance
+inand dissonance
+as words which describe
+individual
+non-functional,
+retervallic
+or as words
+which
+the listener's
+structures,
+express
+musical situations.
+Butthe non-functional
+sponse to functional
+approach
+can hardly
+meet with any more success
+in the future than it has in the
+last 2500 years,
+since any interval
+canbe made to sound "out-of-place"
+or "off-balance"
+an intervallic
+or rhythmic
+texture
+which
+creating
+by
+the interval
+or chord in an awkward manner.
+exposes
+deliberately
+the following
+illustrations,
+Among the many available
+by Ernst Toch
+effective:
+[29, 12] is particularly
+3.
+
+Example
+.n V ,
+
+[
+
+A
+
+.L
+
+,
+
+V
+L. Ir
+V l t I--.
+
+4
+
+I
+i
+
+.
+L
+
+I
+i
+
+I
+
+AL -
+
+-
+
+!
+i
+
+-
+
+. /lb-",- IA r.I-ir
+I
+.?
+
+_
+
+I
+
+?
+
+L
+
+I
+
+I
+
+L
+
+-
+
+q[
+
+V
+
+*
+
+I
+
+I
+I
+
+a .
+
+I
+.
+I
+
+I
+J
+
+l
+
+,
+
+I WI
+
+I
+
+--'
+
+-_ ---- -
+
+'
+
+-
+
+I
+
+I'
+
+I
+
+., .
+
+_
+__
+
+-
+
+r
+
+r
+
+I
+
+I
+
+I I r1
+
+-_\,I
+
+II
+_
+
+r
+
+r
+.
+
+I
+
+w
+
+-
+
+.
+
+I
+
+.
+I
+
+.
+I
+I
+
+--
+
+I
+
+?
+
+I
+
+,
+
+.
+...
+I
+
+.
+
+I
+
+.
+
+owners,
+with permission
+of the copyright
+Reprinted
+Criterion
+Music Corp.
+how the dissonant
+Observe
+major triad in m. 4 finds no repose
+This
+7th chord!
+into the following
+resolution
+in itself,
+but demands
+of sotriad is made up entirely
+in spite of the fact that the C-major
+and that physicists
+tell us "to learn
+called
+"consonant"
+intervals,
+the intervals
+that form the
+we examine
+a triad is consonant
+whether
+triad" [16, 53].
+Webster
+defines
+musical
+consonance
+as "a combination
+of tones
+of repose,
+not requiring
+resolution"
+and the adjective,
+giving a sense
+is shown to mean
+"consistent"
+or "compatiblel'
+These
+"consonant"'
+terms appear to be quite adequate
+for the description
+of qualitative
+reto functional
+musical
+situations
+and, in view of the obviously
+sponses
+irreconcilable
+contradictions
+of the non-functional
+it would
+approach,
+seem advisable
+to use the expressions
+"consonant"
+or "dissonant"
+only
+177
+
+RICHARD BOBBITT
+when referring to an individual's psychological
+response to contextual
+situations.
+Studies in music theory should no longer use the terms "consonance" or "dissonance" when describing the quality of isolated, nonfunctional intervals.
+Both words are extremely useful when confined
+to functional situations,
+but their non-functional use has contributed
+The above
+little or nothing to the clarification of theoretical problems.
+will be adhered to throughout the remainder of
+therefore,
+principles,
+this study, and consonance or dissonance,
+as such, will not be used in
+any other context than the following definitions suggest:
+Consonance
+
+-
+
+a functional combination of tones
+within the individual - a sense
+stability, and equilibrium.
+
+Dissonance
+
+-
+
+a functional combination of tones which stimulates within the individual - a sense of stress, relative instability, and imbalance.
+
+which stimulates relative
+of repose,
+
+To discontinue the use of "consonance" and "dissonance" for the
+creates an imhowever,
+sonorities,
+description of static intervallic
+are to be
+If isolated intervals
+mediate need for new terminology.
+measured no longer in terms of a fictitious "consonant" or "dissonant"
+evaluation, how then shall we describe them?
+of their musical
+It is quite obvious that all intervals,
+regardless
+application, do not sound alike, and some method of description must
+be devised which adapts itself equally well to functional and nonAs we have noted, the irreconcilable
+confusion
+functional situations.
+concerning the meaning of consonance and dissonance makes the conwhen applied to nontinued use of these words extremely impractical
+functional sonorities,
+but this does not mean that intervals no longer
+as individual entities.
+The real need
+classified
+may be categorically
+is for an indisputable scale of measurement which will aid inthe evaluation of the various intervals according to their sonorous properties.
+Such a scale would provide a basis for the determination
+of potential
+stability-instability,
+patterns that occur in the
+simplicity-complexity
+evolution of vertical, diagonal, and horizontal intervallic
+Beareas.
+fore exploring the problem of simplicity
+and/or complexity further,
+however, let us pause for a moment in our probing for a more concrete
+description of intervallic sonority to consider the nature of the medium
+intervals are perceived.
+through which tones and, consequently,
+The planet earth is surrounded by a gaseous envelope which
+exerts a pressure of about 14.7 lbs. per square inch (at sea-level)
+upon
+all exposed material objects, and it is this invisible,
+and
+odorless,
+tasteless
+mixture which transmits the pressure changes that produce
+the sensation of hearing in the human ear [4, 2].
+These pressure
+changes - the result of molecular compression variations - are brought
+about by the agitated motion of material objects with sufficient impetus
+to cause a displacement
+of air particles [7, 455]. An object at rest,
+2. Properly
+gaseous molecules
+
+speaking, no air particle is literally at "rest"' since
+are constantly in motion (Kinetic Theory). "State of
+178
+
+Alternate condensation (compression) and rarefaction
+of a single "stream" of air particles.
+(decompression)
+
+1.
+
+Diagram
+
+.
+
+*
+
+..
+
+.....,.
+
+F-Area ofRarefaction
+
+. :
+
+........
+
+Z
+
+Tremulous
+Disturbance
+
+............
+
+)Area4
+of
+Condensation
+
+Diagram 2.
+
+T remulous
+Disturbance
+
+Area
+Area
+of
+Rarefaction
+
+Diagram
+
+3.
+
+s
+
+c
+
+I~
+
+1FC
+
+179
+
+-Area
+of
+Condensation
+
+RICHARD BOBBITT
+of course, will not disturb the air mass around it, but if force is applied so as to cause the object to change its spatial position, the resulting movement will act against the surrounding air particles and effect a
+of these particles.
+Such action produces an opposite recompression
+action which continues until the original disturbance has dissipated, and
+this alternation of molecular condensation and rarefaction constitutes
+the phenomenon known as "vibration"
+Air vibrations occurring at a
+rate of about 16 to 40 times per second, or faster, stimulate the hearing response termed "sound!'
+To force a material body from a position of rest implies the
+tendency of this body to return to its original locus due to the pull of
+Also, the impulse of the disturbance gives the moving object
+gravity.
+momentum, so that it tends to pass beyond its starting position.
+Thus,
+the most important principles [4, 3] underlying vibration are:
+(a)
+
+the tendency of a body to return toward its rest position
+and
+displaced therefrom (elasticity),
+
+(b) its tendency to overshoot the rest position,
+the other direction (momentum).
+
+becoming
+
+if it be
+
+displaced
+
+in
+
+In other words, once an air particle is set in motion, elasticity
+and momentum tend to keep it in motion until inertia causes it to return
+to rest.
+The same reasoning may be assumed to apply when a large
+number of particles are displaced and, of course, any vibratory pulsation in the atmosphere instantaneously
+involves millions of air moleTo describe this phenomenon visually is well-nigh impossible,
+cules.
+but the following diagrams may prove helpful.
+Each dot in Diagram 1
+(p. 179) theoretically
+represents an air molecule, although a molecule
+of air is not only invisible, but also infinitesimal.
+This type of particle pulsation is termed "longitudinal displacement" [16, 14]. It is necessary,
+however, that we try to visualize the
+pulsation pattern as simultaneously
+extending in all directions from the
+source of atmospheric
+A "cross-section"
+disturbance.
+of this conaccordion-like
+tracting-expanding,
+activity might look something like
+Diagram 2 (p. 179).
+This type of particle pulsation is termed "transverse
+displacement" [17, 14], and has become the more popular method for representation of particle displacement because of its visual convenience.
+to imagine the process as a simulAgain, however, it is necessary
+taneous projection in all directions.
+The continuum of transverse
+motion shown in Diagram 2 is quite similar to the form of periodic
+motion known as "simple harmonic motion"' and the latter may be illustrated by a "simple harmonic curve" (Diagram 3, p. 179).
+A simple harmonic curve is elementary,
+regular, symmetrical,
+and is an instantaneous graphic representation
+of the condition of motion in a simple wave [15, 12] - i. e. the distances AB or CD illustrate
+and the
+amplitude or intensity (the amount of particle displacement),
+distances EF or EG illustrate consecutive periods in time (the freequilibrium" would be more appropriate,
+ployed in acquiesence to common usage.
+180
+
+but the former
+
+term is em-
+
+THE PHYSICAL BASIS OF INTERVALLIC QUALITY
+In other words, the simple curve in
+quency of particle displacement).
+in time"; and since a
+"molecular displacement
+Diagram 3 represents
+vibration is considered complete when it returns to its starting point,
+the distance EG is termed a "phasel' Thus, when we say a tone has a
+we mean that a given pressurefrequency of 440 cycles-per-second,
+wave goes through 440 complete phases of vibration in one second.
+The factors of "amplitude" and "periodicity;' as represented by a
+simple harmonic curve, are particularly
+important to this inquiry.
+But in the study of intervals we are also concerned with amplitudeperiodicity relations between two or more tones, and it is necessary,
+therefore, to comment briefly upon the source of interval ratios.
+Air columns of relatively constant density, or strings of relatively constant tension, will produce composite vibration waves which
+contain a fundamental, predominating tone, as well as other tones of
+less intensity known as "overtones ' These overtones,
+or
+partials,
+harmonics are the instantaneous result of an infinite series of vibraThe lesser
+tory pulsations which are present withthe fundamentaltone.
+are alvibrations, although not easily heard as individual pitch-units,
+ways present with the fundamental and stand in fixed mathematical ratios
+to the frequency of the fundamental.
+Assuming the tone C to be a given
+the well known overtone complex3 that
+fundamental, Ex. 4 illustrates
+sounds simultaneously with the fundamental tone.
+Example
+
+4.
+
+First
+
+16 partials
+
+?
+
+4)~
+3
+
+of the tone C.
+
+gL-
+
+8@1Oi
+
+1 3 S 14
+
+5 Ur
+
+4
+
+m :? i
+
+By referring to the harmonic series it is seen that ratios for all
+of the intervals are readily available.
+The interval of the octave, for
+example, is formed by tones related as 1:2, and the fifth is seen to be
+formed bythe ratio of 2:3. Ratios for the major third (4:5), minor third
+(5:6), and major second (8:9) - and for any interval - are similarly
+in evidence.
+since the ratio for the perfect fifth, for
+Furthermore,
+example, is 2:3, we know also that 200 cycles-per-second
+against 300
+cycles will sound like a perfect fifth; 300 against 400, like a perfect
+fourth, and so on.
+Having acquired a "speaking acquaintance" with the nature of
+sound and the source of interval ratios, let us return to the problem of
+adequate terminology to be employed in the description of static (i.e.
+It is important, however, to undersonorities.
+isolated) intervallic
+stand clearly that the various graphic representations
+of wave amplitudes and periodicities
+are no more than rough illustrations
+of some of
+3. Black notes indicate tones that can be identified only approxiPlus and
+mately in our present day system of equal temperament.
+minus signs indicate whether the tone is sharp or flat.
+181
+
+RICHARD BOBBITT
+the more easily perceived characteristics
+of vibrational phenomena.
+The configurational behavior of air particles in vibratory motion
+is extremely complex and, in addition, relatively little is known about
+the way in which the ear really hears.
+The best writers on sound and
+Jones, etc.) have continually warned
+hearing (Fletcher, Stevens-Davis,
+their readers against over-simplification
+in the analysis of acoustical
+situations.
+Pause for a moment to reflect upon the incredible number
+of vibrational phenomena that surround the ear during a symphonic
+Pressure waves are transmitted from many different kinds
+concert.
+of instruments
+across a large hall to the ears of listeners
+seated at
+various distances from the orchestra.
+These waves are subjected to
+reflection (by walls, floor, ceiling),
+absorption (by drapes, carpets,
+clothes of individual persons), interference (as the result of superposition of individual wave trains), and set up sympathetic vibrations within
+the floor, seats, walls and ceiling of the hall. In addition, the orchestra
+itself is actually composed of a mixture of tunings [3, 200]; in that the
+piano and harp are tuned in equal temperament, the strings tend toward
+in just intonaPythagorean intonation, and the brass plays essentially
+tion. The listener, however, adjusts himself almost immediately to the
+surrounding cacophony, and accepts the result as "a good performance"!
+Situations of this kind point up the marvelous ability of the ear to
+find a mean between extremes.
+Compare, for example, the aural response to vibrato, an effect produced by rapidly fluctuating between
+the adjacent pitches above and below a given fundamental tone. The
+vibrato actually produces a whole family of tones of different pitch and
+intensity [17, 215], and the apparent richness of vibrato is due to the
+presence of these tones on either side of the central pitch [4, 24]. Oddly
+vibrato does
+enough, due to the ear's power of mean discrimination,
+not obscure the pitch of the fundamental tone. If several tones of nearly
+the same frequency (e.g. 600, 604, 608, 612, 616 c.p.s.)
+and intensity
+are sounded together, the resulting tone will be judged by the ear as
+having a pitch which is the approximate mean of the highest and lowest
+extremes [4, 24]. This fact and other similar phenomena have led the
+writer to believe that the mean perception of pitch is the outstanding
+feature of the ear's ability to discriminate between manifold acoustical
+events.
+Other characteristics
+of tone such as intensity, duration, quality,
+volume, and brightness are important; but these factors are of little
+consequence if the listener is unable to perceive pitch. It seems safe
+to assume that we are not concerned as much with how loud a tone is
+sounded, or how long it is sustained by a single-or double-reed instrument, as we are with its location onthe musical staff. And, fortunately,
+the first significant musical information that the ear transmits is evidently that of pitch-identity; other factors seem to be a secondary response.
+Fletcher tells us [10, 61] that the subjective phenomenon which
+we identify as pitch is the result of the objective stimulus, frequency.
+In other words, when we identify pitch we are responding primarily to
+an event or combination of events in the time-domain,
+because freNow an isolated
+quency is the result of the periodicity of wave phases.
+interval is formed by superimposing
+one wave-train upon another, and
+the result of this superposition
+is what we identify as an octave, fifth,
+182
+
+THE PHYSICAL BASIS OF INTERVALLIC QUALITY
+or fourth, etc. Thus, we are again faced with the necessity of deciding
+which aspect of the interval phenomenon is the most easily perceived
+constant nature, might therefore
+by the ear and, due to its relatively
+be used as a criterion for non-functional,
+descriptive terminology.
+As noted earlier, the equal-tempered
+fifth cannot ordinarily be
+distinguished by ear from the Pythogarean fifth and, although the frequency ratio of the former is around 295:442, the aural response seems
+to be identical to the one stimulated by the ratio 2:3. It is evident,
+that the ear is able to accept the 295:442 ratio as a mean
+therefore,
+If such were not the case, the
+approximation of the true 2:3 ratio.
+of music would be impossible,
+since no instrupractical performance
+ment without a set tuning (e.g. keyboard instruments)
+can be relied
+upon to produce intervals which are perfectly adjusted according to the
+ratios of natural (just) intonation.
+Realistic theorists have known for
+years that tuning is actually a system of compromise within a particular frame of reference [3, 197-9].
+The above should not be construed as an acceptance of the "smallnumber theory" of consonance.
+To demonstrate that the ear can perceive a mean approximation in small numbers between slightly mistuned intervals does not give us license to proclaim the consonance or
+dissonance of such intervals.
+To discover that two tones are related
+as 3:4 or 221:295, or any other ratio, does not warrant their being
+labeled as inherently consonant, since any interval can be forced into
+a situation of imbalance and thus become dissonant.
+The real importance of the foregoing, to this inquiry, is that the
+ear's power of mean discrimination
+in the time-domain
+is as acute
+when perceiving intervallic
+as when identifying individual
+relations
+It is the writer's opinion, therefore, that when we identify intones.
+terval we are responding primarily to an event or combination of events
+in the time-domain,
+because interval is essentially the result of superof wave phases.
+imposed periodicities
+Let us now examine the phenomenon of wave superposition more
+Assume that a wave of 300 c. p. s. (wave "A") is to be superclosely.
+imposed against a wave of 200 c. p.s. (wave "B"). The ratio between
+the two frequencies will be 300:200 or, more simply, 3:2, and the auditory response will be that of a perfect fifth. At the same time, a new
+wave (resultant "R") is produced as the result of interference
+between
+the two superimposed
+This is illustrated in Diagram 4
+periodicities.
+(p. 184) by using the simpler of the above ratios, i.e. 3:2 rather than
+300:200.
+Wave A goes through three complete cycles every second, and
+wave B goes through two complete cycles every second.
+A total time
+duration of two seconds is shown in this example so that the repetitive
+shape of the resultant wave can be clearly seen. It is obvious that the
+of the resultant wave are no different during the second
+configurations
+(between one and two seconds) than the first, nor will its
+time-period
+essential periodic shape change during subsequent time-periods.
+Further, it is seen that, during the two seconds of time, the resultant wave intersects first wave B, then wave A in an unchanging, alThese points of intersection
+are indicated by
+ternating
+pattern.
+arrows, and the numbers between the arrows show the fractional parts
+183
+
+..
+
+_..
+
+I/
+
+.
+
+i
+
+~~
+
+-q4
+
+.. F[--i--rt--I
+
+H-il~--
+
+l
+
+J(\r\
+
+i'
+
+--2
+
+< K
+
+>>-'>
+
+Nj~,il
+
+-
+
+--.
+-t---i
+1"-
+
+..i
+_t-
+
+ro ~
+!
+
+.....r
+--?-~
+
+__::_ :......,.
+F-.0. ...
+1
+
+N
+
+~ ~
+
+*\OJ
+
+(
+
+'
+?;
+
+*
+I-
+
+N.
+1
+
+2-^
+
+qj
+
+: ,
+
+---
+
+I
+
+'^ '^"
+
+4
+
+-.
+
+*
+
+y
+N ..>
+
+A
+
+S)
+
+-v-
+
+A
+
++
+
+Cd
+
+trD
+
+ct
+Cd
+^1
+bJO4
+
++
+
+0
+
+I
+
+(d
+.,-I
+?l
+
+184
+
+~~c~a.L ~I
+
+--
+
+THE PHYSICAL
+BASIS OF INTERVALLIC
+QUALITY
+which elapse
+of a second
+In other words,
+between intersection
+points.
+between the first and second
+there are 4 graphpoints of intersection
+and between the second and third points of intersection
+there are
+units,
+2 graph-units
+- i.e.
+of the total number
+1/6 and 1/12 respectively
+of
+one second in time.
+There are also 2 graphgraph-units
+representing
+units between
+the third and fourth points
+and 4 units
+of intersection
+between the fourth and fifth points - i. e. 1/12 and 1/6 respectively
+of
+the total number of graph-units
+one second.
+representing
+of 1/6, 1/12,
+1/6 is equivaThus, the fractional
+1/12,
+sequence
+lent to 4, 2, 2, 4 graph units in continual
+to
+or, more simply,
+repetition
+the proportion
+The general
+2:1:1:2.
+conclusion
+to be drawn from these
+is that the resultant
+observations
+wave of 3:2 alternately
+"intersects"
+the original
+waves
+at temporal
+generating
+points which are proportionThe importance
+of these points
+ately related to one another as 2:1:1:2.
+of "intersection"
+is more clearly
+seen upon further
+examination
+of the
+superposition
+phenomenon.
+4 provides
+a visual
+of what happens
+Diagram
+approximation
+and periodicity
+when two waves of differroughly in terms of amplitude
+ent frequency
+are superimposed.
+The most obvious
+feature
+of this
+is that waves
+A and B are relatively
+coincident
+superposition
+process
+in phase at some points and almost
+in phase at other points.
+opposite
+or "subtracting"
+one from the
+They are either "adding" to one another
+other - i. e. there is a succession
+of reinforcements
+and cancellations
+of amplitudes.
+to the additive-subtractive
+of
+But, in contrast
+aspects
+there are certain points in time where no reinforcement
+superposition,
+or cancellation
+takes place.
+Such moments
+occur when either
+of the
+two original
+waves equals "zero" - i. e. when A or B crosses
+the zero- and, therefore,
+abscissa
+can neither
+be adding to nor subtracting
+from the other wave.
+A resultant
+wave provides
+visual evidence
+of these moments.
+The
+second arrow in Diagram
+indicates
+that point
+4, by way of illustration,
+at which wave R first intersects
+wave B. Note that wave A, at that same
+is just crossing
+the zero-abscissa
+is neither
+moment,
+and, therefore,
+nor cancelling.
+The third arrow
+"plus" nor "minus' neither
+reinforcing
+indicates
+the point at which wave R first intersects
+A. Note that wave
+is also just crossing
+the zero-abscissa
+B, at that same moment,
+and,
+is neither
+from wave A. The retherefore,
+adding to nor subtracting
+indicate
+similar
+These moments,
+time-moments.
+ocmaining arrows
+in regular
+at points periodically
+related
+as 2:1:1:2,
+curring
+sequence
+fluctuations
+in pressure
+which are directly related to changes
+represent
+in molecular
+mass - i.e. any pressure
+fluctuation
+a displaceinvolves
+ment of air particles
+in turn, produces
+conIensation
+or rarewhich,
+faction in certain areas.
+The pressure
+fluctuations
+extend throughout
+the perceivable
+volumic
+area (space occupied)
+of the interval,
+and constitute patterns
+of variable
+the volumic
+area.
+density throughout
+- e. g.
+as a physical
+is mass per unit-area
+Density,
+phenomenon,
+a cc. of wood is considered
+more dense than a cc. of air because
+the
+mass of the former
+is greater
+than the mass of the latter.
+per unit-area
+Pressure
+are directly
+related
+to variations
+in density,
+since
+changes
+fluctuations
+of pressure
+are changes
+in particle
+mass per unit-area.
+The writer
+that the predominant
+submits,
+betherefore,
+relationship
+tween frequencies
+of different
+is found in the time-domain;
+periodicity
+185
+
+?
+
+Diagram 6.
+
+-
+
+.
+I3
+
+I I
+
+- 3-2
+
+I
+
+I
+
+R
+
+R
+
+'
+
+6
+
+Iilm
+mnme
+
+|
+
+-I
+
+- 4:3
+
+B
+
+I
+
+'
+
+1 i
+
+I ;1
+
+I
+
+II
+
+qtqrtina
+
+-
+
+B
+"1
+
+R
+
+I
+
+3R2 (diffPrpnt
+
+2
+
+Z
+
+4:3 (different star
+
+-_
+, __
+3 -i
+
+-R
+
+11
+13
+
+_.
+R
+33
+
+3
+
+THE PHYSICAL
+BASIS OF INTERVALLIC
+QUALITY
+and that this relationship
+is perceived
+as minute,
+of
+rapid fluctuations
+in terms
+measurable
+from waves
+of time-moments
+pressure,
+resulting
+in superposition.
+This phenomenon,
+in its broadest
+will be resense,
+- i. e. the amount of particle
+in
+garded as intervallic
+activity
+density4
+a perceivable
+unit-area.
+The process
+described
+in Diagram
+4 may be illustrated
+equally
+the essential
+features
+of the inwell, and more simply,
+by utilizing
+only
+terference
+Observe that the regular
+of time-moments
+pattern.
+sequence
+related
+as 2:1:1:2 occurs
+four times in two seconds.
+It is
+periodically
+that all subsequent
+of pressure
+evident,
+therefore,
+patterns
+change are
+but repetitions
+of the events
+in the first half-second
+of
+taking place
+The same procedure
+for example,
+time.
+is duplicated
+in Diagram
+5
+a distance
+of 48 graph units
+(p. 184) by subdividing
+along the zeroabscissa
+into three equal wave sections
+(dotted line), and superimposing
+this tripartite
+division
+a bifold subdivision
+of the same 48 units
+against
+- in other words,
+3:2.
+The resultant
+wave intersects
+the generating
+waves
+at the points
+indicated
+and the order of graph-units
+between the points of
+by arrows,
+intersection
+is seen to follow the sequence
+16, 8, 8, 16 or, as before,
+visual
+2, 1, 1, 2. The most convenient
+is found in
+method,
+however,
+the use of so-called
+of which any resultant
+"square" waves,
+by means
+of interference
+6 (p. 186) shows the
+may be calculated
+easily.
+Diagram
+result of superimposing
+three graph-units
+(wave A) against two (wave B)
+three
+The resultant
+and, also, four units (wave A) against
+(wave B).
+is identical
+to the proportions
+from super(R), in both cases,
+resulting
+sine waves
+of 300 cycles
+200 cycles,
+and 400 cycles
+imposed
+against
+300 cycles
+against
+respectively.
+It is interesting
+to note that the starting
+moment
+of the two wave
+trains
+does not affect the overall
+of periodic
+Even
+events.
+sequence
+later than another,
+it will soon fall into phase.
+Inthough one starts
+terested
+readers
+with sine waves
+in the same manner
+may experiment
+by having either wave start 1, 2, 3, or any number of cycles before or
+after the other.
+It will be found that the two waves synchronize
+quickly
+of the starting
+moments.
+the foreregardless
+By using square waves,
+in amplitude
+going principles
+may be applied also to specific
+changes
+level.
+the points in time where
+4, 5, and 6 represent
+Diagrams
+visually
+no reinforcement
+or cancellation
+of amplitude
+takes place with superwaves
+whose frequency
+ratios
+are related as 3:2 or 4:3.
+The
+imposed
+in amplitude
+level between
+these time-moments
+can be illuschanges
+trated
+a positive-number
+value to each vertical
+roughly
+by assigning
+Horizontal
+are used, as before,
+to indicate
+graph-unit.
+graph-units
+temporal-durational
+periodicities.
+for example,
+that each vertical
+or "block;'
+Suppose,
+graph-unit,
+has the value of "l1' Diagram
+7 (p. 188) shows the resultant
+amplitude
+between
+two square
+waves whose periodicities
+are related as
+changes
+Note that the resultant
+3:2.
+remains
+at +2 for two timeconfiguration
+units before
+to zero for one time-unit.
+After dropping to -2
+dropping
+for one more time-unit,
+the amplitude
+returns to zero for two
+pattern
+4. Not to be confused with Joseph Schillinger's
+use of the word,
+which he employs
+to describe
+an indefinite
+sense of "fulness" [26, 700].
+in this study, pertains
+to a mensurable,
+Density,
+objective
+phenomenon.
+187
+
+7.
+
+Diagram
+
+I
+
+-
+
+-
+
+X
+
+N
+
+W-O-DU-RATION-
+
+1
+
+I
+a
+
+4--WAV3
+
+WAVE
+
+|--
+
+A
+
+B
+
+04
+
+1I0~
+
+l
+S
+
+t
+
+f
+
+RESULTAT
+
+t
+
+f1114'j~~~~~~~~~~~~~~~~~~~~~~~~
+
+ThavY?
+Diagram 8.
+I
+
+I
+,9.
+
+- 3:i
+
+./
+
+I
+
+I I
+
+ZI I
+
+fR I
+
+?, I I 1I
+
+B. -I,
+
+R ,- .
+
+(R)-
+
+I I?.
+I
+
+I
+
+:1
+I 3 1,
+
+188
+
+I3' 3
+1
+
+Diagram
+
+9.
+.
+*
+
+*
+
+I I I'
+
+3:2 (different
+
+starting
+
+j 1
+
+1
+
+moments)
+
+Fi
+
+R o4
+
+I I1
+
+?,
+
+H
+t 2 1 t
+
+0t
+
+4:3 (different
+
+starting
+
+t
+
+I
+
+2
+
+2
+
+1I 1 2
+
+moments)
+
+B
+
+R
+
+2
+
+Diagram
+
+i? I3
+
+t I
+
+I za
+
+3
+
+3 I1
+
+3
+
+10.
+
+-4 Fi
+
+fi
+
+I
+R
+
+1
+
+3
+
+3
+
+1
+
+a
+
+3
+
+- 5:4'-
+
+_B
+R
+
+1
+
+3
+
+2a
+189
+
+3
+
+_
+1
+
+Z
+
+I
+
+3
+
+RICHARD BOBBITT
+From this point on the resultant repeats itself continuously
+time-units.
+(each repetition is bracketed by dotted lines).
+The same results may be obtained more simply as in Diagram 8
+(p. 188), where the durational changes in amplitude level are shown for
+3:2 and 4:3. Starting moments of the two wave trains will not affect the
+over-all amplitude change patterns.
+As illustrated in Diagram 9, the
+waves begin to synchronize almost immediately.
+The foregoing examples
+that the additivereveal, therefore,
+subtractive aspects of wave superposition
+yield a pattern of pressure
+fluctuation that is directly related to the numerical periodicities
+of the
+superimposed waves. A wave of 300 c.p.s. against a wave of 200 c.p.s.
+(i.e. 3:2) will produce changes in amplitude level.
+The approximate
+time-moments
+between these amplitude changes are periodically
+related as 2:1:1:2, and may be described as durational changes in amplitude level.
+A wave of 400 c.p.s. against a wave of 300 c.p.s. (i. e. 4:3)
+will produce changes in amplitude level,
+the time-moments
+between
+which are periodically
+related as 3:1:2:2:1:3 (Diagrams 6, 8).
+Such
+durational changes in amplitude (intensity) level are directly proportional to the amount of particle activity in a perceivable
+intervallic
+area, and are regarded as variations in density.
+An interval resulting from 300 c.p.s.
+against 200 c. p.s. is consequently less "dense" than one resulting from 400 c. p. s. against 300
+c. p. s., because the former excites less activity than the latter. Pressure fluctuations periodically related as 2:1:1:2 are less turbulent than
+fluctuations periodically related as 3:1:2:2:1:3 - i.e. the totalair mass
+(volumic area) is less "disturbed" in the case of the former.
+the square-wave
+By using the foregoing procedures
+(especially
+method, for simplicity), the relative amount of particle activity resulting from superposition - i. e. density - can be determined for any
+interval.
+Relative density for the major sixth (5:3) and major third
+(5:4) is computed in Diagram 10 (p. 189). The method is identical with
+that shown in Diagram 6.
+We are now ready to evolve a complete scale of absolute sonority
+in terms of density ratings.
+The density of each of the intervals given
+in Table I (p. 191) was determined according to the method described
+above. Interval ratios are taken from the natural harmonic series.
+"tritone" which
+Special mention should be made of the so-called
+derives its name from the fact that it contains three "whole-tones' This
+interval, proscribed in early polyphonic music as diabolus in musica
+(the devil in music), remains even today a ferment among the family of
+intervals due to its peculiar characteristics,
+the following being the
+most outstanding:
+(1) the intervallic ratio for the tritone does not occur in the first sixteen partials of the harmonic series as do the other interval ratios.
+The proportions 5:7 or 7:10, contrary to popular opinion [14, 81-2],
+do not evoke the interval response we know as the "tritone effect''
+These proportions,
+when sounded in pure tone by oscillators,
+produce an effect which is unlike any interval among the first sixteen
+harmonics, but observers who have actually heard such an experiment5 in the laboratory are aware that the aural response is not
+5.
+
+Six trained
+
+musicians
+
+were tested
+190
+
+(February,
+
+1956) by the
+
+TABLE
+
+I
+
+DENSITY SCALE
+Periodic
+
+Interval
+
+CD
+h^
+
+(1:1) Unison
+(1:2) Octave
+(2:3) P 5th
+(3:4) P 4th
+(3:5) M6th
+(4:5) M 3rd
+(5:6) m 3rd
+(5:8) m 6th
+(5:9) m 7th
+(9:10) M 2nd
+(8:15) M 7th
+(15:16) m 2nd
+(70:99) Tritone
+
+1
+1 1
+2 1 1 2
+3 1 2 2 1 3
+3 2 1 3 1 2 3
+4 1 3 2 2 3 1
+5 1 4 2 3 3 2
+5 3 2 5 1 4 4
+5 4 2 5 3 2 5
+9 1 8 2 7 3 6
+8 7 1 8 6 2 8
+15 1 14 12 13 3
+70 29 41 58 12
+
+4
+4 1 5
+1 5 2
+2 3 5
+4 5 5
+5 3 8
+12 4
+87 17
+
+Complexity
+
+3 5
+1 4
+4 6
+4 4
+11 5
+116
+
+Patterns
+
+from W
+
+5
+3 7 2 8 1 9
+8 3 5 8 2 6 8 1 7 8
+10 6 9 7 8 8 7 9 6
+46 145 75 174 104 203
+
+TABLE
+
+II
+
+INTERVALS GROUPED ACCORDING TO DEN
+Low Density
+(Group 1)
+Unison
+Octave
+P 5th
+P 4th
+
+Medium Density
+(Group 2)
+M
+M
+m
+m
+
+6th
+3rd
+3rd
+6th
+
+High Density
+(Group 3)
+m
+M
+M
+m
+
+7th
+2nd
+7th
+2nd
+
+RICHARD BOBBITT
+A true tritone of three whole-steps is achieved
+that of the tritone.
+by dividing the octave in two equal parts - i. e. 600 cents or the
+ratio 70:99 [31, 7].
+(2)
+
+(3)
+
+it is the only interval without an inversion.
+When the frequency of
+its lower tone is doubled, the interval response remains exactly
+the same - e.g. 70:99-1.414;
+The density scale
+99:140-1.414.
+illustrates
+the extreme
+of the tritone; its symmetry
+complexity
+accounts for its ambiguity.
+it is the only high-density
+free of beating.
+interval essentially
+Seconds and sevenths, in certain registers
+and at certain decibel
+levels, beat violently; but, as noted later, beating has nothing to
+do with the density phenomenon.
+
+For the sake of convenience,
+the intervals may now be divided
+into four general classifications.
+These groupings are made on the
+basis of similarities
+between density patterns of the various intervals6
+The intervallic groupings in Table II may be notated musically as
+in Ex. 5. Similar (but incomplete)
+of interval values
+arrangements
+occur sporadically throughout acoustical literature (Helmholtz, Watson,
+of inetc.); but the reader is reminded that previous classifications
+tervallic sonorities
+have been made mostly on a basis of "roughness"
+or "fusion" and, in contrast to the present method, have not actually
+produced visual evidence to show the reason for disposition of the intervals in a certain order.
+To say that an interval is "rough" does not
+show objectively how or wy it is rough.
+
+Example
+
+5.
+
+Low Density
+(Group 1)
+
+T__
+
+t
+
+Medium Density
+(Group 2)
+
+_ at
+
+_
+
+*.
+
+High Density
+(Group 3)
+
+f i
+
+Special Case
+(Group 4)
+
+a vu
+
+The theory that a graduation of interval values is dependent upon
+combination tones [14, 57-81] is even more questionable.
+Outstanding
+of this approach is the fact that combinaamong the many weaknesses
+tion tones vary with loudness levels [8, 292-6], as well as Steven's observation [27, 184] that difference and summation tones are produced
+only in the ear [see also 1, article "Combination Tones"].
+writer in the Acoustics Laboratory of the Massachusetts
+Institute of
+Technology.
+6. See pp. 198-200 of this article concerning the relation of
+intervals to their inversion.
+192
+
+THE PHYSICAL BASIS OF INTERVALLIC QUALITY
+Beating - the interference phenomenon heard as minute intensifications of sound at regular periods - is an important factor in intervallic perception, being a characteristic
+feature of the high-density intervals in Group 3. It has also been noted, however, that beating is
+not an objective phenomenon but a subjective one7; "it is only because
+the two tones force into vibration two overlapping regions of the basilar
+membrane that an alternate waxing and waning of sound is heard" [27,
+the number of beats generated by an interval is
+241]. Furthermore,
+not constant in different registers.
+There are only about 4 beats, for
+example, between c" and db", but between c"" and db"" there are about
+16 [31, 12, 16].
+Beating, whether of fundamental tones or harmonic
+partials, should not be confused with density.
+between the density concept and "smallAlso, the distinction
+number" theories of the past must be clearly understood.
+The latter
+held that tones whose frequencies
+were related as "small numbers"
+formed consonant intervals.
+This use of the word "consonant' as we
+have noted already, had no real significance
+in functional music, and
+to say that the ratio 1:2 produced a "smooth" interval did not show why
+or how such an interval might be rougher or smoother than another.
+The concept of density not only provides visual description of
+relative complexitybut offers also a tangible
+regardless of registerscale of intervallic relationships which can be used to establish a mean
+rate of information exchange.
+The fact that all intervals besides the
+octave may be slightly mistuned and yet retain their essential identity
+does not detract from the potential usefulness of the density scale. Althoughthe computation of intervallic complexity was necessarily worked
+out in terms of ideal interval ratios, slightly mistuned intervals will
+still retain the same relative degrees of complexity.
+The reader is
+reminded again of the ear's ability to discriminate
+the mean relationin tuning and pitch ratios.
+ship between discrepancies
+Caution should be exercised
+in applying the density concept to
+intervals exceeding the octave. The true nature of the octave phenomenon in music does not yet seem to be understood clearly.
+Revesz has
+advanced the idea that the qualitative equivalence of tones an octave
+apart is due to their "phenomenological
+similarity"
+[.4, 61] -i.e.
+there is "something" about tones separated by one or more octaves that
+makes them appear similar in quality, but not identical (contrary to
+At any rate, the question has not been settled as to
+popular belief).
+whether an eleventh, for example, is perceived as an intervallic unit
+(Gestalt) or as a perfect fourth by instantaneous octave adjustment.
+It
+is the writer's opinion that the latter states the case accurately since
+any interval, say a major seventh, can be made to sound like an octave
+duplication (on first impression)
+simply by sounding the two tones sufficiently far apart. An interesting experiment is related by Schillinger
+[26, 699] wherein trained musicians were unable to distinguish between
+short fragments of Grieg's Peer Gynt Suite played at the unison, and
+then at the seventh with a three-octave
+In all probability
+separation.
+7. "Objective" and "subjective" are used advisedly here to differentiate between stimuli outside the skin as opposed to internal reThe density scale is a description
+of objective, physical phesponse.
+nomena in the time-domain.
+193
+
+RICHARD BOBBITT
+the ear judges intervals exceedin&the octave in terms of its familiarity
+with intervals within the octave, and musical situations evaluated in
+terms of the latter will have essentially
+the same perceptual, if somewhat "distilled:' effect.
+Therefore,
+density patterns within the octave
+are assumed to be adequate for the majority of musical problems.
+The evaluation of intervals according to their stability-instability
+potential may now be achieved by means of density ratings, which provide a basis for the determination
+of simplicity-complexity
+patterns
+evolved from the juxtaposition of intervallic areas.
+The classification
+of static sonorities according to their relative complexity (density) provides a general approach to the understanding of consonant-dissonant
+as found in Western music from c. 850 to the present.
+relationships
+The density scale does not assort the intervals according to their consonance or dissonance, but offers criteria for the analysis and synthesis
+of functional intervallic
+relations according to context.
+Let us remember that consonance and dissonance in this study are regarded as
+functional combinations of tones which respectively stimulate responses
+of stability or instability.
+An individual's reaction to observable phenomena, acoustical or
+otherwise,
+may be examined more readily with the help of a scale of
+measurement
+known as the Mean Rate of Information Exchange (RIE),
+which provides a general method for describing the relation between
+under-stimulation
+and over-stimulation.
+In music, for example, communication between the composer and listener might never be established if the latter received either too little or too much information
+from a particular composition.
+A highly complex piece of music might
+leave eventhe well-trainedlistener
+in a state of confusion and aesthetic
+and an absurdly simple composition might elicit from the
+frustration,
+same person either no response or, at best, expressions
+of boredom.
+Yet somewhere
+between these two extremes
+there lies an area of
+evaluation"
+or "appreciation"
+wherein the trained
+"knowledgeable
+listener experiences a normal rate of information exchange, and where
+he is able to perceive the composer's general intentions.
+This area of
+"normal" response is not unlike the point of balance which Heraclitus
+felt existed between the action of opposites.
+a mean "sense of proportion" will be found someAcoustically,
+where between the under-stimulation
+of a single pure tone andthe overstimulation of tonal cacophony (e.g. successive,
+simultaneous blows of
+both forearms on the piano keyboard) which may be meaningless to the
+point of being described as "noise'' Graphically, the mean RIE can be
+illustrated as follows:
+
+194
+
+THE PHYSICAL BASIS OF INTERVALLIC
+
+QUALITY
+
+RATE OF INFORMATION EXCHANGE SCALE
+ZERO <
+Simplicity,
+under-stimulation
+
+,
+'
+
+Hypothetical
+area of
+normal response
+
+INFINITY
+Extreme complexity,
+confusion, overstimulation
+
+I
+
+A single
+pure tone
+
+I
+
+I
+
+Comprehensible
+rhythmic, melodic
+and tonal organization.
+
+Tonal
+cacophony
+
+It is in the above-indicated
+"normal" area that, as Cazden puts it
+[, ix], "the content of the music must be communicated somehow in its
+tangible sounding performance"; also it is with the aid of this terminology that music from various periods may be described objectively,
+without resorting to conflicting definitions.
+One might speak, for example, of a compositional style as being disturbing due to its extremely
+complex RIE or, perhaps, as being pleasing due to its balanced and
+relatively normal RIE. An objective method of controlling or evaluset is available through
+ating the potential RIE of a given intervallic
+the use of the density scale.
+A too-rapid rate of information exchange
+might very correctly be described as dissonant, since the reference
+would be to a disturbing functional situation.
+Again, however, no interval in isolation should be called consonant or dissonant but, rather,
+should be referred to as having "low density"' "medium density" or
+"high density" and therefore as being potentially stable or unstable.
+A contrapuntal situation involving low-density
+intervals
+from
+Group 1 is shown in Ex. 6 (p. 196). The RIE (rate of information exdue to the comchange) in this example borders on under-stimulation
+intervals which would tend
+plete absence of medium- or high-density
+to add elements of stress.
+Compare Ex. 6 with Ex. 7 which uses highalmost exclusively.
+The RIE in Ex. 7 borders on
+density intervals
+over-stimulation
+due to the almost complete absence of medium- and
+intervals which would tend to add elements of repose.
+A
+low-density
+mean balance between the above extremes canbe obtained by using freor by combining low, medium, and
+intervals
+quent medium-density
+high as in Ex. 8. The RIE of Exx. 8a) and 8b) should be within the
+area of normal response due to the balanced use of low- and mediumdensity intervals, in combination with a smaller number of high-density
+intervals.
+Scoring, dynamics, and various coloristic devices can be used to
+obscure the simplicity-complexity
+relations of intervallic
+areas, but
+the density scale furnishes a generally concrete approach to the analysis
+of consonant-dissonant
+situations.
+Note how the consonant (balanced)
+effect of Ex. 9 (p. 197) is abruptly disturbed by the sudden and unwarranted insertion of a high-density
+interval in m. 5, thus producing a
+dissonant (unbalanced) response at that point. Yet, the same chordstructure fails to evoke a dissonant response if it occurs in a different
+195
+
+Example
+0
+x
+
+6.
+
+_
+
+P_
+
+A6J -- -"
+."
+
+Cunctipotens
+
+-.
+
+-_
+
+I-
+
+-=*-
+
+-W -
+
+..- -_
+--
+
+-
+
+I-
+
+7.
+
+Minor 2nds,
+
+a
+
+-----
+
+-
+
+-
+
+I
+
+-
+
+---r
+JI
+
+Example
+
+free organum).
+
+genitor (11th-century
+
+- --
+
+-
+
+I
+
+41
+II
+
+11
+
+'A.i
+
+MP----w
+
+Major 7ths (Bela Bartok).
+
+Molto Adagio
+a"
+
+.AM
+
+p F CE
+
+L
+
+=.
+
+.
+
+.
+
+t1_1k;F
+
+P
+
+~~~~~~~~~~~~~~~~~
+
+I
+
+U
+
+from the Mikrokosmos with permission
+Reprinted
+from the Mikrokosmos with permission
+Reprinted
+owners, Boosey & Hawkes, Ltd.
+
+of the copyright
+of the copyright
+
+Example 8.
+a)
+,
+
+P
+
+J
+
+j
+
+i--J
+
+o
+
+Jb.
+
+J
+
+.
+
+r f bFiry^rrC--r
+
+^i - rfr
+
+b)
+
+1T
+
+I /L
+
+.
+
+,
+
+L
+
+.
+
+'I
+
+J -F
+4r-LL
+
+rL ,
+
+-
+
+196
+
+>
+
+i
+
+T br
+1
+
+NTLL
+0"-
+
+T
+U
+II
+
+_
+
+I&
+
+Sih!
+-
+
+I
+
+--
+
+.
+
+.l
+
+v-*-iU
+
+l
+
+1
+
+E
+
+I Il/l
+
+r
+
+1^
+
+-
+
+-
+
+I
+
+I
+
+l
+
+l
+
+(p
+
+I
+
+'n
+
+I
+
+E
+
+ri- 7
+
+rF
+
+-
+
+C
+
+~I~
+
+--
+
+l
+
+"r r 1~1 I
+~~
+
+7b
+
+9.
+
+Example
+Slowly
+
+10.
+
+Example
+
+Moderately
+
+r~f~~J
+
+I
+
+.
+
+|_
+
+.l
+
+f 4l
+
+.
+
+Aj
+
+J
+
+.
+
+I-
+
+A
+
+.1
+
+i
+-
+
+-
+
+197
+
+RICHARD BOBBITT
+setting (Ex. 10).
+No interval, therefore,
+can be termed consonant or dissonant
+without consideration of context; but this does not pliminate the classification of isolated intervals,
+since now we can evaluate them in terms
+of their relative density and actually visualize their probable tendency
+toward under-stimulation
+or over-stimulation.
+The similar quality of inverted intervals is also explained by the
+The perfect fifth (2:3), when inverted, becomes a perdensity scale.
+fect fourth (3:4), but what is there about the density rating of these intervals that explains their similarity in quality?
+An interval is said to be inverted when the frequency of its lower
+tone is doubled, or when the frequency of its upper tone is halved. Inversion is also the process of reversing the relationship between two
+tones so that the common product (C.P.) of their frequencies is doubled
+The common product of the ratios forming a major
+(or vice versa).
+third (4:5), for example, equals 20. The product of the ratios forming
+its inversion, the minor sixth (5:8), equals 40. Also, the various density
+patterns which result from the wave superposition might be expected to
+when an interval is compared with its
+display multiple relationships
+inversion, i. e. the density rating of an interval should be doubled (or
+This is exactly the case, since
+halved) when the interval is inverted.
+the density pattern of a perfect fifth (2112, totaling 6 fluctuations),
+doubles itself when inverted to a perfect fourth (312213, totaling 12
+that position of an interval whose ratio
+fluctuations).
+Furthermore,
+yields the largest common product manifests a density pattern which is
+This relationdirectly related to the density pattern of its inversion.
+ship is expressed by means of duplicate numbers and also integers resulting from the summation of terms in that inversion withthe smallest
+C. P.
+Assume, for example, that the two intervals in question were the
+perfect fifth and its inversion, the perfect fourth. By referring to the
+density scale in Table I (p. 191), it is seen that the periodic complexity
+pattern of the fifth is 2112; of the fourth, 312213. The frequency ratio
+of the latter is 3:4 (C. P. = 12); that of the former, 2:3 (C. P. - 6). The
+fourth, therefore, having the largest common product, contains integers in its density pattern (Ex. 11, p. 199) which result from a summation of terms (in brackets) in the density pattern of the fifth. The same
+holds true for all other intervals and their inversions.
+Ex. 12 illustrates the numerical relationship between the major third and minor
+sixth. Note that numbers in the periodic pattern of the minor sixth are
+either duplicates or the result of summed terms fromthe major third's
+density pattern.
+The significance of this seemingly abstract analogy should not be
+overlooked by the reader.
+Remember that the various numbers in all
+the density patterns represent the time which elapses between moments
+in wave superposition whenthere is no reinforcement or cancellation of
+When an interval is inverted these moments remain essenamplitude.
+tially the same, with the exception that some of the terms combine to
+form larger integers in the inverted interval.
+It is not surprising,
+therefore, that a similar quality exists between an interval and its inThe writer submits that this similarity
+version.
+in quality is largely
+198
+
+?
+11.
+
+Example
+
+Perfect
+
+5th (C.
+
+P.
+
+6)
+
+Perfect
+
+4th (C.
+
+P.
+
+12)
+
+/
+
+/ 21
+
+212
+
+12
+
+/ 21
+
+3 / 3 12 / 21 3
+
+3 12 / 21
+12.
+
+Example
+Major
+
+3rd (C.
+
+P.
+
+20)
+
+3413
+
+Minor
+
+6th (C.
+
+P.
+
+40)
+
+5 32 514 /
+
+14
+
+/
+
+41,32
+
+41 523 5
+
+11.
+
+Diagram
+
+I
+
+Perfect
+
+4th (3:4)
+
+1 2 1 3
+
+312
+
+Axis
+of
+Symmetry*
+in simultaneity:
+
+Displaced
+
+I 2
+
+I3
+1
+
+2
+^
+
+Minor
+
+3
+. -
+
+.
+
+-
+
+.I
+
+-
+
+.
+
+) Resultant:
+.
+with density-pattern
+(identical
+of the perfect fifth)
+
+I 1 12
+
+Z
+
+3d (5:6)
+
+51423
+
+1 32415
+I
+Axis
+of
+Symmetry*
+
+in simultaneity:
+
+Displaced
+
+5
+
+I
+3
+
+2
+
+1
+
+4
+
+3
+
+z
+
+4
+
+'1
+
+5
+.
+
+3
+
+1
+
+3
+
+1
+
+2
+
+.
+
+1- I J
+
+,_
+
+I
+1 Resultant:
+
+3.---
+
+with density-pattern
+(identical
+of the major 6th)
+
+*That point after
+order.
+
+which
+
+the number
+
+199
+
+pattern
+
+repeats
+
+itself
+
+5
+
+in reverse
+
+RICHARD BOBBITT
+and that these events may
+due to coincident events in the time-domain,
+be described in terms of numerical relationships
+between density patterns of the intervals.
+The inextricable bond of periodic complexity between an interval
+and its inversion is further evidenced by displacing the density pattern
+of any interval in simultaneity
+from its axis of symmetry (start with
+that position whose ratio yields the largest common product).
+The resulting periodicity corresponds
+identically to the inversion of that interval (Diagram 11).
+The potential tendency towards stability of all types of chordstructures may be evaluated by means of the density scale. The reader
+is reminded again, however, that the roughness caused by beating has
+nothing to do with the density theory per se. The diminished-7th chord,
+for example, contains no intervals that "beat' but still has a pronounced
+forward tendency to move to another harmony due to the presence of
+two high-density
+The relative
+tritones.
+stability of all intervallic
+sonorities is based on the following principle: structures with the higest density rating will have the strongest tendency toward instability.
+In Table II (p. 191) the various intervals were classified
+as low
+density (unison, octave, fourth, fifth), medium density (thirds, sixths),
+and the tritone as a special case.
+sevenths),
+high density (seconds,
+These four groupings are used as a convenient basis for the computation of relative stability:
+(1)
+(2)
+(3)
+(4)
+
+Group 1 intervals are given a rating of 1;
+Group 2 intervals are given a rating of 2;
+Group 3 intervals are given a rating of 3;
+The special-case
+tritone is given a rating of 4.
+
+The density ratings of various structures
+may be obtained easily by
+for
+using the above classification.
+Among the 3-part (3p) structures,
+example, the four common types of triads8 would be rated as follows:
+S5 maj:
+
+contains 1 interval from Group 1 and 2 from Group 2.
+Density rating = 5
+
+S5 min:
+
+contains 1 interval from Group 1 and 2 from Group 2.
+Density rating = 5
+
+S5 aug:
+
+contains 3 intervals
+Density rating = 6
+
+from Group 2.
+
+S5 dim:
+
+contains 2 intervals
+Density rating = 8
+
+from Group 2 and one from Group 4.
+
+8. As suggested by Schillinger [26, Book V], S5 (S = structure)
+denotes a triad built in thirds; S7, a 7th chord built in thirds; S9, a 9th
+chord built in thirds.
+200
+
+TABLE
+DENSITY ANALYSIS
+
+III
+
+OF STANDARD CHORDS
+
+Number of Intervals in Each Group
+1
+4
+2
+3
+
+Chord
+Structure
+
+Total
+Density
+
+maj
+min
+aug
+dim
+
+1
+1
+0
+0
+
+2
+2
+3
+2
+
+0
+0
+0
+0
+
+0
+0
+0
+1
+
+5
+5
+6
+8
+
+S7
+
+maj
+min
+min-maj
+aug-maj
+dom
+min (l5)
+dim
+
+2
+2
+1
+1
+1
+1
+0
+
+3
+3
+4
+4
+3
+3
+4
+
+1
+1
+1
+1
+1
+1
+0
+
+0
+0
+0
+0
+1
+1
+2
+
+11
+11
+12
+12
+14
+14
+16
+
+S9
+
+maj (#9)
+maj
+min
+min (b9)
+min-maj
+dom (b9)
+dom
+
+1
+1
+1
+1
+0
+0
+0
+
+3
+2
+2
+2
+3
+3
+2
+
+2
+3
+3
+3
+3
+2
+3
+
+0
+0
+0
+0
+0
+1
+1
+
+13
+14
+14
+14
+15
+16
+17
+
+n
+
+S5
+
+4)
+
+5
+
+J
+
+8
+-W.
+
+a
+
+n II
+11
+
+&
+
+S
+
+Il b8
+II
+II
+
+OI s
+
+IIb 8
+
+oi
+12.
+
+I|
+
+Jim1
+12
+
+14
+
+14
+
+1
+
+II
+
+It
+
+S7
+
+4
+
+B1
+wlj
+3
+p
+
+S9
+
+iU
+
+Q
+IE2
+_
+ntj(l)
+
+14
+14,min bS s+I
+aUf
+n-aj
+14
+Q
+g
+Io
+
+U
+
+)vqj
+
+14
+
+f
+
+i
+
+I,,
+
+14
+I1
+
+ni
+
+Am 11t
+6
+n()-
+
+nin
+
+11
+
+to?
+
+Q
+
+11
+
+4
+
+(
+
+mi^(C9)min-m?j (b')
+do?
+
+201
+
+Ji6
+
+VIn(b5)
+t7 -
+
+lom
+
+RICHARD BOBBITT
+Observe thatthese ratings correspond tothe traditional treatment
+of the above triads - i. e. the augmented triad is considered less stable
+than the major or minor, and the diminished triad is the least stable of
+all due to its high density rating. Ratings for the 7th chords (S7) and
+9th chords (S9) are derived in the same way. Table IN (p. 201) shows
+comparative density ratings for triads, 7ths and 9ths. To avoid confusion in terminology,
+these structures
+are shown below Table III in
+musical notation. The number above each chord is its density rating.
+The same principle applies to progressions
+of less common
+The isolated chords in Ex. 13 (p. 203) can be arranged so
+structures.
+as to express increasing instability (approach to climax) or increasing
+stability (approach to cadence, or point of rest) simply by distributing
+them in accordance with their increasing or decreasing density.
+In- ; decrease in forward tendency (instability)
+indicated by
+crease in forward tendency (stability),
+; no change (neutral),
+Two chords with the same apparent density rating - e.g. the
+second and third chords in Ex. 13b) - may still be evaluated comparaNote that the second
+tively by examining each structure more closely.
+chord in Ex. 13b) contains two intervals from Group 1, three intervals
+from Group 2, and only one from Group 3, whereas the third chord
+contains two intervals from Group 3. Since the latter chord has more
+Group 3 intervals than the former, it is considered to be less stable,
+even though the overall density rating for both structures is the same.
+The general rule for comparing chords with the same rating is as follows: When two or more structures have the same density rating, that
+structure containing the most intervals from the group with the highest
+density rating will'have the strongest tendency towards instability.
+In Ex. 14 (p. 203) there are several chords with the same rating.
+It is still possible, however, to evaluate the relative stability of these
+structures by determining which chords have the most intervals in
+Note that chord E in Ex. 14, not containgroups with higher ratings.
+ing the tritone, has greater stability than the other chords with a rating
+of 14; and although chord D contains a tritone, it does not have as many
+Group 3 intervals as B and C. There is no change in stability between
+chords G and H since both these structures have the same kinds of intervals from the same Groups - i. e. each has a perfect fourth, major
+sixth, two major thirds, a minor sixth, and a minor second.
+In general, chord progressions
+are normally controlled by:
+of vertical structures;
+(a) stability-instability
+(b) linear motion of individual parts;
+(c) any combination of (a) and (b).
+tendencies
+of the above progressions
+were
+Stability-instability
+controlled by redistribution
+according to density ratings, but activity
+in progressions
+such as the following results from linear part movement towards cadence points, not from structure.
+Note the predominately "neutral" effect of the harmony in Ex. 15 all structures of which
+have the same density rating - i. e. 5 (each chord contains one Group 1
+interval and two Group 2 intervals).
+202
+
+Example
+
+13.
+
+a) Original progression.
+
+b) Redistribution to express
+increasing instability.
+
+i:44
+
+a
+4IUa
+_ -
+
+I_a
+8
+
+Example
+
+a)
+
+Il
+
+.
+
+1
+4K
+
+t
+
+1
+
+414.
+
+Original progression.
+a) Original progression.
+
+14
+
+r14
+
+5
+
+\2.
+
+t
+
+tZ. 1
+
+14
+
+14
+
+F
+
+G H
+
+I
+
+b) Redistribution to express increasing stability (cadence).
+
+A
+
+B
+
+5
+*
+14
+s4- 1 '0"
+
+c
+
+D
+
+14.;r
+
+?
+
+IZ
+
+203
+
+o
+IZ.
+
+(I
+
+RICHARD BOBBITT
+Example
+
+Density
+
+15.
+
+S
+
+5
+
+S
+
+5
+
+tc.
+
+Pressure
+changes resllting from molecular compression variations are brought about by the tremulous motion of material objects,
+which causes a displacement of air particles.
+This action results in an
+alternation of particle condensation
+and rarefaction
+constituting the
+phenomenon known as vibration, and the hearing response to vibratory
+motion is termed sound. Regular air vibrations with a speed of around
+16 to 40 times per second and faster may be perceived as pitch; the
+sensation of interval is produced by combining two or more pitches.
+The amplitude-periodicity
+between
+(in the time-domain)
+relationships
+two tones may be established by examining the points in time where no
+reinforcement
+or cancellation exists between wave trains, and between
+which points all pressure fluctuations take place that produce patterns
+of change in particle activity.
+These patterns, reflecting the intensity
+of molecular activity in a perceivable
+intervallic
+area, provide the
+means for measuring the relative density of such an area, thus paving
+the way for a scale of absolute intervallic sonority.
+The density scale, which does not vary appreciably with register
+or intensity (as do beats and combination tones), offers visual evidence
+of the probable tendency of the intervals towards stability or instability.
+The medium-density
+thirds and sixths of Group 2, serving as a convenient mean between extremes,
+have provided a relatively stable
+foundation for most of the music in Western civilization
+(especially
+since c. 1450). The unprecedented
+popularity of these intervals is
+evidenced by many rules of traditional theory, one of the more interesting of which is the principle that thirds and sixths are the only intervals permitted to move in parallel motion in strict counterpoint
+[12, 20]. Parallel motion between the low-density octave and fifth, or
+the high-density
+sevenths and tritone, is strictly forbidden
+seconds,
+[12]; but the "middle ground"' less sharply defined thirds and sixths
+have received the blessings
+of pedagogues for many years.
+They have
+of consonant moments in the
+been, in fact, the "normal expression
+musical system of the tonal era" [7, 297].
+The answer to Aristotle's
+query, "Why is it that the difference of
+an octave may be undetected and appear to be unison? " [2, 385] is relaThe octave is
+tively simple when viewed in terms of density ratings.
+the only interval besides the unison whose periodic complexity pattern
+contains no integers other than the number "1" (i.e. complete uniformity) and, by comparing the density of the two intervals, it is seen
+that the pattern for the octave is nothing more than a duplication of that
+of the unison.
+The high density intervals of Groups 3 and 4, on the other ex204
+
+THE PHYSICAL BASIS OF INTERVALLIC QUALITY
+Even
+treme, manifest a complexity that warrants careful handling.
+framework which fails to use these intervals jutoday, an intervallic
+diciously is in danger of stimulating a response which lies beyond the
+normal area of information exchange - i. e. to many listeners,
+the
+musical situation tends to be too complex for aural comprehension
+for example,
+such as
+witness,
+many works of the "atonal" school,
+Schonberg's Suite, Op. 25, Berg's Lyric Suite, Krenek's Karl V, etc.
+In addition to explaining the similar
+and
+quality of inversions
+helping to establish criteria for a normal RIE, the density scale is especially valuable for judging the relative stability of chord-structures.
+Although any chord can be made to sound consonant (stable) or dissonant (unstable) by adjusting the musical context, it is still extremely
+have a more pronounced
+important to realize that some structures
+tendency towards instability than others.
+The density scale serves as a source of criteria for establishing
+for the various intervals.
+These ratings provide an obgroup-ratings
+jective method for the evaluation and control of stability-instability
+and eliminate the necessity
+for using conflicting
+patterns,
+pseudoThe expressions
+"consonant" and "dissonant" may now be
+definitions.
+reserved
+for strictly
+functional
+situations
+where, in the writer's
+opinion, they properly apply; and isolated intervals can be described as
+and high-density inintervals,
+low-density intervals,
+medium-density
+tervals.
+The latter classifications
+offer the theorist and music educator
+objective, relatively concise language for the analysis and synthesis of
+It should be necessary
+no longer to
+widely divergent musical styles.
+teach beginning students that one set of intervals must be categorized
+as "consonances" and another as "dissonances:' only to ignore these
+in musical practice.
+classifications
+In view of the impracticality
+of the
+continued use of these words to describe both the functional (musical)
+and non-functional
+it seems advisable to employ termi(laboratory),
+of the past.
+The
+nology which avoids the connotative contradictions
+need for new language is acute.
+Perhaps the density scale can meet
+this need.
+Bibliography
+1.
+
+Apel, Willi.
+1947.
+
+Harvard Dictionary
+
+2.
+
+Aristotle.
+Problems,
+Harvard UP, 1936.
+
+3.
+
+Barbour, J. M. Tuning and Temperament.
+State UP, 1951.
+
+4.
+
+Bartholomew,
+Hall, 1942.
+
+5.
+
+"An Experimental
+Bugg, E.G.
+Study of the Factors Influencing
+Consonance Judgements"' Psychological
+Monographs, 45/201(1933).
+
+Wilmer.
+
+Vol. I.
+
+of Music, Cambridge:Harvard
+Trans.
+
+Acoustics
+
+205
+
+by W. S. Hett.
+
+UP,
+
+Cambridge:
+
+East Lansing: Michigan
+
+of Music.
+
+New York:Prentice-
+
+RICHARD BOBBITT
+Greek Philosophy.
+
+6.
+
+Burnet,
+
+7.
+
+Cazden, Norman. MusicalConsonance
+Harvard Univ., 1947.
+
+8.
+
+Cazden, Norman.
+
+9.
+
+Fletcher, Harvey.
+York:Van Nostrand,
+
+John.
+
+and Dissonance
+
+Fux, J.J. Steps to Parnassus.
+W.W. Norton, 1943.
+
+12.
+
+Goetschius,
+1902.
+
+13.
+
+Sensations of Tone.
+Helmholtz, Herman.
+New York:Longman-Green,
+1948.
+
+14.
+
+Hindemith, Paul. Craft of Musical Composition.
+ciated Music Publishers,
+1945.
+
+15.
+
+Jeans,
+
+James.
+
+16.
+
+Jones,
+
+A. T.
+
+17.
+
+Miller,
+millan,
+
+18.
+
+Mills,
+1935.
+
+19.
+
+Mitchell,
+1939.
+
+20.
+
+Ortmann, Otto.
+letin, 2(1937).
+
+21.
+
+Piston,
+
+22.
+
+Rameau,
+1722.
+
+Jean Philippe.
+
+23.
+
+Redfield,
+1928.
+
+John.
+
+24.
+
+Revesz, G. Introduction
+Oklahoma UP, 1954.
+
+Trans. by Alfred Mann. New York:
+
+Elementary
+
+and Bels.
+
+Harmony.
+
+Music: A Science
+
+New York: Mac-
+
+New York:Van Nostrand,
+New York: Prentice-Hall,
+Amer. Mus. Soc. Bul-
+
+de L'Harmonie.
+and an Art.
+
+to the Psychology
+206
+
+UP, 1947.
+
+1937.
+
+New York:W. W. Norton,
+Traite
+
+Ellis,
+
+New York:Asso-
+
+Sounds.
+
+"A Theory of Tone Quality'
+Harmony.
+
+by H.J.
+
+London:Cambridge
+
+of Musical
+
+A Fugue inCycles
+
+Walter.
+
+Trans.
+
+New York:Van Nostrand,
+
+The Science
+
+W.J.
+
+New York: Schirmer,
+
+Counterpoint.
+
+Applied
+
+Science and Music.
+Sound.
+
+New
+
+Pitch, and Timbre of Musical Tones'
+Journal, 6(1934).
+
+11.
+
+Percy.
+
+15 (1954).
+
+Speech and Hearing in Communication.
+1953.
+
+Fletcher, Harvey. "Loudness,
+Acoustical Society of America
+
+John.
+
+(Ph.D. diss.)
+
+"Hindemith and Nature' Music Review,
+
+10.
+
+D.C.
+1916.
+
+1924.
+
+London:Macmillan,
+
+1941.
+
+Paris: Ballard,
+New York:Knopf,
+
+of Music.
+
+Norman:
+
+THE. PHYSICAL BASIS OF INTERVALLIC
+25.
+
+Richter,
+
+26.
+
+J. Schillinger
+Schillinger,
+York:Carl Fischer,
+1946.
+
+27.
+
+Stevens-Davis.
+
+28.
+
+Stumpf, Carl.
+
+29.
+
+Toch, Ernst.
+1948.
+
+30.
+
+Watson,
+
+31.
+
+Young, R. W.
+Conn, 1952.
+
+E. F.
+
+F. R.
+
+Manual of Harmony.
+
+Hearing.
+
+System
+
+Fischer,
+
+1896.
+
+of Musical Composition.
+
+New
+
+& Sons,
+
+New York:Wiley
+
+Tonpsychologie
+
+(2Vols).
+
+The Shaping Forces
+Sound.
+
+New York:Carl
+
+1938.
+
+Leipzig:1883-90.
+
+in Music.
+
+New York:Wiley
+
+New York:Criterion,
+
+& Sons,
+
+A Table Relating Frequency
+
+207
+
+QUALITY
+
+1939.
+
+to Cents.
+
+Elkhart:C. G.
+
+

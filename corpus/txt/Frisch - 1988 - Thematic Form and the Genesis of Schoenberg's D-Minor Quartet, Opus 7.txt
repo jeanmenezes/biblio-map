@@ -1,0 +1,2221 @@
+American Musicological Society
+
+Thematic Form and the Genesis of Schoenberg's D-Minor Quartet, Opus 7
+Author(s): Walter Frisch
+Source: Journal of the American Musicological Society, Vol. 41, No. 2 (Summer, 1988), pp. 289
+-314
+Published by: University of California Press on behalf of the American Musicological Society
+Stable URL: http://www.jstor.org/stable/831435
+Accessed: 30/09/2008 08:12
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=ucal.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit organization founded in 1995 to build trusted digital archives for scholarship. We work with the
+scholarly community to preserve their work and the materials they rely upon, and to build a common research platform that
+promotes the discovery and use of these resources. For more information about JSTOR, please contact support@jstor.org.
+
+University of California Press and American Musicological Society are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of the American Musicological Society.
+
+http://www.jstor.org
+
+Thematic Form and the Genesis of
+Schoenberg'sD-Minor Quartet, Opus 7*
+BYWALTER FRISCH
+I
+he four major works of instrumental music that Arnold
+Nacht,
+Schoenberg
+composedbetween 1899 and 19o6-Verklarte
+und
+Opus 4, Pelleas Melisande,
+Opus 5, the D-minor String Quartet,
+Opus 7, andthe FirstChamber
+Symphony,Opus 9-differ widely in
+in length, and in musical style. Yet as has long been
+medium,
+recognized, they share certain principlesof continuous large-scale
+form derivedfromthe nineteenthcentury. In brief, Schoenberg
+was
+in and drawing upon a traditionthat included works of
+following
+Beethoven, Schubert, Schumann, Liszt, Strauss, and Mahler. In
+Beethoven's
+Sonatas,Opus 27, andhis C#-minorQuartet,Opus 13I,
+in Schubert's
+"Wanderer" F-minorFantasies 760 and940), and
+or
+(D.
+in Schumann'sFourth Symphony, the traditional
+movementtypes,
+are run togetherwithout pause or
+althoughreadily distinguishable,
+are connectedby transitional
+passages.In other works, most promiLiszt's B-minor Sonata, the structuralcomponents of an
+nently
+individualsonataform are distributed superimposed
+or
+over a larger
+that has at least traces of the traditionalthree or four
+design
+movements.Similarexperiments designareencountered certain
+in
+in
+of Strauss's tone poems of the i89os. Mahler retains the more
+conventional
+formatin his symphonies,but espeseparate-movement
+in Nos. 5 and 6 shifts the weight amongthe differentcompocially
+nents and seeksto extendsonata-like
+processesoverthe largerspanof
+the work.
+What all such pieces have in common is an impulse toward
+thematic unity, toward using the same basic materialthroughout
+much of the composition. This materialis manipulatedeither by
+strikingtransformation, which a theme will retain its essential
+by
+*This article is a revised version of a paper read at the 1984 national meeting of
+the American Musicological Society in Philadelphia. For generous assistance and
+support I am grateful to the Columbia University Council for Research in the
+Humanities and to the staff of the Arnold Schoenberg Institute.
+
+290
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+intervallicstructureand rhythmic proportionsbut will take on an
+where
+mood, or by moresoberdeveloping
+variation,
+entirelydifferent
+the basic elementsare continuouslymodified.1
+In Schoenberg'sinstrumental
+works of 1899-1906, these procederivedfromthe nineteenthcentury, takeon a
+dures, thoughclearly
+greater structuralrole, as the harmonic language becomes more
+chromaticand tonalitybeginsto lose its powerof formalarticulation.
+This is not to say that these works lack a coherentand significant
+harmonicdesign; each has a clear tonic that representsa reference
+point for much of the harmonicactivity. But because the musical
+surface is so highly chromatic,both listener and composer orient
+These are
+themselvesmore by thematicthan harmonic
+relationships.
+works in which, in Carl Dahlhaus'swords, harmony has become
+and thus "relievedof the responsibility for the
+"individualized"
+formalstructures"
+(Dahlhaus1980, 74). Or, as Christian
+large-scale
+Schmidt has put it, "the form is based not on the disposition of
+harmonicareas. . .but essentiallyon motivic-thematic
+relationships"
+(Schmidt 1978, i82).2 Charles Rosen notes similarly that in
+is
+worksof 1899-I906 "coherence attained
+instrumental
+Schoenberg's
+above all by the continuously varying employment of the same
+motifs .... We follow the piece almostentirely by recognizingthe
+motifs and their transformations"
+(Rosen 1975, 39).
+From this point of view, the D-minor String Quartet, Opus 7,
+composedbetweenthe springof 1904andthe fallof I905, is one of the
+of
+structures the late romanticor early
+instrumental
+most remarkable
+claim
+modernperiod. There is some truth to Adorno'sextravagant
+createdan entirelynew level
+that "downto its last note, [the quartet]
+coherentchamber-music
+of thematically
+(Adoro 198I,
+composition"
+The impetusfor the presentstudy was a desireto explorehow
+i57).3
+Schoenbergmight have set aboutplanningthis ambitiouslarge-scale
+is
+The investigation
+work, which lasts fifty minutesin performance.
+the extensivesketch materialsfor Opus 7, of which more
+aided by
+work. These affordus a
+survivethan for any other early Schoenberg
+to speculateon Schoenberg's
+composigood opportunity
+particularly
+tional strategies.
+
+1 On the distinctions between the techniques of transformationand development,
+with numerous examples, see Frisch I984, ch. 2, and Friedheim 1963, 13-14.
+2 Schmidt's remark relates
+specifically to Wagner's TristanPrelude, which he sees
+as a significant precedessor of the "formal problems" in Schoenberg's early works.
+3 Similar assessments of the work's integrated thematicism are given by Webern
+and Berg, excerpted in Rauchhaupt 1971, i6 and 20-30.
+
+SCHOENBERG'S
+D-MINORQUARTET
+
+291
+
+II
+Before considering the disposition of the sketches and their
+relationshipto the finished work, we must examine briefly the
+thematicandformalprocesses the quartet.In Schoenberg's
+of
+quartet,
+of sonata form and four-movementform are interwoven
+aspects
+perhapsmore completelyand ingeniouslythan in any previoussuch
+attempt(see Table i). The followingdescription
+corresponds
+closely
+to Schoenberg's
+own proseanalyses,which, significantly,
+invokeonly
+the thematicdimensionof "sonata
+form,"not the harmonicone.4
+The first "movement" comprisedof a sonata-form
+is
+exposition,
+and variedrecapitulation.
+This is followed by a fulldevelopment,
+fledgedscherzoand trio. The variedrepriseof the scherzofunctions
+also as a continuationor resumptionof the development,which (at
+letter H) takes up materialfrom the first movement.This development leads into a moreliteralrecapitulation "liquidation" use
+and
+(to
+of the mainthemeof firstgroup.5A long fermata
+term)
+Schoenberg's
+marksthe principal
+slow
+largedivisionof the quartet.The tri-partite
+movement opens with new thematic material,which is gradually
+permeated by recollection of the secondary themes of the first
+movement. It is followed by a recapitulation the second group
+of
+(labeledRecapitulation in Table i). The A themeof the rondofinale
+3
+is a transformation the principal slow movement theme; the
+of
+themes.The coda, based
+contrasting
+episodesareall builtfromearlier
+on the openingandtransition
+theme,functionsas a conclusionto both
+4Schoenberg's principal analyses are those that appearedin Die Musikin 1907 and
+in his "Notes on the Four String Quartets"of I949; both are reprinted in Rauchhaupt
+1971, i i-3 and 36-42. (Rauchhaupt gives incorrect dates for these analyses.) My
+schematic analysis in Table i is based closely upon Schoenberg's own, with one
+important modification: I hear the return of the main theme in C# minor at letter C
+as a first recapitulation, not as a continuing part of the first development. Although
+the thematic material is highly varied here, it does in fact return in its original order.
+I am indebted to Severine Neff (Neff 1984) for suggesting this way of hearing the
+section from C through D. As Schmidt points out in his article on Schoenberg's
+commentaries (Schmidt 1984), the composer is not always precise about where the
+sonata-form sections begin and end; there is even some discrepancy between the
+analyses of 1907 and I949.
+
+Throughout the present article I refer to places in the score by means of a
+rehearsal letter and, when necessary, a subsidiary measure number (which begin
+again at i with each letter), as in the original score (Berlin, 1907) and the widely
+available reprint by Kalmus. In the new edition of the quartet (Schoenberg 1986, A),
+continuous measure numbers are used; these are given in parentheses in Table i.
+5Liquidation, in Schoenberg's vocabulary, involves "graduallyeliminating characteristic features [of a theme], until only uncharacteristic ones remain, which no
+longer demand a continuation" (Schoenberg i967, 58).
+
+292
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+TABLE I
+
+FormalOverviewof Opus 7
+Four-Movement
+Form
+
+SonataForm
+
+StartingMeasure
+
+I. (Allegro)Nicht zu rasch
+
+Exposition
+firstgroup
+transition
+
+I
+A i (97)
+
+second group
+
+A 56 (I52)
+
+Development i
+
+B i
+
+i
+Recapitulation
+firstgroup
+transition
+secondgroup
+
+C I (oi)
+C35 (335)
+C 49 (349)
+
+II. (Scherzo)Kraftig
+Scherzo
+
+Trio
+Scherzoreprise
+
+(200)
+
+E I (399)
+
+2
+Development
+(firstand secondgroups)
+
+F 44 (575)
+G 34 (706)
+H i (784)
+
+2
+Recapitulation
+firstgroup
+
+I 38 (909)
+
+III. (Slow movement)
+Massig
+A
+
+K i (952)
+
+B
+A'
+
+K 52 (1003)
+L I (031)
+
+3
+Recapitulation
+second group
+
+IV. (Rondofinale)Massig
+
+L
+
+A
+B
+A'
+
+M
+
+C
+
+N
+
+52
+
+(1082)
+
+I (I
+
+22)
+
+M 26 ( I47)
+M 48 (1 69)
+
+A"
+
+(II8I)
+
+N 68 (1248)
+Coda
+
+0 1 (1270)
+
+the larger four-movement structure and the individual sonata-form
+design.
+No synoptic formal diagram can do justice to the richness of Opus
+7, especially to the interpenetrationof the thematic material and to the
+continuous process that seems to generate the larger structure before
+our very ears. We can trace this process briefly across the 3oo-measure
+segment comprising the transition, second group, first development
+and recapitulation, and scherzo. The transition is one of the least
+tonally-oriented passages in the entire quartet. It is almost pure
+counterpoint, a fugato based on a highly chromatic theme, which is
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+293
+
+first stated in full by the secondviolin. The theme has three related
+componentsor motives, labeleda, b, and c in Examplei. (As I shall
+show shortly, these labels are in fact Schoenberg's
+own.) Motive b
+inverts the opening leap of a, then continues with a similar
+freely
+ascentthroughtwo halfsteps. Motivec, rhythmically
+moreanimated,
+of
+beginslikea diminution b, with the downward
+leapof a diminished
+fifth and ascent of a half step. Its second bar contains what is to
+becomean important
+figureoscillatingwithin a half step.
+syncopated
+The fugato opens with motive b in the first violin; all subsequent
+entriesemploy a, b, and c in order.
+The mainthemeof the secondgroupof the exposition(Example2)
+is deriveddirectlyfromthe transition
+material.
+The principal
+melodic
+line, in the first violin, is a rhythmicallyaugmentedversionof the
+oscillating,syncopatedsecondsof motivec. The bottompart, at first
+thirdsby the violaandcello, takesoverthe firstfour
+playedin parallel
+notes and the rhythmof motive b (at a differenttransposition).
+The final part of the first recapitulation occupiedby energetic
+is
+of the transitiontheme and an extraordinary
+modulation
+working
+from the dominantof F to that of GS. From this the scherzotheme
+transformation motivesa and b (Example
+of
+emergesas a triumphant
+3). It is in a 3/4meteroverlaid a broad3/2-a hemiolacharacteristic
+by
+of Brahmsand early Schoenberg.
+The scherzoemergesas the goal of a long, virtuallycontinuous
+thematicprocessextendingback some eight minutes in real playing
+of
+And it is primarily thematic,
+a
+time, to the beginning the transition.
+not a harmonic
+at
+The arrival Gbmajoris not prepared any
+in
+process.
+traditionalsense; it is not impliedin any clearlyaudiblefashionby
+what has preceded. The largermusicalform is made, or heard, to
+resultfrom a specifically
+thematicevolution.
+III
+Made, or heard.AlthoughI impliedno realdistinctionin my last
+sentence, there is in fact an intriguingdifferencebetween the two
+activities in the case of the D-minor Quartet-between how the
+workedout andhow we as listenershear
+compositionwas apparently
+it. The sketchesfor the quartetsuggestthat the thematicprocessjust
+in
+analyzed, so seamlessand goal-directed our perception,was the
+result of, so to speak, a retrograde
+compositional
+activity, in which
+firstconceivedthe diatonicscherzotheme,then gradually
+Schoenberg
+"chromaticized" initiallyinto the themeof secondgroup, and then
+it,
+to the still more chromatic
+fugatoof the transition.The sketchbooks
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+294
+
+Examplei
+Opus 7, Transition Theme
+Etwaswenigerbewegt
+
+A
+
+,
+
+Ie
+
+I
+
+b%c A
+
+I
+
+.
+
+.
+
+v:r
+
+Trlr
+
+NW
+
+r
+
+7
+
+iI('
+
+,
+
+F4
+
+m
+
+,-
+
+I
+
+F--
+
+-
+
+w
+
+(G)
+
+-
+
+i-i
+
+arco
+lrj
+
+tJ,
+
+-_-
+
+cp~
+~p
+
+_
+
+*
+
+b
+ft -
+
+1'
+
+;J )
+
+-
+
+-
+
+|sb
+
+-j
+
+. i
+
+1--
+
+I
+
+l-
+
+b'a
+
+-
+
+-
+
+J'
+
+' ...
+
+arco
+sehr ausdrucksvoll
+
+_j c
+!O ..k--. *
+
+5r
+F
+
+,
+
+,
+
+I>-q
+
+C..
+
+-I
+
+r
+
+a
+a
+
+-
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+Example
+
+295
+
+2
+
+Opus 7, Beginningof SecondGroup
+Zart bewegt (
+
+)
+I
+
+lausdrucksvoll
+
+.
+
+w-.f ^ p _T
+-*
+
+b7
+
+4pb
+
+f^f-f l
+
+_f
+
+i
+
+-6
+
+ir
+
+>
+f
+
+-
+
+--etwas
+
+r
+
+fl
+
+hervor
+
+Pp
+
+I
+
+rf
+
+b
+
+r'Fbrr
+
+i
+
+P
+eI
+
+b
+
+Example3
+Opus 7, Beginningof Scherzo
+Kriftig (nicht zu rasche J.)
+a
+
+I
+
+$ib"ali
+
+iDbbbbiit
+^,
+
+.
+
+j
+
+f
+
+j
+
+__
+
+r
+
+r.
+
+I.
+
+r-r
+
+j
+
+1
+
+j
+
+i
+
+11
+
+ef
+
+I ,J r
+
+)-J
+
+#V ~'f1Y 42I
+0
+6ibb
+
+b-
+
+I I
+
+mr
+
+I
+
+r
+
+'
+
+=
+
+296
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+also reveal Schoenberggrapplingwith the thematic design of the
+second half of the quartet,the slow movementand finale.
+With the exception of a handful of loose leaves, all the extant
+preliminarygraphicactivity for Opus 7 is containedon almost Ioo
+that Schoenberg
+used consecutivelyin the
+pages in two sketchbooks
+These sketchbooks,
+now at the archivesof the Arnold
+years I904-06.
+SchoenbergInstitutein Los Angeles, were first mentionedby Egon
+of
+Welleszin his biography Schoenberg
+(Wellesz1925, 19-20). They
+were describedin greaterdetail in 1959 by Josef Rufer (who called
+I
+them Sketchbooks and II, a practiceI shallfollow here),and in 1972
+by Jan Maegaard (Rufer 1962, I26; Maegaard I972, 1:20-2i). The
+most definitiveand completeaccount,includingextensivetranscriptions, is that prepared ChristianSchmidtin the criticalreportsfor
+by
+the new Schoenbergedition.6
+In the recently published report for the D-minor Quartet,
+in
+Schmidtdividesthe material the sketchbooks two categories,a
+into
+"first fair copy" (ersteNiederschrift) "sketches"(Skizzen).The
+and
+former constitutesa nearly complete, full-scoredraft of the work,
+althoughnot a continuousone, since the music is distributedwidely
+and
+with
+over the sketchbooks sectionsareconnectedby Schoenberg
+finalfaircopy of the score,
+"VI-DE"cross-references.
+numerous
+(The
+is
+at
+which servedas Stichvorlage, a separate
+autograph the Libraryof
+The lattercategoryincludesevery other kind of musical
+Congress.)
+jottingnot partof the firstfaircopy. Schmidtadmitsthat "thenotion
+of sketch is used broadlyand without terminological
+rigor. Thus I
+have not distinguishedbetween sketchesin the narrowersense and
+measures
+deletedin connection
+with faircopies"
+versionsof individual
+B: x). He transcribesthese sketches not in the
+(Schoenberg1986,
+sequence in which they appear in sketchbooksand loose leaves
+(althoughtheir exact positionis given in a tabularsummary),but in
+the orderof the finishedwork. Thus, for example,all the "sketches"
+for the scherzotheme are placedtogether.
+Schmidt'sworkingconceptionof sketchand his method of tranare
+(and,indeed,very generous)
+scriptionandpresentation serviceable
+one. But indefor his purpose, which is essentiallya documentary
+of
+materials Opus 7 suggests
+for
+consultation the autograph
+pendent
+of
+that a greaterrefinement the notionof sketchcan yield significant
+of the work'sgenesisnot apparent
+from the criticalreport.
+aspects
+6 Detailed
+bibliographic descriptions of Sketchbooks I and II are contained,
+respectively, in Schoenberg i981, B: 21-23, and Schoenberg 1979, B: I-5.
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+297
+
+own testibearout Schoenberg's
+On the whole, the sketchbooks
+mony aboutthe compositionof the quartet.In the essay "Heartand
+Brainin Music"of 1947,he noted, "I personallybelongto those who
+generally write very fast, whether it is 'cerebral'counterpointor
+melody"(Schoenberg1975, 55). He implies that this
+'spontaneous'
+was the case with the compositionof the D-minor Quartet:"Some
+forty years ago I was composingmy First String Quartet, Op. 7.
+Usually taking morning walks, I composed in my mind 40 to 80
+measurescompletein almostevery detail. I neededonly two or three
+hours to copy down these largesectionsfrom memory"(Schoenberg
+1975, 6i).
+
+These "largesections"would correspondto what Schmidt has
+neitherhe nor Schoenberg
+accounts
+calledthe firstfaircopy (although
+for why these sections appearso scattered,and their sequence so
+But
+jumbled,in the sketchbooks). in additionto these segments,the
+containseveralsmallerfragments,usuallyof only a few
+sketchbooks
+is
+bars, in which Schoenberg clearlyengagingless in active"compoor
+work.FollowingAlanTyson's
+sition"thanin reflective exploratory
+term for certain of Beethoven'ssimilarjottings, we may call these
+sketches(Tyson 1970, 68-69), althoughit is importantto
+"concept"
+note (and it shall be shown)that Schoenberg's
+conceptsketchestend
+to appear in coherentgroups, while Beethoven'sare usually more
+as
+isolated.If we assumethatthe orderof the material set down in the
+sketchbooksrepresentsthe order in which Schoenbergconceived
+and/ordraftedit-and I thinkit is reasonable do so, sincethe books
+to
+were bound before any entries were made-then a fascinatingsequence of creationemerges.
+Table 2 shows the positionof these concept sketcheswithin the
+and
+sketchbooks theirrelationto the formalschemeoutlinedin Table
+I.7 Pages with the most significant
+conceptsketchesare indicatedin
+boldface.These representwhat I believeto be the "crisis"
+points in
+of the quartet,momentsat which the generally
+Schoenberg's
+drafting
+smoothflow of compositionwas interrupted.
+After workingout much of the firstgroupon I/4-I7 (Sketchbook
+I, pages 4-17), Schoenbergset aside the quartetto work on other
+7 The dates
+given in Table 2 are taken from Schoenberg's own annotations in the
+sketchbooks. All transcriptions included in this article are my own. When referring
+to a particular sketch in the discussion that follows, however, I will for the
+convenience of the reader provide in parentheses a reference to the transcription by
+Schmidt (who assigns every sketch an "S" number) and to the page where it appears
+in the critical report for Opus 7 (Schoenberg 1986, B). My own readings occasionally
+differ in details from Schmidt's.
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+298
+
+TABLE 2
+
+Overview of Sketches for Opus 7 in Sketchbooks I and II
+Sketch Pages
+Sketchbook I (begun March
+
+Portion of Work Sketched
+1904)
+
+4-17
+I8-30
+
+31
+32
+33
+
+34-60
+
+(Sketchbook completed 20 April 1905)
+Sketchbook II (begun April 1905)
+i-i6
+17-18
+19-20
+21-27
+
+29-39
+39-60
+
+first group
+other compositions
+scherzo
+second group
+transition
+first group-transition-second
+development i-recapitulation
+
+groupi
+
+scherzo-trio
+scherzo reprise/development 2
+slow movement; finale
+slow movement
+trio-scherzo reprise/development 2recapitulation 2
+slow movement-recapitulation 3finale-coda
+
+(Quartet completed 29 September 1905)
+
+projects, principally the songs that were to become Opus 8.8 Some
+fourteen pages later he returned to Opus 7, but did not, as we might
+expect, pick up where he left off, in the first group. He began instead
+to sketch the scherzo theme, well in advance of its eventual appearance. The theme appearsin short score in the key of Bb(as transcribed
+in Example 4; cf. S 2, p. 67).9 Despite its tonality and certain striking
+differences of harmony and voice leading, the theme is quite close to
+its final form (cf. Example 3 above). After six measures the sketch
+trails off to only the top part, and ends altogether after sixteen
+measures. The rest of the page is occupied by brief sketches of
+possible developments or continuations of the scherzo.
+8 This would have been in
+mid-July 1904. In a letter to Oskar Posa written on 13
+July, Schoenberg notes that he has begun a new orchestral song and has set aside the
+quartet for the time being: "Mein Quartett ruht. Vielleicht komme ich aber doch noch
+dazu." (Cited in Szmolyan 1974, 193.)
+9 Above the first scherzo sketch
+appears the phrase "Neues leben fuhlend." This
+relates to Schoenberg's private program for Opus 7, which is contained on a
+handwritten sheet affixed to che back cover of Sketchbook I. The program-really a
+description of successive emotional states (what Schumann would have called
+Seelenzustdnde)-isreproduced in Schoenberg I986, B: o09-Io, and also in Schmidt
+I986. Its possible role in the genesis of Opus 7 has been discussed by Mark Benson
+
+(Benson 1987).
+
+n
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+299
+
+Example 4
+Opus 7, Sketch for Scherzo Theme, from Sketchbook I, page 31
+
+?"
+
+"'>
+
+[etc.
+
+;i
+
+But Schoenberg attempted no larger draft of the scherzo at this
+point, beginning instead to work immediately on the second group,
+another step backward to his previous stopping point. The first
+concept sketches appear in short score on the following page, 1/32,
+which is shown in facsimile in Figure i. 0 The sketches for the second
+theme are partially transcribed in Example 5 (cf. S22-23, pp. 52-53).
+Example 5
+Opus 7, Sketches for Second Group, from Sketchbook I, page 32
+(a)
+
+,,A
+
+~V-4L
+
+i~
+
+...I
+
+-
+
+[c] 11 r
+r
+
+I
+t-7i6.l 1 i
+
+eiP
+
+IJL_.~J
+
+K
+
+-
+
+i
+
+b~~
+
+bokj
+
+r [f
+
+___j
+
+-
+
+i
+
+'
+
+rr
+
+4
+
+[etc.]
+bn~~?
+
+L,
+
+i
+
+(b)
+
+~~~
+rhi.~~~~~~~~~~~~~~
+I . I~ ~~~~~~~1
+
+j
+
+E>ir^
+
+f tf
+
+f
+
+>
+
+f
+
+J
+
+[etc.]
+
+if
+
+tr
+
+In its initial form, Example 5a, the theme makes no apparentreference
+to motives b and c; the principal melody and the bass part lack the
+syncopation characteristicof these motives. Schoenberg thus seems to
+work more from a harmonic skeleton than from a fully thematic
+conception. Directly beneath this sketch, however, Schoenberg in
+10The
+typewritten "Sk"numbers in the upper left-hand corners of Figures i and
+were affixed by Josef Rufer when he sorted the Schoenberg estate in the 1950s.
+Since he gave the cover of Sketchbook I the number Ski, Rufer's numbers are off by
+one from Schoenberg's own page numbers, which appear on the odd pages. (Rufer
+also numbered the pages continuously through Sketchbooks I and II.) In Table 2 and
+throughout this article I follow Schoenberg's numbering.
+2
+
+300
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+......'
+
+.. ..
+
+=r1--1
+~~~"""""~-_ . ?
+__... .....
+
+::
+
+'Yiii ?:
+
+?.rr
+::-: - 1:
+-:::
+::-:-::::i:
+rg
+,,, ?'
+Ixl-?c--??.......,
+::::::---k--::'
+':.'"":.'u_u,
+-"s"::: ~_ttt ^";`I;
+i'":::C
+I;"!c:_a
+.???
+????-'"
+: ::
+_???I,
+s:a;T
+I-?rn*:u
+?:i::;-_:::: :::'::??:
+:.: i::_
+?':"'"".
+
+Figure
+
+i. Page 32 ot
+
+Schoenberg Institute.
+
+:_::-i::::
+- :-::
+
+iketchbook 1. Keproduced
+
+by permission
+
+r-
+
+ot the Arnold
+
+effect "thematicizes" same passage(Example5b). The top line is
+the
+now much closer to c; the bass syncopation,which derives from
+motivea, is addedin the marginof the sketchleaf seen in Figure1);
+(as
+it appearsto be an afterthought. think it was tackedon somewhat
+I
+later, after Schoenberghad continued his conceptual path back
+throughthe expositionof the firstmovement.11
+He now abandoned second groupto work on the transition.
+the
+First, on the far rightedge of staves2 and 3 on the samepage(barely
+visiblein FigureI), Schoenberg
+jotteddown in a very light pencilthe
+in
+scherzotheme itself, in triple meter and still (by implication) the
+to
+did
+key of Bb(S 7, p. 44). He probably this as a reminder himself.12
+Beneath it, on staff 5, appears the first concept sketch for the
+recaststhe
+transition
+6;
+(Example cf. SI9, p. 44), in which Schoenberg
+meterand
+scherzotheme, with both its a andb motives,in quadruple
+11 Schmidt has suggested that the sketch with the G-major key signature on
+
+staves
+
+2-3 of page 32 (SI6, p. 52; see my Figure i) is a "Vorentwurf"for the second group.
+
+I am not persuaded, since this sketch bears no resemblance to the final form of the
+theme and no significant trace of motives b or c. (It might be entirely unrelated to
+Opus 7.) Schmidt's conjecture, however, would support my broader thesis that the
+idea of thematicizing the second group-and making it relate to the scherzo and
+transition-did not occur to Schoenberg immediately.
+Schmidt has also proposed that the sketch on staves 6-7 (S2o, p. 71) is related to
+the trio of the scherzo. This seems even less likely, since the trio is (like most pieces
+of the genre) in triple meter and is a transformation of the scherzo. The sketch is
+clearly in 4/4 and manifests no obvious derivation from the scherzo; it is probably
+unrelated to Opus 7.
+12 We find a similar
+phenomenon in the sketches for the First Chamber Symphony, Opus 9, in Sketchbook II. In the midst of sketches for the development section,
+Schoenberg wrote out the first two measures of the secondary theme of the exposition
+(mm. 84-85). Schmidt suggests plausibly that this jotting represents an aide-memoire
+since the head motive of this theme plays an important role in this
+(Gedichtnisstutze),
+particular passage of the development. See Schmidt's transcription and commentary
+in Schoenberg I979, B: 65.
+
+SCHOENBERG'S
+D-MINORQUARTET
+
+30I
+
+in somethinglike the chromatic
+formit will assumein the transition.
+Motive b, however, still ascendsby whole step, C#-E,-F (in mm.
+3-4), ratherthan by semitone.13
+Example6
+Opus 7, Sketchfor Transition
+Theme, fromSketchbook page 32
+I,
+
+ib
+
+j
+
+irc; ;-r44i
+b;W
+
+On the next page of the sketchbook,
+1/33, Schoenbergbegan to
+sketchthe transition earnestby separating actuallylabelingthe
+in
+and
+scherzotheme,a, b, andc (Figure
+component
+partsof the transformed
+2). At the upperleft we find motiveb isolated
+7;
+(Example cf. S24, p.
+44).
+Example7
+Opus 7, Sketchfor Motiveb, from Sketchbook page 33
+I,
+
+er]$, Jt
+
+iJ
+
+J- ,b
+
+LJ
+It,,],,
+
+This is very muchlikethe b subjectof the actualtransition,
+beginning
+with the syncopationand the downwardleap of a diminishedfifth.
+But the disjunctleaps of the continuation
+still
+(F-D/-GI-C;) show its
+immediatederivation
+from the secondhalf of the scherzotheme and
+fromthe transformation thatthemesketched the preceding
+of
+on
+page
+.. ...........
+.'................... .
+- .e;:_
+
+- -1->-^
+^
+
+-1'--
+
+-
+
+=-?---
+
+Figure 2. Page 33 of SketchbookI. Reproduced permissionof the Arnold
+by
+Institute.
+Sc oenberg
+Institute.
+Schoenberg
+13 In Si9 Schmidt
+the
+interprets E in m. 4 of the sketchas a natural;
+mistakenly
+the accidental
+it
+preceding is, I feel, clearlya flat.
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+302
+Example 8
+
+Opus 7, Sketch for Transition, from Sketchbook I, page 33
+
+J brib],
+
+L)l J
+
+(Bth
+
+bj
+
+b
+c7
+
+aJn 6
+
+L4rf-lIL
+
+b
+
+^
+
+I
+
+bj
+
+f
+
+in
+this
+Beside fragment, short
+(thusExamples and6, respectively).
+4
+
+score, is a first, six-measure mini-draft of the transition itself (Example
+8; cf. S25, p. 46), in which the imitative texture and all the thematic
+material are present, including a new motive, c, which Schoenberg
+has derived from the syncopations in the second theme on the
+previous page (Example 5b). Schoenberg has himself now labeled the
+motives a, b, and c. Motive b still has a prominent whole step (GI-A!,
+in m. 2); its ascent does not yet consist only of half steps.
+On the remainder of this page we see the "cerebral"Schoenberg
+trying out various three-partcombinations of the motives in four more
+short sketches.14 The first, at the left, contains a, b, and c. In the
+middle one the two upper voices present b in imitation over c; at the
+far right motive a is in the two upper voices, c in the bottom. The last
+sketch, at the very bottom right of the page, contains all three
+motives, like the one at the far left. Preceding it, in short score, is a
+sketch for the passage leading up to the transition and comprising the
+liquidation of material from the first group. Schoenberg was now
+beginning to place this transition material into its eventual context.
+At some point during, or soon after, his work on this page-that
+after isolating motive b-I believe that Schoenberg turned back to
+is,
+14 For transcriptions of these sketches, see Schoenberg 1986, B: 45-48. Related
+
+sketching activity for the transition-in which Schoenberg tries out various combinations of the motives labeled a, b, and c-is found on two loose leaves and in a pocket
+sketchbook, which must have been used concurrently with Sketchbook I. These
+sketches are transcribed ibid., pp. 44-51. In one sketch (SI34, P. 44) Schoenberg
+wrote out the scherzo theme in its original form, apparently again as an aide-memoire.
+
+SCHOENBERG'S
+D-MINORQUARTET
+
+303
+
+page 1/32 and added the syncopated measure in the margin for the
+bass part of the second theme (see Example 5b and Figure 1above). He
+thus tightened still further the net of thematic associations between
+this theme, the transition, and the scherzo. And he confirmed the final
+form of motive b, with its ascending semitones (here C#-D-E,, in the
+viola).
+In his critical and theoretical writings Schoenberg often stresses
+that a motivic or thematic idea must have generative power-that all
+the events of a piece must be implicit in, or foreseen in, the basic
+shape or Grundgestalt
+presented at the opening.15 In some of the
+exercises in his textbook Fundamentals MusicalComposition shows
+he
+of
+student composers how to elaborate an initial motive into an entire
+small work (Schoenberg 1967, 63-67). The transition, second group,
+development, and scherzo of the D-minor Quartet can be heard as an
+extremely sophisticated example of this process on a massive scale.
+But the series of sketch pages we have just examined (1/31-33)
+suggests that the hearing and the making were hardly as congruent as
+Schoenberg's textbook (or his own statements on the creative process)
+might suggest. The "basic shape" from which Schoenberg forged this
+particularcomplex of thematic material was the scherzo theme. 16The
+compositional process appears to have involved a gradual
+chromaticization of a diatonic scherzo theme into the transition
+theme-a process that is then reversed in the actual quartet, where the
+scherzo is made to serve as the culmination, rather than the germination.
+
+IV
+With these three pages of concept sketches Schoenberg resolved
+many of the problems of creating a thematically integrated and
+continuous form. He now returned to the first group and, on pages
+15
+
+See, for example, his remarksin the essay "LinearCounterpoint" (Schoenberg
+1975, 290), where he postulates: "'Whatever happens in a piece of music is nothing
+but the endless reshaping of a basic shape.' Or, in other words, there is nothing in a
+piece of music but what comes from the theme, springs from it and can be traced back
+to it; to put it still more severely, nothing but the theme itself. Or, all the shapes
+appearing in a piece of music areforeseenin the 'theme'."
+16 I do not deal here with the
+opening, main theme of the quartet, which in
+for
+Schoenberg's sense would, of course, contain the ultimate Grundgestalt the work,
+as is suggested by Severine Neff (I984, I3). Although I am sure that aspects of the
+scherzo theme could be derived from the main theme by skillful analysis, I am
+concerned here more with obvious transformations than with what Schoenberg
+would call "remote developments."
+
+304
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+1/34--II/6, wrote out an extensive and more or less continuous draft
+of the entire first half of the quartet, through the trio. The matter of
+thematic and formal logic arose again, however, as Schoenberg
+planned the second half of the quartet. As Table 2 suggests, the
+steady flow of composition came to a halt on II/i6, at the beginning of
+the passage that was to serve as both scherzo recapitulationand second
+development. Schoenberg had here to reconcile two demands: that of
+the larger sonata-form design, which necessitated the further development of earlier material, and that of the individual movement,
+which required a symmetrical restatement of the scherzo theme.
+He also began to think about the shape that the latter part of the
+quartet would take-or at least set down the first evidence of that
+thinking. Here, too, there were potentially conflicting demands. A
+slow movement and finale had to have sufficient independence as
+movements, yet to fulfill their role in the larger sonata-form design
+they had also to recapitulate earlier material. Schoenberg's ultimate
+answer was to fashion the main theme of the slow movement of Opus
+7 (Example 9a) as essentially new material. Unlike the scherzo it does
+not grow out of or emerge from any obvious thematic process. Indeed,
+the slow movement comes as a distinct contrast or relaxation after the
+recapitulation and intense liquidation of the first theme. The main
+theme of the finale is virtually a Lisztian transformation of the slow
+movement, whose first six measures are taken over note for note
+(Example 9b). The episodes of the finale serve to recall, if not exactly
+recapitulate, all previous material.
+This ingenious formal and thematic design was anything but
+obvious to Schoenberg when he was at II/i8 of the sketches, when he
+broke off a tentative attempt at the scherzo recapitulation to draft a
+slow movement (given as Example IO; cf. S75, pp. 78-80). This
+fragment, in the key of Bb minor, extends 39 measures in full score. It
+has no tempo marking and no label, but I take it (as does Schmidt) to
+be a first attempt at a slow movement. Unlike the eventual slow
+movement theme, it is based entirely on material from the second
+group of the exposition. It begins with eight measures of syncopated
+chordal accompaniment in which the cello plays the highest part.
+(This accompaniment pattern, with a characteristic appoggiatura
+figure, derives from the development section of movement i; see B
+14.) In m. 9 the first violin enters with a melody derived quite clearly
+from the oscillating syncopated half steps of motive c, as heard in the
+principal theme of the second group (see Example 2). At m. 23 there
+is a cadence to Bb minor. Underneath the sustained DL of the first
+violin, the lower parts now play the other main theme of the second
+
+305
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+Example9
+(a)
+Opus 7, Themes of Slow Movement and Finale(b)
+a.
+
+i
+
+Massig;langsame Viertel
+
+. - f
+7zLrr
+
+71:
+
+dly
+
+---.-=:
+/
+b.
+
+"?5i
+
+Massig = heiter
+
+Aj
+
+f
+
+ift
+
+A
+
+group, in its original 6/4 meter. As the first violin resumes its melodic
+status, the lower parts continue in 6/4, with a sighing pulsating figure.
+After another cadence to B6 minor in m. 33, and two bars of
+transition, the second violin begins the original theme, accompanied
+by a new decorative figure in the first violin.
+Here the sketch trails off, perhaps because Schoenberg was not
+satisfied with what he had produced, or perhaps because he had
+sketched enough to satisfy himself how the movement would go. At
+any rate, these 39 measures suggest that, like the scherzo recapitulation sketched on the previous pages, the passage was to serve a dual
+function, as both slow movement and recapitulation of the second
+group.
+Schoenberg's mind turned now to thoughts for the last movement.
+Directly beneath this slow movement fragment, we find the first
+sketches for the finale theme. There are three, one above the other
+(Examples i Ia, b, c; cf. S77-79, pp. 87-88). The first, in A major, has
+lithe, energetic eighth notes. The second, still in A, slows down the
+motion and eliminates the melodic diminution. The theme now has
+also the beginnings of an accompaniment. The third sketch transposes
+the second to D major, the tonic of the work as a whole.
+In Examples i ib and c the theme is quite close to its final form (cf.
+Example 9b), except for the contour of the opening three-note figure,
+which here is a transformationof motive b, a descending leap followed
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+306
+Example 10
+
+Opus 7, Draft for Slow Movement,from Sketchbook pages 19-20
+II,
+.
+
+A Z
+
+5
+
+rw
+
+011.b .
+
+10r-
+
+V
+
+]i
+
+I
+
+'
+
+|EbbV
+
+,
+
+J-J-----1JJ
+
+J
+
+P
+
+- Bf
+
+s9:
+
+r
+
+T
+r
+
+J.
+
+--a
+
+'
+
+r
+
+fQr
+
+r
+
+b
+
+10
+
+15
+
+I^s
+bbr,
+
+X
+
+E bb j
+
+br br
+
+r
+
+r
+
+i .s.]
+
+[-
+
+b^-
+
+br
+
+n
+m
+
+bo
+
+[half-note in m.s.]
+
+Jbbbbb
+
+r
+
+t:
+I
+
+bo
+
+7
+
+bo
+
+b
+
+bo
+
+f
+
+r
+
+SCHOENBERG'S
+D-MINORQUARTET
+
+307
+
+Examplexo, continued
+k
+
+6>?obb'
+nA ,
+hb',,-V'b
+
+I
+
+|I
+
+3bbbbb
+
+L
+
+'
+
+-
+
+--b
+
+L -
+
+'i I
+
+IV
+
+o
+
+I
+
+I i
+J
+
+b
+i
+
+_bo
+
+r
+r
+
+i
+I 9"r
+
+b4
+
+20
+
+.
+
+IVr
+
+b
+
+r
+
+?
+b
+| bbbb bo
+
+,
+| bbb
+
+Xs
+
+bbbb:'r ^w
+IT :l
+jl
+
+j
+
+tji j
+
+r fr
+
+r
+
+"
+
+bj
+
+J''l
+
+J4,J
+
+rTr
+
+F
+rr f~'rr
+
+r
+
+J-tiiJ^
+
+f rr r
+iFb rY
+b:4r
+
+_]
+
+,J J J
+
+bJb;-j
+
+b
+
+M "t ^
+
+j
+
+t-^ 'r
+
+?j J
+
+|ebbb 1
+
+|
+by^
+
+j
+
+b
+
+|b bb
+
+|$b^'bi.
+
+J
+
+bo
+
+b
+
+'
+
+o
+
+bVr
+
+o r
+r
+
+rzr
+
++t
+
+SOCIETY
+MUSICOLOGICAL
+JOURNALOF THE AMERICAN
+
+308
+
+ExampleIo, continued
+A^
+
+.
+
+h.
+
+4t .
+
+VrI r
+
+A 'Lbbb
+i
+
+Ibkvbb "fr
+|
+
+-X Vj
+L .-
+
+30
+
+r
+*
+
+lr
+^^'rr^
+
+Tr
+
+r
+
+^r
+
+rF
+-
+
+qj-
+
+q
+
+.j
+rt~~lbbli,
+
+tl
+
+J
+
+I
+
+r ~r' J
+
+j
+
+r
+
+bu'~~3
+
+f.
+
+r
+
+^^bMbb
+9::l b %]P
+
+r
+rir
+
+r
+r 1 1
+
+I
+
+I
+
+j
+
+J
+
+| :b"bb
+
+t
+
+. ?
+
+r
+
+r
+
+f
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+309
+
+Example io, continued
+
+A ,.
+
+L*.
+
+"
+
+-^ g
+
+' bb I [
+
+-$
+
+- -S
+
+---
+
+--
+
+'
+
+\
+
+r,,
+
+I
+
+b
+
+by a chromatic ascent. As in the preceding draft of the slow
+movement (Example io), then, Schoenberg was deriving his thematic
+material exclusively (and audibly) from the first movement of the
+quartet. But this logical chain of thematic associations did not satisfy
+him. Indeed, he may have felt that he had linked that chain too
+tightly, that his quartet lacked enough genuine contrast.
+He broke off these concept sketches for the finale, and on the next
+page, II/2I, began a draft in full score of the slow movement as we
+now know it. Its theme (cf. Example 9a) is clearly related to the finale
+theme just sketched, but any direct association with motive b has been
+eliminated. The opening three-note figure now repeats the first note
+and leaps down a fifth. It is thus essentially new thematic material.
+When Schoenberg came to write out the draft for the finale, beginning
+on II/42 (see Table 2), he began to write the theme out as in Example
+i IC(cf. S94, pp. 89-9o), but then crossed out that version and rewrote
+the theme to bring it into conformity with the slow movement. As
+already demonstrated in Example 9, the finale became an almost
+literal transformation of the slow movement.
+Establishing this relationship between the two movements was, I
+believe, the last major conceptual problem Schoenberg encountered in
+planning the D-minor quartet.17 He had found a way to give the
+second half of the quartet (the portion after the fermata) its own
+thematic integrity or identity without abandoning its purely
+17The
+autograph score of the quartet, however, is far from a clean copy. It
+contains numerous revisions, most notably large cuts in the first development and
+recapitulation. (See Schoenberg 1986, B: IoI-9.)
+
+3 10
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+Example I
+Opus 7, Sketches for Finale Theme, from Sketchbook II, page
+
+20
+
+a.
+
+[3]
+
+[etc.]
+
+I
+
+b
+
+I
+
+C.
+
+? 'r--r
+'-"--r1 Tr
+
+?n L
+
+t
+
+tt7
+ne.
+
+r
+
+.1lt3A
+
+-
+
+-
+
+'
+
+-
+
+rP,
+
+r
+
+EL
+
+'
+
+- i% I
+
+/
+
+r
+
+---
+
+-_ _
+i[etc.]
+
+D-MINORQUARTET
+SCHOENBERG'S
+
+3II
+
+function in the larger sonata design. Moreover, by
+recapitulatory
+finale in A, insteadof in D as in the concept sketch
+beginningthe
+the
+(Example i c), Schoenbergmaintained dominanttension of the
+slow movementacrossa longerspan;that tensionis releasedonly in
+the splendidD-majorcoda.
+V
+
+What Adorno and others have claimedfor Opus 7 was in fact a
+concern of Schoenberg'sfrom the outset. The sketches and drafts
+show in strikingfashionthat the largerformwas to be heardto grow
+logically, inexorably, out of a continuous thematic process. To
+accomplishthis task on such a massive scale challengedeven the
+normally "spontaneous"
+Schoenberg, who had to stop at certain
+crucialjuncturesto reshapeor revisehis compositional
+strategy.
+It shouldnot surprise thateven a rapidworkerlike Schoenberg,
+us
+who alwaystried to keepa vision of the entireworkin his head (and
+his
+such moments
+encouraged studentsto do the same),encountered
+in the composingof a pieceas massiveas the D-minorQuartet.In one
+of his most extendedstatements his own creativeprocess,madein
+on
+in response to a psychologist'squestionnaire,he remarked,
+1931
+"With longer works, I often come to a halt once or twice in the
+middle. This is sometimesbecauseI have'goton to the wrongtrack,'
+but often it may perhapsbe slightfatigue,since I seldomneed to alter
+anything when I resumework four or five days later"(Reich 197I,
+238). Schoenbergrefers here specificallyto song composition;the
+latter part of his remarkmay reasonablybe revised in light of the
+sketchesfor Opus 7, where considerable
+"alteration" sometimes
+was
+to get back on the "righttrack."Anothermore mundane
+necessary
+considerationin the case of Opus 7 is that, unlike a song or even
+Nachtor Erwartung, genesis extended
+its
+longer works like Verklirte
+over a considerable
+one in which Schoenbergwas busy not
+period,
+only with othercompositions,but also with teaching(his firstprivate
+pupils came to him in the fall of 1904) and concert organization
+(1904-05 was the first and only season of the Vereinigung
+schaffender
+Tonkiinstler).
+was
+to
+Schoenberg not, of course,the first(orthe last)composer be
+with the most effectiveway to createa large, interconpreoccupied
+nected instrumental
+form. At about the same time Schoenbergwas
+Opus 7, Mahlerwas strugglingwith similarissues in his
+composing
+Fifth and Sixth Symphonies, especially as regards the ordering,
+proportions, and thematic relationshipsamong individual move-
+
+312
+
+MUSICOLOGICAL
+SOCIETY
+JOURNALOF THE AMERICAN
+
+ments. There is some evidence that Beethoven encounteredvery
+similarproblemsin planninghis C#-minor Quartet-a workthat, as
+Schoenberghimself acknowledged,is one of the most important
+precursorsof his own (see the liner notes cited in Steiner 1978,
+132-33). According to Robert Winter, some of the most distinctive
+
+portionsof the sketch materialfor the Beethovenquartetconsist of
+"telescopeddrafts," pages in which Beethoven momentarilysteps
+backfromdetailedworkingsketchesandcontinuitydraftsto meditate
+
+on the larger design of the work (Winter 1982, 113). Each of the five
+
+differenttelescopeddraftsor "tonaloverviews"
+(againWinter'sterm)
+for the quartet,which are scatteredamongthe preliminary
+sketches,
+consists of possible principalthemes and key areasfor the different
+movements.
+similarin functionto the
+These overviewsseem to me remarkably
+at
+sketchesmadeby Schoenberg the two "crisis
+points"I have
+concept
+where he likewisestops in the middleof things to take an
+discussed,
+in
+overviewof the composition,sketching close successionthe themes
+for severaldifferentmovements.Like Schoenberg,Beethovenoccasionally engages in a process of retroactiverevision, changing an
+earlierdetail in light of a lateroverview.For example,only when he
+had plotted a secondmovementin D majorin one of the overviews,
+did Beethoven apparentlygo back and change the answer of the
+opening fugue to the subdominant,in order to emphasizethe NeaD
+politanpitch D (WinterI982, 115). In the finishedworkthis "sore"
+of
+functionsas a harbinger the key of the succeedingmovement.
+Since Schoenberg's
+quartetis writtenin a style in which harmony
+of
+as significanta role in the articulation form as in
+no longer plays
+Beethoven (or Mahler), greater structuralweight has to fall on
+and it is principallythese that he
+large-scalethematicrelationships,
+worksout in the conceptsketcheswe have examined.
+What the documentedgenesis of Opus 7 reveals above all is
+Schoenberg'sattempt, in the years around I900, to redefinein his
+own terms the relationshipbetween thematic content and formal
+structure.By pushingcertainnineteenth-century
+principlesto their
+coherenceto large-scale
+limit he sought to impartan unprecedented
+form and therebyto validateit for the new century.
+instrumental
+Columbia University
+CITED
+LIST OF WORKS
+Adoro, Theodor W. Prisms. Trans. Samuel and Shierry Weber. Cambridge, Mass., 1981.
+
+SCHOENBERG'S
+D-MINORQUARTET
+
+3 3
+
+Benson, Mark. "Schoenberg's Private Program for the String Quartet in D
+Minor, Opus 7." Paper read at the national meeting of the American
+Musicological Society, New Orleans, 1987.
+and
+Trans. Mary Whittall.
+Dahlhaus, Carl. BetweenRomanticism Modernism.
+and Los Angeles, 1980.
+Berkeley
+Friedheim, Philip. "Tonality and Structure in the Early Works of
+Schoenberg." Ph.D. diss., New York University, 1963.
+and the Principleof DevelopingVariation.Berkeley and
+Frisch, Walter. Brahms
+Los Angeles, 1984.
+Satzes bei Arnold
+Maegaard, Jan. Studien zur Entwicklungdes Dodekaphonen
+2
+Schonberg. vols. Copenhagen, 1972.
+in
+Neff, Severine. "Aspects of Grundgestalt Schoenberg's First String Quarand Practice9 (1984): 7-56.
+tet, op. 7." Theory
+Rauchhaupt, Ursula von, ed. Schoenberg,
+Berg, Webern:The String Quartets.
+1971.
+Hamburg,
+a
+Trans. Leo Black. New York,
+Reich, Willi. Schoenberg: criticalbiography.
+1971.
+New York, 1975.
+Rosen, Charles. ArnoldSchoenberg.
+Trans. Dika Newlin. London,
+Rufer, Josef. The Worksof ArnoldSchoenberg.
+1962. (Original German edition, Kassel, I959.)
+Schmidt, Christian M. "Formprobleme in Schonbergs friihen
+Instrumentalwerken." In Berichtuber den i. Kongress Internationalen
+der
+ed. Rudolph Stephan, i8o-86. Vienna, 1978.
+Schonberg-Gesellschaft,
+."Sch6nbergs analytische Bemerkungen zum Streichquartett op. 7."
+Osterreichische
+Musikzeitschrift (1984): 296-300.
+39
+. "Sch6nbergs 'Very Definite-But
+Private' Programm zum
+der
+Opus 7." In Berichtuberden 2. Kongress Internationalen
+Streichquartett
+ed. Rudolf Stephan and Siegrid Wiesmann,
+Schonberg-Gesellschaft,
+230-34. Vienna, 1986.
+ed.
+Schoenberg, Arnold. Fundamentals MusicalComposition, Gerald Strang
+of
+with the collaboration of Leonard Stein. New York, 1967.
+. Style and Idea, ed. Leonard Stein, trans. Leo Black. New York,
+1975.
+. SdmtlicheWerke.Vol. 3. Orchesterlieder, Christian M. Schmidt.
+ed.
+Series B [critical report]. Mainz and Vienna, 1981.
+. SamtlicheWerke. Vol. 11/2. Kammersymphonien, Christian M.
+ed.
+Schmidt. Series B [critical report]. Mainz and Vienna, 1979.
+. Sdmtliche Werke. Vol. 20. Streichquartette ed. Christian M.
+I,
+Schmidt. Series A [musical scores] and B [critical report]. Mainz and
+Vienna, 1986.
+Steiner, Fred. "A History of the First Complete Recordings of the
+Institute 2
+Schoenberg String Quartets." Journal of the Arnold Schoenberg
+(1978): 122-37.
+Musikzeitschrift
+Szmolyan, Walter. "Sch6nberg in Modling." Osterreichische
+29
+(1974): 189-202.
+
+am
+In
+Tyson, Alan. "The 1803 Version of Beethoven's Christus Oelberge." The
+Creative World of Beethoven,ed. Paul Henry Lang, 49-82. New York,
+1970.
+Trans. W. H. Kerridge. London, 1925.
+Wellesz, Egon. Arnold Schoenberg.
+(Original German edition, Leipzig,
+
+1921).
+
+3 4
+
+SOCIETY
+JOURNALOF THE AMERICAN
+MUSICOLOGICAL
+
+Winter, Robert. Compositional
+Opus 3 i. Ann Arbor,
+Origins Beethoven's
+of
+1982.
+ABSTRACT
+
+for
+D-minorQuartet,Opus 7, is distinctive fusingelements
+Schoenberg's
+form into an immensefifty-minutework that
+of sonataand four-movement
+The numerous
+coheresprimarilyby thematicprocessesand relationships.
+sketches for the quartet reveal that the task of achieving both thematic
+contrast
+betweensectionschallenged
+continuityon sucha scaleandadequate
+even the normallyrapidand "spontaneous"
+composer,who had to stop at
+certainpoints to revise his compositional
+strategy.Schoenbergresortedat
+these points to groupsof brief concept sketchesto work out the thematic
+and
+associations their eventualorderingand placementin the largerformal
+design.
+
+

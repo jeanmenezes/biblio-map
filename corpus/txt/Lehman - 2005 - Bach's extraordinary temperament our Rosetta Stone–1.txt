@@ -1,0 +1,2421 @@
+Bradley Lehman
+
+Bach’s extraordinary temperament: our Rosetta
+Stone—1
+Sebastian Bach never required equal
+temperament for keyboards. Music historians
+have hitherto failed to notice that he actually wrote
+down and made full use of a specific unequal alternative whose resources are much richer. Its layout is:
+five ¹⁄₆ comma 5ths F–C–G–D–A–E, then three pure
+5ths E–B–F –C , and finally three ¹⁄ comma 5ths
+C –G –D –A . Although this may not look like anything special on paper, its sound is marvellous for the
+complex requirements of tonal music.
+Bach ‘was no lover of dry, mathematical stuff’.1
+Despite his aversion to computation in numbers
+and theoretical speculation in words, the 37-year-old
+composer notated that specific temperament on the
+title-page of Das wohltemperirte Clavier (‘The welltuned keyboard’, hereafter WTC).2 His presentation
+of the required tuning method is the sinuous spiral
+he drew at the top of the title-page (illus.1). It
+provides a set of tempering instructions for harpsichords, clavichords or organs, completely describing
+the distinctive character he expected for every key,
+every scale, every interval and every moment. The
+WTC is explicitly about tuning, the exploration of
+all possible tonalities (and not simply a transposition
+of a single major key sound, and a single minor key
+sound, to all possible positions).
+Until now music history had lost three crucial
+pieces of information: (1) that Bach ever wrote down
+any required keyboard-tuning method at all; (2) that
+this drawing is his precise schematic; and (3) the
+proper derivation of a set of instructions, arising
+from normal 17th-century temperament ordinaire
+practice.3
+Bach’s method is a practical one. It is easy to set
+quickly by ear, usable in all keys, with a pleasing
+
+J
+
+OHANN
+
+progression of key differences, and it yields convincing performances of the WTC. The book in its
+entirety shows that Bach was expert in tuning,
+expected a precise intonation on his keyboards, and
+allowed the sound to influence his creative imagination. As a guide to musicianship it teaches players to
+listen closely to the intervals produced in melody
+and harmony, as details of intonation can help to
+determine the Affekt, phrasing, articulation, tempo
+and accentuation of the music. The ears, the physical process of tuning, and the feel of the instrument
+during performance all support this. The music
+sounds so euphonious and pure that it seems otherworldly, especially after a lifetime of hearing the
+same music tuned differently.4
+This article in its two parts examines the temperament thoroughly from many angles, including some
+of the ‘dry, mathematical stuff’. For best direct perception of the material, however, it is important to
+set up this pattern of intonation on a keyboard and
+play with it!
+
+Background: the commas and other problems to
+be solved
+The choice of historically and musically appropriate
+keyboard temperaments always depends on the music
+to be played. What did the composer expect as a
+norm? What features of the music are to be highlighted? What is the appropriate balance of melody
+versus harmony? What key areas are visited during
+the composition? How many sharps and flats are in
+use, given that they might be tuned differently from
+one another? Does the composition have any special
+expressive effects to be brought out by the choice
+of temperament? What is the player/tuner’s skill
+
+Early Music, Vol. , No. © Oxford University Press 2005; all rights reserved
+doi:10.1093/em/cah037, available online at www.em.oupjournals.org
+
+3
+
+1 The top of the title-page of Bach’s Das wohltemperirte Clavier (1722). The complete page is reproduced in the 
+Grove dictionary, vol. i, p. , and in many modern editions of the music. (Staatsbibliothek zu Berlin Preußischer
+Kulturbesitz)
+
+(then or now!) setting up different selections on
+different occasions? What other instruments and
+voices are to be used with the keyboard? What is the
+role of musical taste and experience? Are the instruments to be left in a particular temperament for
+years, needing only minor maintenance, or to be
+retuned afresh on every occasion? To understand the
+nature of these problems of keyboard temperament
+along with Bach’s solution, a brief review of the basic
+tuning issues and nomenclature is required.
+All octaves are pure, as a rule. Within that
+premise, the tuning of 12-note keyboards presents
+three competing problems. The tuner must find a
+musically appropriate and tasteful distribution of
+three different error intervals. These intervals are
+as follows:
+Pythagorean comma (hereafter ‘PC’): twelve pure
+5ths, less seven octaves; the interval ⁵³¹⁴⁴¹⁄₅₂₄₂₈₈.
+A cycle of twelve consecutive 5ths must remove a
+total of one PC, to avoid overshooting the octave.
+Since there are twelve 5ths, some or all of them must
+be tuned too narrow by some portion(s) of the PC.
+On average the 5ths must be ¹⁄₁₂ PC too flat.
+Syntonic comma (hereafter ‘SC’): four pure 5ths, less
+two octaves and a pure major 3rd; the interval ⁸¹⁄₈₀.
+A cycle of four consecutive 5ths must remove one
+SC if the resulting major 3rd is to be pure. Since
+
+4
+
+early music
+
+february 2005
+
+there are twelve major 3rds, some or all of them
+must be tuned too wide by some portion(s) of the
+SC. On average the major 3rds must be ⁷⁄₁₁ SC too
+sharp. (This is a large and easily audible amount:
+approximately ¹⁄₇ of an equal-tempered semitone.)
+Lesser diesis (hereafter simply ‘diesis’): an octave, less
+three pure major 3rds; the interval ¹²⁸⁄₁₂₅. For example: if we tune three pure 3rds C–E, E–G , G –B we
+get the interval C–B which is much too flat to be an
+octave. As octaves must be pure, the diesis must be
+distributed to one or more of the three major 3rds
+making some or all of them wider than pure. This
+must be handled four times in any temperament: in
+the major 3rd stacks starting on F, C, G and D.
+The geometric difference between the PC and the SC
+is called the schisma. It is very nearly the same size as
+either ¹⁄₁₂ PC or ¹⁄ SC.
+Temperaments usually split either the PC or the
+SC into small, manageable portions of ¹⁄₁₂, ¹⁄₆, ¹⁄₅ or
+¹⁄₄. These are distributed among some or all of the
+5ths. The 5ths are made deliberately out of tune by
+these subtle amounts, such that the resulting 3rds
+and steps will have a pleasing balance in their own
+musical functions. For all practical purposes the ¹⁄₁₂
+PC temperaments are ¹⁄₁₁ SC temperaments, as
+those two small portions have very nearly the
+same size.
+
+The phrase ‘regular 5ths’ refers to two or more 5ths
+that are exactly the same size, geometrically. If they
+are tempered 5ths rather than pure 5ths, their tempering (not their beat rate!)5 is the same. They are slightly
+out of tune, each by the same amount. ‘Regular’ temperaments, also called ‘mean-tone’ temperaments,6
+are those that have eleven 5ths the same size, and one
+‘wolf’ 5th (truly a diminished 6th) allowed to be
+much too wide. The wolf 5th is a garbage area,
+absorbing all the accumulated amount by which the
+tempered 5ths overcompensated one PC.
+The regular temperaments tend to emphasize the
+quality of major 3rds, providing eight major 3rds
+that are pure or nearly so, and four misspelled major
+3rds (actually diminished 4ths) that absorb most of
+the SC and diesis errors. The composers then
+avoided these forbidden 3rds and wolf 5th, or used
+them very carefully as a special effect. In the regular
+temperaments the enharmonic pairs of notes (such
+as D and E ) are absolutely different from one
+another.
+Any major 3rds resulting from four consecutive
+pure 5ths are called ‘Pythagorean’ 3rds, being one SC
+too wide.7 The still wider diminished 4ths of regular
+temperaments are often called ‘wolves’, since they
+are scarcely more usable than the wolf 5th is. ‘Good’
+temperaments (for the Germans) are those in
+which none of the twelve major 3rds are worse than
+Pythagorean. The grammatically incorrect English
+phrase ‘well temperament’ is a poor translation
+from German, and sometimes carries the additional
+connotation that a temperament has no wide 5ths.
+‘Circulating’, ‘enharmonic’, ‘semi-regular’ or ‘irregular’ are better synonyms for ‘good temperament’: all
+24 major and minor triads are available, at least
+approximately, with no serious wolves anywhere.
+The tuning literature is filled with ‘cents’8 tables
+to measure small increments of pitch.9 Unfortunately, that measurement system itself clouds some of
+the most relevant issues regarding 3rds and 5ths.
+Notably, the cent scale biases its users toward a
+norm of equal temperament (100 cents per semitone, and 1,200 per octave), and it is scarcely useful
+for any work with pure major 3rds (approx. 386.31
+cents) or 5ths (approx. 701.96). It remains reasonably good for describing comparative sizes of tones
+and semitones.
+
+For analysis of 3rds and 5ths I prefer the
+‘Temperament Units’ (hereafter TU) method developed by the organ builder John Brombaugh, a much
+finer-grained logarithmic scale assigning 720 microscopic portions to the PC. The SC then works out to
+660 TU, the schisma 60, and the diesis 1260. All these
+numbers are easy to handle on paper or mentally,
+divisible by 3, 4, 5, 6 and 12: the fractions used in
+most descriptions of historical temperaments. The
+TU system therefore allows a theorist or player to
+work almost exclusively with integers, visualizing a
+temperament by merely adding and subtracting easy
+portions of commas. The SC error of any major 3rd
+is found by adding the four TU values of the intervening 5ths, and dividing by 660. Three major 3rds
+stacked up must distribute a total of 1,260 somehow.
+All twelve 5ths in a temperament must add up to
+Ϫ720 TU. Temperaments can therefore be diagrammed easily on paper, with simple numbers, and
+competing temperaments can be compared directly.
+
+Bach’s diagram
+Bach’s WTC title-page (shown in illus.1) is a precise
+abstraction of his preferred tuning method, in the
+form of a pen stroke with 11 large loops.
+A keyboard temperament can be described completely by the following parameters: (1) the relative
+sizes of eleven 5ths,10 (2) the orientation11 and (3) the
+knowledge that the endpoints do or do not connect
+to one another.12 Bach’s diagram has those elements,
+taking each large loop as an interval of a 5th
+(C–G–D–A etc.).13 The diagram has three loops with
+one knot in them, then three empty loops, then five
+loops with double knots. The letter C orients the
+home base, middle C: second from the right. The
+endpoints do not meet, but we assume they must
+make a not unpleasant 5th (specifically B –F), as
+the book contains compositions in all keys, no
+exceptions.
+As Bach pointed out in 1725, in his notes to teach
+principles of thorough-bass, one can write down
+only the rudiments of musical understanding, and
+then ‘The other precautions that must be observed
+will explain themselves better in oral instruction
+than in writing.’14 Thorough-bass, improvisation,
+composition, tuning and performance are all part
+of the same keyboard skill set to be learned from a
+
+early music
+
+february 2005
+
+5
+
+master teacher. Indeed, after one has learned Bach’s
+1722 lesson with regard to tuning, his practical
+instructions are elegant and easy to follow, setting
+his temperament quickly by ear. The report that
+Bach could prepare his entire harpsichord in
+15 minutes15 is nothing surprising; it is simple in this
+temperament, with a bit of practice and experience.
+How would Bach teach his pupils to tune harpsichords and clavichords, as part of their all-round
+instruction? Obviously, hands-on demonstrations
+and explanations at the instruments are required.
+This is practical common sense in learning how to
+listen closely, handling the tuning lever, and making
+careful adjustments to the instrument. It is also
+reflected in the well-known anecdote from the
+Marpurg–Kirnberger debates, where Marpurg tried
+to throw Kirnberger’s report of tuning lessons with
+Bach back into his face.16 There is little or no need
+for any of the tuning instructions to be written
+down, as to the specific method or methods. The
+teacher is there to guide the process, showing what
+to listen for and verifying the adjustments.
+Bach in 1722 applied for a teaching and supervisory position in Leipzig. How would the Leipzig
+authorities know, in his absence and before hiring
+him, how he might teach anything? Quite simply, he
+prepared a curriculum vitae, a set of written audition
+materials for the position.17
+Wolff has clarified this hypothesis further, regarding Bach’s use of the WTC (plus the Inventions/
+Sinfonias and Orgelbüchlein) as Leipzig audition
+material:
+Clearly, none of the works was specifically composed for
+Leipzig. However, more likely than not, the final preparation
+of the fair copies of the Well-Tempered Clavier and the
+Aufrichtige Anleitung—in particular, the carefully coordinated
+phraseology of their title-pages (including that supplementing
+the Orgel-Büchlein)—was calculated to impress the authorities
+in Leipzig, especially an old, experienced teacher like Rector
+Ernesti, and to persuade them of Bach’s teaching ability. That
+Bach later made extensive use of these distinctive instruction
+manuals is confirmed not only by the many copies made of
+them by Bach’s Leipzig pupils, but also by first-hand references such as Gerber’s to his lessons with Bach.
+
+This is corroborated by the observation that
+Bach’s wording in the middle section of the WTC
+title-page is a parody of the title-pages of Kuhnau’s
+Neuer Clavier-Übung (1689, 1692).19 Bach’s emphasis
+
+6
+
+early music
+
+february 2005
+
+here is the assertion that he will surpass the revered
+incumbent Kuhnau by handling all the ut re mi
+and re mi fa keys, not just most of them. Bach
+here demonstrates the complete flexibility he will
+bring as a candidate for Kuhnau’s job in Leipzig.
+The application to Leipzig would have given
+Bach motivation both for this wording, and to write
+down explicit temperament instructions here at
+all (as one more part of the complete package, his
+pedagogical fitness). The project accomplishes several tasks: showing his potential employers his
+teaching materials, showing dedication to do his
+best, demonstrating the way his music sounds, and
+allowing them to study his musical science themselves at their leisure.
+Bach’s pupils were expected to make their own
+handwritten copies of assigned pieces from the
+source manuscript; this was normal pedagogy. My
+hypothesis is this: for the Leipzig audition, Bach
+included the required tuning method by which his
+music is to be played,20 putting it at the top of the
+title-page of the WTC.
+To learn Bach’s tuning method, in his absence, all
+one has to do is to make a handwritten copy of the
+drawing (analogous to copying out pieces of music),
+understand what it means, and the lesson is learned.21
+This gave the Leipzig authorities everything they
+would need to know: set up a keyboard as specified,
+play through these three books of music, and be
+amazed at Bach’s skill in controlling musical sound,
+his readiness to teach, and his readiness to co-ordinate church music. As we shall see, the tuning
+method also influenced the content of the musical
+subjects themselves, in the WTC’s preludes and
+fugues. These show Bach’s readiness to derive
+invention from any inspiring source, including the
+subtle sounds of the intervals themselves.
+
+Translation of the diagram: the practical recipe
+How is a student (or the Leipzig board of examiners) to draw or trace the temperament diagram,
+making a copy to start learning the lesson? The solution, as students of drawing know, is to turn the
+page upside-down to see if it might be easier to copy
+that way. Indeed, Bach’s diagram is difficult to copy
+right-side-up, in ink without smudging, getting the
+loops and sub-loops in the same directions as his.
+
+But it is trivially easy for a right-handed person, left
+to right in a single flowing and sinuous stroke, with
+the page inverted. There are five loops with double
+spirals outward. Next come three empty loops. Next
+are three loops with single spirals inserted on the
+down-stroke, followed by the casual flourish at the
+end of the line.
+The note-names are mapped to Bach’s diagram as
+shown in illus.2. The note ‘C’ is in second position,
+where Bach wrote it (with the page turned rightside-up again). Each 5th is made either narrow or
+pure: normal practice in keyboard tuning. The
+details of this are made explicit by the diagram.
+The first part of the temperament, as is normal
+practice, is to establish the regularly tempered set of
+natural notes: F–C–G–D–A–E. The normal amount
+of tempering is ¹⁄₆ comma,22 leading to the major
+3rds F–A and C–E, which are each sharp by the
+amount known in ordinary musical experience. The
+five tempered 5ths here are the double spirals of
+the diagram.
+We have now arrived at E, and have built the size
+of C–E as the smallest (most nearly pure, most resonant) 3rd. A basic issue in temperament is to balance the three major 3rds that build a (pure) octave;
+therefore our attention turns to the next 3rd of the
+scale,23 the building of G upward from E such that it
+will also give a decent enharmonic A to our C.
+According to the diagram, we tune four pure 5ths
+E–B–F –C –G . . . and then, as indicated by the
+change in loop, we back the G downward slightly,
+narrowing that 5th, giving it a savoury Spur (like
+‘eine Spur Pfeffer’ to spice the cooking appropriately). This takes the edge off the very bright E–G ,
+tastefully. And, sure enough, this G played with C
+passes as a very pleasant A .
+We are almost finished; for the final 3rd of the
+scale from A back to C, it remains only to continue
+G –D –A , again (as the loops show) giving the same
+tiny Spur of impurity to each 5th. We already have F
+
+from earlier. The G , D and A here will be serving
+duty also as A , E and B , and we need only ensure
+that the resulting 5th B –F is not obtrusively poor. If
+all the instructions here are followed carefully, it will
+be either very slightly wide (if we started with ¹⁄₆ PC
+in the naturals), or pure (if we started with ¹⁄₆ SC).24
+We check all our major 3rds: first F–A and C–E
+give the calm sound of regular ¹⁄₆ comma tuning.
+Then G–B, D–F , A–C and E–G become increasingly
+sharp and spicy. Finally, B–D , F –A , D –F, A –C,
+E –G, B –D and F–A all relax from the peak of E–G .
+We are ready to play and compose pieces in all keys.
+At the right side of Bach’s diagram (marked* in
+illus.2), the A does not join the beginning F; note
+the similar single knot in the flourish, probably representing its resulting ¹⁄₁₂ comma wide 5th. At the
+left side, note the three small loops: probably indicating the beginning beat rate of the F–A major 3rd,
+approximately three beats per second.25
+It can also be observed that the single Spur of the
+last three sharps, during the tempering process,
+works out to be half the normal tempering of the
+naturals, drawn appropriately as double Spuren!
+How could Bach have represented his temperament
+any more elegantly than this, without recourse to
+written words or numbers (both of which he
+disliked in his self-expression)?26
+To summarize Bach’s temperament bearing: five
+¹⁄₆ comma 5ths F–C–G–D–A–E; three pure 5ths
+E–B–F –C ; three ¹⁄₁₂ comma 5ths C –G –D –A ; end.
+Bach’s handwritten letter ‘C’ is there in its position,
+too, lest anyone start in some wrong place, or miss
+the point that this is a temperament recipe at all.
+Each little knot within the bigger loops indicates
+some unit of tempering to be applied to its 5th (that
+is, the appropriate amount of spice or wavering
+noise to introduce into its tuning, deliberately).
+That unit works out to ¹⁄₁₂ comma, portioned out as
+single, double, or none. The drawing is beautiful
+and elegant, like his music.
+
+2 The notes described by Bach’s loops, with the page turned upside-down to see (and copy) the schematic. This is the
+same graphic as illus.1, with the words removed.
+
+early music
+
+february 2005
+
+7
+
+Mathematical modelling of the same: scientific
+reproducibility
+To get the temperament exactly the same from day to
+day, and for mathematical analysis, it can be set onto
+the keyboard in a slightly different sequence. As with
+a problem-solving technique of mazes (working both
+forward and backward simultaneously), a tuner can
+set a temperament onto the keyboard in whatever
+sequence helps to get the job done accurately and
+comfortably, as long as the resulting layout is correct.
+Try the following step-by-step instructions:
+
+slightly to build a remarkably high G , and flats lowered slightly from their classic positions . . . giving
+complete flexibility across the keyboard. The aural
+magic happens in Bach’s specific details of those
+tasteful nudges. Since my April  discovery of
+this method, it has already received a thorough
+workout and confirmation beyond my own regular
+use. Andrew Manze has toured with it for orchestral
+continuo, and George Taylor has built it into the
+new Goshen College organ.
+
+1 Establish the naturals F–C–G–D–A–E in regular
+
+Why hasn’t this been found before?
+The following digest from the standard tuning literature and WTC literature should make it obvious
+why Bach’s diagram has not been treated as evidence for any particular unequal temperament.
+Historiography, while allowing for the possibility
+that Bach had a specific practical temperament, has
+pointed away from investigation of unequal temperaments, and away from any evidence that is
+outside the realm of words.
+Is Bach’s drawing on the WTC title-page worth
+any more than a quick glance? The Neue BachAusgabe (NBA) officially dismissed the spiral
+diagram, three times, as merely an ornamental
+flourish. (1) Bach-Dokumente, 1963: ‘Titelseite:
+Wohltemperiertes Klavier, Köthen, 1722. (. . .)
+Autograph. (. . .) [Ü]ber dem Text hs. Ornamente,
+unter dem Text großer Schlußschnörkel . . .’32
+(2) Kritischer Bericht (KB), 1989: ‘Titel, siehe
+Notenband, S. XIV und 1. (. . .) Über und unter dem
+Titel ornamentale Schnörkel.’33 The KB, as always
+with the NBA, is so thorough and imposing with
+detail, representing so many years of close scrutiny
+by the world’s top Bach scholars, it is surprising that
+the single most important piece of information at
+the top of the title-page could have been missed.
+(3) The Notenband itself (also 1989) presents a
+facsimile of the title-page, of course. But, on the
+opposite page of the same spread, only the words of
+Bach’s macaronic introduction (and their layout)
+are reproduced in modern transcription.34 The
+reader’s attention is drawn immediately to the
+legible modern transcription of the words, and away
+from the photograph.
+The Bach reader (1945; rev. edn 1966) presents the
+title-page in a clear English translation, preserving
+
+2
+3
+4
+
+5
+
+6
+
+¹⁄₆ PC; that is, set up the first half of ‘Vallotti’,
+which is already familiar to harpsichordists.27 The
+most practical single thing to know is that the
+major 3rd of F–A (both in the tenor octave below
+middle C) has about 3 beats per second.28 A second
+checkpoint is middle C up to E, with about
+4.5 beats per second.29
+Pure 5ths: E–B–F –C .
+Pure 5ths: F–B –E . (This is a step to put E /D
+exactly where it belongs.)
+Put G /A in place against C and E , slightly tempered from each (i.e. ¹⁄₁₂): the single Spuren in
+Bach’s diagram.
+Go back to B and lower it slightly, so that D –A is
+similarly a ¹⁄₁₂ 5th as shown by Bach’s diagram,
+and B –F becomes a slightly wide 5th.
+All octaves and unisons are pure.
+
+The results are shown in table 1; compare again with
+illus.1 and 2 to see the correspondence, and play
+through all the 5ths in the sequence of Bach’s
+drawing. The lesson is learned.
+For those who are most comfortable setting
+temperaments from an electronic device, the bottom
+two rows of the chart show the adjustments from
+equal temperament, to the nearest cent, reckoned
+either from C or A. The deviations from regular ¹⁄₆
+Pythagorean comma and regular ¹⁄₆ syntonic
+comma are also given, for keyboardists and ensembles accustomed to those standards.
+In the results from Bach’s drawing we have a set
+of the usual and regular ¹⁄₆ comma naturals; a pure
+B obtained from E; and then the remaining five accidentals are each tastefully adjusted: sharps raised
+
+8
+
+early music
+
+february 2005
+
+Table 1 Mathematical analysis of Bach’s temperament
+E
+
+B
+
+Bach () title-page of WTC: ¹⁄₆ PC
+Fifth in TU
+Ϫ
+Fifth in PC
+Ϫ¹⁄₁₂
+Fifth in SC
+Ϫ¹⁄₁₁
+Maj rd % SC
+.%
+Diesis portion
+.%
+Min rd % SC
+Ϫ.%
+Tone c
+.
+Semitone c
+.
+Enharmonic
+D
+Enharm err % PC
+.%
+d ¹⁄₆PC (C) c
+Ϫ.
+Error % PC
+Ϫ.%
+Primary function
+E
+d ¹⁄₆SC (C) c
+Ϫ.
+d ET (C) c
+Ϫ.
+d ET (A) c
+.
+
+F
+
+C
+
+G
+
+D
+
+A
+
+E
+
+B
+
+F
+
+C
+
+G
+
+
+¹⁄₁₂
+¹⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+A
+.%
+Ϫ.
+Ϫ.%
+B
+Ϫ.
+Ϫ.
+.
+
+Ϫ
+Ϫ¹⁄₆
+Ϫ²⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+E
+.%
+.
+.%
+F
+.
+.
+.
+
+Ϫ
+Ϫ¹⁄₆
+Ϫ²⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+B
+.%
+.
+.%
+C
+.
+.
+.
+
+Ϫ
+Ϫ¹⁄₆
+Ϫ²⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+Fx
+.%
+.
+.%
+G
+Ϫ.
+Ϫ.
+.
+
+Ϫ
+Ϫ¹⁄₆
+Ϫ²⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+Cx
+.%
+.
+.%
+D
+Ϫ.
+Ϫ.
+.
+
+Ϫ
+Ϫ¹⁄₆
+Ϫ²⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+B
+Ϫ.%
+.
+.%
+A
+Ϫ.
+Ϫ.
+.
+
+
+
+
+
+
+
+.%
+.%
+Ϫ.%
+.
+.
+F
+Ϫ.%
+.
+.%
+E
+Ϫ.
+Ϫ.
+Ϫ.
+
+.%
+.%
+Ϫ.%
+.
+.
+C
+Ϫ.%
+.
+.%
+B
+.
+Ϫ.
+.
+
+.%
+.%
+Ϫ.%
+.
+.
+G
+Ϫ.%
+.
+.%
+F
+.
+Ϫ.
+.
+
+Ϫ
+Ϫ¹⁄₁₂
+Ϫ¹⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+D
+Ϫ.%
+.
+.%
+C
+.
+Ϫ.
+.
+
+Ϫ
+Ϫ¹⁄₁₂
+Ϫ¹⁄₁₁
+.%
+.%
+Ϫ.%
+.
+.
+A
+Ϫ.%
+.
+.%
+G
+.
+Ϫ.
+.
+
+early music
+february 2005
+
+Major tetrachord
+Ut-Re
+Re-Mi
+Mi-Fa
+
+E -F-G-A
+.
+.
+.
+
+B -C-D-E
+.
+.
+.
+
+F-G-A-B
+.
+.
+.
+
+C-D-E-F
+.
+.
+.
+
+G-A-B-C
+.
+.
+.
+
+D-E-F -G A-B-C -D E-F -G -A B-C -D -E F -G -A -B
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+D -E -F-G
+.
+.
+.
+
+A -B -C-D
+.
+.
+.
+
+Minor tetrachord
+Re-Mi
+Mi-Fa
+Fa-Sol
+
+E -F-G -A
+.
+.
+.
+
+B -C-D -E
+.
+.
+.
+
+F-G-A -B
+.
+.
+.
+
+C-D-E -F
+.
+.
+.
+
+G-A-B -C D-E-F-G A-B-C-D E-F -G-A B-C -D-E F -G -A-B
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+C -D -E-F
+.
+.
+.
+
+G -A -B-C
+.
+.
+.
+
+Handling diesis
+within the octave
+(portions of )
+
+A -C
+E-G
+C-E
+
+
+
+
+
+D -F
+A-C
+F-A
+
+
+
+
+
+F -A
+D-F
+B -D
+
+
+
+
+
+B-D
+G-B
+E -G
+
+
+
+
+
+9
+
+only the words of the page and simulating their distinctive layout.35 The new Bach reader (1998; hereafter NBR) gives the facsimile, and then the same
+English translation as a paragraph of prose.36 As for
+calligraphic whimsy: the previous page in NBR
+reproduces the title-page of Anna Magdalena Bach’s
+notebook, from the same year, in her handwriting.
+The various spiral decorations on her letters are
+merely decorative flourishes, as far as I have been
+able to determine.37 With this juxtapositioning,
+then, it is easy for a reader to assume that all linedrawing flourishes are merely a bit of fun with the
+pen, and not to look closely at their details.
+Murray Barbour’s study Tuning and temperament,
+written as a dissertation in  and published in
+, is the classic text of the English-language tuning literature. It has launched the exploration of
+historical temperaments for countless 20th-century
+experts and dabblers. But he summarized:
+An equal temperament was needed for the keyboard works
+of Bach, both for clavier and for organ. It is generally agreed
+that Bach tuned the clavier equally. (. . .) The organ works of
+Bach show as great a range of modulation as his clavier works
+do. (. . .) The compass of Bach’s organ works as a whole is
+E –C , 25 degrees! In these works is a host of examples of triads in remote keys that would have been dreadfully dissonant
+in any sort of tuning except equal temperament.38
+
+Mainstream musicians of the early and middle 20th
+century, even the neoclassicists themselves, simply
+had no interest in turning back the clock to methods
+that had already been superseded by equal temperament in common practice. A typically dismissive view
+comes from Paul Hindemith in 1959: ‘[Unequal temperament is] the consideration of a lazy housemaid,
+hiding the gathered dirt under a corner of a rug.’39
+Bach himself is partly to blame for sending his
+devotees down a wrong path, with the word
+wohltemperirt. Werckmeister used that word
+frequently enough in his writings that many people
+have assumed Bach’s preferences to have something
+to do with Werckmeister.40
+Christoph Wolff’s authoritative biography of
+Bach tells readers the following, about tuning:
+[In the Inventions/Sinfonias, the Aufrichtige Anleitung] Bach
+explores the diatonic range of the tonal system without straying beyond the traditional framework of the fifteen keys (not
+exceeding four sharps or flats) that are playable in unequal
+temperament (a system of tuning in which the octave had not
+
+10
+
+early music
+
+february 2005
+
+yet been divided into twelve equal semitones) and that endow
+each key with a distinct character. (. . .) The revised key
+structure of the Aufrichtige Anleitung conforms to the uniformly ascending key scheme of The Well-Tempered Clavier,
+but illustrates how to differentiate between the conventional
+diatonic scheme, on the one hand, and the fully developed
+chromatic scheme of twenty-four keys based on the premise of
+equal temperament, on the other. Bach’s use of Andreas
+Werckmeister’s term ‘well-tempered’ (wohl temperirt) indicates
+his preference for a slightly modified system of tuning with ‘all
+the 3rds sharp’, enabling him to play in all twenty-four keys
+without losing the characteristic features of individual keys—
+a loss that occurs if the octave is divided into absolutely equal
+semitones (what was to become a new standard would have
+been regarded then as a serious drawback).41
+
+Wolff goes on further to connect Werckmeister,
+Bach and scientific progress. By implication, the
+reader automatically assumes that Bach’s ideas about
+tuning grew directly from Werckmeister’s work.
+Several articles by Peter Williams have brought
+out plenty of Werckmeister–Bach connections that
+have little to do with tuning issues.42 It is easy for a
+casual reader to infer that Bach drew his own temperament preferences from Werckmeister along
+with other technical details about organ-building
+and maintenance. Williams’s articles in Early music
+continued the 1980s counter-revolution toward
+reacceptance of equal temperament for Bach.
+If the ‘48’ was written as a set of instruction pieces for the
+young musician learning about temperament (this is the old
+chestnut about the well-tempered clavier) then some crucial
+things are not made clear to him: chiefly, what exactly does
+‘well-tempered’ mean (recently interpreted evidence suggests
+that it meant ‘equal temperament’ after all), how is he to tune
+by it, and what precisely do the pieces demonstrate about the
+24 keys other than how to get your fingers around them?
+
+Furthermore, Williams dismissed tuning as a
+‘cul-de-sac of a subject’.43
+The 2003 edition of Williams’s magnum opus, his
+survey of Bach’s organ music, further discourages
+the idea of taking unequal tuning seriously. For
+example, with regard to BWV566 in E or C, he wrote:
+A problem with the E major version being the original is the
+harmonies of bars 16–17, impossible in any unequal temperament and unusual in J. S. Bach, early or late. The progressions
+themselves, enharmonically notated, are not advanced
+(doubled leading notes!), but the passage of keys requires D
+major and E major to be equally sweet-tuned.44
+
+What is the casual reader or organ student to
+conclude, but that Bach expected equal temperament
+
+to solve such confusing problems? Williams himself
+has had a brilliant career of comprehensive musical
+analysis. He has addressed areas of performance
+practice that few others have ventured to explore
+so thoroughly, including an article about nonharmonic notes in harpsichord music.45 It seems
+unlikely, then, that he could have missed anything
+important about tuning!
+Rudolf Rasch’s tercentenary article in 1985 preempted the serious investigation of unequal temperaments. He pointed out that Werckmeister
+himself by the end of his life lost interest in the
+merits of unequal temperaments (which, again,
+does not necessarily have any bearing on Bach).
+[I]f the temperament is settled in such a way that all 5ths are
+tempered . . . by ¹⁄ of a comma, and carried out and tuned
+by an accurate ear, then there will surely be a well-tempered
+harmony through the entire circle of 5ths and throughout the
+keyboard. Which can be an example of how all pious and
+well-tempered people will live and rejoice in a consistent,
+equal and eternal harmony with God.46
+
+It is not too surprising that Werckmeister abandoned his own organ temperaments of the 1690s;
+the enharmonic notes in them do not circulate well
+at all for fully chromatic music, serving double duty
+in major 3rds.47 But, Werckmeister himself turned it
+into a moral or spiritual argument against diversity,
+rather than a technical issue.
+Rasch summed up further:
+What is the meaning of the term wohltemperirt in the title of
+Bach’s collection? If the use of the word in the theoretical
+works of Werckmeister and Sorge is followed, it must mean
+‘appropriately tuned’. The appropriate tuning for a work
+which progresses through all twenty-four keys can be derived
+from the given statements by Werckmeister, Neidhardt,
+Mattheson, and Sorge: equal temperament. (. . .) [O]ne may
+not say that wohltemperirt equals ‘equal-tempered’ but rather
+that wohltemperirt, in the context of music requiring all keys
+to be playable, is the equivalent of ‘equal-tempered’. (. . .)
+The conclusion must be that the quotations refer to the use of
+equal temperament, or something not perceptibly different.
+None of the authors cited considered Bach to adhere to any
+clear system of unequal temperament, although knowledge of
+unequal systems was widespread and easily available through
+the works of Sorge, Kirnberger, Marpurg, and others. Equal
+temperament was becoming the norm for tuning during the
+second half of the eighteenth century. If works of Bach like
+the WTC asked for a tuning substantially different from equal
+temperament, it is at least surprising that no eighteenthcentury author had said so.48
+
+Dominique Devie in 1990 countered Rasch’s tooeager insistence on equal temperament, as reported
+in his thorough and clearly reasoned book Le
+tempérament musical: philosophie, histoire, théorie
+et pratique.49 Rasch in 1985 had presented a clear
+summary of 20th-century reconstructions of hypothetical Bach-temperaments (by Kelletat, Kellner,
+Barnes and Billeter).50 Rasch rightly dismissed them
+for various reasons, and in doing so he made the
+idea of reconstruction itself look like a passing fad
+from the 1960s–70s. Devie covered that same
+ground again, partly in response to Rasch, partly
+to take a swing at esotericism (Kellner et al.) as an
+unscientific method of inquiry, and partly to present
+the state of scholarly research clearly to readers
+of French.
+One of Bach’s best-known pupils, Kirnberger,
+was himself a theorist both of composition and
+tuning. Kirnberger’s temperaments are very easy for
+tuning novices to set by ear, or to copy from preset
+selections in electronic tuning devices. Naturally
+enough, many people have believed that his published temperaments offer some reflection of his
+teacher’s practices. However, Kirnberger had a
+rather anachronistic goal to represent as many concepts in the simplest fractions possible, in the name
+of purity. This included his use of neighbouring
+fractions to approximate irrational roots,51 earning
+him the assessment from Marpurg (in his time), and
+Barbour and Lindley (in ours), that he was scarcely
+prepared at mathematics. In any case, Kirnberger’s
+own temperaments reflect his own musical/mathematical priorities, not Bach’s.
+Owen Jorgensen, a hero in the piano-tuning world,
+attempted to clarify the ‘well temperament’ issues:
+The systems published in the seventeenth century by Andreas
+Werckmeister for the well-tempered clavier are similar to
+equal temperament in that they are unrestrictive, circulating
+temperaments allowing modulation through all the keys
+without encountering wolf intervals. (. . .) These types of
+temperaments can no longer be classed as an early form
+of equal temperament because the basic philosophy of
+twentieth-century equal temperament is to promote atonality
+with a neutral homogenized sound that has no color contrasts
+and no variety among the keys. Therefore, during the last half
+of the twentieth century the original seventeenth-century
+systems for the well-tempered clavier have come to be known
+as well temperaments.52
+
+early music
+
+february 2005
+
+11
+
+Unfortunately, this once again implies that Bach
+followed Werckmeister’s layout of intervals at all. It
+also (as Jorgensen’s own earlier book had done)
+restricts the understanding of ‘well temperament’53
+to systems that have no wide 5ths, since that would
+cause ‘harmonic waste’ which according to
+Jorgensen is undesirable.54
+The author of the New Grove articles, Mark
+Lindley, attempted to clarify the issues of both
+nomenclature and unequal-temperament practice,
+and to call for appropriate scepticism (against the
+headstrong presentations of Kellner, especially).
+‘Well-tempered clavier’: a term used in particular by Bach to
+signify a tuning system suitable for all 24 keys. The fame of
+Bach’s 48 preludes and fugues (. . .) has led to the mistaken
+assumption that wohltemperirt was a standard technical term in
+Bach’s day to designate a particular tuning; and on the basis of
+this assumption a difference of opinion has arisen as to whether
+it was equal temperament. (. . .) It is doubtful whether Bach
+had any one secret mathematical formula of his own; he was
+not so mathematically inclined in matters of theory. (. . .) One
+point which emerges from a comprehensive study of Bach’s
+organ music is that the most heavily tempered major 3rd was
+the one above C /D . (. . .) [T]he tender effect of the relatively
+low intonation, in a ‘good’ temperament, of D (and, though to
+a lesser extent, of A ) when used as the 7th in a dominant 7th
+chord is tellingly exploited in such well-known choralepreludes as O Mensch bewein’ (BWV622) and Schmücke dich
+(BWV654). To tune really well for Bach, one should think in
+such terms and test with some characteristic examples of his
+fine use of the various notes of the chromatic scale.55
+
+Unfortunately, the expectation that D and A will
+be pitched expressively low is one that has been read
+into the music from Lindley’s extensive experience
+with the basic ‘workmaster’ shape,56 and from his
+own background as a developer of new temperaments
+within that same paradigm.57 And it does not necessarily have anything to do with the way Bach himself
+did organ maintenance, or worked at stringed keyboards. This dictionary entry also has a glaring
+omission. Where the temperament examples are
+provided, no temperaments are given that would
+cross Lindley’s observation about the quality of
+C –E . Most remarkably, Sorge’s 1758 temperament
+with the Bachian harmonic shape (see below) would
+be welcome in the New Grove discussion, at least to
+show that 18th-century opinion was not unanimous
+about these shapes. Lindley had included it in his
+brilliant 1987 article,58 noting especially Sorge’s own
+
+12
+
+early music
+
+february 2005
+
+assertions about this temperament’s suitability for
+Chorton organs with Cammerton orchestras. Lindley’s
+New Grove assertion about the necessarily worst
+C –E major 3rd therefore comes across as the only
+possible game in town, and the only thing that really
+varies is the rusticity index of the town (following
+Neidhardt’s various formulations). In short, the
+familiar workmaster shape (in various proportions)
+is presented as the only viable alternative to equal
+temperament. Temperaments that peak at E major
+are not judged as presentable.
+As he had done in 1985,59 and again with more
+speculative mathematics in 1997,60 Lindley presumed that Bach’s temperament must have been at
+some average position among contemporary solutions, and not extraordinarily different (even
+though Bach was, to most accounts, an extraordinary composer and performer). As my analysis in
+part 2 of this article will show, Bach’s music demands
+a temperament shape other than ‘workmaster’ to
+handle the enharmonic equivalences. The averaging
+of unworkable solutions merely delivers mediocrity.
+Lindley has been careful both in New Grove and in
+earlier writings61 to emphasize that one must listen to
+temperaments in action on appropriate instruments
+before making any judgments about suitability. I
+agree. It is necessary to play all the way through
+pieces, and not merely look at the key signature. I
+have certainly fallen prey to the latter shortcut myself;
+for many years I believed that Bach’s Inventions and
+Sinfonias celebrate the resources of slightly modified
+mean-tone (starting from either ¹⁄₅ or ¹⁄₆ comma;
+perhaps even an absolutely regular ¹⁄₆ comma). After
+all, the key signatures use the classic 15 keys of
+old-fashioned tuning. On a closer look, however, it is
+apparent that this book uses 24 different notes: B to
+C inclusive!62
+A problem from a different angle is in Lindley’s
+New Grove II ‘Temperaments’ article, where C. P. E.
+Bach is hailed as the 18th-century composer most
+likely to have used equal temperament.63 Lindley is
+once again careful to guide the reader away from
+inferences that C. P. E. necessarily got this from J. S.
+This scholarly scepticism is well placed.64 However,
+C. P. E.’s own keyboard treatise of 1753, a comprehensive survey of harmony, points out that only ‘most
+of’ the 5ths are tempered in his normal tuning.65
+
+That casts doubt on his presumed use of equal temperament. Furthermore, if the (tacit) argument is
+from C. P. E.’s deployment of flat keys in his music,
+such that equal temperament is supposedly the only
+reasonable solution, I would point out that it sets up
+an improper dichotomy. Yes, C. P. E.’s Sonatas in A
+major and E minor (w49/2 and 49/3) sound awful in
+the workmaster temperaments, due to the visitations of extreme keys. But, when these pieces are
+played in his father’s temperament, there are no
+such problems and the music has a brilliantly
+colourful ‘glow’.66
+Herbert Kellner’s long series of meretricious presentations had a good side. In the 1970s and 80s
+these articles at least raised public awareness of
+unequal possibilities, against the unquestioned
+mainstream assumptions of equal temperament. In
+his enthusiasm and diligence, the scientific invalidity of it all seemed to be a minor inconvenience, as
+Kellner’s invented temperament does sound musically plausible in some (especially 17th-century)
+music.67 It is a fine product, but mislabelled with the
+name of ‘Bach wohltemperirt’. Furthermore, the
+popularity of his work makes it appear (by example)
+that the derivation and assessment of temperaments
+cannot be properly scientific. His papers also took
+the pursuit of ‘proportional beating’ much too far.68
+At least it is a useful academic exercise for students
+of tuning to discern the technical and logical reasons
+why his conclusions are less convincing than they
+might first appear.
+Rasch again:
+During the nineteenth century and the first half of the
+twentieth, virtually nobody ever doubted the view that Bach’s
+WTC was intended to be played on an equal-tempered
+keyboard, and that wohltemperirt or ‘well-tempered’ meant
+‘equal-tempered’. This view was adopted as self-evident and
+not based on any particular research. During the last three
+decades [1950s–80s] doubts have been cast upon this opinion,
+and several musicologists have proposed unequal Bach
+temperaments, designed especially to serve the WTC. While
+they have looked for a variety of arguments as foundations for
+their Bach tunings, the resulting tunings are rather similar
+‘concentric’ tunings, not unlike Werckmeister III, Kirnberger
+III, Vallotti’s tuning, etc. Other authors have gone no further
+than stating that wohltemperirt should mean unequally
+tempered with possibilities for all twenty-four keys. The latter
+opinion has been shared by many musicians.69
+
+Again, such careful balance and scepticism of
+conclusions is the right scholarly thing to do, leaving
+the door slightly ajar to unequal possibilities.
+Unfortunately, the rest of the article has already led
+readers to assume that the issue is decided in favour
+of equal temperament for the WTC. The only
+unequal temperaments presented are the usual suspects, in which the traditional mean-tone extremities
+are harsher than E major is.
+Richard Jones, ending in 1994, prepared a
+superlative performance edition of WTC I, updating
+Tovey’s commentaries and providing the most
+thorough text-critical study available in English.70
+In the preface, however, for the question of temperament he said little beyond congratulating Rasch
+on clearing things up once and for all. Equal temperament was good enough for Werckmeister and
+his spiritual and practical followers. Therefore, it
+should be good enough for us, too, and why would
+Bach oppose that system?
+David Ledbetter’s book about the WTC (2002)71
+provides an admirable summary of tuning background and practice in Bach’s lifetime and into the
+next generation. Between this, Devie’s book, and
+Lindley’s ‘Stimmung und Temperatur’ essay, the
+history is covered as thoroughly as could be done
+without Bach’s solution in hand. Ledbetter argues,
+however, that tuning is not the main pedagogical
+issue of the WTC, and he argues against the taking of
+wohltemperirt as a term for any specific solution.
+Ledbetter’s exposition of the 1722 title-page72 treats
+only the words on the page; nothing about the
+ornamentale Schnörkel (as the NBA had put it).
+Furthermore, he has used Bach’s words (phrase by
+phrase) as the outline for his entire book (chapter by
+chapter). This is an excellent way to organize his
+material, but unfortunately it downplays any
+information that is not contained in words.
+Background about key character is available both
+in Ledbetter’s chapter ‘All the tones and semitones’
+and more thoroughly in Rita Steblin’s dissertation.73
+Their reports and assumptions about key character
+and colour, however, are from backgrounds of the
+workmaster temperament shape. Nothing about
+Bach’s particular arrangement of key character (as
+far as it derives from unequal temperament) is available either to confirm or refute the present findings.
+
+early music
+
+february 2005
+
+13
+
+Reports about A, E, B, F , D , A and E majors and C,
+F, B , E , D , G , C and F minors would be especially
+useful here, if they could be located directly in
+Bach’s milieu.
+In the 2003 paperback reprint of a currently
+popular book, Stuart Isacoff in his afterword summarized flatly, ‘The truth is, I don’t know what
+tunings Bach wanted. Neither does anyone else.’74
+His cursory and dismissive treatment of ‘well temperaments’ in general also leads readers away from
+giving them any serious musical consideration. A
+main point of his book is that modern science has
+allegedly triumphed in giving us equal temperament,
+‘the final solution’.75 Indeed, equal temperament as
+a modern standard eliminates important properties
+of tonal music, destroying diversity within melody
+and harmony.
+Many people are scarcely aware that alternative
+methods to tune keyboards exist at all. From a background of pianos and modern organs, the current
+satisfaction and success of generic tuning may make
+it unattractive to explore more specialized solutions.
+Or, to those who do have a bit of experience with
+unequal methods, the complexity of the field
+quickly becomes daunting, as a minefield for historians and players. Having two or three favourite
+methods in hand (a mean-tone variant or two, and
+perhaps a few workmasters, along with some vague
+ideas about their historical application to repertory),
+they stop exploring the bewildering array of additional choices. Unequal temperaments are treated
+like an outfit of clothing for the day, selected from
+very small wardrobes. The tuning might fit the
+‘body shape’ of the music or it might be horribly
+wrong . . . or all music could be forced into the
+shapeless uniform of equal temperament (as if all
+sharps and flats are created equal). In any case, that
+clothing of intonation is treated as a mere afterthought, not as the place to start building an
+interpretation. As for the ways in which intonation
+might affect phrasing, timing, tempo and more:
+keyboard players generally abdicate responsibility to
+understand it, but respond (if at all) to only the
+several methods already in the comfort zone. The
+standard assumption is, apparently: the fundamental key-colours are found in ‘Vallotti’ and/or
+‘Werckmeister III’, and all other temperaments are
+
+14
+
+early music
+
+february 2005
+
+merely refinements of that. But Bach’s temperament
+crosses that line, as its shape handles the keys beyond
+three sharps or flats in a profoundly different manner.
+The question of harpsichords versus organs versus
+clavichords remains wide open. Suppose an accomplished composer/performer/improviser had firm
+preferences of temperament installed at home or
+office (i.e. on harpsichords or clavichords), during
+composition and rehearsal. Such a musician would
+still be at the mercy of perhaps less than optimal
+layouts in performance on organs, or for any gig in
+which someone else set up the keyboards. (Let us
+remind ourselves: according to his son’s report, Bach
+insisted on tuning the keyboards himself, as no one
+else could get it to his satisfaction.)76 How much did
+or could organ temperaments be altered to suit the
+incumbent organist’s own artistic preferences (from
+technical, economic and political angles)? With
+small organs of stopped/shaded/sleeved flues it is
+relatively easy,77 but larger instruments with reeds
+and coned flues take considerably more work, and
+retuning can cause irreversible changes to the pipes.78
+Furthermore, the extant organ literature itself
+sometimes reflects a transposition or a transcription
+from keyboard tablatures. This again makes it difficult to discern what a composer’s original use of
+enharmonic notes was in practice . . . or indeed to
+know if the music sounded in tune at all, whatever
+the ideal intentions may have been. Conclusions
+from the scores are therefore only tentative at best.
+Still, Bach did publish the Schübler chorales and
+Clavierübung III in definitive format, and continued
+to update his personal copies of both.79 We can
+make at least some educated guesses about his practical intonation expectations for organ music, with
+his temperament installed on home stringed instruments or small organs.
+Finally, the autograph manuscript of the WTC
+itself has changed format in the 20th century, most
+notably (for present purposes) with damage from
+the ink itself, plus the trimming of the title-page’s
+margins.80 In all the facsimile reproductions I have
+seen in print, the page is cropped very closely to
+the edges of the diagram and has lost part of the
+strokes, both at the top and the right side. The
+standard reproductions make the spirals look merely
+decorative, and the proliferation of reproductions
+
+(all differing in grayscale clarity) make it appear that
+the page always had its present tiny margins. In July
+2004 John Brombaugh and his associate Doug Leedy
+supplied me with a jaw-dropper, a photographic
+reproduction from the second edition of Grove’s
+dictionary (1904–11),81 before the deterioration and
+the change of margins (see illus.). The temperament diagram is obviously not marginal at all, or a
+crammed-in afterthought, but an integral and
+obviously important part of the page, with plenty of
+white space around it. The better photograph of the
+whole page confirms even more clearly that the
+spirals and letter ‘C’ were Bach’s method to convey
+information about the required temperament,
+either secretly or overtly.
+Is the reconstruction of Bach’s temperament
+today merely a counter-counter-revolution to overturn equal temperament’s supremacy? I am sure
+that some will see the present article in that light. My
+concern, however, is simply to take the evidence of
+Bach’s title-page, and most importantly, Bach’s
+music itself, with the seriousness and thoroughness it
+deserves (see Part ). A viable alternative to equal
+temperament does exist in Bach’s own handwriting.
+Sorge knew such a sound in 1758, whether he got it
+from this title-page or more directly from Bach ten
+years earlier, or by study of Bach’s Leipzig organs (in
+Chorton) at any time. The distinctive harmonic
+shape is back above ground again now in 2005, and
+on the table for discussion.
+
+Origins and destinations
+Spitta, Barbour and Ledbetter all cite the anecdote
+about the 1706 tuning contest between the Jena
+organist Johann Nikolaus Bach and young
+Neidhardt. In all three instances the story is told
+from the (foregone) assumption that both contestants were attempting to set absolutely equal temperament. Nikolaus Bach won it by setting his set of
+8Ј flutes entirely by ear, while Neidhardt worked on
+his similar set from a monochord whose ratios he
+had worked out mathematically, matching the
+sounds from the string. All three writers apologize
+similarly for Neidhardt’s defeat, saying that the
+difficulty must have been in the technical area only.
+
+But look more closely at the conditions of the
+contest. I suspect that Neidhardt did achieve equal
+temperament or something indistinguishably close
+to it, while Nikolaus focused on a temperament that
+seems ‘equal’ to all but the most finicky keyboard
+geeks, but is more musically pleasing (more sensitive
+to the behaviours of the natural harmonic series).
+The 1722 Bach temperament seems equal in effect;
+I have confirmed this by playing it to (and with)
+many friends and colleagues, some of whom are
+professional instrumentalists and singers. The temperament is so suave that it is equal, in musical
+context . . . unless one listens very closely with the
+technical skills of a keyboard tuner by ear. One must
+play chords and melodic bits slowly in isolation, and
+explain exactly what to listen for, for these differences to be noticed in practice. Played in the context
+of tonal music, the differences among the keys are
+audible, but come across as different psychological
+effects rather than anything especially noticeable
+in pitch differences. This makes the temperament,
+as a whole, seem almost magically alive, while not
+remarkably unequal. Such a listening experiment as
+this should be confirmed more scientifically, of
+course, with all manner of listeners. The point is:
+reading the Nikolaus/Neidhardt story with this perspective in my ears and mind, I believe that the
+‘Bach’ temperament was already a family heirloom
+before Sebastian wrote it down in 1722.
+The judgement in favour of Nikolaus was, finally,
+from a professional singer who found the resulting
+B minor easier to sing with, ahead of Neidhardt’s.
+That is an excellent key for such a test (along with
+touching on everything else along the way), both
+with respect to melodic intervals and the behaviours
+of the triads and 7ths. The B minor tonic is calm,
+the dominant F major is the most resonant triad
+anywhere, and the nearby F minor, A major, D
+major, E major, C minor and diminished chords all
+have pleasing ‘glows’ to them. Sharp keys are less
+problematic anyway, and would have less bearing on
+close decisions in such a contest; musical ears can
+tolerate more deviation from too-sharp sharps than
+from too-flat flats. (To understand this in practice,
+set up a keyboard in regular ¹⁄₆ comma and play
+through music in all keys. Wrongly spelled notes
+such as D , A and E are quite high, but not as
+
+early music
+
+february 2005
+
+15
+
+bothersome as A , D , G and C .) To ears accustomed to the sounds and limitations of regular or
+mildly irregular layouts from E to G , the Bach solution of the flat side of the resources seems like magic,
+and comes across as ‘equal’ temperament.
+If Nikolaus in 1706 already had the ‘Bach family’
+temperament, is it possible he got it from his own
+father, Christoph, the Eisenach organist whose
+music Sebastian revered for its harmonic innovation and expressivity?82 Nikolaus himself went on to
+become an innovative instrument-builder, the first
+Bach to use the famous B–A–C–H musical motive in
+compositions, and by the late 1740s the oldest living
+relative of Sebastian. Admittedly, this ‘family temperament’ suggestion is speculation: and a conjecture that should be tested by better historians than I.
+The search for this temperament’s origin should be
+easier now that we know how it sounds, and having
+this (now) documented temperament as an alternative to the various Werckmeister and Bendeler
+options of the 1690s.
+Where did it go? The firmest expert witness is the
+writing of tuning expert Georg Andreas Sorge in
+1758. He had joined the Mizler society in 1747, the
+same month as Johann Sebastian Bach. His own
+writings about music theory and tuning, of the
+1740s, promoted equal temperament, Neidhardt layouts, and several of his own; he also in 1744 cited a
+Pythagorean comma version of the shape we know
+as ‘Kirnberger III’ more than 30 years ahead of
+Kirnberger’s syntonic comma presentation.83 All
+
+those unequal temperaments have the common
+Werckmeister/Neidhardt shape which merely tames
+but does not change the traditional mean-tone relationships (as to which keys are worst: A , D , F and B
+majors). May we call that shape ‘workmaster’?
+But, remarkably, in 1758 Sorge has jettisoned all
+that and promotes only two temperaments: mathematically equal temperament, and a new one whose
+shape treats the E major area the same way Bach’s
+does!84 On closer inspection from the perspective of
+Bach’s temperament, it becomes clear: eight of the
+twelve notes in it are identical with Bach’s. Sorge, the
+equal temperament fan, has made subtle and understandable changes to the other four. By lowering F
+(by ¹⁄₆ comma) and raising E and B (¹⁄₁₂ each,
+again pure with one another), he slightly widened
+each of the major 3rds F–A, C–E and G–B (which
+also tames the extremities of D –F, B–D and E–G
+accordingly). The lowering of F also converts B –F to
+be ¹⁄₁₂ narrow rather than ¹⁄₁₂ wide, i.e. removing its
+distinctiveness. Finally, the C /D is repositioned to
+be mean as a major 3rd between A and the new F. (It
+was also such a mean in Bach’s, with the higher F.)
+The net result of all this is that Sorge’s 1758 temperament has the same harmonic shape as Bach’s (see
+illus.), but is slightly gentler in those contours:85
+more like equal temperament. In summary, Sorge
+by 1758 had realized that the Bach shape is the only
+unequal one that really works for tonal music (and
+especially for Chorton organs), even though Sorge
+himself preferred equal temperament in theory.86
+
+3 Bach’s temperament in Chorton (organ tuned a tone higher than the orchestra), reinterpreted as it sounds in
+Cammerton to the players and singers reading their parts a tone higher.
+
+16
+
+early music
+
+february 2005
+
+I have a further hypothesis that the 1722 Bach
+temperament, or at least something with the same
+shape (may we call it the ‘brook’ shape?), remained
+C. P. E. Bach’s career temperament: and was also the
+ordinary temperament at the royal court during his
+tenure there. In his own treatise he remarked that
+only ‘most of’ the 5ths are tempered in his ordinary
+practice (and eight or nine of twelve is ‘most’), and
+more importantly, his musical examples in the book
+(and his broader keyboard oeuvre) work beautifully
+in this tuning.
+The flute treatise by Quantz confirms this court
+hypothesis. Quantz presents an exemplary Adagio,87
+to teach the keyboard accompanist how to play
+dynamics expressively by the harmonic tendencies
+of dissonances and consonance, listening to the
+sound of every moment. The piece includes 77
+dynamic markings in its 45 bars. I have played this
+piece using Bach’s tuning and noticed that the dissonant/consonant content of the harmony matches
+his dynamic scheme, with regard to the treatment of
+tension, resolution and surprise. Readers are invited
+to explore this same exercise, to hear the dynamic
+effects as they derive directly from the quality of
+intonation, the temperament’s subtle irregularities.
+In more equalized temperaments than Bach’s, or in
+regular ¹⁄₆ comma, these directional tendencies in
+the sound are minimized, and Quantz’s notated
+dynamics can seem artificial and overdone. Quantz
+himself worked directly with at least three former
+pupils of J. S. Bach (Johann Friedrich Agricola,
+Christoph Nichelmann and C. P. E. Bach), giving
+him plenty of opportunity to learn and play with the
+Bach temperament.
+Further confirmation of the Bach temperament at
+court is Sebastian’s Das musikalisches Opfer. The keyboard ricercars are adventurous enough that they
+have caused Lindley (several times) to assert in print
+that only equal temperament will do. However, they
+too work without problem in Bach’s temperament
+(or Sorge’s 1758), and draw interesting colours from
+keyboard instruments. Furthermore, the Canon per
+tonos has some startling effects when played by or
+with a keyboard tuned Bach’s way. As the king’s
+theme and its accompaniment rise through C minor,
+D minor and E minor, things seem normal enough
+(while markedly different in all three). Into F minor,
+
+G minor and B minor the sound is increasingly
+disturbing: ‘so shall the king’s fame increase’. Is such
+a hidden political statement, perhaps, part of the reason why the court never acknowledged the gift of this
+book, and Bach had it printed at his own expense to
+hand out to his friends? In Part  we will explore
+more fully such suggestions of meaning hidden in
+the sound.
+
+Ensemble music
+Because most of Bach’s naturals are tuned in the normal 18th-century regular temperament (¹⁄₆ comma),
+instrumentalists and singers find those pitches
+exactly where expected. B and the five accidentals are
+placed more expressively: increasingly sharp in the
+sequence B–F –C –G –D –A . Those pitches are
+smoothly connected to one another in pure or nearly
+pure 5ths, and easy to find by intuition and experience. (This is better demonstrated in practice than
+described in print.) As several colleagues have
+already reported to me from their concert performances, and as I have found by playing through
+Bach’s violin sonatas with a friend, this temperament
+is remarkably easy to use in ensemble, switching
+from Vallotti’s and other methods to which they
+were accustomed. The goal is not necessarily to
+match every pitch on the keyboard exactly,88 but
+rather to play as naturally and comfortably as possible, being free to explore expressive nuances and not
+worry about intonation at all, consciously. In
+December I used Bach’s tuning secretly for the continuo of Handel’s Messiah, and noticed that it conforms to the instinctive way string players handle
+intonation. No one remarked about the tuning at all,
+but only that the orchestral and continuo playing
+seemed especially beautiful and expressive.
+What about the accompaniment of vocal works in
+situations that originally had a Chorton/Cammerton
+split, with the keyboard player reading from a part
+notated a whole step below the orchestra’s?89 Most
+obviously, this group of compositions includes
+Bach’s vocal music from Leipzig. How well does
+Bach’s temperament fare in this situation, where the
+organ is treated as a transposing instrument in D?90
+Illus.3 shows Bach’s temperament in Chorton, i.e.
+sounding a tone higher than the rest of the orchestra
+in Cammerton. For example, as the organist reads
+
+early music
+
+february 2005
+
+17
+
+and plays in D major, the orchestra reads and plays
+in E major.91 This doubly labelled graph shows that
+in Bach’s expectation the Cammerton G and D major
+are the best in tune (which is not surprising for a
+string-based ensemble, and trumpets in D), and the
+Cammerton keys of F , D and B major are the worst:
+to be used least frequently in concerted vocal music.
+As a modern practical compromise, if the
+keyboard player(s) must read from scores or parts
+that have been transposed to Cammerton,92 the
+following ‘D’ temperament can be used to realign
+the transposition of Affekt. That is, it restores all the
+intervals to their proper positions from the orchestra’s and singers’ perspective.93 This version is
+derived from Bach’s diagram by imagining the note
+‘D’ in place of ‘C’ (where Bach wrote it, second from
+the right) and taking the series of 5ths from there, as
+before.
+G–D–A–E–B–F ¹⁄₆ comma; F –C –G –D pure; E –B –F–C
+¹⁄ comma
+
+At the outside ends the resulting 5th C–G is ¹⁄₁₂
+comma wide. All the other 5ths are narrow or pure,
+as shown.
+For an electronic tuning device: in cents values
+deviating from equal temperament, reckoning from
+A rather than C (so the A will match exactly the
+orchestra’s gospel A), that is:
+C (ϩ0), C (Ϫ4), D (ϩ2), E (ϩ0), E (Ϫ2), F (ϩ0), F (Ϫ6),
+G (ϩ4), G (Ϫ2), A (ϩ0), B (ϩ0), B (Ϫ4)
+
+Notice that this transposed temperament (in D)
+is especially easy starting from modern equal temperament, as the notes C, E , F, A and B are all in
+their normal modern positions according to electronic tuners.94
+Wind players should tune either to the keyboard’s
+A or to the tonic of the composition.95 The string
+players should tune open strings to the keyboard’s
+regular ¹⁄₆ comma G–D–A–E, and note the irregular
+(slightly lower) C.
+It should be emphasized here: this modern transposition of Bach’s temperament into D is for accompaniment only, to re-create the performance sound of
+the Chorton/Cammerton situation (from an assumption that Bach’s organs, pitched in Chorton, were
+tuned in his own temperament).96 I have played
+through both the B minor Mass and St Matthew
+
+18
+
+early music
+
+february 2005
+
+Passion in this; and although I have ‘known’ this
+music as a player and listener for 20 years, it is like
+hearing it for the first time.
+This remarkable temperament solves the classic
+problem of having the continuo organist play in
+Chorton, while the orchestra and singers reading in
+Cammerton can find pitches easily and be centred
+in the most resonant keys for themselves. Of course,
+for Bach himself this was not a ‘problem’ as he
+already knew the layout of his instruments—and his
+harmonic resources—before writing the music. He
+took advantage of this transposing situation, letting
+it aid the shape of the drama in his choices of keys
+and surprising chords, rather than treating it as an
+inconvenience or hardship.
+This ‘D’ version of Bach’s temperament should
+also be useful to the student of harmony and counterpoint, when using Bach chorales (C. P. E. Bach/
+Riemenschneider) as a textbook. If it can be
+ascertained that a particular chorale came from a
+Chorton/Cammerton situation (especially from the
+Leipzig cantatas), a play-through in this temperament reveals the crunchiness—or not—of any particular moment of harmony arising from motion of
+independent lines. Some dissonances that seem
+excruciating in equal temperament are hardly
+beyond ‘mild’ here, especially when used in weak
+metric positions in the bar, while other moments
+may stand out as surprisingly brisk. That is: the
+composition student is not getting an accurate
+assessment of Affekt, and the overall behaviour of
+counterpoint, by merely playing through Bach
+chorales on equal-tempered pianos and organs.
+Chorale harmonization is not independent of
+tuning issues. Analysis of text-setting and linear
+motion should take this into account: the Bach
+chorales have musical secrets (invisible on the
+page but palpable in the sound) waiting to be
+heard again. Vocal and theory/composition instructors might set up a rehearsal piano or harpsichord in
+this ‘D’ version, to explore these features in Bach’s
+vocal music.
+Part 2 of this article will discuss some of the implications of this discovery on our understanding of
+Bach’s keyboard music. A good deal of additional
+supporting evidence also appears on the Early music
+website, at http://www.em.oupjournals.org.
+
+Bradley Lehman is a harpsichordist, organist, composer and software engineer. His doctoral degree
+(University of Michigan, 1994) is in harpsichord performance, and he also holds master’s degrees in
+both historical musicology and the other early keyboard instruments. bpl@umich.edu
+In this exciting project I wish to thank
+especially the following individuals for
+discussions, arguments, experimentation,
+patience, research assistance, and
+suggested improvements as the article
+took shape. After my wife and daughter,
+the list is alphabetical, and I apologize in
+advance if I have forgotten anyone!
+Gloria Rhodes, Afton Rhodes-Lehman;
+John Brombaugh, Bradley Brookshire,
+Owen Byer, Matthew Dirst, Ross Duffin,
+Dale Gedcke, Uri Golomb, David
+Gordon, Keith Hill, Robert Hill, David
+Hitchin, Evan Jones, Doug Leedy,
+Rebecca Lloyd, Andrew Manze, James
+Morrison, Veva Mumaw, Debra Nagy,
+Johan Norrback, Ibo Ortgies, John Pike,
+Paul Poletti, Bruce Shull, David
+Smucker, Eric Stoltzfus, Philip Stoltzfus,
+George Taylor, Yo Tomita, Jennifer
+Ulrich, Robert Utterback, Anna Vriend,
+Kristian Wegscheider and Craig Wright.
+My gratitude goes also to the authors of
+the books and articles in this arcane and
+often thankless field of inquiry (keyboard
+tuning), and to the teachers who
+prepared me for this project many years
+ago; and above all, to Johann Sebastian
+Bach. The sound of his music makes all
+this work worthwhile.
+1 Carl Philipp Emanuel Bach, c.1774, in
+a letter to Johann Nikolaus Forkel:
+recounting the working methods of his
+father and only teacher. The new Bach
+reader, ed. H. T. David, A. Mendel and
+C. Wolff (New York, 1998), no.395;
+Bach-Dokumente, iii (1972), no.803.
+Forkel’s resulting biography of Bach is
+also included in The new Bach reader.
+2 ‘The appropriately-tuned keyboard’
+is another good title, suggested in
+R. Rasch, ‘Does “well-tempered” mean
+“equal-tempered”?’, Bach, Handel,
+Scarlatti tercentenary essays, ed. P.
+Williams (Cambridge, 1985),
+pp.293–310.
+3 ‘Ordinary’ temperament was, and
+remains, a practical tuning strategy:
+while preserving the naturals of a
+regular mean-tone temperament, the
+tuner tastefully raises the sharps and/or
+lowers the flats slightly from their
+mean-tone positions until the circle
+
+nearly meets itself, and therefore all
+tonalities are usable with subtle
+distinctions among them. Bach’s
+tuning specifies that amount of tasteful
+adjustment precisely, and calls also for
+a slightly raised B.
+4 The first public performance using
+this temperament, to my knowledge,
+was Robert Hill’s broadcast on Swiss
+radio, 6 May 2004, a few weeks after I
+notified him of my discovery. He
+played a programme of Bach, Handel
+and Scarlatti on his Cristofori-style
+fortepiano. It was also used on both
+organs in a performance of Bach’s
+St John Passion by Apollo’s Fire, June
+2004, set secretly by Ross Duffin, who
+told the other performers only that it
+was an experiment with ‘a new version
+of a well temperament’. Duffin
+reported to me: ‘The reviewer here
+referred to the orchestra as “welltuned.” In other words, it sounded
+great. (. . .) The musical advantages of
+the temperament are immediately clear
+to anyone who has tried it, and the
+impression on listeners is remarkable
+as well.’
+5 The ‘beat rate’ is the deliberate
+impurity of two notes forming an
+almost-pure interval. Upper harmonics
+of both notes have a frequency that is
+almost identical, at some point several
+octaves above the fundamental
+frequency, and the discrepancy sets up
+an interference pattern audible as a
+slow rhythmic wavering. Tuners count
+these wobbles to determine precise
+amounts of tempering. Two
+consecutive 5ths of equal size (equal
+amount of tempering) have beat rates
+in a 3:2 ratio; for example, G–D
+(flanking middle C) beats ²⁄₃ as fast as
+the D–A above it, like duplets against
+triplets.
+6 The historical debate continues: does
+(and did) ‘mean-tone’ refer only to a
+regular quarter syntonic comma, or to
+all the regular layouts generated by a
+consistent size of 5th? And, can
+divisions of the Pythagorean comma be
+considered ‘mean-tone’ at all, having
+nothing to do with ⁸⁰⁄₈₁? But all regular
+
+temperaments do place D as a ‘mean
+tone’ within whatever C–E major 3rd
+has been established, and in that sense
+they (and ‘Pythagorean’ tuning by pure
+5ths, and equal temperament) are
+‘mean-tone’ layouts, as far back as
+Grammateus. This problem of
+nomenclature complicates the tuning
+literature considerably.
+7 In this case, the word ‘Pythagorean’
+comes from the ancient system of
+tuning only by pure 5ths.
+8 The cents measurement, invented by
+Alexander John Ellis in the 19th
+century, is a modern logarithmic
+method of describing temperaments,
+with an assignment of 1,200 equal
+portions in the octave. That is, a cent is
+the 1200th root of 2.
+9 And, since the grain of cents is not
+fine enough for sufficient accuracy, we
+see the inanities of hundredths and
+thousandths of cents, as decimals.
+10 The twelfth 5th, actually an
+enharmonic diminished 6th, absorbs
+whatever ‘slack’ remains as the circle
+meets the beginning note.
+11 That is, the starting note and the
+direction of travel from each note to
+the next in the tuning process.
+12 That is, how well does the twelfth
+5th sound like a pure 5th or like any of
+the other 5ths? If it is reasonably near
+to those, enough not to offend the ear,
+the ‘circle of 5ths’ closes: and the
+temperament may be used for music in
+any key.
+13 The series of 5ths is the normal
+method to tune keyboard instruments
+by ear, listening to the quality of each
+5th and the quality of the resulting
+major 3rds.
+14 The Bach reader, ed. H. T. David
+and A. Mendel (New York, rev. edn
+1966), pp.390–93; New Bach reader, ed.
+David, Mendel and Wolff, no.214;
+Bach-Dokumente, iii, no.183.
+15 New Bach reader, ed. David, Mendel
+and Wolff, p.436 (Forkel’s biography,
+last page of chapter 3). Such a time
+limit is not an exaggeration; it is easily
+
+early music
+
+february 2005
+
+19
+
+within reach of an experienced tuner
+(as confirmed by my own practice, and
+by interview of colleagues), provided
+the bearing plan is simple enough to be
+set quickly.
+16 See especially New Bach reader, ed.
+David, Mendel and Wolff, no.363;
+Bach-Dokumente, iii, no.815; Bach
+reader, ed. David and Mendel,
+pp.447–50; and ‘Marpurg versus
+Kirnberger: the tuning controversy in
+Germany’, in R. Steblin, A history of key
+characteristics in the eighteenth and
+early nineteenth centuries (Rochester,
+NY, 2/2002).
+17 C. Wolff, Johann Sebastian Bach: the
+learned musician (New York, 2000),
+pp.218–30.
+18 Christoph Wolff, ‘Invention,
+composition, and the improvement of
+nature: apropos Bach the teacher and
+practical philosopher’, The keyboard in
+Baroque Europe, ed. C. Hogwood
+(Cambridge, 2003), p.135.
+19 This observation of the similarity of
+Bach’s and Kuhnau’s wording is from
+J. Lester, ‘The recognition of major and
+minor keys in German theory:
+1680–1730’, Journal of music theory, xxii
+(1978), pp.65–103.
+20 It also perhaps gave the Leipzig
+authorities an aural notice of the
+system he intended to install on the
+Leipzig organs.
+21 Obviously, one must also come to
+this with a reasonable practical
+background in the listening
+techniques, and the knowledge of
+what was normal in Bach’s milieu: the
+types of regular and modified-regular
+keyboard layouts in their everyday
+work.
+22 I shall return to this in Part , in the
+discussion of Sauveur, Tosi et al.
+23 Sorge also advocated such attention
+to 3rds of the octave, rather than any
+axis of duality C–F (or elsewhere).
+24 The SC interpretation of Bach’s
+drawing is given in the supplementary
+materials on the website. I thank Ross
+Duffin and Debra Nagy for discussion
+of this, reading an early draft of the
+present work: they helped me to discard
+my own preference for the SC reading
+and to focus better on the PC reading.
+25 Even without this information
+concerning the beat rate of F–A, the
+
+20
+
+early music
+
+necessity of ¹⁄₆ comma as the basic
+tempering of the naturals can be
+inferred. It is obvious both from
+historical context and through trialand-error experimentation with the
+pattern.
+26 As noted above, C. P. E. Bach cited
+his father’s dislike of ‘dry,
+mathematical stuff’. Bach’s dislike of
+written expression is also remarkable.
+We have already seen his thoroughbass remarks here. His treatise of
+counterpoint, Die Kunst der Fuge, has
+no explication in words; the points are
+made entirely by musical example.
+And, instead of trying to defend
+himself or his art against public
+criticism, he hired the university
+professor Birnbaum to represent him
+(New Bach reader, ed. David, Mendel
+and Wolff, pp.337ff.; Christoph Wolff,
+Essays, chapter 32; Wolff, Bach: the
+learned musician, pp.431ff.).
+27 See the supplementary materials on
+the website www.em.oupjournals.org
+28 A practical trick: it is easiest to hear
+and count this beat rate accurately
+using a major 10th, F–a.
+29 For aЈ ϭ 440 Hz: cЈ–eЈ has 4.5 and
+f–a has 3.0 beats (double the
+metronome speeds of 134 and 89).
+For aЈϭ 415 Hz: cЈ–eЈ has 4.2 and
+f–a has 2.8 beats (double the
+metronome speeds of 126 and 84).
+‘Beats’ are the audible interference
+patterns in the harmonics (overtones)
+of any two notes tuned almost to a
+pure interval. When a pure interval
+is made slightly narrow or wide, the
+beats increase in speed: and the
+interval’s ‘out-of-tuneness’ can be
+calibrated precisely by listening to
+their tempo.
+
+february 2005
+
+30 David Gordon and Andrew Manze
+used this temperament in the English
+Concert’s tour of the USA, and at the
+Wigmore Hall, during October and
+November 2004. They chose it for its
+all-purpose musical properties in the
+continuo, even though their tour
+repertory included no Bach! This, to
+me, is a particularly strong
+endorsement of its musicality.
+31 Taylor & Boody Organbuilders,
+Staunton Virginia, Opus . Goshen
+College Music Center, Goshen Indiana,
+my undergraduate alma mater.
+I inspected this organ in November
+and December, playing the formerly
+problematic Bach repertoire
+(see Part ). A recording will be
+available.
+32 Bach-Dokumente, i (1963), no.152.
+33 Neue Bach-Ausgabe, V/6.1 (WTC 1),
+Kritischer Bericht (1989), p.21.
+34 Neue Bach-Ausgabe, V/6.1 (WTC 1),
+pp.xiv–xv.
+35 Bach reader, ed. David and Mendel,
+p.85.
+36 New Bach reader, ed. David,
+Mendel and Wolff, no.90.
+37 New Bach reader, ed. David, Mendel
+and Wolff, no.88. Anna Magdalena,
+herself an excellent musician, of course
+knew how the home keyboard(s)
+sounded in her husband’s everyday
+tuning. So did the children, hearing
+music all the time. To them, this would
+all simply have been the normal way
+that keyboards were to be tuned; there
+would have been no need to write the
+method down, and it would not
+necessarily have been a secret, anyway.
+When the tuning sounds so right all
+the time, so unproblematic, why ever
+
+question how it’s done, or why it works
+as well as it does?
+38 J. M. Barbour, Tuning and
+temperament: a historical survey (East
+Lansing, 1951; new Dover edition,
+), pp.195–6.
+39 P. Hindemith, Komponist in seiner
+Welt (Zurich, 1959), p.114; cited in B.
+Billeter, Anweisung zum Stimmen von
+Tasteninstrumenten in verschiedenen
+Temperaturen (Berlin, 1979), p.12
+(translation mine).
+40 A good summary of
+Werckmeister’s usage is provided in
+Rasch, ‘Does “well-tempered” mean
+“equal-tempered”?’, pp.293–300.
+41 Wolff, Bach: the learned musician,
+pp.228–30.
+42 P. Williams, ‘Was Johann Sebastian
+Bach an organ expert or an acquisitive
+reader of Andreas Werckmeister?’
+Journal of the American Musical
+Instrument Society, xi (1985), pp.38–54,
+itself an expansion of P. Williams,
+‘J. S. Bach—Orgelsachverständiger
+unter dem Einfluss Andreas
+Werckmeisters?’, Bach-Jahrbuch, lxviii
+(1982), pp.131–42.
+43 P. Williams, ‘J. S. Bach’s
+Well-tempered clavier: a new approach’,
+Early music, xi (1983), pp.46–52,
+332–9, at pp.47–8.
+44 P. Williams, The organ music of
+J. S. Bach (Cambridge, 2/2003), p.160.
+Even with Bach’s temperament
+temporarily out of the picture, that
+analysis is questionable. In less suave
+temperaments there is a better chance
+that both D (enharmonically E ) and
+E major triads will be decent, for the
+E major version, than that both B and
+C major are.
+45 P. Williams, ‘The harpsichord
+acciaccatura: theory and practice in
+harmony, 1650–1750’, Musical
+quarterly, liv (1968), pp.503–23.
+46 Andreas Werckmeister recanting
+his previous work with unequal
+temperaments, in his (posthumous)
+Musicalische Paradoxal-Discourse
+(Quedlinburg, 1707), p.110; cited in
+Rasch, ‘Does “well-tempered” mean
+“equal-tempered”?’, p.299.
+47 Werckmeister’s own published
+harpsichord temperament of 1698
+addresses those enharmonic concerns
+
+directly and explicitly, focusing on the
+qualities of major 3rds. Still, in
+practice, his D –F results as the worst
+3rd of the 12. See the discussion in the
+excellent primer, P. Poletti,
+Temperaments for dummies (Utrecht,
+2001), available as a PDF download
+from www.polettipiano.com.
+48 Rasch, ‘Does “well-tempered”
+mean “equal-tempered”?’, pp.301–3.
+49 D. Devie, Le tempérament musical:
+philosophie, histoire, théorie et pratique
+(Béziers, 1990).
+50 The Barnes, Kellner and Kelletat
+temperaments are readily available in
+J. Barnes, ‘Bach’s keyboard
+temperament: internal evidence from
+the Well-tempered clavier’, Early music,
+vii (1979), pp.236–49, which includes a
+lesser-known earlier temperament, as a
+footnote. The Bernhard Billeter temperament (in his Anweisung zum
+Stimmen von Tasteninstrumenten in
+verschiedenen Temperaturen) is
+probably the least known of any of
+these. The temperament he proposed is
+essentially a reverse-engineered version
+of Kirnberger II (the one with the
+especially narrow 5ths, D–A–E),
+slightly moderated to ¹⁄₃ syntonic
+comma, and then read hypothetically
+back into the practice of Bach as an
+alleged modification from Silbermann.
+51 For example: ¹⁶¹⁄₁₆₀ and ¹⁶²⁄₁₆₁
+approximate the square root of ⁸¹⁄₈₀
+from opposite sides.
+52 O. Jorgensen, Tuning (East Lansing,
+1990), p.9.
+53 ‘Well temperament’ is ungrammatical, but has become
+common usage.
+54 Jorgensen’s references to ‘harmonic
+waste’ in Tuning are too numerous to
+mention individually.
+55 M. Lindley, ‘Well-tempered clavier’,
+New Grove II.
+56 By ‘workmaster’ I mean the
+Werckmeister/Neidhardt/Vallotti
+shape: temperaments that preserve the
+expectation from mean-tone layouts
+that F major or C major will have the
+most discordant major 3rds. My pun
+on Werckmeister’s name also implies
+that something is not quite right about
+the shape, like trying to use a cheap set
+of imported tools that do not quite fit
+the job requirements.
+
+early music
+
+february 2005
+
+21
+
+57 See, for example, Lindley’s
+‘Grosvenor’ temperament in the
+supplementary materials on the
+website.
+58 M. Lindley, ‘Stimmung und
+Temperatur’, Hören, Messen und
+Rechnen in der frühen Neuzeit, ed.
+F. Zaminer (Darmstadt, 1987),
+pp.109–331.
+59 M. Lindley, ‘J. S. Bach’s tuning’,
+Musical times, cxxvi (Dec 1985),
+pp.712–16.
+60 M. Lindley, ‘A quest for Bach’s
+ideal style of organ temperament’,
+Stimmungen in 17. und 18. Jahrhunderts,
+Michaelsteiner Konferenzberichte, lii,
+(Michaelstein, 1997), pp.45–67.
+61 M. Lindley, Lutes, viols and
+temperaments (Cambridge, 1984);
+Lindley, ‘J. S. Bach’s tuning’. Also, the
+previous incarnations of Lindley’s New
+Grove ‘Temperaments’ and ‘Welltempered clavier’ articles included
+similar observations.
+62 Notably, the F minor Sinfonia
+employs A and B , B and C , E and F ;
+and the E major pieces call for wellplaced extreme sharps, far beyond E
+major itself.
+63 M. Lindley, ‘Temperaments’, New
+Grove II.
+64 Lindley himself has taken a strong
+and consistently firm scholarly stance
+against the adoption of equal
+temperament for J. S. Bach’s music.
+Therefore, any notion that C. P. E.
+inherited equal temperament from his
+father must be handled carefully. The
+present article offers a third way out of
+that particular dilemma.
+65 Carl Philipp Emanuel Bach, in
+Versuch über die wahre Art das Clavier
+zu spielen (Berlin, 1753), paragraph 14
+of the introduction, writes that only
+‘most of’ the 5ths (‘meisten Quinten’)
+are tempered. Is this perhaps a
+description of the same temperament
+he learned from his father, his only
+teacher: with nine tempered 5ths and
+three pure? All the keys are musically
+usable, equally, without any startling
+anomalies; could that be what he
+meant as gleich rein? His own
+compositional style, with its bold
+harmonic surprises and cross-relations,
+is well served by the key colours and
+subtleties of his father’s temperament.
+
+22
+
+early music
+
+In the Versuch it appears that C. P. E.
+is merely contrasting the modern
+system (Wohltemperirt) with earlier
+ideals of regular mean-tone. In light of
+this, and on the musical evidence of
+playing through his compositions, I do
+not believe that C. P. E. ever
+abandoned this in favour of equal
+temperament.
+66 Again, there is no way to describe
+this adequately in words. It must be
+experienced at the keyboard.
+67 Kellner’s temperament is at its best
+in the music of Buxtehude, Scheidt and
+Scheidemann.
+68 Kellner promoted the mathematical
+truism that among regular ¹⁄₅ PC 5ths,
+the resulting major 3rd beats at the
+same rate as the 5ths. But this is of no
+value when listening to music, since it
+would be audible only if the three
+notes of a triad were played exactly
+simultaneously, and if nothing else
+were happening during such a
+sustained triad. It is useful information
+during the tuning process itself (by
+ear), and perhaps also to mystics; but,
+the 2:1 proportional beating of regular
+¹⁄₆ PC has just as much (or little)
+significance. Kellner’s over-promotion
+of the ⁶⁄₁ proportional beating in the B
+major triad of his temperament is
+more of the same: it is all salesmanship,
+the assignment of spiritual meaning to
+mathematical truisms, and inaudible
+during musical practice.
+69 Rasch, ‘Does “well-tempered”
+mean “equal-tempered”?’, p.308.
+70 The well-tempered clavier,
+Part I, ed. R. Jones (London: ABRSM,
+1994).
+71 D. Ledbetter, Bach’s Well-tempered
+clavier: the 48 preludes and fugues
+(New Haven, 2002), chap.2 ‘Welltempered’.
+72 Ledbetter, Bach’s Well-tempered
+clavier, pp.1–2.
+73 R. Steblin, A history of key
+characteristics in the eighteenth and
+early nineteenth centuries, covers the
+Marpurg–Kirnberger debates, and
+Mattheson and many others, but
+provides nothing about Sorge.
+74 S. Isacoff, Temperament: how music
+became a battleground for the great
+minds of Western civilization (London,
+2002), p.249.
+
+february 2005
+
+75 Isacoff, Temperament, p.6; the form
+of words is horribly ironic.
+
+are melodically different from one
+another.
+
+76 New Bach reader, ed. David,
+Mendel and Wolff, no.394; BachDokumente, iii, no.801.
+
+86 Another possibility: Bach himself
+may have refined the temperament
+thus in practice, between 1722 and any
+encounters with Sorge in the 1740s.
+
+77 I have tuned numerous continuo
+organs and maintained small church
+instruments, and I assume that other
+professional organists of the 17th and
+18th centuries probably had more
+practised skill at this than I do.
+78 The most drastic changes of
+temperament require trimming or
+addition of pipe material.
+79 See C. Wolff, ‘Bach’s personal copy
+of the Schübler Chorales’, in J. S. Bach
+as organist, ed. G. B. Stauffer and E.
+May (London, 1986), pp.121–32. Also C.
+Wolff, Bach: essays on his life and music
+(Cambridge, MA, 1991), pp.178–86. For
+Clavierübung III, see the remarks in
+Williams, The organ music of J. S. Bach,
+p.387.
+80 The preservation process is
+described in Ledbetter, Bach’s Welltempered clavier, p.6.
+81 Grove’s dictionary of music and
+musicians (London, 1904–11), i, p.152.
+82 See Spitta.
+83 Devie, Le tempérament musical,
+p.142.
+84 Devie, Le tempérament musical,
+pp.142–3; Lindley, ‘Stimmung und
+Temperatur’, pp.272–6.
+85 Also, the tetrachords and
+hexachords are not absolutely unique
+any more, as Bach’s are (see Table 
+and Part  of this article), but most keys
+
+87 Johann Joachim Quantz, Versuch
+einer Anweisung die Flöte traversiere zu
+spielen (1752), trans. E. R. Reilly as On
+playing the flute (Boston, MA, 2/1985),
+pp.257–8.
+88 See especially Ross Duffin’s web
+essay, ‘Why I hate Vallotti’ at
+http://music.cwru.edu/duffin/Vallotti/,
+and B. Haynes, ‘Beyond temperament:
+non-keyboard intonation in the 17th
+and 18th centuries’, Early music, xix
+(1991), pp.357–81.
+89 The extant parts are listed in the
+appendices of L. Dreyfus, Bach’s
+continuo group: players and practices in
+his vocal works (Cambridge, MA, 1987).
+90 B. Haynes, ‘Questions of tonality in
+Bach’s cantatas: the woodwind
+perspective’, Journal of the American
+Musical Instrument Society, xii (1986).
+The article is an excellent presentation
+of these specific issues, including
+commentary about the available
+editions and the transpositions that
+have been done in them.
+91 Facsimile excerpts of the autograph
+score from the cantata BWV49 (1726,
+Leipzig) appear in Dreyfus, Bach’s
+continuo group, pp.65–6. I have
+performed this cantata in an ensemble
+where the keyboards were tuned to
+Vallotti’s temperament, and the organ
+part was transposed to E instead of
+
+Bach’s notated D. The orchestra had
+difficulty matching pitches in this
+situation, especially where the music
+ventures into double sharps. If Bach’s
+temperament had been available to us
+at the time, the orchestra would have
+been tuning to the sound of Bach’s D
+major, which is considerably easier.
+92 In the standard modern
+performance materials for Bach’s
+vocal works, this has already been
+done. Bach’s normal transposing
+situation is now abnormal for modern
+players! As Haynes remarks in
+‘Questions of tonality in Bach’s
+cantatas’, this transposition in modern
+editions sometimes makes
+performance of these pieces more
+difficult than it should be.
+93 This is a subtle distinction, to be
+sure, but the aim here is to restore the
+expected sound of Bach’s ensemble
+overall, as closely as possible, in the
+artificial situation where the organ is
+no longer a ‘transposing’ instrument.
+94 This is equivalent to the
+observation (in Part  of this article)
+that the subset E , G, A , B , D in the
+untransposed version is a set of five
+notes from equal temperament. The
+comfort of singers and orchestral
+players is a commodity not to be
+underestimated! Musicians need a
+familiar terrain on which to do their
+best work, being most freely expressive.
+95 In Bach’s church services, the
+orchestra tuned quietly during an
+organ prelude in an appropriate key.
+96 See also Sorge’s 1758 temperament,
+referenced above.
+
+Advertisers!
+Contact Jane Beeson on +44 (0) 1652 678230
+or at
+em.adverts@btopenworld.com
+
+early music
+
+february 2005
+
+23
+
+24
+
+early music
+
+february 2005
+
+

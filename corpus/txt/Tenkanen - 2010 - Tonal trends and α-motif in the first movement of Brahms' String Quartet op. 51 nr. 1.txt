@@ -1,0 +1,946 @@
+This article was downloaded by:
+On: 25 April 2011
+Access details: Access Details: Free Access
+Publisher Taylor & Francis
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 3741 Mortimer Street, London W1T 3JH, UK
+
+Journal of Mathematics and Music
+
+Publication details, including instructions for authors and subscription information:
+http://www.informaworld.com/smpp/title~content=t741809807
+
+Tonal trends and α-motif in the first movement of Brahms' String Quartet
+op. 51 nr. 1
+Atte Tenkanena
+a
+Department of Musicology, University of Turku, Turun yliopisto, Finland
+Online publication date: 20 October 2010
+
+To cite this Article Tenkanen, Atte(2010) 'Tonal trends and α-motif in the first movement of Brahms' String Quartet op. 51
+
+nr. 1', Journal of Mathematics and Music, 4: 2, 93 — 106
+To link to this Article: DOI: 10.1080/17459737.2010.512745
+URL: http://dx.doi.org/10.1080/17459737.2010.512745
+
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf
+This article may be used for research, teaching and private study purposes. Any substantial or
+systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or
+distribution in any form to anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses
+should be independently verified with primary sources. The publisher shall not be liable for any loss,
+actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly
+or indirectly in connection with or arising out of the use of this material.
+
+Journal of Mathematics and Music
+Vol. 4, No. 2, July 2010, 93–106
+
+Tonal trends and α-motif in the ﬁrst movement of Brahms’
+String Quartet op. 51 nr. 1
+Atte Tenkanen*
+Department of Musicology, University of Turku, 20014 Turun yliopisto, Finland
+
+Downloaded At: 13:48 25 April 2011
+
+(Received 31 August 2009; ﬁnal version received 22 July 2010 )
+In this paper, we study the ﬁrst movement of Brahms’ op. 51 nr. 1 in two musical dimensions. On the one
+hand, we investigate tonal trends and tonal extremes. On the other, we study the positions of Forte’s (and
+Huron’s) α-motif in relation to the musical form. We ﬁnd that α-motives are especially prevalent in the
+development section. We also combine these two musical dimensions to see whether the α-motives have
+some relation to tonal trends. They proved to occur more prominently in remote tonal regions than in those
+near the main tonality.
+Keywords: comparison structure analysis; tonal distance; motivic analysis; tonal principal component
+
+1. Introduction
+The aim of this article is to propose a computational study of the ﬁrst movement of Brahms’ String
+Quartet op. 51 nr. 1 in relation to two analytical aspects. We investigate the tonal evolution in the
+piece. Instead of focusing on key identiﬁcations that is often the aim in computer-assisted tonal
+analyses [1,2], the purpose of what we call comparison structure analysis (CSA) [3] is to ﬁnd
+(i) tonal trends (or tonal stability) according to some reference pitch-class (pc) set and (ii) tonal
+extremes, i.e. musical segments that represent tonally the farthest points in the composition as
+far as their tonal stability values, compared with all musical segments, are concerned. We also
+study, statistically, the positions of Forte’s and (Huron’s) α-motif in relation to musical form and
+tonality (based on our CSA).
+The aim of our automated approach to tonality analysis is ﬁrst and foremost practical: to
+produce visual representations of dynamic musical properties by evaluating the prevalence of a
+chosen musical data structure evolving through a musical piece. CSA uses concepts and techniques drawn from traditional music analysis and music information retrieval (MIR). Theoretically
+deﬁned musical entities, such as set classes, pc sets or particular rhythm patterns are detected in
+compositions using pattern extraction and pattern comparison algorithms that are typical within
+the ﬁeld of MIR. Our CSA approach can be applied to monophonic as well as polyphonic music.
+*Email: attenka@utu.ﬁ
+
+ISSN 1745-9737 print/ISSN 1745-9745 online
+© 2010 Taylor & Francis
+DOI: 10.1080/17459737.2010.512745
+http://www.informaworld.com
+
+Downloaded At: 13:48 25 April 2011
+
+94
+
+A. Tenkanen
+
+In CSA, continuous musical data are automatically segmented into segments of the same cardinality and thereafter these segments are compared against a comparison structure (CS) using a
+similarity function in relation to a speciﬁc music dimension. In other words, the latter procedure
+measures, according to the selected music dimension, the prevalence of the CS at each point
+of the composition. Since the musical dimension under investigation is tonality, we consider pc
+information of the piece. Such tonality-based analyses with CSA have been demonstrated in [3,4].
+The data consist of pc that are clustered into (non-ordered) pc segments, representing pc sets of
+equal cardinality.
+Since 1982, when Krumhansl and Kessler [5] introduced their probe tone weightings for major
+and minor key proﬁles, researchers in the ﬁeld have presented several successful applications
+for tonal analysis (e.g. Krumhansl–Schmuckler’s [6] algorithm and Sapp’s [2] application). In a
+way, our proposed CSA resembles their approaches that involve a key ﬁnding using key proﬁles
+and correlation. Technically speaking, their key proﬁles can be paralleled to our concept of CS.
+However, our approach is more ﬂexible, since the CS can be any possible representative of all pc
+sets, except from the empty set and the total chroma (not to mention the CS of dimensions other
+than tonality; more examples of the usage of CSA can be found in [7,8]), whereas the key proﬁles
+are ﬁxed.1
+The analysis procedure occurs in multiple phases and produces as its end product a (discrete)
+curve, called the tonality CSA curve according to the selected CS, that describes how tonality
+evolves away from CS within the analysed piece. Since other dimensions of music such as rhythm
+and melody could be treated as well using CSA, it would have been possible to compare different
+musical dimensions, for example, by measuring the correlation between these different CSA
+curves. However, due to the focus of the present Special Issue, we decided in this study to consider
+instead the occurrences of Forte’s [9] α-motif according to their placement in the musical form
+and in their tonal environment with the resulting tonality CSA curve by using various appropriate
+statistical tools.
+
+2.
+
+CSA for tonal analysis
+
+CSA consists of two main parts. First the segmentation procedure yields pc sets of a ﬁxed cardinality extracted from the piece, called pc segments. The second part consists of the comparison
+procedures in which all pc segments are compared, using a tonal similarity distance function, ﬁrst
+with the so-called CS, a selected pc set, second with each other. For ﬁnding the CS, we use the
+principal component analysis (PCA) for all pc segments.
+2.1. Segmentation procedures
+CSA depends on an automatic ﬁxed-length segmentation that allows for a statistical or mathematical survey of the data. The problem is that there are, in theory, a combinatorial number of
+possible segmentations. For example, Hasty [10] has shown that multiple segmentations of the
+same material may be meaningfully developed from different perspectives. In the present analysis,
+we apply a segmentation method which aims at creating unordered pc set clusters, presented in
+[3]. The idea in the clustering segmentation is to associate at least one pc set of a selected ﬁxed
+segmentation cardinality nseg with each unique note onset time by collecting (i.e. clustering) the
+most proximate pc from its nearest environment. We denote each onset time as un , where b refers
+b
+to a bar number and n refers to an order number of the onset time in the bar. We associate each
+n
+onset time un with a cluster of k pc segments, the latter being denoted as sb k , where k = 1, 2, . . ..
+b
+For example, if nseg = 5 and there are two different note onset times in a bar, the segmentation
+
+Journal of Mathematics and Music
+Table 1.
+Segment
+
+95
+
+Pentachordal pc segments of bar 147.
+pc
+
+1
+
+1,2,4,6,10
+
+1
+
+1,4,6,10,11
+
+1
+s147
+2
+s147
+
+2
+
+1,2,4,6,11
+
+2
+
+1,2,6,10,11
+
+2
+
+2,4,6,10,11
+
+1
+s147
+2
+s147
+3
+s147
+
+Note: Add-on pc are underlined in each segment. In order to clarify
+22
+the notation, for example, s147 refers to the second note onset time
+in bar 147 and reports the second segment addressed to it.
+
+Downloaded At: 13:48 25 April 2011
+
+procedure produces at least two pentachords (i.e. two pc segments) associated with that bar as a
+chord description of its pitch environment (see Table 1 for examples of pc segments). The segmentation algorithm, which produces often – but not always – overlapping segments, proceeds
+with the following rules:
+(1) For each onset time, aim at deﬁning an associated segment or segments of the selected
+cardinality.
+(2) Vertical groupings are preferable.
+(3) If the number of pc at the onset exceeds the selected cardinality, assign all possible pc
+combinations to the onset.2
+(4) It is preferable to add missing pc from the onsets that are closest temporally.
+(5) If there are equally close alternatives before and after the onset, it is preferable to search for
+them systematically either from one or the other direction, but not from both directions, in
+order to diminish evolving ‘noise’ from the resulting data. For this analysis, we preferred
+searching for the missing pc ﬁrst before an onset.
+(6) To be even-handed, several alternatives of equal value may have to be assigned to the same
+onset.
+In order to illustrate the segmentation method, pentachordal segments for bar 147 of Brahms’
+quartet movement are represented in Table 1, cf. note example in Figure 1. The chord in the ﬁrst
+note onset time u1 consists of pc 1, 4, 6 and 10. Thus, we need one more pc to complete the
+147
+
+Figure 1. Bars 146–148 of the ﬁrst movement of Brahms op. 51 nr. 1 which include the two-note onsets used for the
+illustration of the segmentation method, cf. Table 1.
+
+Downloaded At: 13:48 25 April 2011
+
+96
+
+A. Tenkanen
+
+cardinality. We ﬁnd the nearest neighbour notes in the next onset, which includes two alternative
+11
+add-on pc: 2 and 11. Therefore, we get for u1 two pc segments: s147 = {1, 2, 4, 6, 10} and
+147
+12
+2
+s147 = {1, 4, 6, 10, 11}. The procedure is similar for u147 , which inherits the two missing pc from
+the nearest neighbour chord, that of u1 , resulting in a cluster of three pc segments.
+147
+The distance at which we gather the required pc – for fulﬁlling the segmentation cardinality –
+varies depending on the number of pc at the note onset itself and the pc density of the musical
+texture. Our aim is to assign averaged tonal distance values – associated with pc segments – to
+note onsets (for details, see Section 2.3). Therefore, we want to ensure that we do not collect the
+required pc too far from the pivotal note onset time by using a too large segmentation cardinality.
+For that reason, we ﬁrst evaluate in the whole score the average pc cardinality nbar over score
+¯
+bars and select the integer value nbar for the segmentation cardinality. It is then possible to
+¯
+check the average ‘width’ of the neighbourhoods covered by the constructed pc segments with the
+selected segmentation cardinality. Thereafter, we may decide to use a still smaller segmentation
+cardinality for the tonal analysis in order to ensure that the calculated averaged tonal distance
+values really function as tonal descriptions of the location in the composition to which they are
+indexed [3,7]. At the same time, we have to look out for the cardinality of the selected CS: the
+bigger the cardinality difference between the cardinality of the CS and the cardinality of segments,
+the lower the separating capacity of the measurements. What is even more important is to keep
+the cardinality of all pc segments the same: it can be shown that if the cardinality of pc segments
+varies, the procedure results in mutually arbitrary segment distance values [3, p. 28]. However,
+since all segments are of the same cardinality, the resulting values still remain commensurate. As
+was shown by using the so-called sensitivity analysis, CSA is quite a robust method as far as there
+is enough data available [3].
+
+2.2. Selection of the CS
+All pc segments are to be compared with a reference structure, the so-called CS. Since tonality is
+the music dimension under investigation in this paper, the CS is represented as a pc set in order to
+enable using, with pc segments, a tonality similarity function in the next section. In theory, any pc
+set could be selected for the comparison. But since we aim at somehow describing the evolution
+of the tonality of the analysed piece, a natural choice for CS is to take the diatonic scale related
+to the key signature in the tonal context (in the case of minor key, possibly the harmonic minor
+scale), since, intuitively speaking, it represents best the assumed main tonality. We have taken this
+approach in previous analyses [3,4]. However, it is possible that the tonalities of the piece are,
+for the most part, unrelated to the key signature. In order to attempt to extract the CS from the
+analysed music piece, we propose to assume that the tonality is reﬂected in pc segments as a whole
+collection. For that, we use the information included in pc segments and no other information.
+We thus decide to apply PCA, a simple, non-parametric method that aims at extracting relevant
+information from large and complicated data sets by reducing it to a lower dimensional space
+spanned by a few eigenvectors ‘in a way that best explains the variance in the data’ [11]. Thus, in
+our analysis, we reduce the information from a large number of pc segments.
+In PCA, the desired CS would be determined by calculating the ﬁrst principal component (PC)
+for all the pc segments. PCA has been applied in different tasks in the MIR system (e.g. [12, pp.
+103, 362]), and to computational music analysis, as well. Purwins et al. [13] used correspondence
+analysis (a similar method to PCA) in order to visualize the relation between keys and pc.
+We brieﬂy summarize the calculations to determine the ﬁrst PC, i.e. the approximation of the
+desired CS: we convert all the pc segments s into 12-dimensional binary vectors sbin ∈ Z12 . For
+2
+¯
+example, s = {0, 2, 3, 6, 7} is represented as sbin = (1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0). Let sbin be the
+mean 12-dimensional vector of all pc segments in their binary forms, and set sbin = sbin − sbin .
+ˆ
+¯
+
+Journal of Mathematics and Music
+
+97
+
+Let then B be a 12 × n matrix, in which columns are all sbin . The ﬁrst PC is the eigenvector v (of
+ˆ
+¯
+norm 1) of BBT corresponding to the largest eigenvalue. It is a 12-dimensional vector in R12 , and
+its components – that are most commonly solved numerically by the computer – are most likely
+not integers. Thus, it does not represent any pc set and does not directly correspond to any actual
+musical entity. However, it can be seen as a kind of mathematical condensation of the tonalities
+of the piece representing the maximum variance with all the pc segments. In other words, its pc
+set approximation could be considered as the closest pc set structure that most stabilizes all pc
+segments for the analysis. For testing the procedure in another context, PCA was applied to the
+ﬁrst 100 of Bach’s 371 chorales (the segmentation cardinality being 4) and thereafter the PCs
+were compared with 24 KK key proﬁles [6] using the Pearson correlation coefﬁcient. As a result,
+approximately 68 keys were able to be deﬁned correctly, in 22 cases the procedure proposed the
+dominant key (I->V or i->v) and in 10 cases some other alternative key. In this study, the ﬁrst PC
+proves to bring us back to our natural choice in deﬁning the CS: as will be seen in Section 5, the CS
+turns out to give support to the theoretical tonality denoted by the key signature of the movement.
+
+Downloaded At: 13:48 25 April 2011
+
+2.3. Tonal distance
+In the next phase, we compare all pc segments s with CS using Parncutt’s model that predicts the
+perceptual root(s) of a pc set together with the correlation distances [14].3 In Parncutt’s model,
+the tonality proﬁle of a pc set p is introduced as
+W (p) = (pbin · σ 0 (w), . . . , pbin · σ 11 (w)),
+where pbin is the binary 12-dimensional vector representation of p, w is a vector of ‘rootsupport weights’ and σ i indicates a cyclic permutation of w. In this study, we set the
+root-support vector w as (0.144, 0.052, 0.106, 0.095, 0.094, 0.125, 0.043, 0.129, 0.033,
+0.037, 0.036, 0.106). These are not the original weights that Parncutt [14] proposes.
+Instead, the weights have been ‘tuned’ anew by applying the so-called constraint satisfaction problem in the Monte Carlo process as presented in [4, Chapter 2.1]. Thus, σ 1 (w) =
+(0.106, 0.144, 0.052, 0.106, 0.095, 0.094, 0.125, 0.043, 0.129, 0.033, 0.037, 0.036), etc. The
+resulting vector W (p) forms a series of pc weights in relation to p for which the higher the value the
+more probably the associated pc represents the tonal centre of p. For example, for the C major triad,
+its binary vector representation is (1,0,0,0,1,0,0,1,0,0,0,0), and we obtain W (Cmajor triad) =
+(0.367, 0.244, 0.267, 0.183, 0.272, 0.341, 0.131, 0.306, 0.233, 0.260, 0.186, 0.210). Thus, the
+best candidate for the root pc of the C major triad is pc 0.
+In order to calculate a tonal distance d between two pc sets p1 and p2 , we set
+d(p1 , p2 ) = 1 − corr(W (p1 ), W (p2 )),
+where corr stands for the Pearson correlation coefﬁcient between the two tonality proﬁles W (p1 )
+and W (p2 ) [4]. While correlation values are between −1 and 1, and where 1 indicates a perfect
+positive linear relationship, the distance values between two pc sets are between 0 and 2. We thus
+decide to normalize the later values at a range of 0 to 1.
+In our CSA, we are interested in calculating the tonal distance between all pc segments si (p1 )
+and the selected CS (p2 ). To each note onset un , we assign the mean of all the tonal distance
+b
+n
+n
+values d(sb k , CS) for pc segments sb k assigned to the onset un . This results in what we call the
+b
+(linear interpolated) tonality CSA curve according to CS for which the horizontal axis is indexed
+by music onsets. The closer to 0 the value at an onset is, the closer the average tonality of the
+onset is to the selected CS. Thus, the CSA curve aims at representing the tonal distances from the
+CS and offering, as such, illustrative information about the form of the piece. Our tonality CSA
+
+98
+
+A. Tenkanen
+
+approach could be comparable to a simple instance of a Riemann logic in the sense of Noll and
+Garbers [15] in which CSA curves would be the associated sequence of 1 × 1-Riemann matrices,
+but which values would come from a scalar product instead of the Pearson correlation coefﬁcient.
+
+Downloaded At: 13:48 25 April 2011
+
+2.4. Relative tonal distance
+In order to determine the ‘extreme’ tonalities of the piece, we compare pc segments among them.
+For each pc segment s, we calculate its tonal distance d(s, si ) to all pc segments si in the piece.
+Similarly to the former section, we calculate the mean of average tonal distances of all pc segments
+s found at a given onset. We normalize these values at a range of 0 to 1. We call the resulting
+averaged (linear interpolation) construct the ‘relative CSA curve’ (i.e. for which the coordinates
+correspond to average distance values, between all pc segments, per onset). The closer to 0 the
+value at a given onset is, the closer the average tonality of the onset is to the average tonality of the
+piece. This curve aims at determining the most tonally extreme places of the piece. While such
+an approach may at least be mathematically interesting, there is no evidence that these somehow
+emerge perceptually from their immediate tonal context. Some empirical investigations could
+lead to partially address this issue, but this is beyond the scope of this paper.
+If the ﬁrst PC resulting from PCA (Section 2.2) is used to approximate the selected CS for the
+analysis (as it will turn out for the Brahms’ quartet analysis – see Section 5), it is expected that
+both, the CSA curve according to CS and the relative CSA curve, resemble each other since the
+CS would then result from another kind of the averaging calculation among all pc segments.
+3. The α-motif in the present study
+Forte’s original version of α-motif can be deﬁned with a pitch-interval representation: (+2, +1)
+and all its transpositions and contrapuntal transformations, i.e. (−2, −1), (+1, +2) and (−1, −2).
+Huron’s α-motif can be deﬁned using a duration and pitch-interval representation: ((long,0),
+(short,+2), (long,+1)) with all transpositions and contrapuntal transformations. Thus, Huron’s
+α-motif’s rhythmic properties are quite broadly deﬁned for computer-assisted analysis. For our
+study, we use another representation of the α-motif by taking some of Huron’s further suggestions
+into consideration.
+While considering his own deﬁnition of the α-motif, Huron suggests that ‘a better rhythmic
+feature might arise from characterizing the precise durational proportions (e.g. the 3:1 ratio of
+the dotted rhythm)’ [16, par. 57]. Huron also mentions that there is no reason for not including
+the diatonically justiﬁed pattern ±(2, 2) which occurs as a major variant of the original ±(2, 1)
+pattern. As far as the intervallic properties of the α-motif are concerned, Huron follows Forte’s
+convention but mentions that ‘at the time of Forte’s writing, the vocabulary of the set theory was
+unable to accommodate diatonic intervals, and so the (+2, +2) interval pattern was deﬁned as
+a separate motive’ [16, par. 50]. Thus in this study, we do not distinguish the otherwise similar
+melodic α-motifs, for example, in consecutive bars 235–236 (Figure 2).4 However, it is more
+difﬁcult to say whether the temporally immediate derivatives of α-motif in bar 124 (the chromatic
+(1, 1) variants) should also be taken into consideration.
+Even though Huron is able to show that the rhythmic properties of α-motif are important in
+deﬁning its signiﬁcance among motives, the question considering the selection of the motives
+still remains: which of the variants are selected and which are not? Buteau and Mazzola have
+shown that the number of motif variants can be restricted mathematically by using a motivic
+similarity function and a suitable similarity threshold value [17]. However, in the present study, we
+consider the intuitive selection of motif variants in a quite straightforward manner. We deﬁne our
+α-motif using an inter-onset interval and pitch-interval representation: ((3/8, +2), (1/8, +1)), and
+
+Journal of Mathematics and Music
+
+99
+
+Downloaded At: 13:48 25 April 2011
+
+Figure 2. Two motives in bars 235–236, marked in the note example, are both seen as instances of the α-motif according
+to the author’s deﬁnition.
+
+Figure 3. An example of the α-motif deﬁned for the present study.
+
+((3/8, −2), (1/8, −1)), ((3/8, +1), (1/8, +2)), ((3/8, −1), (1/8, −2)), ((3/8, +2), (1/8, +2)),
+((3/8, −2), (1/8, −2)), where 3/8 is a dotted quarter note duration and 1/8 is an eighth note
+duration. So, the occurrences of α-motif, for example, in bars 232–236 are taken into account.
+Thus, in our version of α-motif for the present analysis, we emphasize the rhythmic long–short
+contour between the ﬁrst two notes (Figure 3).
+3.1. Testing the α-motif using the tonality CSA curve
+Important themes of a sonata movement (and the motives they are built of) appear in their tonal
+environment and have, in this respect, a relation to tonality. Tonal elaborations, for their part, are
+mostly concentrated in the development section. As Schönberg formulates it, referring to themes
+in the development section of the sonata form, ‘themes of the ﬁrst division [exposition] and their
+derivatives are found in a constant modulatory movement through many and even through remote
+regions’ [18, p. 145]. He further explains the nature of the themes in the development section by
+mentioning that ‘the elaboration normally makes use of variants of previously “exposed” themes,
+seldom evolving musical ideas’ [19, p. 206]. In other words, when a sonata composer of the tonal
+era enriches music with tonal elaborations, the process may be ‘balanced’ by adhering mostly to
+the themes and their derivatives introduced earlier. Although this kind of generalization is justly
+open to criticism [20, pp. 30, 38, 50], we may rephrase the overall idea saying that the motives that
+are seen as important building units in the piece, are probably stressed in special tonal regions.
+As there are no comparable studies for reference concerning the mathematical relation between
+these two musical dimensions, we propose to simply compare the tonal regions of all occurrences
+of the α-motif versus those of other three-note motives. This may lead us to gain some supporting
+evidence of its special role in the piece.
+We propose to test whether the α-motif occurs in signiﬁcantly tonally distant regions. This
+proposed statistical analysis with the α-motif using the resulting CSA curve according to the
+
+100
+
+A. Tenkanen
+
+selected CS goes as follows: calculate the mean μ of the CSA curve values for a reference and
+the mean x of the values associated with the occurrences of the α-motif. The latter is performed
+¯
+with all three variants of α-motif, i.e. Forte’s, Huron’s and the one proposed by the author. By
+comparing the sample means and the mean of all distance values, we see whether the sample
+distribution is greater, as is assumed, than the mean of the population. A one-sample t-test is
+performed to test whether each sample mean is signiﬁcantly greater than the reference mean (H0 :
+mu∗ ≤ mu; level of signiﬁcance p = 0.05).5 This approach could beneﬁt from comparing it to
+similar tests with different compositions, thus using a kind of an ‘anticorpus’, as Conklin [21]
+calls such a control data. In short of such data, we derive all three-note motives (with inter-onset
+and pitch-interval representations) from the piece and see how the α-motif compares with them.
+
+4.
+
+Overview of the CSA approach
+
+Downloaded At: 13:48 25 April 2011
+
+The main components of the analytical procedure and its implementation follow the structure
+illustrated in Figure 4. All algorithms are implemented in R, a language and environment for
+
+Figure 4. The overall structure of analysis performed in the present study.
+
+Journal of Mathematics and Music
+
+101
+
+Downloaded At: 13:48 25 April 2011
+
+statistical computing and graphics [22]. Thus, our implementation uses standard functionalities
+from R, such as for PCA and the t-test.
+The original music ﬁle is in MIDI format that is entered as a comma-separated values ﬁle
+into R. Depending on the selected musical dimension for the analysis, music elements from the
+score are reduced and/or transformed. In the present analysis, the dimension is tonality, thus
+the notes’ pitch information is reduced to pc. The average number nb of pc in bars is calculated
+¯
+¯
+and yields the proposed segmentation cardinality nseg = nb . Note, however, that the analyst
+may change the segmentation cardinality, if wished. The clustering segmentation results in all
+pc segments of cardinality nseg for the analysis. It follows the selection of the CS. In this study,
+the CS is determined by the use of PCA, but it could directly be provided by the analyst. The
+chosen CS is compared with all the pc segments by calculating their tonal distances. This yields
+the resulting discrete tonality CSA curve according to the CS. In addition, tonal distance measures
+between all pairs of pc segments are calculated yielding the relative CSA curve. Note that for
+visual representation purposes (automatically carried out by the implementation), we may decide
+to average per bar values from both CSA curves since the number of different onsets, which would
+result in a sharp-edged curve, is rather large. Finally, for the speciﬁc purpose of this study, we
+extend our CSA approach and perform statistical tests with the α-motif related to their associated
+tonal regions.
+
+5. Measurements and analytical ﬁndings
+We present an elementary analysis of the ﬁrst movement of Brahms’ op. 51 nr. 1 String Quartet by
+using our computational method. There are altogether 2418 different onset times in 260 bars. The
+average number of pc per bar is nbar = 5.196, thus nseg = 5 is tentatively selected. The maximum
+¯
+number of different pc in a bar is 11 and happens only once, in the development, bar 124 (pc 10 is
+missing). Segmenting all the pc to pentachordal pc clusters produces 3315 pc segments altogether.
+Their mean segment width in quarter notes is 4.08, remembering that bars 1–223 consist of even
+six quarter notes and bars 224–260 of four quarter notes. Thus, we decided to keep nseg = 5,
+since in fact, 83% of the bars, the segment widths are smaller than the bar widths. The latter is
+highlighted in the CSA curve (see Figure 5(a) and (b)) as a bolder line, whereas for the remaining
+bars where the pc cardinality exceeds 4, the curve is represented with dots.
+The ﬁrst PC of the 3315 pentachordal pc segments is calculated and yields
+(0.54, −0.42, 0.10, 0.23, −0.23, 0.12, −0.42, 0.27, 0.21, −0.24, −0.22, 0.05). It is illustrated in
+Figure 6. The pc that have greater values are in order: 0, 7, 3, 8, 5, 2, 11, 10, 4, 9, 1 and 6, and it
+results in the tentatively selecting CS = {0, 2, 3, 5, 7, 8, 11} as the tonality comparative structure
+when strictly using positive values from the ﬁrst PC. In fact, it seems to emphasize the harmonic
+C minor scale, the key signature of the piece, and we decide to keep this selected CS for the
+analysis. We emphasize that this is a surprisingly positive result which is not self-evident in the
+light of much shorter and tonally simpler Bach chorales, where the right key was predicted only
+approximately in 70% of the cases. It should be mentioned that in our analysis, the CS is of
+different cardinality than the segments. This is not the most optimal situation, since we cannot
+ﬁnd an exact match and thus, all the resulting distance values are strictly positive. At the same
+time, this means that the separating capacity is slightly diminished, since lower the segmentation
+cardinality compared with the cardinality of CS, the more probable there are different subsets that
+may produce the same distance value.
+The resulting tonality CSA curve according to CS = {0, 2, 3, 5, 7, 8, 11}, averaged per music
+bar for visualization purposes, is illustrated in Figure 5(a). According to the curve, the music
+stays near the C minor tonality only shortly in all four main sections (Exposition, Development,
+Recapitulation and Coda). The curve attains the lowest values – the nearest tonal areas compared
+
+102
+
+A. Tenkanen
+Development
+
+Recapitulation
+
+Coda
+
+0.8
+0.2
+
+0.4
+
+0.6
+
+Fo
+
+Hu
+
+Te
+
+0.0
+
+Tonal distance
+
+1.0
+
+Exposition
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+Bar
+
+(a)
+Recapitulation
+
+Coda
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Development
+
+0.0
+
+Average tonal distance
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+Bar
+
+(b)
+
+0.0
+
+0.4
+
+Figure 5. (a) The tonality CSA curve according to CS = {0, 2, 3, 5, 7, 8, 11}, the harmonic C minor scale, of the ﬁrst
+movement of Brahms op. 51 nr. 1. It represents tonality distance values between all pc segments and CS, averaged over
+score bars for visualization purposes. The boundaries between the main sections (Exposition, Development, Recapitulation
+and Coda) are marked with bold dotted lines. The locations of α-motif are marked with vertical solid lines. ‘Fo’ refers
+to the occurrences of α-motif deﬁned by Forte, ‘Hu’ refers to Huron’s deﬁnition of α and ‘Te’ to the occurrences of the
+α-motif deﬁned by the author. (b) Relative tonality CSA curve averaged over score bars for visualization purposes. The
+maximum value is found in bar 147. The boundaries between the main sections are marked with bold dotted lines.
+
+−0.4
+
+Downloaded At: 13:48 25 April 2011
+
+Exposition
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Figure 6. The ﬁrst PC calculated from 3315 pentachordal pc segments. It suggests using the harmonic C minor scale
+as our CS.
+
+with the C minor tonality – on bars 109–110, 150, 183, 176–178, 238 and 242, the maximum
+being found in the development section, others found in recapitulation or coda.6 The highest
+values are reached at the end of the development section in bars 121, 112–114, 147, 106, 149,
+and most constantly in bars 128–131, where the music reaches the A major region (‘the main
+tonality of the development’ and ‘the climax of the development’ [9, p. 497, 499]), a tritone
+apart from Eb major, a relative key of C minor. The most salient features we observe are the
+ascending trends found in the exposition and development. This is the most classic example of
+Durchführung [18], but what is perhaps more striking is the sudden return from the remotest
+tonalities back to the C minor region. The music in the recapitulation and the coda moves closer
+to the C minor tonality than in the exposition and development. This may strengthen the sense of
+asserting the basic tonality, which is only weakly present in the previous sections. The function
+
+Downloaded At: 13:48 25 April 2011
+
+Journal of Mathematics and Music
+
+103
+
+of such a phenomenon might be comparable to the resolution of the dissonance, but in a much
+larger scale [20, p. 26].
+We investigate the internally ‘extreme’ tonalities by calculating the relative tonal CSA curve.
+This curve, seen in Figure 5(b), remarkably resembles that of the CSA curve in Figure 5(a). This
+is due to the fact that the music is intertwined around the C minor tonality, as was shown by the
+PCA. The most extraordinary tonalities are found in bars 118–120 (F minor), 147 (B minor),
+106 (V of B minor) and 124 (D major): three of them are part of the exposition. The most extreme
+tonality represents F minor and B minor, i.e. the farthermost tonalities in the circle of ﬁfths
+compared with C minor.
+Table 2 summarizes the total number of α-motif instances found in all four main sections of
+the movement and Figure 5(a) illustrates their distribution in the piece together with the CSA
+curve according to the harmonic C minor scale. We mark the locations of α-motif in Figure 5(a)
+with vertical solid lines. Independent of the deﬁnition of the α-motif, its occurrence density per
+bar is greatest in the development section (Forte, 1.20; Huron, 0.49 ; author, 0.69). This can be
+intuitively seen in Figure 5(a).
+In order to test whether the α-motif occurs in tonally ‘more distant regions’, we calculated
+the mean μ=0.417 of all values of the CSA curve, and the mean x of values associated with
+¯
+α-motif according to its three different representations as presented in Section 3.1: 0.439 (Forte),
+0.446 (Huron) and 0.463 (author). All these means are greater than μ thus hinting towards the
+fact that the α-motif may occur in more distant regions. The t-tests are performed with each of
+the three sample means x. All three versions of the α-motif seem to occur signiﬁcantly in more
+¯
+distant regions (Forte: t = 3.20, df = 1459, p = 0.0007; Huron: t = 1.99, df = 268, p = 0.024;
+author: t = 3.41, df = 338, p = 0.0004). This statistical result is independent of the segmentation
+cardinality.7 We further investigated the sample means of the CSA curve values associated with
+the three different representations of α-motif by the use of Monte Carlo simulations8 [23] of the
+sampling distribution (for sample size matching the α-motif sample under investigation) of all
+the CSA curve values. The results that support the results produced by the t-test are illustrated in
+Figure 7(a)–(c) (see the three histograms from the left).
+We also confronted our results about the α-motif to similar statistical investigations on 996
+different three-note motives found in the piece (with our inter-onset and pitch-interval representation, in which the four contrapuntal interval combinations are seen as the same motif). Among
+them, only six motives are as or more common than our α-motif (their number of occurrence
+being ≥ 67). Only two of them, ((1/8, 0), (1/8, ±1)) and ((1/8, 0), (1/8, ±2)), show statistical
+signiﬁcance (p < 0.05) when compared with the CSA curve, the most common (297 occurrences) being the motif with the pitch-interval pattern (0,1) (e.g. C-C-B) produces the mean
+0.0001); see Figure 7(d) (histogram from
+distance value of 0.641 (t = 40.62, df = 1309, p
+the right) for the Monte Carlo simulation. This chromatic motif, a derivative of α (cf. [9, p. 480])
+that Forte calls λ, occurs in rowing modulations (see, for instance, bars 115–131 in the score).
+It should be noted that these (0,1) motives include overlapping occurrences of its contrapuntal
+versions.
+
+Table 2. The total number of α-motif, according to Forte’s, Huron’s and author’s representations, in the Quartet
+movement.
+Exposition
+Forte
+Huron
+Tenkanen
+
+Development
+
+Recapitulation
+
+Coda
+
+Total
+
+72
+14
+10
+
+61
+25
+35
+
+68
+11
+9
+
+16
+0
+13
+
+217
+50
+67
+
+80000
+40000
+0
+
+50000
+
+Frequency
+
+120000
+
+100000 150000 200000
+
+A. Tenkanen
+
+0
+
+Frequency
+
+104
+
+0.40
+
+0.41
+
+0.42
+
+0.43
+
+0.35
+
+0.44
+
+0.40
+
+0.45
+
+(b)
+150000
+100000
+0
+
+50000
+
+Frequency
+
+100000
+50000
+0
+
+Frequency
+
+150000
+
+Huron’s alpha
+
+(a)
+
+Downloaded At: 13:48 25 April 2011
+
+Forte’s alpha
+
+0.36
+
+0.38
+
+0.40
+
+0.42
+
+0.44
+
+0.46
+
+0.48
+
+0.40
+
+0.45
+
+0.50
+
+0.55
+
+Author’s alpha
+
+(c)
+
+0.60
+
+0.65
+
+C−C−B−motif
+
+(d)
+
+Figure 7. The means of tonal distances associated with three versions of α-motif and C-C-B-motif, compared with the
+simulated sampling distribution.
+
+Finally, according to our computational approach, we agree with both Huron and Forte
+[9, p. 475; 16, par. 67] that the α-motif belongs to the candidates of the most salient features
+of the work.
+
+6. Conclusions
+In this study, we applied our CSA approach to the study of tonality. Our main focus was on tonal
+trends and tonal extremes in the Brahms string quartet movement which had been, for analytical
+purposes, segmented into pentachordal pc segment clusters. We calculated the ﬁrst PC for these
+pc segments that revealed the music piece to be – mathematically – twined around the C minor
+tonality. According to the CSA, tonal elaborations seem to be organized almost systematically in
+the exposition and especially in the development section, in which the tonality obtains the remotest
+point, just before the recapitulation section. In this case, our CSA approach supports the expected
+tonal evolution in the sonata movement [18,20]. However, we hope that further investigations with
+
+Downloaded At: 13:48 25 April 2011
+
+Journal of Mathematics and Music
+
+105
+
+our CSA approach may interestingly lead to compositions that do not follow tonal elaborations
+that are common in classical sonata movements.
+When all pairs of pc segments were compared, we found the occurrences of the most extreme
+tonalities that proved to be F minor or B minor. It is, however, improbable that these mathematically calculated occurrences can somehow be observed perceptually. We could instead measure
+the modulation strengths between the consecutive onsets or the bars applying the same distance
+function, since modulations might be more easily recognizable.
+We also studied the occurrences of α-motif and found that it occurred especially in the development section independent of its three representations (Forte’s, Huron’s and the author’s) presented
+in the current study. It was also discovered that the α-motif occurs in signiﬁcantly more remote
+tonal regions, according to the reference tonal structure, the harmonic C minor scale. In comparison with many alternative motives found in the piece, the α-motif belongs to the most prevalent
+and to those that are more common in more remote tonal regions. These ﬁndings give support
+both to Forte’s and Huron’s concept that the α-motif plays an important role in the ﬁrst movement
+of Brahms’ String Quartet op. 51 nr. 1.
+The validity of the segmentation cardinality is connected both to the cardinality of the CS
+and especially to the properties of the musical texture itself. The complicated issue, how the
+difference between the segmentation cardinality and the cardinality of CS effects results, would
+need a thoroughgoing study in the future.
+
+Acknowledgements
+I would like to deeply thank Chantal Buteau for all her invaluable help with the content and writing of the paper,
+especially on the mathematical formalization of the approach. I would also like to thank Conklin for all his particularly
+useful comments and suggestions.
+
+Notes
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Later, Aarden and Temperley proposed improvements to the original Krumhansl-Kessler (KK) key proﬁles by
+deriving their weights straight from the music itself [24,25].
+If the vertical harmony consists of six pc and the segmentation cardinality nseg has been deﬁned as 5, we get
+6 different pc sets for that particular note onset time. The number of combinations is the binomial coefﬁcient
+n
+k = n!/k!(n − k)!, where n is the number of objects from which you can choose and k is a number to be chosen.
+The version of the model used in this study is found in [4].
+In this study, the bar numbering of the movement follows the score in [26].
+It is assumed that with our sample sizes the mean is normally distributed.
+In this study, we deﬁne these sections as encompassing the following bars: Exposition 1–81, Development 82–132,
+Recapitulation 133–223 and Coda 224–260.
+Similar hypothesis tests were performed for segmentation cardinalities from 3 to 7, which led to small p-values,
+except for Forte’s α-motif and segmentation cardinalities 6 and 7.
+With 1,000,000 random samples.
+
+References
+[1] T. Eerola and P. Toiviainen, MIDI Toolbox: MATLAB Tools for Music Research, Department of Music, University
+of Jyväskylä, Jyväskylä, 2004.
+[2] C. Sapp, Visual hierarchical key analysis, Comput. Entertain. 4(4) (2005), pp. 1–19.
+[3] A. Tenkanen, Comparison structure analysis, Doctoral thesis, University of Turku, Annales Universitatis Turkuensis
+Ser B 327, Humaniora, 2010.
+[4] A. Tenkanen, Evaluating tonal distances between pitch-class sets and predicting their tonal centres by computational
+models, in Mathematics and Computation in Music 2009, New Haven, E. Chew, A. Childs, and C.-H. Chuan,
+eds., Springer Series on Communications in Computer and Information Science Vol. 38, Springer-Verlag, Berlin,
+Heidelberg, New York, 2009, pp. 245–257.
+
+Downloaded At: 13:48 25 April 2011
+
+106
+
+A. Tenkanen
+
+[5] C.L. Krumhansl and E.J. Kessler, Tracing the dynamic changes in perceived tonal organisation in a spatial
+representation of musical keys, Psychol. Rev. 89 (1982), pp. 334–68.
+[6] C.L. Krumhansl, Cognitive Foundations of Musical Pitch, Oxford University Press, New York, 1990.
+[7] E. Huovinen and A. Tenkanen, Bird’s eye views of the musical surface – methods for systematic pitch-class set
+analysis, Music Anal. 26(1–2) (2007), pp. 159–214.
+[8] A. Tenkanen, Tracking Features with Comparison Sets in Scriabin’s Study op. 65/3, in First International Conference
+of Mathematics and Computation in Music (MCM2007), Berlin, T. Klouche and T. Noll, eds., Springer Series on
+Communications in Computer and Information Science Vol. 37, Springer-Verlag, Berlin, Heidelberg, New York,
+2009, pp. 211–219.
+[9] A. Forte, Motivic design and structural level in the ﬁrst movement of Brahms’s String Quartet in C minor, Musical
+Q. 69 (1983), pp. 471–502.
+[10] C. Hasty, Segmentation and process in post-tonal music, Music Theory Spectrum 3 (1981), pp. 54–73.
+[11] http://en.wikipedia.org/wiki/Principal_component_analysis, (Visited 9 June 2010).
+[12] G. Widmer, S. Dixon, P. Knees, E. Pampalk, and T. Pohle, From Sound to ‘Sense’via Feature Extraction and Machine
+Learning: Deriving high-level descriptors for characterising music, in Sound to Sense: Sense to Sound: A Stateof-the-Art in Sound and Music Computing, P. Polotti and D. Rocchesso, eds., Logos Verlag, Berlin GmbH, 2007,
+pp. 161–190.
+[13] H. Purwins, T. Graepel, B. Blankertz, and K.Obermayer, Correspondence analysis for visualizing interplay of pitch
+class, key, and composer, in Perspectives of Mathematical and Computational Music Theory, G. Mazzola, T. Noll,
+and E. Lluis-Puebla, eds., epOs-Music, Osnabrück, 2004, pp. 432–454.
+[14] R. Parncutt, A model of the perceptual root(s) of a chord accounting for voicing and prevailing tonality, in Music,
+Gestalt, and Computing – Studies in Cognitive and Systematic Musicology, Vol. 1317, M. Leman, ed., LNCS,
+Springer, Berlin, 1997, pp. 181–199.
+[15] T. Noll and J. Garbers, Harmonic Path Analysis, in Perspectives of Mathematical and Computational Music Theory,
+G. Mazzola, T. Noll, and E. Lluis-Puebla, eds., epOs-Music, Osnabrück, 2004, pp. 395–427.
+[16] D. Huron, What is a musical feature? Forte’s analysis of Brahms’s opus 51 no 1, revisited, Music Theory Online
+7(4) (2001). Available at http://mto.societymusictheory.org/issues/mto.01.7.4/mto.01.7.4.huron.html (Last visited
+18 August 2010).
+[17] C. Buteau and G. Mazzola, Motivic Analysis according to Rudolf Réti: Formalization by a topological model, J.
+Math. Music 2(3) (2008), pp. 117–134.
+[18] A. Schönberg, Structural Functions of Harmony, ﬁrst published 1948, Leonard Stein, ed., 2nd Rev. ed. Faber et
+Faber, 1990.
+[19] A. Schönberg, Fundamentals of Musical Composition, G. Strang and L. Stein, eds., Faber and Faber, London, 1967.
+[20] C. Rosen, The Classical Style: Haydn, Mozart, Beethoven, Faber & Faber, London, 1971.
+[21] D. Conklin, Discovery of distinctive patterns in music, in MML08: International Workshop on Machine Learning and
+Music, Helsinki, Finland, 2008. Available at http://www.iua.upf.es/∼rramirez/MML08/abstracts.pdf (Last visited
+18 August 2010).
+[22] The R Project for Statistical Computing, http://www.r-project.org/ (Visited 7 June 2010).
+[23] P.R. Christian and G. Casella, Introducing Monte Carlo Methods with R, Springer, NewYork, Dordrecht, Heidelberg,
+London, 2003.
+[24] B. Aarden, Melodic expectancy, Ph.D. dissertation, The Ohio State University, 2003.
+[25] D. Temperley, Music and Probability, MIT Press, Cambridge, MA, 2007.
+[26] J. Brahms, Sämtliche Werke. Band 7: Kammermusik für Streichinstrumente, Breitkopf & Härtel, Leipzig, 1926–1927.
+
+

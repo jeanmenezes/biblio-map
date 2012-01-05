@@ -1,0 +1,912 @@
+Yale University Department of Music
+
+Use of the Exclusion Relation to Profile Pitch-Class Sets
+Author(s): John Clough
+Source: Journal of Music Theory, Vol. 27, No. 2 (Autumn, 1983), pp. 181-201
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843514
+Accessed: 15/12/2009 19:28
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+USE OF THE EXCLUSION RELATION
+TO PROFILEPITCH-CLASS SETS
+
+JohnClough
+
+In the developmentof pitch-classset (pc set) theory, there is no concept more central than that of inclusion. It is the basis of Forte's setcomplex and plays an importantrole in recent investigationsby Lewin,
+Morris,and Rahn.1 Takinga different (or complementary)approachto
+the problemof characterizing comparing sets, I shall explore here
+and
+pc
+the exclusion relation, which in many cases yields sharpprofilingof pc
+sets and providesan alternativeperspectivefor judgingthe similarityof
+pc sets of the same or differentcardinality.2
+My discussionuses the following notational conventions:
+notation
+meaning
+{O, 1, 2(
+
+The literalpc set includingpc 0, pc 1 and pc 2, in
+the universeof 12 pcs.
+
+[0,1,2]
+
+The class of pc sets equivalentto {0, 1, 2} under
+TnI, called a set class(SC).
+The numberof elements (cardinality)of A where
+A is the name of a pc set, or the number of elements of each set in the SC where A is the name
+of a SC.
+
+#A
+
+181
+
+{,, ,2 8 )
+[0, 1, 2] 8
+
+Same as for 0, 1,2} and [0,1,2] above,but in
+the universeof eight pcs.
+
+PC Q
+
+Pc set P is a subset of pc set Q.
+
+P Q
+
+For every pc set Pi in SC P, there is a pc set Qi in
+SC Q such that Pi C Qi. (Note that capitalletters
+may serve as names for pc sets or SCs,depending
+on the context.)
+The exclusion set X(A). If P r Q, I will say that P is a subclassof Q,
+or, speaking loosely, that P is included in Q. (More precisely, P is abstractly included in Q.) Thus, for example, the subclassesof A = [0, 1,
+3,4] are all of those SCs representedamongthe subsetsof t0, 1,3, 4 .
+A SC is profiled by ennumeratingits subclasses,more particularlyso
+when the multiplicity of each subclassis also specified,as formalizedby
+Lewin.3
+All SCs which are not subclassesof A are said to be (abstractly)excluded by A. Takencollectively, these excluded SCs form a profile of A
+by negation,a kind of ground. In orderto characterize
+usefully this collection of SCs, we can begin by ignoringall SCs of cardinalitygreater
+than or equalto #A, for all suchSCs (except A itself) areexcluded by A,
+and therefore their exclusion offers no insight to the particularity A.
+of
+Listed in the first two columns of Table 1 are the included SCs(or subclasses) of A (ignoring cardinalitieszero and one) and the excluded
+SCs of A (ignoringcardinalities
+greaterthan 3) for A = [0, 1, 3, 4].
+The collection of excluded SCs, as exhibited in the middle column
+of Table 1, does not yield a particularlysharpprofile of A. Suppose
+now that we cull from the list of excluded SCs the following reduced
+list of SCs called the "excluded*" list. If a symbol of the form "[S] *"
+S
+appearson the excluded* list, it represents plus all of the SCs of lower
+cardinalitythan A which includeS. So if we write " [0, 5] *" on the excluded* list, that symbol represents [0, 5] plus all SCs of cardinal3
+which include [0, 5]. Note that all such SCs will be on the originalexcluded list, since, for any three SCs A, B, and C, with #A > #B > #C, if
+C : A and CC B, then B A. By placing [0, 5] * and [0, 6] * on the
+excluded* list of [0, 1,3,4], we represent,in addition to SCs [0, 5]
+and [0,6], most of the trichord SCs on the original exluded list, as
+shown by comparisonof the second and third columns of Table 1. We
+can think of [0, 5] * and [0, 6] * as representing
+foreign strainsof SCs
+with respect to A. The relatively small excluded* list is a compact descriptionof "not in A," a good "negative"of A.
+Once it is generated,the excluded* list providesan efficient test for
+inclusion.If A and B areSCswith #A > #B, and we wish to test whether
+182
+
+Table 1. Includedand excluded SCs of [0, 1, 3,41
+included
+
+excluded
+
+excluded*
+
+[0, 1]
+
+[0,5]
+
+[Q,5]*
+
+[0, 2]
+
+[0, 6]
+
+[0,61*
+
+[0,1, 2]
+[0, 1, 5]
+[0,1,6]
+[0,2, 4]
+[0, 2, 5]
+[0, 2, 6]
+[0, 2,7]
+[0, 3, 6]
+[0, 3, 7]
+[0, 4,8]
+
+[0,1,2]
+
+[0, 3]
+[0,41
+[0,1, 3]
+[0,1,4]
+
+[0,2,4]
+
+[0,4,8]
+
+183
+
+B E A or B ?[ A, we need only check whether or not B includesone or
+more membersof the excluded* list for A. If so, B[T A; if not, B C A.
+For example, if A = [0, 1,3, 4] and B = [0, 1, 5], we observethat [0, 5]
+B
+Cr and conclude that B It A because A excludes all SCswhich include
+[0, 5]. The complete structureof B is irrelevantto the question of its
+inclusion in A; the inclusion of [0, 5] in B is sufficient to decide the
+issue.
+It may appearthat the excluded* list does not yield greaterefficiency
+in simple decisions like the above. Surely we can see immediatelythat
+[0, 1,5] ?T[0, 1, 3, 4]. However, it is plain that we see this precisely
+because we see that [0, 1, 3,4] cannot include any SC that includes
+[0, 5]. For a second example, supposeA = [0, 1,3, 4, 6, 7, 9, 10] -the
+octatonic scale SC, and B = [0, 2, 4, 5, 7] -the "major pentachord".
+Aware that [0, 2, 4] (and all SCs including it) are foreign to the octatonic scale, we need go no furtherthan the observationthat [0, 2, 4]
+I B, to decide that B [t A. Here, in essence, we invoke the fact that
+[0, 2, 4] * is a memberof the excluded* list for the octatonic scale SC.
+Definition and constructionof X(A).
+Definition. Given a set class A, the exclusion set of A, or X-set of
+Xn} having
+A, symbolized X(A), is the set of SCs {Xi, X2,....,
+the following properties:
+(1) For all Xi in X(A), #Xi <#A.
+[
+(2) For any two distinct SCsin X(A), say Xi and Xj, Xi Xj.
+(3) For any set class B with #B<#A, if there is some Xi in
+A;
+X(A) such that XiC B, then B IT otherwiseB C A.
+The above three propertiesare sufficient to define X(A). Two additional propertiesfollow logically:
+(4) For all Xi in X(A), Xi ?IA.
+(5) For any set class B with #B < #A, if B I[ A, then there is at
+least one member of X(A), say Xi, such that XiE B; on the
+contrary,if B C A, then Xi[ B for all Xi in X(A).
+For any particularset class A, is there more than one collection
+which qualifies as X(A)? Or, perhaps,none at all? Eithercircumstance
+would seriously weaken the potential usefulness of X(A). Here is the
+answer.
+For any SCA with #A > 3, there exists a unique X(A).
+of
+The aboveis provedin the appendix.In the remainder this section,
+I take a less formal, more graphicapproachto the matter of constructits
+ing X(A) and understanding properties.
+184
+
+Listed in Table 2 are the X-sets for a number of SCs in the 12-pc
+universe. In order to avoid unnecessaryclutter, X-sets are displayed
+without enclosingcurly bracketsand without commasbetween SCs.
+The notion of the X-set may be nicely visualizedif the universeof
+SCs is pictured as a lattice where each point representsa particularSC
+and each line segment between two points representsan inclusion relation between two SCs of adjacentcardinality,as suggestedby Regener.4
+This visualization also provides a convenient setting in which to describe the construction of the X-set for a particular It is impractical
+SC.
+to display here the very largelattice for the 12-pc universe.Instead,for
+purposes of illustration,we shall work with a lattice for the universeof
+eight pcs, as displayed in Figure 1. We can think of this universeas one
+which contains eight equal-tempered"steps" per octave; there are also
+other universesof eight pcs which are modelled by the lattice of Figure
+1. All SC designationsin Figures1-3 are givenin condensedform, without enclosing brackets, with no separationbetween pc numbers,and
+with the context "8-pc universe"understood. The lack of mirrorsymmetry around the SCs of cardinalfour is due to the fact that [0, 1, 3,
+4]8 and [0, 1, 2, 5]8 are a Z-relatedpair.5
+We now proceed to construct X(A) for A = [0, 1, 3, 4, 6]8. First,
+ignoringall SCs of cardinalfive or greater,we dividethe remainingSCs
+into two categories: those included by A (the subclasses of A) and
+those excluded by A, as indicated by circles and squares,respectively,
+in Figure 2. This "intermediate" of excluded SCsis relatedto [0, 1,
+set
+3, 4, 6]8, as the middle column of Table 1 is related to [0, 1,3, 4] in
+the case examined earlier. It satisfies properties (1) and (3), but not
+property (2), of the definition of an X-set. From the excluded set of
+SCs, we now delete all SCswhich include SCs of lower cardinalitythan
+themselvesin the excluded set. The remainingSCsare those enclosed in
+thick squaresin Figure3. The readermay verify that this set of SCshas
+all three propertiesspecified in the definition. It therefore constitutes
+X(A), which we write as follows:
+For A = [0, 1,3, 4,6]8,
+X(A) = [0, 1, 2]8, [0, 1,4, 5]8, [0, 2, 4, 6]8
+Note that A is a "deep scale" after Gamerin the 8-pc universe(generateableby interval class 3 or 5).6 If we compareX(A) to the X-set of
+the major-scaleSC in the 12-pc universe(also a deep scale whose X-set
+is given in Table 2), we find an interestingsimilarity.Both X-sets contain the chromatictriple-[0, 1, 2]8 in 8 pcs and [0, 1, 2] in 12 pcsand both contain all of the SCs(in their respectiveuniverses)that have
+two (disjunct) tritones. (The interval 4 is the "tritone" in 8 pcs.) Very
+SC.
+loosely, X(A) is a "subset"of the X-set of the major-scale
+Using a notation adaptedfrom Regener,we can describethe manner
+185
+
+X-sets in the universeof 12 pcs.
+Table 2. Illustrative
+A
+
+X(A)
+
+[0, 1, 4]
+
+[0, 2] [0, 5] [0, 6]
+
+[0, 2,5, 8]
+
+[0, 1]
+[0, 2, 4] [0, 2, 7] [0, 4,8]
+
+[0, 2,4,7, 9]
+(pentatonicscale)
+
+[0, 1] [0, 6]
+[0, 4, 8]
+
+[0, 1,2, 3,4,5]
+
+[0, 6]
+[0, 2, 7] [0, 3, 7] [0, 4, 8]
+
+[0, 1,3, 4,5, 8]
+
+[0, 6]
+[0, 2, 4]
+[0, 1,2, 3] [0, 2, 3,5] [0, 2, 5,7]
+
+[0, 1, 4,5, 8,9]
+
+[0, 2] [0, 6]
+
+[0, 2, 4, 6, 8, 10]
+(whole-tone scale)
+
+[0, 1] [0, 3] [0, 5]
+
+[0, 1,3, 5,6, 8,10]
+(majorscale)
+
+[0, 1, 2] [0, 1, 4] [0, 4,98]
+[0, 1, 6, 7] [0, 2, 6,8] [0, 3,6, 9]
+
+[0, 1,3, 4, 6,8,9]
+(harm.minor scale)
+
+[0, 1, 2]
+[0, 1, 6, 7] [0, 2, 6,8] [0, 1, 4,7]
+[0, 2,4, 6]
+
+[0, 1, 3, 4, 6,7,9, 10]
+(octatonic scale)
+
+[0, 1, 2] [0, 2, 4] [0, 4,8]
+[0, 2, 7] [0, 1, 5]
+
+186
+
+in which X(A) represents the complete collection of SCs of lower
+cardinalitythan A and excluded by A. Let the symbol SL(M,N)denote
+the sublattice from M to N, that is all of the points on the lattice between M and N, including M and N. Let q and U denote the points
+representingthe null set and the universalset, respectively.Finally,let
+the symbol SL(M,N,c)denote the set of points on SL(M,N)of cardinality less thanc. Now for a SC A, all of the subclassesof A are represented
+by SL(0,A). The remainingSCs of lower cardinalitythan A, those excluded by A, are the union of SL(X1,U, #A), SL(X2, U, #A),.....
+SL(X, U,#A), where X(A)= {X1, X2,....,
+Xn} as defined above.
+X(A) is not necessarilythe only set of SCswhich representin this manner all of the SCs excluded by A; however it is the minimal set which
+does so.
+A less formalapproachto the constructionof X-setsinvolvesthe following puzzle. Suppose that for a particularSC we have reached the
+situation depicted in Figure 2. We know, for all SCs of cardinalityless
+than #A, whether they are included or excluded by A. Now let us
+imaginethat the inclusionlattice representsan unusualcommunications
+network in which a messagemay be introducedat any point whereupon
+it will travel automaticallyfrom left to right over all possible paths to
+the rightmostnode of the lattice. ("From left to right"here means to a
+node of the next verticalrankto the right.)Wewish now to introducea
+messageinto the network of Figure2 in such a way that it reachesall of
+the "squared"nodes but none of the "circled"nodes. How can this be
+accomplishedmost efficiently? Thatis, what is the minimalset of nodes
+to which we should initially send our message?A little experimentation
+will show that it is just exactly the set defined as X(A).
+For SCs of cardinal less than 5 in the 12-pc universe, X-sets are
+easily constructedby hand. This is also true for SCs of cardinalgreater
+than 7, because of the relationshipbetween complementationand Xsets (to be treated later in this article). Unfortunately,the construction
+of X-sets for SCs of cardinal5-7 is tedious in most cases, and the determination of these X-sets would ideally be accomplishedby referring
+to a table. (By the time this article appears,I hope to be able to distribute a computer-generatedcomplete roster of X-sets in the 12-pc
+universe.)
+X-set in the universeof 6 and 7 pcs. Figures4A and 4B displaythe
+inclusionlattices for the universes six and sevenpcs, respectively(with
+of
+SC designationsin condensed form as in Figures 1-3). These smalluniverses provide simple illustrations of the differentiations afforded by
+analysis of X-sets. In six pc (modeled, of course, by the whole-tone
+scale):
+187
+
+0
+00
+
+cardinality:
+1
+
+2
+
+3
+
+4
+
+5
+
+0123
+
+012
+
+0
+
+01
+
+null set
+
+o
+
+01
+
+0246
+
+Figure1. Latticeof SC inclusionin th
+universeof 8 pcs.
+
+cardinality:
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+0123
+
+01
+
+o
+
+(~)
+
+= includedSC
+
+IlI
+
+= excluded
+SC
+
+0246
+oo
+
+Figure2. Includedand excluded S
+of [0, 1,3, 4, 6]8
+
+%O
+
+Ci
+
+cO
+
+o
+
+.-4
+
+o,
+0
+?,
+L;
+(4
+
+s
+0
+
+44-4
+
+c)
+
+c4c
+
+I)
+
+E
+11
+
+la
+
+0)
+-C
+0
+la
+
+II
+
+II
+
+mu
+
+0E
+
+190
+
+01
+
+012
+
+0123
+
+null set
+
+Figure4A. Latticeof SC inclusion
+in the universeof 6 pcs.
+
+012
+
+0123
+
+Figure4B. Latticeof SC inclusion
+in the universeof 7 pcs.
+
+x([o, 1,2]6)= { o, 3] I
+
+X([O, 1,3] 6) = null set
+X([0, 2,
+
+416) =
+
+10, 11], [0, 316}
+
+And in seven pcs (modelled by the diatonic scale under a particular
+equivalencerelati6n):7
+X([O, 1,2, 3]7)= {[O, 1,4]7, [0, 2,4]7}
+null set
+X([0, 1,2,4]7)
+X([O, 1,3,4]7)= {[0, 1,2]7, [0, 2,4]7
+X([O, 1,3, 5]7) = {[0, 1, 2]7, [0, 1, 47
+It is interestingto note that the four tetrachordSCsin the seven-pc
+universeall include the all-intervaltrichord [0, 1, 3]7, which therefore
+does not appear anywherein the X-sets of the tetrachords.Of the remaining three trichords, each appearsexactly twice, with a different
+associate, among the X-sets of the tetrachords,exhaustingall the combinations of these trichordsinto pairs. These facts are in keeping with
+the idea I have argued elsewhere, that distinctions among tetrachords
+(and trichords), under the diatonic equivalence relation, are quite
+palpable.8
+Some additionalpropertiesof X-sets.
+1. M5 operation. For any SC A and its X(A) = {X1, X2,....,
+= M5(X1), MS(X2),....,
+M5(Xn) . This folXn}, X(MS(A))
+lows immediatelyfrom the fact that inclusion and exclusion relations are preservedunderM5.
+2. Complementation.For any SCA and its X(A), let X(A)com denote the set of complementsof all SCs in X(A). So X(A) = {X1,
+X2,....,
+Xn} and X(A)com = {Xl, X2 ....., Xn}. Since, for
+[
+two SCs M and N, if M N, then N 7M, it follows that for
+any
+any member of X(A)com, say Xi, At Xi. With referenceto A,
+X(A)com will have the following properties,correspondingto
+the propertiesof X(A):
+(i) For all Xi in X(A)com, #Xi> #A.
+(ii) For any two distinct SCs in X(A)com, say Xi and Xj, Xi ?
+Xj.
+(iii) For any SCB, with #B >#A, if thereis some Xi in X(A)com
+such that BE Xi, then A? B; otherwiseAC B.
+(iv) For all Xi in X(A)com, A? Xi.
+(v) For any SC B, with #B> #A, if A?I B, then there is some
+on
+Xi in X(A)com such that BCEXi; the contrary,if AE B,
+then B I Xi for all Xi in X(A)com.
+192
+
+3. Distinctness. The following is a conjecturebased in large part
+on the lack of a counterexample.For any two distinct SCs A
+and B with #A = #B, X(A) and X(B) are distinct. They may,
+of course, intersect in one or more SCs. (In some cases, two or
+more SCs of different cardinalityhave the same X-set. For exand [0,2,4,6,8,
+ample, [0,2,6], [0,2,4,8], [0,2,4,6,8]
+10] all have the following X-set: I[0, 1], [0, 3], [0, 51\ .)
+X-sets and lattice pathways. If we walk to the right along the lattice
+of the 12-pc universe,following the line segments(which signify inclusion) and arrivingat SCs of ever increasingcardinality,what can we observe about the X-sets of these SCs? As the SCs in such a chain are all
+related by inclusion, it will not be surprisingif their X-sets exhibit
+similarities.Tables 3A and 3B display the situations for the chains of
+SCs generatedby interval class 1 and interval class 5, respectively.Because these chains are M5-related,so are the X-sets for SCsof the same
+cardinalityin them.
+The X-sets of each chain are arrangedin Tables 3A and 3B so that
+similaritiesand differences between SCs of adjacentcardinalityin the
+same chain may be readily observed. As these examples show, given
+SCs A and A', with #A + 1 = #A', and AC A', the intersectionof X(A)
+and X(A') is generallyextensivebetween these two X-sets, a fact which
+permits simple comparisonin most cases. For example, comparingA =
+the pentatonic scale SC [0, 2, 4, 7, 9] and A' = the diatonichexachord
+[0, 2, 4, 5, 7, 9] on the basis of their X-sets, we find that both X(A)
+and X(A') include [0, 6] and [0,4, 8], whereasX(A) includes [0, 1]
+(which X(A') doesn't) and X(A') includeg[0, 1,2] and [0, 1,4] (which
+X(A) doesn't). Interpreted, these data indicate that all SCs with a tritone or an augmentedtriad are inimical to both A and A', whereas A
+and A' are differentiatedby the fact that A excludes all SCs that have
+an intervalclass 1 and, of such SCs, A' excludes only those which contain [0,1,2] or [0, 1,4].
+Exclusion and pc accretion. As noted previously,given two SCs A
+and B, with #A>#B, if we wish to determinewhether BE A, and X(A)
+is known, it will be easier in many cases to make this determinationindirectly by invoking property no. 3 of the definition of X(A), than to
+test for BEA directly. Given A=the diatonic SC [0, 1, 3, 5, 6, 8, 10]
+and B = [0, 3, 6, 7], we observethat [3, 6, 7] (= [0, 1,4]) is in B and
+also in X(A); therefore B? A. I suspect that this is how we (subconsciously) decide the question (a ubiquitous one in listening to tonal
+music) of whether there exists a major scale from which a given set of
+pitches can be extracted.
+In cases where a pc set is built by accretion and at some stage be193
+
+Table 3A. SCs generatedby ic 1, and their X-sets.
+A
+
+X(A)
+null
+
+[0, 1]
+
+[0, 31 [0, 4] [0, 5] [0, 6]
+
+[0, 1, 2]
+
+[0,4] [0, 5] [0, 6]
+
+[0, 1,2, 3]
+
+[0, 5] [0, 6]
+
+[0,1, 2, 3,4]
+[0, 4,8]
+[0,1, 2, 3,4,5]
+
+[0, 6]
+[0, 4, 8] [0, 2, 7] [0, 3, 7]
+
+[0,1,2, 3,4,5, 6]
+
+[0, 4, 8][0, 2,7] [0, 3,7]
+[0, 1,6, 7] [0, 2, 6,8] [0, 3,6, 9]
+
+Table3B. SCsgeneratedby ic 5, and their X-sets.
+A
+
+X(A)
+null
+
+[0, 5]
+[0, 2, 7]
+
+[0, 1] [0, 3] [0, 4] [0, 6]
+
+[0, 2, 5,7]
+
+[0, 1]
+
+[0,2, 4, 7,9]
+
+[0, 1]
+[0, 4,8]
+
+[0, 2,4,5, 7,9]
+
+[0, 6]
+[0, 4, 8] [0, 1, 21 [0, 1,4]
+
+[0,1, 3, 5,6,8, 10]
+
+[0,4,8] [0,1,2] [0,1,4]
+[0, 1,6, 7] [0, 2, 6,8] [0, 3,6, 9]
+
+194
+
+[0,4] [0, 6]
+[0, 6]
+
+comes incompatiblewith a referentialSC, there is often an incremental
+reduction in the degree of inclusion. By "degree of inclusion" I mean
+what Lewin calls the coveringnumber, that is the numberof pc sets of
+a specified SC which include a given pc set.9 Suppose that the pc set {0,
+3, 6, 7, 101 is constructed note-by-note, with pc 6 or pc 7 as the last
+member to be added. Underthese conditions, the enlargingset becomes
+incompatiblewith the diatonic set only when the last pc is added. The
+extent to which the reduction in degreeof inclusionis gradualdepends
+on the order in which pcs are added. Table 4 shows two contrasting
+cases within the above situation.
+I suspect that, in practice,if we are given {0, 3, 6, 7, 10} all at once,
+and we wish to know whether it can be extracted from some diatonic
+set, the X-set of the diatonic SC (subconciously invoked) plays a role
+in our judgement. (Detection of {3, 6, 71 (C [0, 1,4]) rulesout a diatonic SC parent for 10, 3, 6, 7, 10 .) I suspect that it does so also in
+case 1 of Table 4, when pc 6 is added, finally forming {0, 3, 6, 7, 10}.
+Howeverin case 2 of Table 4, the penultimatepc set {0, 3, 6, 101 suggests only one diatonic set, a pc set which includesalso pcs 1,5 and 9.
+In this context, pc 7 will be detected immediatelyas foreignto the one
+potential diatonic set (if we are attuned to this) and the X-set reference
+is not necessary.
+Exclusion and chord polarity. Lewin, Morris,and Rahn have proposed various metrics pertainingto similarity between and among pc
+sets of the same or different cardinality. 0 Comparison X-sets offers
+of
+a different perspective on this matter, although it remainsto be seen
+whether such comparisonis susceptibleto meaningfulquantification,as
+in the work cited above. The following example servesas an illustration.
+Suppose A = the diatonic SC [0, 1, 3, 5, 6, 8, 10] and B = the "octatonic heptachord" [0, 1,3, 4, 6, 7, 9],
+Then X(A)= [0, 1,2], [0, ,], [, 0,4,8], [0,1,6,7], [0,2, 6,8],
+,4
+,
+[0,3,6, 9]
+andX(B)= {[0,1,2], [0,2,4], [0,4,8], [0,2,7], [0,1,5]} .
+Now constructing the intersection and the difference sets of X(A)
+and X(B),
+Let XX = X(A)nX(B) = [0, 1,2], [0, 4, 8]
+OCT- MAJ= X(A)-X(B) = {[0, , 4], [0,1,6,7],
+[0,2,6,8], [0,3,6, 9]}
+and MAJ- OCT= X(B)-X(A) = {[0, 2, 4],
+2,, 7]
+[0,2,
+1,5]}
+Sets XX, OCT-MAJ (read "octatonic, not major")and MAJ-OCT
+(read "major,not octatonic") partition X(A)UX(B) into three disjoint
+subsets, providing a test for allegiance to the diatonic SC versus the
+195
+
+Table 4. Reductionin coveringnumberas pc set is built by accretion.
+n
+
+n
+
+case 1
+
+1
+2
+3
+4
+5
+
+(10)
+(0, 10)
+(0, 7, 10
+(0, 3, 7, 10
+(0,3, 6,7, 10)
+
+7
+5
+4
+3
+0
+
+case 2
+
+1
+2
+3
+4
+5
+
+(0)
+{O,6)
+{, 3, 6}
+(0, 3, 6,10)
+(0,13,6, 7,10)
+
+7
+2
+1
+1
+0
+
+196
+
+COV(Bn,A),
+A = (0, 1,3, 5,6,8, 10]
+
+octatonic-heptachordSC. Set XX representsthose strains of SCs (of
+cardinalityless than seven) which are included by neither the diatonic
+nor the octatonic heptachord SCs; set OCT~MAJ represents those
+strains of SCs which are included at least partlyby the octatonic-heptachord SC but not by the diatonic SC; and set MAJ-OCT represents
+those strainsof SCs which are included at least partly by the diatonic
+SC but not at allby the octatonic-heptachord " From these observaSC.
+tions, we acquire some sense of the polarity between the two SCs in
+question.
+Now suppose we are given a third SC C, and we wish to determine
+whether it is more similarto A than B or vice versa.In general,if C E A
+and C? B, then C is more similar to A; on the other hand if CIA and
+CE B, then C is moresimilarto B. (Counterexamples be constructed
+can
+in the presence of unorthodox transformations.)Suppose that C = [0,
+4, 7, 8, 10]. HereC? A and C? B; so a test for simple inclusionis of no
+of
+help. Wenow proceed to examine, then, the particularities the exclusion relations C?IA and C tB, with reference to the partitioning of
+X(A)UX(B) establishedabove.
+C contains one of the SCs in XX, namely [0, 4, 8]. Since XX contains only sets excluded by both A and B, the fact that C : [0, 4, 8] is
+sufficient to decide its exclusion by both A and B. While it may be of
+some interest, the duality of these exclusion relationships not helpful
+is
+in differentiating between C's relationships with A and B. Looking
+further, we find that C contains exactly one of the sets in MAJ-OCT,
+namely [0, 2, 4]. On this basis we recognize a particularlikeness between A and C which is not evident between B and C. Thereis a strain
+of SCs representedby (and including) [0, 2, 4] which is totally excluded by B but at least partiallyincludedby A and C. However,C also
+contains exactly one of the SCs in OCT-MAJ, namely [0, 1,4], and
+on this basis seems "closer" to B. In summary,C seems to be balanced
+and
+midwaybetween A and B,with comparable
+allegiances disallegiances
+to both.
+For a second example, suppose that A and B are defined as above
+and C = [0, 1, 2, 5, 7]. Here again, C includes one of the SCs in XX,
+namely [0, 1, 2]. But in contrast to the previouscase, C includes two
+of the SCs in MAJ-OCT, namely [0, 1, 5] and [0, 2, 7] (twice), but
+only one of the SCsin OCT-MAJ, namely [0, 1,4], and for this reason
+C seems closer to A than to B.
+In order to quantify these comparisons,we would need to devise
+some means of dealingwith the complexities of intersectingsublattices.
+In the last case presented above, for example, [0, 1, 5] and [0, 2, 7],
+both members of MAJ-OCT, representsstrainswhich intersect at the
+tetrachordlevel in C = [0, 1,2, 5, 7]:
+197
+
+[0, 1,5]- [0, 1,5, 7]
+[0,2,7]
+[0, 1,5, 7] ([0, 2,7] = [0,5, 7])
+[0, 1, 5, 7]CE[0, 1,2, 5, 7].
+This intersection tends to limit the number of tetrachordsin C which
+are included by A but excluded by B (in addition to [0, 1,5, 7], only
+[0, 2, 5, 7] falls into this category), thus weakeningthe case that C is
+more similarto A than to B. There are other obstaclesto constructing
+a good metric for SC comparsionbased on the exclusion relation.However, it would seem that any such metric must be logicallyequivalentto
+one based on the inclusion relation. In any event, the notion of the Xset should prove to be useful as a different perspective,an additional
+means of acquiringwhat Rahn calls "feel" for pc sets and their relationships.
+
+198
+
+APPENDIX
+To prove the existence of X(A) for any SC A with #A>3, we constructa set
+of SCsT and show that it has properties (2) and (3) on page 180.
+(1),
+Let FEWER = {all SCs S: #S <#A}
+(A)
+EXCL(A)= (all SCs S: S tA}
+FEWEX
+(A)= FEWER NEXCL(A).
+(A)
+ConstructT by the followingalgorithm:
+1. Assign all S in FEWEX(A)
+with #S=2 to membership T. Proceedto
+in
+step 2.
+2. Given the initialvaluen=#A-l. Proceedto step 3.
+3. If n=2, the constructionof T is now complete.
+If n>2, proceedto step 4.
+4. Examine each of the SCs of cardinalityn in FEWEX(A).If, for any
+such SC Sj, there is no SC Si of cardinatliy in FEWEX(A)
+n-1
+suchthat
+in
+Si E Sj, assignSj to membership T. Proceedto step 5.
+5. Decreasethe valueof n by one. Returnto step 3.
+Wenow show that T qualifiesas X(A).
+1. Since TCFEWER(A), T has property (1). [Read "T" for "X(A)" in
+property(1).]
+2. Choose any two SCs in FEWEX(A), and Sz with #Sa <#Sz. If SaC
+Sa
+Sz, then by definition of the set-classinclusion relation, there exists
+some Sy with #Sy + 1 = #Sz, such that Sa SyCSz. Because of the
+of
+adjacentcardinalities Sy and Sz, the operationof step 4 in the constructionof T ensuresthat Sz is not assignable T. In summary,
+to
+SaC
+Sz leads to Sz?T. It follows that SzET implies Sa[ Sz. Thus T has
+property(2).
+3. Since T CEXCL(A), for any SC t in T, t ?l A. Therefore,for any SC S,
+t ES implies S ?[ A. This coversthe first partof property(3). Now suppose that SEFEWEX(A), which is to say S I A. By the operationof
+with
+step 4 in the constructionof T, if there is some S' in FEWEX(A)
+#S + 1 = #S and S'E S, then S is not in T. At the next iterationof
+with #S" + 1 = #S' and S" E
+step 4, if there is some S" in FEWEX(A)
+S', then S' is not in T, etc., etc. Since FEWEX(A) finite and contains
+is
+no SCs of cardinalityless than 2, the test for an includedsubclassof adjacent cardinalityeventuallyfails, and one of S, S', S", and so forth, is
+assignedto T. Becauseof the transitivityof subclassinclusion,there is
+some t (one of S, S', S", and so forth) in T such that t E S. In summary,
+S ?[ A implies that there is some t in T such that t S. It follows that if
+there is no t in T such that t E S, then S E A. Thus T has property(3).
+Since T has properties(1), (2) and (3), the existence of X(A) is proved
+for any A with #A>3. [The empty X(A) is not ruled out, but its occurrencewould appearto be limitedto universes 7 or fewerpc's. For
+of
+example,X([0, 1, 3]7) is empty.]
+To prove the uniquenessof X(A), supposethat X(A) is not uniqueand that X
+
+199
+
+and Y are both X-sets of A, with X + Y. Since X $ Y, one or both of X and Y
+must contain a SC not in the other. Say XiEX and Xi - Y. By property(4), Xi [A. Thereforeby property(5), there is a SCin Y, say Yi, suchthat YiC Xi. But Xi
+EY; thereforeYi + Xi; so Yi C Xi. Likewise, (4) and (5), Yi ( A, and thereis a
+by
+SC in S, say Xj, such that XjE Yi. Combining two abstractinclusions,we get
+the
+XjE Yi C Xi. But this implies XjC Xi which contradictsproperty(2). Therefore
+X(A) mustbe unique.
+
+200
+
+NOTES
+1. Allen Forte, The Structure of Atonal Music (New Haven: Yale University
+Vector, My Interval
+Press, 1973), pp. 93-100. David Lewin, "Forte'sInterval
+Function, and Regener'sCommon-NoteFunction,"Journalof MusicTheory
+21 (1977): 194-237; also Lewin, "Some New ConstructsInvolvingAbstract
+PC Sets and ProbabilisticImplications,"Perspectivesof New Music 18/2
+and
+(1980): 433-444. Robert Morris,"Set Groups,Complementation, MapSets," Journalof MusicTheory26 (1982): 101-144.
+pings among Pitch-Class
+John Rahn, "RelatingSets," Perspectivesof New Music 18/2 (1980): 483498.
+2. HowardBoatwright,in his Introductionto the Theoryof Music (New York:
+W. W. Norton & Co., 1956), lists on p. 149 "chromatic
+which corformulae"
+respond to what is called the X-set of the diatonic SC in the presentarticle.
+To my knowledge, this is the earliest publishedexpressionof the idea of
+a
+characterizing set of pitches by means of an exclusionrelation.As an afterand Inclusion(A Commenton Forte's
+thought in my "Pitch-SetEquivalence
+Journalof Music Theory9 (1965): 163-171, 1
+Theory of Set-Complexes),"
+idea
+set
+generalize
+Boatwright's to the arbitrary of pcs.
+3. Lewin,"Forte'sIntervalVector,"pp. 197-201.
+4. Eric Regener, "On Allen Forte's Theory of Chords,"Perspectivesof New
+Music13/1 (1974): 191-212. See especiallypp. 208-209.
+5. AdaptingForte's notation to the 8-pc universe,the intervalclass vector of
+these SCs is [2121]. For an explanationof the Z-relation,see Forte, The
+Structure Atonal Music,pp. 21-24.
+of
+6. Carlton Gamer, "Some CombinationalResources of Equal-Tempered
+Systems,"Journalof MusicTheory 11 (1967): 32-59.
+7. Under the diatonic equivalencerelation,all 2nds, 7ths, 9ths, 14ths, etc., form
+a single intervalclass, one of three such classes.See my "Aspectsof Diatonic
+Sets,"JournalofMusic Theory23 (1979): 45-61.
+8. I argue this claim in "Aspects of Diatonic Sets" and in "Diatonic Interval
+Sets andTransformational
+Structures,"
+Perspectives
+ofNew Music18/2 (1980):
+461-482.
+9. Lewin,"SomeConstructs," 434.
+p.
+10. Lewin, "A Response to a Response on PCSetRelatedness,"
+Perspectives
+of
+New Music 18/2 (1980): 498-502; Morris, Similarity
+"A
+Index for Pitch-Class
+Sets," Perspectives New Music 18/2 (1980): 483-498; and Rahn,"Relating
+of
+Sets."
+11. The statementsin this sentencegeneralize two arbitrarily
+to
+chosen SCsA and
+B, of the same cardinality,if and only if there is no Xi in X(A) and no Xi in
+X(B), with #Xi 4 #Xj, such that Xi C Xj or Xj Xi. If, for exampleXi Xj,
+then Xi represents strain SCswhichis partlyincludedin B, but the parallel
+a
+of
+statementdoes not hold-Xj does not represent strainof SCswhich is partly
+a
+includedin A. As a substrain Xi, the Xj strainis totally excludedby A.
+of
+
+201
+
+

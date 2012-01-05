@@ -1,0 +1,1230 @@
+Yale University Department of Music
+
+Register and the Large-Scale Connection
+Author(s): Ernst Oster
+Source: Journal of Music Theory, Vol. 5, No. 1 (Spring, 1961), pp. 54-71
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/842870
+Accessed: 14/12/2009 18:52
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+54
+Register
+T
+
+,arge-
+
+and
+
+the
+
+Scale
+
+Connectio
+
+n
+
+y
+In an essay, Vom Organischen der Sonatenform, published in
+Das Meisterwerk
+in der Musik, v. 2, 1926, Heinrich Schenker
+writes:
+In the first
+establishes
+section:
+
+movement of the Piano Sonata, Op. 109, Beethoven
+the following
+high points in the development
+m.21
+
+42
+
+T'M-
+
+55
+
+fter
+
+the
+
+reaching
+
+high
+
+suddenly
+
+he
+
+abandons
+
+it
+
+and
+
+leaps
+
+After reaching the high g#3 he suddenly abandons it
+and leaps
+down to d#2. What is the meaning of this perplexing
+leap? Even
+if we were finally
+to have recognized
+a relation
+between
+these two widely separated climaxes
+... we still
+would not have
+the ultimate
+The latter
+is provided by the
+gained
+clarity.
+relations:
+following
+m.21
+
+42
+
+48
+
+95 96
+_
+
+Upbeat
+
+I
+' II
+
+'I II
+S72r 1 I4 Develop.
+
+Recap.
+
+A-
+
+_
+
+Coda
+
+97
+,
+
+I =
+
+56
+Schenker goes on to say that Beethoven
+pursues these two tones
+also in the development
+section and inthe coda. To the master,
+and are "a clue to a
+they have the meaning of an actual motive
+world of unity and coherence.'
+of Op. 109 demonstrates
+This feature of the first movement
+in
+brief the topic of our discussion.
+Two tones which,
+viewed
+have nothing to do with each other enter into a
+superficially,
+in which they appear.
+relationship
+merely through the register
+In this case register
+becomes
+one of the main elements
+of
+and is on an equal footing with harmony,
+countercomposition
+of register
+The consideration
+point and thematic
+development.
+is indispensable
+to the true understanding
+of the main feature
+of this development,
+of the first two
+namely the preparation
+tones of the recapitulation
+in the three-line
+octave.
+It is surprising
+that Schenker
+was the first to draw attention
+to the significance
+of register
+As far as is
+in composition.
+known to me, the only other reference
+to registral
+significance
+was made by Schenker's
+in his book, Das
+pupil, Oswald Jonas,
+Wesen des musikalischen
+in Vienna,
+Kunstwerks,
+published
+1934.
+in Der freie Satz, published
+in Vienna,
+1935 and
+Schenker,
+1956, devotes a chapter (sec. 268-270) to what he calls "obligate
+Lage" (Obligatory
+Register).
+By this is meant that the fundamental line as well as the bass appear in a single and primary
+which is maintained
+register
+through the composition,
+despite
+excursions
+to higher or lower octaves.
+A
+frequent
+necessary
+confirmation
+of this view is to be found in the C
+magnificent
+of the first volume
+of the Wellmajor and C minor Preludes
+Clavier.
+These
+Preludes
+first appear in FriedeTempered
+mann Bach's
+in a shorter version.
+Clavierbuchlein,
+although
+In this earlier
+after beginning
+in the two-line
+version,
+octave,
+octave.
+When Bach incorporated
+they both end in the one-line
+these Preludes
+into the Well-Tempered
+he lengthened
+Clavier,
+them and made little improvements
+here and there.
+In addifelt that it was necessary
+tion, he apparently
+or at least desirable
+to return
+to the initial
+at the end of each
+register
+One can easily see at which points in the added
+composition.
+Bach regained
+the higher octave,
+sections
+thus fulfilling
+the
+"law of Obligatory Register"'
+A detailed analysis
+of the C major
+Prelude appeared
+in Schenker's
+Fiinf Urlinie-Tafeln,
+published
+in Vienna,
+1932.
+While an analysis
+of the C minor Prelude
+in his essay,
+Das Organische
+der Fuge, published
+appeared
+in
+Das Meisterwerk
+in der Musik,
+v. 2, 1926.
+from
+Excerpts
+both are included in Der freie Satz.
+
+Strangely enough, Forkel considered these shorter versions
+to be improvements
+made on the ones appearing in the WellAnd more recently, Siegfried Borris, in
+Tempered Clavier.
+an essay, Das Bearbeitungsverfahren
+bei den 11 Praludien im
+Friedemann-Bach-Buch,
+published in Die Musikforschung,
+Jahrg. V, 1952, has tried to show that the shorter versions in
+the Friedemann Bach Clavierbichlein
+were arrangements
+of
+the ones in the Well-Tempered
+Clavier, made by Bach himself
+to adapt them for the little hands of his son. Among other
+things, this argumentation disregards entirely the question of
+register which is of paramount importance in judging the relative value of the different versions.
+It is not the purpose of this article to go further into the question of Obligatory Register in its broadest aspect as it pertains
+to an entire composition.
+Our aim is rather to show a number
+of instances where register contributes in an essential way to
+clarifying certain contrapuntal, structural, or thematic-motivic
+connections and relations.
+It is not intended to show the historical development of the use of register
+for artistic purOur approach must necessarily
+be more or less unposes.
+and we will simply proceed from one example to
+systematic,
+the next.
+Before presenting examples in which the bass shows largescale progressions,
+we should like to discuss one of the relatively rare cases in which a middle register plays an essential
+role. In the middle section of the Adagio of Mozart's Piano
+Sonata, K. 576, in D major, the main melody notes are doubtless a2, b2, a2 in m. 17, 18, and 19 respectively.
+Yet if we
+follow up the initial c#2 of m. 17 we hear that it describes a
+slow turn-like motion c#2-d2-c#2-b#2-c#2
+during these measures. In Example la (p. 58) these notes are connected by heavy
+lines between the staves.
+Since c#2 is also the very first tone
+of the Adagio and since it reappears in m. 5 and in m. 13 we
+understand the c#2 of m. 17 simply as another occurrence.
+Of course there is nothing remarkable about a middle section
+Numerous
+beginning with the same tone as the main section.
+instances of this are to be found, for example, in Chopin's
+Mazurkas Op. 24/4 or Op. 30/1, taken at random. What gives
+the c#2 in our Mozart excerpt such significance is the fact that
+both in m. 1 and in m. 17 it is followed by a turn, the second
+one enlarged, adapted to F# minor, and hidden under the higher
+It permeates the first 4 measures,
+thus relatmelody tones.
+ing and linking the F# minor part closely to the beginning. The
+point we want to make here is that despite the motivic relationship of the turn which can easily be seen on paper, this
+
+ex
+
+ample
+
+1
+Mozart: Sonata in D major,
+I
+
+K. 576.
+
+17
+
+1
+
+7
+
+23
+
+simile
+
+m. 17 24
+
+a
+
+30
+
+31
+
+b
+
+4
+
+32
+
+32-41,
+
+42-43
+
+etc.
+
+3
+
+44
+
+a,1
+
+7
+Schubert: Quartet in A minor.
+m. 20
+
+27 28
+
+34
+
+35
+
+55
+
+56
+
+V7
+
+II
+
+iHi;
+A.if
+
+43
+
+16
+
+2tr^
+,rvrr,", L (ff)
+
+(pp)
+
+43 -
+
+0
+
+56(f)
+
+59
+is perceivable
+
+relationship
+ister.
+
+only through the identity
+
+of reg-
+
+Further, Example la (p. 58) shows that in m. 23 the turn starts
+on d2 (note the suspension of d2 onthe thirdbeat which corresponds to the suspension of c#2 in m. 191) and that it "comes
+out into the open" in 32nd notes at m. 24. Example lb (p. 58)
+shows that the entire middle section is governed by the same
+turn, with b#-c# appearing an octave lower, for pianistic
+reasons.
+Significantly, Mozart does not write a turn in m. 39
+- although it would have been due here - a turn based on f#
+instead of c#2 or its auxiliary note d2. However, he makes
+amends for this missing turn. At the very last moment before
+the return of the main section, he manages to insert c#2-b#2
+between the seventh d and its resolution c#2 in the reprise so
+that at this point we hear once more the turn motive (Example
+lc, p. 58). Since we already are on the V7 chord of A major
+and expect the tonic momentarily, the turn with its b# sounds
+like a last farewell to the events of the middle section.
+In the
+subsequent measure it is replaced by the turn with the initial,
+normative bt.
+Two more instances in which the middle register plays a leading role are to be found in Brahms' Intermezzo, Op. 116/4,
+in E major, and in the Scherzo of Beethoven's Sonata, Op. 26,
+in Ab major. In the Brahms work, the idea appearing in m. 1
+is continued to d#1 at the pianissimo,
+3 lines before the end,
+and from there to el, 9 measures away.
+Beethoven's
+
+Scherzo opens in an unusual way.
+
+Example 2.
+
+Beethoven:
+
+Sonata in Ab major,
+
+Op. 26
+
+Trio
+
+Sf
+
+The top voice outlines the Ab triad but the bass enters on fl,
+the auxiliary note of ebl in m. 2. Later this fl-ebl becomes
+the first motive of the Trio. Although the F minor triad in
+m. 1 is of a merely contrapuntal nature, Beethoven nevertheless begins the reprise (m. 45) as if the piece were
+actually
+written in F minor, introducing it by a V7 harmony on C which
+lasts no less than 21 measures.
+Thus, fl, which in m. 1
+clashes so sharply withthe tonic triad outlined bythe top voice
+(see the sforzato), determines the entire course of the compo-
+
+60
+Because fl-ebl is of such pre-eminent importance we
+sition.
+can understand the beginning of the Trio as a reiteration of m.
+1-2 of the Scherzo.
+It is as if fl at last comes into its own
+when it becomes the third in Db major. In passing, it should
+be mentioned that fl-ebl
+played a certain role even in the
+first movement, especially in the middle section of the theme
+and at the beginning of the last variation.
+As an example of bass progressions
+which are made to stand
+out by means of low register we cite m. 52-124 in the first
+movement of Bach's Italian Concerto.
+Example 3.
+m.53
+
+r
+
+J.S.
+
+Bach: Italian Concerto.
+
+60 74 90 103 115 124
+
+F
+
+f^
+
+It is noteworthy that Bach's keyboard extended as Lar as the
+low A (see the Finale); thus he could have written B and A in
+m. 60 and in m. 74 an octave lower, had he so desired.
+Yet
+he reserved this register for the main structural tones C-DBb-C, of which C-Bb-A is only a prolongational motion.
+Bass progressions
+brought into prominence in a manner similar to that described above occur fairly frequently.
+For example, in Chopin's Etude, Op. 10/8, in F major, the bass
+line D-C-Bb-A (m. 29-41) stands out because of the register.
+Domenico Scarlatti was particularly ingenious in using the extreme registers - especially the low bass - very sparingly,
+and chiefly at the main structural points. Examples ofthis as
+well as examples of the use of register for other purposes can
+be found in abundance in his Sonatas. When one examines the
+Sonatas for features of this kind one gradually comes to realize
+that the beauty of Scarlatti's keyboard style -and that of other
+composers too - is at least partly due to masterly treatment
+of register.
+Turning now to registral features of the top voice, we should
+first like to mention Beethoven's Bagatelle, Op. 119/1, in G
+minor, and its coda in particular. A coda was probably necessary in this piece, perhaps because it needed a stronger ending after the almost literal repetition of the first section.
+But
+what would be the tonal content of the coda? The Eb major
+middle section starts out from gl, gradually works its way up
+to g2, then ends as shown inExample 4, with c3 and bb2 super-
+
+61
+imposed above the descent g2-f2-eb2.
+Example 4.
+
+Beethoven:
+
+Bagatelle
+
+m.29
+
+in G minor,
+
+Op. 119/1.
+
+63
+
+Coda
+
+The superimposed c3 and bb2 are touched upon only once, and
+our desire for their continuation - perhaps as in m. 19-20,
+where we heard the same situation an octave lower - remains
+But the desire is satisfied in the coda. By means
+unsatisfied.
+of a long ascent, c3 and bb2 are reached again.
+This time
+they are led down stepwise to g2, in a stronger, more definite
+fashion and supported by cadential bass steps. Thus, here the
+high register which was only briefly suggested previously is
+restated, and that which was lacking in the middle section is
+But although the two points in question, the
+finally fulfilled.
+one in the middle section and the other in the coda, have been
+associated by means of register,
+they are not structurally
+connected. The c3 and the passage that follows in the coda are
+merely a repetition of something we have heard before, the
+repetition of a musical idea even though its meaning is changed.
+Thus the association
+is necessarily
+loose and was possible
+only in a composition as simple in character as this Bagatelle.
+In contrast to the situation described above, the registral connection between m. 17 and m. 20 of Bach's Chromatic Phantasy is very close.
+Example 5.
+m. 17
+
+J. S. Bach: Chromatic
+
+Phantasy.
+
+20
+
+9-
+
+-8
+
+If we eliminate the arpeggiations
+and two subsidiary chords,
+we reveal the auxiliary note motion, 9-8, over A.
+This is
+perhaps so obvious that one need not call special attention to
+it. However, we wish to emphasize that the principle is exactly the same whether we deal with a group of 4 measures or
+with connections over much larger spans such as those to be
+examined below: register
+is the chief element which makes
+
+62
+the two points in question
+connected.
+
+stand out and thus be related and
+
+The excerpts from Brahms' Capriccio, Op. 116/7, in D minor,
+presented in Example 6 do not require comment.
+Example 6.
+m.58
+
+in D minor,
+
+Brahms: Capriccio
+61
+
+Op. 116/7.
+90
+
+74
+
+I
+
+#fr
+
+-
+
+The parentheses
+indicate that in the intervening measures the
+There is marked similarity belower register is prevalent.
+tween this type of piano style, with the high register appearing
+at only a few strategic points, and that of Scarlatti.
+Through
+the ages the external appearance of music had changed immensely, of course, but the principle of writing for keyboard
+instruments remained the same.
+The Menuetto of Schubert's Quartet in A minor, specifically
+its recapitulation,
+is probably unique in the entire literature
+(Example 7a, p. 58). Upon arriving at the V7 chord in m. 35,
+there is a sudden halt, followed by a recapitulation based on
+C# minor instead of in the expected A minor, with the register
+dropping a full octave. (Actually, C# on which the recapitulation begins is merely a connective between E and A# which
+lies within a prolongation of the dominant extending from m.
+35 to m. 55.) Furthermore,
+the motives shown in Example 7b
+(p. 58) are also continued at this point and the previous forte
+is resumed.
+All these factors contribute to the linking of m.
+35 with m. 56, but probably the most obvious factor involved
+is the abandonment ana resumption of the high register at m.
+35 and at m. 56, respectively.
+The beginning of the recapitulation is interpolated between these two points. It is subordinate to larger events of a higher order, or, to use an image,
+an arch is formed over it by the main progression shown in
+One might alExample 7a (p. 58) and specifically
+by g#2-a2.
+most describe it as having been composed in a parenthetical
+To be sure, the C# minor recapitulation is thematimanner.
+cally important and does initiate the third section of the composition.
+However, its importance is minimized by the other
+events which bypass it. In consequence of all this the middle
+
+63
+and the third sections are closely linked together, much more
+so than would have been the case if the recapitulation had
+started in a normal manner. This bypassing of an otherwise
+connections
+can be
+important event by means of registral
+found occasionally
+in the works of the great masters.
+Wherever it occurs, it constitutes
+one of the most remarkable
+features of the particular composition.
+In the Brahms Capriccio in D minor (Example 6, p. 62) the
+return of the first section in m. 62 is inserted or interpolated
+in a manner similar to that described above. And in the Rondo
+of Mozart's Violin Sonata, K. 526, in A major, the tenth alc#3 in m. 183 (note the beautiful slur ) is derived from and
+continues the diminished fifth g#l-d3 outlined in the ending of
+the previous E major section (m. 161-164).
+Example 8.
+
+Mozart: Violin Sonata in A major,
+
+m. 161
+
+167
+
+......
+
+tr.
+
+K. 526.
+
+183
+
+Thus the intervening recurrence of the main rondo theme in
+the lower register sounds incidental to this large-scale
+linkage
+of the E major section with the one starting at m. 183. Here
+again we have a link that is perceivable only through the abandonment and resumption of the three-line
+octave.
+It should
+perhaps be mentioned that, of course, the diminished fifth has
+resolved to a-c# in the A major section of m. 167 - but in
+the lower octave. As far as register is concerned - and this
+is what matters here - d3 is continued to its tone of resolution only in m. 183.
+After having followed the previous examples, a longer passage
+from the Finale of Mendelssohn's
+Quartet in E minor will be
+easily understood (Example 9a, p. 65). Measures 288-331 all
+lie within the one-line octave.
+In m. 332, the e2 of m. 287
+continues to d#2. It is preceded by e2 which joins together the
+two separated measures.
+Thus the half note e represents
+a
+huge suspension spanning 45 measures (Example 9b, p. 65).
+And 5 measures later when d#2 returns to e2, the notes marked
+by a bracket show a slightly changed enlargement of the motive
+appearing in m. 286-287, the point at which the high register
+was interrupted.
+Thus these two distant points are closely
+linked together, primarily by means of register, and, in addition, by contrapuntal means (suspension) and motivic relation.
+
+64
+of the kind described
+was occasionally
+used by
+By-passing
+Bach even in fugue writing.
+Measures 6 - 8 of the Fugue in
+C minor from Book 2 of the Well-Tempered
+Clavier which we
+quote in Example 1Oa (p. 65) are of particular interest in this
+regard. According to Schenker, in Der Tonwille, Heft 3, p. 43,
+published in Vienna, 1923, Beethoven made a copy of this
+Fugue for himself and marked the B in m. 7 with a large
+cross. Schenker remarks that this B contains a most significant clue to organic fugue writing and that at the same time it
+points up an essential difference between the fugal art of Bach
+and the fugue writing of others.
+We quote:
+in comes form, should
+Although this fourth entrance,
+obviously
+it of this key by alnormally appear in G minor, Bach deprives
+Bb chromatically,
+thus
+it into the main
+tering
+incorporating
+Of course, Bach did this
+key of C minor.
+not in order
+to be
+but because he wished to fulfill
+the over-all
+different,
+tonalBeethoven noticed this particular
+ity also in fugue writing....
+it and similar features
+are the reason
+detail;
+why Beethoven
+studied and emulated Bach.
+
+Thus far Schenker.
+A detailed analysis of the fourth entrance
+and its immediate
+surroundings reveals this passage to be
+even more remarkable.
+Example lOb (p. 65) shows the main
+with the notes written in the
+voice-leading
+progressions,
+registers in which they actually appear and with a few implied
+notes in parentheses;
+Example lOc (p. 65) presents a further
+reduction with the various registers disregarded.
+It becomes
+apparent that up to and including the second beat of m. 8 we
+hear a progression
+of parallel tenths between bass and top
+voice.
+Consequently, the beginning of the fourth subject entrance (m. 7) occurs at the second tenth eb-g which is merely
+passing through. We even have to hear an E" triad at the beAs to the top voice, the discontinuginning of this measure.
+ation of the high register
+and its resumption
+in m. 8 show
+clearly that the first tenth f-ab2 finds its real continuation only
+with E -g2 on the third beat of m. 8, well after the fifth entrance has begun.
+The true goal of the over-all
+motion is
+therefore the C minor sixth chord in m. 8, not the C minor
+triad in m. 7. Because of this the fourth entrance is weakened
+in three different ways: the B deprives it of the G minor
+quality, the key in which it should have appeared; it is merely
+inserted between several passing tenths; and the registral
+connection of the top voice makes it sound almost parenthetical. We wait for the continuation of ab2, and when g2 finally
+appears as its continuation, the fourth entrance is a thing of
+the past. This passage is a striking example of Bach's art
+of subordinating fugal entrances to the broader scheme of the
+
+65
+
+example
+9
+Mendelssohn:
+
+Quartet in E minor.
+
+m. 284
+
+288
+
+329
+
+h' S
+J
+
+!J jj
+44L
+,J
+Sf
+]C
+
+cresc.
+
+4
+.
+
+);
+
+- i-r fJ
+
+10
+J. S. Bach: Fugue in C minor,
+m.6
+
+10-
+
+^%N
+L
+10-
+
+WTC II.
+8
+
+7
+
+' fr`~-'
+
+r
+
+'
+
+subject
+
+r
+
+'0 '
+
+^
+-10
+
+J
+
+66
+composition and to make them an integral part of the whole.
+To achieve this end, he often made the entrances so inconspicuous that they pass by almost unnoticed. A good example
+of this is the entrance in m. 11 of the same fugue, although
+Bach uses means other than registral to achieve this. Other
+instances of Bach's use of register can be found in the Fugue
+in C# major, from Book 1 of the Well-Tempered
+Clavier, m.
+13-16 and in the big Organ Fugue (BWV 547) in C major which
+is altogether a miracle of this type of fugue writing.
+One is
+reminded of Robert Schumann's somewhat facetious remark:
+The best fugue will always be that which the public takes for
+a Strauss Waltz; in other words, where the artistic technicalities are covered as are the roots of a flower, permitting us to
+see the blossom
+
+only.
+
+I know of -
+
+the case
+
+is real
+
+-
+
+a con-
+
+noisseur of music, by no means contemptible, who mistook a Bach
+Fugue for a Chopin Etude - to the honor of both.
+As additional examples, we refer the reader to m. 21-41 of
+the first movement of Mozart's Piano Sonata in C minor, where
+the first part of the Eb major section is "bridged over"' We
+also suggest m. 14-23-27 of the first movement of Mozart's
+Quartet in D minor, which are somewhat similarly constructed,
+or m. 83-108-120-132
+of Schubert's Wanderer Phantasy, where
+the beginning of the. Eb major theme is inserted between ab3
+and ab3-g3 in m. 108 and in m. 120. Lack of space makes it
+impossible to go into detailed analyses of these compositions.
+They would reveal beautiful motivic and other relationships
+and connections besides the ones expressed solely by register.
+A few more interesting examples can also be found in Jonas'
+book, published in Vienna, 1934, Das Wesen des musikalischen Kunstwerks, Ex. 116,118, 119, 194; and in Schenker's
+Der freie Satz, Ex. 40,7; 62,3; 62,4; 101,6.
+One might well ask why in the course of this discussion no examples from orchestral compositions
+were cited. The reply
+is that in orchestral compositions
+register plays a less significant role in pointing out or providing large-scale
+connections, than it does in keyboard compositions.
+The reason may
+be that the orchestra, with such a great variety of means at
+its disposal, does not require the use of register to the same
+extent as the more poorly endowed keyboard instrument.
+A
+similar reason may account forthe lack of examples from such
+an outstanding composer as Chopin. His richly developed
+piano style apparently found new techniques of writing which
+probably replaced older ones. Besides, one may say that from
+the very beginning of any of his major compositions all the
+of the keyboard are simultaneously
+registers
+present, as it
+
+67
+were. Even so, register connections and relations are to be
+found in his compositions.
+In many cases, however, they are
+not quite as clear-cut as the ones in earlier piano music and
+were therefore not as suitable for the first presentation of the
+subject.
+As the last example to be presented we have chosen the first
+movement of Beethoven's
+Piano Sonata, Op. 13, in C minor,
+the Sonate Pathetique.
+this movement extends in
+Clearly,
+various ways far beyond anything the young Beethoven or anyone else had written before. One of the most striking features
+of this magnificent piece of music is the reappearance of a
+part of the introduction at the beginning of the development
+section, and again at the beginning of the short coda. A similar
+use of the introduction within the Allegro section is to be found
+in Haydn's Symphony in Eb major, No. 103, which Beethoven
+probably knew at the time he wrote his Sonata in C minor.
+Beethoven had employed a similar procedure once before: in
+the Kurfirsten Sonata in F minor, written at the age of 12, he
+introduced the recapitulation by a free repetition of the initial
+In Op. 13, his intention was different: to make
+introduction.
+the introduction an integral part of the entire first movement.
+The combination of elements of the first subject and of the introduction at the beginning of the Allegro in the development
+(m. 137-141) serves the same purpose.
+Also the melodic reof the introduction and
+lationship between certain elements
+certain passages of the Allegro is quite apparent and has been
+described repeatedly.
+Thus as far as thematic material is
+concerned the composition is a unified whole.
+When we turn to an examination of the structure of the exposition, we will first of all have to clarify the harmonic and contrapuntal meaning of m. 51-88.
+There can be no doubt that
+this section is to be considered the second subject.
+This is
+because when we arrive at Eb major, III of C minor, (m. 89)
+we have the impression of already being at the beginning of the
+coda of the exposition.
+This impression
+is created mainly by
+the fact that the ascending chromatic line of m. 89-98 bears a
+resemblance
+to the first subject.
+The resemblance becomes
+still closer in the analogous place in the recapitulation
+(at
+m. 253).
+It is surprising that even Tovey considers the second
+subject
+to be written "in Eb minor." By no means can the six-four
+chord at its beginning be considered
+an inversion of an Eb
+minor triad. Nor is there any Eb minor triad or sixth chord
+to be found, except for one in m. 79. This, however, is
+merely
+
+a passing harmony between Db and F in m. 75 and in m. 83.
+The second subject should be understood as taking place within
+an extended prolongation of the Bb harmony, the dominant of
+III which finally enters at m. 89.
+Example lla
+m.43
+
+51 63
+
+75
+
+79
+
+83
+
+85
+
+89
+
+_'S
+
+rj;\>N~~~~~
+'r_
+
+The bass, represented in Example lla, shows an arpeggiation
+of the Bb minor instead of the Bb major harmony, the minor
+third Db appearing in m. 75. Thus it becomes evident that the
+initial "Eb minor" six-four chord has nothing to do with Eb
+minor; rather, it is related to the Db chord arising in m. 75,
+and this in turn is part of the larger Bb minor harmony. The
+gbl is an auxiliary note of fl in m. 43 and serves as consonant
+preparation of the seventh gb in m. 64. It then returns to f as
+shown in Example lla.
+This makes it clear that the first Eb
+harmony is reached only after the second subject has passed
+by: in m. 89, at the beginning of the coda of the exposition.
+Instead of bringing in the second subject on m, which is the
+normal procedure, Beethoven starts it on Bb, that is, during
+the motion towards Eb. The purpose of this overlap of structural and thematic events is to achieve a tighter connection
+between the different sections.
+In an earlier work, Sonata,
+Op. 2/1, in F minor, Beethoven had based the second subject
+on the dominant of III. However, the prolongation of that
+dominant was simpler and briefer than the instance in Op. 13.
+in this remarkable
+Turning now to the function of register
+treatment of theme and harmonic progression, we see with the
+aid of Example llb, that the main bass progression
+from the
+beginning of the exposition to the beginning of the coda consists
+of C-Bb-Eb.
+Example l1b
+m. 11
+
+15 27
+
+37
+
+Z
+I
+
+45
+
+75 83
+
+89 98
+
+HI~~~~~~~~~~~~~~~~~~~~P
+/,III
+
+69
+Note against note, above this bass progression,
+the top voice
+moves from c3 in m. 15 to d3 in m. 45, and finally to eb3 in
+This ascending third in the upper voice thus spans
+m. 98.
+the entire exposition, unfolding in a single register.
+In relaan episode
+tion to it the second subject is an interpolation,
+between the passing tone d3 and its goal e 3. Truly, a greater
+for large-scale
+connections
+triumph in the use of register
+could hardly be imagined.
+In addition it must be remarked that the rising third c-d-eb
+represents more than just the lower third of the C minor triad:
+it is thematic in character, constituting a huge enlargement of
+the same third in m. 1 of the introduction.
+The introduction
+itself shows a first enlargement of this third, with the same
+bass as later in the Allegro, in the one-line octave in m. 1, 4
+(end), and 5. This enlargement then prepares the ground, so
+to speak, for the second and most extended enlargement in the
+exposition.
+In the recapitulation,
+it was not possible for Beethoven to duplicate the effect he had created with his treatment of the
+second subject in the exposition.
+Obviously he could not base
+it on the dominant, G, and begin it with a six-four chord on
+To provide at least some harmonic contrast and
+this tone.
+achieve an effect similar to the suspense created by the Bb
+harmony in the exposition, he begins the second subject on the
+F minor six-four chord, the subdominant (m. 221), which then
+leads to V and to I. This six-four chord is, for once, a true
+inversion since it is followed by the F minor sixth chord.
+This was a satisfactory
+solution for matching the harmonic
+But how
+appearance of the second subject in the exposition.
+could an equivalent be found for the bypassing of the second
+Since the recapitulasubject by means of the high register?
+tion begins and ends in C minor-not,
+as does the exposition,
+on different harmonies, this was impossible.
+But Beethoven
+found a "substitute solution;' one which is as impressive
+as
+his use of register in the exposition. We fSid that the development section concludes in m. 187 with a V chord. The resolution of the seventh f3 to eb3 seems not to be forthcoming.
+The recapitulation begins, the entire first subject passes by,
+still no eb3. The second subject begins on the subdominant,
+as described above; then in m. 231-232 the melody leaps, unexpectedly and strikingly, to f3. This f3 takes up the precedf3 of the development; it becomes a seventh
+ing, unresolved,
+over the following dominant and finally resolves to eb3 in m.
+239, in the tonic six-four chord. This is the "substitute solu-
+
+70
+tion": Instead of bypassing the second subject with the high
+the beginning of
+register so that it would sound parenthetical,
+the recapitulation itself is bypassed and appears incidental to
+the progression
+V7 - I3 (f3-eb3), which extends far into the
+second subject.
+In the Menuetto of his Quartet in A minor,
+Schubert carried out the same idea but by different means, as
+previously discussed and illustrated in Example 8 (p. 63).
+Example 12a
+rn. 187 195 239
+
+I
+
+Dev.
+
+V
+
+Recap.
+
+I-
+
+Example 12a shows Beethoven's general plan (an octave lower)
+and explains also why the six-four chord in m. 239 must be
+considered a tonic six-four, not an embellishing chord of any
+kind.
+Example 12b
+1
+
+195 232 234
+
+7
+
+239
+
+6 7
+I-
+
+Example 12b includes f3 of the second subject.
+This note
+appears first as a consonant sixth whichprepares and reintroduces the seventh f3. One can hardly consider it as structurally, contrapuntally connected back to f3 of the development.
+Rather, f3 forms what one might describe as a prefix to eb3.
+It is associative in character, reiterating f3 of m. 187 for the
+purpose of underscoring the large progression f3 - eb3.
+In a looser way even the introduction of Op. 13 is connected to
+the Allegro by means of the high register.
+Its climax is also
+a V7 chord with f3. This f3 does continue to an eb3, but since
+eb3 appears in a six-four chord on the dominant, it is a passing tone moving on to d2 in the next measure, not a true resolution. In the strictest sense, then, f3 resolves in the threeline octave only at m. 98, towards the end of the exposition.
+This huge arch subordinates the first and second subjects of
+the exposition, just as f3 of the development section moves to
+eb3 of the second subject and bridges everything in between.
+
+71
+Example 13
+15 45
+
+m. 910
+
+S
+
+vl]lO
+
+^^
+
+Intro.
+
+V7-6-5
+
+98
+
+187
+
+199 232
+
+(2nd subj.' end of
+Dev.
+Recap. -,
+Expos.
+
+I
+
+II
+
+V
+
+239
+
+etc.
+
+I
+
+But even if we wanted to attach more importance to eb3 in
+m. 10 - it certainly gives more definition to the ending of the
+introduction than is found at the end of the development section
+--the fact would remain that the three-line octave is abandoned
+at this point, that no d3 as the tone of resolution appears, and
+that eb3 is taken up only in m. 98. Consequently, the picture
+drawn in Example 13 would not be essentially altered.
+Corroborating our reading is the striking resemblance of m. 9 - 11
+to m. 187 - 195, with passages rushing down to the beginning
+of the first subject.
+One can safely say that the grandiose use of the high register
+for creating large-scale
+connections
+and for tying various
+sections closely together constitutes one of the main features
+of this movement.
+If we compare this movement to later
+of Beethoven it is fair to say that it equals them
+compositions
+in scope as far as the use of register is concerned.
+In other
+such as complexity of content or subtlety of expresrespects,
+sion, Beethoven's later compositions
+probably surpass the
+Sonate Pathetique.
+In closing we point out that the purpose of this article has been
+to indicate the important role which register can play in esin a musical composition.
+tablishing the larger connections
+We have seen that in some works, particularly in piano works,
+as great as that of harmonic
+register assumes a significance
+and contrapuntal texture or the unfoldment of thematic-motivic
+Its importance as one of the structural elerelationships.
+ments of music should not be overlooked in composition and
+analysis.
+
+

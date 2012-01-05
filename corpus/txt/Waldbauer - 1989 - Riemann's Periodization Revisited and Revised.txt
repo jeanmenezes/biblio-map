@@ -1,0 +1,4427 @@
+Yale University Department of Music
+
+Riemann's Periodization Revisited and Revised
+Author(s): Ivan F. Waldbauer and Hugo Riemann
+Source: Journal of Music Theory, Vol. 33, No. 2 (Autumn, 1989), pp. 333-391
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843797
+Accessed: 16/12/2009 02:19
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+RIEMANN'S PERIODIZATION
+REVISITED AND REVISED
+
+IvanF. Waldbauer
+
+INTRODUCTION.
+Between 1884 and 1919,the dates of his first and last
+majorworkson the subject, Hugo Riemanndevelopeda comprehensive
+and
+It
+systemto deal with musicalperiodization phrasestructure. was the
+last suchtheoryfor some time to come, andit enjoyed,at least for a while,
+a degree of generalacceptance.This alone would be sufficientreasonto
+interestthe present-day
+studentin Riemann's
+theories,but there are more
+ones. IanBentputsthe case for Riemann
+compelling
+succinctlyin TheNew
+Grove:"It is in his theory of phrase structure,much disputedand now
+somewhatneglected,thatRiemannhas most to offer:in the field of metre
+and rhythmwhere analysishas been most deficient,offeringa set of criteriafor segmentation at the same time a meansof definingfunctions
+and
+of largetime spans."'Fortunately, fair numberof studieshaveappeared
+a
+in recentdecadesthatgo a long wayin repairing
+in
+deficiencies the analysis
+of meterand rhythm,but the neglect of Riemanncontinues.Some of his
+ideasandnotionskeepcropping in these studies,mostly,however, be
+to
+up
+criticizedor dismissed.The positivepotentialof Riemann's
+analyticalsystemandparticularly capacityto "define functionof largetime spans"
+its
+the
+is rarelydiscussed2
+It is for the purposeof remedyingthis situationthat the presentstudy
+is undertaken.
+Aftera preliminary
+sketchof the historicalcontextin which
+333
+
+Riemann's
+theoriesarose, I will attempta brief review of his systemand
+will identifyits maindivergencesfrom the theoriesof his most important
+I
+Koch. Subsequently, will
+18th-century
+predecessor,HeinrichChristoph
+offercertainrevisionsof Riemann's
+system.The revisionsare basedin part
+in
+own
+on Koch, in parton ideas andcommentsappearing Riemann's later
+and
+andin parton insightsexpressedin recentstudieson rhythm
+analyses,
+to
+meter.Theyare intended meetvariouscriticismswhichcan be, andhave
+been, broughtagainstRiemann.In the final portionof this study I will
+undertaketo demonstrateto what extent Riemann'sadjusted system
+if
+remainsa suitableanalyticalmethodfor dealingwith phrasestructure,
+music comnot in all music, as Riemannonce hoped, at least in Western
+periods
+posed in divisive dancemetersduringthe Classicaland Romantic
+and in a greatdeal of music of earliertimes.
+THE HISTORICAL
+BACKGROUND.Riemann's system is the final stage of
+
+of
+an era in the historyof music theorythat viewed all music, regardless
+of phrasesprototypiand medium,as the hierarchical
+genre
+organization
+of
+cally four measureslong. The era begins with the publication Joseph
+Riepel, Anfangsgrunde zur musikalischen Setzkunst in 1752-683 and pro-
+
+duces its firstpeak soon after,in the Versuch
+einer Anleitung Compozur
+sition, 1782-93, of Koch. The purpose of these theorists is avowedly
+work, Koch
+pedagogical.In his enormouslydetailedand comprehensive
+statesrepeatedly his goal is to teachthe studentthe mechanical
+that
+rules
+of musicalcomposition-the waysin whichbasic four-measure
+phrasesare
+modifiedby varioustypes of extensions,and connectedwith
+constructed,
+eachotherto produce
+bothsmallerandlargermusicalforms.Somecontemunit as
+porary and also later theorists refer to the basic four-measure
+but Kochconsistentlyuses the terms"Satz" "Absatz"
+and
+for
+"Rhythmus,"
+of
+rules of
+it, in keepingwith his intentions settingdown the grammatical
+musicin analogywith the grammar language.5
+of
+Koch's
+immediate
+successors rarelycite him, yet it seems as if the Versuch
+wouldset the agendaof
+music theory for the entire first half of the 19thcentury.Writerssuch as
+de
+did
+Jerome-Joseph MomignyandAntonReichawho probably not know
+Koch'sVersuch, GottfriedWeber,AdolphBernhard
+or
+Marx, and others
+who did, are somewhat
+moreinclinedto confrontesthetic,as distinctfrom
+or
+grammatical mechanical,mattersthan was Koch;yet their purposeis
+still largelypedagogical,and their technicalassumptions also essenare
+the
+tially the sameas his.6Perhaps most important
+single technicalfeature
+that emergesfrom their writingsis the graduallyincreasingemphasison
+the eight-measure
+unit. Kochalso identifiesthis as the "kleinePeriode"
+of
+two four-measure
+statusto it, at
+phrases,but he does not assign particular
+least not in the largerforms, which is easily understood
+when one views
+actualmusicalpracticepriorto the writingof the Versuch. new element
+A
+334
+
+entersthe realmof music theory in 1853. Die Naturder Metrikund der
+of
+Harmonik MoritzHauptmann a generaltheoryof rhythmand meter,
+is
+not
+as well as of harmony, a practical
+tutorlike the worksof the earliertheaim
+orists?Hauptmann's
+avowed is to formulate
+theoriesof universal
+validIn keeping with his high purpose, he establishes a philosophical
+ity.
+for
+foundation them, based on the dialecticalmethodof Hegel.
+Whetheron metricsor any other theoreticalfield, Riemann's
+theories
+too are characterized a philosophical
+and
+to
+by
+approach an aspiration universalvalidity.In one respect, however,he standsapartand aboveall his
+and
+His
+predecessors contemporaries. quest for universalvalidityspurred
+him to undertake truly prodigiousamountof music historicalreasearch
+a
+as a meansto the end of testinghis theorieson an ever increasingvariety
+of musicalmaterials.
+The gradual
+evolutionof Riemann's
+ideason the temof
+poralorganization musictook 35 years,the entiresecondhalf of his life.
+The first of the three milestones,his Musikalische
+Agogikund Dynamik
+published in Hamburgin 1884, is a continuationand a revision of
+work.Duringthe following19yearsRiemann
+a
+Hauptmann's
+published series of Phrasierungsausgaben
+(editionsof musicwith novelanalytical
+phrasing instructions),a host of essays devoted to phrase structure,and a
+revisednew editionof threeof the fourvolumesof A.B. Marx's
+thoroughly
+tutor.8
+These led up to his secondmajorworkon the temporal
+composition
+of
+und
+organization music, the Systemder musikalischen
+Rhythmik Metrik
+of
+(hereafter
+theoriesand
+System)of 1903,the fullest statement Riemann's
+the sum and critiqueof all earlierones on the subject.9
+Whatever
+details
+are not fully clarifiedin the Systemare addedby Riemannin numerous
+after 1903.10
+Most important
+analysesproduced
+amongthese are the exceptionallydetailedand closely arguedanalysesof Beethoven's
+piano sonatas
+Beethoven
+of
+(hereafter
+Sonatas),the publication which was completedin
+death.ll
+1919,
+just weeks beforeRiemann's
+During and for a while even after Riemann'slifetime, his theories
+exertedwidespread
+influence.12
+also a greatdeal
+however,
+They provoked,
+of criticism.Someof Riemann's
+tenetsmaywell be attacked a criticwho
+by
+of
+arguesfrom within the framework a systembased on eight- and fourmeasurephrasestructure,as we shall see shortly.Yet, I suspectthat the
+theorieshave fallen
+principalcause for that neglect into which Riemann's
+after the 1920s is not this kind of criticism, whateverits merits, but the
+itself. Music written
+very claim of universalvalidity for the framework
+towardsthe end of Riemann's by R. Straussor Mahleror Debussy
+life
+shows the frameworkin an advancedstate of disintegration,and it is
+to
+clearly irrelevant newer music composedin additiverhythms,such as
+some of even the earliestworksof Bart6kor Stravinsky, it is to most of
+as
+the then newly discoveredpre-Baroque
+music. Withthe fall of the framework the trust in all other aspectsof Riemann's
+theoriesalso disappears.
+Indeed the whole question of general theories concerningrhythmand
+335
+
+meterbecomesa subjectthatis largelyavoided seriouswriterson music
+by
+betweenthe two worldwars.
+Fora re-awakening interestin the concernsof Riemann,although
+of
+not
+in Riemannhimself, we may be thankfulto historiansof music. Leonard
+of
+G. Ratner
+leads the wayin 1947with the publication the firstof a series
+of studiesthatexamine18th-andearly 19th-century
+theorists,Kochamong
+The
+method.13 historithem, and developwhat amountsto a style-critical
+Smithermaybe sincal approach
+soon engenders
+new theorizing.Howard
+gled out as an examplefor developingnovel theories on the basis of a
+writers,Riemannamongthem (cf. notes
+thoroughreviewof 19th-century
+the2, 6 and 7). The firststudythatexaminesthe subjectfroma primarily
+oreticalratherthanhistoricalviewpointis the seminalworkof Grosvenor
+Cooper and Leonard B. Meyer, The RhythmicStructure of Music of 1960.14
+
+Since that time the numberof valuabletheoretical,critical, and historical
+studiesdealingdirectlyor indirectly
+with rhythm meterhas been steadand
+With respect to the historicaland general musicological
+ily growing.15
+equipmentthe authorsof these contributions
+bring to bear upon their
+to
+work, they are all indebted Riemann.But preciselybecausetheirequipmentis hugelyexpanded
+to
+to
+compared his, theyall manage avoidthe daninherentin any attemptto create the kind of comprehensiveand
+gers
+universalsystemthat was Riemann's
+goal.
+RIEMANN'SSYSTEMIN OUTLINE. The fundamental assumption shared
+
+by all theoristsbetween Riepel and Riemannis that metric expectation
+goes beyondthe beat and the measureto largerunits. Riemann,however,
+the
+metricunit of
+goes furtherin this thanothers.He regards fundamental
+this expectation a necessaryand integral
+as
+in
+partof the framework which
+all musicis perceived; seemsto thinkof it as havinga forcecomparable
+he
+to that of tonal expectation.He identifiesthe fundamental of metric
+unit
+as the eight-measure
+This is the firstof fourprinciples
+expectation
+period.
+on which his systemrests. He definesthe periodas the musicalstatement
+whethernotatedin
+comprisingeight true downbeats(Taktschwerpunkte),
+eight actualbars, or half as many or twice, four times, etc., as many.A
+or
+given musicalstatement
+maybe contracted extendedin variouswaysto
+containfeweror more thaneight true measures,but Riemannarguesthat
+it is possibleat all times to determine
+which of the eight measures,thatis,
+whichof the eightdiscreteeventsnecessaryforthe formation a full musiof
+cal statement omittedor elided and which are repeatedor extended.
+are
+Thus for Riemannthe measure,or ratherthe unit he prefersto call the
+Motiv(measure-motive) a subdivision the period.In accordance
+is
+of
+with
+this observationI shall use the term "measure"
+only in referenceto
+Riemann's
+true measure,that is, one eighth part of the period and one
+fourthpartof the phrase,leavingextensionsand elisions out of considera336
+
+tion. The term 'bar' will be retained exclusively for referring to the actual
+notational unit of a given piece.
+Riemann's next two principles concern the internal construction of the
+period. It is composed of two four-measure phrases, antecedent and consequent, with some kind of homogeneity in their materials. Further, the
+cadences of these phrases are produced by chords or chord progressions
+that are felt as complementing one another. Criteria for such a complementary relationship are problematical. The four permutations of full and half
+cadences (dominant and tonic, tonic and dominant, weaker and stronger
+tonic, weaker and stronger dominant, e.g., cadence on or in the dominant)
+are certainly complementary, but Riemann sees other possibilities as well.
+His analyses, both in the System and in later works, show a variety of
+cadences on degrees other than the dominant and tonic, and he feels compelled to justify some of these:
+" . . I warn here once and for all against attachingtoo strictly conceived notions to the fourthand eighth measure. In general the eighth measure is nothing more than the value answering the fourth, surpassing it
+therebyin weight. That it would be necessary for it to bring about any kind
+of definitive close cannot be positively asserted. It is clear, though, to be
+sure, that as its proportionsgrow, the answering member is increasingly
+likely to lead to an ever more noticeable resting point." (System, pp. 20001, my translationand emphases.)
+The tone of the statement even more than its content indicates how vexing
+the problem of complementary cadences was for Riemann.
+Finally, Riemann regards it as axiomatic that the above-described organization of the period is the logical outgrowth of the inherently anacrustic
+nature of music. According to this doctrine of Auftaktigkeit-I will make
+no attempt to find an English equivalent for this term-the smallest unit of
+musical energy is the measure-motive. It begins with a growth phase in the
+anacrusis, reaches a central point of stress in the downbeat (thesis), and
+this is followed by a decay phase leading to a weak beat (arsis).'6 Occasionally the final arsis of one measure-motive may also serve as the starting
+point for the anacrusis of the next one. The same kinetics apply, according
+to Riemann, to the larger temporal units of the period as well. Thus the thesis of the first measure-motive within a two-measure segment (Zweitaktgruppe for Riemann, volkommenerEinschnitt for Koch) is anacrusis in this
+sense to the thesis of the second, the first segment in a four-measure phrase
+(Halbsatz for Riemann) is anacrusis to the second segment, and the antecedent phrase is anacrusis to the consequent phrase. This hierarchy may
+continue to the double period and possibly further but with lessening practical significance. Example 1 is a schematic representation of Riemann's
+prototypical period. The symbol U shows the arsis; single, double, triple,
+and quadruple dashes show the heirarchy of theses.
+337
+
+In accordance with the idea that answering values surpass in weight the
+values they answer (see the previously cited passage), all units of
+Riemann'speriod are accented at the end. The only form of musical motion
+recognized by Riemann as natural is the iamb. How pitches and harmonic
+factors enhance this motion form is discussed sometimes by Riemann in
+connection with particular analyses, but he does not construct any cohesive
+theory concerning their role. The closest I can come to identifying the
+assumptions guiding him in this regard is to suggest that within the phrase
+this iambic, or rather anacrustic, motion is normally supported by harmonic change of some sort from the penultimate to the final measure and
+often also from the initial to the second measure. Neither part of this rule
+is, however, without numerous exceptions, nor is it possible to deduce any
+consistent rule concerning the nature of harmonic changes in question, or
+for that matter the role of harmony in setting apart units on different levels,
+such as segments and phrases, from one another.'7As we shall see in a little while, Koch provides somewhat better guidance in this respect.
+From this theory Riemann develops an analytical shorthand employing
+the numbers from 1 to 8 for the eight discrete values of the period. The
+shorthand is useful even for those who would alter, as I will, some of the
+criteria for the choice of numbers. The numbers 8 and 4 denote, respectively, the final and medial cadences; 7 and 3 stand for the measures leading up to these; and 5-6 and 1-2 denote comparable initial pairs of
+measures to which the cadential pairs provide the answer. When a given
+period contains more or fewer measures than eight, the numbers show the
+precise nature of the extension or the elision. Within the period they may
+indicate which values are extended by elongation, which others by repetition (non-literal and sequential repetitions included), and which values are
+elided, either simply left out or contracted (e.g., 4=5, 8=1, 8=5, etc.).
+Two other kinds of extension may occur as additions to a phrase or a period
+complete in itself. They are the preface (Vorhang) and the appendix
+(Anhang). The former is one or more measures preceding the phrase proper, often a fanfare, as the first two-bar measure in the Third Symphony of
+Beethoven.'8 For prefaces Riemann uses the number 8 by itself, for according to him-and he may well have a point in this - they are perceived as the
+final measure(s) of a preceding unstated period (in my own analyses I will
+also use these symbols, but I will circle the number(s) denoting such prefaces, and not only when they stand by themselves, but also when they are
+actually final measures of a preceding phrase or period). The appendix is
+one or several (literal or non-literal) repetitions of a cadence after a fully
+stated period or phrase, and it may include one or several shifts to other
+scale degrees (Kadenzverschiebung). Appendices are denoted by repetitions of the number 8, or 8(=7) - 8, or 8(=6) - 7 - 8, even 8=5 - 6 7 - 8, etc. When Riemann finds a phrase standing by itself, that is, one that
+338
+
+.I
+
+-
+
+.
+
+_
+
+=
+
+.l
+-
+
+.
+
+_
+
+-l
+
+=. v
+
+u
+
+==
+
+JIJ
+JIJJIJ I J JJIJ JIJJIJ11I
+i
+
+measure-motives
+
+I,
+
+,
+
+II
+
+I
+
+phrases
+
+I
+
+v
+
+,
+
+segments
+
+I
+1 I
+
+I
+
+I
+
+,
+
+I
+
+period
+
+Example 1. Diagram of Riemann's prototypical period
+
+Allegro
+
+r
+
+[A
+
+i/ r/
+
+^
+
+[]
+
+,
+tr
+I<~~~~~~
+
+ti
+
+A
+
+[A]
+
+[]
+
+[A
+
+A
+
+PA
+
+l
+[Ao
+
+[
+
+r
+etc.etc.
+fp~~~
+
+forte
+[0]
+
+[t
+f
+0
+
+1O
+
+Tlr
+I:~
+[A]
+
+Example 2. Example 360 in Koch, Introductory Essay, p. 163
+
+339
+
+does not form a full period with either the precedingor the following
+phrase,he uses the numbersfrom 5 to 8.19
+musicalperiodization
+fromthe directionof
+While Riemannapproaches
+kineticsas represented his doctrineof Auftaktigkeit,
+Koch'sapproach
+is
+by
+of
+baseduponthe presumed
+analogybetweenthe grammars musicandlanApart
+guage and upon the presumedintrinsicestheticvalue of symmetry.
+fromthis difference approach, two theoristsdifferfromone another
+in
+the
+in four particulars. mentionedbefore, Koch regardsthe four-measure
+As
+rather
+thanthe two-phrase
+unit, for such
+phrase
+periodas the fundamental
+a basic phraseis alreadycapableof containing musicalthoughtcomplete
+a
+in itself. Althoughnot statedby him explicitlyas a criterion phraseconof
+this
+struction,a principleguidinghim in perceiving(or achieving) sense of
+nervertheless
+does emergefromhis examplesin the Versuch.
+completeness
+all
+or
+Practically phrasescontainat least one truetonalmovement change.
+If this is not alwaysa Schenkerian
+chordprogression is at
+fundamental
+it
+least a prolongeddeparturefrom and return to the tonic (sometimes
+another)harmony?.This principle seems significantto me, and I will
+does
+adoptit as a generalguidefor the presentstudy,eventhoughRiemann
+not seem to have adoptedit himself, as we have seen earlier. It also
+explains why Koch can feel comfortablein relying on the basic fourmeasurephraseas his fundamental
+unit. As regards
+largerunits, for Koch
+these are all compositesof phrases,each or any of whichmaybe extended
+by variousmeans. A period of two or three such phrasesmakes up normally the reprisesof smallerforms. Fouror morephrasesconstitutewhat
+he calls the principalperiods(Hauptperiode) largerforms, for instance
+of
+the unitsthatwouldbe identified moder terminology the exposition
+as
+by
+of a sonataformand the entiresectionformedby the development the
+and
+takentogether.2'
+While Koch gives no special statusto the
+recapitulation
+unit, manysuchunitsoccurin his examples,bothwithinhis
+eight-measure
+principalperiodsand by themselves.Some of these he considersas extensions of four-measure
+phrases, others as varied repetitionsof the same
+phrase,but most of themwouldbe identifiedin Riemann's
+systemas periods.22
+here is not quiteas greatas it appears.
+Thus, the difference
+The same may be statedconcerningthe second areaon which the two
+differ.As Kochsees the four-measure
+minimum
+unit
+phraseas the practical
+a
+capableof containing fully statedmusicalthought,and not as the result
+of universalkineticlaw, as does Riemann,he allows, at least in principle,
+that genuinefive-, six-, and seven-measure
+phrases(Funfer,Sechser,and
+of
+Siebener)exist thatare not modifications basic Vierers.Yethe himself
+actuallyderives most of his own examplesfor such largerphrasesfrom
+basic four-measure
+can
+units, and the methodhe uses for these reductions
+be easily appliedto his few remaining
+His
+examples?3 methodsof reduction are, of course,the sameas the techniques phrase-extension, in
+of
+only
+340
+
+reverse, and all are adopted by Riemann, albeit sometimes with a different
+nomenclature.24
+Of greater importance is the third area of divergence between Koch and
+Riemann, their respective positions in regard to phrase-ending cadences.
+For Koch, phrases normally end on either the tonic or the dominant (Grundabsatz and Quintabsatz). The fourth degree, for instance (and other
+degrees by implication), is not suitable for a cadence, " . . . for such triads
+seem to be unable to give a quality of completeness to the thoughts that end
+with them."25 Only modulating phrases may end on other triads, but in
+these cases the final is actually either the tonic or the dominant of the new
+key. Koch states the norm here, as is his avowed purpose throughout his
+treatise in all other matters, and adds immediately an example to show an
+exceptional phrase which ends on the subdominant triad and "which our
+feeling judges to be fairly complete."26 One may, however, judge the force
+of the norm, when one considers that the phrase given as the exception is
+the only one of its kind among all the examples in the Versuch, whether
+composed by Koch or anyone else.
+The last and most importantarea on which views of the two theorists do
+not coincide concerns covert change of meter within a composition.
+Neither of them addresses the issue as a separate topic, but both deal with
+it in some form or other. Koch lists "equality of meter and similarity of
+tempo" among the conditions under which phrases may be connected with
+each other to form larger periods?7 This would suggest the requirement
+that the same meter be maintained throughout a composition. Yet he
+presents two particularly intriguing examples in which phrases in 2/4 and
+2/2 follow one another. In the first of these, part of an aria by Koch's own
+teacher, Christian Gotthelf Scheinpflug (1722-70), Koch invites the reader
+to guess the special reason for this expansion of the meter: the words in the
+2/2 phrase are "in Langen, langen Trauertonen."28The second is so
+instructive that I shall cite it here in Example 2?9
+The example is a portion of a principal period. According to Koch'scomment, the first six notated bars contain twelve 2/4 measures, the meter
+changes to 2/2 for bars 7 through 13, and back to 2/4 for the last two bars.
+In modern terms the example can be described as an excerpt from a sonata
+exposition. Bar 1 is the concluding segment of a phrase the beginning of
+which is not given; bars 2-3 contain a phrase in four measures, modulating
+to the dominant; bars 4-6 confirm the modulation and complete the first
+theme group in a phrase extended to six measures (1-2-la-2a-3-4); bars
+7 to the downbeat of bar 14 present a full parallel period in 2/2 time, which
+is the first full member of the second theme group; and the rest of the example (bars 14-15) contains appendices to this theme in 2/4 meter. For Koch,
+the example illustrates a "special kind of parenthesis . . . the insertion of
+melodic sections of a simple meter [2/2] in a piece composed in a compound meter," that is, in C, which is for him the compound of two real 2/4
+341
+
+measures, and he goes on by cautioning the student to exercise great care
+in the use of this technique "if good taste is not to be offended." What is
+a special practice for Koch, strikes the latter-day student as that frequent
+procedure of metric expansion and contraction which characterizes, according to at least one modern observer, a great deal of music in larger forms
+of the Classical period. As Edward T. Cone writes:
+Even within a single tempo not all partsof a movementprogressat the same
+speed. It is this changing rate of progression, ratherthan the multiplicityof
+musical subject matter, that is basic to the bi-thematic and polythematic
+forms of the period.30
+It is not easy to summarize fairly Riemann's position vis-a-vis covert
+meter change. On the one hand, in allowing for it he goes beyond Koch and
+reflects late 18th- and 19th- century practice. On the other hand, he falls far
+short of making the insight expressed by Cone an integral part of his system. Taking the Beethoven Sonatas one at a time, for instance, he finds
+such prolonged stretches of metric expansion-contraction in the development section of the first movement of Sonata No. 2, (Op.2 , No. 2), also
+in the exposition of the first movement of Sonata No. 5 (Op. 10, No. 1), but
+then not again until the first movement of Sonata No. 21, ("Waldstein,"Op.
+53), where he identifies the first theme group as being essentially in twobar measures (correctly, in my opinion), and changes to single-bar measures in the notated meter C for the beginning of the second group. In the
+remaining sonatas he diagnoses metric changes somewhat more frequently
+than in the earlier ones, but he seems to feel the need to argue every one
+of these cases separately, as if they were anomalous, and fails to develop
+any cohesive set of principles by which such covert meter changes could be
+systematically identified in analysis.
+Riemann's analyses thus show him to be aware of that aspect of the temporal organization of music, which I will call its pacing. On the subsequent
+pages "pacing"will always refer to that "changing rate of progression" from
+one thematic entity of a larger form to the next which Cone speaks about.
+As can be seen in the Koch excerpt cited in Example 2, also in Beethoven's
+"Waldstein"Sonata as analysed by Riemann, this changing rate of progression is accomplished primarily by a change in the rate of harmonic progressions (in the Schenkerian foreground or middleground) and results in de
+facto metric change. Although Riemann does take occasional cognizance
+of changes in pacing in this sense, he nevertheless sees the temporal organization of music, as does Koch, almost exclusively in terms of changes in
+what I will call "musical density." As used on the following pages, the term
+"musical density" refers to that property of the temporal organization of
+phrases, periods, appendices, and extended anacruses, which is a function
+of their internal construction. Density is considered greatest in basic
+phrases and periods without a preface or with at most one measure of a
+342
+
+preface.Varyingdegrees of the intermediate
+rangeof density resultfrom
+applying various kinds and various amounts of internal extension to
+phrases.Density is minimalin passagesconsistingentirelyof appendices
+thatdo not formphrasesby themselves(for instance,codettas,some dominantpreparations,
+also extendedanacrusesor prefaces).Riemann's
+concentration variations musicaldensity as the primarytool in shaping
+on
+in
+musicalformmay well be the reasonthathe often overlooksvariations
+in
+musical pacing. Usually, his analyses proceed on the assumptionthat a
+Most if not all complexities
+given piece is in the same meterthroughout.
+that occur in portions of Riemann's
+analyses-some of his critics label
+them contortions,and not without justification-are the result of this
+As
+assumption. we shall see laterin connectionwith some examples(par4a,
+ticularlyExamples 7a and b, and 13aand b) these complexitiestendto
+disappearonce a given passage is consideredin a meter other (usually
+twice larger)thanthe one assumedby Riemann.
+Criticismof Riemann's
+systemfocusesmainlyon threepoints. First, its
+are questioned,togetherwith his inconsistentor arbitrary
+complexities
+mannerof applyingsome or other of his own criteriato practicalanalyses.31Second, objectionsare raised againstRiemann's
+excessive reliance
+on Vierhebigkeit
+to
+(carrure),thatis, his reluctance admitof ternaryunits
+on
+largerthanthe measure an equalfootingwith binaryunits.Finally,third
+and most serious, his doctrine of Auftaktigkeit
+strikes many critics as
+unwarranted untenable.
+and
+The premisethata given unit, say, a measure,
+providingan answerto the one precedingit should become ipso facto a
+metricalaccentis unacceptable, it is assumedthatstronger
+if
+metstronger
+rical accentmeans strongertonic accent. The centralpoint of the present
+essay is that as these criticisms touch upon detail ratherthan upon the
+underlying
+principle,groundsfor themcan be removed applyingone or
+by
+anotherof the threecorrectiveswhich I proposeto Riemann's
+fundamental
+in
+followtheory.The firstof these, to be presented the sectionimmediately
+ing, is a relatively simple addition for the purpose of dealing with
+Riemann's
+towards
+supposedlyinflexibleattitude
+ternaryunits. The second
+and third correctivesboth aim at producingcriteria for covert metric
+change.The seconddefinesthe phrase,at least in part,by adoptingKoch's
+norms for phraseending cadences, as well as his impliedprincipleof at
+least one tonalchangeper phrase,with the resultthatphrases,and therefore true measures,will be of varyinglength. Finally,the thirdcorrective
+doctrineof Auftaktigkeit the principlegoverningthe
+as
+rejectsRiemann's
+of
+and
+hierarchy stronger weakertonic accentsandreplacesit with a workthat has prompted
+ing hypothesis.This is based on the same observation
+Riemann's
+doctrine,
+namelythattheseswithina segmentareindeedunequal,
+one is stronger
+thanthe other(or others).However, pattern the alterin
+the
+nation of strongerand weakertheses is neitherpre-determined prenor
+dictable.It maybe regularin a given phrase,but normallychangesat least
+343
+
+once withinthe courseof the next largerunit, the period. The effectof the
+last two correctives
+takentogetheris a partialshift in the focus of analysis.
+The questionsis no longermerelyhow a phraseor a periodis constructed
+but rather whichmetriclevel is it constructed. secondary
+on
+A
+effectis that
+practicallyall the forbiddingcomplexitiesof Riemann's
+analyses disappear.A greatmanypassagesthatcan be relatedto Riemann's
+prototypical
+contortions long
+as
+periodonly at the cost of ingeniousand unconvincing
+as they are assumedto be in the notatedmeterwill be seen on the subsequent pages as fitting the very same prototyperathereasily if they are
+assumed to be in a meter twice (or half) the size of the one initially
+assumed.
+TERNARY
+UNITS.
+unitshavea relativelyrestricted in any sysrole
+Ternary
+tem that is based upon the question-answerrelationshipof carrure,
+whetherdescribedin terms of subject and predicate,as by Koch, or in
+termsof Auftaktigkeit, by Riemann.In Kochas oftenas in Riemann,the
+as
+numberthree as a multiplierof measuresand phrasesappearsto be illusory in practice.When phrasescontainthreetwo-measure
+segments,they
+are usually interpreted
+eitheras alternative
+first segmentsto a single answeringsegment,or as the reverse,a single segmentreceivingtwo alternative answers.The same applies to periods containingthree four-measure
+strikes
+phrases.It should be addedthat in most cases this interpretation
+most of us as convincing.The situationis a little different,with segments
+of threemeasures.WhileRiemann
+allowsfor the number
+threeas a divider
+of beatsandmeasures,he considersit anomalous a dividerof segments.
+as
+Yet he makesallowancefor the occasionalthree-measure
+unit, and offers
+threemethodsto deal with them in analysis.32
+First, he recognizesthat a single three-measure
+segment may occur
+within a period constructed
+otherwiseof normaltwo-measure
+segments,
+andcoins for it the term Takttriole.
+Whethersuch Takttriolen
+resistfurther
+breakdown admit of being analysedas one shorterand one extended
+or
+measure(e.g., the first three bars in each of the five-barphrasesof the
+theme chosen by Brahmsfor his HaydnVariations,
+Opus 56a and b) this
+methodis not likely to raise the eyebrowsof Riemann's
+critics.33
+Second,
+when three-measure
+units occur seriatimforminga completeunit at least
+as large as a period, which is then said to be in ritmodi tre battute,Riemannarguesthatthey are not in fact three-measure
+segmentsbut largeternary measures notated in three bars. This proposition may seem
+controversial is probablycorrect, as I will attemptto show presently.
+but
+three-measure
+Finally,when he encounters
+segmentsaccentedin the first
+and thirdmeasures,and finds severalof these in conjunction
+with several
+two-measure
+segments,he againarguesthatthese are not in fact segments
+but truncated
+four-measure
+phrases,in which the firstmeasureis omitted
+344
+
+or suppressed.This methodis apt to be highly controversial, I will
+and
+deal with it at some length afterdisposingof the subjectof periodsa tre
+battute.
+
+It is rather
+difficultto findentireunitsin ritmodi tre battutein Western
+music of the last threeor fourcenturies,but Beethovenso markstwo pasthe
+sages (one in the NinthSymphony, otherin the C sharpminorQuartet,
+occur in the
+Opus 131),andpassageswithoutbeing expresslyso identified
+music of othercomposers.I hope thata single exampleof my own chooswill suffice to show that Rieby
+ing supported a modicumof arguments
+mannis probablyrightin consideringsuch passagesas consistingof large
+ternarymeasures.
+3
+D
+Example containsthe full openingthemeof Haydn's MajorQuartet,
+20, No. 4, writtenc. 1772. The theme consists of five six-barunits
+Opus
+but is actuallycompleteafterfourof these. The fifthunitis only an appendix supplyingthe full cadence expected but avoided in bar 24, and it
+the
+merelyconfirms sense of the precedingsix-barunit. The analysisgiven
+in Example3 reflectsRiemann's
+position in regardto such passages.The
+true measureis assumedto be 9/4, and both the harmonicrhythmof the
+theme as a whole, as well as the repeatedquarter-note
+figureof the first
+violin in bars 1, 7, 13, 19, and 25, suggestthat these bars are anacruses.
+Theses are thus foundin bars 2, 5, 8, 11, 14, 17, 20, 23, 26, and 29. This
+on
+interpretation
+probablystrikesmost of us as reasonable the face of it,
+but examination three other possible interpretations, in 3/4 time
+of
+one
+2
+1)
+(interpretation and two others in 6/4 time (interpretations and 3), is
+that
+necessaryfor demonstrating the analysis given in Example3 is the
+only one that is truly convincing.
+1
+Interpretation assumesthateach six-barunitis a full phrase,thusbars
+1-12 and 13-24 are periods, the two halves of a paralleldouble period.
+The theme would be a tre battutein that sense of the term which is not
+to
+acceptable Riemann(norto myself), namelythatthe three-measure
+segments in bars 1-3, 4-6, etc. would be functioningthe same way as the
+more usual two-measuresegments function in the more usual eightmeasureperiods. A glance at the music refutesinterpretation on two
+1
+noticeable less important the impossibilbut
+is
+grounds.Moreimmediately
+bars. Such a division
+ity of dividingthe six-barunits into three-plus-three
+in the face of harmonic,rhythmic,and melodic motivic forces seems, to
+nonsensicalin
+say the least, perversein the firstthreeunits,anddownright
+the last two. A more important
+objectionis that bars 1-6 (and 13-18)do
+not containa musicalthoughtcompletein itself, as required Koch.The
+by
+reasonforthis is preceiselythe principle
+deducedearlierfromKoch's
+examples: A phrasemust containat least one tonal motion in orderto be perceived as a phrase. Bars 1-6 (and 13-18) contain only momentary
+ornamental
+chordsover the tonic pedal, a true tonalprogresneighboring
+345
+
+L
+
+Allegro di molto
+
+r
+
+$4r D 1
+
+-
+
+-
+
+r
+
+W-
+
+J1-
+
+-
+
+j
+
+3
+
+n
+
+j
+
+^
+
+?~I?Ki'i
+
+rritJud
+
+p
+
+~~~
+3?
+
+-
+
+^tL'
+
+-
+
+I
+
+1.li^
+t=r tc
+7a-
+
+E m S2
+7ay , .
+
+ll
+
+J J--
+
+j6
+
+' I -..--
+
+--r
+
+r.
+
+Ir
+
+d
+
+il?
+
+-4
+
+-
+
+J
+
+,
+
+j19
+
+P-?
+
+T f
+
+,
+
+WnrFa
+o-
+
+a
+
+r
+
+8a
+
+Example 3. Haydn, String Quartet in D, op. 20, no. 4, mm. 1-30
+
+346
+
+I
+
+sion does not occur until the end of the next six-bar unit. Bars 1-12 and
+13-24 are thus seen not as periods but as phrases.
+This leads to interpretations2 and 3, both in 6/4 time. Each six-bar unit
+now would contain three true measures, that is to say, the period would still
+be a tre battute in the unacceptable sense of the term. Interpretation2 starts
+out with one bar of an anacrusis and continues with pairing together bars
+2-3, 4-5, etc. The result of this barring can be eliminated on a technical
+ground alone-our sense of harmonic rhythm is turned upside down by the
+cadential six-four chords falling on arses in bars 11 and 23. Not impossible
+but similarly grating are such features as placing the high d"s in bars 5 and
+17 on arses and placing an accent on the a' of bar 22, a note tied over from
+bar 21. In a different context this tied a' may possibly be heard as an intensification of accent through syncopation, but in the actual context the superior force of the cadential six-four chord following in the next bar (bar 23)
+disallows this interpretation. The figure of the three quarter notes presents
+somewhat more complicated interpretive problems. The figure is clearly
+anacrustic in bars 1, 7, 13, 19, and 25. This may suggest at first that interpretation 2 derives a modicum of support from the bass which contains this
+figure in bars 5, 17, and 27 and a related figure in bars 11 and 29. I believe,
+however, that the melody exerts greater control over the perceiver's sense
+of meter. We tend to accept Haydn'streatment of the bass as a subtle witticism (leading to further witticisms in all four voices in the last two six-bar
+units) but we tend to reject the necessity of assuming that the figure of three
+quarter notes is always an arsis at the beginning of a segment and always
+a thesis in the middle of it as too mechanical and too crude.
+As for interpretation3, which is to pair all odd-numbered bars with the
+even-numbered ones following them (1-2, 3-4, etc.), no technical objection exists, but the esthetic ones are even more severe, at least in bars 1
+through 18. Having the repeated quarter-note figure as a thesis seems perverse to begin with, and then alternatingthis figure with the related quarternote figure beginning on an arsis is as grating here as it was in interpretation 2. Perhaps most ludicrous is the effect of placing metric accents on
+almost every one of the ornamental neighboring chords (bars 3, 9, 15, 21)
+as if they were all appogiature. None of these things are impossible in themselves, but heard repeatedly and in conjunction with each other they counsel rejection of this interpretationas well, particularly in comparison with
+the one given in Example 3. The 9/4 interpretation contrasts with the
+others in that the figure of the three quarter notes is usually an anacrusis,
+as expected; most ornamental. neighboring chords fall on arses, as
+expected; cadential six-four chords fall on theses, as expected; and the
+whole accentuation pattern requires no special effort on the part of the
+performers-it hardly goes beyond what a synthesizer would automatically
+produce. Similarities between this case and those argued in the System convince me of the practical value of Riemann's position, even if they do not
+347
+
+necessarilyconstituteincontrovertible
+proof of its absolutecorrectness.
+methodsto deal with three-measure
+The last one of Riemann's
+units,
+thatis, to considerthemas truncated
+phrases,is the most likely candidate
+to be labeleda contortion his critics. The only thingthatcan be brought
+by
+in its defenseis thatit happensto get hold of an important
+cornerof musical truthin one piece thatRiemann
+analysedin 1890,thatis to say,at a relaThe passage, a strain from
+tively early stage in his study of metrics.34
+in G minor,K.516,is given in Example4a, along
+Mozart,StringQuintet
+with Riemann's
+analysisin which the numbersin bracketsare my supplementsto those of Riemann.
+units as phrasesin which
+Riemanninterprets
+each of the six three-bar
+is
+the firstmeasure-motive elided, that is, in which the firstgrowthphase
+of one phrasecoincides with, and is thus suppressed the final central
+by,
+point of stress of the precedingphrase.In the System,besides reiterating
+the aboveexplanation, marshalls
+he
+manymore examples,includingBach
+andthe Menuetof Mozart's minorSymphony
+G
+(K.550)35None of
+fugues
+these are as convincingas the examplefrom the String Quintetbecause
+none of themcontainthe one contextual
+featurethatmayhaveguidedRiemannin the Quintetandthatmighttip the balancein favorof his interpretation. The first two and the last two three-measure
+units of the strainin
+Example4a are literallyextractedfrom the cadentialappendices(last six
+of
+measures) the precedingMenuet,and in these appendices
+they function
+indeed in the abovedescribedmanner,as shownby my numbersaccompanyingthe final strainof the Menuetgiven in Example4b. The six measuresat the end of the Menuetformtwo phrases,each beginningwith the
+final measureof the precedingphrase.Thus, when we hear the musical
+materialscontainedin them at what turnsout to be the beginningof the
+them as we first heardthem, that
+Trio, our first inclinationis to interpret
+four-measure
+is, as truncated
+phrases.
+Analyzing the cited Mozart strain in this mannerreveals something
+aboutit thatwe can hear,and undeniably
+thereare othercases wheresuch
+an analysisis supported some contextual
+circumstance?6 Riemann,
+For
+by
+schemato deal with all three-measure
+units
+however,this is the preferred
+with accentsin the first and thirdmeasures.I believe that he is wrong in
+unitsare betterinterpreted
+this, and thatmost or all of such three-measure
+as extendedsegments,or in otherwords,as a special class of Takttriolen.
+Since this simplerschemaleads usuallyto a simpleranalysisof the entire
+periodcontainingthis type of three-measure
+segment, I proposeit as the
+first corrective to Riemann'ssystem-more an extension of it than a
+revision-and will, for wantof a betterterm, coin the label branle-triplets
+for the resulting class of Takttriolen
+after the 16th-century
+family of
+habitatof the type.
+dances,which is the earliestknownnatural
+of
+Accordingto the Orchesographie Thoinot Arbeau(pseudonymof
+JehanTabourot)
+publishedin 1588, the family of branlescomprisesfour
+348
+
+a. Mozart, String Quartet in G minor, K. 516, III, mm. 43-62 (beginning
+of Trio) with Riemann's analysis from the Handbuch der Phrasierung
+
+A'_
+
+-
+
+2
+
+-l-r
+
+[3]
+
+-
+
+4 [=5. .
+
+-x - t'---
+
+Af 2 I- jrfrrrlrF
+[--IiKI
+4I -I
+I
+j
+
+ir
+
+I
+
+I
+
+rrr^i
+
+tl
+
+[71 -
+
+8 [=1]-
+
+-
+
+6
+
+[7J -
+
+.
+
+8 [=11
+_
+
+: f-fl'rfrr? [ I
+L
+...
+6
+
+:1
+
+4 [=5] -
+
+[3]
+
+4I
+
+lr
+
+rP
+1" nt~~~~1
+
+i^"f
+
+J
+f
+
+-
+
+. - ,
+
+-
+
+[8=1]
+'
+
+i
+
+1dI:4 jIW
+
+Jii2
+
+[3] -
+
+2
+
+--I
+
+4 [=5]-
+
+:
+
+I I
+-
+
+6
+
+JJ
+
+1
+
+8
+
+[7]
+
+b. The strain preceding the Trio (Ex. 4a), mm. 26-43 of the Menuet, with
+author's analysis
+MENUETTO.
+i
+Allegretto
+I"
+
+- --
+
+1,.
+
+,
+
+Sb"'r
+
+r
+
+tr
+
+rf
+
+r7a
+
+f
+~
+$r $#
+,bb^r, ~-~~~rr4~~i~+
+I
+
+K::r
+
+-'
+
+6
+
+-
+
+7
+
+-
+
+)r
+
+8=5
+
+-4
+
+j
+
+-
+
+c-
+
+6
+
+Example 4
+
+.
+
+J J
+
+J
+
+7
+
+-
+
+^i
+1
+
+8=1
+
+349
+
+main types. The branle double consists of two plus two so-called doublestep units performed to four-measure strains of music in 4/4 time; the
+branle simple regularly alternates double- and simple-step units to music in
+4/4 plus 2/4 time; the branle gay is in ternary meter like a galliard; and
+branles coupes are irregular and unpredictable mixtures of the first two
+types. Branles coupes are danced very fast, to music in which 4/4 measures are coupled either with other 4/4 measures or with 2/4 measures, and
+the musical sources show that the odd 4/4 measure is not a rarity either.7
+The bonny brawl resulting from this last type-recommended by Arbeau
+only for the very young-must have been a sight to behold. Whether a listener hears a branle simple such as the one given in Example 5a as one normal long measure plus one truncated measure, or the other way, as one
+extended plus one normal short measure, is a moot point. It is, however,
+easier to hear the 4/4 measure as normal in the branle coupe given in Example 5b, because they outnumber the 2/4 measures. A 2/4 measure may be
+heard truncated even when in fact it extends rather than shortens the phrase
+in which it is found, as in Example 5c. Many other examples could be cited
+to demonstrate a dizzying variety of methods of extension and elision as
+well as the delightful doubt they generate in the perceiver's mind as to
+whether they are in fact elisions or additions. Even before branles begin to
+appear in 16th century prints, the effect of their metric construction is
+already to be detected in chansons of the 1530s, for instance, in the "D'ou
+vient cela" of Claudin de Sermisy, one of the hit tunes of the century, given
+in Example 5d.38
+It is clear, however, that branle-triplets, whether in extended or truncated measures, constitute segments at most, never phrases; and it is
+equally clear that they originate in, and fit into, the carrure system much
+more directly than Riemann's "truncated-phrase"
+interpretations. Their historical importance can hardly be overestimated, for they permeate not
+only 16th-century chanson composition from Claudin to Lasso, but find
+their way into all kinds of music, then and later, composed by musicians,
+most of whom are quite unaware of the 16th-century prototype. Froberger
+is particularly fond of them and so are French musicians throughout the
+last four centuries in general, not to mention Haydn and Mozart. It is worth
+noting that those two of Koch's six examples for six-measure phrases which
+he does not himself derive from Vierers, are in fact composed of such
+branle-triplets. I give these in Example 6a and b, so that they may be compared with a particularly sophisticated use of the same device in a strain
+from the slow movement of Beethoven, Sonata in C, Opus 2, No.3, given
+in Example 6c.39
+Of the four different analyses in Example 6c the first three are mine, and
+the fourth is Riemann's. Only the first, interpreting the antecedent as two
+branle-triplets and the consequent as a four-measure phrase joined to the
+antecedent by cadential overlap, is correct. Bars 1-6 and 6-9 are both
+350
+
+a. "Branlesimple,"after Henry Expert,ed., Les maitresmusiciensde la
+renassance francaise, vol. 23, 1908, p. 54
+ONA!9
+
+A
+
+.00"
+
+.
+
+*,
+
+-
+
+5
+
+.'o
+
+6
+
+__
+
+_
+
+lFine]
+
+-
+
+7
+
+-
+
+#
+t
+
+8
+
+[D. C.al Fine]
+
+-
+
+5
+7
+
+68
+
+B.
+labourez vignes,"afterEverett Helm, ed., The
+les
+b. Arcadelt,"Margot,
+Chansons of Jacques Arcadelt, I, 1942, p. 20 (branle coupe)
+
+5
+
+[D.C. al Fine]
+
+Fine]
+
+J
+
+-
+
+-
+
+6
+
+-1 Ut..l
+!l
+
+.......
+7
+
+-
+
+5
+7
+
+8
+
+-
+
+68
+
+-
+
+c. "Branlede Bourgogne(branle coupe) first strain, after Expert, pp.
+85-86
+!
+F
+
+##
+1'V U
+5
+
+I;1
+6
+
+-
+
+-
+
+=11
+
+r-^i
+7
+
+8
+
+A.
+d. Claudinde Sermisy,"D'ouvient cela," afterLionel de la Laurencie,
+Mairy, and G. Thibault, eds., Chansons au luth et airs de courfrancais
+du XVIe siecle, 1934, p. 32
+
+8
+5
+
+J 8^Ji
+J|l'
+8
+
+q5
+
+-
+
+-
+
+-7
+6
+
+~J [j
+b
+
+8
+
+," ' I
+
+1r
+-
+
+/
+
+1
+_-
+
+-
+
+Z
+
+tunes with note values reducedand with
+Example5. Four 16th-century
+author's
+351
+barring
+351
+
+a. Example 52 from Koch'sIntroductoryEssay, p. 18, with author'sanalysis
+
+1
+t4I -LIJ I-i'
+
+u1
+
+WI
+
+22
+
+1
+
+O
+4
+
+3
+
+1
+
+b. Example 53 from Koch'sIntroductoryEssay, p. 18, with author'sanalysis
+
+-
+
+'
+
+o
+
+I
+
+h
+
+i
+P
+
+-
+
+'
+-
+
+1
+
+nin
+
+.
+
+2
+
+A
+2
+
+1,
+
+1
+
+-
+
+n.
+
+-
+
+3
+
+4
+
+c. Beethoven, Piano Sonata in C, op. 2, no. 3, II, mm. 11-19, with three
+analyses by the author, and a fourth by Riemann
+
+-4
+T.JmJ
+
+F tt1
+
+(ben tenuto)
+
+(1)
+(2)
+(3)
+(4)
+A
+
+I
+
+t
+g
+
+-
+
+2
+6
+6
+4 [=5]
+
+3
+
+Fsa g
+
+a
+
+.-_[ i5L zY,
+n r JiJ*~>BaL
+>
+((
+
+b-
+
+goma
+
+^ ^_
+
+.
+
+(I)
+(4)
+
+3
+(5a
+(5a
+6
+
+(1)
+
+6
+
+(2)
+(3)
+(4)
+
+(7
+(
+6
+
+352
+
+M=
+jE4 _^
+
+F
+
+f
+(2)
+(3)
+
+--^BB-i
+
+i
+
+g"w-N^
+
+(5
+(5
+2
+A
+
+,o
+
+\
+
+)
+)
+
+m en
+ol- L
+..a
+
+7
+
+7
+7
+
+Example 6
+
+,J s~
+
+Si
+4=5
+6a
+6a
+8=5
+
+7
+
+-
+
+-
+
+-
+
+)
+
+)
+
+8
+
+8a)
+8)
+8
+
+phrases, as they both contain the requisite tonal progression. My other two
+analyses are given only for the sake of argument. The second one assumes
+bars 7-9 to be a Takttriole,but not a branle-triplet analoguous to bars 1-3
+and 4-6, for the accent pattern is weak-strong-weak. I rule it out on the
+basis of a Riemannian principle stated by him time and again in many different contexts: "This interpretation is not impossible, but as it may well be
+unnecessary, it is of course false."40 My third analysis can be ruled out on
+the same ground. It could be accepted only if the continuation would somehow justify it, which is not the case here, as the reader may verify by consulting the score. I reject Riemann's analysis on the grounds that there is
+no conceivable reason to consider bars 1-6 as a.complete period in two
+truncated phrases rather than a single phrase with one tonal progression in
+it (I-III). Further, his interpretationdoes not highlight here the kind of contextual feature that justified it in Example 4a. It seems both overly ingenious and superfluous; my first analysis can be substituted for it without
+difficulty and to more telling effect.
+In Example 6c the long measures of the branle-triplets are extensions.
+In the first strain of the Menuet of Mozart's G minor Symphony, K.550,
+and in the strain cited previously from his String Quintet (Example 4a)
+they are felt as normal 6/4 measures followed by foreshortened 3/4 measures. I give my analysis of these two Mozart excerpts in Examples 7a and
+7b to show that interpreting the consequent phrases of these in 6/4 time
+(i.e., in two-bar measures) fits into Riemann's system much more easily
+than do his own analyses. While I do not reject Riemann's analysis of the
+Quintet (Example 4a) I consider the one in Example 7b a valid alternative.
+If it is not conspicuously simpler, it has the advantage of showing that the
+final portion of the strain, bars 56-62, contain a pair of cadential appendices, that is to say, a passage of lesser musical density than the full period
+preceding it. I believe this to be a musical fact at least as important as the
+one Riemann is attempting to show when he calls attention to the origin of
+the first six bars of this Trio in the last six bars of the Menuet. The contortions of his analysis of the Symphony (example 7a) are a direct consequence of his doctrine of Auftaktigkeit-a heavily accented beginning must
+be an even numbered measure-of his reluctance to assume in practice
+covert meter change, and of his general preference for shorter rather than
+longer units as the true measure. In view of Riemann's position vis-a-vis
+passages in ritmo di tre battute his preference for shorter measures in other
+contexts seems paradoxical.
+Examples 3, 4, 5, 6, and 7 demonstrate that two of Riemann's schemas
+dealing with three-bar units have much to recommend them. Takttriolen
+and the assumption of large ternary measures for passages in ritmo di tre
+battute are useful concepts in a system based on carrure. His third schema,
+however, interpreting three-measure units as phrases with their first measure missing is most of the time both unnecessary and confounding. It may
+353
+
+in
+a. Mozart,Symphony G minor,K. 550, III, mm. 1-14, with Reimann's
+analysis (2)
+analysis (1), and the author's
+MENUETTO.Aegretto
+
+2
+1
+
+(2)
+
+n ."r
+,_k-L
+I
+
+,
+
+(2)
+(2)
+
+4[=51-
+
+-
+
+-
+
+3
+
+. ..
+
+...
+
+Lj'FI
+
+6
+
+2
+
+[3]
+
+-
+
+-
+
+2
+5
+
+_. -k_ ; ...
+
+'.
+;,
+
+"[m-i
+"L [fI F r ' i'
+it
+4 (Anhang)
+6
+
+[31
+
+8 (=1)
+4
+
+[71
+
+4a [=51
+
+7
+
+-
+
+6
+
+-1 I I'rF1i
+F1F:i
+7
+
+8
+
+8
+
+-
+
+b. Mozart,String Quartetin G minor, K. 516, III, mm. 43-62, author's
+analysis(cf. Ex. 4a)
+
+1-
+
+4
+
+3
+
+-
+
+-
+
+r?
+
+7
+
+-
+
+8
+
+-
+
+7a
+
+-
+
+8a
+
+Example7
+
+354
+
+-
+
+7b
+
+-
+
+8b
+
+be discarded from his system without loss, and my schema of branletriplets may be profitably substituted for it. Branle-triplets are always segments, not phrases, whether they result from the extension of a measure,
+as in Example 6c (and as we shall see later in Example 13a), or from the
+foreshortening of a measure, as in Examples 5b, 7a, and 7b (and as we
+shall see later in Example 8a).
+
+THE LENGTH OF THE PHRASE DETERMINED BY CADENCES AND
+THE PATTERN ACCENTS. The remaining two correctives or revisions
+OF
+of Riemann's system are intended to serve as criteria for determining the
+length of the phrase and thus the length of the true measure defined earlier
+as one fourth of the phrase when extensions and elisions are left out of consideration. From a practical viewpoint the first of these, adopting Koch's
+norms for phrase ending cadences along with his implied principle of at
+least one tonal change per phrase, is the more important of the two, and
+needs only minor qualifications. Accordingly, some form of full and half
+cadences is the rule, but modulation may shift the cadence to other degrees
+of the scale. The progession V-VI is acceptable as a weak tonic cadence,
+but when it occurs at the end of the period it should normally be followed
+by a cadential appendix that supplies the actual tonic, as is the case at the
+end of Examples 3 and 4b, where these special appendices are felt to
+belong more organically to the period proper than do such appendices
+which are added to a period after a full tonic cadence. A rare exception will
+be shown in Example 9a, in which the antecedent phrase ends on the supertonic yet "our feeling judges [the phrase] to be fairly complete" because all
+other conditions of period construction are satisfied.
+It is only on account of some problems in its practical application that
+the second criterion for determining the length of the period may seem to
+be of lesser importance than the first. The second is indispensable as a complement to the first, but its very nature requires qualifications that are more
+complex and more extensive than those needed for the first. Caution dictates that the practical observation underlying this working hypothesis be
+stated first: A period will be certainly perceived as a period, whenever it
+contains at least one perceptible irregularity in the pattern in which
+stronger theses alternate with weaker theses (hereafter st and wt). Both the
+hypothesis and the observation underlying it may be expressed graphically
+by freely adopting the technique of durational reduction advocated by Carl
+Schachter.4 In a durational reduction graph each actual measure is
+reduced to a single beat (usually the quarternote or the dotted quarternote)
+and the beats thus obtained are grouped into hyper-measures. When barring is so used as to create one hyper-measure per phrase, two types of patterns may result: either | C st - wt - st - wt I and its variant form C st wt - | - st - wt, or the Riemannesque patterns C wt - st - wt - I - st and
+355
+
+C wt - I - st - wt - st. According to my hypothesis, either a switch from one
+
+to
+type of pattern the otherwill normallyoccurfromthe firstto the second
+of
+will
+hyper-measure one period,or else a syncopation occurin one or the
+other (or both) of the two hyper-measures.
+It can be seen that rigorous applicationof this workinghypothesis
+types of
+bringsinto play a numberof complexissues. How manydifferent
+accentsare therein general?Whatconstitutesa metricaccent?Is a thesis
+alwaysa tonic accent, an agogic accent, or both?How do we distinguish
+between strongerand weakertheses in general?These questionswould
+a
+studybeyondthe scopeof the presentone, andit is doubtrequire separate
+stateof musictheorya consensusconcernful indeedwhetherin the current
+suggests
+ing these questionscould soon be achieved.2This circumstance
+a certain limit to the applicabilityof the working hypothesisoutlined
+showsthatin an
+above.The questionis, how muchof a limit. Observation
+majorityof cases at least some of those accentswhich are
+overwhelming
+whethera given musicalentityis or is not a period
+decisivein determining
+even on those rareoccadoubt.Further,
+are established
+beyondreasonable
+based
+sions whenthis is not the case, it is oftenpossibleto findarguments
+accentcreatingfactorsthatlead to the satisfactory
+on a varietyof disparate
+In
+solutionof givenproblems. the lightof this, the limitsto whichthe workis applicableare not very severe. It seems nevertheless
+ing hypothesis
+advisable to restate the second criterion in such terms that take into
+and
+accountthe limitingcircumstances makeat the same time the ramifiThis can be done
+cationsof the workinghypothesismorereadilyapparent.
+of
+the
+in four steps. (1) Within measurethe hierarchy beats and their subdivisions is constantand predictable
+repeatedfrom one meathroughout,
+sure unit to the next. (2) Beyondthe measure,that is, in segmentsand
+st
+of
+and
+phrases,alternation stronger weakerthesesis not predictable, - wt
+is as likely in terms of metric expectationas is its opposite, wt - st.
+withinbothphrasesof a paral(3) Withina singlephrase,andconsequently
+lel period,the pattern alternation
+of
+maybe (butdoes not haveto be) regular. (4) In all periods,however,that are not parallelperiods(or parallel
+doubleperiods)the pattern alternation
+of
+mustchangeat least once, either
+withinone of its phrasesor fromthe firstphraseto the second. If this does
+not happen,the musicalentityin questionwill be perceivednot as a period
+but as a single phrasein measurestwice largerthaninitiallyassumed.The
+rationalefor exceptingparallelperiodsfrom this requirement the same
+is
+as the one allowingoccasionalcadenceson degrees other than the tonic
+and dominant: since all other conditions of period constructionare
+of
+satisfied,thatis, symmetry,
+cadences,and homogeniety
+complementary
+materials(this last one to the ultimatepossible degree of completeidentity), the parallelperiod is sufficientlycoded to be acceptedas a period
+even withouta breakin the accentpattern.
+Withthe two criteriathus statedin abstractterms, we may proceedto
+356
+
+concrete examples. The primary concern of Examples 8 through 12 is with
+such musical entities in which one meter is clearly established. This is normally the case with theme statements. Since, however, Example 11 contains an entire sonata exposition, such aspects of larger forms as covert
+meter change and metric ambiguity, the latter a characteristic of transitional passages, will also be discussed. These and other aspects of larger
+forms will be more fully examined in connection with Example 13.
+The two themes that begin the two theme groups in the first movement
+of Mozart's much analysed G minor Symhony, K.550, are given in Examples 8a and 8b.43They were chosen because they provide a fairly typical
+illustration of the validity and usefulnes of the two criteria as well as of the
+kind of arguments their analysis with Riemann's method entails. Applying
+the first criterion yields rather straightforward and immediate results in
+both themes. In Example 8a the I chord in bar 9 and V in bar 16 suggest
+4/2 meter in two-bar measures; the cadences of example 8b, V in bar 47
+and I in bar 51, show the latter to be in the notated C meter. The 4/2 meter
+in Example 8a is further confirmed by the caesura in bar 5. Since this is
+on a II chord in four-two position, it separates segments, not phrases. The
+opening theme is expected to continue beyond bar 9 and would be expected
+to do so even if the cadence were made stronger, say, by adding a d bass
+note in bars 7-8 and leading the melody in some pedestrian way to the
+tonic; the theme in Example 8b gives every indication of being complete
+after eight measures. What the cadences suggest in regard to meter is born
+out by applying the test of st - wt alternation. In the first nine bars of Example 8a harmonic rhythm and low bass notes clearly show that the oddnumbered bars are theses, the even-numbered ones are arses, and that the
+unit is a phrase. For the limited purpose of establishing the whole theme
+as a period, one does not need to determine which of the theses are
+stronger in the antecedent phrase, for clearly some kind of syncopation
+occurs somewhere in bars 10-13, because theses shift from odd-numbered
+bars to even-numbered ones for bars 14 and 16. Complexities can be
+avoided, at least for the time being. Equally simple is the case in Example
+8b. The cadential six-four chord renders the tonic accent on the thesis of
+bar 47 stronger than that of the preceding bar, and this strong thesis is
+immediately followed by another strong thesis in bar 48. The strength of
+the latter hardly needs to be argued-it is a long note on a previously established beat, it is the highest note of the theme, and its harmony is the pungent non sequitur, a subdominant chord following a dominant. Further
+inquiry is not necessary, the requisite irregularity in the pattern of st - wt
+alternation becomes sufficiently clear. Either the first phrase is syncopated,
+or if that phrase is assumed to begin with a wt-a highly dubious
+proposition-a shift from one type of pattern to the other occurs from antecedent to consequent.
+Application of the two criteria brings us thus far in the analysis of the
+357
+
+a. Mozart, Symphony in G minor, K. 550, I, mm. 1-16
+
+-4
+
+-3
+
+-6
+
+5
+
+-
+
+-8
+
+-7
+
+b. Ibid., mm 44-51
+
+qcr
+J^r
+
+r
+
+0sb
+
+P -'
+
+-
+
+2
+
+'
+
+' F*
+
+~,
+
+5
+
+rr
+
+rB
+6
+
+-
+
+J[' a
+
+7
+
+-
+
+Example 8
+358
+
+-4
+
+- 3
+
+8
+
+-f
+
+c. Four analyses of mm. 9-16
+
+?1
+
+_-'
+
+--!
+
+v
+
+(c-l)
+(c-2)
+(c-3)
+(c-4)
+
+U2J jUi
+
+I'
+
+i
+1
+5
+
+4,
+4,
+4
+4
+
+@
+
+@
+
+I
+
+-
+
+-
+
+I2 67
+5
+
+3
+a
+
+-
+
+It-
+
+!"-
+
+T
+-
+
+,I @^UJ
+11
+?J
+
+@14
+
+4=5
+6a
+7a
+6
+
+-
+
+r
+
+-
+
+6
+7
+
+-
+
+7
+
+-
+
+7
+-
+
+8
+8
+
+-
+
+8
+
+-
+
+d. Durational reduction of mm. 1-21
+
+?) D
+
+-N
+
+b',
+
+r
+
+?
+(
+
+IIiTT m r r "tX
+I,
+
+$
+fSbb
+I
+
+@0 @
+
+-
+
+-t'L I^
+,F^ft^ i
+r
+
+l l
+
+I
+
+I___
+
+r
+
+I
+
+alternative
+unacceptable alternativebarring
+unacceptable
+barring
+
+Example 8 (continued)
+
+359
+
+two themes. The second half of Example 8a must be approached by other
+avenues. Since we know already that bars 1, 3, 5, 7, 9, and bars 14 and 16
+are theses, and that a half-measure is missing somewhere in bars 10-13,
+the simplest solution is to count back three two-bar measures from bar 16.
+The resulting analysis, adopted in Example 8a, indicates that it is the first
+anacrusis of the consequent phrase that is shortened by the missing halfmeasure. As this is now only one quarter note long, rather than five quarter
+notes long as are the anacruses to bars 3, 5, 7, and 9, the branle-triplet is
+located in bars 7-9. Testing this attractive interpretation against all other
+possible analyses given in Examples 8c-1 through 8c-4 will turn out to be
+of more than academic interest. The first two of these are based on the
+unlikely assumption that the meter has changed somehow at bar 10 to the
+notated 2/2 (C). Example 8c-3 proceeds from the tenable assumption that
+the pattern of theses in the odd-numbered bars continues for a while
+beyond bar 9. Indeed, nothing within the four bars 10-13 indicates whether
+the diminished four-three chords in bars 10 and 12 are anacrustic arses or
+appoggiatura-like theses vis-a-vis the tonic six-chords in bars 11 and 13.
+Example 8c-3 assumes further that the third segment of the period (i.e.,
+true measures 5 and 6) is elided, and thus the seventh true measure (bars
+11-12) is repeated in varied form (bars 13-15) with its second half elongated. All three of the above analyses contain forbidding complexities.
+They may be rejected outright on the basis of Riemann's dictum "possible
+but unnecessary and therefore false." In contrast, Example 8c-4 presents a
+viable alternative to the analysis in Example 8a. Both contain all four true
+measures of the phrase, both take all pitch events and all rhythmic events
+into account, and minor details do not give us unequivocal indication
+whether the metric continuity of the period should be interrupted by a
+branle triplet at the beginning or in the middle of the consequent phrase.
+Choice between these two interpretations is not easy, for each has at
+least one feature to recommend it over the other. A listener's tendency to
+stick with an established pattern until forced to change favors Example 8c4. Yet a certain element of consistency that can be observed only in the context of the entire period gives a slight edge to the interpretationin Example
+8a. The melodic and durational reduction graph of Example 8d shows this
+context. In the graph rhythmic values are reduced fourfold, and the
+melodic as well as harmonic content of each actual bar is represented by a
+quarter note (occasionally subdivided) constituting the substance of the bar
+in question. The first four full hyper-measures contain the four segments of
+the period, the rest of the graph shows the cadential appendix and the anacrusis to the (varied) repeat of the theme. The harmony in bars 20-21 indicates that this unit is a gavotte-like anacrusis, and identifies thereby bars
+1-2 also as such. Consequently the barring given underneath the system in
+Example 8d cannot be right, and is rendered even less likely by the unwarranted separation of the identical a-g quarter-note pairs (bars 10-13) as
+360
+
+parts of two different hyper-measures. On the basis of the graph the entire
+theme can be seen as four pairs of melodic (though not necessarily harmonic) appoggiature and their resolutions, d-c, c-bb, a-g, and g-f#. The
+first two pairs of notes, d-c and c-bb, and the last pair, g-fl, will certainly
+be heard as melodic appogiature. A quest for consistency may, therefore,
+make the perceiver understand-or want to understand-the a-g pairs also
+as appogiature. This would render the interpretation given in Example 8a
+preferable to the one in Example 8c-4. Nevertheless, the choice between
+them must be considered idiosyncratic. It depends on whether the esthetic
+goal of a given performance is to emphasize or to de-emphasize an irregularity that is there in any case.
+If the analysis of Example 8a was argued at some length, this was
+because its purpose was not only to demonstrate application of the two revisions to the Riemannian method of determining phrase length, nor was it
+only to find the best interpretation(s) of a given musical entity, but also to
+demonstrate the operations of the method as such. As a number of issues
+have already been covered, briefer treatment will suffice to deal with the
+remaining examples. Example 9 presents two themes in which medial
+cadences raise the question whether these themes are indeed periods or
+only phrases. In Examples 10 and 11 three themes will be examined in
+which cadences allow (or seem to allow) various interpretations, and in
+which only the pattern of wt - st alternation is capable of deciding the issue.
+Finally Example 12 contains two themes of a movement, the second of
+which has a sufficiently elusive accent pattern to allow two equally valid
+interpretationson a considerably larger scale than was the case in Example
+8a.
+The first member of the double-period constituting the entire second
+theme in Brahms, Intermezzo in B-flat minor, Opus 117, No.2, is given in
+Example 9a. The theme is in D-flat major, it has its medial cadence on the
+supertonic, its final cadence is on V of the submediant, yet it is clearly perceptible as a full period for every other condition of period construction is
+satisfied. The two four-measure phrases produce the requisite symmetry,
+the material is homogeneous, the cadences are complementary, and the
+antecedent hyper-measure is clearly syncopated.44The st - wt - wt - st pattern is hardly in doubt. The first measure is stronger than the next two
+which are only varied repetitions of the first, and the fourth is strong again,
+not only because it is an appoggiatura, but because it contains the only
+change of harmony and the only change in rhythm in the entire phrase.
+Applying the same kind of reasoning to the opening theme of Beethoven,
+Sonata in G, Opus 14, No. 2, given in Example 9b, leads to the opposite
+conclusion. This theme is only a phrase (and since it stands by itself, without antecedent or consequent, the numbers 5 to 8 are used for its analysis,
+in keeping with Riemann's practice). Despite its symmetry and its material
+homogeniety it is not a period, because the supertonic cadence of bar 4
+361
+
+a. Brahms, Intermezzo in B-flat minor, op. 117, no. 2, mm. 22-29
+
+b. Beethoven, Piano Sonata in G, op. 14, no. 2, I, mm. 1-8
+_
+
+Allegro
+
+plegato
+
+2,
+
+5
+
+5b
+
+-
+
+6
+
+-
+
+6b
+
+-
+
+Sa
+
+7
+
+Example 9
+362
+
+-
+
+6a
+
+c. Example 188 from Koch, Introductory Essay, p. 57
+
+u
+
+Andante
+
+~~~A
+
+A^
+
+A
+
+[E]
+
+[A]
+
+[1
+
+d. Example 374 from Koch, Introductory Essay, p. 216
+Allegretto
+
+I
+
+IA I
+
+Example 9 (continued)
+
+363
+
+does not complement the tonic cadence in bar 8, and because the notated
+In
+theses display the constant st - wt pattern throughout.45 this instance, the
+constancy, taken together with the nature of the musical materials, suggests
+an extended phrase in 2/4 time rather than a basic phrase in 4/4 time, for
+the first three two-bar pairs are free repetitions of each other, and any of the
+three pairs could form a complete phrase when combined with the final segment in bars 7-8. Interpretationin 4/4 time gives no account of the cumulative effect of these repetitions, but the analysis adopted in Example 9b
+does, and is also in line with two of Koch'sextended phrases given in Example 9c and d. His explanation for the first of these is worth citing:
+" .... The punctuation formula of the second [segment] may be made the
+same as the punctuation formula of the first . . . Then the first phrase in
+[the] example is made incomplete, and the second phrase, even though complete in itself, is yet necessary to finish the first. By this means, two complete phrases are given the form and value of a single integral phrase, that
+is, they are compounded."46Two comments need to be added to Examples
+9a and 9b. Cases analogous to the Brahms theme are rather rare in the
+music of other 18th- and 19th-century composers, and cases that are analogous in some way to the Beethoven theme are usually best interpreted in
+double-bar measures (as we have already seen in Example 8a and will see
+in further examples).
+In the next group of themes (in Examples 10 and 11)an over-abundance
+of possible cadence points places the burden of decision almost entirely on
+the pattern of st - wt alternation. Example 10, the theme opening the slow
+movement of Beethoven, Sonata in C, Opus 2, No. 3, is particularly intriguing, for the perceiver who only hears the music (or reads it from an unbarred score) discovers its true meter only gradually, in three distinct stages.
+At the first stage three different meters, 2/8, 2/4, and 4/4 (see dotted bar
+lines) are all possible, and as is shown in analyses 2 and 3, the last two
+meters are capable of being heard in either a thesis-arsis or in an arsisthesis pattern (to reject a priori the arsis-thesis pattern would be as precipitate, I believe, as would be assuming it by preference, as Riemann does.)
+The only thing a listener can be sure of at this point is that in case the beat
+is the quarter note, the thesis of the first bar (whether on the first or on the
+second quarter note) is stronger than the one in the second bar, for the second bar is but a free repetition of the first. This fact will be the more readily remembered by a listener, as the same condition obtains throughout
+bars 3-4 and 5-6, the second stage. All that happens at this second stage
+is the elimination of analysis 1, for the perception of 2/8 time cannot be
+maintained in the face of four pairs of regularly repeated accent patterns (in
+bars 1-4). The quarter notes are thus established as beats, although we still
+do not know which one is the arsis, which one the thesis.
+It is only in the third stage that the exceptionally strong accent on the
+first beat of bar 8 resolves all ambiguities on every level. The strength of
+364
+
+.Stage 1
+
+I Stage 2
+
+/taagio
+
+8(1) _--or =(2)
+or (3)
+
+_u-U
+-
+
+=
+
+v
+U
+
+u-U
+U
+
+...eliminated
+=
+u
+
+-
+
+I
+
+T
+
+U
+
+-
+
+=
+
+=
+
+U
+
+1
+
+_
+
+ai
+4z)^-wro-
+
+Bd LU
+weakth.
+
+(2) (3) U
+
+u
+
+=-
+
+Stage 3
+/
+
+l
+
+U
+
+I
+
+r?
+
+th.
+strong
+
+.
+
+l-
+
+L
+
+newextended
+penultimate
+
+=
+?
+?(-)eliminated
+
+U
+
+(1X
+
+nw
+
+l
+
+new
+
+final
+u
+
+=
+
+Stage 1 (mm. 1-2)
+(1) could be a phrase in 2/8 -time,
+or
+(2) & (3) could be one segment in 2/4 time or one measurein 4/4 time (in either
+case, the thesis of bar 2 is the weaker one, for it is a repetitionof bar 1).
+Stage 2 (mm. 3-6)
+(1) is eliminated (because the regularst - wt alternationdisallows 2/8 time)
+but
+both (2) and (3) are possible in 2/4 time as well as in 4/4 time (i.e., bars 1-4
+could be either a four-measurephrase or a two-measuresegment).
+Stage 3 (mm. 7-8)
+both the 4/4 possibility and analysis (3) are eliminated.
+The remaining analysis (2) is in 2/4 time consistently, and the pattern of
+of
+alternation weakerand strongertheses is: st-wt-st-wt st-wt-wt-st,producing the requisite syncopatedhyper-measurein the second phrase.
+Example 10. Beethoven, Piano Sonata in C, op. 2, no. 3, II, mm. 1-11
+365
+
+-
+
+()
+
+1
+
+-
+
+r
+
+AjllcU
+6
+
+- 5-6
+
+7-
+
+-
+
+7d
+
+-
+
+J > s i-"
+
+7a
+
+F8'
+
+-
+
+'-Sc
+
+o
+3biA
+
+-
+
+7c
+
+i
+-
+
+8c
+
+5
+
+5
+
+-
+
+-
+
+5-
+
+r
+"nu:
+
+()-
+
+r8b
+
+4
+
+3-
+
+-
+
+7
+
+-
+
+2-
+
+6
+
+7d
+
+8a
+(
+
+-
+
+-
+
+7b
+5-6-7
+
+-
+
+Rd
+8d
+
+8e
+
+6
+
+-
+
+16 extended
+
+Example 11. Beethoven, Piano Sonata in C minor, op. 13 ("Pathetique"),I
+durational reduction of the exposition, mm. 12-133
+366
+
+n r-
+
+,
+
+, lt
+b<t1brt
+
+, ,@
+
+--o,oo*ULT
+
+I~;""?"_'-"
+
+o
+
+7
+
+-
+
+8=5
+
+-
+
+-
+
+6
+
+-
+
+6
+
+vAfT^ lj
+
+8=5
+
+u
+
+-
+
+iu
+
+c
+
+7
+
+r
+
+t
+7
+
+-
+
+I
+
+?I
+i^0
+
+(8a
+E
+?
+
+5-
+
+7c ~7c
+-
+
+r
+
+8
+7a
+_? I5-6-9
+
+-
+
+I
+
+I-
+
+7b -
+
+1
+
+~8c~ 7d
+8c I7d
+
+0
+
+8d
+8d
+
+7e
+7e- -
+
+6-7]
+
+Example11 (continued)
+
+367
+
+this accent derives only in part from its being a cadential six-four chord.
+The principlal reason for its paramount force is that the accents of the preceding bar are only implied-they are all but obliterated by syncopation
+(which prevent us from knowing even whether the tied sixteenth notes are
+weak eighth notes delayed or strong eighth notes anticipated). Thus we
+know not only that the first beat of bar 8 is a thesis in relation to the arsis
+of the second beat, but also that within the segment of bars 7-8 it is the
+strong thesis. We now realize that a thesis-arsis assumption throughout the
+first six bars was the correct perception all along, and not the arsis-thesis
+one of analysis 3, which is now eliminated. Further, we also realize that the
+st - wt pattern noted throughout in the first three two-measure segments is
+giving way in the fourth segment to the wt - st pattern which eliminates the
+possibility of a 4/4 interpretationand creates the sycopation in the second
+hyper-measure (i.e., bars and true measures 5-8) that establishes the
+theme as a period in 2/4 time. The cadential appendix in bars 9-11 needs
+no other comment than that the elongation of the repeated penultimate measure places a strong accent on the delayed tonic of the repeated final measure (bar 11). Thus this beat, which also begins the theme cited in Example
+6d, is assured of being heard as strong.
+The two themes in the first movement of Beethoven's "Pathetique"Sonata that are of primary interest for our present purposes are in bars 12-28
+and 52-90, at the beginning of the first and second theme groups, respectively. As the musical materials surrounding these themes are pertinent to
+their interpretation, the entire exposition is given in the durational reduction graph of Example 11. Actual note values are reduced fourfold in the
+graph, that is, each actual whole note is represented by one quarter-note.
+Bar lines are drawn to produce hyper-measures in 4/2 meter in bars 1275 and hyper-measures of varying sizes after bar 76. As a visual aid, subdivisions of hyper-measures are drawn in dotted bar lines. My analysis
+appearing, as usual, beneath the staves identifies the true measures of any
+given part of the movement. The terms "true measures" and "true meter"
+in the following discussion must not be confused with either the bars of the
+score or the hyper-measures of the graph.
+The theme in bars 12-28 is one full parallel period with a preface. The
+two halves of it are phrases, not periods. The reason for this is neither the
+insufficiency of harmonic-melodic materials to make them periods, nor the
+lack of suitable cadence points, but metric properties-the notated bars
+alternate regularly in a strong-weak pattern, making us hear eight beats in
+four true measures. The alternation is regular also on the level of true measures throughout bars 12-28, but as we now have a parallel period, the
+break in the pattern is dispensable. The theme is, incidentally, one of those
+in the literature that happens to fit Riemann's Auftaktigkeit, because it
+begins with the preface 8, rendering the subsequent first measure a relatively weak thesis and because the wt - st pattern from odd-numbered to
+368
+
+even-numbered
+measurescan be maintainedthroughoutin this parallel
+period.47
+The othertheme,in bars52-90, requires
+somewhat
+morecomplexarguments. Cadenceswith phraseending potentialseem to aboundhere too,
+and the hyper-measures also regular,at least up to bar 76. So it would
+are
+seem that the first portionof this theme (bars52-68) is a parallelperiod
+similarto the openingtheme. This is not so, however.The E-flatcadence
+in bar 60 is not complemented the D-flatcadencein bar 68, for this is
+by
+an unexpectedtonal shift away from the tonic key. This portion of the
+themeis thusneitherparallelnor a period, and the regularalternation
+pattern identifiesit as a phrasein true 4/1 time (i.e., hyper-measures
+contain
+segmentsonly, not phrasesas before). It requiresthe answering
+phraseof
+bars 68-90 that providesthe long-expected
+returnto the tonic. Unlike in
+the antecedent
+phrase,in the contextof the entireperiodthe E-flatand the
+(earlier)D-flatcadencesnow complementone another.In fact, the entire
+themein bars 52-90 appearsto be a specialcase of a parallelperiod, and
+as such it could dispense with a breakin the regularst - wt alternation.
+Sucha breakdoes occur nevertheless.
+Effectedby the extensionof the true
+sixth and seventhmeasures,the breakdispels whateverdoubtsmay have
+of
+lingeredon in the perceivingmind concerningthe period construction
+this long theme.48
+of
+Interpretation the two themes in true 4/2 time and in true 4/1 time,
+is furtherenhancedby the other passagesof the exposition.
+respectively,
+As these are all phrasesandsmallerunits,the criterionof changein accentuationpatterndoes not apply to them. Consequently,
+with the exception
+of the themein bars90-102 (repeated bars 102-114),they admitof two
+in
+These appearin the analyses beneathone
+equally valid interpretations.
+anotherand are connectedwith brackets.To be sure, in these instancesa
+to
+playercan do little to varyhis actualperformance suggestnow one now
+the other interpretation.
+Bars 28-32 (and 32-36) will be accentuated
+the
+same way, whetherone interprets
+them as a phrasein four true measures
+(in true 2/2 time) or as two (true4/2) measuresof a cadentialappendix.
+one
+Similarly, maythinkof bars36-51 as one phrasein fourtruemeasures
+(in true4/1 time) or as just a new set of appendices(in true4/2 time) with
+sequentiallyshifted cadences and with the last cadence repeatedseveral
+times. The pattern accentuation be the same in eithercase. Whatis
+of
+will
+in
+on
+important thesepassagesis that,even if performed a synthesizer,
+they
+impressuponthe perceiverthata changeis takingplace in whatwas called
+earlierthe densityof the music andthata comparable
+changein the pacing
+of the music is also underway or is alreadyaccomplished bars 36-51.
+in
+Metricambiguity an asset, not a liability,for it producesa sense of conis
+of
+tinuityat the same time thatit signalschange.Despitethe acceleration
+the harmonic
+overthe dominant
+rhythm
+pedalof bars28-32 and 32-36 the
+continuation 4/2 meter is still felt as a possibility,but the accelerated
+of
+369
+
+pace suggests 2/2 meter as well. Further, the new meter increases our
+awareness of the slower pace of both the preceding period (bars 12-28) and
+the passage that comes next, in bars 36-51. This new passage may be heard
+as resuming (or continuing) the earlier 4/2 time, but since the harmonic
+rhythm is slower here than it was in the opening period, the passage may
+also be heard in 4/1 meter. The stage is thus set for the double period
+already discussed (bars 52-90) at the beginning of the second group. The
+second member of the second group (bars 90-102 and 102-114) is a
+repeated phrase in 4/1 meter-in view of the absence of a medial cadence
+no other interpretation is possible-and what follows is perhaps the most
+remarkable feature of the movement, the remainder of the exposition
+accomplishes a metric contraction that systematically reverses the earlier
+metric expansion. Bars 114-118 (and 118-122) are in their ambiguity analoguous to the passage in bars 28-32 (and 32-36) and lead to the return of
+the opening phrase in extended form, which re-establishes, if only by association, the true 4/2 meter of the beginning. The design that results is
+unique to this exposition. In one respect, however, it is typical of all larger
+forms of the Classical era from Haydn to Schubert. It gives every indication of being calculated to appeal to our rational sense and it seems to be
+executed systematically.
+Before going on to explore further implications of metric change and
+metric ambiguity in larger Classical forms, one more pair of themes will
+be examined for the purpose of demonstrating that two evenly balanced possibilities of metric interpretationmay exist throughout entire large themesand choice between them means a choice between two conspicuously different practical performances. Once again durational reduction in the proportion of 4:1 is employed in the graphs of Example 12 to show that the
+opening theme of the Mozart Piano Concerto in A, K.488, is indeed a
+period (actually the first member of a double-period), in which the st - wt st - wt pattern of the first hyper-measure gives way to the syncopated st wt - wt - st pattern in the second. The syncopation is produced, as so often,
+by the cadential six-four chord in bar 8. It establishes 4/4 meter both for
+the first eight measures and for the largely analagous answering period in
+bars 9-16, even though the decisive syncopation is absent from the latter.
+The same metric interpretationseems to be applicable to the theme in bars
+229-236, shown in Example 12b (these bars correspond to bars 31-38 in
+Example 12c). It is clear, however, that because of the lack of a medial
+cadence these eight bars contain a phrase only, not a period. Such a medial
+cadence could possibly have been produced if bar 232 (=34) had been written differently, for instance if the actual d bass note had been replaced by
+an e and if the continuous figuration of the melody had been interruptedat
+a suitable point. As it is, however, emphasis is on the passing character and
+on the continuity of all harmonic and rhythmic-melodic elements (if these
+are separable), and no phrase ending cadence is heard until bar 236(=38).
+370
+
+to
+Being a phrase,the passageno longerneeds the syncopation clarify its
+in
+and
+construction, it is possibleto consideranotherinterpretation which
+bar 236(=38) is a regularmetric accent. This alternative given in the
+is
+graphof Example12c, which furthersimplifiesmelodicelementsso as to
+maketheir innerlogic more readilyapparent.
+The complete absence of any objective criteria (at least any criteria
+knownto me) that would compel a choice of one interpretation the
+over
+other is a forceful indicationand reminderthat ambiguity inheres in
+rhythmand meter,as it does in the materialsof music in general.When
+Kochis forcedto admitin the Versuch it is not possible to determine
+that
+whethera given musicalentitycorresponds a subjector to a predicate,
+to
+he drawsthe line where the logic of languageand music partcompany.49
+In the presentcase the analogyis ratherwith the seconddegreeequations
+with their alternative
+solutions.Eitherinterpretation the theme may be
+of
+chosen in a particular
+and
+to
+performance, not just from one performance
+but
+of
+another, fromone occurrence the themeto the next withinthe same
+of
+is
+Indeed, such an interchangeability interpretations sugperformance.
+tuttithe themebegins on the weak
+gestedby the context.In the orchestral
+thesis of the precedinghyper-measure, shownin Example12c, while in
+as
+the solo expositionand the recapitulation, latter shown in Example
+the
+12b, it begins on a strongthesis followinga completehyper-measure.50
+in
+Examples8 to 12 werepresented the orderdictated the purposeof
+by
+the
+demonstrating effectof the two revisionsof Riemann's
+system.The criterionof cadencetype presentsfew problemsand is seen to give straightforward
+and immediateindicationsas to the length and true meterof the
+numberof cases. Whenit does not, a usefulcomphrasein a considerable
+conplementis provided the secondcriterion,thatis, by the hypothesis
+by
+cerning the role stronger and weaker theses have in determiningthe
+structure periods.As the hypothesisrestson the observation musiof
+that
+cal entities displayinga regularalternation strongerand weakerbeats
+of
+tendto be perceivedas one unbroken
+chainof measures,makingup at most
+one phraseratherthan a period, this pragmatic
+foundation
+seems to give
+greaterweight to its negative implications.Thus the hypothesisdenies
+periodrankto the firstnine bars of Mozart's
+Symphony(Example8a), to
+Beethoven's
+openingthemes in the G majorSonata(Example9b) and his
+"Pathetique"
+(Example11),not to mentionsuch othercases in pointas the
+first21 barsof Beethoven's
+Fifth symphony,
+oftencited for the grandeur
+of
+its themes.5'But the rationalextensionof the practicalobservationthat
+a
+of
+in
+requires breakin the regularity st - wt alternation periodsseems also
+to be justifiedby some of the aboveexamples(certainlyby Examples8a,
+9a, 10, and 12a), and many others could be cited in its support,among
+
+them Haydn, Symphony in D, No.104, with the decisive st - wt - wt - st pat-
+
+terndominating the 16measures(in this case 16bars)thatopenthe Allein
+gro of the first movement.
+371
+
+1
+
+a. Mm. 1-8
+
+22 :, I : I
+-~ I~
+
+J,'~ ,,,-'
+
+t.
+.l
+t
+~
+Effm
+I
+~~~~I
+L' ' 'SiJflj^^
+[
+1 ! I 1:
+..dw ,
+^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ "
+
+_
+
+I
+
+I
+
+1^1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^ r^ e
+^'J i.^r^J1 L^
+I:. Ir i
+I
+1-
+
+2
+
+3 -
+
+-
+
+5 -
+
+4
+
+6
+
+-
+
+-
+
+7
+
+8
+
+b. Mm. 225-244 (from recapitulation, identical with mm. 95-114 of the
+solo expositions; mm. 229-244 and mm. 99-114 are identical to mm.
+31-46 of the ritornello given in Ex. 12c)
+
+8=7a
+
+2
+
+-
+
+-
+
+8a
+
+-
+
+3
+
+1
+
+-
+
+(?)~~~~~~~~F
+
+5
+
+-
+
+-~d
+
+\-X'R
+
+star
+
+4
+
+W24l
+
+dRI L
+
+L2^
+
+.if^ r
+'6
+
+]17
+
+3
+8
+
+Example 12. Mozart, Piano Concerto in A, K. 488, I: durational reduction
+graphs
+372
+
+c. Mm. 26-46 (from m. 31 identical to mm. 229-244 of Ex. 12b) further
+simplified in comparison with Ex. 12b
+
+ArwA^
+
+r^f!
+(m
+?wv
+
+@
+i
+
+~ ir 2
+
+Ii
+
+3
+
+@
+
+.
+
+@
+
+4..-
+
+I
+
+-i
+-
+
+1
+
+8a
+
+8(=7a)
+
+i
+
+1
+
+D"
+
+1 r rr
+
+{
+-
+
+7
+
+-
+
+r ,,'
+3
+
+-
+
+4
+
+-
+
+-
+
+-
+
+4
+
+I;. -
+
+I
+
+5
+
+5
+
+-
+
+6
+
+-
+
+7
+
+-
+
+8
+
+Example 12 (continued)
+
+373
+
+The group of examples presented on the last few pages (Examples 8-12)
+may also be considered from the viewpoint of the practical effect their anlaysis has upon actual performance. In the B-flat major theme of Mozart's
+Symphony (Example 8b), the opening theme of his Concerto (Example
+12a), the Brahms theme (Example 9a), the opening theme of the Beethoven
+G major Sonata (Example 9b) and the three themes from his "Pathetique"
+Sonata (Example 11) the performer has no choice-only one correct interpretation is available. In the slow movement of Beethoven's C major Sonata
+(Example 10) several choices seem possible at first, but at the end only one
+solution fits all the musical facts. An interpretation that reflects from the
+beginning the metric decision dictated by the final segment is certainly correct, but a performance that carefully avoids the metric decision in the first
+six measures is as good and may indeed be superior. A performance, on
+the other hand, that flirts inadvertantly or on purpose with those metric
+interpretations that turn out to be incorrect as the theme progresses is
+wrong-headed. The transitional passages of Beethoven's "Pathetique"
+(Example 11)offer genuine interpretive alternatives but no choice in the tangible matter of accentuation. One performance may differ from another in
+nuances, for instance, how much music will be played in one breath, or
+how small or how large the minute deviations from metronomic time will
+be. These are important from the viewpoint of the total musical experience, and yet, since ambiguity inheres in these passages, the logic of one
+alternative may be as compelling as that of the other.
+The case is a little more complicated in the opening of the Mozart Symphony (Examples 8a and 8c-4) where a genuine choice between two possible accent patterns is offered in bars 10-13. Even if one of these is
+considered superior to the other-and I for one do not find it easy to decide
+on principle whether rigorous logic is always preferable to flight of fancythe doubt generated by these possibilities is such an important part of the
+esthetic experience, that it seems almost mandatory for a performer to
+avoid making the choice clearly perceptible. Because of the brevity of the
+passage in question, this is much easier to do here than in Example 10. The
+decision, however, cannot be avoided in the theme at the beginning of the
+second group of the Mozart Concerto (Examples 12b and c). An attempt to
+do so-unlikely to succeed in view of the length of the passage-results de
+facto in a choice for that metric interpretation which continues the previously established pattern. It would seem logical to continue the preestablished pattern in both the orchestral tutti and the solo exposition-or
+to discontinue it in both places-in which case the accent pattern of the
+theme itself cannot be the same in both places. It would be, however,
+equally logical to keep the accent pattern of the theme identical both in the
+tutti and in the exposition, which requires that the pre-established pattern
+continue in one place but change in the other. The logic of one considera374
+
+tion excludesthe logic of the other, one of them must be sacrificed-our
+a
+quest for consistencyencounters genuinedilemma.
+OF
+ANALYSIS LARGER
+FORMS.
+The analyticalmethodas formulated
+by
+Riemannhad as its practicalgoal the identification the organization
+of
+of
+musical entities that make up larger musical forms and sections. The
+methoddetermineswhetherthese smaller entities are basic phrasesand
+periods, or internallyextended phrases or periods, or just strings of
+smallerparticles(appendices).
+The methodthus definesthe largerformin
+termsof the fluctuations musicaldensity.The goal is validandso is, genof
+erally speaking,the method. Its weaknessis in that systemicfoundation
+Riemannhas sought in the axiom of Auftaktigkeit. axiom, coupled
+The
+with Riemann's
+to
+preference choose the smallestconceivableunit for the
+measurein practicalanalysis,leads to two particular
+contortions,both of
+which generatefurthercontortionsin their turn. One of these, the "truncatedphrase"
+of
+units, has been dealt
+interpretation certainthree-measure
+with earlier.The other,Riemann's
+that
+assumption periodsthatbegin with
+a strongthesiswhichis not a prefaceareto be considered actuallybeginas
+I
+ning with the secondmeasure,remainsto be dealt with.52 will do this in
+connectionwith two passagesin the expositionof the first movementof
+Beethoven,Sonatain E-flat,Opus 31, No.3, given in Example13a, which
+is then to be comparedwith Riemann's
+analysis of these two passages,
+in Example13b. My analysiswill show thatthe "beginning two"
+on
+given
+contortion bars25-32 and46-53) is easily eliminated the revisions
+(in
+by
+it
+all
+earlier,but moreimportantly will also serveto demonstrate
+proposed
+otherbeneficial
+effectsthe revisionshaveuponRiemann's
+methodin analyzing largerforms. In other words, it continueswhere Example11 left off.
+Beforearguing meritsof the analysis,let us turnto the two passages
+the
+thatcontain,according Riemann,periodsbeginningon the secondmeato
+sure. The first, in bars25-32, is not a periodbecauseof its regular - wt
+st
+alternation. character stagnant,particularly comparisonwith the
+Its
+is
+in
+passagesprecedingand following.Thus it will be heardeitheras a cadential appendixin true 6/4 time, as shownin my first analysis(but not as a
+phrasein 6/4 time, which would rankit with the opening theme in bars
+1-8) or it will be heardas a phrasein 3/4 time loosenedby extensions.The
+otherpassagein bars46-53 is even clearer.Thesesandarses alternate
+bar
+This theme is thus a
+by bar regularly,and there is no medial cadence.53
+phrasein 6/4 time. Thereare no "periodsbeginningwith the secondmeasure"anywhereamong Riemann's
+anlaysesin the Systemor in the BeethovenSonatasthatcould not be simplified assuminglargermeasures
+as
+by
+I havedone above,althoughan alternative
+analysisin single bar measures
+is sometimesalso available,as in bars 25-32.
+Beforethe analaysisin example13a is consideredin its entirety,a few
+375
+
+choices in the firstgroupneed supporting
+The
+analytical
+arguments. playeranalystfaces a trueproblemrightat the beginning.Is bar 1 (same as bars
+10 and 33) a thesis or an arsis? As bar 2 is a repetitionof bar 1, it will
+soundas an arsis, the firstthreebarsas one thesis followedby two arses,
+true9/4 meter.Since, however,
+bars4, 6, and 8 establisha clear
+suggesting
+wt - st - wt pattern,it seems as if bars 1-3 wouldbe betterinterpreted
+as
+anacrusis- thesis - arsis, at least in retrospect.
+Yet, bars 8-10 againplace
+a relativelystrongtonic accent on bar 10 (identicalwith bar 1), but this
+time Beethovenprovidesa more immediatesignal in the opposite direction. His gracenote, b natural bar 11,is thatrarething,an accentby fiat
+in
+of the composer,and it tips the balance ever so slightly in favorof the
+anacrusis-cum-true measureinterpretation
+6/4
+once again. These conflicting signals cannotfail to havetheir effect in bar 33, wherethe performer
+encounters sameproblemonce more.A slighthesitation occurand
+the
+will
+is madepractically
+unavoidable the Beethovenian
+subitopiano that folby
+lows his crescendoin bars 31-32. If this hesitationis parlayedinto the
+choice of placinga slightlygreatertonic or agogic accentonto bar 34, the
+decisionwill be rewarded the end of the exposition,wherethe last hyperat
+measure(bars 86-89) finally shows that the doubtfulfigureis unequivocally an arsis,andthusthe repeatof the expositionbeginswith whatis now
+contextually
+provenas an anacrusis.
+It is thus, with qualifications, the hyper-measures the graphhave
+that
+of
+been drawn. They show the exposition as it is heard the second time
+around,and take accountof the conflictingsignals only by query marks
+placed over those bar lines that are doubtfulwhen the expositionis first
+heard. They make the most conspicuousfeatureof the first groupimmediately noticeable. The organizationof bars 2-7 as th(esis) - a(rsis) th - a | th - a is reflected the nextlowerorderof metricmagnitude bars
+on
+in
+8-10, which is one truemeasureextendedinto a branle-triplet.
+Indeed,the
+and of the two kinds of ternaryhyperjuxtapositionof branle-triplets
+measures(2 + 1 as well as 1 + 2) are the recurring
+featureof the first
+role
+groupas a whole, andthey will havetheirparticular in the second, as
+we shall see shortly.
+The three smallerentities in the remainder the first group present
+of
+only lesser analytical
+problems.Bars 18-21 and 22-25 are eithercadential
+appendicesin true 6/4 time, or they containa repeated
+phrasein true 3/4
+fromandreturn the tonic, eventhoughconstituted
+to
+time, as the departure
+by passing motion over a tonic pedal, seems sufficientlyprolongedand
+elaborateto allow perceptionof a phrase. The latter interpretation,
+an
+attractive
+in
+variant
+of
+proposition view of bars 18-21being a recognizable
+the opening theme in compressedform, necessitatessyncopationin the
+hyper-measures placingsome kindof an accentin bars 18and22 to sugby
+of
+gest the character a strongthesis for the beginningof the phrase.Carrying this syncopationfurtherby accentuatingalso bars 20 and 24 is a
+376
+
+,
+.Allegro
+d
+
+,
+rit
+
+t,S.
+
+31 p
+YjfL
+5
+
+-
+
+7 8.-
+
+. ....~'
+P
+p
+7
+
+cresc.
+6
+
+5
+
+P4;7g7 Q 4
+cF >
+
+8c=7d 6 5a -
+
+M===== 6 7_|" j
+2 - 3
+4
+3a -
+
+Bb
+
+o
+~1l,.
+
+'
+
+a' --r
+ffl^-'j.
+8...--..
+
+8
+
+,~
+!-.-=,I-
+
+r8a
+L8a
+
+5-
+
+[
+
+76
+
+Sa -
+
+7a 6a - 7
+
+ffi
+
+__
+
+.......................
+6
+
+-I
+
+-
+
+-
+
+lr-
+
+7
+
+_
+
+-_
+Ir-^^
+-
+
+6-
+
+-
+
+8e
+8J
+
+6a 4a- 5 -
+
+-
+
+5
+
+f
+
+5a-
+
+ces.
+
+8d=7e
+6a - 7 -
+
+8 ...............
+3'
+8a']
+8
+
+.. ....................
+7a
+8a
+6 - 7 - 8
+
+d~sr_rrr__,
+
+.|
+
+P
+
+-
+
+8
+r[5
+
+8
+
+t
+
+_
+
+-
+
+8b=7c 8a 5 -
+
+6a - 7a-
+
+[7b
+
+,
+
+E6
+
+-
+
+a
+tempo"'"
+(-R)
+
+tk-)I(
+_
+
+fA
+
+7-
+
+-
+
+6
+
+""
+
+-
+
+8=5 J
+
+Example 13a. Beethoven, Piano Sonata in E-flat, op. 31, no. 3, I: durational
+reduction of the exposition, mm. 1-89
+377
+
+h
+,*-r In
+
+a
+
+@
+
+A
+
+8 ---------.-..---
+
+7
+
+-.. --........
+
+8
+
+-
+
+7-
+
+^,
+
+k,
+
+..
+7 _
+
+7
+
+.
+
+8a=7b
+8=1 -
+
+-=7a
+
+I] '
+
+K,
+
+....
+._..
+cresc.
+_
+
+...
+
+.
+
+-
+
+5a-
+
+-
+
+7b
+6a -
+
+.
+
+p
+-
+
+7a-
+
+.
+..
+
+=s=a
+
+.
+
+-
+
+1
+
+8=5
+
+Example 13a (continued)
+
+378
+
+2
+
+cresc.
+8b=7c 3 - 4-5-6-
+
+7
+
+8-7-8=7]8[d]
+
+cresc.
+
+8a
+8
+
+.--
+
+b
+R.
+
+6
+_r
+
+s
+
+-
+
+h@
+
+S
+
+7a 6-7
+
+-
+
+?I-
+
+I_??<
+
+1jggj^i1, *JJi
+^^g^n^TOuOTnT~~~~~~~~~~~~~~~J~Ij I11'
+7-b. [.7a r _
+,
+-.
+-7b=
+8=2
+
+rJ
+$b}>'n -
+
+nI
+
+8b=6
+
+c
+8c
+
+8d
+
+7
+
+fY1
+:2
+
+6ttl
+2
+
+[7b=5]
+
+ASM
+
+- *77]
+[7c=7]
+
+8b
+
+vv^
+
+8a=4
+
+[7a=31
+
+'[3]
+
+4
+
+,
+
+|
+
+[51
+
+Example13b.Beethoven,Sonatain E-flat,op. 31, no. 3, I, mm. 25-32 and
+mm. 46-53, as analysedby Riemannin Beethoven
+Sonatas,
+2:433 and 2:433-34
+
+379
+
+maniere
+possibility,and would perhapsbe in keeping with Beethoven's
+observedin the first theme, yet it would sound eccentric in view of the
+figure in bars 20 and 24, which has been hitherto,and will be again
+the
+Re-drawing
+throughout rest of the first group,consistentlyanacrustic.
+the hyper-measures bar to the rightwouldbe no calamityin itself, but
+one
+the redrawn lines wouldhaveto be pushedback againfor bars25-32.
+bar
+Accentsin bars26 and28 are ratherawkward are downright
+and
+ludicrous
+in bars30 and32, wheretheywouldfly in the face of harmonic
+and
+rhythm
+destroythe hemiolasimplicitin bars 29-30 and explicit in bars 31-32.
+The final portionof the first group,the bridgein bars 33-45, is espefromthe viewpointof metricambiguity.
+cially intriguing
+Similarityto the
+themesuggeststrue6/4 meter,but bridgeand themeare not quite
+opening
+analogous.Unlikethe firstfourbarsof the theme,bars33-36 of the bridge
+contain enough of a tonal progressionto allow them to be heard as a
+phrase,and the diminishedchordin six-fivepositionin bar 36 providesa
+medialcadence.Thusanalysisas an extended
+satisfactory
+periodin true3/4
+time is possibleper se, possible also in view of bars 25-32, and actually
+in
+quiteattractive view of bars 18-21 and 22-25. Thatcertainhesitationin
+the areaof bars 33-34 which is causedby Beethoven's
+conflictingsignals
+andby his dynamicscertainlymakesit legitimate a performer manipfor
+to
+in
+ulatethe hesitation sucha wayas to place an accenton bar33 andestablish therebythe requisitesyncopation
+that would renderbars 33-36 to be
+heard as the antecedentphrase of the extendedperiod constitutingthe
+the
+bridge.Perhaps best solutionwouldbe thatwhen the expositionis first
+played, choices maximizingthe effects of metric variabilityin the first
+group are to be preferred,while in the repeat,that is to say, after bar 1
+in
+as
+(= bar89) is alreadyestablished an anacrusis,interpretation 6/4 time
+twice by additionsof 3/4 beats) should be
+throughout
+only
+(interrupted
+favored.
+Since the second groupcontainsno problematic
+analyticaldetails, the
+analysisof this expositioncan now be examinedas a whole. The variable
+and elusive metric organiztion the first group is of paramount
+of
+importancefor the entireexposition.It providesbotha sharpcontrast the overto
+all metricstabilityof the secondgroupand an intriguing
+link betweenthe
+two groupsat the same time. Those two-plus-one one-plus-two
+and
+juxtapositionsthat rendereven the openingof the firstgroupelusive are found
+in the second groupexclusivelyin what is clearly connectingtissue. The
+themes of the second group are so stable that the first of them, in bars
+the
+46-53, can evenaccommodate anacrusis
+figureof bars3, 5, 7 (andanalogous bars)in a metricallystrongposition(in bars48 and 52, also 59 and
+63). Althoughthe otherthemein this group,in bars 82-86, allowstechnically two differentanalyses, the distinctionbetween the two is without
+difference.The accentpatternis clear enoughby itself, it is reinforced
+by
+the similarity this themeto the one in bars 18-21,andthis time the unacof
+380
+
+cented position of bar 85 (the anacrusis figure) is further reinforced by
+Beethoven's dynamic markings in the varied repetition of this phrase in
+bars 87-90 which make it impossible to place any kind of an accent on bar
+89. Thus the hyper-measures are not subject to doubt. The exceptionally
+clear definition of hyper-measures throughout the group render even the
+connecting tissue less equivocal than is the case in the first group (or for
+that matter in the exposition of the "Pathetique,"as shown in Example 11).
+We hear bars 54-56 primarily as a cadential extension. Their interpretation
+as a phrase is distinctly secondary, even though as a phrase the passage is
+a recognizable metric reference to the first group. Similarly, bars 65-71
+and 72-82 are perceived primarily as cadential appendices that develop
+these metric references yet further. On the secondary level, bars 65-72
+may possibly be heard as some kind of a period, but bars 72-82 are so stagnant harmonically that even on that level they do not constitute a phrase,
+merely two hugely extended measures subdivided in the metric style of the
+first group. All these metric references in the connecting tissue of the second group are exaggerations, perhaps playful exaggerations, of the genuine
+complexities of the first group. Playful or not, however, their function is allimportant from the viewpoint of overall form. They tie the two theme
+groups together as securely as any motivic realtionship would and, conversely, they would be without rhyme or reason in any other context.
+The other important conclusion that may be drawn from applying
+Riemann's adjusted analytical method to this exposition concerns its proportions. A count of bars would make it seem that the two theme groups
+are about equal, 45 and 43 bars long, respectively. This is very much like
+saying that two statues are equally tall without saying that one represents
+the Christ child, the other Saint Christopher. The first group with its two
+larger phrases and two smaller phrases followed by an extended phrase of
+an appendix and by one more phrase (or even one more period) of an even
+more extended bridge is decidedly longer than the second, containing only
+two larger phrases separated by a cadential extension and followed by two
+cadential appendices that lead to two more smaller phrases. The six or
+seven phrases in the first group certainly outweigh the four phrases of the
+second, and this could be expressed also in terms of true measures. A
+count of the longest possible (i.e., minimum number) of true measures
+shows the first group 21 measures long and the second only 18, but a count
+of the shortest possible measures is more realistic, showing the two groups
+to be 34 and 24 measures long, respectively. The pacing of the music is
+laid bare.
+To sum up what we learned from analyzing this Beethoven exposition
+with Riemann's adjusted method we may proceed in the order from least to
+most important results. Finding the similarity among various entities, such
+as bars 18-21 and 83-86, is relatively trivial (and discoverable even without the method). Finding the kind of detail such as the metric play that
+381
+
+placesthe anacrustic
+figureof bars3 and5 into a metricallystrongposition
+in the second group seems more significant.Findingthe metric relationship betweenthe first groupas a whole and the connectingtissues of the
+second is quite important.
+with findingthe true proportions a
+of
+Together
+composition,such as those existing betweenthe first and second groups,
+thesediscoveriesgo to the heartof the questionof musicalformin general.
+Since it is pacinganddensitythatgive a piece the formthatis uniquelyits
+own and distinguishes from all otherpieces belongingin the same genit
+eral category,it may be fitting to take at this point a second look at
+Beethoven's
+Sonatafrom the viewpointof its proportions.
+"Pathetique"
+The two theme groups of the "Pathetique" 40 and 81 bars long,
+are
+That its hyper-measures uniformfor the most part (and,
+are
+respectively.
+with the exceptionof bars 83-88, could be made entirely uniformwere
+they drawnby every four ratherthan every eight reducedquarternotes)
+tells us something
+aboutits formin comparison
+withthe E-flatSonalready
+ata, but it wouldnot correctthe falsepicturegainedfromthe countof bars,
+whichtells us thatthe secondgroupis twice the size of the first.Counting,
+however,the true measuresof the analysisby Riemann's
+adjustedmethod
+allowsus to describeits formas follows.The organization the firstgroup
+of
+smallerphrase
+consistingof one full parallelperiodfollowedby a repeated
+and by one longerphraseof a bridgeis comparable that of the second
+to
+groupwhich also consistsof one full parallelperiodfollowedby repeated
+phrases(two of them this time, one largerthe other smaller)and by one
+morephraseof a codetta.Expressing proportions termsof truemeathe
+in
+countshowsthe firstgroupto contain16of these against
+sures,a minimum
+24 of the second, the morerealisticmaximum
+count showsthe two groups
+to be 24 and 27 true measureslong, respectively.The last count comes
+closest to expressingmy own musicalexperience.
+thus correctedtell us somethingabout the rationalityof
+Proportions
+Classicalforms, as do the variouskinds of correspondences
+within these
+that
+proportions havebeen pointedout in the two expositionsanalyzed.A
+number analyseswoldbe neededfor placingthe role of trueproof
+greater
+in
+portions and of correspondences phrase structurein perspective.To
+showthatthis maywell be a promising
+avenueI shouldlike to concludethe
+discussionof the analysisof largerformsby giving, in Example14, the diaof
+Piano
+gramof one moreexposition,thatof the firstmovement Schubert
+Sonatain A, D.959. In a recentstudyI have shown, amongother things,
+that in the final three-phraseperiod of this exposition the meter is
+from2/2 time through time to 4/2 time.54
+3/2
+Once again,countexpanded
+bars resultsin a distortionof the true proportions.
+The second theme
+ing
+group is indeedlonger than the first. The differenceis, however,not the
+nearly40 percentas indicatedby the numberof bars, but only abouthalf
+of that, since the second group containsonly one more phrasethan the
+first.
+382
+
+aI
+
+I
+
+I
+
+V
+
+ba
+
+27
+
+22
+
+16
+a2
+
+al
+
+I
+
+60
+
+(
+
+6,7
+
+-1
+
+A major
+
+.s
+
+54
+
+39
+
+28
+a3
+
+-kl-~~~~~~~~~5
+
+V
+
+Vof V -------------------------------(=VofE)
+
+58-9
+
+55
+60
+
+81
+
+63-4,65
+
+b2
+
+bl &bl'
+b
+0
+0
+
+o
+
+'0
+
+c)
+W
+
+I
+
+I
+
+V
+Vof I
+
+E major
+95
+
+82
+b3
+
+= phrase; '
+
+-
+
+|---
+
+-
+
+* --a dx-
+
+= appendix;
+-1
+-I/~~
+
+- -
+
+1I
+
+t
+
+129
+
+123
+bl"
+
+II
+
+i
+
+'
+V
+
+b4'
+
+b4
+
+I
+
+17
+
+101
+
+= period (of two phrases);
+
+pe
+
+and
+
+|
+
+= cadential
+overlap
+
+Example 14. Schubert, Sonata in A, D. 959, I: diagram of the exposition,
+mm. 1-129
+
+383
+
+This study demonstrates,I believe, that Riemann's
+CONCLUSION.
+methodhas (and alwayshad) the capacityto measurewhat I have called
+of
+musicaldensity.Adjustments the methodby the three correctivesproresults.On the one
+kindsof beneficial
+posedin this studyhavetwo different
+in ridding methodof its mostcriticizedpremise,the axiomof Aufthe
+hand,
+taktigkeit,
+they free it from its most glaringcontortion(the periodbeginning for one reasonor anotherwith its second measure)and free it thus
+from all other contortionsthat follow from this first one. On the other
+hand, they enable the methodto realisticallymeasurewhat I have called
+true
+the musicalpace. By determining meterandthuscovertmeterchange,
+the methoddetermines
+both the size of a given musicalentityand its rank
+the
+(as a largephraseor a smallperiod, or vice versa). As regards distinction between theme statements,usually in unequivocallydefined meter,
+and transitional
+passages,usuallywith varyingdegreesof metricambiguity, the adjustedmethod makes this distinctionboth clearer and more
+of
+at
+thandoes the measurement densityalone. Further, least
+sophisticated
+in the two instancesof larger formal sections examined,it revealsboth
+their internalproportions certainproportional metriccorresponand
+and
+dences withinthemthatare distinctlysimilarto the kindof tonaland harmonic parallelismsdiscoveredso often by Schenkerian
+analysis. These
+and metricparallels(or contrasts)
+havea form-shaping
+funcproportional
+tion comparable thatof harmonicparallels,andjust as harmonicparalto
+and metric parallelsexert their form-shaping
+function
+lels, proportional
+even when they are only subliminally
+perceptible.It would be fatuousto
+claim thatsuch parallelscould not be discoveredin any otherway; it may
+be claimed,however,that no otheranalyticalapproach discoverthem
+can
+as systematically Riemann's
+as
+adjustedmethod. Thus I believe that Ian
+Bent'sjudgementof Riemann's
+approach,cited at the beginningof this
+is vindicated.
+study,
+
+384
+
+NOTES
+I would like to thank ProfessorJames Baker, my friend and colleague at the Department of Music of Brown University, for his many valuable suggestions, both those he
+and
+made while this essay was in preparation those he offeredafter his careful readingof
+the draft. Whateveris of merit in this essay owes much to his judgement. It goes without
+saying that the errors and shortcomingsthat remain are my own.
+1. "Analysis,"TheNew Grove, 1980, I, pp. 340-88. The cited passage ends the section
+dealing with Riemann, pp. 375-76.
+2. Bent'scited article is a notableexception. Another is HowardA. Smither,"Theories
+of Rhythmin the Nineteenthand TwentiethCenturies.. ," Ph.D. diss. Cornell University, 1960, the most detailed treatmentof Riemann'stheories in English known to
+me.
+3. Anfangsgrunde musikalischenSetzkunst,5 vols. Frankfurt,Leipzig, and Augszur
+burg. Beethovenowned a copy of this work, as shown by the auctioncatalogueof his
+estate, publishedin English in Eliot Forbes, Thayer's of Beethoven,rev. ed. 1967,
+Life
+Princeton University Press, pp. 1062-70. Riepel's Tonordnung,Contrapunkt,Setzkunst, in five volumes are listed as part of item 249, on p.1070. Useful summariesof
+Riepel's work may be found in Arnold Feil, "Satztechnische
+Fragenin den Kompositionslehrenvon F.E. Niedt, J. Riepel und H. Chr. Koch," Diss. Heidelberg, 1955,
+and in Peter Benary,Die deutsche Kompositionslehre 18 Jahrhunderts,Leipzig,
+des
+1961.
+4. Versuch
+einer Anleitungzur Composition, 3 vols., I. Rudolstadtand Leipzig, 1782,
+II and III, Leipzig, 1787and 1793, facsimile edition Hildesheim: Georg Olms Verlag,
+1969. Englishtranslation the second half (dealingwith the mechanicalrules of melof
+ody, phraseconstruction,and smallerand largerforms) by Nancy K. Baker,Heinrich
+ChristophKoch, Introductory
+Essay on Composition,New Havenand London, 1983
+(henceforthIntroductoryEssay). Recent studies dealing with the Versuchin detail
+include LeonardC. Ratner,"HarmonicAspects of Classical Form,"Ph.D. diss., University of California at Berkeley, 1947, article of the same title in Journal of The
+AmericanMusicological Society, II (1949), 159-68, and "EighteenthCenturyTheories of Musical Period Structure,"The Musical Quarterly,XLII (1956), 439-54; the
+previouslycited studies of Arnold Feil and PeterBenary; Nancy K. Baker,"FromTeil
+to Tonstack:The Significance of the Versucheines Anleitung zur Compositionby
+Heinrich ChristophKoch"(Ph.D. diss., Yale University, 1975), "HeinrichKoch and
+the Theory of Melody," Journal of Music Theory,XX (1976), 1-48, and "The Aesthetic Theories of Henrich ChristophKoch," InternationalReviewof the Aesthetics
+and Sociology of Music, VIII (1977), 183-209; Elaine R. Sissman, "Small and
+Expanded Forms: Koch's Model and Haydn's Music," The Musical Quarterly,
+LXVIII (1982), 444-75; Ian Bent, "The 'CompositionalProcess' in Music Theory
+1713-1850,"Music Analysis, 3:1 (1984), 29-55.
+5. Near the end of the second volume of the Versuch
+(2:356, Introductory
+Essay, p. 6)
+Koch abandonsfurtherpursuitof the language-musicanalogy. He does this in part,
+"becausesubjectand predicatecannot be differentiated
+enough in melodic sections,"
+in part (as he adds in a footnote) because the beginning music student is not sufficiently versed in grammarand its logic to benefit from the analogy.
+6. Momigny (1762-1842), Cours complet d'harmonieet de composition, Paris, 1803-6;
+
+385
+
+Reicha (1770-1836), Cours de composition musicale (Paris, 1816-18)and Traitede
+haute composition musicale (Paris 1824-26); Weber (1779-1839), Versucheiner
+Mainz, 1817-1821,Eng. transl. 1851; Marx
+geordneten Theorie der Tonsetzkunst,
+4
+(1795-1866) Die Lehre von der musikalischenKomposition,praktisch-theoretisch,
+vols., 1837-47, vols. I, II, and IV revised by Hugo Riemann, 1887-90; Eng. transl.
+1910.For thoroughsummariesof the last two works see Smither,op.cit.
+7. Leipzig, 1853, Eng. transl. 1888. A thorough summary may be found in Smither,
+op.cit.
+8. The most importantof these studies are the PraktischeAnleitung zum Phrasieren,
+with Carl Fuchs, Leipzig 1886, Eng. A Practical Guide to The Art of Phrasing, New
+York [1890]; Grundrissder Kompositionslehre,
+Leipzig, 1889; and Katechismusder
+der
+Phrasierung,with C. Fuchs, Leipzig 1890, 2nd ed. as Vademecum Phrasierung,
+Leipzig, 1900, 8th ed. as Handbuchder Phrasierung,Leipzig, 1912(this edition was
+consulted for the present essay). Other studies appear in Praludien und Studien:
+GesammelteAufsatzezur Aesthetik, Theorieund Geschichteder Musik, I, Frankfurt
+a. Main, 1895, II and III, Leipzig, 1900 and 1901. The first volume of the Grosse
+(3
+Kompositionslehre vols. Berlin and Stuttgart,I 1902, II 1903, III 1913)contains
+several sections dealing with phrase structure.
+9. System der musikalischen Rhythmikund Metrik, Leipzig, 1903, rpt. Wiesbaden:
+Sandig, 1971.
+10. These include analyses of some orchestral works of Brahms (1908), Schumman
+(1911),and Tchaikovsky(1911)in Schlesinger'sMeisterfihrer series, also Beethovens
+Berlin, 1903, rpt. 1910.
+Streichquartette,
+11. Ludwig van Beethovens sammtliche Klavier-Solosonaten:aesthetische und formaltechnisheAnalyse, 3 vols., Berlin, 1918-19.
+12. In additionto Riemann'smanypupils and followersin Germany,the EnglishmanEbenezer Prout (1835-1909) and the American Percy Goetschius (1853-1943) are among
+those who acknowledgedtheir indebtednessto him.
+13. See the studies cited in note 4. In addition Classic Music, Expression, Form, and
+Style, New York, 1980 is particularlyimportant.
+14. The RhythmicStructureof Music, Chicago: Chicago University Press, 1960.
+15. I should like to acknowledge my particularindebtednessto the following studies:
+EdwardT. Cone, "Analaysistoday,"The Musical Quarterly,XLVI (1960), 172-88,
+and Musical Form and Musical Performance,New York, 1968; Peter Westergaard,
+"Some Problems of RhythmicTheory and Analysis," Perspectivesof New Music, I
+to
+(1962) 180-91, andAn Introduction TonalTheory,New York, 1972; RobertP. Morgan, "The Delayed StructuralDownbeat and Rhythmic Structurein Sonata Form
+Ph.D. diss. PrincetonUniversity, 1969, and "The Theory and AnalRecapitulation,"
+ysis of Tonal Rhythm," The Musical Quarterly,LXIV (1978), 435-73; Maury Yeston, The Stratification of Musical Rhythm, New Haven, 1976; Carl Schachter,
+"Rhythmand Linear Analysis," two studies to date, the first "A PreliminaryStudy,"
+The Music Forum, IV (1976), 281-334, the second "DurationalReduction,"ibid. V
+(1980), 197-232; Charles Rosen, Sonata-Forms,New York, 1980; Fred Lerdahland
+Ray Jackendoff,A Generative Theory of Tonal Music, Cambridge, Massachusetts,
+1983.
+16. In using "thesis"to denote the downbeatand "arsis"the weak beat, I conformto standard American practice. Some writers, such illustrious authoritiesamong them as
+
+386
+
+Bela Bart6kand KnudJeppesen, adhereto the opposite usage, which is closer to the
+Greek meaning and to the usage in quantitativepoetic meter.
+17. There are fewer exceptions to the first part of the rule, requiringharmonic change
+from the penultimateto the final measureof a phrase, than to the second. One is the
+firstphrase(in four two-barmeasures)of Beethoven, Sonatain A, Opus 2, No.2. An
+phrase in the first four bars of Beethoven,
+exceptionto both partsis the four-measure
+String Quartet in G, Opus 18, No.2, containing just two harmonies, I-I-V-V.Yet
+Riemann's
+deducedprincipleappearsto be vindicatedby the free repetition,or rather
+of
+reformulation, this theme in bars 9-20. In this the repeatedantecedentphrasecontains both times I - V (four-three)- I - V.
+18. Unlike most other types of extension found in Riemann, prefaces are not discussed
+by Koch under a separate heading. Koch neverthelessexplains this construction in
+connection with two examples in the Versuch(2:379-80 and 381-82, Introductory
+Essay, pp. 17 and 18, examples 49 and 54-55). The readerwill find other instances
+of it in Examples 8a and 11. In the latterthe preface actually ends the last phrase of
+the introduction
+and is at the same time the first measureof a new period. The opening six bars of Beethoven, SymphonyNo. 5 may be cited as an interestingcase of a
+double preface.
+19. I adopt this practice in the presentstudy. Distinction between themes consisting of a
+single phraseand those of two-, three-, and four-phraseperiods is one of the important form-shapingtools in most music, particularlyso c.1770-1830. It is also something of an historical criterion, for single-phrase themes are so frequent in the
+decades before 1770 as to constitute the norm, and they become comparativelyrare
+after Beethovenand Schubert(with Brahms, as usual, the exception).
+20. Carl Schachter in his "Rhythmand Linear Analysis, Durational Reduction," The
+Music Forum, V (1980), 203, notes that in the present day musical vernacularthe
+term "phrase"
+usually denotes "a unit of tonal motion as well as of duration."This
+usage is applicableto Koch'sexamples but not always to those of Riemann.
+21. Examples 361-62 in the Introductory
+Essay, (pp. 163-65, Versuch,3:226-30) show
+the extension of a 16 measure principal period (four four-measurephrases in 2/4
+time, notatedin eight C bars) into a sonata exposition. Koch also identifies the first
+section, i.e. the exposition, of a symphonyas a principalperiod (Introductory
+Essay,
+p. 199, Versuch,3:304-5).
+22. For three of these see Examples 2 and 9c and d below.
+23. Accordingto Koch, such genuine five-, six-, and seven-measurephrasesmust be distinguishedfrom other phrasesof the same length, "becausethe formerrequiredifferent treatmentfrom the latterin joining of [several]phrasesand periods"(Introductory
+Essay, p.14, Versuch,
+2:374). There is hardlyany follow-upon this observationin the
+furthercourse of the Versuch.For two examples of six-measurephrases that are not
+derived by Koch from basic four-measurephrases see Examples 6a and b where I
+show that these, too, may be so derived.
+24. Only Koch's so-called "parenthesis,"("Parenthese,"and "verwickelterSatz") discussed briefly in the IntroductoryEssay, pp. 53-4 and 160-163 (Versuch2:460-63
+and 3:218-26) does not reappearin the System. This involves various ways in which
+"unessentialmelodic ideas"are insertedbetween parts of a single phrase. For a special case of parenthesissee example 2.
+25. Introductory
+Essay, pp. 36-7, Versuch,2:415-17.
+26. Bars 3 and 4 of this example outline the harmonies I and IV. An accompaniment
+
+387
+
+could easily convert the I chord into V of IV. In the "modulating"
+example that follows it is precisely this conversion that is brought about by melodic means. Koch
+states that "such [modulating]phrases appear very frequently,"and adds that "one
+in
+must consider it as a I-phrase(Grundabsatz) the key of F, to which the melody has
+been led throughthe tone B flat," ratherthan as a cadence in C on the IV-thdegree.
+27. Introductory
+Essay, p. 64; Versuch, 3:5.
+28. Introductory
+Essay, pp. 77-8; Versuch,3:35-38.
+29. Introductory
+Essay, pp. 162-63; Versuch,3:223-25. The symbols of a squareand a
+triangle are used throughoutthe Versuchto show the endings of phrases and segments, respectively. Koch considers two-measure segments (Einschnitt, in Baker's
+translation"incise")complete, one-measuresegments incomplete. Two (or more) of
+the lattermay be substitutedfor one complete segment within a phrase.In the present
+exampleKoch marksalmost all phraseendings, but only those segments that are relevant to his commentary(in which a few errors had to be correctedby Baker in the
+translation).I have supplied all missing symbols in brackets.
+30. Musical Formand Musical Performance,New York, 1968, p. 73.
+31. Typicalof Riemann'sreactionto this chargeare the wordsthat begin his introduction
+to the Practical Guide to TheArt of Phrasing, 1890. "'Toocomplicated!'is the watchword among the opponents of the new phrasing marks. With this 'weighty' word,
+musicians'turn
+serenly and haughtilypronounced,the majorityof 'university-taught
+their backs on a reformwhich aims at relief, and would fain hush it up. Fafnercrawls
+back to the Neidhole: 'Let me sleep'" (p. III). The introduction
+closes with an "appeal
+to all who take the matterof phrasingto heart, to apply themselves theretodiligently
+thatthey may be able to participatein the great work .. "and with the assertionthat
+no element of the work is arbitrary(p. IX).
+32. Riemann's
+views on ternarysegmentsare scatteredover the pages of the System. The
+zwischaptersdealing with them in greatestdetail are Grosse Triolenand Widerspruch
+chen Motivlange und Takt,pp. 101-121,and the last chapter, Verkurzung Sdtze
+der
+durch Verschrankungen Elisionen, pp. 270-304.
+und
+33. The second and thirdbars of these phrasesconstitutetheir second true measure. The
+five-bar scheme for these phrases is kept intact in all Brahms'svariations, but the
+extension is fashioneddifferentlyeach time.
+34. The example is cited here after the Handbuchder Phrasierung,Leipzig, 1912, which
+is the 8th edition of the Katechismusder Phrasierungof 1890.
+35. System,pp. 298-304. Riemanndiscusses this phenomenonalso in the first volume of
+the Grosse Kompositionslehre,
+where he includes a numberof 16th-century
+examples
+(pp. 146 ff,) from Pierre Phalese, Recueil de danceries, Antwerpand Louvain, 1583,
+a veritableanthologyof dance-musicof the entire period, as it is piratedin large part
+from variousprintsof the precedingdecades. The analysis of the strainof the Mozart
+Quintetpresentedin the System(p. 301) differs slightly from the earlier one cited in
+is
+bar
+Example4a. The word"komplet!" addedunderneath 52, indicatingthat it functions now solely as the fourthmeasure, ratherthan being 4=5, and bars 53-54 now
+functionas the true fifth and sixth measuresand not as just the sixth mesure in hemiola. For yet another interpretation this strain see Example 7b.
+of
+36. A particularlyinterestingexample is Brahms, Intermezzoin B-flat, Opus 76, No.4.
+It is an A-B-A form in two-barmeasures.The first A section is composed of a period
+of one three-measure one four-measure
+and
+phrase, in bars 1-13(14),with appendices
+added in bars 15-20. Since bars 5-6 are heard as a medial cadence, it appears as
+
+388
+
+if the first true measure were missing. This impression is confirmedby the recapitulation. The period in bars 33-45(46) is here preceded by another measure in bars
+31-32 which is clearly the first measure of a two-measuresegment; thus it supplies
+the measure that was missing from the beginning. The case is rathercomplex, for
+bars 31-34 functionnot only as the firstsegmentof the recapitulated
+period but simultaneously also as the final segment of the B section. A somewhat similar but considerably simpler case of missing opening measures is provided by Mendelssohn,
+Lieder ohne Worte A, Opus 38, No.4. In this A-B-A form (framedby an introducin
+tion and a postlude) we hear a period in two-plus-fourmeasures (bars 4-9, repeated
+in 10-15). After the B section (bars 16-19) A is recapitulated,this time, however,
+with bars 20-21 adding the two measures that were felt to be missing in the antecedent phrase. The first A section is thus seen in retrospectas havingbegun with the
+properthird measure.
+37. In 16th-century
+sources of dance music neitherthe temporaof mensuralnotationnor
+the bar lines of tablaturesprovide a reliable guide in groupingbeats togetherto form
+musically meaningful measures. Barring of transcriptionsin modern notation is,
+It
+therefore,necessarilya matterof interpretation. is usually not difficultto isolate the
+six beat segments in branles simples and coupes, but subdividingthem can be problematic at times. In many cases, perhapsthe majorityof them, subdivision into fourplus-two beats is supportedby musical forces, but two-plus-fouris not unusual, and
+can
+three-plus-three also be foundon occasion. There are even a few branles simples
+in which a steady 3/2 meter seems preferableto a 4/4 + 2/4 interpretation,
+resulting
+in ritmo di tre battuteof the kind found in Example 3. The tunes cited in Example
+5 and their analyses requirethree more comments. Note values are reduced in each
+of them so as to make the quarternote the beat of the transcription,regardlessof
+whetherthe sources give the semibreveor the minim as the beat unit. In the analyses
+I have used the numbersfrom 5 to 8 to indicatethat the basic unit is the four-measure
+phrase ratherthan the eight-measureperiod (usually the case in dances of the 16th
+century,except in settings of one or anotherof the eight-measureharmonicgrounds,
+such as the PassamezzoAntico or Moderno, the Romanesca,etc.). Finally, no source
+known to me designatesArcadelt'schanson "Margot" a branle coupe. I identify it
+as
+as such only on the groundsof its metric structureand of its markedmelodic similarity to scores of French branle tunes.
+38. The chanson was first published by the Parisian Pierre Attaingnantin 1531 (RISM
+15312)and reprinted frequently in various forms throughoutthe century. Symon
+Cock uses its tune for his translation Psalm 72 in 1540,and Clemens adopts it from
+of
+Cock for the polyphonic setting of this Psalm in the Souterliedekens(modernedition
+KarelPhilippusBernet Kempers,ed. Jacobus Clemens non Papa: Opera Omnia, II,
+1952, p. 53).
+39. The period precedingthe one in Example 6c is analysed in Example 10.
+40. BeethovenSonatas, 3:158, my translationand my emphasis. It is with these words
+that Riemann rejects an analysis he has considered for the beginning of the second
+movementof the Sonata in F-sharp,Opus 78.
+41. In his "Rhythmand Linear Analysis, DurationalReduction,"Schachterhas devised
+this method"to reveal connections between durationaland tonal organization... in
+some types of music"(p. 198). Althoughrelatingactual music to a four-measure
+prototype is not Schachter'sprimary purpose, his analyses reveal such a relationship
+more than once. Wheneverhis hyper-measures
+comprise entire phrases, they are in
+
+389
+
+an st - wt - st - wt pattern.This reflectsSchenker'sview that phrases normally begin
+strong and come to rest on a weak thesis. It is the easier to accept this view as it is
+held with no trace of the unfortunate
+dogmatismthat characterizesRiemann'sopposite view.
+in
+Structureof Music, Cooper and Meyer warnthat
+42. Characteristically, The Rhythmic
+in the face of the absence of any consensus concerning mattersof rhythmtheir work
+is intendedas a startingpoint ratherthan a formulationof a comprehensivetheory (p
+V). Their caution is echoed in almost all writingson the subject to date. Particularly
+and Linear Analysis, A Prelimeloquent is Schachterin statinghis doubts ("Rhythm
+inary Study,"pp. 299-311) concerningthe possibility of such a general theory and in
+obstacles in its way.Yeston,too, concludes the Stratificadealing with some particular
+tion of Musical Rhythm,with a chapter(pp. 148-53) carefully delineatingthe limits
+of his own theory and addressingcertain difficulties that face any general rhythmic
+theory.
+43. The analysis presented in Lerdahl and Jackendoff,A Generative Theory of Tonal
+Music, pp. 21-25 and 258-60, is of particular interest from the viewpoint of the
+present study.
+44. Consideredby itself, this period may not show its materialhomogenietyas conspicuously as it does when it is viewed in the context of the entire piece. The four-note
+motive at the beginning of the period is a rhythmicallysmoother version of the one
+permeatingthe entire firsttheme. Thus even the casual listeneris alertedto the importance of both the motive and the technique of rhythmic transformation,and will,
+therefore, experience no difficulty in recognizing the motive in the consequent
+phrase, where it appearsin augmentedand metrically displaced form.
+45. Schachter("Rhythmand Linear Analysis, a PreliminaryStudy,"pp. 326-27) makes
+the material homogeniety of this theme more readily apparent. He reduces the
+rhythmof the six-note motive of the first four bars to eighth note (anacrusis)-eighth
+note (thesis)- quarternote (in syncopation),thus showing its relationshipto the rhythmic patternof bars 7 and 8 and to furtherrecurrencesof this patternin the first theme
+group.
+46. IntroductoryEssay, p. 57, (Versuch, 2:458-60). I have substituted 'segment' for
+'incise'in Baker'stranslationfor the sake of keeping the terminologyconsistentin the
+present study. Baker'susage is, of course, amply justified in the context of Koch's
+work.
+47. Riemann analyses this exposition in two-bar measures throughout. My analysis
+agrees with his only up to bar 28. It is worth noting that in shapingthis theme Beethovenhad other options before him. A minimumof re-composingcould renderbars
+18-19 and 26-27 final measures ratherthan penultimates.Werethe resolutionof the
+six-fourchordof bar 18 to come at the beginningratherthan in the second half of bar
+19, and were the six-four chord of bar 26 to resolve on the second half of that bar to
+be followed in bar 27 by a tonic chord, a grammatically
+correct eight-measureperiod
+would result. It would not begin with the preface8 but with the simple cadentialoverlap 8=1, and the cadences would be in the measures of bars 18-19 and 26-27.
+Beethoven'ssolution in manipulatingthe surface events of these measures so as to
+carrythe phrasesbeyondthem to the theses of bars 20 and 28 may be seen as a grammatical choice of significantesthetic consequence.
+48. In the recapitulation theme (bars222-54) is not extended. As my analysis places
+this
+true measures(bars 52 and 222, 60 and 230,
+strongeraccents on the even-numbered
+
+390
+
+68 and 238, 76 and 246, 90 and 254) there is no break here in the patternof st - wt
+alternation. There would be one, however, were the odd-numberedtrue measures
+the
+assumed to be generallythe strongertheses. Since bar 250, representing thesis of
+the true 7th measure, is part of a passing motion from I (246) to V (252) and thus
+weak in relationto both 246 and 254, the patternof the consequentphrase is syncopated, st (242) - wt (246) - wt (250) - st (254). Although several considerationsmake
+me disinclined to revise the analysis of Example 11, the desirabilityof a break in the
+pattern-even though not necessary in this case-could be an argumentfor such a
+revision.
+49. See note 5, above.
+50. In general, ritornelloconcerti from J.C. Bach and Mozartto Beethovenand Hummel
+offer a fertile ground for the study of all kinds of rhythmicphenomena, particularly
+of metric expansionsand contractions.Bars 19-30 of the tutti of K.488, for instance,
+contain a passage in the notatedC measures, which is transformed bars 83-98 of
+in
+the solo-exposition into a modulatingpassage extended by passage work. From bar
+87 on, interpretations C (2/2) and in 4/2 meter are equally valid.
+in
+51. Donald Francis Tovey, Essays in Musical Analysis, London: Oxford University
+Press, 1935, I, p. 40, calls this phrase the first half of a big sentence.
+52. In the discussion of'Anffnge mit dem zweiten Takt"(System,pp. 213-220), Riemann
+uses the theme in bars 46-54 of Example 13a and b as an illustration.
+53. In the System, bar 54 is numbered9 ratherthan 8a. As Riemannexplains, all even
+numbers representstrong theses, but only 3 and 7 of the weak measures serve as
+growth phases to the strong4 and 8, respectively,5 and the new symbol 9 represent
+an "Anschlussder leichten wirklichen Takte an die vorausgehendenschweren," in
+other words, they are prolongationsof the decay phase. Their functionis to bring the
+numberof measures in the period to eight.
+54. "RecurrentHarmonic Sequences in the First Movement of Schubert'sSonata in A
+Major, D. 959," 19th CenturyMusic, XII/1 (Summer 1988), 64-73.
+
+391
+
+

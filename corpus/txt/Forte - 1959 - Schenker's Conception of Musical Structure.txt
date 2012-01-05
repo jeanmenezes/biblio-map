@@ -1,0 +1,4254 @@
+Yale University Department of Music
+
+Schenker's Conception of Musical Structure
+Author(s): Allen Forte
+Source: Journal of Music Theory, Vol. 3, No. 1 (Apr., 1959), pp. 1-30
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/842996
+Accessed: 14/12/2009 16:29
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+SCHENKER'S
+MUSICAL
+
+CONCEPTION
+
+OF
+
+STRUCTURE
+
+by
+Allen Forte
+The Mannes College
+
+of Music
+
+A Review and an Appraisal
+with reference
+Current Problems
+in Music Theory
+
+to
+
+died on January 14, 1935, he bequeathed
+When Heinrich Schenker
+a large body of work
+of students,
+to the musical world a small number
+For the latter,
+in theory,
+and a considerable
+amount of controversy.
+since disno end is yet in sight - nor is this necessarily
+harmful,
+and stimulating
+has often been an important
+adjunct to muagreement
+and agreeing upon
+criteria
+sical thought.
+But without first establishing
+satiscannot be clearly
+issues
+drawn, even provisionally
+conditions,
+cannot be reached - in short,
+conclusions
+public
+intelligent
+factory
+is impossible.
+discussion
+these
+Further,
+requirements
+presuppose
+are more or less
+that all participants
+about the
+equally well informed
+is not fulfilled where Schenker's
+this latter condition
+Clearly
+subject.
+a large proportion
+for although
+of his published
+theory is concerned,
+work is available,
+remain uninformed
+its
+many musicians
+regarding
+and pertinence
+in music
+to current
+extent,
+significance,
+problems
+theory.
+The purpose of this article is therefore
+an introductory
+topresent
+to explain why it should
+account of his conception
+of musical
+structure,
+be recognized
+musicians,
+and, beyond this, to indicate how
+by serious
+it might contribute
+toward the solution
+which stand
+of certain problems
+before music theory today.
+The boldness
+andthe very comprehensiveness
+of Schenker's
+work
+that he will be a controversial
+to come.
+for years
+guarantee
+figure
+I hope that this review of his work, by providing accurate
+inHowever,
+formation
+to those who afe unfamiliar
+with it, will serve to place future
+discussions
+on a somewhat
+more rational basis than they have been in
+the past.
+I prepare
+to be
+Yet, even as I write these words,
+myself
+- such is the price of disputation
+misunderstood
+in an
+long conducted
+of general misunderstanding.
+atmosphere
+work not more
+Why is Schenker's
+condite,
+difficult,
+unreasonably
+lacking
+statements
+following
+by two well-known
+negative
+reply.
+
+Is it rewidely appreciated?
+in practical
+The
+significance?
+musicians
+strongly
+support a
+
+The first work which made Schenker's
+name known in wider
+circles
+was his monograph
+on the Ninth Symphony of BeeThis book came into my hands quite by accident in
+thoven.
+the year 1911 at Lubeck,
+where as a minor conductor I was
+
+1
+
+It immediately
+aroused my most inbeginning my career.
+tense interest.
+all of its
+Although I was unable to endorse
+and although the polemical
+of the author
+details,
+posturing
+went too far for me, the way in which questions
+were formulated and the conviction
+and insight with which these questions were answered
+were so unusual -indeed
+the whole
+was so far removed
+from the usual writings
+on music that I was profoundly affected.
+Here for the first time were
+no hermeneutics;
+the author inquired
+instead,
+objectively
+and directly
+about that which actually stood before us in the
+work. 1
+under
+Only later [following unfruitful studies with Bussler]
+the influence
+of the writings
+of the profound theorist
+and
+musical
+Heinrich
+did I become
+Schenker,
+philosopher,
+aware of what I had missed
+and begin to grasp theoretical
+or, rather,
+me; they even fasciproblems,
+they grasped
+nated me. 2
+the absence
+of English
+Quite understandably,
+translations
+of
+Schenker's
+main works3 must be held responsible
+for a great many undesirable
+of the present
+situation.
+aspects
+But, you ask, what of the
+books and articles
+in English which deal, to a greater or lesser
+extent,
+I shall attempt to answer this question as condirectly with his work?
+Within the literature
+which has accumulated
+around
+cisely as possible.
+Schenker's
+three types.
+theory we can distinguish
+First, there are surFor the most part these are in the form of book reveys of his work.
+views where space limitations
+prevent
+any kind of thorough coverage.
+there are critiques
+of Schenker's
+Second,
+which have been
+concepts
+These invariably
+at least a parpublished in article form.
+presuppose
+tial acquaintance
+with his writings,
+the author to stress
+permitting
+those parts of Schenker's
+theory which support his particular
+argument.
+more extended theoretical
+Third, we have several
+works (in book fora)
+which represent
+modifications
+of his work,
+and/or
+in
+amplifications
+these do not always
+make clear the expart or whole.
+Unfortunately,
+tent to which Schenker's
+ideas
+are present
+in their
+form.
+original
+this entire literature
+has not contributed
+Therefore,
+broadly speaking,
+toward the understanding
+of Schenker's
+work in his own
+significantly
+terms. 4
+1.
+
+Wilhelm
+
+2.
+
+Bruno Walter,
+
+Furtw'angler,
+
+Ton und Wort
+
+(Wiesbaden:
+
+Brockhaus,
+
+1954).
+Theme
+
+and Variations
+
+(New York: Alfred
+
+Knopf,
+
+1946).
+3. Only his Harmonielehre
+in
+(1906) has been made available
+edited by Oswald Jonas,
+translated
+English:
+by Elizabeth
+Harmony,
+Mann Borgese
+(Chicago: Chicago University
+Press,
+1954).
+4. An exception
+to this is Milton Babbitt's
+excellent
+condensed
+work included as part of a review of Felix Salzer's
+survey of Schenker's
+Structural
+Hearing in the Journal of the American Musicological
+Society,
+V:260-5.
+The best extended
+introduction
+to Schenker's
+theory is in
+Oswald' Jonas,
+German:
+Das Wesen
+des musikalischen
+Kunstwerks
+(Vienna: Saturn-Verlag,
+1934).
+
+2
+
+A further obstacle to more widespread
+of Schenker's
+understanding
+to important
+theory is that its applicability
+current problems
+in music
+theory has not been sufficiently
+appreciated.
+of the unPartly because
+and representational
+familiar
+means which are integral to it,
+language
+it has been regarded
+as a purely
+"theoretical"
+system,
+jealously
+an inner circle whose members
+at odds with
+are completely
+fosteredby
+the musical
+Schenker's
+True,
+world-at-large.
+proponents
+inevitably
+found themselves
+in conflict
+with the rigid and arbitrary
+constructs
+of
+what has come to be known as traditional
+On the other hand,
+the'ory.
+most musicians
+are unaware
+of the extent to which Schenker's
+ideas
+have penetrated
+and modified that theory in recent years.
+musicians
+who are not specialists
+Then, too, many serious
+have
+remained
+uninformed
+during the quarter-century
+following the completion of Schenker's
+work, because there has been no professional
+journal
+devoted to disseminating
+information
+about music theory -an
+essential
+task which the present periodical
+has undertaken.
+in considering
+reasons
+for the failure of Schenker's
+Finally,
+work
+to gain acknowledgement,
+we must recognize
+the problem
+which often
+arises upon initial contact with his work: even the well-trained
+musician who reads Schenker
+for the first time is apt to be thrown off his
+intellectual
+for he is confronted
+with new interpretations
+balance,
+of
+what he has come to regard
+as familiar
+He is faced with the
+events.
+task of learning
+a new terminology,
+a new set of visual
+and,
+symbols,
+most important,
+a new way of hearing music.
+that Schenker's
+By this I do not intend to suggest
+theory is without faults.
+Further
+its deficiencies,
+on, when I discuss
+I shall make
+an effort to avoid duplicating
+other critical
+treatments
+of Schenker's
+theories.
+This is easier
+to do than one might expect,
+because
+earlier
+treatments
+tend to emphasize
+of Schenker's
+work which are
+aspects
+less problematic
+now.
+A major reason
+for this change is to be seen
+in the general
+trend in thinking which has taken place during the past
+a trend heavily influenced
+quarter-century,
+by the accelerated
+development of science.
+Even music has been affected,
+to the extent that, for
+we can now regard the late 19th-century
+example,
+concept of "modulation" merely
+as a verbal inaccuracy.
+There seems
+to be no further
+need to worry this, or, I trust, such equally moldy bones of contention as the degree
+of correspondence
+between
+Schenker's
+theoretical
+formulations
+and what was "in the composer's
+mind" as he composed.
+Before
+tail, I should
+the viewpoint
+a particular
+or development
+the disclosure
+in this way,
+
+the content of Schenker's
+work in greater dedescribing
+like to survey
+his achievement
+in general
+terms.
+From
+of the present-day
+music theorist,
+this may be likened to
+kind of high-level
+achievement
+in science:
+the discovery
+of a fundamental
+which then opens the way for
+principle
+of further new relationships,
+new meanings.
+Regarded
+Schenker's
+achievement
+invites
+with that of
+comparison
+
+5. To the best of myknowledge
+the most recent extended critique
+of Schenker in article form is Michael Mann's "Schenker's
+Contribution
+to Music Theory'" Music Review,
+X:3-26.
+
+3
+
+of the
+Freud.
+Just as Freud opened the way for a deeper understanding
+that the diverse
+of overt
+with his discovery
+human personality
+patterns
+so Schenker
+are controlled
+behavior
+factors,
+by certain
+underlying
+of musical
+structure
+the way for a deeper understanding
+with
+opened
+his discovery
+events in a given composition
+thatthe manifold of surface
+to a fundamental
+Over a period
+is related in specificways
+organization.
+assumed
+a more distinct conof years,
+Schenker's
+gradually
+discovery
+levels.
+ceptual form which I shall refer to as the concept of structural
+and dea special vocabulary
+this idea Schenker invented
+To articulate
+I will explain these further on.
+vised a unique representational
+means.
+atthis point that the bases of Schenker's
+conI wish to emphasize
+are not
+levels,
+upon which his theory of music rests,
+cept of structural
+to be found in abstruse
+or in acoustical
+or metaphysical
+speculation,
+formulations
+(although Schenker was not averse to these), but in the' orderived his theoof the music itself.
+Schenker
+consistently
+ganization
+from aural experiences
+with actual musical
+comretical formulations
+and verified
+them at the same source. 6 Furthermore,
+his
+positions,
+as well as his analytic
+are directly
+reanalytic techniques,
+concepts,
+and compositional
+lated to performance
+which stand at the
+practices
+of the development
+of tonal music.
+I shall return to this
+very center
+work further on.
+often neglected
+facet of Schenker's
+- which might be termed the deepening
+achievement
+Schenker's
+of musical
+the discovery
+of the principle
+of
+understanding
+through
+structural
+levels - spans a period of some forty years,
+during which
+time he was engaged in a wide variety
+of activities.
+Because these activities
+were all closely
+associated
+with his main task, the development
+of his theory
+I should like to devote a few words
+of musical
+structure,
+to a description
+an appropriate
+of them, indicating
+how they provided
+with an educational
+setting for his work. Schenker was never associated
+in
+He earned his living mainly by giving private
+institution.
+lessons
+and piano.
+He was able to bring all his instructional
+activities
+theory
+within the scope of his theoretical
+formulations
+centhrough a single,
+tral activity:
+in his attitude toward performThis is evident
+analysis.
+the lead of C. P. E. Bach here as elsewhere,
+ance.
+Schenker
+Following
+believed
+that a composition
+could be reproduced
+correctly
+only if the
+had grasped
+the composer's
+intentions
+as revealed
+performer
+by the
+and if he had developed
+an aural sensitivity
+of
+to the hierarchy
+score,
+tonal values
+which it expressed.
+His corresponding
+toward
+viewpoint
+music
+education
+should
+the heart
+of every
+gladden
+hard-pressed
+teacher.
+to Hans Wolf, Schenker
+once made
+counterpoint
+According
+the following
+"If I had my way, every instrumentalist
+remark:
+would
+have theory as his major study.
+It is not enough for him simply to play
+as though he has Czerny exercises
+before him.
+mechanically,
+They
+the ladies).
+But what is the use of
+say they have practiced
+(especially
+that?
+What Geist makes their practicing
+vital?
+In painting and poetry
+
+inthis regard maybe attributed
+6. A certain amount of confusion
+to Schenker's
+in lengthy ontological
+of
+frequent indulgence
+justification
+his concepts.
+
+4
+
+Czerny
+
+exercises
+
+do not exist!'7
+
+Schenker's
+activities
+a cenappear to have occupied
+pedagogical
+all his writings
+in his life.
+Almost
+are intended to intral position
+sense
+of that term.
+One sometimes
+struct - in the most "practical"
+the fact that his magnum opus,
+overlooks
+Theorien
+[eue Musikalische
+is actually
+a self-contained
+und Phantasien8
+series
+of textbooks
+which
+over a span of thirty-four
+were published
+Outintermittently
+years.
+is direct, even old-fashioned,
+wardly, the pedagogical
+goal of this series
+to provide
+instruction
+in the traditional
+of harmony
+namely,
+subjects
+But -and
+here is Schenker's
+innovation
+- this inand counterpoint.
+is so designed that it leads stage by stage to an understanding
+struction
+of the total work in all of its complexity.
+The boldness
+and uniqueness
+of this plan is hardly less striking today than it was a quarter of a cenfor example,
+that in the first volume of his Kontratury ago. Consider,
+relates
+exercises
+to
+punkt Schenker
+rudimentary
+species
+counterpoint
+structural
+events in composed
+and that the relathe elaborate
+works,
+established
+are not of the obvious
+and transitory
+nature so
+tionships
+in textbooks,
+but are far-reaching,
+often encountered
+and in
+cogent,
+musical.
+the best sense,
+To continue this short account of Schenker's
+I turn to
+activities,
+It is perhaps
+work as editor.
+not exaggerating
+to say that, in his
+editions
+of the late Beethoven
+Schenker
+sonatas,
+explanatory
+gave a
+to the entire modern movement
+toward better editing
+major impetus
+In preparing
+that edition
+as well as
+1913-1920)
+practices.
+(published
+the complete
+edition of the Beethoven
+the C. P. E. Bach sonatas
+sonatas,
+and the J. S. Bach Chromatic
+Fantasy and Fugue, he employed the pronow standard,
+of consulting
+and first editions
+in
+cedure,
+autographs
+order to arrive
+at the best possible
+Whenever
+reading.
+they were
+he also studied compositional
+sketches
+and copies revised by
+available,
+the composer.
+his
+
+an especially
+role both in
+Autograph
+study played
+important
+Schenker's
+editions and in his analyses.
+He regarded the autograph not
+source (in conjunction
+with the first edition) for
+only as an authoritative
+about the externals
+of the music (notes,
+making decisions
+slurs,
+etc.)
+but as an indicator
+of more elusive
+for example,
+rubato,
+properties,
+and phrasing.
+As is the case with other aspects
+of his work,
+dynamics
+Schenker's
+contributions
+to the field of autograph
+study have not been
+Schenker
+widely acknowledged
+by the profession.
+(never
+Fortunately,
+one to conceal
+his accomplishments)
+took the precaution
+of securing
+credit for himself
+sentence
+in Der Freie
+Satz
+by means of a single
+the honor of being "the founder of the science
+(p. 33) where he claims
+of autograph study!'
+However,
+
+it is in the
+
+application
+
+of his theory
+
+of musical
+
+struc-
+
+7. Hans Wolf,
+"Schenker's
+Personlichkeit
+in Unterricht'
+Der
+VII:176-84.
+Dreiklang,
+(My translation)
+8. Heinrich
+Neue musikalische
+Theorien
+und PhanSchenker,
+tasien (3 vols.);
+Vol. I: Harmonielehre,
+Vienna,
+1906; Vol. II (erster
+Halbband): Kontrapunkt,
+1910; Vol. II (zweiter HalbStuttgart & Berlin,
+band): Kontrapunkt,
+Vienna,
+1922; Vol. III: Der Freie Satz, Vienna,
+1935.
+
+5
+
+Example
+
+1.
+
+Figure
+
+22a from the Anhang
+
+Schumann, Dichterliebe, Op. 48I
+A
+a81
+b)
+A4
+(=In
+
+E9
+
+Reprinted
+
+<d-
+
+z- 1)
+.
+
+~~s~~L
+
+with permission
+
+to Der Freie
+
+I
+
+Satz.
+
+A
+
+I
+
+3
+
+]
+
+J
+
+J
+I
+
+from
+
+Universal
+
+Editions,
+
+Vienna.
+
+of a wide variety and large number of compositions
+ture to the analysis
+The
+that Schenker is most outstanding.
+by means of unique procedures
+and definitive
+of Schenker's
+work is
+analytic
+most important
+segment
+of 550 illustracontained in the Anhang to Der Freie Satz, a collection
+of tonal music.
+These include examples
+tions drawn from the literature
+from exof complete
+movements
+of details as well as analytic sketches
+devices
+bySchenker
+developed
+tended works. Here the representational
+which renders
+reach a degree of refinement
+lengthy verbal explanation
+of standard muuse the symbols
+10 Since these sketches
+unnecessary.
+brackets,
+dotted lines, etc., much
+arrows,
+sical notation, augmented.by
+is readily
+accessible
+to the musician,
+of the information
+they present
+he has had some instrucprovided
+although he may not read German,
+the signs with relation to Schenker's
+Furtion in interpreting
+thought.
+which is
+ther on I shall provide a commentary
+upon an analytic sketch,
+to introduce
+the reader to Schenker's
+notational
+devices
+as
+designed
+I would like
+structure.
+well as to his ideas of musical
+First,
+however,
+life work by mentioning
+two
+to complete this brief survey of Schenker's
+which interested
+him considerably,
+but which he did not live to
+projects
+One of these was an instruction
+book on form, apparently
+complete.
+the final chapter
+of Der Freie Satz, where the
+intended to supplement
+treatment.
+The second was a book on
+subject is given only a cursory
+this did reach a
+(Die Kunst des Vortrags).
+However,
+interpretation
+state of completion
+and I understand
+it is to be published
+in
+certain
+of Oswald Jonas.
+Germany under the editorship
+I can think of no more satisfactory
+Schenker's
+way to introduce
+and visual means which express'them,
+ideas, along with the terminology
+than to comment at some length upon one of his analytic sketches.
+For
+this purpose I have selected
+from Der Freie Satz a sketch of a complete
+short work, the second song from Schumann's
+Dichterliebe
+(Ex. 1, p. 6).
+I shall undertake
+to read and interpret
+this sketch,
+of course,
+using,
+for Schenker's
+terms. 11
+English equivalents
+Here in visual form is Schenker's
+of musical
+strucconception
+ture: the total work is regarded
+as an interacting
+of three
+composite
+main levels.
+Each of these structurallevels
+is represented
+on a separate staff in order that its unique content may be clearly shown.
+And to
+show how the three levels interact,
+Schenker has aligned corresponding
+9. On this point Milton Babbitt
+has written:
+"...Schenker
+has
+a body of analytical
+contributed...
+which reflect
+the perprocedures
+not as a succession
+of
+ception of a musical work as a dynamic totality,
+moments
+or a juxtaposition
+of 'formal'
+areas related
+or contrasted
+or harmonic
+or dissimilarity'
+merely bythe fact of thematic
+similarity
+(op. cit.)
+10. I stress
+the adjective
+a certain
+"lengthy" here.
+Obviously
+amount of verbal explanation
+is required.
+of Schenker's
+technical
+11.. The rendering
+into Engexpressions
+lish presents
+a number of problems,
+not the least of which is the fact
+that there are'already,
+in some cases,
+two or more published versions
+of the same term.
+It is to be hoped that with the publication
+of per
+Freie Satz (now being translated)
+a standard
+nomenclature
+will be established.
+
+7
+
+elements
+vertically.
+sketch and then give
+
+I shall first make a quick survey
+a more detailed explanation.
+
+of this
+
+analytic
+
+The lowest
+staff contains
+the major surface
+those eleevents,
+ments which are usually
+most immediately
+perceptible.
+Accordingly,
+Schenker
+has designated
+In deriving
+this level as the foreground.
+his
+sketch from the fully notated song,
+Schenker
+has not inforeground
+cluded all its actual note values.
+Those which he does include represent in some cases the actual durational
+values
+of the work; but more
+often they represent
+the relative
+structural
+weight which he has astone or configuration.
+This sketch omits resigned to the particular
+and shows inner voices in mm. 8-12 only, indicating
+that
+peated tones,
+there they have greater influence upon the voice-leading.
+On the middle
+staff Schenker
+has represented
+the structural
+which lie immediately
+events
+the foreground
+level.
+These
+beyond
+which do not necessarily
+occur in immediate
+in resuccession
+events,
+lation to the foreground,
+the middleground.
+It should be evicomprise
+dent now that the analytic
+is one of reduction;
+details which
+procedure
+are subordinate
+with respect
+to larger
+patterns
+are gradually
+eliminated - in accordance
+with criteria
+which I will explain further on.
+on the upper staff, he has represented
+the fundamental
+Finally,
+structural
+or background,
+which controls
+the entire work.
+level,
+Now let us consider the content of eachlevel
+in some
+an opportunity
+will provide
+to examine
+other important
+Schenker's
+all derived from his central concept.
+thought,
+
+This
+detail.
+of
+aspects
+
+A series
+of sketches
+such as this can be read in several
+direcFor the purpose of the present introductory
+tions.
+it would
+explanation
+seem advantageous
+to begin with the level which contains
+the fewest
+elements
+fromthere
+tothe level which contains the most andproceed
+to foreground.
+thus, reading from top to bottom or from background
+By
+the sketches
+in this order
+we also gain a clear
+idea of
+reading
+Schenker's
+of prolongation:
+each subsequent
+level expands,
+or
+concept
+the content of the previous
+level.
+prolongs,
+The background
+of this short song, and of all tonal works,
+whatever their length,
+is regarded
+as a temporal
+of the tonic
+projection
+The upper voice projects
+triad.
+the triad in the form of a descending
+linear
+succession
+which, in the present
+case,
+spans the lower triadic
+third.
+Schenker
+marks this succession,
+which he called the Urlinie,
+or
+fundamental
+in two ways: (1) with numerals
+which
+(and carets)
+line,
+the corresponding
+diatonic
+scale
+and (2) with the
+designate
+degrees,
+balken which connects the stemmed
+open notes (I shall explain the black
+noteheads
+The triad is also projected
+shortly).
+by the bass, which here
+outlines the triadic fifth, the tonality-defining
+interval.
+Schenker
+calls
+this fundamental
+bass motion Bassbrechun,
+or bass arpeggiation.
+Like
+the fundamental
+in open note-heads.
+The fundaline, it is represented
+mental line and the bass arpeggiation
+a contracoordinate,
+forming
+the Ursatz,
+or fundamental
+structure
+which constipuntal structure,
+
+8
+
+of the tonic triad. 12 Thus, to Schenker,
+tutes a complete
+projection
+motion within tonal space is measured
+by the triad, not by the diatonic
+scale.
+Observe that in this case the most direct form of the fundamental
+succession
+would be the three-interval
+in the outer voices:
+structure
+fundamental
+-l-1
+line,
+-2The background
+sketch shows that this sucbass daregation,
+I-V-I'
+arpeggiation,
+in the last part of the song.
+cession
+occurs
+onl
+The
+consecutively
+with I; ho ever, it does not progress
+imsong begins uiambiguously
+to V and from there on to I instead,
+the first interval
+is
+mediately
+as shown in the sketch: the upper voice
+first reC-sharp
+prolonged
+an embellishment,
+in the form of the thirdor diminution,
+ceives
+in black noteheads),
+and
+C-sharp--B-A
+(represented
+spanning motion,
+then moves
+over a larger
+span (shown by the beam) to-B on the last
+of m. 8, where it is supported
+eighth-note
+by the bass V. (This V is
+not to be equated with the final V (m.45),
+which effects
+a closure
+of the
+fundamental
+Schenker thtn shows how this initial prolongation
+is
+line.)
+followed
+of I and the completion
+of the succession
+by a restatement
+
+3-2-l.
+I -V-I
+To recapitulate,
+there are two prolongational
+classes
+shown in
+this background
+The first includes
+or prolongasketch.
+diminutions,
+tional tones
+of shorter
+the
+span (represented
+by black ' noteheads);
+second includes the larger prolongational
+motion from
+to 2 (connected
+the controlling
+melodic
+by the beam) which comprises
+pattern of the
+first phrase.
+Schenker regards this la,.r,prolongational
+motion as an
+of the direct succession,
+and represits
+it by placinterruption
+f-V-,
+lines above the staff following
+vertical
+The fundaing parallel
+I-V
+which is in this case the uninterrupted
+succession
+mental structure,
+therefore
+as the essential
+content of the backmaybe considered
+If--I
+Schenker's
+sketches
+a distinction
+must
+ground. 13 In reading
+analytic
+often be drawn between the background
+level in toto, which sometimes
+includes prolongations
+of primary
+order as in the present case, and the
+essential
+content of that level, the fundamental
+structure.
+Thus, "fundamental structure"
+a specific
+which
+designates
+contrapuntal
+organization
+assumes
+several
+whereas
+is a term
+forms,
+possible
+"background"
+which may include other events in addition to the fundamental
+structure,
+as in the present
+where it includes
+two prolongations,
+each
+instance,
+structural
+This distinction,
+order.
+not always
+belonging to a different
+is indispensable
+to the full understanding
+of
+clearly drawn by Schenker,
+his sketches
+and commentaries.
+Inthis connection
+I point out that within each of the three main structural
+levels
+several
+sub-levels
+are pos-
+
+12. Each tonal work manifests
+one of three possible
+forms of the
+fundamental
+diatonic progression:
+3-1 (as in
+line, always a descending
+the present case),
+5-1 and 8-1.
+Variants
+upon these forms arise when
+the bass arpeggiation
+the fundamental
+line components
+in difdisposes
+ferent ways.
+13. It should be apparent that Schenker's
+major concept is not
+that of the Ursatz,
+as is sometimes
+but that of structural
+maintained,
+a far more inclusive
+levels,
+idea.
+9
+
+sible, depending upon the unique characteristics
+position. 14
+
+of the particular
+
+com-
+
+The idea of the interrupted fundamental line provides the basis
+for Schenker's concept of form. For example, in the typical sonataallegro form in the major mode, interruption of the fundamental linear
+at the close of the exposition normally gives rise in the
+progression
+development section to a prolongation which centers on V. Of course,
+the prolonged fundamental line component varies, depending upon which
+form of the fundamental structure is in operation and upon which
+specific prolongation motions occur at the background level.
+Before explaining the middleground,
+I should like to direct attention again to the diminution which spans the third below C-sharp
+(black noteheads).
+By means of the numerals 3, 2, 1, enclosed in
+Schenker indicates that the motion duplicates the large
+parentheses,
+This is an instance of a
+descending third of the fundamental line.
+special kind of repetition which Schenker called Uebertragung der
+LJrsatzformen (transference of the forms of the fundamental structure).
+Throughout his writings he demonstrates
+again and again that tonal
+abound in hidden repetitions of this kind, which he discompositions
+at the foreground
+tinguishes from more obvious motivic repetitions
+level.
+We can interpret the content of the middleground most efficiently
+The first new strucby relating it to the background just examined.
+tural event shown at the middleground level is the expansion of the
+smaller prolongational third (black noteheads) by means of the upper
+The sketch shows how
+D, which serves as a prefix.
+adjacent tonel
+this prolongational element is counterpointed by the bass in such a way
+as to modify the original (i. e. background) third. That is, the figuredbass numerals in parentheses
+indicate that the second C-sharp (black
+notehead) is a dissonant passing-tone,
+and therefore is not to be equated
+with the initial C-sharp, which serves as the point of departure for the
+fundamental line. The adjacent tone D recurs in m. 14, where Schenker
+assigns more structural weight to it, as indicated by the stem. I reiterate that conventional durational values are used in the analytic
+sketches to indicate the relative position of a given component or configuration in the tonal hierarchy -the greater the durational value, the
+closer the element to the background.
+
+14. Undoubtedly Schenker compressed
+many of his sketches in
+consideration
+of the practical requirements
+of publication.
+Mr. Ernst
+a large number of Schenker's unpubOster, who has in his possession
+lished materials-which
+he plans to present along with commentaries
+at a future date-has
+Schenker's unpubbrought this to my attention.
+lished sketches of Brahms' Waltzes, Opus 39, for example, are executed on several superimposed staves, so that each structural level is
+shown distinctly and in detail.
+15. Schenker's abbreviation,
+"Nbn' stands for Nebennote, or in
+English, adjacent tone (not "neighbor tone").
+10
+
+In addition to the prolongation described in the preceding paraof the prolongational
+graph, the middleground contains the essentials
+middle section (mm. 10-12) which appears in more detail in the foreground sketch. Schenker regards this entire middle section as a proIts main feature is the
+longation of the background fifth formed byv.
+inner voice which descends from G-sharp to E, a middleground duplication of the fundamental line's third. The bass which counterpoints
+this inner voice arpeggiates the tonic triad, E-C-sharp-A.
+Schenker
+shows how the arpeggiation is partially filled in by the passing tone, D,
+and by slurring E to A he indicates that he considers that motion to be
+the controlling bass motion, within which the C-sharp functions as a
+connective of primarily melodic significance. 16 Here we have an example of the careful distinction which Schenker always draws between
+major bass components or Stufen, which belong to the backgroundlevel,
+and more transient, contrapuntal-melodic
+events at the foreground and
+middleground levels.
+A brief consideration of three additional events will complete our
+examination of the middleground level. First, observe that the diatonic
+inner-voice descent in the middle section, G-sharp-E,
+is filled in by a
+chromatic passing-tone,
+G. Schenker has enclosed this in parentheses
+to indicate that it belongs to a subsidiary level within the middleground.
+Second, observe that just before the inner-voice motion is completed on
+the downbeat of m. 12, the G-sharp, its point of departure, is restated
+by an additional voice which is introduced above it.
+Schenker has
+pointed out that in "free" compositions,
+instrumental
+particularly
+of more elaborate prolongation is greatly inworks, the possibility
+creased by introducing additional voices,
+as well as by abandoning
+voices already stated. The final event to observe here occurs in the
+middle section: the motion from B, the retained upper voice, to C-sharp
+on the downbeat of m. 12. This direct connection does not actually occur at the foreground level, but Schenker, feeling that it is strongly imthe implied C-sharp in
+plied by the voice-leading
+context, encloses
+parentheses and ties it to the actual C-sharp, thereby indicating that it
+is an anticipation.
+In the foreground sketch Schenker represents
+for the first time
+the metrical organization of the song. As I have already mentioned, he
+shows there some of the actual durational values, in addition to using
+these as sketch symbols.
+This reveals the position assigned to meter
+and rhythm in his system: he considered them to be important structural determinants at the middleground and foreground levels but subsidiary to the fundamental tn
+organization,
+which, he maintained,
+was arhythmic.
+I shall return to this further on when I consider the
+general problem of constructing a theory of rhythm for tonal music.
+Let us now examine some of the relationships
+which Schenker
+has shown in his sketch of the foreground, this time beginning with the
+bass.
+In m. 3 he encloses the bass-note A in parentheses
+and marks it
+16. "The bass executes an arpeggiation,
+descending through the
+third, but without terminating the interruption"' Der Freie Satz, p. 89.
+This is one of Schenker's few comments upon this sketch.
+11
+
+with the abbreviation,
+Kons. Dg. (Konsonanter
+or "consonant
+Durchgang
+that the tenth which the bass A
+passing-tone").
+By this he indicates
+forms with the upper-voice
+a dissonant
+the latter,
+C-sharp transforms
+at the middleground
+at the fore into a consonance
+level,
+passing-tone
+In this way he also intends to indicate the function of the
+ground level.
+a passing-tone
+in the upper voice
+chord at that point.
+Since it supports
+it is a passing chord.
+In addition, it belongs only to the foreground
+and
+is to be distinguished
+therefore
+from the initial tonic chord, a backTwo of Schenker's
+most important
+convictions
+underground element.
+lie this treatment
+of detail: (1) that the study of strict counterpoint
+provides the indispensable
+basis for a thorough understanding
+of the deas well as the larger
+of a composed
+tails,
+work, and (2) that
+patterns
+the function of a chord depends upon its context,
+not upon its label.
+This can be seen in his notation
+of the chords in this sketch.
+Although
+he uses the conventional
+Roman numerals
+he provides
+them with slurs,
+dashes and parentheses
+to show their relative
+in the tonal hiervalues
+that the IV and V chords
+Thus, the long slur from I to I indicates
+archy.
+lie within the control of that chord, while the abbreviation,
+Vdg. (VorAnd in
+dergrund) shows that the succession
+belongs to the foreground.
+the middle section,
+mm. 8-12; the parentheses
+show that the chords
+between V and I are subsidiary
+These arise as part of the prochords.
+at that point and stand in contrast
+to the stable
+longational
+complex
+chords I and V.
+background
+Now let us turn to the melody.
+We can most efficiently
+examine
+its structure
+each foreground
+(slurred)
+by first comparing
+prolongation
+with the larger
+above it, and
+middleground
+prolongation
+immediately
+then by relating
+both the foreground
+and middleground
+to the backIn this way we see that the foreground
+of the first
+ground.
+prolongation
+section
+third twice,
+thus duplicating
+the successpans a descending
+and background
+In the
+levels.
+sively larger thirds at the middleground
+middle
+section
+the melody
+more
+elaborate
+undergoes
+development.
+Schenker
+shows how the upper
+There,
+beams,
+by means of connecting
+voice skips down to the inner voice and back again.
+The ascending
+a sequence
+of two fourths,
+which are marked
+skips
+comprise.
+by
+brackets
+and emphasized
+Schenkerian
+exclamation
+by a typically
+point.
+This sequence
+lends support to his reading
+of the implied
+anticipation
+of C-sharp in the upper voice of m. 12, mentioned
+earlier.
+The foreground
+of the middle section
+a good example of
+provides
+Schenker's
+concept of "melody" (he avoided the term in his writings) as
+a self-contained
+structure.
+This valuable
+of his
+polyphonic
+aspect
+to any kind of intelligent
+theory, 17 which is absolutely
+indispensable
+melodic
+is well substantiated
+analysis,
+by compositional
+practice.
+There are many passages
+in the literature
+where polyphonic
+melodies,
+at one point (often the beginning)
+are subsequently
+in
+realized
+implied
+
+17. A highly interesting
+of this concept is to be found
+application
+in Schenker's
+"Das Organische
+der Fuge" (Jahrbuch II, see footessay,
+note 20), where he employs
+his technique
+of synthesis,
+or reconstructhat the subject of Bach's C-minor
+tion, to demonstrate
+Fugue (WTC I)
+a complete,
+self-contained
+structure.
+implies
+contrapuntal
+12
+
+full, for example in the first movement of Mozart's Sonata in A minor,
+or in Brahms' Intermezzo in B-flat major, Op. 76/4; and, of course,
+we find a special development of this concept in Bach's compositions
+for solo violin and for solo 'cello. 18 Here, in the foreground sketch of
+the middle section the diagonal beams show thatthe vocal melody shifts
+back and forth between two lines, the lower of which belongs to the acIt is evident that this section contains the most intricate
+companiment.
+upper-voice prolongation.
+It also contains the most elaborate bass motion.
+The sketch
+shows how the bass provides counterpoint to the upper-voice
+(foreground) prolongation of B, bass and upper voice comprising the interval succession 5-10-5-10-5,
+which is enclosed within the middleground
+outer-voice succession,
+BC-sharp
+Observe that the upper voice alE--C-sharp'
+ternates between an upper adjacent-tone
+prolongation of B (marked
+Nbn.) and the skips into the inner voice which were explained in the
+The lowest voice in this passage is subordinate
+preceding paragraph.
+to the voice which lies immediately above it, E-D-C-sharp,
+the latter
+succession
+Nor
+being the actual bass line (cf. middleground sketch).
+does its registral position above the foreground bass lessen its imin the lower voices.
+Thereportance as the main motion-determinant
+which displaces or covers it registrally might
+fore, the foregroundbass
+be termed a "pseudo-bass"'19
+One final aspect of the foreground sketch deserves mention: the
+form. Schenker indicates this with the customary letters and exponents.
+The foreground form therefore corresponds to the form-generating
+interruption at the middleground and background levels as follows:
+Statement
+A1
+
+Interruption
+B
+
+Restatement
+
+and Closure
+
+A2
+
+It should be apparent that an analysis of this kind embraces all the information generally included under the heading "form and analysis" but
+that it goes far beyond to interpret the relationships
+to the background
+which are revealed during its initial phases, where the main concern is
+to achieve an accurate reading of foreground and middleground.
+A summary of this analysis should properly include a classification of the chromatic chords in the middle section of the piece, and a
+more precise explanation of the coordination of linear intervals at the
+foreground level, the descending thirds and fifths (which latter take the
+form of diminished fifths and ascending fourths in the middle section).
+However, because of space limitations,
+I shall not undertake a sum18. Cf. Johann David Heinichen, Der General-Bass
+in der Composition (Leipzig, 1728), pp. 558ff: "Das 2-stimmige
+Harpeggio"' "Das
+3-stimmige Harpeggio]' etc.
+19. Relationships
+of this kind occasionally
+cause students to be
+confused; by assigning a structural event tothe wrong level they necesThe technique of reconstruction serves
+sarily arrive at a misreading.
+as a corrective in such instances.
+13
+
+ma'ry
+work.
+some
+of the
+ideas,
+
+here, but instead go on to discuss other aspects of Schenker's
+If the preceding commentary has succeeded in demonstrating
+of Schenker's more important ideas, as well as clarifying some
+vocabulary and visual devices which he employs to express those
+it has fulfilled its purpose.
+
+I turn now to the development of Schenker's theory and to its
+The concept of structural levels, which,
+sources in musical practice.
+as I have pointed out, is central to Schenker's theory, was first set
+forth in the analyses published in Der Tonwille (1921-24).
+However,
+the idea of the background and its essential content, the fundamental
+structure, did not emerge clearly until many years later; not until the
+publication of Der Freie Satz (1935) was it definitively stated. Schenker
+was very much aware, in retrospect, of the development of Ursatz conmeans which he so closely associated with
+cept andthe representational
+it. Thus, in the introduction to Der Freie Satz he remarks (with characteristic pride): "Since the task of being the first to discover the background world in music devolved upon me I was not spared the difficulty
+of finding symbols which would represent it, a task which required
+Furthermore, the engravers did not always display the
+many years.
+For these reasons the illustrations
+requisite degree of understanding.
+in, for example, the issues of Der Tonwille and in the Jahrbuicher20
+have not always revealed the final structure!'
+Although Schenker explained his relationship to theorists of the
+past in considerable detail (his Kontrapunkt for example includes quotations from Fux, Albrechtsberger,
+Cherubini), he did
+Bellermann,
+not spell out the basis in musical practice of his main tool, the reduction technique, with which he revealed and articulated tonal organization. Possibly he was unaware that it required explanation or justifi cation. However this maybe, subsequent misunderstanding of his work,
+and failure to recognize his direct link
+allegations of arbitrariness,
+with the traditions of music, suggest that an explanation is in order.
+In brief, the analytic technique of reduction derives from the compositional technique of variation, as it developed during the tonal period. 21
+I point out that reduction is approxiAt the risk of oversimplifying,
+mately the reverse of variation.
+By means of variation techniques a
+in terms of increasing
+basic structure
+becomes more elaborate,
+Reduction accomevents.
+number and variety of melodic-rhythmic
+plishes the reverse; detail is gradually eliminated in accord with the
+traditional distinction between dissonant and consonant tones (made with
+reference to the tonic triad, the elemental consonance) so that the
+20. Schenker usually referred
+to the three volumes of Das
+Meisterwerk in der Musik as the Jahrbuicher (yearbooks), abbreviated
+Jhrb. (Munich: Drei Masken Verlag, 1925, 1926, 1930).
+documented in Ernest
+is interestingly
+21. This development
+aus neun JahrFerand's anthology, Die Improvisation in Beispielen
+hunderten abendlandischer Musik (Koln, Arno Volk Verlag, 1956). Mr.
+Ferand's illustrations and commentary substantiate Schenker's conviction that variation procedures are shared by formal composition and
+extempore composition.
+14
+
+22
+controlling structure is revealed.
+underlying,
+Although Schenker
+amplified and refined this procedure, it is far from being his innovation. Reductions of a rudimentary kind are to be found in, for example,
+many of the 16th-century textbooks on diminution, in the 17th-century
+writings of Bernhard, and in the 18th-century tome on figured-bass by
+Heinichen (see footnote 18). The latter author makes extensive use of
+reductions to explain the process of Verwechslung
+(prolongation, in
+Schenker's terms) as well as to analyze certain passages purported to
+be "incorrect" by colleagues. All of these treatises lend strong support
+to Schenker's musical thought and, on the negative side, demonstrate
+the extent to which 19th-century theorists obscured the relationship between theory and practice so firmly established at the close of the 18th
+century.
+In Schenker's early analyses, the reduction technique served to
+reveal only the sub-levels within the foreground and to a certain extent
+the middleground.
+Thus, the Urlinie of 1921 is not the Urlinie of Der
+Freie Satz. The latter is a single linear progression
+which spans the
+whole work under specific contrapuntal conditions. The Urlinie of 1921
+corresponds more closely to what Schenker ultimately would designate
+a Zug (linear progression) at the middleground level. Thus, with the development and refinement of the concept of structural levels, Schenker,
+went beyond mere
+probing ever more deeply into musical structure,
+reduction and description; he began to interpret the reduction with
+reference to a unique conception of structural coherence,
+a bold and
+imaginative formulation of the organizing forces of triadic tonality.
+While doing this, he greatly enlarged the traditional notions of harmony and counterpoint and at the same time made them far more
+These are embodied in the Ursatz, where the fundamental
+specific.
+line represents the contrapuntal-melodic
+dimension and the bass arpeggiation represents the harmonic.
+Critics of Schenker seem to fall into two general categories: in
+the first are those who reject his attitude toward music and music
+study, and in the secnd are those who reject either part or all of his
+theoretical system.
+Of the latter group of critics, by far the largest
+22. Curiously enough, Schenker did not explain in his writings
+how to carry out a reduction.
+Whatever his reasons for this may have
+been, he is probably being sarcastic when he suggests in Der Freie
+Satz thatthe reader who wishes to arrive atthe deeper structurallevels
+need only apply the method of reducing more extended diminutions
+which is taught in all schools and textbooks. Such an undertaking, even
+would be like transsupposing the student grasped the bare essentials,
+without
+lating from a foreign language word by word, mechanically,
+At the Mannes College of Music,
+understanding its syntax or idioms.
+where Schenker's theory has been taught since Hans Weisse introduced
+it in 1931, students normally require a full year of instruction before
+they achieve the kind of facility which enables them, to deal with more
+complex works.
+23. Implicit here is a distinction between Schenker as theorist
+and Schenker as philosopher-historian.
+Schenker's interpretation of
+music history rarely demonstrated the same clear, rigorous thinking
+15
+
+number
+
+question
+
+the validity
+
+of the Ursatz,
+
+the fundamental
+
+structure.24
+
+structure
+can be justified
+on perceptual
+The fundamental
+grounds.
+has called Schenker's
+Relevant to this, Furtwangler
+great accomplishAnd
+of Fernhoren
+ment the discovery
+"distance-hearing").
+(literally,
+structure
+can be justified
+on historical
+I have
+the fundamental
+grounds.
+in
+with traditional
+its direct
+connection
+practices
+explained
+already
+most imBut it is also, and perhaps
+and performance.
+composition
+on methodological
+By this I mean that
+grounds.
+justifiable
+portantly,
+as a generalized
+is regarded
+the fundamental
+structure
+if, in analysis,
+if it is remusic
+of triadic
+characteristic
+of the composed
+tonality,
+which is always subject to
+norm, as a construct
+garded as a structural
+work do not
+when the structural
+of a particular
+events
+modification
+Understood
+of objections
+disappear.
+support it, then surely a number
+is one norm - at a high level of
+in this way, the fundamental
+structure
+- among a number
+such as root progression
+of others,
+abstraction
+by
+of dissonance,
+which
+resolution
+form, stepwise
+fifths,
+sonata-allegro
+It should be rewithout question.
+are now widely utilized,
+generally
+critics
+are not always explicit as
+marked here that some of Schenker's
+norms
+norms
+or structural
+to whether
+they reject
+only his structural
+if not impossible.
+This makes communication
+difficult,
+altogether.
+a complete
+came very close to constructing
+Although Schenker
+and amplification
+are required
+if it is to
+further refinement
+system,
+is particularly
+criticism
+fulfill its promise.
+Superficial
+damaging to
+are only obscured when it
+efforts along this line.
+deficiencies
+Specific
+is alleged that faults in Schenker's
+can be traced to his rigidity
+theory
+and arbitrariness.
+These
+which are by no means
+characteristics,
+are symptomatic
+The important
+rather
+than causal.
+defitypical,
+in his system
+ciencies
+arise
+from his failure
+to define with sufficient
+under which particular
+structural
+events occur.
+rigor the conditions
+in my opinion,
+An instance
+is the upper-voice
+event which
+of this,
+Schenker
+an initial stepwise,
+called Anstieg,
+"spaceusually ascending
+in
+line.
+Schenker,
+opening" motion to the first tone of the fundamental
+under which this event occurs,
+failing to describe
+fully the conditions
+even of entire
+Its
+works.
+opened the way for inaccurate
+readings,
+nature becomes
+clear when the following
+are taken into confactors
+sideration:
+tone which is the goal of motion;
+(1) the triadic
+(2) the
+which is evident in much of his theoretical
+I therefore
+find mywork.
+self at odds with Mr. Michael Mann who has based an extensive
+article
+that "the dogma on which Schenker's
+(see footnote 5) upori the thesis
+music theory is based cannot be judged apart from his outdescriptive
+look on music history.'
+In my opinion this is fallacious.
+The same
+criterion
+in relation to his
+outlook on anthropology
+applied to Freud's
+theories
+would yield curious results
+indeed.
+psychological
+of the Ursatz,
+Milton Babbitt has
+24. In reply to one criticism
+written:
+than Daniskas'
+characteriza"Nothing could be less accurate
+tion of Schenker's
+method as embodying
+a 'static'
+notion of tonality.'
+to John Daniskas'
+Mr. Babbitt refers
+voor de
+(op. cit.)
+Grondlagen
+Voormleer
+der Musik
+Leonard
+B.
+1948).
+(Rotterdam,
+Analytische
+erroneous
+Meyer echoes Daniskas'
+opinion in his Emotion and Meaning
+in Music (Chicago,
+1956).
+16
+
+Example
+
+2.
+
+A
+
+a)
+
+b)
+
+^
+
+3.
+
+Example
+
+A
+
+a)
+n
+
+I
+
+A
+
+5
+I
+
+r
+
+I
+
+I
+
+Example
+
+(Y4
+
+5.
+
+rI
+I
+
+r"
+
+I
+
+rr
+I 1(7 t Ir)
+r I ej
+
+I MBDI4
+
+ii
+
+5
+I
+
+I
+
+V. J
+
+4.
+
+Example
+
+a
+
+)I
+
+(I 7
+
+D
+
+r
+
+I
+
+-
+
+A
+
+b)
+
+r
+
+)
+
+IM[)x
+
+A
+
+3
+
+I
+
+17
+
+.
+m
+
+nature of the bass and inner voices
+which support the upper
+(chords)
+of the motion
+to tempo,
+voice;
+(3) the duration
+(with respect
+noteThe coherent
+values);25
+(4) when 5 is the final tone, the mode.
+comof the space-opening
+pletion
+prefix depends
+upon a motion-tendency
+strict
+the tendency
+for a
+usually
+taught in elementary
+counterpoint:
+tone to progress
+to the diatonic
+given melodic
+upward or downward
+tone adjacent
+to it at the distance
+of a semitone,
+provided that the setin conand, of course,
+ting (bass and chord) affords
+proper
+support,
+sideration
+of the functional
+between
+tonic and dominant
+relationship
+which may modify
+this tendency.
+In amplification,
+there
+degrees,
+follows a brief account
+of the conditions
+for space-opening
+necessary
+motions to 3 and to 5.
+Ex. 2 presents
+models of unprolonged
+motions to
+space-opening
+3. In both modes the bass and chords which support the ascending
+motion are I-V-I.
+Observe the horizontal
+interval
+succession
+in the upper
+voice of Ex. 2 (major mode); two whole steps.
+In the absence of semithe passing-tone
+A thus serves
+to connect
+G and B without
+tones,
+toward either
+one (except insofar as a slight prefertending
+strongly
+ence is given to the tonic G, the point of melodic
+But in the
+closure).
+minor mode, Ex. 2b), we encounter
+a different
+There the
+situation.
+horizontal
+interval
+succession
+contains a semitone
+between the passing
+tone A and 3. This semitone
+connection
+therefore
+tends to make the
+ascent to 3 stronger,
+more coherent
+in the minor mode.
+The space-opening
+motion to 5 entails
+more problems.
+In place
+of the second degree,
+the fourth degree
+serves
+as the connective
+to the
+final tone.
+In the minor mode (Ex. 3b) this degree
+stands at the distance of a whole tone from both the third and fifth degrees.
+Thus,
+there is no obstacle
+to a strong ascending
+connection
+from 4 to 5, proof course,
+vided,
+such as
+proper support is given by bass and chords,
+is shown in the model.
+in the major
+mode (Ex. 3a) the
+However,
+fourth degree stands at the distance
+of a semitone
+from the third scale
+downward
+to that tone, rather than updegree and thus tends to relate
+ward to 5. A space-opening
+motion to 5 therefore
+that the
+requires
+fourth degree
+be chromatically
+raised
+to create
+the necessary
+semitone connection
+between
+4 and 5. This chromatic
+inflection
+is usually
+supported
+by a secondary
+so that the vertical
+situation
+dominantchord,
+at the conclusion
+of the motion is V (Ex. 4). You may ask how one accounts for a motion of this kind in the major mode which ascends
+to the
+fifth degree,
+but which does not include
+the raised fourth degree.
+Ex.
+5 provides
+the answer: the motion is then read as a space-opening
+to 3,
+followed by a prolongational
+motion within the third above 3.
+It appears
+that Schenker
+was somewhat
+aware of the problem of
+the space-opening
+motion to 5 in the major mode,
+for in Der Freie
+Satz he makes the following
+"The space-opening
+comment:
+motion to 5
+is particularly
+well-suited
+to the employment
+of the raised
+fourth dea special
+gree.
+By this means the 5 achieves
+effectiveness,
+especially
+when the chromatic
+alteration
+in the foreground
+in a modularesults
+25. This motionpresents
+and receives
+no support from
+
+when it is executedrapidly
+noproblems
+bass and chords.
+18
+
+tion26 to the key of the dominant!'
+he did not realize
+that the
+However,
+alteration
+constitutes
+a necessary
+condition for the motion.
+This particular deficiency
+in Schenker's
+work may serve to explain an instance
+of an incorrect
+and somewhat
+his analysis
+of the
+arbitrary
+reading,
+well known Air in B-flat
+which first appeared
+in Der Tonby Handel,
+wille in 1924 and was subsequently
+included in abbreviated
+form in Der
+Freie
+Satz where it is used to illustrate
+both a special
+foreground
+melodic technique
+or one-part
+form.
+(unfolding) and also uninterrupted,
+Ex. 6 presents
+the minimal
+sketch which Schenker used in
+6.
+Example
+Der Freie
+Satz (Fig. 103, 6).
+below this, in Ex. 7,
+^Directly
+5 ----X"
+
+4
+
+_
+
+_
+
+3
+_
+
+I have constructed
+
+.
+_^
+
+a different
+
+sketch
+
+of the same
+work,
+onthe basis of the conCy
+ditions set forth above for the
+s
+T r,-BH
+motion to t in
+I
+space-opening
+iyzs^1^
+~
+T'
+the major
+is a more
+mode,
+accurate
+of its
+representation
+A brief comparistructure.
+son
+7.
+In
+follows.
+Ex.
+6
+Example
+the first
+(Schenker's
+sketch)
+tone of the fundanental
+line
+L?J
+_3 3A
+_______________________
+is 5; in Ex. 7 it is 3. His misD
+is to be attributed
+to
+reading
+Alj -I
+II ^
+II
+his failure
+to recognize
+that
+the motion to 5, lacking
+the
+F
+|
+Fr r
+{
+raised
+fourth degree,
+is not
+conclusive.
+But, having decided that the fundamental
+line
+within the space of a fifth, he then forces
+his reading to conoperates
+He locates
+form.
+the descending
+4, which is required to
+passing-tone
+close the fundamental
+line, on the third beat of m. 6, and thus shows an
+descent:
+5-1.
+Ex. 6 with Ex. 7.
+The latter
+uninterrupted
+Compare
+shows a space-opening
+motion to 3, not to 5. The triadic fifth degree
+is represented
+above the main melodic tone 3, and enclosed
+in
+directly
+brackets
+to show that it belongs,
+in the register
+an octave
+conceptually,
+After the double-bar,
+lower.
+C undergoes
+a diminution,
+which spans
+the third, C-E-flat.
+This E-flat (m. 6) serves
+as an upper adjacent tone
+to the restated
+3 which follows.
+to Schenker,
+the E-flat in
+According
+4 in the descending
+fundamental
+question is the passing-tone
+line, clearly
+an erroneous
+since it is exclusively
+an adjacent
+tone in the
+reading,
+Whatever
+it may have are so
+foreground.
+passing-tone
+implications
+weak as to be inconsequential.
+on the basis of this reading,
+Thiref2rg,
+the form of the piece is two-part
+not one-part
+as Schenker
+(3-2 3-2-1),
+maintained.
+4
+
+j
+h^S"which,
+v~~~L
+
+F
+
+as
+
+iJ
+
+It is to be hoped that, as Schenker's
+serious
+music theorists
+will
+recognized,
+26. By "modulation"
+Schenker
+from the
+conceptually
+quite different
+designated
+by the former term.
+19
+
+work becomes
+more widely
+make further applications
+of
+
+means
+erratic
+
+"tonicization'
+which is
+of key usually
+changing
+
+his ideas. 27 With the view to indicating
+the direction
+such applications
+to a disparagraphs
+might take, I should like to devote the following
+in music theory,
+cussion
+of five unsolved
+in each
+problems
+indicating
+Four of
+case how Schenker's
+toward a solution.
+ideas could contribute
+these
+deal with music written
+but very
+prior to 1910, 28 and a single,
+involves
+music
+written
+after that year.
+important
+general
+problem
+Here, then, are the five problems:
+1.
+
+Constructing
+
+a theory
+
+of rhythm
+
+for tonal
+
+music.
+
+of tonal music is more obscure
+than that of
+Hardly any aspect
+To be sure, we have a number
+of studies
+on the subject,
+but
+rhythm.
+for the most part they are lengthy
+of obvious
+surface
+descriptions
+which take prosodic
+or exotic music as points of deevents,
+practices
+or metaphysical
+treatments
+which have little significance
+to
+parture,
+the theorist
+whose proper
+concern
+is with the structural
+role of that
+which we ordinarily
+as "rhythmic"' those relationships
+which
+designate
+determine
+the temporal ordering
+of compositions.
+(There is, of course,
+a certain amount of verbal
+involved in the separation
+of
+self-deception
+from tonal events.)
+rhythmic
+Schenker's
+work in the theory
+of rhythm
+was fragmentary
+and
+oftentimes
+of his thought,
+as exobscure;
+yet the basis
+particularly
+in Der Freie Satz, is clear: the concept
+of structural
+levels.
+pressed
+for example,
+these unique and provocative
+statements:
+Consider,
+In the fundamental
+it does in a cantus
+
+structure,
+rhythm
+firmus exercise.
+
+exists
+
+no more
+
+than
+
+arise within prolongations
+Only when linear
+progressions
+in the upper and lower voices
+of the middleground
+does it
+become
+to counterpoint
+the voices
+necessary
+against each
+other in a rhythmic
+All rhythm in music comes
+ordering.
+from counterpoint,
+only from counterpoint.
+In the
+rhythm
+Thus
+stages
+form,
+
+sub-level
+has a unique
+middleground
+every individual
+which is in accord
+with its contrapuntal
+content.
+various
+rhythm
+progresses
+through
+prolongational
+until it reaches
+the foreground,
+just as do meter and
+which also represent
+of a progressive
+consequences
+
+27. The extent to which Schenker's
+ideas have already been abin some instances,
+sorbed,
+is truly remarkperhaps
+unconsciously
+in view of the failure
+of his work to gain acknowlable, particularly
+Mr. William
+writes
+When, for example,
+of the
+edgement.
+Reynolds
+of "reducing
+the melody to a more skeletal
+in
+possibility
+background
+which the actual structural
+linear
+movement
+is laid bare" and points
+out that "many melodies
+or even poly-linear"
+surely
+may be bi-linear
+we can detect Schenker's
+influence.
+(William Reynolds,
+"Re: Unity in
+11:97-104.)
+Music"' Journal of Music Theory,
+28. I have selected
+1910 as the approximate
+year when such
+as Stravinsky,
+and Schoenberg
+major
+composers
+Bartok,
+began to
+abandon the system
+of triadic tonality in their works.
+20
+
+contrapuntal
+
+differentiation.
+
+29
+
+Schenker's
+observations
+the following
+highly significant
+suggest
+which might well serve
+as points of departure
+for extended
+questions,
+studies
+in rhythm:
+level
+do rhythmic
+events be(1) At what structural
+the tonal structure
+of a given work?
+(2) What is the
+gin to determine
+nature of the relationship
+between the constituent
+in a
+levels
+rhythmic
+the analytic
+given work?
+Clearly,
+techniques
+developed
+by Schenker
+would be indispensable
+to the answering
+of these
+And his
+questions.
+structural
+would be invaluable,
+if, as one might reasonably
+concepts
+such investigations
+were to lead to the formulation
+of a general
+expect,
+theory of rhythm in tonal music.
+2.
+
+Determining
+
+the sources
+
+and development
+
+of triadic
+
+tonality.
+
+A technical
+of triadic
+has yet to be written. 30
+history
+tonality
+When it is, it will have to demonstrate
+historical
+in other
+continuity
+than poetic terms.
+the concept
+of structural
+levels
+here,
+is
+Again,
+invaluable.
+it can be shown that underlying
+If, for example,
+structural
+in works from various
+levels
+tonal events,
+and
+periods
+carry similar
+that these have undergone
+an orderly transformation,
+a major step will
+have been taken toward the establishment
+of the convincing
+historical
+picture which is now so clearly lacking. 31
+Within this large problem
+are smaller
+For example,
+ones.
+the
+of chromaticism
+has not yet been traced in any detail.
+The
+development
+facile
+which have circulated
+for years
+in the musicogeneralizations
+and the statistical
+studies
+of chromaticism
+logical literature
+which are
+based upon very rudimentary
+of musical
+structure
+offer little
+concepts
+of value to serious
+music theorists.
+in his Jahrbiicher
+and in Der Freie Satz,
+Schenker,
+particularly
+laid the groundwork
+for fruitful
+studies
+in chromaticism.
+Indeed, his
+- but not acknowlfundamental
+have already
+been accepted
+principles
+all but the most atavistic
+circles.
+edged--by
+Thus, it is now generally
+that the meaning
+of a particular
+chord is dependent upon its
+recognized
+function
+in a particular
+But it has not yet been widely recogcontext.
+nized that Schenker
+the functions
+of various
+contexts.
+long ago specified
+29. Der Freie Satz, par. 21, my translation.
+30. To the best of my knowledge
+there are only two books which
+deal directly
+with this subject,
+and they only in part: Felix Salzer,
+Sinn
+und Wesen der abendlandischen
+Mehrstimmigkeit
+(Vienna: Saturn Ver1935) and Armand
+Genese
+de la Tonalite
+lag,
+Musicale
+Machabey,
+Richard Masse,
+(Paris:
+Schenker's
+own treatment
+1955).
+of the subject is, in my opinion,
+desultory.
+31. Felix Salzer's
+Structural
+(New York: Charles
+Boni,
+Hearing
+1952) and Adele Katz' Challenge
+to Musical
+Tradition
+(New York: Alfred Knopf, 1945) both contain information
+to this problem.
+pertinent
+A striking
+instance
+of Schenker-derived
+a
+analytic technique
+revealing
+between works of different
+unique relationship
+periods is to be found in
+Ernst Oster's
+"The Fantasie-Impromptu:
+a tribute to Beethoven"'
+article,
+1:407-29.
+Musicology,
+21
+
+Even with regard to diatonic chords, Schenker early in his career
+from conrecognized the necessity for clearly differentiatingharmonic
+trapuntal functions. In his counterpoint book (1911) he drew the following sharp analogy to those theorists who are unable to make this distinction:
+We are all familiar with the way a child carries on with its
+doll. Now the doll is this or that friend, now an aunt - in
+short, everything that the child needs for its play is represented by the doll. The child speaks to the doll and receives an answer (one, of course, provided by itself).
+The
+theorists who write 'harmony textbooks" carry on in the
+same way with their "tone-dolls!' Here the doll represents
+this or that "degree progression"
+now only a suspension,
+here a "harmonic degree' there this or that voice-leading,
+in short, to everything that they demand, and in whatever
+condition they demand that it be, their tone-dolls
+answer,
+yes! 32
+3.
+
+Gaining information
+
+about compositional
+
+technique.
+
+As long as the only determinants
+of compositional
+choice are
+desire to achieve a balance bethought to derive from the composer's
+tween "unity" and "variety" or some other similarly profound impulse,
+very little information about his technique can be gained. As a result
+the serious student is often led to believe that the composer's technical
+grasp of music is either quite ineffable or is "obvious" even "mechanistic]' and he remains unaware of that which can be gained from a
+The composer
+stands to
+deeper study of compositional
+problems.
+benefit from information about compositional determinants not so much
+by making direct applications to his own work as by coming to understand how underlying structural forces shape compositions,
+what it
+means for a work to begin to establish its own terms, its own condiTo the non-composer
+tions.
+such knowledge is also advantageous.
+He
+becomes more aware of the unique characteristics
+of the work, he comprehends the reasons for deviations from an established pattern, unusual rhythmic occurrences,
+etc.
+Schenker's views regarding compositional techUnfortunately,
+Because he writes freely about
+nique often have been misunderstood.
+compositional
+choice, occasionally
+drawing inferences with respect to
+the way in which ideas develop, he sometimes offends those who for one
+reason or another deal with the problem of compositional
+choice only
+at the most trivial level.
+But although he did not hesitate to set forth
+requirements for a good composition, he did not presume to tell anyone
+how to go about composing. And despite the implication of its title, Der
+Freie Satz (free composition) is an instructional book not on composition, but on analysis. Let there be no doubt on this point, Schenker was
+outspokenly against any efforts to use the concept of fundamental structure for the purpose of composing music. To him, music study, represented at the highest level by analysis, makes an essential contribution
+32.
+
+Kontrapunkt (Halbband I), p. xiii.
+22
+
+.
+
+but the latter activity
+to composition,
+unteachable.
+gifted and is essentially
+
+lies
+
+in the province
+
+only
+
+of the
+
+Schenker
+problems
+compositional
+mainly through the
+approached
+in the conviction
+that these underlay
+of strict
+counterpoint,
+principles
+works of the major composers.
+the intricate
+This belief was supported
+of the training received
+by Haydn, Mozart, Beethoven,
+by his knowledge
+and others.
+is this fundamental
+Nowhere
+aspect of Schenker's
+thought
+more apparent
+than in the first and third sections
+of Der Freie Satz,
+which comprise
+a condensed
+of principles
+formulated
+reinterpretation
+in Kontrapunkt.
+years earlier
+With the aid of this methodologically
+valuable
+Schenker
+norm,
+was able to investigate
+of compositional
+which
+technique
+many aspects
+otherwise
+would have remained
+inaccessible.
+Again and again he
+demonstrated
+that foreground
+with its multiple meanings,
+could
+detail,
+be understood
+to the middleground
+and background,
+only in relation
+in accord with the principles
+which provide definition
+of strict counterAs a study technique
+he occasionally
+considered
+alternate
+solupoint.
+tions in order to reveal compositional
+determinants
+more clearly.
+To
+illustrate
+to explain the structural
+factors which
+this, I shall undertake
+determined
+Schumann's
+choice
+of the secondary
+dominant (A7) chord in
+mm. 12-13 of his song analyzed
+earlier
+(Ex. 1). (To avoid misunderI point out that this discussion
+is not directly
+related
+to
+standing,
+Schenker's
+In view of the strong tendency
+of the preceding
+sketch.)
+chord to progress
+and an F-sharp-minor
+(VI) chord,
+C-sharp-major
+8.
+
+Example
+A
+
+l
+
+1V
+
+--'
+
+I
+
+_ .-
+
+_,I
+
+I _.
+
+I
+
+I
+
+I
+
+I!ZV-11
+
+-
+
+r__
+
+r
+
+I -
+
+_
+
+_
+_
+
+-__
+
+h
+
+-m
+ik~~~~~~~~-
+
+A
+-J&
+
+I
+
+_,_.I
+
+h+
+
+iT
+
+1
+I
+
+3
+
+4 n *t -I
+_--
+
+I-
+
+&4v%
+
+f
+
+the A7 chord seems
+abrupt, has the effect of a discontinuous
+element,
+and therefore
+True, it leads tothe upperrequires
+special
+explanation.
+voice adjacent
+element which, in actone, D, an essential
+foreground
+cord with the rhythmic
+as well as with the
+pattern already established,
+consistent
+association
+of the adjacent-tone
+with the
+motive, D-C-sharp,
+verbs in the poem, must occur on the downbeat of m. 13. But, as shown
+in Ex. 8, the alternate
+this tone could also be reached without
+solution,
+the aid of the A7 chord.
+This indicates
+that the upper voice did not determine
+the choice
+of the A7. When the alternate
+solution
+(Ex. 8) is
+the more important
+considered,
+function, hence the raison d'etre of the
+This alternate
+clear.
+omits the A7 but retains
+A7, becomes
+passage
+the essential
+features
+of its immediate
+context: the preceding
+C-sharp
+chord and the upper-voice
+D which follows it. The alternate
+begins by
+the tendency
+of the C-sharp
+chord to resolve
+fulfilling
+to F-sharp
+minor.
+From there it moves through an E chord back to
+in m. 14.
+23
+
+What features
+of the originalpassage
+are most noticeably
+missing
+from the alternate?
+it is apparent
+that the upper-voice
+D on m.
+First,
+14 lacks the support
+of the IV chord, which was impossible
+to reach
+from the VI. But the most striking
+omission
+in the
+logically
+beginning
+alternate
+version
+is the chromatically
+inner-voice,
+which,
+descending
+in the original version,
+carried by the C-sharp
+begins with the G-sharp
+in the A7 chord, descends
+to Fchord, moves through A to G-natural
+over IV, and finally moves through E to D-C-sharp
+over V7-I.
+sharp-F
+Observe
+that this striking
+inner-voice
+line concludes
+in m. 15 with a
+statement
+of the characteristic
+motive. 33 We can
+upper-adjacent-tone
+therefore
+infer that Schumann
+selected
+the A7 chord in question
+not
+of its secondary-dominant
+relation to the IV at m. 14, but
+only because
+because
+the A7 chord carries
+an essential
+comprimarily
+G-natural,
+line just described.
+ponent in the long descending
+Using Schenker's
+as a criterion
+levels
+we can therefore
+concept of structural
+say that the
+reason
+for the A7 chord is more important
+here
+contrapuntal-melodic
+than the harmonic
+reason.
+(fifths relationship)
+Obviously,
+expression
+of the secondary-dominant
+does not require
+the presence
+relationship
+of the seventh,
+I mean here that G is a
+G; but by "more important"
+in a configuration
+which belongs to a higher structural
+level
+component
+Example
+
+9.
+
+34 In amplification
+than does the secondary-dominant
+of
+relationship.
+this, Ex. 9 shows how the inner-voice
+A is stated at the becomponent
+ginning of the song, prolonged
+by the lower adjacent 7 tone, G-sharp,
+in the middle section,
+then in m. 12 begins the descent to C-sharp.
+In
+Schenker's
+this linear
+is the composing-out
+terms,
+of an
+progression
+not a random interval,
+interval,
+but in this case the composing-out
+of
+the sixth, A-C-sharp,
+the inversion
+of the triadic third which controls
+the upper-voice
+motion of the entire song.
+This third, stated vertically
+at the very outset of the piece,
+is also expressed
+in the bass succession, III-I, a means of associating
+the outer voices
+at all levels.
+In attempting
+to ascertain
+the major compositional
+determinant
+in this instance,
+I do not disregard
+the influence
+of the form of the poem
+and its internal
+associations.
+Doubtless
+Schumann
+wanted to set the
+und vor deinem,
+words,
+which begin the last section,
+with the same Csharp used at the beginning with the words,
+aus meinem.
+Also I do not
+overlook
+the fact that the chromatic
+descent
+of the inner voice in the
+final measures
+the inner-voice
+and bass diminutions
+repeats
+of the
+middle section,
+an additional
+means of unification.
+33. As in mm. 3-4 (7-8) Schumann here requires the
+accompanist
+to interlock
+the hands in such a way that this motive
+is naturally
+stressed.
+34. Here I disagree
+with Schenker's
+which shows the A7
+sketch,
+chord supporting
+3. In my opinion 3 is supported
+by the tonic triad in
+m. 14.
+24
+
+Not only are Schenker's
+and techniques
+valuable in the
+concepts
+in completed
+but they also provide
+the
+works,
+study of such details
+means for interpreting
+sketches,
+compositional
+rough drafts, revisions,
+notated improvisations,
+etc. For example,
+othermany of Beethoven's
+wise perplexing
+sketches
+become
+clear and significant
+when they are
+examined
+with reference
+to a thorough structural
+At present
+analysis.
+a large amount of such material
+awaits investigation
+by music theorists.
+4.
+
+Improving
+
+theory
+
+instruction.
+
+We all recognize
+that the serious
+student of music today is faced
+with an enormous task. He is expected toknow the literature
+and structure of the music
+of the past, as well as the ever increasing
+literature
+of the present
+with its diverse
+and often problematic
+compositional
+In order to relieve
+this situation
+we would do well to emulate
+systems.
+science
+thanks to the continual
+refinement
+of coneducation,
+where,
+students
+cover traditional
+material
+more and more efficiently.
+cepts,
+In my opinion, the intelligent
+and serious
+music student could cover the
+traditional
+curriculum
+within two years,
+and then go on to more
+basic,
+advanced
+in music
+studies
+of all periods
+the instructional
+-provided
+methods
+and concepts
+used were adequate
+to the task.
+Here Schenker
+has much to offer.
+for example,
+the unreasonable
+amount of
+Consider,
+time ordinarily
+on the relationship
+between
+and
+spent
+fugal subject
+answer.
+But when these are regarded
+as thematic
+of the
+expressions
+tonic-dominant
+- within a single
+relationship
+key35 and when necesin the answer
+are explained
+in terms of relationships
+sary adjustments
+between
+structural
+the student
+the underlying
+levels,
+quickly grasps
+and is able to cope intelligently
+with details.
+Instruction
+of
+principles
+this kind, extended to all aspects
+of traditional
+could lead to far
+theory,
+without sacrificing
+greater
+efficiency
+thorough coverage.
+In more general
+ineffective
+often can
+terms,
+theory instruction
+be attributed
+to a failure
+to recognize
+the importance
+of non-consecutive relations.
+The student's
+hearing is directed
+only to the immediate
+connections
+in the foreground,
+which provide an exception
+to every rule,
+and he soon comes
+to feel that concepts
+derived
+from his theoretical
+studies are incapable
+of explaining
+with any degree of precision
+the orof actual compositions.
+Schenker has suggested
+that Brahms
+ganization
+so vehemently
+his formal studies
+for this very reason.
+He
+repudiated
+makes clear that the significance
+of Brahms'
+collection
+of examples
+of
+fifths and octaves36
+lies in the composer's
+parallel
+of the
+recognition
+contradiction
+between a theory which dealt with immediate
+relationships
+and his own highly refined sense of
+only, often of a transient
+nature,
+hearing which encompassed
+large spans.
+5.
+
+Understanding
+It is no secret
+
+the structure
+that Schenker
+
+of problematic
+detested
+
+35. The notion of "modulation"
+here.
+36. Johannes Brahms,
+Octaven
+(Vienna: Universal,
+1933).
+
+dents
+
+25
+
+is
+
+modern
+
+modern
+
+music.
+
+particularly
+
+undQuinten,
+
+works.
+Indeed,
+
+confusing
+
+edited
+
+his
+
+to stu-
+
+byH. Schenker
+
+concern about the current state of affairs in music seems to have been
+an important motivation for all of his writings.
+At the beginning of the
+first volume of his Kontrapunkt (1910) he declaims:
+We stand before a Herculaneum and Pompeii of music; muThe tonal material itself
+sical civilization is obstructed!
+is destroyed, those essentials of music which were created
+went
+by artists, who, working with their own resources,
+far beyond the meager indications of the overtone system.37
+Nor did time modify his opinion. Some sixteen years later in Jahrbuch
+II he undertook an analysis of a passage from Stravinsky's Piano Concerto, concluding:
+My analysis gives me the right to say that Stravinsky's
+work, despite its slight suggestions of linear progressions,
+which has to do with the folk-like elements it contains, is
+and unmusical.
+altogether bad, inartistic,
+In view of these and other statements, it seems contradictory that
+Schenker's work should contribute significantly to the solution of certain problems in advanced contemporary music.
+Yet, his general concept of structure, apart from his specific formulations of triadic tonal
+events, lends itself to modernthought regarding music.38 For example,
+the idea of the "totally organized" work, now become quite fashionable,
+was clearly set forth by Schenker (but without reference to Webern!).
+He even recognized the structural role of orchestration
+and demonstrated this in his analyses, notably in those of the Scherzo to Beethoven's Third Symphony and the G-minor Symphony of Mozart. Relevant
+to this, he writes in Der Freie Satz:
+In the masterworks,
+orchestral colors are not combined
+according to (the composer's) mood, and applied haphazardly. They are subject to the laws of the total composition.39
+37. Schoenberg, in the first edition of his Harmonielehre (1911),
+took exception to this as follows: "Dr. Heinrich Schenker (I hear) writes
+in a new counterpoint book of the art of composition, and maintains that
+no one can compose any longer.
+Certainly Dr. Schenker is a thinker
+whom one must take seriously,
+(even though nothing correct is to be
+And
+gained from it), for he is one of the few who strive for a system.
+if he makes the same mistake as others, one must nevertheless
+value
+him for other merits.
+But what he says is hardly better than the remarks of the senile about 'the good old days!'"
+In the 1922 edition
+Schoenberg changed his remark about "nothing correct to be gained" to
+read "although he brings nothing to full clarity!' Schenker reciprocated
+by attacking Schoenberg's Harmonielehre in Jahrbuch II (1926).
+38. Roger Sessions recognized this as early as 1935 when he
+wrote: "Although Schenker remained bitterly hostile to all that is contemporary in music, his work and his ideas nevertheless
+embody very
+clearly certain aspects of contemporary
+musicality. . . " ("Heinrich
+Schenker's Contribution" Modern Music, XII:170-8.)
+39. Der Freie Satz, 2d edition, 1956, p. 34. (My translation)
+26
+
+More specifically,
+Schenker's
+two basic retheory established
+for analysis
+which are applicable
+to modern music: first,
+quirements
+an analysis
+should
+undertake
+to explain
+the essential
+relationships
+within a composition,
+their genesis,
+interaction
+and relative
+ordering,
+to the parts and to the whole of the work; second,
+as part
+importance
+of the analytic
+a representational
+means and vocabulary
+undertaking,
+which are in accord with the unique characterisshould be developed
+tics of the work. 40
+But beyond these values - the point of view and the general re-Schenker's
+a specific
+the requirements
+theory offers
+study-tool,
+duction technique,
+which can be used to good advantage
+in analyzing
+certain modern works. 41 The long-range
+goal of such analytic studies
+If it can be demonstrated
+should be kept in mind.
+that contemporary
+those of the problematic
+1910-1925
+compositions,
+particularly
+period,
+reveal
+similarities
+at other than the surface
+and if
+significant
+level,
+can be interpreted
+these similarities
+in an orderly fashion, while at the
+same time accounting
+for differences,
+a beginning
+will
+satisfactorily
+have been made toward a genuine technical
+of contemporary
+history
+music.
+Many of the works composed
+during this period have achieved the
+status of standard
+as a modern work can
+insofar
+items,
+repertoire
+achieve that status.
+And yet, by and large, even these "standard"works
+are little better understood
+now than they were at the time of their
+that Schenker-derived
+42 It has been demonstrated
+concomposition.
+can be used to good advantage here, provided each
+cepts and techniques
+work is examined
+in its own terms.
+This means that, even though
+Schenker's
+of structural
+is used, the general
+levels
+content of
+concept
+each level cannot be predicted,
+as it can in tonal works where we know
+in advance the underlying
+and the function of
+organizational
+principles
+detail.
+there is a danger of reading
+triadic
+Obviously
+into a work which is based upon non-triadic
+premises.
+
+characteristics
+the
+Therefore,
+
+40. Schenker was aware of the problem of verbalizing
+about muIn Der Freie Satz he remarks:
+"As a verbal
+a name
+connection,
+at once a logical
+and an essential
+connection
+always indicates
+unity:'
+the terms
+Thus, he rejected
+"melody,' "motive"' and the like, because
+he felt that they:lacked
+with respect
+to more comprehensignificance
+sive events such as "fundamental
+line:'
+41. Applications
+to modern works have already been made in the
+books of Salzer
+and Katz cited earlier
+and in Contemporary
+ToneStructures
+writer
+(New York: Bureau of Publications,
+by the present
+Teachers
+Columbia University,
+1955).
+College,
+42. The familiar
+"atonal'
+terms,
+etc., do not con"polytonal'
+stitute explanations,
+but are merely labels,
+somewhat
+which
+shopworn,
+usually serve only to obscure
+structural
+events.
+Unreally significant
+the currency
+of these terms
+has given them the aura of
+fortunately,
+genuine technical
+even some
+language with the result that many people,
+are underthe
+that the organization
+musicians,
+of contempoimpression
+rary music is fully comprehended.
+sic.
+
+27
+
+initial problem in the analysis of a work from the period under discussion is to discover a clue which will reveal its basic structural terms.
+To illustrate the application of Schenker-derived
+techniques toward the
+solution of this problem, I present here a partial analysis of Debussy's
+La Cathedrale Engloutie (1910), a work which is familiar and relatively
+but which deviates considerably
+from triadic norms,
+uncomplicated,
+despite certain external triadic characteristics.
+A careful examination ofthe first measure, in the course of which
+all doublings are eliminated to show the basic components in their most
+condensed form, yields an incomplete succession
+of parallel fourths
+above a sustained "bass" note (Ex. 10a). The fact that the lower line
+in this succession
+is incomplete compared to the upper, suggests that
+it will eventually complete itself, that is, E will ascend to F-sharp,
+thus paralleling completely the motion of the upper voice.
+This provides a clue, at least, to the melodic structure.
+The tendency of E to
+ascend is strengthened with each repetition and with the placement of
+the succession
+D-E in the upper register at the end of every melodic
+At measure 6 the E
+group; yet the implied motion is not completed.
+achieves a certain stability, supported by the bass E, and embellished
+To clarify the structure of this section, the
+by C-sharp and D-sharp.
+melodic tones are arranged vertically,
+in accord with Schenker's conThe result is a succession
+of parallel
+cept of polyphonic melody.
+fourths like that at the beginning. This succession prolongs the central
+tones, E and B (Ex. 10b). Observe that, unlike the opening succession,
+the lower voice of the succession is complete.
+At m. 13 the bass continues its descent, arriving at C. Following this, the initial parallel fourths succession is repeated (mm. 14-15),
+reinforced here by another parallel succession,
+A-B, added in the lower
+staff.
+Finally at m. 16, the melodic connection from E to F-sharp,
+suggested at the very outset, is completed, and as the inner voice ascends to F-sharp, the bass descends to B. Ex. 10c) summarizes
+the
+first section of the piece showing how the implied motion is ultimately
+This sketch also shows that the F-sharp is followed by Grealized.
+sharp, suggesting a further ascent by whole steps, which, of course,
+does occur.
+A comparison
+of the horizontal and vertical intervals tells us
+something about the interaction of the various structural levels as the
+piece unfolds. A number of symmetries appear. To illustrate, Ex. 10d)
+the third within which the upper voice operates,
+and the
+represents
+sixth, its inversion which is simultaneously
+composed-out in the bass.
+In contrast to the thirds, which are associated with the horizontal unfolding at the middleground level, the vertical fourths belong excluThe most active element in the composition,
+sively to the foreground.
+on the basis of this incomplete analysis, is the ascending inner voice
+which demands attention at the very outset.
+Ex. 10e) shows how it
+over the span of an octave.
+slowly unfolds a whole-tone progression
+Thus, to use Schenker's terms, the structural content of the upper
+voice at the middleground level is an ascending whole-tone scale.
+There
+
+dre diverse
+
+elements
+
+at the foreground
+28
+
+and middleground
+
+3
+
+4-
+
+)
+I
+
+(
+
+(D
+4-
+
+9
+
+I
+
+I
+
+I
+Nl
+
+before the backfurther on inthe piece which require explanation
+I shall not take time for that
+intelligently.
+ground can be discussed
+here, in the hope that the partial analysis
+already given has served its
+of Schenker-derived
+andtechniques
+purpose: the demonstration
+concepts
+modern music.
+applied to problematic
+levels
+
+and techIt would be foolish
+that Schenker's
+to assert
+concepts
+can be applied with equal effectiveness
+For exto all music.
+niques
+is not suitable
+of 12the reduction
+for the analysis
+ample,
+technique
+tone music,
+nor is it required
+there in order to explain structure.
+The
+12-tone
+has its own history,
+and analytic
+its own terminology
+system
+as music continues
+to be composed,
+technique.43
+Certainly,
+performed,
+and studied,
+music theory is responsible
+for developing
+new concepts
+and new analytic
+which will contribute
+toward the underprocedures
+of that music.
+But at the same time,
+we should
+standing
+recognize
+that the possibilities
+for applying
+Schenker's
+have by no
+technique
+means been exhausted.
+There are those who feel that Schenker's
+are of quesconcepts
+tionable validity
+because
+The implicathey do not apply to all music.
+tions of such an unreasonable
+criterion
+are disturbing,
+since a general
+in the many periods
+even of occitheory which would apply to music
+dental history,
+each with its own structural
+and extensive
+principles
+would very likely be of such a rudimentary
+and primitive
+literature,
+- valueless.
+nature as to be - for all practical
+(It may well
+purposes
+be that a theory
+of this kind is already
+in the musicological
+implicit
+literature
+of the past quarter-century.)
+In many respects
+work provides
+us with a model of
+Schenker's
+in vain
+what the work of the music theorist
+should be - one searches
+And yet, Schenker
+did not regard himself
+as
+for a comparable
+effort.
+a theorist
+or as a musicologist,
+but rather as an artist.
+He has indeed
+traits
+of courage
+and perseverance
+the artist's
+combined with intellect
+and insight
+with the true scientist),
+traits
+(which we also associate
+which set him apart from the bigoted
+pedant who, all too often in
+Schenker's
+It is to be hoped that
+day, bore the name of music theorist.
+as his ideas are more widely understood
+and applied,
+the image of
+as a visionary
+will be replaced
+Schenker
+by one of a unique,
+original
+and highly gifted person.
+For the conceptual
+framework
+which he exas well as for the vast amount of information
+about specific
+pounded,
+musical
+structures
+which he provided,
+he deserves
+recognition
+by all
+musicians.
+intelligent
+
+43. Milton Babbitt has made original,
+contribuhighly significant
+of 12-tone
+tions to the theory
+music.
+his article
+See, for example,
+of 12-tone Composition,'
+"Some Aspects
+The Score,
+12:53-61.
+Important work has also been done by George Perle.
+See his book review in
+the Journal of the American
+X:55-59.
+Society,
+Musicological
+30
+
+
