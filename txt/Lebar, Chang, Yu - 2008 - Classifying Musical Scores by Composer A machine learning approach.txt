@@ -1,0 +1,735 @@
+Classifying Musical Scores by Composer:
+A machine learning approach
+Justin Lebar
+
+Gary Chang
+
+David Yu
+
+{jlebar, gwchang, yud}@stanford.edu
+
+November 14, 2008
+
+Abstract
+
+scores.
+We run each score through a **kern parser written
+in Java before applying our machine learning algorithms
+to the scores. The parser transposes the score from its
+original key to the key of C major and generates features
+from each score’s chords.
+
+We apply various machine learning algorithms to classify
+musical scores in the **kern format by their composer.
+Our algorithms were able to distinguish some composers
+well, but had diﬃculty distinguishing between composers
+from similar time periods. We conclude that categorization problems among certain sets of composers likely have
+a higher inherent error rate than others.
+
+1
+
+3
+
+Data
+
+Figure 1 lists the composers we analyzed. For each composer except Beethoven, we were only able to access signiﬁcant numbers of pieces of one type—either pieces for
+a keyboard instrument or pieces for string quartets. To
+maintain this symmetry, we consider Beethoven’s string
+quartets and piano sonatas as being written by two different composers. For pieces with multiple movements,
+we analyzed each movement as a separate piece.
+
+Introduction
+
+Understanding the features that demarcate musical genres and distinguish the works of various composers is important for a number of applications, including organizing
+musical databases and building music recommendation
+engines. Previous work has shown that classifying audio
+recordings of music is a diﬃcult machine learning probComposer
+Lived
+Type
+n
+Key
+lem, not in the least because one must employ sophisticated audio processing techniques to extract features from
+JSB
+Bach, J. S.
+1685-1750 kbd 111
+a noisy audio waveform (see examples of such complexity
+SCA
+Scarlatti, D.
+1685-1757 kbd
+58
+at [1]).
+HDN Haydn
+1732-1809
+sqt
+212
+We avoided the challenges of audio processing by taking
+MOZ Mozart
+1756-1791
+sqt
+82
+a diﬀerent approach: Instead of analyzing audio ﬁles, we
+LVBp Beethoven (kbd) 1770-1827 kbd
+78
+used musical scores in the plain-text **kern format (full
+LVBq Beethoven (sqt)
+1770-1827
+sqt
+70
+speciﬁcation available at [2]).
+CHO Chopin
+1810-1849 kbd
+88
+JOP
+Joplin, Scott
+1867-1917 kbd
+46
+Classifying music by its waveform remains the primal
+task in this ﬁeld, but we hope that our analysis of features and algorithms for classifying scores may suggest Figure 1: Composers analyzed. Type is either “kbd” for keywhich techniques for analyzing audio might be more ef- board music or “sqt” for string quartets. n is the number of
+pieces by each composer in our training set.
+fective and may hint at the inherent error associated with
+distinguishing between certain composers.
+
+2
+
+4
+
+Process
+
+4.1
+
+We used the The Humdrum Project’s library of **kernencoded classical scores, available at http://kern.
+humdrum.org, as our source of training and testing data.
+**kern scores are essentially a lossless representation of
+the original printed music and include information about
+articulations, dynamics, and even note stem directions
+in addition to the notes themselves. For simplicity, our
+model ignores everything except pitches and their durations.
+Each line in a **kern ﬁle lists one or more notes
+which begin simultaneously. We call each of these lines a
+“chord”, and they form the basic token for our analysis of
+
+Methodologies
+Naive Bayes
+
+Naive Bayes showed little success when we considered two
+chords equal only if they contained the same pitches for
+the same durations, but we improved upon this result
+by relaxing the conditions under which two chords were
+considered equal. The best equality function we tested
+is pitch-count. Two chords are equal under pitch-count
+if they both contain the same number of notes of each
+pitch, ignoring octave and duration. That is, two chords
+each containing two Cs and a D in some octave have the
+same pitch-count, but a chord containing one C and two
+Ds has a diﬀerent pitch-count than the other two.
+1
+
+Requiring that two chords have similar rhythms in order to be considered equal decreased the eﬃcacy of our
+classiﬁer dramatically. If we ignored the number of times
+a note appeared in a chord and considered a chord containing three Cs and a D to be equal to a chord containing
+one C and four Ds, our Naive Bayes implementation performed with only slightly less accuracy than pitch-count.
+If we created n-chord tokens by grouping together the
+ﬁrst n chords into one token, chords 2 through n + 1 into
+a second token, etc., our model’s train error fell to nearly
+zero for all composers and the testing error increased,
+even for n = 2. This indicates that even 2-chord tokens
+cause our algorithm to overﬁt the data.
+
+4.2
+
+the same features as LDA. To maintain the nonsingularity of the class-speciﬁc covariance matrices, we classiﬁed
+on the 45 largest principal components.
+
+4.4
+
+Our implementations of Naive Bayes, SVM, LDA, and
+QDA include no metric for measuring the similarity of two
+tokens aside from strict equality. As a result, we could
+not train on full chords—instead, we reduced chords to
+their pitch-count and learned the frequency that a composer wrote chords with various pitch-count values. This
+reduction throws out a great deal of information—in particular, it ignores the notes’ octaves and gives long and
+short notes equal weight. We devised a scheme for classifying scores using nearest-neighbor techniques which attempts to overcome these deﬁciencies.
+Our algorithm works as follows: For every measure m
+in every score, we create the set Nm containing the k
+measures in other pieces which are most similar to m,
+as measured by some distance function d. To classify a
+score S, we compute for each measure m ∈ S a function
+C(m, Nm ) of m’s neighbors which classiﬁes m as being
+most similar to one composer. We then take a majority
+vote of all the measures to classify S.
+We tried a number of diﬀerent parameters to this algorithm. In the end, we represented each measure as a
+vector where each element of the vector was a weighted
+sum of the notes sounding at a given pitch in that measure. Longer notes received greater weight, in proportion
+to their length. We found that taking octaves into account did improve the accuracy of our algorithm, as we’d
+hoped.
+We found that the algorithm was not very sensitive to
+the distance function used, but we had best performance
+when using
+y
+x
+−
+d(x, y) =
+x
+y
+as opposed to d(x, y) = x−y or d(x, y) = x−y /( x +
+y ). Our algorithm was somewhat sensitive to our choice
+of C(m, Nm ), the function mapping a measure m and
+its neighbors Nm to a composer. The KNN algorithm
+performed best overall for C(m, Nm ) deﬁned as
+
+Support Vector Machines
+
+Our second approach to the problem was to apply a standard Support Vector Machine using the same features we
+had extracted for Naive Bayes. To this end, we used the
+libSVM library, available at http://www.csie.ntu.edu.
+tw/~cjlin/libsvm/.
+The accuracy of our SVM varied greatly depending on
+the kernel we used and the parameters we passed to the
+SVM. We tried three kernels:
+1. linear: k(u, v) = uT v
+2. sigmoid: k(u, v) = tanh(γuT v + c0 )
+3. Gaussian radial basis function:
+2
+k(u, v) = e−γ|u−v|
+and found that the last signiﬁcantly outperformed the
+ﬁrst two. As a result, we spent most of our eﬀorts tuning
+and trying diﬀerent features for the Gaussian radial basis
+function kernel.
+
+4.3
+
+K-Nearest Neighbors
+
+Linear and Quadratic Discriminant
+Analysis
+
+We performed LDA classiﬁcation using the same pitchcount features as Naive Bayes and SVM since it was
+shown it give better accuracy. LDA assumes that the
+input features are distributed according to a multivariate Gaussian; if this assumption holds, then LDA should
+require fewer training samples to reach performance similar to NB and SVM. Although we didn’t observe that
+our data was closely distributed according to a multivariate Gaussian, we hoped that our LDA might nevertheless
+perform well given a limited training set. To maintain
+symmetry with our other algorithms, we trained on 360
+samples overall (45 per composer), and thus we rankreduced our data by selecting the 360 largest principal
+components and performed LDA on those.
+Supposing that the linearity of the classiﬁers in LDA
+might be a limitation to its performance, we also performed quadratic discriminant analysis on our data, using
+
+arg max
+composer c
+
+1{c composed n} exp
+n∈Nm
+
+1
+d(n, m)2
+
+.
+
+This choice of C decreases very quickly as d(m, n) increases, suggesting that our KNN classiﬁcation performs
+best when C(m, Nm ) outputs the single nearest neighbor
+of m, using a majority vote when m has many neighbors
+at approximately the same distance.
+
+5
+
+Results
+
+We see the following consistencies across classiﬁers: First,
+all classiﬁcation methods had diﬃculty distinguishing be2
+
+100
+NB
+SVM
+LDA
+KNN
+
+JSB
+
+SCA
+
+80
+
+HDN
+
+Error (%)
+
+Composer
+
+60
+
+MOZ
+
+LVBp
+
+40
+LVBq
+JOP
+CHO
+LVBq
+LVBp
+MOZ
+HDN
+SCA
+JSB
+
+CHO
+
+20
+JOP
+
+0
+
+JSB
+
+SCA
+
+HDN
+
+MOZ
+
+LVBp
+
+LVBq
+
+CHO
+
+0
+
+JOP
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+pitch, the feature only reports a 1 if it appeared once
+or more, or a 0 if it never appeared). For each set
+of features, we performed a grid search to approximate
+the optimal values for the SVM parameters: We measured the performance of the classiﬁer for values of the
+slack constant C ∈ {2−5 , 2−4 , ..., 215 } and the radial basis
+function parameter γ ∈ {2−15 , 2−14 , ..., 23 } by performing 10-fold cross validation on the training set. We found
+that the pitch-count feature set yielded the highest crossvalidation accuracy of 67.5%, followed by pitch-present at
+63.9% and note-count at 60.6%. It is interesting to note
+that pitch-count was also the feature set that yielded the
+highest accuracy in the Naive Bayes classiﬁer. However,
+we still achieved a reasonably high level of accuracy when
+given only boolean values for each pitch (in the case of
+pitch-present) or when given only the number of notes in
+each chord (in the case of note-count).
+Our last step was to perform a ﬁne-grained search for
+C and γ around the local maximum found previously.
+With these parameters and the pitch-count feature, our
+cross-validation accuracy increased from 67.5% to 68.3%.
+Our overall accuracy on the test set using these optimal
+parameters is shown in Figure 2, and the confusion matrix
+is plotted in Figure 4.
+
+tween composers belonging to the same musical period.
+For example, in the SVM confusion graph (Figure 4),
+we see that most pieces misclassiﬁed as Bach were by
+Scarlatti and vice versa. This is unsurprising, since Bach
+and Scarlatti were contemporaries and both wrote in the
+Baroque style. We see the same pattern can be across
+Classical (Haydn, Mozart, and Beethoven) and Romantic (Beethoven piano and Chopin) composers in all our
+confusion plots.
+Second, all classiﬁers were able to distinguish Joplin’s
+works to a high degree of accuracy. This is consistent with
+the fact that Joplin’s ragtime style that was a distinct
+departure from the European classical traditions.
+
+Naive Bayes
+
+We initially conducted our Naive Bayes modeling using
+70% of each composer’s scores for training and the remaining for cross-validation testing, but we found that
+this method biased the model towards composers with
+more scores. To remove this bias, we trained on a constant
+number of scores from each composer (45) and tested on
+the remaining scores; doing so, we obtained much more
+balanced results. We used this cross-validation scheme
+for all of our other classiﬁers as well.
+
+5.2
+
+20
+
+Figure 3: Confusion plot for Naive Bayes classiﬁcation.
+The small bars represent the percentage of a composer’s
+works which were misclassiﬁed as the composer listed on
+the vertical axis. The large bars represent the sum of the
+small bars they contain.
+
+Figure 2: Test error for the four main algorithms used.
+In each case, we trained on 45 scores from each composer
+and tested on the remaining scores. For NB, SVM, and
+LDA, we used the pitch-count feature. For KNN, we used
+the measure-count feature. See Figure 1 for the full names
+of the composers listed.
+
+5.1
+
+10
+
+Error (%)
+
+Composer
+
+5.3
+
+Support Vector Machine
+
+K-Nearest Neighbors
+
+Even with a high degree of tuning, our KNN algorithm
+performed on par with LDA and worse NB and SVM. We
+had hoped that the larger features we used would allow
+us to extract more information from the scores, but this
+turned out not to be the case. We suspect that the critical piece of information lost in the measure-count feature
+
+Using the same training and cross validation scheme
+as Naive Bayes, we tried features including pitch-count,
+note-count (which reports only the number notes in a
+chord and ignores the notes’ pitches) and pitch-present
+(which is similar to pitch-count, except that for each
+3
+
+SCA
+
+HDN
+
+HDN
+
+MOZ
+
+MOZ
+
+Composer
+
+JSB
+
+SCA
+
+Composer
+
+JSB
+
+LVBp
+
+LVBq
+
+LVBq
+JOP
+CHO
+LVBq
+LVBp
+MOZ
+HDN
+SCA
+JSB
+
+CHO
+
+JOP
+
+0
+
+LVBp
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+JOP
+CHO
+LVBq
+LVBp
+MOZ
+HDN
+SCA
+JSB
+
+CHO
+
+JOP
+
+100
+
+0
+
+10
+
+20
+
+Error (%)
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Error (%)
+
+Figure 4: Confusion plot for SVM classiﬁcation.
+
+Figure 6: Confusion plot for LDA classiﬁcation.
+
+Meanwhile, QDA had an error rate upwards of 75%.
+QDA requires signiﬁcantly more samples than LDA to
+classify data of the same dimension, so we had to run
+QDA on a lower-dimensional vector space than LDA, essentially giving QDA less training data. Furthermore, the
+fact that our data is not multivariate Gaussian (see Figure
+8) made errors even more pronounced in QDA.
+
+JSB
+
+SCA
+
+HDN
+
+Composer
+
+30
+
+MOZ
+
+LVBp
+
+6
+
+LVBq
+JOP
+CHO
+LVBq
+LVBp
+MOZ
+HDN
+SCA
+JSB
+
+CHO
+
+JOP
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Analysis
+
+In order to understand how well our classiﬁcation methods have performed, we need to estimate the Bayes error that is inherent to our classiﬁcation problem. The
+Bayes classiﬁer is ambiguous when there is overlap in the
+posterior probability distributions of two or more distinct
+classes. Therefore, we can estimate the Bayes error by approximating the degree of overlap between the posterior
+distributions. We do this through PCA and a historical
+analysis.
+
+100
+
+Error (%)
+
+Figure 5: Confusion plot for KNN classiﬁcation.
+
+as compared to pitch-count is the number of notes being
+played at once. This information is likely key to success- 6.1 Principal Component Analysis
+ful diﬀerentiation between string quartets and keyboard Our ﬁrst approach to estimating the degree of overlap
+pieces, something which our KNN algorithm had diﬃculty between features of distinct classes was to create a 2doing (see Figure 5).
+dimensional visualization of the data. This was done by
+5.4 Linear and Quadratic Discriminant mapping the pitch-count features to their ﬁrst two principal components. We observed that composers belongAnalysis
+ing to the same musical period exhibit signiﬁcant overlap
+We achieved training error of 0.8% and cross-validation in the ﬁrst two principal components (see 8). On the
+accuracy of 51.3% using linear discriminant analysis. other hand, composers belonging to distinct musical peWhile this seems substantially lower than SVM, we see riod show a high degree of separability (see 7). These
+from Figure 2 that LDA is quite comparable to SVM for observations help explain the patterns in confusion errors
+all composers except for the Romantics (Beethoven and discussed above.
+Chopin). The diﬃculty LDA had classifying the Roman6.2 Historical Analysis
+tics is likely due to the linearity of its decision boundary
+or and the fact that our data is not distributed according The degree of similarity in the music of distinct composers can also be traced historically. Haydn and Mozart
+to a multivariate Gaussian.
+4
+
+6
+
+6
+
+beethoven/quartet
+mozart
+haydn
+
+chopin
+joplin
+5
+5
+4
+4
+3
+3
+
+2
+
+1
+
+2
+
+0
+1
+−1
+0
+−2
+
+−3
+−2
+
+−1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+−1
+
+6
+
+Figure 7: PCA of Romantic vs. Ragtime composers.
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Figure 8: PCA of Classical composers.
+
+8
+
+Further work
+
+were both in Vienna from 1781–1784 and were admirers
+of each other’s works. Haydn’s Opus 20 string quartets
+are believed to have been inspired by Mozart’s K168–
+173, while Mozart’s K387, 421, 428, 458, 464, and 465
+are widely known as the “Haydn quartets” and were inspired by Haydn’s Opus 33 [4]. Similarly, Beethoven was
+Haydn’s pupil in Vienna from 1792–1795 and Chopin’s
+late contemporary. Beethoven’s later works (after 1815)
+are widely considered to be the beginning of the Romantic
+period, a canon to which Chopin belonged.
+
+In this paper, we laid a framework for applying machine
+learning techniques to **kern scores. Our analysis here
+has been context-free: Our NB, SVM, and LDA algorithms consider only how many times a given chord appears in a score, and our KNN algorithm classiﬁes measures with no consideration given to the surrounding measures. Future work might involve attempting to add more
+context to these models, either by adding context to the
+features used, or by using a context-full model, such as
+an HMM.
+
+The similarities in Haydn and Mozart string quartets
+have been quantitatively accessed by Carig Sapp and YiWen Liu of Stanford University. In an online quiz that
+asks listeners to distinguish between movements from
+Mozart and Haydn string quartets, the accuracy rates
+ranged from 52 to 66% for self-identiﬁed novices and
+experts respectively [5]. In light of the diﬃculty even
+experts have with this classiﬁcation problem, our algorithms’ diﬃculty here is not surprising.
+
+9
+
+7
+
+Acknowledgments
+
+We’d like to thank Prof. Jonathan Berger for his valuable guidance at the beginning of this project. We’d also
+like to thank the Humdrum Project and the Center for
+Computer Assisted Research in the Humanities for making their collections of **kern scores available online for
+free.
+
+References
+[1] “MIREX 2008,” International Music Information Retrieval Systems Evaluation Laboratory, University of Illinois at UrbanaChampaign, http://www.music-ir.org/mirex/2008/index.php
+
+Conclusions
+
+[2] “Everything You Need to Know About the Humdrum ‘**kern’ Representation,” Ohio State University School of Music, http://dactyl.
+som.ohio-state.edu/Humdrum/representations/kern.html
+
+We see that SVM is consistently the more accurate classiﬁer across all composers we analyzed. This is likely
+because SVM makes no assumptions on the probabilistic distribution of features, allows for nonlinear decision boundaries, and can train on a sparse yet highdimensional data. These properties make the SVM the
+superior classiﬁer for this particular problem. Although
+our error rates for classifying some composers were large,
+errors we saw are in line with what we’d expect from a
+historical analysis, PCA, and human trials.
+
+[3] Saunders, C., Hardoon, D. R., Shawe-Taylor, J. and Widmer, G.
+(2004) Using String Kernels to Identify Famous Performers from
+their Playing Style. In: The 15th European Conference on Machine
+Learning (ECML) and the 8th European Conference on Principles
+and Practice of Knowledge Discovery in Databases (PKDD), 20-24
+September, Pisa, Italy.
+[4] Rosen, Charles. “The Classical Style: Haydn, Mozart, Beethoven.”
+W. W. Norton Company, 1998.
+[5] Sapp, Craig and Yi-Wen Liu. “The Haydn Mozart String Quartet
+Quiz.” Stanford University, http://qq.themefinder.org/.
+
+5
+
+

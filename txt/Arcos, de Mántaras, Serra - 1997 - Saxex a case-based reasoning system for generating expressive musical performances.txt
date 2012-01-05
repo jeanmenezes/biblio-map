@@ -1,0 +1,680 @@
+SaxEx : a case-based reasoning system for generating
+expressive musical performances
+Josep Lluउs Arcos1 , Ramon Lउpez de Mउntaras1 , and Xavier Serra2
+आ
+o
+a
+IIIA, Artiæcial Intelligence Research Institute
+CSIC, Spanish Council for Scientiæc Research
+
+1
+
+2
+
+farcos,
+
+mantarasg@iiia.csic.es, http:èèwww.iiia.csic.es
+
+IUA, Audiovisual Institute, Pompeu Fabra University
+xserra@iua.upf.es, http:èèwww.iua.upf.esè
+
+Abstract
+
+We have studied the problem of generating expressive musical performances in the context of tenor
+saxophone interpretations. We have done several recordings of a tenor sax playing diæerent Jazz
+ballads with diæerent degrees of expressiveness including an inexpressive interpretation of each ballad. These recordings are analyzed, using SMS spectral modeling techniques, to extract information
+related to several expressive parameters. This set of parameters and the scores constitute the set of
+cases घexamplesङ of a case-based system. From this set of cases, the system infers a set of possible
+expressive transformations for a given new phrase applying similarity criteria, based on background
+musical knowledge, between this new phrase and the set of cases. Finally, SaxEx applies the inferred
+expressive transformations to the new phrase using the synthesis capabilities of SMS.
+
+1
+
+Introduction
+
+We have developed SaxEx, a case-based reasoning
+system for generating expressive performances of
+melodies based on examples of human performances.
+Case-based Reasoning ë1ë घCBRङ is a recent approach to problem solving and learning where new
+problems are solved using similar previously solved
+problems. The two basic mechanisms used by CBR
+are घiङ the retrieval of solved problems घalso called
+precedents or casesङ using some similarity criteria
+and घiiङ the adaptation of the solutions applied in
+the precedents to the new problem. Case-based
+reasoning techniques are appropriate on problems
+where many examples of solved problems can be
+obtained|like in our case where multiple examples
+can be easily obtained from recordings of human performances.
+Sound analysis and synthesis techniques based
+on spectrum models like Spectral Modeling Synthesis घSMSङ ë13ë ë14ë are useful for the extraction of
+high level parameters from real sounds, their transformation and the synthesis of a modiæed version
+of the original. SaxEx uses SMS in order to extract basic information related to several expressive
+parameters such as dynamics, rubato, vibrato, and
+articulation. The SMS synthesis procedure allows
+
+SaxEx the generation of new expressive interpreta-
+
+tions घnew sound ælesङ.
+SaxEx incorporates background musical knowledge based on Narmour's implicationèrealization
+model ë11ë and Lerdahl and Jackendoæ's generative
+theory of tonal music घGTTMङ ë10ë. These theories of musical perception and musical understanding
+are the basis of the computational model of musical
+knowledge of the system.
+SaxEx is implemented in Noos ë4ë ë3ë, a reæective
+object-centered representation language designed to
+support knowledge modeling of problem solving and
+learning.
+
+1.1 SMS
+
+SMS is a set of techniques for the analysis, transformation and synthesis of musical sounds. The goal
+of SMS is to get a general and musically meaningful sound representation, based on spectral analysis,
+from which we can manipulate musical parameters
+while maintaining the perceptual identity with the
+original sound when no transformations are made.
+Its particular approach to spectral analysis is based
+on decomposing a sound into sinusoids plus a spectral residual ë13ë.
+This process can be controlled by the user, or
+
+Figure 1: Snapshot of SMS analysis and synthesis graphical interface for the beginning of the `Autumn
+Leaves' theme. The top window shows a graphical representation of the input sound æle, the middle window
+shows the evolution of the partials' frequency, and the bottom window shows the spectral residual.
+done automatically depending on the sound characteristics. The analysis procedure detects partials by
+studying the time-varying spectral characteristics of
+a sound and represents them with time-varying sinusoids. These partials are then subtracted from the
+original sound and the remaining residual can be approximated in the frequency domain. Figure 1 shows
+a snapshot of some of the graphical representations
+of sounds provided by the SMS graphical interface.
+Speciæcally, a window showing a graphical representation of the input sound æle, a window showing the
+evolution of the partials' frequency, and a window
+showing the spectral residual.
+From the sinusoidal plus residual representation
+we can extract high level attributes when the sound
+is a note or a monophonic phrase of an instrument.
+Attributes such as attack and release times, formant
+structure, vibrato, or average pitch and amplitude,
+can be obtained by the process described in ë14ë.
+These attributes can be modiæed and added back to
+the spectral representation without any loss of sound
+quality.
+This sound analysis and synthesis system is ideal
+as a preprocessor for Saxex, giving to it high level
+musical parameters, and as a post-processor, adding
+the transformations speciæed by the case-based reasoning system to the original sound.
+
+1.2
+
+Case-Based Reasoning
+
+Case-based Reasoning ë9ë ë1ë घCBRङ is a recent approach to problem solving and learning where a new
+problem is solved by ænding a set of similar previously solved problems, called cases, and reusing
+them in the new problem situation. The CBR
+paradigm covers a family of methods that may be
+described in a common subtask decomposition: the
+retrieve task, the reuse task, the revise task, and
+the retain task. Diæerent CBR methods diæer in the
+way of achieving these four tasks.
+The goal of the retrieve task is to recover a set
+of previously solved problems similar to the current
+problem. The retrieval task is usually performed using, in turn, three subtasks: identify, search, and
+select tasks. The identify subtask determines, using
+domain knowledge, the set of relevant aspects of the
+current problem. Then, using these relevant aspects
+as similarity criterion, the search subtask retrieves a
+set of precedent cases. Next, the goal of the select
+subtask is to rank the set of precedents using domain
+knowledge.
+Given a set of ordered precedent cases, the reuse
+task constructs a solution for the current problem
+adapting the solutions taken in precedent cases. The
+ranking over cases is interpreted as preference criterion. An usual policy is to consider only the maximal
+
+Figure 2: Browse of the score for the `All of me' ballad represented in Noos. Features are represented as thin
+boxes, dots indicate not expanded terms, and gray boxes express references to existing terms.
+precedent determined by the select subtask.
+When the solution generated by the reuse task is
+not correct, an opportunity for learning arises. The
+revision phase involves detecting the errors of the
+current solution and modifying the solution using
+repair techniques. This phase, that is not present in
+all CBR methods, takes the result from applying the
+solution in the real world घor by asking a teacherङ.
+Finally, the new solved problem is incorporated
+into the system by the retain task in order to help
+the resolution of future problems. This task involves
+selecting which information of the case retain and
+how to integrate the new case in the memory structure.
+In Section 2.2 we will see these tasks in the light
+of the SaxEx system.
+1.3
+
+Noos
+
+Noos is a reæective object-centered representation
+
+language designed to support knowledge modeling
+of problem solving and learning. The Noos language
+has been implemented using Common Lisp and currently is running on several platforms. The main development platform is the Macintosh घusing MCLङ,
+providing a window-based graphical interface.
+Modeling a problem in Noos requires the speciæcation of three diæerent types of knowledge: domain
+knowledge, problem solving knowledge, and metalevel
+knowledge.
+Domain knowledge speciæes a set of concepts, a
+set of relations among concepts, and problem data
+that are relevant for an application. Concepts and
+relations deæne the domain ontology of an application. For instance, the domain ontology of SaxEx is
+composed by concepts such as notes, chords, impli-
+
+cationèrealization structures, and expressive parameters. Problem data, described using the domain ontology, deæne speciæc situations घspeciæc problemsङ
+that have to be solved. For instance, speciæc inexpressive musical phrases to be transformed into expressive ones. Noos is based on feature terms ë12ë.
+Feature terms are record-like data structures embodying a collection of features. Figure 2 shows the
+representation of a score in Noos that is described in
+Section 2.1.
+Noos has been used to implement several applications such as chromaë5ë, a system for recommending a plan for the puriæcation of proteins from tissues and cultures, spin, a sponge identiæcation system for a class of marine sponge species, and sham,
+a knowledge-based system for harmonizing catalan
+folk songs.
+Problem solving knowledge speciæes the set of
+tasks to be solved in an application. For instance,
+the main task of SaxEx is to infer a sequence of expressive transformations for a given musical phrase.
+Methods model the ways to solve tasks. Methods
+can be elementary or can be decomposed into subtasks. These new घsubङtasks may be achieved by
+other methods. A method deænes an execution order of subtasks and an speciæc combination of the
+results of the subtasks in order to solve the task it
+performs. For a given task there may be multiple alternative methods that may be capable of solving the
+task in diæerent situations. This recursive decomposition of task into subtasks by means of a method is
+called the taskèmethod decomposition.
+Metalevel घor reæectiveङ knowledge is knowledge
+about domain knowledge and problem solving knowledge. Intuitively, metalevel knowledge can be used
+
+Output
+
+Input
+Score
+.mid
+
+Inexpressive
+phrase
+
+Expressive phrase
+.snd
+
+.snd
+
+analysis
+
+synthesis
+
+SMS
+
+.sms
+
+.sco
+
+Noos
+methods
+Cases
+
+model
+
+Figure 3: General view of SaxEx blocks.
+to model criteria for preferring some methods over
+other methods for a task in a speciæc situation.
+The metalevel of Noos incorporates preferences
+to model decision making about sets of alternatives
+present in domain knowledge and problem solving
+knowledge. For instance, preference knowledge can
+be used to model criteria for ranking some precedent cases over other precedent cases for a task in a
+speciæc situation.
+Once a problem is solved, Noos automatically
+memorizes घstores and indexesङ that problem. The
+collection of problems that a system has solved is
+called the Episodic memory of Noos. The problems
+solved by Noos are accessible and retrievable. This
+introspection capability of Noos is the basic building
+block for integrating learning, and speciæcally casebased reasoning, into Noos.
+Noos also incorporates perspectives ë2ë, a mechanism to describe declarative biases for case retrieval
+in structured and complex representations of cases.
+Perspectives provide a æexible and dynamical way
+of retrieval in the episodic memory and are used by
+SaxEx for making decisions about the relevant aspects of a problem.
+
+2
+
+Saxex
+
+An input for SaxEx is a musical phrase described
+by means of its musical score घa MIDI æleङ and a
+
+sound. The score contains the melodic and the harmonic information of the musical phrase. The sound
+contains the recording of an inexpressive interpretation of the musical phrase played by a musician. The
+output of the system is a new sound æle, obtained by
+transformations of the original sound, containing an
+expressive performance of the same phrase. Solving
+a problem in SaxEx involves three phases: the analysis phase, the reasoning phase, and the synthesis
+phase घsee Figure 3ङ.
+Analysis and synthesis phases are implemented
+using SMS sound analysis and synthesis techniques.
+The reasoning phase is performed using case-based
+techniques and implemented in Noos and is the main
+focus of this paper.
+SaxEx has been developed specifying two different types of knowledge: घ1ङ modeling the concepts and structures relevant for representing musical knowledge, and घ2ङ developing a problem solving
+method for inferring a sequence of expressive transformations for a given musical phrase.
+
+2.1 Modeling musical knowledge
+
+Problems to be solved by SaxEx are represented as
+complex structured cases घsee Figure 4ङ embodying
+three diæerent kinds of musical knowledge: घ1ङ concepts related to the score of the phrase such as notes
+and chords, घ2ङ concepts related to background musical theories such as implicationèrealization structures and GTTM's time-span reduction nodes, and
+घ3ङ concepts related to the performance of musical
+phrases.
+prolong-structure
+time-span-structure
+analysis
+score
+
+melody
+
+E4
+
+harmony
+
+Case
+
+IR-structure
+
+E-
+
+performance
+
+P
+
+e1
+
+Fs4
+
+P
+G4
+
+e3
+
+D4
+
+A-7
+
+e2
+
+C4
+
+D7
+
+e4
+
+e5
+
+Figure 4: Overall structure of a SaxEx case.
+A score घsee Figure 2ङ is represented by a
+
+melody, embodying a sequence of notes, and a
+harmony, embodying a sequence of chords. Each
+note holds in turn a set of features such as the
+pitch of the note घC5, G4, etcङ, its position with
+respect to the beginning of the phrase, its duration,
+a reference to its underlying-harmony, and a refer-
+
+ence to the next note of the phrase. Moreover, a
+note holds the metrical-strength feature, inferred
+using GTTM theory, expressing the note's relative
+metrical importance into the phrase. Chords hold
+also a set of features such as the name of the chord
+घCmaj7, E7, etcङ, their position, their duration,
+and a reference to the next chord.
+The musical analysis structure embodies analysis structures of the phrase built using the background musical knowledge. Narmour's implicationèrealization model घIRङ proposes a theory of cognition of melodies based on eight basic structures.
+These structures characterize patterns of melodic
+implications that constitute the basic units of the
+listener perception. Other parameters such as metric, duration, and rhythmic patterns emphasize or
+inhibit the perception of these melodic implications.
+The use of the IR model provides a musical analysis
+based on the structure of the melodic surface.
+On the other hand, Lerdahl and Jackendoæ's
+generative theory of tonal music घGTTMङ oæers
+an alternative approach to understanding melodies
+based on a hierarchical structure of musical cognition. GTTM proposes four types of hierarchical
+structures associated with a piece. This structural
+approach provides the system with a complementary
+view for determining relevant aspects of melodies.
+Examples of analysis structures are the
+prolongational-reduction structure embodying a hierarchical structure describing tensionrelaxation relationships among groups of notes, the
+time-span-reduction structure embodying a hierarchical structure describing the relative structural
+importance of notes within the heard rhythmic
+units of a phrase, and the process-structure
+embodying a sequence of implicationèreduction
+घIRङ Narmour's structures.
+A performance is represented as a sequence of
+events. There is an event for each note within
+the phrase embodying knowledge about expressive
+parameters applied to that note. Speciæcally, an
+event holds knowledge about expressive parameters
+of notes such as dynamics, rubato, vibrato level,
+articulation, and attack. Expressive parameters
+are described using qualitative labels as follows:
+Changes on dynamics are described relative to
+the average loudness of the phrase by means of a set
+of æve ordered labels. The middle label represents
+average loudness and lower and upper labels represent respectively, increasing or decreasing degrees of
+loudness.
+Changes on rubato are described relative to the
+average tempo also by means of a set of æve ordered labels. Analogously to dynamics, qualitative
+
+Saxex-CBR
+
+Reuse
+
+Retrieve
+
+Retain
+
+Identify&Select
+
+Search
+
+Select
+
+Retrieve
+using
+perspectives
+
+Rank
+cases
+
+Identify
+
+Construct
+perspectives
+
+Propose
+expressive
+parameters
+
+Memorize
+new solved
+case
+
+Figure 5: Task decomposition of the SaxEx CBR
+method.
+labels about rubato cover the range from a strong
+accelerando to a strong ritardando.
+The vibrato level is described using two parameters: the frequency vibrato level and the amplitude vibrato level. Both parameters are described
+using æve qualitative labels from no-vibrato to
+highest-vibrato.
+The articulation between notes is described using again a set of æve ordered labels covering the
+range from legato to staccato.
+Finally, SaxEx distinguishes two transformations
+over a note attack: घ1ङ reaching the pitch of a note
+starting from a lower pitch, and घ2ङ increasing the
+noise component of the sound. These two transformations were chosen because they are characteristic
+of saxophone playing but other transformations can
+be introduced without altering the system.
+In the conclusions section we discuss diæerent
+alternatives we are considering for improving the expressive model of the system.
+2.2
+
+The
+
+SaxEx task
+
+Given a musical phrase, SaxEx infers a speciæc set
+of expressive transformations to be applied to every
+note in the phrase. These sets of transformations are
+inferred note by note. For each note in the phrase
+the same problem solving method is performed.
+The problem solving method developed in SaxEx
+follows the usual subtask decomposition of CBR
+methods described in Section 1.2: retrieve, reuse,
+and retain घsee Figure 5ङ. Given a current note problem of a problem phrase, the overall picture of the
+subtask decomposition of SaxEx method is the following:
+æ Retrieve : The goal of the retrieve task is to
+
+choose the set of notes घcasesङ most similar to
+the current note problem. This task is decomposed in three subtasks:
+í Identify : The goal of this task is to build
+
+retrieval perspectives using two complementary biases: a ærst bias based or Narmour's implicationèrealization model, and
+a second bias based on Lerdahl and Jackendoæ's generative theory.
+í Search : The goal of this second task is
+to search cases in the case memory using
+Noos retrieval methods and previously constructed perspectives.
+í Select : The goal of the select task is to
+rank the retrieved cases using Noos preference methods. The preference methods
+use criteria such as similarity in duration
+of notes, harmonic stability, or melodic directions.
+æ
+
+æ
+
+Reuse : the goal of the reuse task is to choose a
+set of expressive transformations to be applied
+in the current problem from the set of more similar cases. The ærst criterion used is to adapt
+the transformations of the most similar case.
+When several cases are considered equally similar, transformations are selected according to
+the majority rule. Finally, when previous criteria are not suæcient, all the cases are considered
+equally possible alternatives and one of them is
+selected randomly.
+Retain : the incorporation of the new solved
+problem to the memory of cases is performed
+automatically in Noos. All solved problems will
+be available for the reasoning process in future
+problems.
+
+After describing the subtask decomposition of
+
+SaxEx problem solving method, we will introduce a
+
+simpliæed example, using musical notation, to help
+its understanding. Let us suppose that SaxEx has
+to infer a set of expressive transformations for the
+encircled note within the following phrase:
+
+The ærst subtask engaged is the retrieve task.
+The retrieve task engages in turn the identify subtask. Taking as example the following bias based on
+Narmour's model:
+Determine as relevant the role that a given
+note plays in a implicationèrealization structure.
+
+We obtain the following perspective for our note
+problem:
+that is, the ærst note of a P process.
+Then, the search subtask is engaged in order to
+ænd similar situations among the precedent cases.
+Let us assume that the search subtask ænds the following two notes घcalled P1 and P2ङ as precedent
+cases.
+P1:
+P2:
+Next, the select subtask is engaged for ranking
+the precedents. Taking as preference criterion the
+melodic direction, precedent P1 is considered as the
+most relevant precedent घsince it belongs to a process
+with descending direction like the note problemङ.
+After choosing precedent P1 as the most relevant
+precedent, the reuse subtask is engaged. For this
+simpliæed example, since we have only selected one
+precedent, the set of expressive transformations to
+be applied to the current note problem A are the
+same that were applied to precedent P1 and that are
+stored as part of precedent case P1 information.
+
+3 Experiments
+We study the issue of musical expression in the context of tenor saxophone interpretations. We have
+done several recordings of a tenor sax performer
+playing several Jazz standard ballads घëAll of me",
+ëAutumn leaves", ëMisty", and ëMy one and only
+love"ङ with diæerent degrees of expressiveness, including an घalmostङ inexpressive interpretation of
+each piece. These recordings are analyzed, using
+the SMS spectral modeling techniques, in order to
+extract basic information related to the expressive
+parameters. The set of extracted parameters together with the scores of the pieces constitute the set
+of structured cases of the case-based system. From
+this set of cases and using similarity criteria based
+on background musical knowledge, the system infers a set of possible expressive transformations for
+a given piece. Finally, using the set of inferred transformations and the SMS synthesis procedure, SaxEx
+generates new expressive interpretations of the same
+jazz ballads as well as of other similar melodies.
+We have performed two sets of experiments combining the diæerent Jazz ballads recordered. The
+ærst set of experiments consisted in using examples
+of three diæerent expressive performances of twenty
+note phrases of a piece in order to generate new
+
+A-7
+
+D7
+
+Gmaj7
+
+Cmaj7
+
+F#-7
+
+B7
+
+E-
+
+Figure 6: First phrase from the `Autumn Leaves' theme.
+expressive performances of another phrase of the
+same piece. This group of experiments has revealed
+that SaxEx identiæes clearly the relevant cases even
+though the new phrase introduces small variations
+with respect to the phrases existing in the memory
+of precedent cases.
+The second set of experiments consisted in using
+examples of expressive performances of some pieces
+in order to generate expressive performances of other
+pieces. More concretely, we have worked with three
+diæerent expressive performances of pieces having
+about æfty notes in order to generate expressive performances of new twenty note phrases. This second group of experiments has revealed that the use
+of perspectives allows to identify situations such as
+long notes, ascending or descending melodic lines,
+etc. Such situations are also usually identiæed by a
+human performer.
+As an example, let as describe brieæy some of the
+expressive transformations applied by SaxEx to the
+ærst phrase of the `Autumn Leaves' theme घsee the
+score in Figure 6ङ based on precedent cases of similar phrases. Concerning to changes of dynamics, the
+ascending melodic progressions are transformed using crescendo. For instance, the ærst note घEङ of the
+theme starts piano and the dynamics is successively
+increased yielding a forte in the fourth note घCङ. Concerning rubato, after the fourth note घCङ the attack
+of the æfth note घDङ is delayed and brought closer to
+the next note, then the duration of sixth note घEङ is
+expanded, and ænally the duration of the next note
+घFङ is reduced. Vibrato is applied over notes with
+long duration combined with a dynamics decay घfor
+instance, over the fourth noteङ. In ascending melodic
+progressions, the articulation is also transformed by
+decreasing the interruption between notes घi.e. playing closer to legato than to staccatoङ. Finally, the
+transformation of the attack consisted in reaching
+the eighth and ninth notes घB and Bङ starting from a
+lower pitch.
+The reader can visit our web site at
+
+éhttp:èèwww.iiia.csic.esèProjectsèmusicèSaxexé
+for sound examples.
+
+4
+
+Related
+
+work
+
+and
+
+conclu-
+
+sions
+
+Previous work on the analysis and synthesis of musical expression has addressed the study of at most
+two parameters such as rubato and vibrato ë6ë ë7ë, or
+rubato and articulation by means of an expert system ë8ë. However, to the best of our knowledge, the
+only previous work addressing the issue of learning to
+generate expressive performances based on examples
+is that of Widmer ë15ë, who uses explanation-based
+techniques to learn rules for dynamics and rubato
+in the context of a MIDI electronic piano. In our
+approach we deal with additional expressive parameters in the context of an expressively richer instrument.
+Furthermore, to the best of our knowledge, this
+is the ærst attempt to deal with this problem using
+case-based techniques as well as the ærst attempt
+to cover the full cycle from an input sound æle to
+an output sound æle going in the middle through a
+symbolic reasoning and learning phase.
+The results obtained are comparable to a human
+performance specially for dynamics, rubato and vibrato, however the articulation and attack needs further work.
+Concerning future work, we intend to:
+æ model the degree of the diæerent expressive parameters by means of fuzzy sets, since they are
+closer than discrete labels to the continuous
+character of the SMS analysis.
+æ model the decay of long notes by means of diæerent envelope functions decreasing more or less
+rapidly.
+æ experiment further with diæerent expressive parameters and their diæerent degrees of expressiveness.
+æ With the aim of making our system useful for
+musicians we intend to provide the possibility
+of interactive revision of the proposed solutions
+by the user. In this way the user will have the
+possibility to ælter those solutions that should
+be retained. This capability will allow the user
+to tailor the system according to his preferences.
+
+Acknowledgements
+
+The research reported on this paper has been supported by the Spanish project SMASH TIC96-1038C04-01, and by a CSIC fellowship for the ærst author.
+
+References
+ë1ë Aamodt, A., and E. Plaza, 1994. Case-based
+reasoning: Foundational issues, methodological
+variations, and system approaches. Artiæcial
+Intelligence Communications, 7घ1ङ:39í59.
+ë2ë Arcos, J. L., and R. Lउpez de Mउntaras, 1997.
+o
+a
+Perspectives: a declarative bias mechanism for
+case retrieval. In D. Leake and E. Plaza, editors, ICCBR'97, Lecture Notes in Artiæcial Intelligence. Springer-Verlag.
+ë3ë Arcos, J. L., and E. Plaza, 1996. Inference and
+reæection in the object-centered representation
+language Noos. Journal of Future Generation
+Computer Systems, 12:173í188.
+ë4ë Arcos, J. L., and E. Plaza, 1997. Noos: an
+integrated framework for problem solving and
+learning. In Knowledge Engineering: Methods
+and Languages.
+ë5ë Armengol, E., and E. Plaza, 1994. Integrating induction in a case-based reasoner. In J. P.
+Haton, M. Keane, and M. Manago, editors, Advances in Case-Based Reasoning, number 984
+in Lecture Notes in Artiæcial Intelligence, pages
+3í17. Springer-Verlag.
+ë6ë Desain, P., and H. Honing, 1995. Computational models of beat induction: the rule-based
+approach. In IJCAI 95.
+ë7ë Honing, H., 1995. The vibrato problem, comparing two solutions. Computer Music Journal,
+19 घ3ङ.
+ë8ë Johnson, M., 1992. An expert system for the articulation of Bach fugue melodies. In D. Baggi,
+editor, Readings in Computer-Generated Music,
+pages 41í51. IEEE Computes Society Press.
+ë9ë Kolodner, J., 1993. Case-based reasoning. Morgan Kaufmann.
+ë10ë Lerdahl, F., and R. Jackendoæ, 1993. An
+overview of hierarchical structure in music. In
+S. M. Schwanaver and D. A. Levitt, editors, Machine Models of Music. Reproduced from Music
+Perception.
+
+ë11ë Narmour, E., 1990. The Analysis and cognition
+of basic melodic structures : the implicationrealization model. University of Chicago Press.
+ë12ë Plaza, E., 1995. Cases as terms: A feature
+term approach to the structured representation
+of cases. In M. Veloso and A. Aamodt, editors, Case-Based Reasoning, ICCBR-95, number 1010 in Lecture Notes in Artiæcial Intelligence, pages 265í276. Springer-Verlag.
+ë13ë Serra, X., 1997. Musical sound modelling with
+sinusoids plus noise. In G. D. Poli, A. Picialli,
+S. T. Pope, and C. Roads, editors, Musical Signal Processing. Swets and Zeitlinger Publishers.
+ë14ë Serra, X., J. Bonada, P. Herrera, and
+R. Loureiro, 1997. Integrating complementary
+spectral methods in the design of a musical synthesizer. In Proceedings of the ICMC'97.
+ë15ë Widmer, G., 1996. Learning expressive performance: The structure-level approach. Journal
+of New Music Research, 25 घ2ङ:179í205.
+
+

@@ -1,0 +1,329 @@
+PERSPECTIVES
+components to specific surface sites. The concurrent or subsequent recruitment of actomyosin and other factors to these sites defines
+the trailing edge of the cell and thus the direction of migration.
+This admirably integrated view of both
+cell surface and actomyosin polarization
+raises important questions. For instance, it’s
+not clear how polarization of the membrane
+and cytoplasm are coupled, or how different
+proteins are targeted to the same sites. Also,
+how does Wnt5a signaling interface with the
+graded chemokine to ensure that polarization occurs at cell surfaces distal to the
+chemokine source? Intriguingly, Witze et al.
+observed that some responding melanoma
+cells polarized in the opposite (proximal)
+direction. Both distal and proximal polarizations require Wnt5a, with a preponderance
+of distal events promoting migration toward
+the chemokine source. Thus, the chemokine
+and Wnt5a are more tightly coupled to the
+same axis than they are to the same direction
+along that axis.
+It is interesting to compare Wnt5a to other
+noncanonical Wnt signals that polarize single
+cells. One common theme is a requirement for
+actin. Actin microfilaments and myosin are
+required for planar cell polarity in Drosophila
+(3), and microfilaments are required in fourcell-stage C. elegans embryos for the Wntmediated induction of an asymmetric cell division that segregates endoderm from mesoderm (6). However, planar cell polarity
+acts through RhoA (8), whereas Wnt5a acts
+through RhoB. Furthermore, the C. elegans
+
+Wnt signal that segregates endoderm from
+mesoderm acts instructively and requires a
+permissive signal (a tyrosine kinase) (12), in
+contrast to the permissive action of Wnt5a in
+the presence of an instructive chemokine signal. Once again, noncanonical Wnt pathways
+present a bewildering mix of similarities and
+differences. Appropriately, the Wnt field is
+evolving toward the use of individual pathway
+names based on key molecules and properties,
+and away from the historical distinction
+between canonical and noncanonical. Presumably, as we learn to speak more clearly
+about different Wnt pathways, we also will
+come to better understand their different
+molecular mechanisms of action.
+References and Notes
+1. C. Y. Logan, R. Nusse, Annu. Rev. Cell Dev. Biol. 20, 781
+(2004).
+2. E. S. Witze, E. S. Litman, G. M. Argast, R. T. Moon, N. G. Ahn,
+Science 320, 365 (2008).
+3. M. T. Veeman, J. D. Axelrod, R. T. Moon, Dev. Cell 5, 367
+(2003).
+4. P. N. Adler, Dev. Cell 2, 525 (2002).
+5. F. D. Park, J. R. Tenlen, J. R. Priess, Curr. Biol. 14, 2252
+(2004).
+6. C. J. Thorpe, A. Schlesinger, B. Bowerman, Trends Cell Biol.
+10, 10 (2000).
+7. M. A. Herman, M. Wu, Front. Biosci. 9, 1530 (2004).
+8. K. Mizumoto, H. Sawa, Trends Cell Biol. 17, 465 (2007).
+9. T. Kaletta, H. Schnabel, R. Schnabel, Nature 390, 294
+(1997).
+10. A. T. Weeraratna et al., Cancer Cell 1, 279 (2002).
+11. K. Satyamoorthy, J. Muyrers, F. Meier, D. Patel, M. Herlyn,
+Oncogene 20, 4676 (2001).
+12. B. Goldstein, H. Takeshita, K. Mizumoto, H. Sawa, Dev. Cell
+10, 391 (2006).
+13. Work in the author’s laboratory is funded by grants from NIH.
+10.1126/science.1157590
+
+MUSIC THEORY
+
+Musical operations, such as transpositions,
+can be expressed as symmetries of n-dimensional space.
+
+Geometrical Music Theory
+Rachel Wells Hall
+
+usic theorists normally use discrete
+mathematics, such as set and finite
+group theory, to describe musical
+relations; they also invoke geometry in modeling musical objects such as chords, rhythms,
+and scales. However, no unified geometric
+perspective has hitherto emerged. On page
+346 of this issue, Callender et al. (1) demonstrate that many musical terms can be understood as expressing symmetries of n-dimensional space, where each dimension represents a voice in the score. Identifying—gluing
+together—points related by these symmetries
+
+M
+
+Department of Mathematics and Computer Science, Saint
+Joseph’s University, Philadelphia, PA 19131, USA. E-mail:
+rhall@sju.edu
+
+328
+
+produces exotic mathematical spaces (orbifolds) that subsume a large number of geometric models previously proposed.
+The use of mathematics to describe, analyze, and create music goes back millennia.
+Mathematical questions have previously
+emerged in music theory that are appealing,
+nontrivial, and, in several cases, connected
+to other scientific fields, such as physics,
+dynamical systems, and crystallography (2–4).
+Math inspired composers such as Schoenberg,
+Messaien, and Xenakis; musical investigations have even motivated mathematical discoveries (5).
+However, the geometrical music theory
+proposed by Callender et al. stands out
+both for the breadth of its musical implica-
+
+18 APRIL 2008
+
+VOL 320
+
+SCIENCE
+
+Published by AAAS
+
+tions and the depth of its mathematical content. It suggests a wealth of new techniques
+for studying music theoretical topics,
+including chord similarity and melodic
+contour, and provides attractive visualizations of harmonic relationships. Although
+the authors’ use of contemporary geometry
+departs from the discrete mathematics normally used to describe music, they make a
+convincing argument for the validity of
+their models.
+Although most musicians are not mathematicians, both groups think in degrees of
+abstraction. Music theorists invoke the mathematical concept of equivalence class—a set of
+objects that are “the same” if we ignore certain
+information—to describe these musical struc-
+
+www.sciencemag.org
+
+Downloaded from www.sciencemag.org on August 28, 2009
+
+receptor, and cytoskeletal components (actin
+microfilaments and a nonmuscle myosin,
+together called actomyosin). In response to
+Wnt5a, all of these proteins become polarized
+in overlapping bands within the trailing edge
+of migrating cells (see the figure). Polarized
+bands of ac-tomyosin contract to lift the trailing edge and, together with cell process
+extensions at the leading edge, promote
+migration toward a chemokine source.
+Multiple pulses of these transient polarizations occur within single cells over time.
+In exploring the signaling pathway that
+mediates this Wnt5a response, Witze et al. discovered that actin microfilaments and the cell
+adhesion protein depend on each other for
+polarized localization and that both are
+required for myosin polarization. Like some
+other noncanonical Wnt pathways, the cytosolic proteins Dishevelled and Protein Kinase
+C are required. But in contrast to noncanonical pathways that influence actin through the
+small guanosine triphosphatase (GTPase)
+RhoA, Wnt5a acts through RhoB, which controls the movement of intracellular vesicles
+called endosomes. Furthermore, the authors
+observed an enrichment of multivesicular bodies at the polarized cell edge, and polarization
+required both the GTPase Rab4 (known to regulate multivesicular body formation) and
+dynamin (known to control the formation of
+endosomes at the cell surface). Witze et al. also
+found that polarization of the cell adhesion
+protein occurs by its transit through the Golgi.
+The authors conclude that Wnt5a polarizes
+cells by promoting the recycling of membrane
+
+PERSPECTIVES
+C5,C5
+
+depends on the amount of
+vocal movement between
+states. Composers typically
+C5,F 4
+try to minimize this moveC5,C4
+ment—a problem equivalent
+to finding the shortest path
+C4,C4
+between two points.
+Although the design of
+Music in space. Musical orbifolds:
+efficient voice leadings is cen(top) ordered pairs of pitches
+tral to traditional composi(unisons lie on the diagonal x = y,
+tional practice, the systematic
+C,C
+and tritones on parallel diagonals),
+study of voice leading is com(middle) ordered pairs of pitch
+F ,C
+paratively recent (7–10). Geoclasses, and (bottom) sets of pitch
+metrical music theory essenclasses with no more than two eleF ,F
+tially represents a voice leadments. [Single notes form a trefoil
+ing by a vector that connects a
+knot that is the boundary of a
+source chord to a target chord.
+thrice-twisted Möbius strip; triThe authors show the musical
+tones lie on the core circle (11).]
+distinction between individual
+and uniform applications of
+F
+symmetries corresponds to
+B
+the geometrical notion of a
+bundle, which allows them to
+D ,A
+G ,D
+define analogs of voice leadF
+ings between abstract musical
+C
+objects such as major chords
+and minor chords.
+Geometrical music theory
+E,B
+G,C
+suggests new directions for
+C#
+E
+research in traditional music
+G
+theoretical topics, such as
+chord and voice leading simiA
+larity, and new tools for teachG
+ing and conceptualizing music,
+and will perhaps inspire comF,B
+F ,C
+posers. Moreover, one can
+envision practical applications
+D
+of geometrical music theory,
+D
+such as in the design of music
+visualization tools, interactive
+musical toys, or even new
+topologically complex; they may be non- musical instruments.
+Euclidean, meaning that there may be more
+References
+than one line connecting two points (see the
+1. C. Callendar, I. Quinn, D. Tymoczko, Science 320, 346
+(2008).
+figure). These features have musical ramifi2. J. Clarke, R. Voss, Nature 258, 317 (1975).
+cations. Callender et al. provide a compre3. J. Douthett, R. Krantz, J. Math. Phys. 37, 7 3334
+hensive catalog of their geometrical spaces
+(1996).
+in table S2 (1).
+4. G. Toussaint, in Discrete and Computational Geometry
+Japanese Conference, JCDCG 2004, Tokyo, Japan, 8 to 11
+Distance and movement within these
+October 2004, Revised Selected Papers Proceedings of
+spaces have natural meanings. A musical score
+the Japan Conference on Discrete and Computational
+represents pitch vertically and time horizonGeometry (Springer, Berlin, 2005).
+tally. Each vertical harmonic state (the notes
+5. D. Knuth, The Art of Computer Programming, vol. 4,
+played at one time) corresponds to a pitch
+fascile 4, Generating All Trees: History of Combinatorial
+Generation (Addison-Wesley, Upper Saddle River, NJ,
+sequence, ordered by instrumental voice; a
+2006).
+score for n voices becomes a succession of
+6. D. Tymoczko, Science 313, 72 (2006).
+points in n-dimensional space, where each
+7. J. Roeder, thesis, Yale University (1984).
+coordinate tracks the melody sounded by an
+8. R. Morris, Mus. Theory Spectrum 20, 2 175 (1998).
+9. J. Straus, Mus. Theory Spectrum 25, 2 305 (2003).
+individual voice. Voice leadings—mappings
+between adjacent chords in a score—corre- 10. R. Cohn, Mus. Theory Online 9, 4 (2003).
+11. C. Tuffley, Algebr. Geom. Topol. 2, 1119 (2002).
+spond to directed line segments connecting
+harmonic states. The size of a voice leading
+10.1126/science.1155463
+
+www.sciencemag.org
+
+F 4,C5
+
+SCIENCE
+
+VOL 320
+
+Published by AAAS
+
+18 APRIL 2008
+
+Downloaded from www.sciencemag.org on August 28, 2009
+
+tures. For example, middle C is
+a particular pitch (frequency
+measured on a logarithmic
+C4,C5
+scale), and the letter name (or
+pitch class) “C” refers to any
+pitch that is a whole number of
+octaves away from it. Any collection of C, E, and G notes is a
+C major chord.
+Callender et al. (1) show
+that many musical terms
+describe equivalence classes
+under combinations of five
+basic OPTIC relations: octave
+shifts, permutation (reordering), transposition (the relation
+between pitches sharing the
+same succession of intervals,
+C,F
+regardless of their starting
+note), inversion (turning a sequence upside down), and cardinality equivalence (ignoring
+repetitions). The authors go
+beyond traditional music theory by showing that there are
+two distinct ways in which
+these symmetries can apply to
+chord progressions: uniformly,
+B
+where the same symmetry applies to each chord, and individually, where distinct symmetry operations apply to the
+harmonies in a progression.
+This distinction allows Callender et al. to formalize the
+relations among a large number of musical terms as in table
+S1 of their paper (1).
+Following Tymoczko’s previous work (6), they develop
+geometrical models of these
+relations. Pitches correspond to real numbers; each point in Euclidean n-dimensional
+space (that is, a space with no underlying
+curvature) represents a sequence of n
+pitches. Points near each other differ by
+microtones (for example, a C major chord
+played out of tune lies near an in-tune version) and are in this sense similar.
+With the exception of cardinality equivalence, each of the OPTIC relations corresponds to a symmetry group. For example,
+permuting the first two entries in a sequence
+is equivalent to reflection in a plane of n – 1
+dimensions (a hyperplane), and transposing
+a sequence is equivalent to a translation.
+Gluing together points in n-dimensional
+space on the basis of their memberships in
+equivalence classes creates families of quotient spaces, or orbifolds. Many of these
+mathematical spaces are geometrically and
+
+329
+
+

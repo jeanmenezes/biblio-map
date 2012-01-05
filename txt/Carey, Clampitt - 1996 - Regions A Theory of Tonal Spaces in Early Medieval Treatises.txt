@@ -1,0 +1,2500 @@
+Yale University Department of Music
+
+Regions: A Theory of Tonal Spaces in Early Medieval Treatises
+Author(s): Norman Carey and David Clampitt
+Source: Journal of Music Theory, Vol. 40, No. 1 (Spring, 1996), pp. 113-147
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843924
+Accessed: 16/12/2009 09:58
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+REGIONS:
+A THEORY OF TONAL SPACES IN
+EARLY MEDIEVAL TREATISES
+
+NormanCarey
+David Clampitt
+
+The discussion of harmonicsin the ninth-century
+Scolica enchiriadis
+includes a diagram(reproducedas figure 1) that displays the relationwith numerical
+ships among the consonancesand theircorrespondences
+proportions.This passage and diagramare included in Strunk'santhology (1950, 136).1The numbersin the diagramare the elements of the
+classical tetractys-6, 8, 9, 12--duplicated at the octaveto form whatwe
+may referto as the heptactys,the set {6,8,9,12,16,18,24}. The heptactys
+is our point of departureand the locus of intersectionbetween ancient
+theoreticaltraditionand work of the last few decades thatfalls underthe
+rubricof diatonicset theory,a relationalreadysuggestedin a generalway
+in Gauldin(1983).
+In this paperwe generatethe elementsof the Scolica diagramin a manner that may well be ahistorical,althoughit uses no concept that could
+not have been availablein the ancientor medievalworlds.The heptactys
+will then be shownto belong to a class of pitchcollections called regions,
+includgeneratedin the same way. Severalothermedievalconstructions,
+of
+ing Pseudo-Odo'sgamut,Guido'shexachord,the tetrachord the finals,
+andthe diamond-shaped
+diagramsin Guido'sMicrologusandelsewhere,
+may be construedas regions, as we will see.
+Regions exist in pitch space. Takinga perspectivethatfocuses exclu113
+
+sesquioctavus
+
+sesquioctavus
+sesquitertius
+VI.
+
+sesquialter
+
+sesquialter
+
+sesquitertius
+
+XVI. XVIII.
+
+XII.
+
+VIII. IX.
+
+sesquialter
+
+sesquitertius
+
+sesquitertius
+
+XXIV.
+
+sesquialter
+Duplum
+
+Duplum
+Quladruplum
+
+Figure 1. The heptactys {6, 8, 9, 12, 16, 18, 24} in Scolica enchiriadis.
+sively on the pitch-classcontentof regions yields the well-formedscales
+definedin Careyand Clampitt(1989) anddiscussed below.The language
+of pitch class and intervalclass allows a much more tractabletheory,but
+one recoverssome partlyveiled or completely lost information adoptby
+ing a point of view, akin to thatof the medievaltheorists,thattreatspitch
+class more flexibly.
+I
+The heptactysincludes the perfecteleventh, represented the ratios
+by
+16:6 and 24:9 (thatis, 8:3 in reducedterms).Musica andScolica enchirito
+adis acceptthe perfecteleventhas a consonancein contradiction strict
+tradition,8:3 being neithera multiple nor a superparticular
+Pythagorean
+ratio. Barbera(1984) locates possible sources for what he calls this "expansion of the musical tetractys"in treatises by Theon of Smyra and
+Gaudentius,while Phillips (1984, 1990) identifiesCassiodorusand Calof
+cidius as sources of Scolica and of its treatment the eleventh as a consonance, though not of the heptactys itself.
+
+The heptactys reappearsin the eleventh-centurytreatises by Aribo
+Scholasticus and Hermannus
+Contractus,and in the Quaestionesin musica. Aribo'sDe musica containsa diagramsimilarto figure 1 (Smits van
+identifiesthe heptactyswith
+Waesberghe1951, 62-63), while Hermannus
+"theentirecomplex of consonances"(Ellinwood 1936, 21). One possible
+justificationfor the heptactysis that it presentsthe six consonances accepted by many medievaltheorists:fourth(4:3), fifth (3:2), octave (2:1),
+eleventh(8:3), twelfth (3:1), and doubleoctave (4:1). Moreover,the con114
+
+Figure2. The heptactysin Questiones in musica.
+sonances are represented least integerssuch thatthey sharea common
+in
+pointof origin,either6 or 24.2The diagramof the heptactysin the Quaestiones in musica, shown in figure2, presentsthe consonancesin relation
+to 6.3
+Recall that the proportion6:8:9:12 has the propertythat 8 and 9 are
+the harmonicand arithmeticmeans, respectively,between 6 and 12. Anotherjustificationfor the inclusionof the duplicationat the octave of this
+proportionis to include the geometric mean as well: 6:12:24 reduces to
+All
+1:2:4,numbersin geometricproportion. threemeans are discussed in
+the thirdpartof Scolica enchiriadis (Schmid 1981, 139-41), beginning
+with a reconstruction the heptactys,on the way to the formationof a
+of
+diatonic scale.
+The propercontextfor medievaldiscussionsof harmonics,andthe appropriatesetting for the heptactysin our exposition of its generation,is
+the classical set in the Pythagorean
+tradition,the infinitesequence of integersthatareproductsof powersof 2 and 3, a set we call P (pronounced,
+if you like, "P-hat").The beginning of the sequence of P numbers is
+shown below the formaldefinitionof P:
+P= {= 2a3bla,beJ= {0,1,2, ...}}
+115
+
+...
+1,2,3,4,6,8,9,12,16,18,24,27,32,36,48,54,64,72,
+We can assign note names in ordinarymusicalnotationto elements of
+P in the following way: we assign a tone Foto the number1; the number
+2a3b
+representsthe note a octaves andb twelfthsupwardsfromFo,where
+the subscripton a note refersto the octave register.4
+This correspondence
+is shown below:
+1
+
+2
+
+3
+
+4
+
+6
+
+8
+
+9
+
+12
+
+16
+
+18 24
+
+27
+
+Fo
+
+F1
+
+C1
+
+F2
+
+C2
+
+F3
+
+G3
+
+C3
+
+F4
+
+G4
+
+D4
+
+32
+F5
+
+36 48
+G5 C5
+
+54
+D5
+
+64
+F6
+
+72 81
+G6 A6
+
+96
+C6
+
+108 128 144 162
+D6 F7 G7 A7
+
+C4
+
+192 216 243 256 288 324 384 432 486 512 576 648
+C7 D7 E7 F8 G8 A8 C8 D8 E8 F9 G9 A9
+Since P consists exactly of all productsof non-negativepowers of 2
+and 3, it has anotherrepresentation orderedpairsof non-negativeinteas
+where the firstelement of the orderedpair representsthe exponent
+gers,
+on 2, and the second element the exponenton 3. For example, 12 equals
+2231,or (2,1), and representsthe note 2 octaves and 1 twelfth from Fo,or
+i
+<
+C3. Statedformally,this one-to-one correspondences P - J x J: 2a3b
+(a,b):
+
+1
+2
+4
+3
+6
+8
+9
+12
+16 18 24
+(0,0) (1,0) (0,1) (2,0) (1,1) (3,0) (0,2) (2,1) (4,0) (1,2) (3,1)
+Fo
+
+FI
+
+C1
+
+F2
+
+C2
+
+F3
+
+G3
+
+C3
+
+F4
+
+G4
+
+C4
+
+27
+32 36
+48
+54 64 72 81
+96 108 128
+(0,3) (5,0) (2,2) (4,1) (1,3) (6,0) (3,2) (0,4) (5,1) (2,3) (7,0)
+D4 F5 G5 C5 D5 F6 G6 A6 C6 D6 F7
+The representation P by a set of orderedpairssuggests a coordinate
+of
+system, and indeed P can be put in a two-dimensionalsetting, superimof
+posed on the positive quadrant the lattice of integers.Figure 3 shows
+a small portionof the set.
+This version of P was known in antiquityand is referredto as the
+Nicomachus Triangle,or the eschequier [modem French,echiquier] of
+Nicole Oresme,afterthe fourteenth-century
+mathematician,
+cleric, advisor to CharlesV, and associateof Philippede Vitry.In his Livredu ciel, a
+glossed vernaculartranslationof Aristotle's De ccelo, Oresme asserts:
+"Truly,this figure is full of very great mysteries and one can make very
+116
+
+27
+
+54
+
+108
+
+216
+
+432
+
+864
+
+9
+
+18
+
+36
+
+72
+
+144
+
+288'
+
+3
+
+6
+
+12
+
+24
+
+48
+
+96
+
+1
+
+2
+
+4
+
+8
+
+16
+
+32
+
+Figure3. Two-dimensional
+setting of P.
+beautifuland marvelousobservationsin it, for it containsvirtuallyall of
+Oresme'schessboardis displayedin figure4.
+speculativemusic."5
+II
+In this section we define the notion of a region. Regions will be constructedby employing two properties,connectedness and complementarity,definedin the set P.As we will see, these propertieshave some historical sanction.We have chosen them for theirefficacy,however,not in
+an overt attemptat historicalreconstruction.
+Definition1: Let S be a subset of P and let pe P. S is a connectedsubset of P if, wheneverSa<p<Sb where sa and SbES, it is truethatpc S. The
+connectedsubsetsof P may be regardedsimply as uninterrupted
+sections
+of the sequence of P numbers-for example, {8,9,12 }.
+It appearsthatthe propertyof connectednessin P was a desirableone
+for some of the ancient authorities.Timaios of Locri, for example, presents a long series of connectedP numbersbeginningwith 384, or Cg,the
+point at which the diatonic scale first appearsin the sequence of P numbers (Tobin 1985, 43). In Scolica enchiriadisitself, the one time the scale
+is associated with numbersit begins as a connected set from C7, or 192
+(Schmid 1981, 145). This yields the notes of one octave of the diatonic
+scale, except thatthe note B cannotbe representedas an integer.
+Elementsthatare adjacentin the orderedsequence will be called connected elements.For example, 9 and 12 are connectedelements in P. Of
+special importancewill be connectedpurepowers of 2 and 3, which will
+be representedby 2Aand 3B.For example 8 and 9, or 23 and 32 are con117
+
+.i.
+
+vi i. ,iiyiil..
+ll
+
+viUi
+
+.
+.u v.Teeschuir
+Xhiquie
+
+o O
+
+.
+
+.^. wiii.;m-_
+
+are
+nectedLshown below, together with the interval deterpowers
+pure
+I
+
+.
+
+l
+
+-.
+
+l
+
+l
+
+--
+
+l
+
+-I
+
+||F
+
+--
+
+Figure4. The eschequier[echiquier]of Oresme.
+nected, as are 27 and 32, or 33 and 25. The first six pairs (2^,3B)of connected pure powers are shown below, together with the intervaldetermined by each pair.6
+2A
+A
+3B
+interval
+B
+2
+P8
+1
+0
+1
+1
+2
+1
+3
+P5
+4
+1
+P4
+2
+3
+2
+8
+M2
+9
+3
+m3
+3
+5
+32
+27
+m2
+8
+5
+256
+243
+be
+Definition2: Let S(A,B) the connected subset of P that contains all
+of P up to, but not including,2Aor 3B.Forexample, S(5,3) the connected
+is
+set of P elements that are less than 27; that is, the P elements from 1 to
+24.
+be
+Definition3: Let G(A,B) the set of all P numberssuch thatthe exponent on 2 is less thanA, and the exponenton 3 is less thanB; thatis, the
+set of all factors of 2A-13B-1. Note that S(A,B) is a subset of G(A,B). As
+
+=
+shown in figure5, G(5,3)
+consists of all factorsof 2432= 144. Thus G(5,3)
+{ 1,2,3,4,6,8,9,12,16,18,24,36,48,72,144).
+Definition4: We say thatg and g' are complementary
+factors (or complements) if their product equals 2A-13B-1. Note that g and g' necessarily
+both belong to G(A,B),
+since this set contains all the factors of 2A- 3B-1.
+
+to
+Definition5: We define a set of complementsin G(A,B) be a subsetof
+such that, given any element of the subset, its complementis also
+G(A,B)
+an element of the subset. G(A,B)
+itself, of course, satisfies this definition.
+118
+
+C
+Figure 5. S(5,3) G(5,3)
+
+Definition6: Finally,we define the regionR(A,B)to be the largestconnected set of complements in G(A,B). S(A,B) the largest connected subset
+is
+of G(A,B), SOthe region is a subset of S(A,B):
+C
+R(A,B) S(A,B)C G(A,B).
+
+As figure5 shows, G(5,3)
+consists of the fifteen factorsof 144 and contains the eleven elements of S(5,3) the four elements 144, 72, 48, and
+plus
+The
+36, the elements in the upper right hand comer of G(5,3). complements of these four elements are the first four elements of S(5,3): 2, 3,
+1,
+and 4. The remainingseven elements-6, 8, 9, 12, 16, 18, 24-form the
+the
+Thus,
+region R(5,3), largestconnectedsubset of complementsin G(5,3).
+the heptactysin Scolica enchiriadisis a region as defined.
+This set is shown in figure 6 as a symmetricalsubset of G(5,3) the
+on
+NicomachusTriangle.It should not be surprisingthata symmetricalfigure resultsfrom this definition,since the relationof complementarity a
+is
+symmetricalone: if x is the complementof y, then y is the complement
+of x. The formationof symmetricalsets of complementsis not unprecedented. An example is in the treatise on monochord division, Katagraphetaitoinunho kanon,probablyfromthe fourthcenturyof the Christianera.In this scale, (of which the heptactysis a subset),pairsof rational
+numberswhose productis 144 form a symmetricalscale spanningtwo
+octaves (Markovits1977, 37-38).
+One should keep in mind that this definitionof R(A,B)
+startsfrom the
+premise that 2A and 3B are connected. Since A-1 and B-1 play roles in
+the construction,we requirethatA and B be positive integers.The first
+threeregions in P are shown below:7
+
+119
+
+:i:.:ii
+..::.:i-.i:
+...........i:-..
+Jr
+
+Il *
+IIyiii,
+
+36 tI7
+i
+1i
+
+18
+
+9
+
+i6iii 6
+
+s::i:i
+
+,":j'.'i^si'.
+, ''''.
+iSHfiMi::,
+
+::
+
+.
+
+'::
+
+'""
+"",,
+".^'.
+
+11111
+
+102 24
+
+8
+i
+
+i'"""'"'
+' "",
+
+'
+
+:
+
+4
+
+"
+
+'
+
+'
+
+.
+
+'
+
+6.
+The R(3) )
+Figure regionc G(5
+Figure6. The regionR(5,3)c
+G(5,3).
+2A
+
+3B
+
+G(A,B)
+
+S(A,B)
+
+R(A,B)
+
+2
+
+3
+
+G(ll)={1}
+
+1
+S(l,l)={ }
+
+R(l,)={1}
+
+4
+8
+
+3
+9
+
+G(21)={ 1,2}
+G(32)={1,2,3,4,6,12}
+
+S(2,)={ 1,2}
+{1,2,3,4,6}
+S(32)=
+
+1,2)
+R(2,1)={
+R(3,2)={2,3,4,6}
+
+Note thatin each regionthereareA+B-1 elements.Forexample,there
+are 7 elements in R(5,3), 7=5+3-1. We will show thatin generala reand
+with parameters and B will containA+B-l elements.
+A
+gion
+The next connectedpair of purepowers of 2 and 3 after27 and 32 is
+256 and 243, or 28 and 35, and 256/243 representsthe intervalknown to
+the ancientsas limma,thatis, the Pythagorean
+diatonichalf-step.This, by
+the way, is the example Boethius uses for his notion of primi numeri,by
+which he means, not prime numbers,but pairs of numbersin reduced
+terms.Ourconnectedpairsof purepowerswould be includedamonghis
+primi numeri, and it is interestingthat the example Boethius gives is a
+connectedpair(Bower 1989, 26-27). Figure7 shows the twelve elements
+of the regionR(8,5) a subsetof G(8,5). regionR(s,5)
+as
+The
+containsall modal
+varietiesof the usual (anhemitonic)pentatonicscale. The cardinalityof
+the region is againA+B-1, thatis, 8+5-1, or 12.
+The elements 211and 37 are the next connectedpairof purepowers in
+P. The ratio37/211representsthe intervalfrom F to F#,the chromatichalfstep, or apotome.This intervaldeterminesthe diatonic region R(I17), in
+which thereare 11+7-1 or 17 elements.The regionbegins on 384, or C8,
+and ranges throughtwo octaves and a majorthird to conclude on 1944,
+or Elo. Scolica enchiriadisalso presentsthe C scale, in an alphabeticnotation,spanningtwo octaves.The two-octavescale is the finalstage in the
+discussion of harmonicsin Scolica. The two-octave span is customary,
+120
+
+..
+
+...................
+.......
+... s . +s .. *. i . . 4. ... *
+
+1
+404400
+2X
+
+8
+
+16> 32
+
+128
+
+64
+
+c
+R(8,5) G(8,5)
+
+THE 12 ELEMENTSOF
+THE REGIONR(8,5)
+72
+81 96 108 128 144 162 192 216
+
+48
+
+54
+
+64
+
+(4,1)
+
+(1,3)
+
+(6,0)
+
+(3,2)
+
+(0,4)
+
+(5,1)
+
+(2,3)
+
+(7,0)
+
+(4,2)
+
+(1,4)
+
+(6,1)
+
+(3,3)
+
+C5
+
+D5
+
+F6
+
+G6
+
+A6
+
+C6
+
+D6
+
+F7
+
+G7
+
+A7
+
+C7
+
+D7
+
+Figure7. The pentatonicregion
+but the choice of C is unusualat this time.8At an intermediate
+stage, one
+octave of the scale is associatedwith numbersbeginning,as we observed
+above, an octave too low to find a complete scale in whole numbers.
+Even more tantalizingis the remarkby the anonymousauthorof De
+modorum
+formulis a few centurieslater,cited by Handschin:"Wehave
+surely recognized that the letter C, which the ancients consideredto be
+Handschin (1948,
+third, is first according to numerical proportions."9
+214) was awarethatthe tetraktys,
+pentatonic,and diatoniccould be realized as connected subsets of Pythagoreannumbersbeginning on 6, 48,
+and 384, respectively.Furthermore, notedthat384 mustbe interpreted
+he
+as C to be consistent with the medievalgamut.In relationto this fact he
+found intriguing(as do we) the remark theDe modorumanonymous.10
+by
+The next example is the chromaticregion R(19,12). have, however,
+We
+just aboutreachedthe limit of the usefulness of our ad hoc approachto
+the determinationof regions, since the numbers are becoming rather
+large. In this case 219and 312are connected in P, and their ratio corresponds to the Pythagoreancomma. In turn, the intervalsbetween adjacent elements within this region are the diatonic and chromatic half1
+steps, limmaand apotome.
+121
+
+Following this is the region R(27,17),which containsthe division of the
+octave in 17 parts,describedby the Arabic theoristAl-Farabiin the late
+ninth or early tenth century(Sachs 1943, 278-80). The 17-note system
+also plays a role in Renaissancetheoriesof chromaticism,discussed, for
+example, in the Libellus monochordiof Prosdocimo de' Beldomandi
+containsa 53-note
+(Herlinger1987, 139-47). Yet anotherregion,R(84,53),
+division of the octave discussed by Chinese theorists (Danielou 1943,
+177).
+III
+What is perhapsmost strikingaboutthe regions we have constructed
+is thatthey containvariousnotablescales, especially the pentatonic,diatonic, and chromaticscales. These scales are worthinvestigatingon their
+own account-as we will see, they all sharethe propertywe have called
+well-formedness.But to identify the scales within regions is to focus on
+the pitch classes they contain, and it is worth questioningone's almost
+reflexivemove to abstractpitch-classinformationfrom a pitch structure.
+Going back to first principles,we recall that regions were defined in
+the context of P, which was generatedentirelyby two numbers,2 and 3.
+As mathematical
+roles
+entities,these numbersplay perfectlysymmetrical
+in P and in its regions.There is no reasonto assign a privilegedstatusto
+either of them, prior to interpretingthem as representingthe intervals
+octave and twelfth. Even when that interpretation made, there is no
+is
+to favor the octave over the twelfth by imposing octave equivnecessity
+alence. The intervalsplay symmetricalroles in the constructionof regions, and either (or neither)may be chosen as a modularframe.Within
+the region, the intervalsremainin a kind of balance.
+To begin to understand natureof this balance,considerthe diatonic
+the
+region R( 1,7). The region allows for 10 perfectoctaves from C-c to ee' and 6 perfect twelfths from C-g to A-e'. This space is maximalin
+this respect, as figure 8 shows. Either interval is extended outside the
+region only at the expense of the other.
+Anotherlesson to be drawnis thatthereis nothingin the formalconstructionthatrequiresthat the generatingnumbersbe 2 and 3. Certainly
+a medievalmusicianwould only deal with integers,in particular powthe
+ers of 2 and 3, but if one thinks carefully about the definitions,there is
+that prenothing in the notions of connectednessand complementarity
+cludes the generatingnumbersfrombeing rationalor even irrational.
+Retonal spaces.
+gions are not necessarilydefinedonly in Pythagorean
+If we constructP* from the values 2 and 3/2 representing,respectively, the octave and perfect fifth, the regions in P* appearto be truncated versions of the regions in P. The beginning of the sequence of P*
+elements is shown below, together with the sequence of orderedpairs
+122
+
+OctaveFrame
+
+I
+
+I
+
+B
+
+CDEFGABCDEFGABCDE
+
+F
+
+B
+
+CDEFGABCDEFGABCDE
+
+F#
+
+Twelfth
+Frame
+
+I
+
+I
+
+Perfect octaves and twelfths are preserved within R(11,7)
+
+Figure 8. The diatonicoctave-twelfthregion.
+(a,b) where a and b representthe exponentson 2 and 3, respectively,and
+of interpretation pitches:
+in
+2
+
+3
+
+27
+
+4
+
+8
+
+4
+
+(0,1)
+Co
+
+(1,0)
+F1
+
+(0,2)
+G1
+
+(1,1)
+CI
+
+(0,3)
+D1
+
+8
+
+9
+
+729
+64
+
+12
+
+1
+(0,0)
+
+Fo
+243
+32
+
+2
+
+9
+
+81
+8
+
+9
+
+81
+
+2
+
+16
+
+(2,0)
+F2
+
+(1,2)
+
+(0,4)
+
+G2
+
+A2
+
+27
+2
+
+243
+16
+
+16
+
+6
+
+27
+4-
+
+(2,1) (1,3)
+C2
+
+D2
+
+2187
+128
+
+(0,5) (3,0) (2,2) (1,4) (0,6) (3,1) (2,3) (1,5) (4,0) (0,7)
+E2
+
+F3
+
+G3
+
+A3
+
+B3
+
+C3
+
+D3
+
+E3
+
+F4
+
+F#4
+
+Forexample,the diatonicregiongeneratedby octaves and fifthscould be
+represented by the notes C2 to E3. Since 24 and (23) are the connected elements that determine this region, we refer to it as R(4,7) in P*. There are
+
+7+4-1=10 elements in this region, and it representsthe largestdiatonic
+spanin which octaves and fifths may be maintained.12As we have stated,
+the generating intervals themselves are balanced in the region so that
+eitherone (or neither)may be chosen as the intervalestablishinga modularequivalencerelation.
+This brings us to a reconsideration what is surely the most notoriof
+ous aspect of the Enchiriadis treatises: the dasian notation and the
+strangescale associatedwith it, firstelucidatedby Spitta(1889). As figure 9 shows, this scale comprises a series of four disjunctDorian tetrachords,plus two residualor remnantnotes. Althoughthe emphasisin the
+treatises is on the Dorian tetrachord,with its tone-semitone-tonesymmetry,the dasian scale can also be regardedas a series of identicalconjunct pentachords,that is, periodic at the fifth.13
+Such a scale lends itself ideally to organumat the fifth. In organum
+at the octave or in composite organum,on the other hand, augmented
+123
+
+DasianScale
+E
+c.
+1
+
+"
+
+I
+
+Tritos
+Deuteros
+Archoos
+
+f
+
+.
+
+Tetrardos
+
+c'
+b
+a
+9
+g
+
+c
+
+Deuteros
+
+d'
+
+,
+o
+
+Tritos
+
+f r,
+e'
+
+L
+
+Tetrardos
+
+g'
+
+'
+
+Deuteros
+Archoos
+
+a'
+
+p
+
+b'
+
+Tritos
+Deuteros
+Archoos
+Tetrardos
+Tritos
+Deuteros
+
+e
+d
+
+,.
+'
+
+0
+
+c
+B
+A
+G
+
+Archoos
+
+Tetrardos
+
+Archoos
+
+Figure9. The scale associatedwith the dasiannotation.
+octaves would occurif all the voices moved accordingto the dasianscale,
+an issue the studentinterlocutorraises near the end of Scolica enchiriadis. Justas the periodicityat the octave in the usualdiatonicpitch-space
+allows two voices to move perpetuallyin paralleloctaves, while voices
+moving in parallelfifths will encountera diminishedfifth, in the dasian
+scale the reverse is the case: parallelfifths may be maintainedperpetually, while motion in parallel octaves will eventually result in an augmented octave. See figure 10. Within the region, where the dasian and
+diatonic scales coincide, no conflicts arise.14
+
+124
+
+Ar De Tr Te Ar De Tr Te Ar De Tr TeAr
+CT S T36<
+
+S T D)<
+
+T T
+
+G A B C D E F G A B C D E
+T T S CT
+
+T S T T T S>
+
+T
+
+De Tr Te Ar De
+<^S
+
+T T> T
+
+F G A B C
+S T T T S)
+
+Figure 10. The octave-fifthregion as the space in which
+the dasianand diatonic scales coincide.
+IV
+The dasian system was perhapsnot only motivatedby the practiceof
+concernof early medievaltheorganum.It also addresseda fundamental
+In the ninth century,the classification of chant was being accomory.
+plished simultaneouslywith the establishmentof the gamut and a suitable notation.One of the featuresof the diatonicsystem thatwas evident
+to those engaged in these tasks was that similartonal patternsexisted in
+the neighborhoodsof pitches a fifth or a fourthapart.Thus, four finalsD,E,F,G-sufficed to classify chants according to their endings.'5 Put
+anotherway, given the system of four maneriae, each embracingtwo
+modes, some chants(or portionsof them) mightbe placed equally well a
+fifth (more rarely,a fourth)above one of the finals.16
+This observationof similaritydevelopedinto the doctrineof the affinities.'7 The radical approachof the Enchiriadis treatises was to make
+affinity at the fifth perfect by treatingthe tetrachordof the finals as a
+modularunit, with the fifth as intervalof periodicity.The choice of the
+fifthrather
+thanthe octaveyielded a moremanageablebasic unit,for both
+the voice and the mind.'8 Position finding, that is, determiningmodal
+identity,thusbecame a functionof the placementof a single semitone.As
+Phillips (1984, 161) points out, in Scolica enchiriadis the semitone is
+considered to be the heart and soul of melody: "cor atque animus...
+cantilenae."
+Theoristsof the eleventh centuryrejectedthe dasian scale: Guido of
+Arezzo (implicitly) and HermannusContractus(explicitly) were both
+critical.19
+Thus Guido: "Likenessis not complete except at the octave."
+Handschin,however,emphasizes that Guido, despite his critical stance,
+was trulya follower of the Enchiriadistraditionin the great attentionhe
+125
+
+paid the affinities(1948, 323). Guido'sproblemwas to reconcile the four
+of
+basic "qualities" the dasiansystem with "the seven differentnotes."20
+Guido's principalstatementon the affinities is chapter7 of Micrologus. He describes the modus vocum, or characteristicmotion through
+tonal space, thatdeterminesaffinity.The firstmodusvocum,for example,
+is "when from a note one descends by a tone and ascends by a tone, a
+semitone, and two tones, as from A and D," (Babb 1978, 63); similarly
+for the finalsE andF andthe notes a fifth above anda fourthbelow them.
+Guido treatedthe final G as an exception, a note withoutan affinity.For
+Guido, essentially the same tonal space exists within the sixths bounded
+by r and E, and C and a.
+Hermannus,
+writinga few decadesafterMicrologus,treatedthe affinities in a more logically satisfying (if less practical)way than Guido in
+chapter7. His rule:"Take tetrachord wish-say, thatof the graves
+any
+you
+[A-D]; add a tone at both ends; you then have the limits of the tonal patternswhich form the basis of the modes [sedes troporum].
+Therearefour
+modes and as many tonal patterns[modivocum]."(Ellinwood 1936, 57.)
+Thus his modi vocumagree with Guido's except thatG also has affinities
+at the fifth above and fourthbelow, d and D.21His more logical arrangement of the affinitiesis apparentif representedon the diatoniccircle of
+fifths thus: F<->C G<->D<-A E<-B. The note D is both protusin the
+in
+finales and tetrardus the graves. The fifths and fourthsthat are priviconnect tones that have the same position
+leged underthis arrangement
+withintheirtetrachords are called by Hermannus
+and
+natural(naturalis);
+the others,connectingC to G andA to E are formal(formalis).
+If C and G are taken as lower boundaries,and a and e as upper,they
+markthe limits of affinity,since C and G are only similarin ascent and a
+and e are only similarin descent. The boundarypitches within both theorists' conceptions are those of the naturaland hardhexachords,as they
+were latercalled. While neitherused the term,the hexachordis described
+by Hermannus'srule. As we will see, the hexachordmediates among
+what we call the variousdiatonicregions.
+Guido gave furtherconsiderationto the affinities in chapter8 of Micrologus, in an accountmore theoreticallyconsistentthanthatof the previous chapter.Here he considersthe generalaffinityof all notes a fifth or
+a fourthapart.
+of
+in
+Figure 11 is Guido's representation R(4,7) P*, the diatonicregion
+The same region appearedbefore in the
+generatedby octave and fifth.22
+context of the dasian scale, where four qualities are determinedby fifth
+equivalence. Here, seven pitch classes (septem discrimina vocum) are
+determinedby octave equivalence.There are ten different notes in the
+diagram(F G a and ~appeartwice). The three octaves in the region are
+shown vertically,while the six fifths appearon the right side. The equivalence at the octave assumed in this context means that fifths are not to
+126
+
+d
+
+c
+
+F
+
+G~
+
+A:
+
+-/
+
+e
+
+D
+
+E
+
+?
+'m
+
+C
+
+Figure 11. Diagramfrom Chapter8 of Guido of Arez
+
+be found below F and above ~, which the diagramshows by isolating
+them as end points only.
+The six fifths imply a structure overlappingnaturaland hardhexaof
+C D E F G a and G a t c d e. Guido in this chapteris also conchords,
+cernedwith what he considersa lesser affinity,affinityat the fourth.The
+six perfectfourthsare shown in a complementary
+fashion on the left side
+of the diagram.A possible reinterpretation the diagrambringsout the
+of
+lesser affinity:The hexachordorderingnatural-hard
+was suggested by
+threeupwardfifths from C D E and threedownwardfifths from c d e. In
+our reinterpretation,
+projecting downwardand upwardfourths from a
+centraltrichordC D E leads to the otherhexachordorder,hard-natural:23
+F A B C D E
+C D E F g a
+This is the diatonicregion generatedby octaves and fourths.This region is the maximal space in which perfect octaves and fourthsmay be
+maintained;that is, it is the maximal space within which octave equivalence and fourth equivalence are equally valid. Taking the fourth as a
+modularintervaltherearethreeclasses or qualities.This interpretation
+is
+consistent with Guido's text, which asserts that three notes-C, D, Ecapturethe possible tonal characters.
+All themodesandthe"distinctions" themodesareconnected
+of
+withthese
+threenotes [C, D, E].... All othernotes have some concordance
+with
+thesethree,eitherbelowor above.24
+The idea thattherewere threebasic qualitieswas only takenup again
+in the fourteenth-century
+In
+Quatuorprincipalia.25 this treatisethe hexachord is divided into three pairs, ut-fa, re-sol, and mi-la, but if we treat
+the pairs as three equivalences,we have the presentationof the diatonic
+octave-fourthregion below. Continuationoutside the region using the
+fourthas modularintervalleads to soft b, makingthis presentation
+highly
+suggestive of the threehexachordsof the maturesolmizationsystem.
+ut re mi
+F AB
+
+ut re mi
+CDE
+
+ut re mi
+Fga
+
+The diatonicregiongeneratedby octaves andfourthsis closely related
+to the correspondingoctave-eleventhregion. This region coincides with
+the gamutof Pseudo-Odo(leavingout the alternate
+ninthstep, the soft b),
+spanningtwo octaves and a tone, from F to aa. The eleventhsreflectthe
+combinedrangesof authenticand plagal modes, as displayedin the treatises of first Aribo (Smits van Waesberghe1951, 18-20), then John of
+Afflighem (Smits van Waesberghe1950, 94-95; Babb 1978, 124) and
+128
+
+The ranges of authenticand plagal modes as a symmetricalsubset of the diatonic octaveeleventh region
+
+r ABCDEFGa
+
+cde fga
+a
+
+Figure 12. Aribo's circle diagrams.
+Jacquesof Liege (Bragard1973, 155-56) (figure 12). Theirdiagramsare
+of the eleventhsformedby the naturalisfourthsandfifthsof Hermannus.
+The additionof the eleventhscomposed of theformalis fourthsand fifths
+covers all six eleventhsin the region. In the mathematical
+determination
+of the region, 210and (8/3)7 are connectedelements in the appropriate
+Ptype space. Thereare 9 octaves and 6 eleventhsin the region, and 16 elements in all.
+Strictly parallelfour-voice organummust take place within the confines of eitherthe octave-eleventhregionor the octave-twelfthregion.An
+example that moves within an octave-eleventhregion is found in Chapter 15 of the Musica enchiriadis.
+The hexachordfigures prominentlyin all of the diatonic regions we
+have seen so far.The octave-fifthregion is composed of two hexachords
+in the ordernatural-hard,
+while hexachordsin the orderhard-natural
+form
+the octave-fourthregion. The octave-twelfthregion is made up of two
+hexachords an octave apart.The octave-eleventh
+pairs of natural-hard
+129
+
+I 81
+
+9
+
+12
+
+16
+
+4
+
+'
+
+1
+
+1
+
+1
+
+27
+8
+
+9
+2
+
+'
+
+6
+1
+
+8
+1
+
+32
+3
+
+9
+4
+
+3
+1
+
+4
+1
+
+16
+3
+
+64
+9
+
+3
+
+2
+
+8
+
+32
+
+128
+
+2
+
+1
+
+3
+
+9
+
+27
+
+1
+1
+
+|
+
+27
+
+16
+
+4
+3
+
+16
+9
+
+64
+27
+
+256
+81
+
+Figure 13. P' = {(43)(la,b(JI).
+
+region is formed by two hard-natural
+pairs an octave apart.In the chapter called "De sedibus modorum"of the late eleventh-centurytreatise
+Musica of Wilhelmof Hirsau,two pairsof hexachordscover in this way
+the gamutof Pseudo-Odo,thatis, the octave-eleventhregion (Harbinson
+1975, 59-60).
+The hexachorditself is a regionin the tonalspace generatedby fourths
+(4) and fifths (3). LettingP' representthis space, we constructthe hexachord in a mannerparallelto our earlierpresentationof the heptactysas
+a region in P. Figure 13 is a two-dimensionalview of P'.
+The beginningof the sequence of P' is shown below. Connectedpairs
+of purepowers of 4 and 3 are indicatedby asterisks:
+*
+
+*
+
+*
+
+*
+
+*
+
+4 3 16 2
+9 64 8 3 256 27
+3 2
+9
+1 4 27 3
+1 81 8
+(0,0) (,0)(0, 1) (2,0) (1,1) (0,2)(3,0) (2,1) (1,2) (4,0) (0,3)
+The connected pair (4)A, (3)B that forms the limit for the hexachord
+
+regionis (4)4, (3)3, or2--- and--. This pairdeterminesthe set G(4,3),
+con130
+
+E1
+i,
+
+z
+
+A1
+
+~^ ~~
+
+.:;;ii:: ???:?Si::
+; t : ?\::
+:
+?i
+?I-^?:. .
+:..:;;.:
+E::: :::::;:.
+
+D2
+
+02-:--:--
+
+..............................
+... ::
+....
+....
+i............. ...... .
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+i: :
+? :?i?: :::
+
+A
+
+0
+
+:
+...........................::
+.:
+=============== ..........::..::..:.:.:
+=........
+:.::::::::::...................
+
+0
+
+Co
+
+.
+
+P
+
+..... ................
+... .
+
+B1b
+
+fourths
+in
+Figure 14. The hexachordas region R(4,3) P'.
+sisting of the factors of ( -)3()2= -
+
+The connected part of G(4,3)
+is
+
+S(4,), which contains the P' elements from 1 to1.
+
+The largest subset of complements in S(4,3) R(4,3).
+is
+This set is:
+2 9 64 8
+...
+' '.
+i:K3'.,' '
+
+Interpreting 1- as the note C (equivalently,interpreting1 as D), the
+region is composed of the notes C D E F G A, the naturalhexachord.The
+hexachord representsthe largest diatonic span in which all fifths and
+fourthsare perfect.Figure 14 shows the 3 horizontalperfectfourthsand
+the 2 verticalperfectfifths, and suggests the partitioning the hexachord
+of
+into two ut re mi trichordsat C D E and F G A.
+'7
+256
+It is also interestingto note thatthe determining
+pair 81 and 8 would
+be assigned the notes BCand B in this notation,suggesting the mutation
+into the soft hexachord through the
+and into the hard hexachord
+Bl,
+throughthe B. The determiningratio is the apotomn,which we met with
+the determiningratiofor the diatonicoctave-twelfthregionin P.
+above as
+All of the regionsthatwe have called diatonicbelong to a definableclass,
+and it is the case thatthe apotomeis the determiningratiofor all diatonic
+regions.
+region that is fundamentalin
+Finally, there is yet anotherdiat onic
+medieval theory.This is
+that
+the
+TST tetrachord, is, the tetrachord the
+of
+in
+finals, a symmetricalsubset of the hexachord.This region is R(3,2) the
+space P~ generatedby the minor third (3-) and perfect fourth (-). The
+131
+
+.
+
+3
+
+Do.
+
+F
+
+minorthirds
+of
+in
+Figure 15. The tetrachord the finals, R(3,2) P~.
+cube of the minorthirdratioand the squareof the perfectfourthratioare
+connectedin this space.Again, the connectedpairresolvesto the apotomw
+/4\2
+
+32 33
+
+7
+
+as determiningratio, since (4)/ (32) =
+. Figure 15
+15 shows the
+the region
+3
+27 211'Figure shows region
+as
+of
+R(3,2) in P~, interpreted the tetrachord the finals. Hucbald'sunerring
+choice of the TST tetrachord the modularunit in his reconfiguration
+as
+of
+the GreaterPerfect System appearsall the more prescient.26
+Some of the tonal spaces we have been discussing arise in two examples by J. S. Bach. In example 1, the subject and answer from the CClavier,Bach uses the
+MajorFugue from Book I of the Well-Tempered
+maximumdiatonicspace thatpermitsa realanswer.The notes of the subject are all of the notes of the naturalhexachord,while those of the real
+answercomprisethe hardhexachord,at the fifth above. Thus, the entire
+space of subjectand answeris the diatonicregion determinedby octave
+and fifth. This is a common enough procedurein fugue, with several
+more examples to be found in WTC alone. Here, the structureof the
+hexachordregion itself is revealed by the shape of the subject, which
+emphasizesthe threeperfectfourthswithin the hexachord.
+The second example involves the octave-fourthregion, and is taken
+from the C-MajorInvention.Bach has made use of the largestdiatonic
+span in which both the octave frameand fourthframemay be preserved
+(example2). The sequencebeginningin m. 3 presentsthe threedifferent
+species of filled-in descending perfect fourths:half-step on the bottom,
+on top, and in the middle, designatedby a, b, and c, respectively.Considering the potential role of the fourth in this region, the modulation
+takes on a new significance. The descending perfect fourth usurps the
+octave as interval of periodicity, through sequence gaining inertial or
+conservative force to preserve its frame past the confines of C major.
+Once all of the species of fourthshave been exhausted,the patternbegins
+again.
+
+132
+
+jfr-
+
+r
+m"P
+I
+
+gII-
+
+^fI1C-;
+
+'?^~
+
+P~~~~~~~~~~~~~~~~~~~~P
+
+Example 1. J. S. Bach, subjectof Fugue 1 from WTCI, BWV 846.
+a
+I
+
+I
+
+I
+
+b
+-
+
+I
+
+a
+
+iT]
+
+\
+
+--M'
+
+rj
+
+;
+.
+
+I
+
+I
+
+I
+
+[`B
+
+LttSrcr
+
+b:;
+
+a
+
+c
+
+b
+
+c
+
+II
+
+b
+
+p-
+
+^^^^^
+
+G -r t
+
+a
+
+-^ s-;
+I
+
+'
+
+l
+
+Example 2. J. S. Bach, Inventionin C major,BWV 772.
+V
+Regions are tonal spaces generatedby two coequal intervals.The perspective shifts from the bounded space of regions to the infinitely extendible space of scales, if the intervalsare assigned fundamentally
+dissimilarroles. One intervalis chosen as the modularframe,and the other
+intervalbecomes the now single generatorof the notes of the scale. The
+scales that arise in this way are well-formed.
+Definition: A well-formed scale is generated by a single interval,
+where the generatingintervalis spannedby a constant numberof step
+intervals(see p. 139).
+In the particular
+case of the diatonicset, the perfectfifth generatesthe
+scale, and all perfect fifths are indeed spannedby a constantnumberof
+133
+
+F
+
+F
+
+B
+
+C
+
+C
+
+A
+
+E
+
+E
+
+G
+
+G
+
+AD
+
+D
+
+a. The diatonicset
+(well-formed)
+
+b. The hexachord
+(not well-formed)
+Figure 16. Well-formedness.
+
+steps, to wit, 4. Also, as figure 16a makes clear,diatonicsteps are always
+the sum of two fifths (modulo the octave). These two statements are
+equivalent.
+Intervalsmay be measuredgenerically or specifically.Generic measure counts the numberof scale steps thatthe intervalspans. In the context of well-formed scales, specific measure is expressed as an integer
+multiple of the generatinginterval-the formal fifth-reduced modulo
+the formaloctave. For example, in the usual diatonicset, 4 fifths modulo
+the octave is the majorthird,and -3 fifths is the minorthird.
+The musical significance of well-formednessis principallythis: in a
+well-formedset, the intervaldetermined n formalfifthsalways retains
+by
+its generic identity,no matterwhere in the set it may be located. In particular,this means that if n formal fifths is a step intervalsomewherein
+the set, it is always a step, nevera skip. Contrastthis with the situationin
+the hexachord,considerednow as a scale ratherthan as a region. It has
+some of the characteristics the diatonic set. It is generatedby perfect
+of
+fifths, and it is a deep scale (as defined in Gamer(1967)), but it is not a
+well-formedscale. In the scale C D E F G A (C), the minorthird(-3 fifths)
+is sometimes a step (at A to C) and sometimes a skip (at D to F and E to
+G). This distinctionwas drawnby Dahlhaus(1990, 172): "Thepentatonic
+andheptatonicscales aresystems.In comparison,the hexachordis a mere
+auxiliary construction.As a system it would be self-contradictory...
+would... lead to the absurdconsequence that the listener would have
+to alternate
+betweenthe idea of the minorthirdas a 'step'andas a 'leap.'"
+In figure 16b, the lack of well-formedness in the hexachordis shown
+134
+
+as a failure of symmetrypreservation, opposed to the case of the diaas
+tonic set.
+Anotherimportantpropertyof well-formed sets is a consequence of
+this coordinationof generic and specific intervals.All non-trivialwellformed scales have Myhill's Property(MP), identified by Clough and
+Myerson (1985). A set has MP if every non-zero generic intervalcomes
+in two specific varieties.For example, in the usual diatonic, 2nds, 3rds,
+4ths and so on come in two sizes. If MP is definedappropriately is actuit
+ally equivalentto well-formedness.27
+We have seen how to generate,in principle,all regions. Each pair of
+intervalsgives rise to a P-type space and to a hierarchyof regions. We
+have assertedthateach region determinestwo essentially differentwellformed scales, with the two intervals exchanging the roles of formal
+octave and formal fifth. We have also assertedthat from a well-formed
+scale (given its formalfifth andformaloctave) one can recoverits region.
+But how do we know that this correspondenceholds? PartVI develops
+the mathematical
+theoryof regions, and revealsthe relationshipbetween
+regions and well-formedscales.
+VI
+The mathematicsrequiredto develop a theory of regions depends
+upon whathas been called the most enduringproblemof numbertheory:
+that of diophantineequations, which the Greek mathematicianswere
+adept at solving. Figure 17 demonstratesthe applicationof linear dioThe fact that there are always
+phantine equations to the region R(5,3).
+A+B-1 elements in the region R(A,B)
+depends upon the solution of the
+equationAy+Bx=z in non-negativeintegers,assumingA and B are relatively prime. The equation Ay+Bx=ZmodAB in modular arithmetic always
+
+has solutions, butAy+Bx=z in ordinaryarithmeticdoes not always have
+solutions in non-negativeintegers x and y. If a given z does have such
+solutions we will say that z is solvable. In the set ZAB={0, 1, . . . AB-1 },
+
+the last A+B-l consecutiveintegersare solvable.As figure 17 shows, for
+all of the values from 8 to 14, the equation5y+3x=z has solutionsin nonnegative numbersx and y. The solvable elements 8 to 14 map onto the
+in
+largest connected set of complements in G(5,3) P, that is, the region
+Of the numbersless than(A-1)(B-1) exactly half are solvable.The
+R(5,3).
+entire set of solvable elements among the numbers0 to 14 maps onto the
+set of connected elements in G(5,3),thatis, S(5,3).
+In the remainderof this section we will operate in the most general
+setting possible: Pv, = {vagbla,be J = {0,1,2,... }} subjectonly to the proviso thatneitherv nor Ltbe an integralpower of the other.
+=
+The sets G(A,B),ZAB {0, 1, . . AB-1 and ZA ZB= {(x,y)10 x <
+<
+135
+
+Z5 X Z3
+
+Z15
+
+G(5,3)
+
+p
+O*
+1
+2
+3*
+4
+5*
+6*
+7
+8*
+9*
+10*
+11*
+12*
+13*
+14*
+
+(0,0)
+(2,2)
+(4,1)
+(1,0)
+(3,2)
+(0,1)
+(2,0)
+(4,2)
+(1,1)
+(3,0)
+(0,2)
+(2,1)
+(4,0)
+(1,2)
+(3,1)
+
+1
+36
+48
+2
+72
+3
+4
+144
+6
+8
+9
+12
+16
+18
+24
+
+*Solvable elements
+(x,y) - 2X3Y
+p:Z5x Z3 - G(5,3):
+- (5y+3x)mod 15 z=5y+3x for z=8, 9, 10, 11, 12, 13, 14
+a:Z5 x Z3 - Z15:(x,y)
+
+(alsoforz=0, 3, 5, 6)
+Z = pO(':Zi5 -> G(5,3)
+
+in
+Figure 17. The mappingsunderlyingR(53) P.
+A,0 < y < B} may all be consideredto be isomorphicgroups, when provided with the appropriate
+operations.Forexample,G(, B)is a groupwith
+the operationdefined as multiplication,where the exponent on v is reduced moduloA, and the exponenton ,uis reducedmodulo B. The other
+two sets become additivegroupswith the additionsdefinedin the natural
+and
+way: additionmoduloAB for ZAB component-wiseadditionmodulo
+A and modulo B for ZA ZB.It is easy to show that the connectedness
+X
+condition on VAand lB implies that A and B are relatively prime. It fol-
+
+lows thatboth ZAB ZAX ZB,with the appropriate
+and
+additions,represent
+the cyclic group of orderAB.28The isomorphismsamong these groups
+136
+
+->
+->
+are p: ZAX ZB -> G(A,B):(a,b) v gb and o: ZAx ZB -> ZAB:(X,Y) (Ay
++ BX)modAB. one-to-one correspondenceset up by o is crucial:every
+The
+
+element of ZAB
+for
+may be expresseduniquelyin the form (Ay+Bx)modAB
+->
+some (x,y) in ZAX ZB, and we can define an inverse mapping o ':ZAB
+ZAx ZB.Finally, we can define the isomorphism T = po-' which maps ZAB
+
+to G(A,B).
+
+We are now in a position to give a proof of what we will call the theorem of Lucas (1891, 3:480-83). We give our own proof, because it affords more insight into the questionat handthandoes thatby Lucas.
+Theoremof Lucas:AssumeA andB arerelativelyprimewithA>B>1.
+Then the A+B-1 integersfromAB-(A+B)+1 to AB-1 are all solvable in
+positive integersx,y where0 < x < A and0 < y < B. Of the remainingelements,half of them,numbering
+(A-1)(B-1)/2, aresolvable,andthe other
+(A-1)(B-1)/2 are not solvable. The element AB-(A+B) is not solvable,
+so AB-(A+B) is the smallest integer above which every integer is solvable. (It is easy to show thatz > AB is solvable.We omit this demonstration, and confine ourselves to the set ZAB.)
+If Ay+Bx=zwith strictequalityfor z in ZAB z is solvable,by definithen
+tion.If z EZAB notsolvable,thenit mustbe thatAB+z= Ay+Bxforsome
+is
+then z
+pair (x,y) in ZAX ZB,and conversely, if Ay+Bx = AB+z for z EZAB,
+
+Then considerthe
+is not solvable,since a is one-to-oneand onto ZAB.
+orderedpair (A-1, B-l). A(B-i)+B(A-1) = 2AB-(A+B) = AB+(AB(A+B)), andsince A>B>1,AB-(A+B)>0, so AB-(A+B) is not solvable.
+But this is the highestvalue the formAy + Bx can takeon (in termsof
+strictequality)when0 < x < A and0 < y < B, i.e., when(x,y) ZA ZB,
+X
+andsince a is ontoZAB, elementsAB-(A+B)+1 to AB-1 aresolvable
+the
+for (x,y) in ZA ZB.
+X Thatleavestheelementsfrom0 to AB-(A+B). There
+are(A-1)(B-1) of themsinceAB-(A+B)+I = (A-1)(B-1).
+X
+Supposean element(x',y') of ZA ZBis a solutionfor n', where0 < n' <
+X element((A-l)-x', (B-1)-y') is not a solu(A-1)(B-1). ThentheZA ZB
+tion for any z in ZAB:
+A(B-l-y')+B(A-l-x')
+
+= 2AB-(A+B)-(Ay'+Bx') =
+
+2AB-(A+B)-n' 2 AB, sincen' < AB-(A+B). Conversely,
+suppose(x",y")
+>
+is not a solutionfor any z in ZAB.
+ThenAy"+Bx" AB. Then((A-l)-x",
+(B-1)-y") is a solutionforsomeelementn"suchthat0 < n"< (A-1)(B-1)
+<
+= AB-(A+B)+1:A((B- )-y")+B((A-l )-x") = 2AB-(A+B)-(Ay"+Bx")
+> AB. Therefore(A-1)(B-1)/2 of the eleAB-(A+B), since Ay"+Bx"
+mentsof ZAB
+from0 to AB-(A+B) aresolvable,(A-1)(B-1)/2 arenot.
+137
+
+The element of the form ((A-1)-x, (B-1)-y) used in the above proof
+is reminiscent of the notion of complementaritythat was defined in
+of
+is
+that is, it is
+G(A,B). The property complementarity a group property;
+defined in terms of the group operation.In G(A,B), and g' were defined
+g
+to be complements of each other if g'g=vA-lgB 1. Although the group
+operation in G(A,B)is slightly different from ordinary multiplication,
+clearly it remains true that if g=vagb, g'=v(A-1)-al(B-1)-b is the complement
+
+of g. Then we can define complementsin ZAx ZBand ZAB that comSO
+x
+is
+plementarity preservedby the variousisomorphisms:In ZA ZB,given
+x=(a,b), let the complementof x be x'=((A-1)-a,(B-1)-b). Thenit is true
+that p(x') = (p(x))'. Since o((A-1,B-1)) = AB-(A+B), as we saw above,
+
+if ze ZAB must have z'_(AB-(A+B)-z)modAB. Thus if z < AB-(A+B),
+we
+
+z' < AB-(A+B), and if z > AB-(A+B), then z' > AB - (A+B), ordering
+the elements of ZAB ordinary integers.
+as
+
+Looking back at the proof of the theorem,evidently half of the elements of ZAB
+from 0 to AB-(A+B) are solvable, and their complements
+are not. Furthermore, and only if, an element and its complementare
+if,
+both solvable, they both belong to the abstract region in ZABfrom
+AB-(A+B)+ 1 to AB-1. It will turnout thatT mapsthis set onto the region
+R(A,B).
+
+Recalling our definitionof a set of complements,we can see thatboth
+of the subsets 0, 1, ... AB-(A+B)} and {AB-(A+B)+1, ... AB-1 } are
+sets of complementsin ZAB.
+Also, both subsetsare connected,if we carry
+over the definition of connectednessto ZAB consider elements 0 to
+and
+AB-1 to be orderedas ordinary
+integers.However,the abstract
+regionhas
+the additionalpropertythat all of its elements are solvable. Thus it will
+turnout thatthe region,the largestconnectedset of complementsin G(A,B),
+correspondsto the largestconnectedset of solvable complementsin ZAB.
+To carry this projectout and to evaluate the region requiresthat the
+solutions (x,y) e ZAx ZBto the congruencesz _ Ay+Bx be determined.
+Then it must be shown that if the mapping(x,y) -> Ay+Bx is increasing
+(as we know it is on the abstractregion), so is the mapping(x,y) -> vXgY.
+Both these determinations
+dependupon the propertiesof continuedfractions, and we omit the details. It is not difficult to show that the values
+(ak(-l)k(n-B))modA and (bk(-1)k(A-n))modB, where ak/bkis the penultimate
+
+convergentin the continued fraction representingA/B, are solutions x
+and y, respectively, in non-negative integers to the equation Ay+Bx=
+AB-(A+B)+n for n from 1 to A+B-1. Again omitting the details, if and
+only if vA and gB are connected, then A/B belongs to the series of rational approximations the numberlogvg generatedby its continuedfracof
+One can verify on this
+tion, its convergents and semi-convergents.29
+basis, for example, thatthe monstrouslylargeP numbers250508 331867
+and
+are connected elements. The numberof regions in P is thus seen to be
+is
+infinite, since the value approximated irrational.
+138
+
+The means are now at handto characterizeregions otherwisethanby
+the initial definition,and a way of computingthemcan be given. The formula which producesthe Pv, numbersfor the region associatedwith the
+orderedpair (A,B) is shown below:
+< n < A + B --
+
+a
+
+is
+1, where
+bk
+A
+- in the continuedfraction
+the full convergent
+immediately
+preceding
+for logvg.
+R(AB) =
+
+ak(- 1)k(n-B)mdA
+
+bk(-
+
+1)kA-n)md
+
+1
+
+The above formula tells us that the region is an orderedset: its elements increaseas n increase,from 1 to A+B-1. Hence there areA+B-1
+elements in the region. The derivationof well-formed scales from this
+space is achieved by first treatingone of the generatorsas the formal
+octave. Withoutloss of generality,we assume thatv is the formaloctave
+andgtis the formalfifth.30 intervalg withinthe regiondefinesB pitch
+The
+which we can represent as g?, j1j, g2, . . -. We arelabelingthe
+classes,
+pitch classes in the order in which they are generated.As one is only
+interestedin pitch class in this context, it makes sense to disregardthe
+exponentson v and let those on gt "hopdown,"yielding the set of pitch
+classes {O, 1,... B-l). We know that for n ranging from 1 to A+B-1,
+elements of the form (bk(-l)k(A-n))modB are pitch classes in scale order.
+Let n range from A to A+B-1. Then the value (A-n) ranges from 0 to
+B-1. Resetting this expression to n, the mapping n->[bk(-l)kn]modB ar-
+
+rangesthe pitch classes of the scale in order.3'
+
+Thus the inverse mapping n-->[bk-(-1)kn]modB returns pitch classes
+
+from scale orderto formal fifths order;that is, to the orderin which the
+pitch classes are generated.It follows that every formal fifth is spanned
+by [bk-l(-l)k]modB scale steps. This recaptures the definition of well-
+
+formed scales which was given on p. 133.
+Each pair,v and gtas defined, gives rise to a distincthierarchyof regions, ruled by the continuedfractionof logvgt.Each pair also gives rise
+to a hierarchyof well-formed scales in which v is taken as the equivalence relationand .tdeterminespitch classes. Assuming t'>ug, spaces
+the
+Pv, and Pv/ producethe same hierarchyof well-formedscales if gvk=g'
+for some positive integerk. Thus, assumingoctave equivalenceon both,
+the octave-fifthregion R(4,7) P* and the octave-twelfthregion R( 1,7) in
+in
+P both producethe seven-notediatonic scales.
+VII
+The theory of regions provides a perspectivefrom which to consider
+various issues in medieval theory. It prompts a reconsiderationof the
+often-discussedrelationshipsamong tetrachords,
+hexachords,and gamuts. As we have seen, many of the tonal spaces employed by medieval
+139
+
+theoristsare regions, which have a structure
+nicely suitedto a numberof
+concerns.While thereis no evidence thatwritersof the ninthto eleventh
+centuriespossessed the generalnotion of a region, they were bettersituated in some respects than we are today to intuit the importanceof the
+variousdiatonicregions.Ourtwentieth-century
+assumptionof an embedchromaticsometimesblindsus
+ding of the diatonicin an equal-tempered
+to transformational
+features of the system. For example, the notion of
+affinity has lost its significance for us: if we want the same tonal environmentarounda differentnote, we simply transpose.The writersof the
+early medieval treatises were sensitive to the affinities in part because
+they were inclined to treatpitch class, as we call it today,more flexibly.
+Depending upon the theoreticalcontext, medieval authorsmight invoke
+variousintervalsof periodicityandconsequentnotionsof pitchclass. For
+example they might employ the usual seven letter names, A-G; or the
+four dasian qualities, Archoos, Deuteros, Tritos, Tetrardos; even the
+or
+threesyllables, ut, re, mi; or they mightchoose not to considerpitchclass
+at all, as in some of the alphabeticgamuts (e.g., A-P) found in Boethius
+and in the Enchiriadistreatises.
+In practicalterms, the problemof maintainingthe perfectionof two
+intervals simultaneouslyin parallel organum is solved within the allembracingsymmetryof the region.The finitudeof regionswas congenial
+to the medieval mind as well, consistent with the notions of gamut and
+ambitus.The identificationof the Limitedwith orderlinessand the Good
+has a philosophicalbasis in a tradition leads fromPythagoras
+that
+through
+Aristotle:
+Evil partakes the nature the Unlimited,
+of
+of
+Goodof the Limited,as the
+Pythagoreans
+conjectured.32
+Regions and scales are fundamentallydifferent in conception. One
+thinks of scales as being, at least potentially,infinitely repeatingin unboundedpitch space; hence the informationthey bear may be encapsulated in a set of pitch classes. Regions, on the otherhand,are necessarily
+bounded.
+Consider,for example, the hexachord,ubiquitousamong the several
+diatonic regions we have identified.While its status as a scale is questionable,as a region it is the tonal space in which the perfectionof fourth
+and fifth is maintained.Dahlhaus astutely pointed out its failure as a
+scale, but while Dahlhaus, Handschinand others have recognized the
+usefulness of hexachords in combination, they have disparagedit, in
+Dahlhaus'sterms, as "a mere auxiliaryconstruction." itself, it is more
+In
+properlyviewed as a self-containedtonalmatrix,containingas it does the
+three species of fourths, as John of Afflighem points out (Babb 1978,
+1 1), as well as the two species of fifths thatdo not enclose the tritone.
+This study has also shed light upon the nature of diatonicism in a
+140
+
+broad sense. Most of the regions that we have discussed have belonged
+to a family of diatonicregions.The intervalof the apotomeis the constant
+of
+here, acting as the limit for all of them, including the tetrachord the
+finals and the hexachord.Those who call the Guidonianhexachordthe
+diatonic hexachordare, then, theoreticallyjustified. (The notion of the
+apotome itself has been generalized by Regener (1973), Blackwood
+(1985), and Careyand Clampitt(1989).)
+Everyregioncontainswithinitself two possible ways of spreadingout
+into pitch space with one or the other of its generatorschosen to be the
+interval of periodicity.The result of either of these choices is a wellformed scale. Just as the hexachords were for Wilhelm of Hirsau the
+sedes troporum,the seats of the modes, so are the well-formed scales
+enthronedin the regions.
+
+_
+
+""~~t~S~
+h!,
+
+I
+
+1
+
+141
+
+NOTES
+1. The diagram and notes on its transmission are found in Schmid (1981, 111).
+Musica and Scolica enchiriadis are usually treated as a pair of treatises. Whether
+they are by the same author and their relative and absolute chronology are open
+questions. Phillips, in her 1984 dissertation, discusses these matters, as well as the
+curious titles of these works, and places them in their historical context. Erickson
+(1995) is the first translation based on Schmid's edition.
+2. The Pythagorean tradition transmitted by Boethius accepted five consonances:
+diatessaron (fourth), diapente (fifth), diapason (octave), diapason cum diapente
+(twelfth), and disdiapason (double octave). Boethius acknowledged that Ptolemy
+accepted six consonances, with the addition of diapason cum diatessaron (eleventh). Boethius's citation of Ptolemy is noted explicitly in Musica enchiriadis
+(Schmid 1981, 44). Boethius's contemporary Cassiodorus followed Ptolemy in
+the matter of the consonances, with his dictum "Symphoniae autem sex." (Mynors
+1937, 145; also Strunk 1950, 89.) Other ninth-century treatises-notably, Musica
+disciplina of Aurelian of R66me and De institutione musica of Hucbald-follow
+Cassiodorus and use similar language. See Phillips 1990, 108-18, and 1984, chapter 6, especially pp. 240-56.
+3. The diagram is found in Steglich's edition (1911, 33). The Quaestiones in musica
+is probably from the late eleventh or early twelfth century. It is attributed by
+Steglich to Rudolph of St. Trond (1070-1138). Smits van Waesberghe (1949,
+98-101), following a suggestion by P. Colestin Vivell, argues that the author was
+Franco of Liege (1047-1083?).
+4. The choice of pitch class F for the origin is simply for notational convenience. In
+this system, new octaves begin on F.
+5. "Et verit6 est que ceste figure est plainne de tres grans misteres et peust l'en prendre en elle consideracions tres excellentement belles et merveilleuses, et contient
+en vertu toute musique speculative." Oresme, Livre du ciel, translation of Aristotle's De celo, book 2, chapter 18, translation by Michael Long, cited in Long
+1990. We are grateful to Professor Long for sharing with us a copy of his paper,
+and for information about Oresme.
+3B
+6. Either 2A > 3B or 3B> 2A. Whichever of 2A or 3 is greater than unity will be
+g
+referred to as the determining ratio.
+7. A version of R(3.2)
+appears in Zarlino's Istitutioni Harmoniche (1558, 17) in a passage concerning musica humana. Although the values are tripled, (to 6, 9, 12, 18),
+the accompanying diagram clearly shows the symmetry characteristic of any
+region.
+8. According to Markovits (1977, 30-31, 44) this is the only scale in early medieval
+literature formed according to a monochord division based on C. Hucbald discusses a scale associated with water organs that begins on C. (Babb 1978, 24-25.)
+9. "Quoniam autem C litteram, que apud veteres tertia habetur, pro certo comperimus ex numerorum ratione fore primam."(Coussemaker [1867] 1963, 2:85.) De
+modorumformulis, treated as a work of Guido of Arezzo by Coussemaker, is listed
+as opus dubium by Smits van Waesberghe (1953, 143). Handschin considers it
+definitely not by Guido, but by someone closely associated with him (1948, 337).
+10. The possibility exists that the author of De modorumformulis is making a reference to a Middle Platonic tradition found in Timaios of Locri and Eudorus (Tobin
+
+142
+
+of
+1985,6) wherethe proportions the worldsoul areestablished
+uponthe number
+384.
+11.The determining
+ratiosgraduallyapproach1, i.e., unison, and from 312/219
+on
+would be called "commas."
+Crocker(1963, 197) drew attention the sense in
+to
+whichthe tone,the Pythagorean
+minorthird,limma,andapotome
+mayall be consideredcommas.
+12. One can describeall regionsby a phraselike "thelargestdiatonicspanin which
+octavesandfifthsmaybe maintained." is aneasy test for a region,butit does
+This
+notallowone to construct
+As
+of
+regions. we will see below,eachhierarchy regions
+of
+scale and
+scales;givena well-formed
+gives riseto two hierarchies well-formed
+its generator
+(e.g., the diatonicscale andfifth),one can recovera region.
+13.Ourconception periodicity thefifthis supported Phillips's
+of
+at
+(1984, 167-68)
+by
+of
+of
+interpretation therelevant
+passages."[T]heinterval a fifthis thebasisof this
+at
+system.A diapason
+systemincludessevendiscretepitcheswithcorrespondence
+the octave;the dasiapitchcontentcontainsfourdiscretepitcheswith correspondenceat the fifth.To identifythetetrachord thefundamental
+as
+interval the sysof
+tem wouldbe equivalent describing seventhas the fundamental
+to
+the
+interval
+of
+the diapasonsystem." the theoretically
+On
+extensiblenature the system:"The
+of
+totalpitchcontentis described the author Musica,chapter1, as infiniteand
+in
+by
+et
+natumovingfour by four throughmusicalspace: 'et intendendo remittendo
+raliterordo continuatur, semperquatuor quatuor
+ut
+et
+eiusdemconditionissese
+consequantur."'
+14.Augmented
+octavesdo notoccurin theorganum
+described theEnchiriin
+practice
+adis treatises. Musicaenchiriadis is attributed a "marvelous
+In
+this
+to
+in
+change"
+theuppervoice or voices("mirabili
+mutatione,"
+Schmid1981,34), andin theconis
+that a voice
+cludingpages of Scolica enchiriadis,the explanation presented
+As
+eight stepsfroma givenvoice is a doubling. such,it respectsthe octaveas the
+of
+greatestconsonanceandfollows the pattern tones and semitonesof the given
+thanfollowingthepathof an independent
+voice in its locationon the
+voice, rather
+dasianscale. "Thevoice ... does not follow the orderof its own place, but the
+orderof the voice to whichit consonantly
+Schmid,155:"vox... non
+responds."
+sui
+sed
+sequitur loci ordinem, eius, cui consonanter
+respondet."
+15.Throughout
+sectionIV we will referto notesby the lettersusedin mostmedieval
+treatises
+fromabout1000on. Pseudo-Odo Dialogusde musicausedRomanletin
+tersfor the two octavesof the Greater
+PerfectSystemwhichHucbald reorgahad
+nizedaround TSTtetrachord the finals.TheDialogusauthor addedthe
+the
+of
+also
+low r. Guido of Arezzo extendedthe gamutwith the notes above aa to form
+another
+tetrachord. theadvent the solmization
+With
+of
+system,e la or ee cameinto
+use. Thusthe completed
+gamut:
+FABCDEFGab~cdefgab
+
+cde
+
+ablcde
+
+16.Theavailability B6(on the authority theGreeksynemmenon
+of
+of
+meant
+tradition)
+thatsometimesportionsof chantcould fit preciselyat these otherlocationswith
+theuse of thisnote;occasionally
+theycouldonlyfit at theselocations,if E,s or F#s
+wereto be avoided.
+17. Pesce(1987) surveysthetreatment theaffinities
+of
+fromHucbald theEnchiriand
+adis treatises Glarean. termaffinitas introduced Guidoof Arezzo.
+to
+The
+was
+by
+143
+
+18. See Crocker
+of
+(1972) for a discussionof the advantages a smallscalarmodule,
+andparticularly importance thetetrachord the finals.Theuse of thetetrathe
+of
+of
+chordof the finalsas thebasicunitof construction firstfoundin theWestin the
+is
+Enchiriadis
+treatises in Hucbald.
+and
+19.Guido does not name the treatiseat this point, but he is clearly criticizingthe
+dasiansystem(Babb 1978, 62). Hermannus
+mentionsMusicaenchiriadis his
+in
+somewhatdifferentlyformulatedcriticism(Ellinwood 1936, 23-24), and his
+later(56) referexplicitlyto thedasianscale.
+scathingcomments
+20. Guido acknowledgesseven pitch classes by quotingVergil approvingly:
+"...
+vocum."
+(Babb1978,62.)
+septemdiscrimina
+21. Crocker
+a
+treatment Hermannus's
+of
+Bothinflu(1972) presents pertinent
+theory.
+encedby andcriticalof Handschin,
+Crocker
+in
+placesHermannus theEnchiriadis
+muchas Handschin Guido.
+did
+tradition,
+22. Different
+versionsof this diagram foundin the workof latertheorists,
+are
+Johnof
+of
+1950,75 andBabb 1978, 114) andJacques
+Afflighem(SmitsvanWaesberghe
+on
+1973,77). John'sdiagram
+Liege (Bragard
+placesthe G a 4trichord the left side
+andthe F G a trichord the right,andeliminates indications direction
+on
+the
+of
+on
+the fourthsand fifths.Jacquesprovidesan extendedcommentary. diagram
+His
+of
+improves
+uponGuido'sby takingJohn'sarrangement its elements,andannoenumeration thespeciesof thefifthsandfourths,
+of
+and
+tatingit withHermannus's
+his categories naturalis and formalis. The late eleventh-century Commentarius
+
+also
+the
+and
+anonymous treats diagram theaccompanying
+passageatlength(Smits
+van Waesberghe
+1957, 126-30). The diagramis discussedin Crocker(1972,
+24-25), Handschin
+(1948, 324-25), andOesch(see note23).
+23. Oesch, in his MGGarticleon the hexachord,
+the
+transforms diagram just this
+in
+is
+way.As we show,thispresentation closerto Guido'stext.Oesch,col. 351:"The
+trichord
+c-d-e therebyassumesa centralposition,since aboveit f-g-a is adjoined
+andbelowit G-A-B,suchthatbothhexachords, G andon c, complement
+on
+each
+otherwithinthe heptatonic."
+c-d-e nimmtdeshalbeine zentrale
+("Das trichord
+so
+Stellungein, weil sich ihmnachobenf-g-a undnachuntenG-A-HanschlieBt,
+daBsich die beidenHexachorde G undc zurHeptatonik
+auf
+erganzen.")
+24. Trans.
+Babb(1978,65). "Omnes
+modorum tribus
+his
+itaquemodidistinctionesque
+vocibus.... Ergo omnes aliae voces cum his aliquamhabentconcoraptantur
+diam, seu in depositioneseu in elevatione."
+(Smits vanWaesberghe
+1955, 127notes on the transmission this text show,
+28.) As Smits van Waesberghe's
+of
+.C.D.E.is placedafterthe word"vocibus" sixteenof the sources,andappears
+in
+as a superscription vocibusorhis in threeothersources.(1955, 127.)Thedisover
+tinctions the modesaretheplagalforms,as his anonymous
+of
+commentator the
+of
+late-eleventh
+The
+also
+his
+century
+explains. commentator explicates tribusvocibus
+1957, 126.)
+by .C.D.E.(SmitsvanWaesberghe
+25. Coussemaker
+([1867] 1963, 4:225). See Dahlhaus(1955, 290), and Dahlhaus
+(1990, 170-71).
+26. An analogous
+complexof pentatonic
+regionsexists,wherethe limma 25~) is the
+commondetermining
+ratio.The region corresponding the hexachordis the
+to
+tetrachord
+tetra(e.g., CDFG,GACD),the regionR(3,2)in P'. Two overlapping
+chords cover either the pentatonicoctave-fifthregion or octave-fourth
+region,
+dependingon their order.The pentatonicoctave-fourth
+region itself spans an
+octave.The regionin P- comparable the tetrachord the finalsis R(2,1), which
+to
+of
+144
+
+reduces to the minor third, again a symmetrical subset of the pentatonic tetrachordal region. See Gauldin (1983, 41-46) for a discussion of pentatonic systems
+and their tetrachordalorganization.
+27. See Carey and Clampitt (1989, 202). Strictly speaking, this equivalence holds for
+what we called non-degenerate well-formed scales, that is, well-formed scales
+with two different step sizes. All equal-interval scales trivially satisfy the definition of well-formedness. These are the degenerate well-formed scales (1989, 200).
+See also Chalmers (1975) for a discussion of Moments of Symmetry (MOS), a
+class of scales first defined by Ervin Wilson in 1964 in a private communication to
+Dr. Chalmers. MOS, MP scales, and well-formed scales are all essentially equivalent concepts.
+28. Balzano (1980) appeals to this isomorphism in the special case A=3, B=4 (more
+generally, A=k, B=k+ 1) to show how the usual chromatic may be considered to be
+the direct product of a diminished seventh chord and an augmented triad. He
+remarks that the usual diatonic is a compact region on the lattice corresponding to
+this direct product space. This is not a region in our sense, but it is the reflected
+image of a chromatic cluster, as Balzano remarks, and the chromatic cluster (more
+precisely, the chromatic hexachord) is a region in the space generated by 2"/3and
+21/4,equal-tempered major and minor thirds.
+29. For more information on continued fractions, see Carey and Clampitt 1989, 197200.
+30. The expression t is more general here than the analogous expression in our 1989
+article, and v, replacing 2, completely generalizes the notion of formal octave.
+31. See Carey and Clampitt (1989, 199), and "Errata,"
+Music Theory Spectrum 12/1
+(1990): 171.
+32. Aristotle, Nicomachean Ethics. i-6; 1096 b 5. Cited in Guthrie (1988, 304).
+
+LIST OF WORKS CITED
+Babb, Warren. 1978. Hucbald, Guido, and John on music: three medieval treatises.
+Translated by Warren Babb. With introductions by Claude Palisca, ed. Index of
+Chants by Alejandro Enrique Planchart.New Haven and London: Yale University
+Press.
+Balzano, Gerald. 1980. The group-theoretic description of 12-fold and microtonal
+pitch systems. ComputerMusic Journal, vol. 4, no. 4: 66-84.
+Barbera, Andr6. 1984. The consonant eleventh and the expansion of the musical
+tetractys: a study in ancient Pythagoreanism. Journal of Music Theory, vol. 28, no.
+2: 191-223.
+Blackwood, Easley. 1985. The structure of recognizable diatonic tunings. Princeton:
+Princeton University Press.
+Bower, Calvin. 1989. Boethius Fundamentals of music. Translatedby Calvin Bower.
+New Haven; Yale University Press.
+Bragard, Roger, ed. 1973. Jacobi Leodiensis Speculum musicce VI (Liber Sextus).
+Corpus Scriptorum de Musica 3. American Institute of Musicology.
+Carey, Norman, and David Clampitt. 1989. Aspects of well-formed scales. Music Theory Spectrum vol. 11, no. 2: 187-206.
+Chalmers, John. 1975. Cyclic scales. Xenharmonikon vol. 4: 69-78.
+145
+
+Clough, John, and Gerald Myerson. 1985. Variety and multiplicity in diatonic systems. Journal of Music Theory vol. 29, no. 2: 249-70.
+Crocker, Richard. 1963. Pythagorean mathematics and music. Journal of Aesthetics
+and Art Criticism vol. 22: 189-98, 325-35.
+.1972. Hermann's major sixth. Journal of the American Musicological Society vol. 25: 19-37.
+Coussemaker, Edmond de. [1867] 1963. Scriptorum de musica medii cevi vols. 2 & 4.
+Hildesheim: Georg Olms Verlagsbuchhandlung.
+Danielou, Alain. 1943. Introduction to the study of musical scales. London: The India
+Society.
+Dahlhaus, Carl. 1955. Die Termini Dur und Moll. Archiv fir Musikwissenschaft vol.
+12, no. 4: 280-96.
+.1990. Studies on the origin of harmonic tonality. Translated by Robert
+Gjerdingen. Princeton: Princeton University Press.
+Ellinwood, Leonard. 1936. Musica Hermanni Contracti. Eastman School of Music
+Studies No. 2. Rochester: University of Rochester.
+Erickson, Raymond. 1995. Musica et Scolica enchiriadis. Translation and commentary by Raymond Erickson. Introduction by Claude Palisca, ed. New Haven and
+London: Yale University Press.
+Gamer, Carleton. 1967. Some combinational resources of equal-tempered systems.
+Journal of Music Theory, vol. 11, no. 1: 32-59.
+Gauldin, Robert. 1983. The cycle-7 complex; relations of diatonic set theory to the
+evolution of ancient tonal systems. Music Theory Spectrum, vol. 5: 39-55.
+Guthrie, Kenneth. 1988. The Pythagorean sourcebook and library. Grand Rapids:
+Phanes Press.
+Handschin, Jacques. 1948. Der Toncharakter;Eine Einfiihrung in die Tonpsychologie.
+Zurich: Atlantis Verlag.
+Harbinson, Denis, ed. 1975. Willehelmi Hirsaugensis Musica. Corpus Scriptorum de
+Musica 23. American Institute of Musicology.
+Herlinger, Jan, ed. 1987. Prosdocimo de'Beldomandi Brevis summula proportionum
+quantum ad musicam pertinet and Parvus tractatulus de modo monacordum dividendi (A short summary of ratios insofar as theypertain to music andA little treatise on the method of dividing the monochord). A new critical text and translation
+by Jan Herlinger. Lincoln and London: University of Nebraska Press.
+Holladay, Richard. 1977. The Musica enchiriadis and Scholia enchiriadis: a translation and commentary. Ann Arbor: University Microfilms International.
+Long, Michael. 1990. The teeth of the dragon: astronomy and music in the later middle ages. Paper delivered at meetings of AMS, Oakland.
+Lucas, Edouard. 1891. Theorie des nombres. Paris.
+Markovits, Michael. 1977. Das Tonsystemder abendldndischen Musik imfriihen Mittelalter. Publikationen der Schweizerischen Musikforschenden Gesellschaft. Bern
+and Stuttgart:Paul Haupt Verlag.
+Mynors, Roger Aubrey Baskerville. 1937. Cassiodori senatoris Institutiones. Oxford:
+Oxford University Press.
+Oesch, Hans. 1949-51. Die Guidonische Hexachord. In Die Musik in Geschichte und
+Gegenwart, ed. Friedrich Blume, VI, cols. 349-52. Kassel: Barenreiter.
+Pesce, Dolores, 1987. The affinities and medieval transposition. Bloomington and
+Indianapolis: Indiana University Press.
+
+146
+
+Phillips, Nancy. 1984. Musica and Scolica enchiriadis: The literary, theoretical, and
+musical sources. Ph.D. diss., New York University, 1984. Ann Arbor, Michigan:
+University Microfilms International.
+. 1990. Classical and late Latin sources for ninth-centurytreatises on music. In
+Music theory and its sources: antiquity and the middle ages, ed. Andre Barbera,
+100-35. Notre Dame, Indiana: University of Notre Dame Press.
+Regener, Eric. 1973. Pitch notation and equal temperament. Berkeley: University of
+California Press.
+Sachs, Curt. 1943. The rise of music in the ancient world: east and west. New York:
+W. W. Norton & Company.
+Schmid, Hans, ed. 1981. Musica et Scolica enchiriadis una cum aliquibus tractatulis
+adjunctis. Bayerische Akademie der Wissenschaften: Veroffentlichen der musikhistorischen Kommision, III. Munich.
+Smits van Waesberghe, Joseph. 1949. Some music treatises and their interrelation:a
+school of Liege c. 1050-1200? Musica Disciplina vol. 3: 23--31, 95-118.
+,ed. 1950. Johannis Affligemensis De musica cum tonario. Corpus Scriptorum
+de Musica 1. Rome: American Institute of Musicology.
+, ed. 1951. Aribonis De musica. Corpus Scriptorum de Musica 2. Rome:
+American Institute of Musicology.
+.1953. De musico-paedagogico et theoretico Guidone Aretino eiusque vita et
+moribus. Florence: Leonis S. Olschki.
+,ed. 1955. Guidonis Aretini Micrologus. Corpus Scriptorum de Musica 4.
+American Institute of Musicology.
+,ed. 1957. Expositiones in Micrologum Guidonis Aretini. .Amsterdam:NorthHolland Publishing Company.
+Spitta, Philipp. 1889. Die Musica enchiriadis und ihre Zeitalter. Vierteljahrsschriftfiir
+Musikwissenschaft vol. 5: 443-82.
+Steglich, Rudolph. 1911. Die Quaestiones in musica: ein Choraltraktatdes zentralen
+Mittelalters und ihr mutmafilicher Verfasser Rudolf von St. Trond (1070-1138).
+Leipzig: Breitkopf & Hartel.
+Strunk, Oliver, ed. 1950. Source readings in music history: from classical antiquity
+through the romantic era. New York:W. W. Norton.
+Tobin, Thomas. 1985. Timaios of Locri, On the Nature of the Worldand the Soul. Text,
+translation, and notes by Thomas Tobin. Chico: Scholar's Press.
+Zarlino, Gioseffo. 1558. Le Istitutioni harmoniche. A Facsimile of the 1558 Venice
+edition. New York: Broude Brothers.
+
+147
+
+

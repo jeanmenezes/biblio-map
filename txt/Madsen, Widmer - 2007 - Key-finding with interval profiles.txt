@@ -1,0 +1,472 @@
+KEY-FINDING WITH INTERVAL PROFILES
+Søren Tjagvad Madsen
+
+Gerhard Widmer
+
+Austrian Research Institute
+for Artiﬁcial Intelligence
+(OFAI), Vienna
+
+Department of
+Computational Perception,
+Johannes Kepler
+University, Linz
+
+ABSTRACT
+
+music could reveal its tonality simply by calculating the
+correlation of the distribution with each of the 12 major
+and 12 minor proﬁles, and predicting the highest correlated key [6].
+Pitch class distributions can also be estimated from audio (e.g. [4]), and calculating the correlation with key proﬁles seems to be the preferred way to do key-ﬁnding in
+audio as well, although other approaches exist (e.g. [1]).
+The correlations with key proﬁles are often used as a
+basic measure of key in a (short) passage of music, and
+more elaborate key-ﬁnding algorithms can be built from
+these basic measures (see for example [13, 12, 5, 11].
+In this paper we will not propose a full-blown keyﬁnding algorithm, but the aim is (at least for the moment)
+to examine the capability of interval proﬁles and make a
+comparison with the well known pitch class proﬁles.
+
+Comparing pitch class distributions with predeﬁned key
+proﬁles has become the preferred method for key-ﬁnding
+in tonal music, since it was ﬁrst proposed by Krumhansl
+and Schmuckler in 1990 [6].
+When determining keys using this strategy, information about the temporal order of the notes is not taken into
+account, although this might contribute additional information relevant for key-ﬁnding.
+An obvious extension of the pitch class proﬁles is to
+look at distributions of intervals – calculate scale degree
+transition proﬁles. This idea has not been given much attention in previous research. We conduct a data driven
+experiment where pitch class proﬁles and interval proﬁles
+are learned from key-annotated music and evaluated on a
+key-ﬁnding task.
+
+2.1. Pitch Class Proﬁles
+
+1. INTRODUCTION
+
+From the Krumhansl-Kessler (K-K) proﬁles in Fig. 1 it
+seems that the tonic is the most stable scale degree, followed by the other two members of the triad. In major,
+the ﬁfth is more emphasised than the third, whereas in
+minor it is the other way around. Then the fourth, sixth,
+second and seventh degree of the diatonic scale follows.
+Non-diatonic scale degrees are considered the least stable.
+Parncutt notes that the actual distribution of pitch classes
+of a passage of tonal music corresponds closely to the key
+proﬁle [10], suggesting that the proﬁles can be learned
+from data. In Fig. 1 we have also depicted the proﬁles
+learned from a collection of Finnish folk songs (see below) along with the proﬁles learned from inventions and
+fugues by J. S. Bach. Indeed the similarity with the K-K
+proﬁles is noticeable. The most striking difference is that
+many non-diatonic tones are given a much lower weight.
+Temperley proposed some changes to the proﬁles, giving the major and minor proﬁle the same mean (in order to
+remove the inherent preference for the minor proﬁle) [14].
+Also the 7th degree (11th pitch class) in the minor proﬁle
+was given a higher value, resulting in a more correct classiﬁcation.
+It seems plausible that it takes different key proﬁles to
+perform well in key-ﬁnding on different data sets. Since
+we are examining how pitch class proﬁles and interval
+proﬁles can be used for key-ﬁnding, we will test proﬁles
+
+Pitch class proﬁles have in the last decades proven to be
+useful for key-ﬁnding. In this paper we propose and evaluate a natural extension of the pitch class proﬁles: interval
+proﬁles. A pitch class proﬁle weights the 12 chromatic
+tones within an octave according to prevalence within a
+mode – i.e. pitch class proﬁles have been suggested for
+major and minor keys. Similarly an interval proﬁle weights
+for two successive notes the 12 × 12 possible tone transitions within the octave.
+2. KEY PROFILES
+Krumhansl and Kessler derived key proﬁles for the major
+and minor modes – representing the relative importance
+of the tones in the chromatic scale [7]. These pitch class
+proﬁles were determined by asking listeners to rate how
+well ‘probe tones’ ﬁtted into various musical contexts (cadences in major and minor). Figure 1 present major and
+minor proﬁles resulting from the experiments. The proﬁles shown are rooted at C – the distribution for a transposed key is equivalent, which gives us a total of 24 pitch
+class proﬁles.
+A key-ﬁnding algorithm known as the KrumhanslSchmuckler algorithm was proposed, based on the idea
+that the pitch class distribution of the notes in a piece of
+
+212
+
+7
+K−K
+Temperley
+FinFolk
+Bach
+
+6
+
+Weight
+
+5
+4
+3
+2
+1
+0
+
+C
+
+E
+
+D
+
+B
+
+A
+
+G
+F
+Scale degree
+
+7
+K−K
+Temperley
+FinFolk
+Bach
+
+6
+
+Weight
+
+5
+
+Figure 2. Major and minor interval proﬁles. Dark squares
+correspond to high values. Rows correspond to the ﬁrst
+note of the intervals, columns to the second.
+
+4
+3
+2
+1
+0
+
+C
+
+D
+
+Eb
+
+G
+F
+Scale degree
+
+Ab
+
+Bb
+
+Figure 1. Major and minor pitch class proﬁles.
+learned from real data, but we also include the K-K proﬁles and the proﬁles by Temperley as a reference.
+2.2. Interval Proﬁles
+An obvious extension of the pitch class proﬁles is to look
+at distributions of intervals, or more correctly, calculate
+scale degree transition proﬁles (henceforth ‘interval proﬁles’). The rationale is that the order of the notes might
+convey knowledge about the key. Two equal pitch class
+distributions might have different note transitions which
+might imply different tonalities. [2, 9]
+Krumhansl did an additional probe tone experiment,
+empirically collecting relatedness ratings for all possible
+ordered pairs of tones presented after C major and C minor key-deﬁning contexts (as cited by [15]). In [15] a keyprediction model based on the K-K pitch class proﬁles was
+compared to a key-prediction model based on scale degree
+transitions. Both models were tested on a dynamic keyprediction task, and compared to human key labellings of
+the same piece. The predictions from both models were
+found to correlate equally well with the human evaluation.
+The interval proﬁles thus did not seem to be more powerful than the simpler pitch class proﬁles, and maybe this
+is why the method has not been developed further for keyﬁnding. However, Li and Huron discovered that a scale
+degree transition model turned out to be successful in melodic modeling [8]. The model was shown to be more capable of learning note transitions (in both major and minor
+modes) than a model trained on intervals alone.
+Our scale degree transition proﬁles will be learned from
+key-annotated data. A proﬁle is now a 12 × 12 matrix
+with a transition probability for each pitch class transition. As with the pitch class proﬁles, separate proﬁles will
+be learned for major and minor keys. We will experiment
+with undirected interval proﬁles as well as directed proﬁles (distinguishing ascending and descending intervals).
+
+213
+
+Figure 3. Interval proﬁles for ascending and descending
+intervals in minor.
+3. APPROACH
+3.1. Learning Proﬁles
+Given a sequence of notes, along with a key descriptor
+stating root note as an integer 0 ≤ r ≤ 11 and mode
+m ∈ {maj, min}, we can learn pitch class proﬁles and
+interval proﬁles. Count tables are maintained for this purpose. Music pieces in major and minor will update different tables. The tables are kept with respect to C as root, so
+a note with (MIDI) pitch p from a ﬁle labeled as q major
+will update entry (p − q mod 12) in the major pitch class
+count table (with the value 1).
+The interval count tables are updated for every pair of
+consecutive notes in the ‘training’ data. Entry ((p1 −
+q mod 12),(p2 − q mod 12)) is updated in the interval
+count table for notes with pitches p1 and p2 occurring in a
+key rooted on q (also according to mode). Thus intervals
+greater than 12 semitones are reduced by the octave(s).
+We also keep directed interval tables for both major and
+minor. The ascending tables are updated when p1 ≤ p2
+and the descending tables when p1 ≥ p2 .
+After updating count tables from a number of melodies,
+a proﬁle is calculated stating the probability for every entry. Fig. 1 shows the pitch class proﬁles (scaled) from the
+Finnish folk song database, and Fig. 2 shows interval proﬁles for the same data set. Note the interval proﬁles are
+not symmetric; i.e. in minor E -D seems more frequent
+than D-E . Fig. 3 depicts the directed interval proﬁles for
+minor keys.
+
+Dur. weighting
+Flat input
+K-K
+Temperley
+Triad
+Learned
+Interval
+Directed Interval
+
+3.2. Predicting a Key
+Given a melody of which we want to determine the key, a
+count table is computed from its pitches (using the same
+methods as described above), and we calculate the correlation of this ‘input proﬁle’ with each of the major and
+minor proﬁles when shifting the root one semi-tone at a
+time through the 12 possible positions (interval proﬁles
+are shifted along the diagonal). The key giving the highest correlation is predicted. The correlation of a pitch class
+proﬁle and a pitch class distribution vector (input vector)
+is calculated as the inner product; the correlation between
+interval proﬁle Pi and interval distribution Di matrices is
+found by summing the product of corresponding entries:
+cor(Pi , Di ) = j k Pi (j, k)Di (j, k). 1
+
+No
+No
+58.3%
+69.8%
+63.6%
+76.5%
+74.8%
+72.9%
+
+Yes
+64.8%
+62.2%
+29.3%
+62.3%
+77.5%
+74.7%
+
+Yes
+No
+Yes
+61.4% 64.8%
+71.0% 62.2%
+67.6% 29.3%
+80.2% 63.2%
+78.7% 78.6%
+76.1% 75.4%
+
+Table 1. Key-prediction correctness for the Finnish Folk
+Song Database (three fold cross-validation).
+Flat input
+K-K
+Temperley
+Triad
+Learned
+Interval
+Directed Interval
+
+4. EVALUATION
+4.1. Key-Annotated Data
+The Finnish Folk Song Database [3] contains more than
+8000 key-annotated melodies from different areas of Finland. This collection of MIDI ﬁles is very suitable for our
+experiments. A total of 8325 ﬁles have been examined in
+the experiments. 4956 melodies were labeled with a major key, 3369 ﬁles were annotated as being in minor. A
+small number of ﬁles (288) having ambiguous or no key
+information were discarded.
+The ﬁles were split into three sets of each 2775 ﬁles. In
+turn two sets were used for building proﬁles and the third
+was left out for evaluation, so each set served as evaluation
+once (three fold cross-validation).
+A second corpus of data has been compiled of 384
+chorales and 30 inventions by J. S. Bach. In these polyphonic ﬁles, note transitions were determined from voice
+information. We will test the different proﬁles’ ability to
+determine the key of each of the 48 fugue subjects from
+the two books of ‘Das Wohltemperierte Klavier’.
+
+No
+67.7%
+70.9%
+68.8%
+79.7%
+80.7%
+79.6%
+
+Yes
+64.8%
+62.2%
+29.3%
+65.8%
+79.4%
+77.4%
+
+Table 2. Duration weighted and per-ﬁle equalised.
+learning proﬁles) we can update the count tables with values proportional to the durations of the notes. The right
+half of Table 1 shows the prediction scores, when applying note duration weighting. Weighting certainly has a
+positive effect – all methods increase in correctness. The
+learned pitch class proﬁle is now the most successful. 2
+When learning note transitions from melodies, not only
+information about note transitions are learned – also melody
+speciﬁc information is learned. Each ﬁle used for training
+will to some extent bias the model toward a preference
+for similar melodies. This side effect is thought to cancel
+itself out when using a large corpus. However, we tried
+a more active approach: when keeping track of the intervals occurring in a training ﬁle, only the square root of
+the count value for each interval was entered into the table that in the end the proﬁle is constructed from. In this
+way frequently occurring intervals in one ﬁle were given
+less importance. Table 2 shows that this ﬁle equalisation
+has a positive effect on the interval proﬁles. 3 In fact the
+interval proﬁles perform overall slightly better than most
+successful pitch class proﬁle.
+A benchmark problem in key ﬁnding seems to be the 48
+fugue subjects from ‘Das Wohltemperierte Klavier’. For
+this problem, proﬁles were learned from the Bach corpus
+described in section 4.1. All proﬁles were given duration
+weighted input, and in addition the interval proﬁles were
+subjected to the aforementioned ﬁle equalisation. Results
+
+4.2. Experiments and Results
+We are going to test four (pairs of) pitch class proﬁles:
+The K-K proﬁles, the proﬁles modiﬁed by Temperley, ﬂat
+triad proﬁles (having all entries of the triad 1.0 and all
+other 0.0), and the learned pitch class proﬁles (relative to
+the data). In addition we will evaluate the learned interval
+proﬁles and directed interval proﬁles.
+Temperley argues that ﬂattening the input vector (setting all nonzero entries to 1.0) can be an advantage in
+some cases [14]. We will run every experiment twice,
+with the weighted input and with the ﬂattened input vector/matrix.
+The left half of Table 1 shows key-prediction correctness scores for our algorithms. The interval proﬁle (with
+ﬂat input) performs here best overall. Krumhansl proposed to weight the input stimulus relative to the duration
+of the notes. When determining input values (and when
+
+2 The weighting according to duration seems to make less sense when
+speaking about intervals, but nevertheless when weighting the interval
+count tables proportional to the average duration of the two notes, a small
+improvement can be noticed.
+3 The effects on the other proﬁles have also been reported, although
+this is an interval proﬁle speciﬁc feature. Since the same methods are
+used for calculating a proﬁle from a set of ﬁles and an input vector/matrix
+for a single ﬁle, the prediction rates of the ﬁxed (not learned) proﬁles
+change (compared to the last experiment) because the input vectors are
+different.
+
+1 When determining the key based on directed intervals, the correlation is found by averaging the correlation of the input with the ascending
+and descending proﬁles respectively.
+
+214
+
+Flat input
+K-K
+Temperley
+Triad
+Learned
+Interval
+Directed Interval
+
+No
+32
+42
+32
+33
+34
+32
+
+Yes
+41
+38
+10
+26
+36
+31
+
+7. REFERENCES
+[1] Ching-Hua Chuan and Elaine Chew. Audio Key
+Finding: Considerations in System Design and Case
+Studies on Chopin’s 24 Preludes. EURASIP Journal
+on Advances in Signal Processing, 2007.
+[2] Diana Deutsch. The Psychology of Music. Academic
+Press, 2nd Edition, 1999.
+
+Table 3. Determining the keys of 48 fugue subjects.
+[3] Tuomas Eerola and Petri Toiviainen.
+Suomen
+Kansan eS¨ velm¨ t. Finnish Folk Song Database.
+a
+a
+Available: http://www.jyu.ﬁ/musica/sks/, 2004.
+
+are shown in integers in Table 3. The proﬁle proposed by
+Temperley is clearly capturing most of the concept here –
+this time the learned proﬁles were beaten by expert knowledge. Again we notice a small advantage of the interval
+proﬁles over the learned pitch class proﬁles. Also in this
+experiment, the directed pitch class model was found to
+be inferior to the joint proﬁle.
+When looking more closely at the prediction results,
+we notice that 7 times it occurs that the interval proﬁle
+(ﬂat input) is correct when the learned pitch class proﬁle
+is wrong. Conversely, in 4 cases the learned pitch class
+proﬁle is correct while the interval proﬁle (ﬂat input) is
+wrong.
+A similar observation can be made on the Finnish folk
+song data set. When comparing the results from the learned
+pitch class proﬁle and the interval proﬁle (weighted input)
+it shows that at least one of the two proﬁles is correct on
+84.7 % of the ﬁles.
+The fact that the proﬁles are not making the same mistakes indicates that they are capturing different concepts,
+and that it is likely that they can be combined into a better
+model.
+
+[4] Emilia G´ mez. Tonal description of polyphonic auo
+dio for music content processing. INFORMS Journal
+of Computing, 18(3):294–304, 2006.
+¨ u Izmirli. Template Based Key Finding From
+[5] Ozg¨ r ˙
+Audio. In Proceedings of the International Computer Music Conference, Barcelona, 2005.
+[6] Carol L. Krumhansl. Cognitive Foundations of Musical Pitch. New York: Oxford University Press,
+1990.
+[7] Carol L. Krumhansl and E. J. Kessler. Tracing the
+dynamic changes in perceived tonal organisation in
+a spatial representation of musical keys. Psychological Review, 89:334–368, 1982.
+[8] Yipeng Li and David Huron. Melodic modeling: A
+comparison of scale degree and interval. In Proceedings of the International Computer Music Conference, New Orleans, 2006.
+[9] Rie Matsunaga and Jun ichi Abe. Cues for key perception of a melody: Pitch set alone? Music Perception, 23(2):153–164, 2005.
+
+5. CONCLUSION
+We introduced the idea of learning scale degree transition
+proﬁles for key-ﬁnding as an alternative to, and a natural extension of the pitch class proﬁles. The KrumhanslSchmuckler key-ﬁnding algorithm was extended to handle
+interval proﬁles, and an evaluation was performed.
+Prediction rates using interval proﬁles were found to
+be fully comparable with the methods using pitch class
+proﬁles. We believe however, that a real advantage can be
+achieved by combining the methods. Future research will
+determine how correlated the prediction results from the
+different approaches are, and based on that we will look
+into the possibility of combining the approaches.
+We are also considering ways of transferring the concept of interval proﬁle into key-ﬁnding in audio.
+
+[10] Richard Parncutt.
+Tonality as ImplicationRealisation. In P. Vos and M. Leman, editors, Proceedings of Expert Meeting on Tonality Induction,
+pages 121–141, Holland and Belgium, 1999.
+[11] Geoffroy Peeters. Musical key estimation of audio
+signal based on hidden markov modelling of chroma
+vectors. In Proceedings of the 9th International Conference on Digital Audio Effects, Montreal, 2006.
+[12] Ilya Shmulevich and Olli Yli-Harja. Localized keyﬁnding: Algorithms and applications. Music Perception, 17(4):531–544, 2000.
+[13] David Temperley. What’s Key for Key? The
+Krumhansl-Schmuckler Key-Finding Algorithm Reconsidered. Music Perception, 17(1):65–100, 1999.
+
+6. ACKNOWLEDGMENTS
+This research was supported by the Viennese Science and
+Technology Fund (WWTF, project CI010). The Austrian
+Research Institute for AI acknowledges basic ﬁnancial support from the Austrian Federal Ministries of Education,
+Science and Culture and of Transport, Innovation and Technology.
+
+215
+
+[14] David Temperley. The Cognition of Basic Musical
+Structures. MIT Press, Cambridge, MA, 2001.
+[15] Petri Toiviainen and Carol L. Krumhansl. Measuring
+and modelling real-time responses to music: The dynamics of tonality induction. Perception, 32, 2003.
+
+

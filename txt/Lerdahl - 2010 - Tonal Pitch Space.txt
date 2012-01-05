@@ -1,0 +1,2163 @@
+Tonal Pitch Space
+Author(s): Fred Lerdahl
+Source: Music Perception: An Interdisciplinary Journal, Vol. 5, No. 3, Cognitive and
+Perceptual Function (Spring, 1988), pp. 315-349
+Published by: University of California Press
+Stable URL: http://www.jstor.org/stable/40285402
+Accessed: 22/11/2010 17:14
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=ucal.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+University of California Press is collaborating with JSTOR to digitize, preserve and extend access to Music
+Perception: An Interdisciplinary Journal.
+
+http://www.jstor.org
+
+MusicPerception
+1988, Vol. 5, No. 3, 315-350
+Spring
+
+©1988 by the regents of the
+university of California
+
+TonalPitchSpace
+FRED LERDAHL
+University of Michigan
+Models of pitch space have been developed in music psychology to
+account for perceived proximity among pitches, chords, or regions. This
+article introduces a different model that (1) treats pitches, chords, and
+regions within one framework, (2) correlates with the experimental data,
+and (3) connects in interesting ways with a variety of music theories.
+
+Introduction
+A numberof cognitivepsychologists,notably Longuet-Higgins
+(1962/
+1987) and Shepard(1982), haveproposedtheoriesof tonal pitchrelations
+in
+expressed the formof topologicalmodels.Thesetheoriesareintendedto
+capturethe sense of proximityand distanceamong pitch configurations
+thatlistenersbringto bearwhen hearingtonal pieces.
+A topologicalapproachto pitchrelationshas a longertraditionin music
+century,in
+theorythanin psychology.Germanmusiciansin the eighteenth
+attemptingto express degreesof modulationamong relatedkeys, developed circleson which all the majorand minorkeys were placed.Adjacent
+moves on these circles representedclose modulations and nonadjacent
+moves, more distant modulations. (Werts (1983) gives an historicalreview.) Theseprimitivecirclesculminatedin the elegantpitch spaceof Weto
+ber (1824), which corresponds Schoenberg's
+(1954) chartof regions.1
+betweenthesetopologicalmodels
+Thereis a complementary
+relationship
+in
+tonal theoriesthat focus on structure acand varioustwentieth-century
+tualpieces,suchas Schenker
+(1935), Meyer(1973), and LerdahlandJackendoff (1983, A GenerativeTheoryof Tonal Music, henceforthGTTM).
+
+Requests for reprints may be sent to Fred Lerdahl, School of Music, The University of Michigan, Ann Arbor, Michigan 48109.
+1. As Weber (1824) was well-known to German and Austrian musicians throughout the
+nineteenth century, we can surmise that Schoenberg was aware of Weber's space but did not
+bother to attribute it. Schoenberg (1954) was designed not as a theoretical treatise but as a
+textbook, and it was assembled from notes after his death.
+
+315
+
+316
+
+FredLerdahl
+
+The connection can be explained through the distinction between a tonal
+hierarchy and an event hierarchy (Deutsch, 1984; Bharucha, 1984a).
+A tonal hierarchy is a nontemporal mental schema that listeners utilize in
+assigning event hierarchies to pitch sequences. For example, listeners of
+Classical music understand chromatic inflections within a diatonic framework, and they employ distance from the tonic on the circle of fifths in determining harmonic domination or subordination. Such schémas arise
+from listening experience through the filter of our general musical cognitive
+capacity. Exposure to a different musical idiom would lead to a different
+tonal hierarchy. In addition- and this may be less obvious- a tonal hierarchy arises from the intrinsic organization of the pitch materials, such as described in Balzano (1982). For instance, the asymmetrical diatonic scale allows unambiguous "position-finding" (Browne, 1981) in a way that, say,
+the whole-tone and octatonic scales do not; nor would the latter two scales
+permit the gradual introduction of new pitch classes along the cycle of
+fifths. The topological models mentioned above can be viewed as representations of the tonal hierarchy for Classical music, where superordinate elements appear near the referential center of a space and less stable elements
+appear farther away from the center.
+An event hierarchy, in contrast, is part of the structure that listeners infer
+from temporal musical sequences. This kind of hierarchy has long been familiar in the music-theoretic literature (although the specifics vary significantly from theory to theory) and will not be dwelt upon here. GTTM
+develops in detail two kinds of event hierarchies: time-span reduction,
+which expresses the relative structuralimportance of events as heard within
+rhythmic units; and prolongational reduction, which expresses recursive
+patterns of tension and relaxation among events.
+The tonal hierarchy- hence an implicit pitch space- appears in GTTM
+in incomplete form under the rubric of verbally stated stability conditions.
+The theory claims that listeners cannot infer complex event hierarchies
+without having access to such conditions, which are the main source for
+ranking the relative stability of events within embedded temporal regions.
+These regions in turn derive directly or indirectly from the grouping and
+metrical structures. Figure 1 illustrates schematically that the time-span reduction derives from the rhythmic components and the stability conditions,
+and the prolongational reduction derives from the time-span reduction and
+the stability conditions. In short, both a rhythmic framework and criteria
+for pitch stability are needed if the listener is to hear events in a dominatingsubordinating manner.
+These remarks suggest, incidentally, that tonal and event hierarchies are
+interdependent developmentally. Exposure to real music is a prerequisite
+for internalizing a tonal schema, yet an event hierarchy cannot be con-
+
+Tonal Pitch Space
+Grouping
+structure h-^
+
+^
+
+,
+
+1
+
+Time-span
+tf segmentation
+
+Metrical
+structure
+
+317
+
+*" Time-span
+reduction
+v
+\
+
+^ Prolongational
+reduction
+~7
+
+Stability '
+conditions
+
+Fig. 1. The form of generative music theory.
+
+one
+structedwithout such a schema.They "bootstrap" anotherinto existence (Deutsch,1984).
+In what follows, I equatepitch space, the tonal hierarchy,and stability
+conditions.Aftera briefreviewof recenttopologicalmodels, I propose at
+lengtha ratherdifferentmodel of tonal pitch space.Experimental
+support
+for the model is then introduced.Finally,the model is broughtto bear on
+aspects of various music theories, includingthe sketchinessof GTTM's
+of
+treatment stabilityconditions.
+Problems of Current Models
+tonal pitchspaces:they are
+Therearetwo generalproblemswith current
+and
+too symmetrical they only addressone level of pitchdescription.
+topological models arise becausecognitivetheoristswant
+Symmetrical
+of
+to capturecertainregularities the tonal system.First,the semitoneinterval betweenadjacentmembersof the chromaticscaleis constant,resulting
+in the transpositional
+invariance any interval.Second,the octave recurs
+of
+creatingthe perceptionof pitch classes (henceforth"pcs").
+periodically,
+all
+Third,the basicintervalof harmonicmotion,the perfectfifth,traverses
+circleof
+the
+to
+12 pcs beforereturning the originalpc, producing chromatic
+fifths.A move by any of these threeintervals a semitone,an octave, or a
+- results in a cognitivelyproximatepitch. Topological modeling of
+fifth
+a
+incorporates metricof distancealong a numcognitivedistancetherefore
+ber of dimensions.FollowingShepard(1982), if the semitoneand the octavespacesaremodeled,the resultis a helix.Modelingthe semitoneandthe
+fifthspacesproducesthe doublehelix shown in Figure2. If the octave and
+torus. Finally,
+fifth circlesare combined,the resultis a four-dimensional
+doublehelix
+semitonespaceto the toruscreatesa five-dimensional
+adding
+wrappedarounda helicalcylinder.Inclusionof otherintervalcycles,such
+as the majorthird,would add furtherdimensions.
+
+318
+
+FredLerdahl
+
+Fig. 2 Shephard's (1982) double helical model of pitch space. (Redrawn with permission of
+publisher.)
+
+But the diatonic system is less symmetrical than these models suggest.
+Note, for example, that the double helix in Figure 2 is made up of two
+strands of whole-tone scales. Such a feature may be relevant to Debussy,
+but it has nothing to do with diatonic tonal music, the subject of Shepard's
+inquiry. Similarly, the major third cycle (as well as the minor third cycle)
+begins to appear only in the course of nineteenth-century chromaticism, as
+an alternative organizational principle to the diatonic system. Even the emphasis on the chromatic circle of fifths is suspect insofar as it causes neglect
+of the equally fundamental but irregular diatonic circle of fifths, with its
+single diminished fifth. A similar situation arises with Longuet-Higgin's
+(1962/1987) space, shown in Figure 3, where the horizontal axis consists of
+a fifth cycle and the vertical axis of a major third cycle. A third axis, not
+shown, represents octave space. As with Shepard, the space is filled with
+symmetrical interval cycles.2
+2. Note that the diagonals yield semitone and minor third cycles (although LonguetHiggins is not directly concerned with this). Through a different route, Balzano (1982) arrives at an equivalent space, rotated so that the perfect fifth cycle rather than the minor third
+cycle forms a diagonal. Unlike Balzano, Longuet-Higgins is much concerned with just intonation, a subject I prefer to avoid here.
+
+TonalPitchSpace
+A)t
+
+Ftt
+D
+Bt
+Gt
+EH,
+
+E#
+
+Cjt
+A
+F
+Dl,
+BU,
+
+Btt
+
+Gtt
+E
+C
+At
+Ft
+
+319
+
+Fx
+
+Cx
+
+Gx
+
+Dtt
+B
+G
+Et
+a
+
+A)t
+Ftt
+D
+Bk
+Gl>
+
+E)t
+Ctt
+A
+F
+Dt
+
+Fig. 3. Longuet-Higgins' (1962/1987) model of pitch space. (Redrawn with permission of
+the author.)
+
+The secondand deeperproblemconcernslevelsof pitchdescription.
+The
+spacesof Shepardand of Balzano(1982) referto the relativeproximityof
+whereasthe eighteenthindividual
+pitch classeswithin a tonal framework,
+and Weber/Schoenberg
+refer to the relativeproximity of
+century
+spaces
+treatmentis multitonal regions.Fromthis perspective,
+Longuet-Higgins'
+leveled:he deriveshis spacefrompcs but appliesit to regions(it is inapprothereis
+pc
+priatefor describing proximity).Inbetweenthesetwo categories,
+modelsaddressjust
+the questionof the relativeproximityof chords.3
+Many
+model must incorporate
+one or anotherof these levels.4A comprehensive
+all three levels into one framework,representing
+perceivedproximityat
+Muchof the following
+eachleveland showinghow the levelsinterconnect.
+will be concernedwith this issue.
+presentation
+A Model of Tonal Pitch Space
+THE BASIC SPACE
+
+that
+Thereis no a priorirequirement intuitionsabout pitch, chord, and
+distancebe modeledtopologically.We do not know how the brainperkey
+formssuch calculations.I thereforefeel freeto introducea nontopological
+3. The level of chord proximity within a region is in effect addressed in Piston (1941/
+1978) in his "Table of Usual Root Progressions" (Chapter 3). A usual progression would be
+between chords that are close in a spatial representation, an uncommon progression between spatially more distant chords. Also see the flow diagram in Werts (1983, Chapter 2),
+which expresses similar relationships in another guise. Lewin (1987, Chapter 2) introduces
+a space equivalent to that of Longuet-Higgins, but discusses it at the level of chord (root)
+progression across regions rather than at the level of regions per se. He points out a precedent in Riemann (1893).
+4. Exception must be made not only tor Longuet-riiggins but tor tne experimental work
+of Krumhansland her associates, which has been clear about these distinctions. Her research
+program, summarized in Krumhansl (1983), has proceeded from the level of pcs
+(Krumhansl, 1979), to that of chords within a tonal region (Krumhansl, Bharucha, &
+Kessler 1982), to that of tonal regions (Krumhansl & Kessler, 1982). As will be seen, much
+of the following discussion relates to this work.
+
+320
+
+Fred Lerdahl
+
+tonal pitch space one that works, so to speak, more like a cash register.
+Thisspaceis musicallyobviousbut has surprising
+explanatory
+power.The
+basicspaceis givenin Figure4, orientedtowarda tonic chordin C major,
+notatedin Roman-numeral
+fashionas "I/I,"or "I of I"; chordsare designated in plain print, regionsin boldface. Lateron I will discusshow the
+spaceshiftsfor otherchordsand regions,usingequivalent
+topologicalrepresentations
+wherefeasible.
+The idea of this spacecomesfromDeutschandFeroe(1981), who speak
+of different pitch "alphabets" chiefly the chromatic, diatonic, and
+triadic that the listener"highlyoverlearns"
+frompreviouslyheardmusical surfaces(see also Deutsch, 1982). Deutschand Feroeshow that coding
+via these alphabetsprovidesa convincingaccount of how listenerslearn
+and rememberpitch sequences;parsimoniousencoding means a small
+memoryload. As their formalismsuggests,these alphabetsare hierarchiinto morepcs at the
+callyrelatedas in Figure4, whereeachlevelelaborates
+next smallerlevel. (Or, conversely,the superordinate at one level conpcs
+tinueto the next largerlevel).Levela is octavespace,b "open-fifth"
+space,c
+triadicspace, d diatonicspace, and e chromaticspace. Pcs at largerlevels
+aremorestablethan pcs at smallerlevels.In short,the spaceis reductional
+(in the music-theoretic
+sense)ratherthantopologicalin character.5
+in
+Observethatthis spacecircumvents excessivesymmetry the spaces
+the
+of Shepardand Longuet-Higgins.
+chromaticspace expressesan
+Although
+equal-interval
+cycle, the other levels in Figure4 describethe asymmetric
+and
+to
+patternsappropriate diatonicmusic.In particular, unlikethe topomentioned above, this space representsthe diatonic
+logical approaches
+scaledirectly.(Itshouldbe remembered this connectionthatthe diatonic
+in
+scaleis farmoreancientthanthe chromatic
+scale.)Finallyandmost imporof
+tantly,this spaceallows unifiedtreatment pc, chord,and regionalproximity.
+PITCH-CLASSPROXIMITY
+
+We beginwith pc proximitywithin the frameworkof I/I, turningafterwardsto the relativeproximityto I/Iof otherchordsandregions.A numerical representation proveuseful,so Figure4 is translated
+will
+into Figure5,
+5. Deutsch and Feroe do not mention open-fifth space, but include a "seventh-chord
+space" that would appear either between levels c and d of Figure 4 or as an extension within
+level c. (I prefer the latter alternative; see Figure 16i below.) Seventh-chord space will mostly
+be disregarded here, on the ground that in Classical music the interval of a seventh generally
+behaves as a local dissonance governed by voice-leading principles. In consequence seventh
+chords have little independent status. (For certain later styles- Wagner in his Tnstaw-chord
+mode, Debussy and Ravel, jazz- it makes more sense to incorporate an independent
+seventh-chord level.)
+
+TonalPitchSpace
+levela:
+levelb:
+levelc:
+leveld:
+levele:
+
+C
+C
+C
+C
+C
+
+D
+Dt D
+
+E
+E
+EU
+
+F
+F
+
+321
+
+G
+G
+G
+A
+F| G AU
+
+B
+Bk B
+
+(C)
+(C)
+(C)
+(C)
+(C)
+
+Fig.4. Thebasicspace,orientedto I/I.
+
+levela:
+levelb:
+levelc:
+leveld:
+levele:
+
+0
+0
+4
+0
+0
+2
+4 5
+0123456789ab
+
+7
+7
+7
+
+9b
+
+of
+representation the basicspace,orientedto I/I.
+Fig.5. A numerical
+
+whereC = 0, C|t (or Dt) = 1, D = 2, . . . B = 11. (Fornotationalconventhe
+baience, 10 = a and 11 = b). Thisnotationhighlights group-theoretic
+sis of the space:level a providesa closed (cyclic)numberof elements,with
+elementsseparated the sameinterval.The fixedorientations
+of
+adjacent
+by
+and I/Iare arbitrary.
+pcO
+The distanceof a pc frompcOcan be calculatedboth verticallyand horizontally. The vertical dimensiongives the depth of embeddingof a pc,
+countingthe numberof levelsdown that a pc firstappears.Figure6 shows
+distance"for eachpc withinthe spaceof I/I.With chordal
+the "embedding
+andregionalchanges,of course,the pc embedding
+would shiftaccordingly.
+Distancealong the horizontaldimensioncan best be explainedthrough
+thenotionsof stepandskip.Intraditional
+usagea stepoccursbetweenadjaof
+or
+or
+centmembers the chromatic diatonicscales(a chromatic a diatonic
+takes place betweenadjacentmembersof a
+step), and an "arpeggiation"
+triad. It is more illuminating,however, to think of an arpeggiationas
+stepwisemotionin triadicspace.In similarfashion,one can speakof a step
+in open-fifthspace or octave space. A leap of two octaves, on the other
+hand,is a skip in octavespace.In sum, a step is adjacentmotion along any
+
+Pitchclass:
+0123456789ab
+distance: 043423414343
+Embedding
+distance.
+Fig.6. Pitch-class
+embedding
+
+322
+
+Fred Lerdahl
+
+level of the hierarchy, and a skip is nonadjacent motion - two or more
+steps- along any level.6
+The notion of "step distance" makes sense only in terms of specific
+pitches rather than of pcs. Assuming pitches 0 to 1 1 are contained within an
+octave, the step distance of a pitch from pO ("pitch 0") can be calculated
+horizontally at a number of levels. For example, p4 has a step value of 1 in
+triadic space, 2 in diatonic space, and 4 in chromatic space. P6 has a step
+value of 6 in chromatic space, but in the harmonic context of V/V- V-I it
+has a value of 2: one step from 6 to 7, another step (at a higher level) from 7
+to 1. Hence it is pointless to assign a fixed value for step distance comparable to the embedding distance in Figure 6, since step distance typically implicates chords and regions.
+The ideas of embedding and step distance shed light on the musical treatment of consonance and dissonance. Given a certain orientation of the
+space, more deeply embedded pitches are understood in terms of their adjacent superordinate context. Moving down in the space means increasing
+dissonance, to be relieved by moving up again. Stepwise motion ensures the
+coherence of these moves. If a skip to a more embedded pitch occurs, this
+second pitch is located through subsequent stepwise motion to a third pitch
+that in turn lies a step away from the first at a superordinate level.
+CHORD PROXIMITYWITHIN A REGION
+
+For the tonal hierarchy it is best to regard a chord (triad) as a Klang abstracted away from specific register or spacing (Riemann, 1893). Chords
+are represented at level c in the space, with level b outlining the fifth in the
+chord and level a supplying the root.
+There are two factors in calculating the proximity of any two chords
+within a tonal region: the diatonic circle of fifths and common tones. These
+factors originate in the top two levels of the basic space. Both are familiar in
+the music-theoretic literature. The circle-of-fifths factor is typically justified
+on the ground that root motion by fifths is basic to cadences and is pervasive at all levels of tonal organization. (There are psychoacoustical and
+group-theoretic justifications as well: the prominence of the third partial
+and the traversal of the entire chromatic via the fifths cycle.) The common-
+
+6. The step/skip idea, and indeed the whole question of musical space, became a preoccupation when I was working on prolongational "timbrai hierarchies"through digital synthesis (Lerdahl, 1987a). I found that timbrai stability conditions could not be realized without
+constructing at least a two-dimensional array within which timbrai events "traveled." Perhaps there is an underlying "spatial" level of mental representation common to visual, musical (pitch and timbre), and even semantic understanding (Shepard& Cooper, 1982; Jackendoff, 1983).
+
+323
+
+Tonal Pitch Space
+
+tone factor is justified on the ground that the sharing of pcs- of octave
+space- is a strong associative link between two chords.
+The diatonic circle-of-fifths operation takes place in triadic, open-fifth,
+and octave space, leaving the content of diatonic space intact. The chordcircle rule can be stated as "move the pcs at levels a-c four diatonic steps to
+the right or left (mod 12) on level d." For example, applying the rule once to
+the right on I/I in Figure 5 produces Figure 7a. Applying the rule two and
+three times to the right on I/I results in Figures 7b and 7c, respectively. (The
+triad in Figure 7a is labeled V/I, or more simply as V; and so on.) The number of applications of the rule in any given instance measures the circle distance between two chords. Repeated application of the rule results in the
+complete diatonic circle of fifths, shown in Figure 8 with only the pc numbers for chordal roots given. Note the diminished fifth between b and 5,
+resulting from the two half steps at level d between b and 0 and between 4
+and 5.
+In an extension of the step/skip distinction, a step can be said to occur
+between adjacent chords in Figure 8 and a skip between nonadjacent
+chords. For example, a progression from I to V is a step, and a progression
+from I to ii or from I to vi is a skip.
+
+(b)
+
+(a)
+
+2
+
+7_
+7
+
+2
+7b.259.04
+79b
+0T45
+0123456789ab
+V/I
+
+(c)
+
+2
+11
+
+±
+
+±
+1
+
+79b
+45
+02
+0123456789ab
+vi/I
+
+79b
+45
+02
+0123456789ab
+ii/I
+
+9_
+
+Fig. 7. Applications of the chord-circle rule to generate other chords within a region.
+
+0(1)
+7<V>
+
+5(IV)
+
+2(ii)
+b(vii°)
+9(vi)
+4(iii)
+Fig.8. The diatoniccircleof fifths,or the "chordcircle."
+
+324
+
+FredLerdahl
+
+These shifts also cause pcs to return,formingcommon-tonerelationshipswith I. In Figure7, V has one commontone with I, ii has no common
+tones, and vi has two commontones. Root motion by thirdsis proximate
+because it maximizes common-tone relationships.However, it is not
+of
+enoughmerelyto say thattwo chordsshareone or two pcs. The strength
+a duplicationdependson hierarchical
+with the root of a chordbeposition,
+the
+ing mostimportant, fifthless so, andthe thirdleastso. Theseweightings
+are articulated the spaceby the numberof timesa pc appearsin it. Conin
+the common-tonedistancebetween two chords dependson the
+versely,
+numberof distinctivepcs betweenthe two. In orderto includethe differencesin weight of the root, fifth,and thirdin the new chord,its distinctive
+pcs must be counted at all levels. As the underlinednumbersin Figure7
+indicate,V has four distinctive in relationto I; ii has six distinctive
+pcs;
+pcs
+andvi againhas four distinctive
+pcs. Thiswill be our measureof commontone distance.
+How do these two factorsinteractto measurethe overalldistancebetween two chordsin a region?It mightbe sufficient to associatea pair
+just
+of numbers(/, k) with chord distance,where ; = the shortestnumberof
+stepson the circleof fifthsand k = the numberof distinctivepcs. The distancefromI to V would thenbe described (1,4); to ii as (2,6); andto vi as
+as
+Thisnotationreveals,for example,thateventhoughii is closerto I on
+(3,4).
+the circle of fifths, vi shares more common tones with I; and that even
+thoughvi sharestwo commontoneswith I, andV sharesonly one common
+tone, k = 4 for both becausethe root of V is a commontone andthe root of
+vi is not.
+It is desirable,
+the
+however,to takethe addedstepof combining two factorsto produceone overallmeasure distance.The simplest
+of
+way to do this
+is additive:d(chord)= ; + k, whered = shortestdistance.This procedure
+fits intuitionsurprisingly
+well and will be followed here. Figuringfrom I,
+= 1+4 = 5, d{ii) = 2 + 6 = 8, and rf(vi)= 3 + 4 = 7. If the
+then, d(V)
+circle-of-fifths is similarlyappliedto the left, the samevaluesresultfor
+rule
+IV, vii°,and iii, as shown in Figure97
+d
+Figure10 summarizes for each triadwithin I. The resultsare moreor
+less as one might anticipate:V and IV are equallyclose to I; vi and iii are
+next; ii andvii° aremoredistant.
+Distanced is invariantundertransposition.
+by
+Figure11 illustrates comIVto vi, resettingthe valuesfor vi to 0. Justas with vi in comparison
+paring
+to I, ; = 3, k = 4, and d = 7. This procedureworks in the generalcase, a
+significant
+pointin itselfaboutthe space.It also suggestsa way to enrichthe
+7. Differentiation could be made here by assigning minus numbers for leftward movement on the circle and then adding by using the absolute value; for example, d(IV/I)
+= 1-11 + 4 = 5.1 will not bother with this refinement.
+
+Tonal Pitch Space
+
+(a)
+
+(b)
+
+1
+
+0
+5_
+0
+5_
+9_
+02
+45 79b
+0123456789ab
+d(W)= 1+4 = 5
+
+325
+
+b
+
+5_
+2_ 1
+02
+45 79b
+0123456789ab
+=
+d(vn°) 2 + 6 = 8
+
+_b
+h
+
+(c)
+
+±
+
+±
+4
+?
+02
+45 79b
+0123456789ab
+d(in)= 3 + 4 = 7
+
+_b_
+_b
+
+Fig. 9. Derivation of some chord distances within I.
+
+Chord:
+d:
+
+I
+ii iii
+0875578
+
+IV V
+
+vi
+
+vii°
+
+Fig. 10. Summary of chord distances within I.
+
+4
+4
+
+0
+024579b
+0123456789ab
+d(vi) = 0 + 0 = 0
+
+9
+9
+9
+
+1
+0.1
+0
+19
+024579b
+0123456789ab
+d(W) = 3 + 4 = 7
+
+Fig. 11. Example of d's transpositional invariance. d(vi) is reset to 0.
+
+concept of chordal step, for which we have so far had only a circle-of-fifths
+account (Figure 8). In Figure 10 root motion by thirds is next in proximity
+to motion by fifths {d = 7 as opposed to d = 5). These common-tone relationships can be used to generate a second axis, projecting the circle in Figure 12, where stepwise motion again takes place between adjacent chords.
+Because of d's transpositional invariance, these steps can be made equidistant from one another, disregarding the major or minor quality of any particular third motion. (This equidistance is quite different from LonguetHiggin's major-thirds vector.)
+Figure 13 combines the two circles in Figures 8 and 12. The vertical axis
+represents the fifths circle and the horizontal axis the thirds circle. Since
+both axes are circular, the topology for the space should be toroidal rather
+
+326
+
+FredLerdahl
+0(1)
+4(iii)
+
+9(vi)
+
+7(V)
+5(IV)
+b(vii°)
+2(ii)
+Fig. 12. The common-tone circle (within a region).
+
+vii°
+
+ii
+
+IV
+
+vi
+
+I
+
+iii
+
+V
+
+iii
+
+V
+
+vii°
+
+ii
+
+IV
+
+vi
+
+I
+
+vi
+
+I
+
+iii
+
+V
+
+vii°
+
+ii
+
+IV
+
+ii
+
+IV
+
+vi
+
+I
+
+iii
+
+V
+
+vii°
+
+V
+
+vii°
+
+ii
+
+IV
+
+vi
+
+I
+
+iii
+
+I
+
+iii
+
+V
+
+vii°
+
+ii
+
+IV
+
+vi
+
+IV
+
+vi
+
+I
+
+iii
+
+V
+
+vii°
+
+ii
+
+Fig. 13. The chordal torus, or "chordal space," created by combining Figures 8 and 12.
+
+than just two dimensional. (Imagine a piece of paper wrapped around in a
+circle both horizontally and vertically at the same time.) The chords on the
+horizontal axis are more widely spaced, reflecting the larger value for d for
+chords a third apart. Diagonal "steps" are still larger and might be called
+"chordal skips."
+It may be objected that the values in Figure 10 from which Figure 13 derives do not adequately mirror real musical behavior. First of all, ii often
+functions in its first inversion as a dominant-preparation voice-leading variant of IV, not as a "real" ii, in which case ; = 1 rather than 2. Second, to
+avoid the diminished fifth between 5 and b, iii is often approached by rightward motion, in which case; = 4 rather than 3. This value would reflect the
+typically greater remoteness (in major) of the harmonic as opposed to the
+melodic third degree. Third, the characterization of vii° favors its behavior
+in a circle-of-fifths sequence rather than its common voice-leading dominant function, in which latter case ; = 1 rather than 2 (since Rameau, vii°
+has been characterized as a V7 with an absent fundamental). The revised
+overall values for these chords would then be d{ii) = 1 + 6 = 7,
+d(iii) = 4 + 4 = 8, and d(vii°) = 1 + 6 = 7. Alternative values for these
+chords might be selected for different contexts.
+
+Tonal Pitch Space
+
+327
+
+But I would argue that chordal space need not directly reflect these voiceleading factors. Voice-leading belongs to event hierarchies, to which the
+tonal hierarchy is not the sole input. I prefer to stick with the original values
+for d if only because they permit the construction of the regular chordal
+space of Figure 13, which has further uses below.
+A second objection might be that Figures 10 and 13 depend on a formula
+(d = ; + k) that compares, so to speak, apples and oranges. Why should the
+steps on circle of fifths and the number of distinctive pcs combine in a simple additive fashion? Why not another formula, perhaps one that includes
+constants (d = aj + bk) or some sort of vector analysis? These questions
+continue below when a second circle-of-fifths rule is introduced; then there
+will be two apples and one orange. In response, both here and below, I
+merely point out that a simple additive model leads to attractive theoretical
+results and (as will be seen) correlates with the experimental data. But probably a better quantification can be found.
+CHORD PROXIMITYACROSS REGIONS
+
+The next stage is to evaluate the distance between chords that are in different regions. We begin with regional shifts- that is, with changes in
+diatonic collection.8 Distance is calculated by moving on the circle of fifths
+at level d. The region-circle rule can be stated as "move the pcs at level d
+seven chromatic steps to the right or left (mod 12) on level e." As shown in
+Figure 14, applying the rule once to the right changes the C major diatonic
+collection (Figure 14a) to the G major diatonic collection (Figure 14b). A
+special feature of the diatonic system is that a move on the regional circle
+causes just one pc change, and that this change is to an adjacent pç in chromatic space. Thus in Figure 14, pc5 shifts to pc6. The voice-leading ramifications of this feature are profound: a mere half-step alteration in a line
+can change the listener's tonic orientation.
+The number of applications of the region rule is one measure of the distance between two regions. Repeated application of the rule produces the
+complete chromatic circle of fifths, shown in Figure 15 with only the roots
+given. Analogous to Figure 8, regional stepwise motion can be thought of
+provisionally in terms of adjacency on the chromatic circle.
+It is important to see that a circle-of-fifths operation must apply at two
+conceptual levels, once for chords within a region and once for regions. By
+way of illustration, the distance from C major to C minor is 0 on the chord
+8. Contrasting musical terminology is widely used for chromatic moves at different levels
+of event hierarchies: "applied dominant" for momentary regional shifts, "tonicization" for
+intermediate shifts, and "modulation" for global shifts. For present purposes these distinctions need be considered only as a matter of hierarchical level.
+
+328
+
+Fred Lerdahl
+
+(a)
+024579b
+
+(b)
+024679b
+
+0123456789ab
+
+0123456789ab
+
+Fig. 14. An application of the region-circle rule to generate the G major collection from the
+C major collection.
+
+5
+
+°
+
+7
+2
+9
+4
+
+a
+3
+8
+1
+
+6
+
+b
+
+Fig. 15. The chromatic circle of fifths, or the "region circle."
+
+circle (Figure 8) but 3 on the region circle (Figure 15); conversely, the distance from C major to A minor is 3 on the chord circle but 0 on the region
+circle. The parallel and relative minor are equally proximate to I/I, but in
+opposite ways.
+This example suggests enlarging the above formula for overall distance:
+d(chord) = i + /"+ &,where/ = steps on the region circle and, as before,; =
+steps on the chord circle and k = distinctive pcs. Until now i has always
+been 0. The simplest way to calculate i is to count the number of changes in
+flats and sharps in the key signature. To gauge chord-circle distance within
+the new region, ; is calculated first to the new tonic and then from it. For
+example, for iv/vi, the value for ; is not 2, as it would be directly from I/I
+(iv/vi = ii/I). Instead, / = 3 + 1 = 4; that is, three circle steps up to vi and
+one back to iv. The value for k will usually be larger than before because
+distinctive pcs will now appear at the diatonic level as well. As above, this
+formula is transpositionally invariant.
+There is always a question as to how to treat the minor mode, which supposedly has three versions: the natural, harmonic, and melodic. It is better,
+however, to view this matter only in terms of scale-degree voice-leading tendencies. The raised seventh degree appears as the leading-tone when rising
+to the tonic, and as a result is part of V and vii° (it is not part of III, certain
+harmony texts notwithstanding). A raised sixth happens only in voice-
+
+Tonal Pitch Space
+
+329
+
+leading situations where an augmentedsecond with the raised seventh
+would otherwisearise.Theseareall context-dependent
+deviationswithina
+the
+natural-minor
+so I will regard naturalminoras basic.Howframework,
+k
+ever,for V and vii° the raisedseventhwill be assumed,increasing by one
+fromwhat it would otherwisebe.
+A consequence this view of the minormodeis that i becomesthe same
+of
+collections.This temporarily
+for relativemajor/minor
+leads,in the manner
+tonal space (Schoenberg
+1911/
+first
+of Schoenberg's attemptat describing
+1978, Chapter9), to a "double"circle,whereeachpositionin Figure15 is
+filledwith a majormodeandits associatedminormode.On the otherhand,
+; shiftsas before,so the overallresultis not equivalent.Forexample,i = 1
+and
+and
+for both I/TV i/ii, but; = 1 for I/TV ; = 2 for i/ii.
+chord distances.As
+Figure16 gives various examplesof interregional
+d is reckonedin relationto I/I. Figures16a and 16b juxtaposethe
+above,
+dominantchordheardas dominant(V/I,or "V of I") and as tonicized(I/V,
+or "I of V"). Becausei as well as ; shiftsone time, and becausepc5 changes
+to pc6 in diatonicspace, the overalldistanceof I/V from I/I is two values
+thanthatof V/I.Figures16c and 16d similarly
+juxtaposean A major
+greater
+is
+as V of d minorand as I of A major;this time the difference 3, betriad
+causeof the inclusionof pel (becauseit is partof the chord)in the d minor
+collection. Such distinctions in chord context are crucial to musical
+understanding V/ii reallyfeels closerto I/IthanI/VIdoes- so it is importhe modelbe ableto expressthesedifferences.
+tantthat
+Figures16e and 16f comparei/ii and i/iii; i/iii turnsout slightlycloserto
+i/i. Figure16g addsV/iii, for which d is largerthan for i/iii. However,Figand
+ures 16h and 16i similarlycompareI/TV V/IV, to highlightthe easily
+closerto 1/
+fact
+neglected thatanotherchordof a secondregionis sometimes
+I thanits local tonic is. (Theseventhhas beenincludedat the triadiclevelin
+Figure16i to indicatehow seventhsmightbest be treatedwhen they have
+harmonicstatus; think of the beginningof Beethoven'sFirstSymphony.
+Exclusionof the seventhwould decreased by one.)
+Figures16j and 16k juxtaposetonic chordsin the relativeand parallel
+minorregions.The valuesfor / and; arereversed(as suggestedabove),and
+of
+distribution distinctive
+the valuefor k is identicaldespitethe contrasting
+pes; so the overallresultis the same.
+"mixture"chords,iv/I
+Finally,Figures161and 16m give characteristic
+that
+andUI/I(theNeapolitan),in whichit is understood the regiondoes not
+fromtheparallelmode.Thusi and
+shift;rather,certainpes are"borrowed"
+and
+fromtheirdiatonicequivalents, k increases.(Compare
+; do not change
+Figure161 (iv/I)with Figures9a (IV/I)and 16h (I/IV).)In the same vein,
+i = 0 for I/i at the end of a movementin minor(thePicardy
+third),whereas
+i = 3 when the parallelmajorregion is establishedfor the second theme
+of
+groupin the recapitulation a movementin minor.The formeris a local
+
+330
+
+FredLerdahl
+(a)
+
+(b)
+
+Z_
+^7
+7
+2_
+024579b
+0123456789ab
+d(V/l) = 0 + 1+4 = 5
+
+b.
+
+7_
+7
+1_
+7
+_2.
+4 _6 7
+9
+0
+2
+0123456789ab
+d(W) = 1 + 1+5 = 7
+
+(d)
+
+(c)
+
+±
+
+1.
+
+4
+_9_
+J_
+4 5 7 9 a_
+12
+0123456789ab
+=
+d(V/ii) 1 + (2 + 1) + 7 = 11
+(e)
+
+_b
+b
+
+(f)
+
+L
+
+2,
+1
+2_5._9
+0 2 45 7 9a.
+0123456789ab
+d(i/ii)= 1 + 2 + 7 = 10
+
+1
+
+1
+
+2
+14
+1 2 4 .6 1 9 b
+0123456789ab
+d(Wl) = 3 + 3 + 8 = 14
+(g)
+
+±
+
+(i)
+0
+
+(h)
+5.
+
+0
+5.
+0
+11
+024579a.
+0123456789ab
+d(WV) = 1 + 1+5
+
+7
+0
+7
+4
+0
+_a_
+4 5
+7
+9 _a_
+2
+0
+0123456789ab
+dCft/lV) = 1 + (1 + 1) + 2 = 5
+
+= 7
+
+±
+4
+0
+0245
+79b
+0123456789ab
+^(i/vi)= 0 + 3 + 4 = 7
+
+(k)
+0
+7
+0
+0
+17
+7_8_a_
+0225
+0123456789ab
+d(i/i)= 3+0 + 4 = 7
+
+(1)
+
+(m)
+
+(j)
+9_
+9.
+9.
+
+0
+0
+
+1.
+5.
+11
+
+^.
+
+_b
+6.
+b.
+±
+_b
+47b.
+li.
+7
+0 2 4 6_ 9 b 0
+3_4 6.7 9 b
+0123456789ab
+0123456789ab
+=
+=
+rf(V/iii) 1 + (3 + 1) + 8 = 13
+rf(i/iii) 1+3 + 5 = 9
+
+0245
+71
+0123456789ab
+d(iv/l) = 0 + 1+5 = 6
+
+b
+
+1
+11
+111
+
+45
+b
+01
+71
+0123456789ab
+J(UI/I) = 0 + 2 + 8 = 10
+
+Fig. 16. Examples of chord distances across regions.
+
+Tonal Pitch Space
+
+331
+
+inflection, the latter a reorientation often requiring careful preparation by
+the composer.
+The formula for d works for chords in nearby regions but often goes
+awry for chords in more distant regions. One reason for this is that i counts
+only circle-of-fifths relationships between regions. As with chordal space
+(Figure 13), regional space must be enriched to include another axis. However, as we have seen, d varies both for the same chord in different regions
+(Figure 16a-b, c-d) and for different chords within the same region (Figure
+16f-g, h-i). It is necessary to address a more abstract level, that of the region as a whole.
+REGIONAL PROXIMITY
+
+Let us define the proximity of a secondary region simply in terms of the
+distance of its local tonic. This step is justified because one strongly hears
+chords in relation to their local tonic as well as to one overall governing
+tonic. The distance of a local tonic is a simplified but salient indicator of the
+distance of the region it represents.
+Regional space can now be developed in the same way as toroidal
+chordal space. First the local tonics are selected that have the smallest values for d. These are I/V, I/TV,i/vi, and i/i, for all of which d = 7 (although i,
+/, and k differ for each; see Figure 16b, h, j, and k). The circle of fifths (I/V
+is
+and I/TV) placed on the vertical axis, and relative and parallel minor relationships (i/vi and i/i) on the horizontal axis. Then d is recursively transposed to generate two cycles, in fifths and minor thirds, together forming a
+torus. Because d = 7 in all directions, the elements on this torus are equally
+spaced, unlike the chordal torus. The result is Figure 17a. Figure 17b translates the note names of Figure 17a into Roman numerals, with "i/#ii" abbreviated as "jtii,"and so on, all oriented toward I/I.
+Since the chordal and regional spaces are both projected by fifths and
+thirds axes, the two spaces can be combined as in Figure 18. A fragment of
+regional space is shown, and for each such region a representative portion
+of chordal space is given. Each regional designation doubles for "I" or "i"
+at the chordal level, for which various major/minor adjustments are also
+made. Observe that the chordal pattern is repeated at a larger level in the
+regional pattern. Moreover, the proximity of chords across regions emerges
+directly in this representation. In I, for example, V is closest to V; conversely, in V, IV is closest to I (IV/V = I/I); and so on throughout the space,
+horizontally and diagonally as well as vertically. This visualization is misleading only to the extent that, according to the calculations for d, V/I is
+actually closer to I/V than IV/V is, and so forth; that is, the chords within
+regions should overlap those in an adjacent region. But the representation
+nicely illustrates the recursive and hierarchical nature of tonal pitch space.
+
+332
+(a)
+d»
+git
+c(t
+f#
+b
+e
+a
+
+FredLerdahl
+F»
+B
+
+f»
+b
+
+A
+D
+
+a
+d
+
+C
+F
+
+c
+f
+
+E
+
+e
+
+G
+
+bt
+
+a
+d
+
+C
+F
+
+g
+c
+f
+
+Bt
+
+A
+D
+G
+C
+
+et
+
+g
+c
+
+Bt
+Et
+
+bt
+et
+
+Et
+At
+Dt
+Gt
+
+at
+dt
+gt
+
+(b)
+(tii ttIV ttiv
+(tvi VII vii
+tti HI iii
+#iv VI vi
+ii
+vii II
+iii
+v
+V
+I
+i
+vi
+
+VI
+II
+
+vi
+ii
+
+V
+I
+
+v
+i
+
+IV
+
+I
+
+i
+
+iv
+
+IV iv
+t VII t vii
+till t iii
+
+tVI tvi
+tVII tvii til tii
+till tiii tV tv
+
+the
+Fig. 17. The regionaltorus,or "regional
+space,"createdby combining fifthscycleand
+the relativeandparallelmajor-minor
+the
+cycle,(a) represents regionsby key;(b) represents
+themas subregions
+orientedto C major.
+
+Ill V vii°
+VI iii III
+ii° iv VI
+
+iii V vii0
+vi V iii
+ii IV vi
+
+III V vii°
+VI vi III
+ii° iv VI
+
+iii V vii°
+vi I iii
+ii IV vi
+
+III V vii°
+VI ii III
+ii° iv VI
+
+iii V vii°
+vi IV iii
+ii IV vi
+
+of
+chordalandregionaltori.
+Fig.18. A two-dimensional
+representation the combined
+
+As it stands, continuing the pattern horizontally in Figure 18 necessitates
+skipping parallel regions. This difficulty can be circumvented by adding a
+further dimension to Figure 17, forming the "stairs" sketched in Figure 19.
+Here VI lies directly below vi, i directly above I, and so on. Regions a fifth or
+minor third away remain on one stair. Intraregional chords, in a transformed representation of Figure 18, could then be mapped into Figure 19,
+with iii/Tlying directly beneath Ull/i, and so forth, yielding a vertical correspondence between "mixed" versions of the same scale degree and preserving the general pattern of Figure 18. Because each chordal region forms a
+torus, different distances would subsist between these vertical chord pairs,
+with the pair I-i being the closest. But at this point the geometry becomes
+hard to visualize- we are dealing with stairs within a regional torus, within
+which there are numerous "satellites" of chordal tori- so I will not attempt
+it.
+
+TonalPitchSpace
+
+333
+
+PIVOT CHORDS AND PIVOT REGIONS
+
+Figure 18 suggests a further reason why the above formula for d works
+for nearby but not distant regions. Nearby regions share chords that can
+function as pivot chords from one region to another. But as chromatic
+changes infiltrate more distant regions, direct pivot chords disappear, requiring intermediate pivots that have not yet been taken into account.
+Pivots can be thought of as points of tonic reorientation along a stepwise
+path. So we return again to the step/skip notion. Regional stepwise motion
+might at first be thought of just in terms of vertical or horizontal adjacency
+in Figure 17. For example, VI is two steps to the west but three steps to the
+north from I. So far this makes sense, since it is indeed a shorter route to VI
+via vi than via V and II. However, this conception would make ii as well as
+VI and II two steps (rather than one step) away from I, an intuitively undesirable result. This problem could be rectified by including diagonal motion
+as stepwise; but then v, too, would be a step from I- even though intuitively
+v is accessed from V or i instead.
+These and other difficulties can be resolved by calculating steps in regional space via "tonic pivots." Consider Figure 20a, which corresponds to
+the regional level of Figure 18. As Figure 20a indicates, the tonic pivots
+from I are ii, iii, IV, V, and vi; that is, these are regions whose local tonics
+are also chords in I. The diagonal steps to v and iv are excluded, as is the
+diminished-chord seventh degree, which is not adjacent even diagonally.
+The value of d is given for each region in parentheses. (Note the slight asymmetry due to d(iii) = 9 and d(ii) = 10.) Figure 20b provides in reverse the
+tonic pivots from i. Again the values of d are included, this time with d(i)
+reset to 0.
+Let us call six-regional units such as Figures 20a and 20b pivot regions.
+These are analogous to pivot chords, but at a larger level. In terms of Figure
+17, these units slide stepwise up and down the fifths axis, but for horizontal
+steps they must move in their entirety, linked by parallel regions. Figure 21a
+illustrates by shifting the pivot region of Figure 20a northward one notch
+and eastward to the entirely nonoverlapping adjacent unit of Figure 20b.
+The same moves emerge more perspicuously in Figure 21b, which is based
+on the "stair" representation of Figure 19 (parallel regions are on adjacent
+stairs).9
+If a local tonic is not in the base pivot region, the pivot region can be
+moved stepwise until it is, each time adding 7- the step value in all vertical
+9. There is a resemblance between these stairs of pivot regions and the blocks (or "compact groups") that Longuet-Higgins uses to move around in his space (Figure 3). His blocks
+move up and down the fifths cycle and flip-flop for parallel major-minor relationships.
+However, the details and even the levels of analysis are different.
+
+334
+
+FredLerdahl
+
+Fig. 19. A "stair" representation of a portion of the regional torus. The distance between I
+and i, for example, remains the same as in Figure 17. It is possible to imagine including the
+chordal tori as "satellites" within this representation (compare Figure 18).
+
+(a)
+
+(b)
+
+iii(9)
+
+V(7)
+
+v(7)
+
+vi(7)
+
+1(0)
+
+i(0)
+
+HII(7)
+
+ii(10)
+
+IV(7)
+
+iv(7)
+
+I>VI(9)
+
+tVII(10)
+
+Fig. 20. Representative pivot regions, together with their distance values from I and i, respectively.
+
+and horizontal directions to the total distance. This operation can be
+statedas D = dl + d2 .... + dn, whereD = total distance,dl = the intermediatedistancefrom the startingpoint to the firstpivot, dl = the intermediatedistancefrom the firstpivot to the second, and so forth. For convenience,the chorddesignationfor dl .... dn can be reseteachtimeto I (or
+
+Tonal Pitch Space
+
+335
+
+Fig. 21. The shifting of pivot regions to adjacent pivot regions, (a) in a flat representation,
+and (b) in the "stair" representation.
+
+i); thus V to v is reset as I to i, and so on. For example, D(v) =
+dl(V) + d2(i) = 7 + 7 = 14; or, by the other route, D(v) = dl(i) + d2(\)
+= 7 + 7 = 14. Another example: D(III) = dl(iii) + d2(l) = 9 + 7 = 16.
+A more complicated example: D(tti) = dfl(iii) + d2(I) + rf3(vi) = 9 + 7 +
+7 = 23; or, in more normal terminology, "move from I to iii, then to iii's
+parallel major, III, then to Ill's relative minor." But if Hiis understood as t>ii,
+then the derivation might be D(tii) = dl(i) + d2{\>\\) + d3{W) +
+d4{i) = 7 + 9 + 7 + 7 = 30, which covers a trip from C to c to At to Dt to
+dk
+The proximity of all regions can be calculated in this manner, using the
+values within a pivot region (as shown in Figure 20) in conjunction with the
+formula for D. Figure 22a lists the smallest value for D in relation to I for all
+the major and minor regions. In Figure 22b these same values are placed in
+the context of Figure 17, to indicate the regional stepwise paths.
+The values in Figure 22 generally seem adequate- with a few exceptions.
+For instance, D(tII) is too large. Perhaps til is just odd: the Neapolitan has
+a special history as a replacement for ii° in minor, letting HI insinuate itself
+as a pivot chord; and in the nineteenth century, HI appeared extensively in
+connection with the enharmonic treatment of the German augmented-sixth
+
+336
+
+FredLerdahl
+
+(a)
+Region:
+D:
+
+I
+0
+
+Region:
+D:
+
+ttIV tfiv
+30
+21
+
+i
+7
+
+HI
+23
+
+)ti
+23
+
+II
+14
+
+V
+7
+
+v
+14
+
+bVI bvi
+16
+23
+
+ii
+10
+
+iii
+9
+
+HII
+14
+
+bin
+21
+
+III
+16
+
+VI
+14
+
+vi
+7
+
+bVII bvii
+21
+14
+
+IV
+7
+
+iv
+14
+
+VII
+23
+
+vii
+16
+
+(b)
+ttIV(30)
+VII(23)
+
+vii(16)
+
+11(14)
+
+Ki(23)
+
+111(16)
+
+iii(9)
+
+V(7)
+
+v(14)
+
+)tiv(21)
+
+VI(14)
+
+vi(7)
+
+1(0)
+
+i(7)
+
+b111(14) biii(21)
+
+ii(10)
+
+IV(7)
+
+iv(14)
+
+bVI(16) bvi(23)
+
+bVII(14) bvii(21)
+
+b11(23)
+
+Fig. 22. (a) Summary of regional distances from I. (b)Representation of regional distances in
+regional space.
+
+chord (G6 = X^/bll), a chromatic shortcut that lies outside the purview of
+the model. On the other hand, a related problem- because bVI lies in bIFs
+path- is that D(III) and D(bVI) seem slightly large compared to D(II) or
+D(bVII). The difficulty here lies with the idealization toward local tonic
+chords as the basis for measurement in regional space. The ease of modulating to HI or bVI arises rather from their tonic chords' sharing of a common
+tone with I (unlike II or bVII). A full solution to regional proximity, then,
+demands a partial abandonment of this idealization.
+Let us continue with the regional space of Figures 17 and 18. There is one
+more step to take. Once the region in question falls within the shifted pivot
+region, the value of any other, nontonic chord in the region can be calculated in similar fashion. This can be done by moving to the regional tonic
+and then summing; and k- that is, by thinking of the nontonic chord solely
+in terms of its local tonic. But a smaller overall value can be obtained by
+calculating the nontonic chord directly from a regional pivot, provided that
+the tonic to which it refers belongs in the pivot region in question. This was
+the method used above, for example, for V/ii in Figure 16c. Taken in two
+stages, D(V/ii) = dl{ii) + d2(V/i) = 10 + 7 = 17, which is too high a value
+{d(I/Vl) = 14); but figured directly, d(V/ii) = 11, which is about right. This
+shortcut is possible only because the ii to which this V refers belongs in the
+base pivot region. For a more remote case, say to arrive at an fftchord in the
+region of c)t, one can count directly from the intermediate E region, since
+an f(t chord is a pivot chord within E. Thus D(iv/#i) = dl{in) + d2{\) +
+
+Tonal Pitch Space
+
+337
+
+d3(iv/vi)= 9 + 7 + (0 + (1 + 3) + 6) = 9 + 7 + 10 = 26. It is a matter
+of a pivot chordwithin a pivot region.
+In
+Theoverallmodelneedsfurther
+refinement. additionto occasionalinfelicitiesin the numericalcalculations,the topologicalrepresentations
+are
+I hope at leastto havepresented
+featuresthat a comprehensive
+incomplete.
+Let
+modelshouldincorporate. us now brieflyreviewthe experimental
+evidencefor the model.
+
+Experimental Support
+The relevantpsychologicalliterature
+confirmsthe basicpc spaceof Figures4 and 5. Deutsch (1980) shows that pitch sequencesstructured
+parsithe chromatic,
+diatonic,andtriadicalphabetsaremoreeasily
+moniouslyby
+Lake (1987), in a study remiprocessedthan sequencesnot so structured.
+niscentof Carlsen(1981), has found that subjects,afterhearingtwo tones
+that areto a largeexin a tonal context, spontaneously
+sing continuations
+in
+tentinterprétable termsof the space.Krumhansl
+(1979), in testingfor the
+stabilityof tones (pcs)in a tonal context, has deriveda three-dimensional
+in
+cone, shownin Figure23, that matchesthe stabilityconfiguration Figure
+
+Fig. 23. Krumhansl's (1979) three-dimensional representation of pc interrelations in a C
+major context. (Reprinted with permission.)
+
+338
+
+FredLerdahl
+
+Fig. 24. Krumhansl and Kessler's (1982) C major key profile. (Copyright 1982 by the American Psychological Association. Adapted by permission of the publisher and author.)
+
+4 (also see Krumhansl & Shepard, 1979). In addition, the values for pc embedding distance in Figure 6 correspond closely to the major key profile in
+Krumhansland Kessler (1982), given here in Figure 24. In their experiment,
+the "fit" of each pc was rated by listeners who were primed with a tonal
+context.
+In the minor key profile, however, Krumhansl and Kessler found that
+pc3 rated higher than pc7. This result is puzzling, since the hierarchicalrelationship between the third and fifth of a triad is the same in its major and
+minor forms. Their result allows them to derive the relative major key as
+closely related to the referential minor key, but this seems to be a confusion
+of levels. As suggested in this model (through the variable i), the relative
+major is so close to the tonic minor because they share the same diatonic
+collection.
+The notions of embedding and step distance at the pc and pitch level relate to KrumhansPs (1979) finding of asymmetry in judgment in pairs of
+tones, whereby an unstable pitch is found to be closer to a stable pitch than
+vice versa. In a I/I context, for example, pi 1 ("pitch 11") is psychologically
+closer to pl2 than p 12 is to pi 1. In Figure 5 this is reflected in the step and
+embedding context of a pitch pair: pll "gravitates" in diatonic space toward the adjacent and weightier pl2, which also belongs to superordinate
+levels. In Bharucha's (1984b) terms, pll is unstable and requires subsequent "anchoring" to the proximate and more stable pl2. (This asymmetry
+is familiar to musicians in the form of incomplete neighbors or appoggiaturas: the dissonance may be unprepared but must resolve by step to the sue-
+
+Tonal Pitch Space
+
+339
+
+ceeding pitch, to which it "belongs.") Of course, if the orientation of the
+space were toward another chord, say V/I, the opposite would be the casepl2 would require anchoring in pi 1. In similar fashion, in a I/I context and
+in chromatic space, plO gravitates toward p9 or pi 1 ; in a I/I context and in
+triadic space, p4 gravitates toward pO;and so on, throughout various harmonic and regional contexts.
+We turn now to chords and regions. The values for d for chords within a
+region (Figure 10) correlate well with Krumhansl, Bharucha, and Kessler's
+(1982) multidimensional scaling solution, given here in Figure 25, for the
+perceptual relatedness of the various diatonic triads to the tonic. Exception
+must be made, however, for d(iii), for which the value ; = 4 should evidently be used (see the remarks above regarding iii). With this proviso, it
+would appear that listeners intuitively employ the chord circle and common
+tones along the lines of the formula d = (i + ) j + k.
+The values for chords across regions are supported in a general way by
+experiments reported in Krumhansl, Bharucha, and Kessler (1982), with
+respect to chords heard in the context of the closely related keys of C major,
+G major, and A minor; and by experiments reported in Bharucha and
+Krumhansl (1983), with respect to chords heard in the context of the distantly related keys of C major and F(tmajor (also see Krumhansl, Bharucha,
+& Castellano, 1982). Furthertesting needs to be done, however, on evaluations of specific chords as heard in different regions.
+Moving up to the level of abstract regions, we find that Krumhansl and
+Kessler (1982) have established a regional space almost identical to Figure
+17. They projected the space in Figure 26 by intercorrelating rating profiles
+
+of
+Fig. 25. Krumhansl, Bharucha, and Kessler's (1982) multidimensional scaling solution
+the relatedness of chords within a key. (Copyright 1982 by the American Psychological Association. Adapted by permission of the publisher and author.)
+
+340
+
+FredLerdahl
+
+of individual
+multitones (suchas the one shownin Figure andapplying
+24)
+dimensional
+The fifthsaxis movesfromsouthwestto northeast,
+the
+scaling.
+thirdsaxis fromnorthwestto southeast.10
+Thereis no directdata regarding stairsof pivot regions,these being
+the
+evidence
+an innovationof the presentmodel. However,thereis tantalizing
+in Krumhansl Kessler's(1982) findingthat listenersbehavedifferently
+and
+in modulatingto close and distant regions. Subjectsreorientthemselves
+more slowly to distantregions;and once they do, they tend to lose their
+orientationto the firstregion.Evidentlyshiftingfrom one stairto another
+and
+moreeffort.Krumhansl Kessleralso show that different
+paths
+requires
+in
+as
+takenfrom one regionto anothercan be significant, reflected the formulafor D above.
+Takenas a whole, empiricalstudiessupportthe model. A differentsort
+of supportcomesfromearliermusictheories.Afterconsidering
+these,I confor
+cludeby returning the model'srelevance the GTTMtheory.
+to
+Theoretical Connections
+SCHENKER, MEYER, AND THE BASIC SPACE
+
+mature
+Perhapsthe fundamental
+voice-leading
+procedurein Schenker's
+is the Zug,11
+which may be definedas a diatonicprotheory (1935/1979)
+gressionbounded by pitches of the prolongedharmony.This operation
+works at any level in an eventhierarchy, unitesline and harmonyinto
+and
+one conception.The Urlinieitselfis a specialcase of the Zug at the highest
+structurallevel: over a prolongationof the tonic harmony,it outlines a
+downwarddiatonicspan froma tonic chord-toneto the tonic tone.
+The idea of the Zug can be generalized termsof the basicspacein Figin
+ure 5. Let us say that melodiccompleteness
+consistsof stepwisemotion at
+suchthatthe boundary
+in
+of the line aresuperordinate the
+any level,
+pitches
+space.Assumingthe contextI/I,the progression pl-p2, for example,is
+pOcompleteat the diatonicbut not at the triadiclevel;pO-p2-p4 (forminga
+Zug)is completeat the triadiclevel;pO-p4-p7 is completeat the open-fifth
+level;pO-p7-pl2 is completeat the octavelevel.
+
+10. Do not be misled in Figure 26 by the closer visual proximity of iii to I than of V and
+IV. This results from the translation of a four-dimensional solution to a two-dimensional
+format (C. Krumhansl, personal communication, 1987).
+11. This multipurpose word is usually translated in this technical context as "linear progression," although "span" gives more of its energy. As with other key Schenkerian concepts, I prefer the original German.
+
+Tonal Pitch Space
+
+341
+
+It is common for lines to be complete at a level more than one embedding
+step above. For instance, the chromatic line p4-p5- p6- p7 is complete at
+the triadic level; the diatonic scale is complete at the octave level. Although
+most Classical melodies explore completeness at the diatonic and triadic
+levels, some acquire their distinctiveness by emphasizing other levels and
+combinations of levels. Beethoven's Ninth Symphony begins with an exploration of open-fifth space, eventually filling it in with triadic and diatonic
+elaborations. The motivic material of the first movement of the Eroica Symphony often bypasses diatonic space in favor of a combination of triadic
+and chromatic spaces (Epstein, 1979). The famous C# in measure 7 motivates a number of dramatic passages in its varied search for completeness.
+Completeness occurs not only at the musical surface of a piece but at underlying reductional levels. Incomplete pitches always reduce out, leaving a
+residue of completion at a higher level in the space. A Zug eventually collapses into a representation of the harmony embodied in its endpoints.
+Other Schenkerianvoice-leading procedures can also be viewed in terms of
+completeness at underlying levels. For instance, the Anstieg (initial ascent)
+rises diatonically within triadic endpoints; the Bassbrechung, which unites
+with the Urlinie to form the all-important Ursatz, projects fifths within octave space.
+The notion of completeness accounts as well for important aspects of
+Meyer's (1973) theory of melodic implication (see also Narmour, 1977).
+Via the Gestalt principle of good continuation, Meyer claims that a diatonic
+step implies continuation in the same direction, and likewise for an arpeggiation. (Such an implication can be realized or not.) As with the Zug, this
+principle generalizes to all levels of Figure 5. In fact, the basic space offers
+one way of constraining the number of implications, an area where
+implication-realization theory has been criticized. If, say, a diatonic line
+reaches completion at the triadic level, there would be no further implication of continuation in the same direction. Hooked up to a thorough-going
+reductional theory, the theory would then be able to invoke a small number
+of implications at any point in a given reductional level (Jackendoff & Lerdahl, in preparation).
+
+SECHTER, RIEMANN, AND CHORDAL SPACE
+
+Much ink was spilled by nineteenth-century fundamental-bass theorists
+over which root progressions are and are not acceptable (Wason, 1985).
+The influential Sechter (1853) restrictedharmonic progressions to root motion by fifths and thirds, excluding motion by seconds, such as I to ii. In
+other words, he allowed only vertical or horizontal adjacent motion in the
+chordal space of Figure 13, whose "core" is reproduced in Figure 27. If di-
+
+342
+
+FredLerdahl
+
+Fig. 26. Krumhansl and Kessler's (1982) toroidal representation of interkey distances.
+(Copyright 1982 by the American Psychological Association. Reprinted by permission of
+the publisher and author.)
+
+iii
+
+V
+
+vii°
+
+vi
+
+I
+
+iii
+
+ii
+
+IV
+
+vi
+
+Fig. 27. The "core" of the chordal torus (from Figure 13).
+
+agonal motion in chordal space counts as a skip, he permitted only stepwise
+chordal motion.
+Progressions such as I- ii happen in real music, of course. For these Sechter was obliged to interpose "intermediate fundamentals," or, conversely,
+to relate more than one chord to a single fundamental. Thus, I-ii became I(vi)- ii. These maneuvers led to bizarre harmonic glosses, especially in the
+hands of his pupil, the composer Bruckner. Instead of rejecting Sechter's
+reasoning entirely, however, I suggest that his real mistake was to have confused the tonal and event hierarchies. Having intuited the chordal space of
+Figure 13, he went on to apply it inappropriately to real musical sequences.
+There is no reason why chord progressions should not include skips.12
+12. Fifty years later, with his more hierarchical and linear approach, Schenkereliminated
+unwanted progressions by treating them as voice-leading. This was an advance but not, I
+
+Tonal Pitch Space
+
+343
+
+Chordal space also bears on Riemann's (1893) functional theory. For
+each of his three harmonic pillars, I, IV, and V, he conceived of harmonic
+substitutions a root-third away that retain the original function of tonic,
+subdominant, or dominant. A substitute a third below (a Parallelklang)
+gives tonic function to vi, subdominant function to ii, and dominant function to iii; a substitute a third above (a Leittonwechselklang) gives tonic
+function to iii, subdominant function to vi, and dominant function to vii°.
+Thus iii and vi can vary in function depending on context.
+All of these relationships are implicit in Figure 27. The vertical axis yields
+the three harmonic pillars. On the horizontal axis, I is flanked by vi and iii,
+IV by ii and vi, and V by iii and vii°.
+
+SCHOENBERG AND REGIONAL SPACE
+
+The regional space of Figure 17 is identical to the Weber/Schoenberg
+space. (Krumhansl & Kessler point out the same correspondence with respect to Figure 26.) The method used here of generating the space presumably illuminates why Weber and Schoenberg thought it up in the first place.
+They must have conceived of regional distance in terms of regional tonics;
+and the equal proximity of I/V, I/TV,i/vi, and i/i is explicated by the formula
+ford.
+The concept of musical space preoccupied Schoenberg throughout his
+career. He invoked it not only in his treatises on tonal harmony (Schoenberg 1911/1978; 1954/1969) but in his central essay on 12-tone composition (Schoenberg 1941/1975). A case can be made that just as he constructed his large-scale 12-tone forms by analogy with tonal forms, so he
+built 12-tone space by analogy with tonal pitch space. Each pc has multiple
+positions in the space, depending at any particular point on set orientation
+instead of on scale and chord orientation. The chordal level emerges largely
+from subsets of the row, roughly in the way that triads are subsets of scales
+(only "roughly," because there is no analogue to the reductional relationship between triads and scales). The regional level affords the best correspondence: within the framework of hexachordal combinatoriality, two or
+more sets create a "12-tone regional unit" that transposes to proximate or
+distant regions, where distance is measured by interval cycles of transposition (as with i above) and by invariance of subsets across transposition,
+forming "common subsets" instead of common tones (by analogy with k
+
+think, a complete solution. Even voice-leading chords are chords, having a place in the overall event hierarchy and therefore in the tonal hierarchy. (On the other hand, in some cases,
+such as parallel six-three progressions, the chords are pure voice-leading.)
+
+344
+
+FredLerdahl
+
+above). These regional units facilitate a sort of modulation within the 12tone universe.13
+For reasons discussed elsewhere (Lerdahl, 1987b), moves within 12-tone
+space are not as cognitively transparent as those within tonal space. But the
+analogies are interesting, and they help to explain how Schoenbergwas able
+to erect such an intellectually rich system.
+Incidentally, the so-called Schoenberg-Schenker controversy (see, e.g.,
+Dahlhaus, 1973) can be somewhat defused with the realization that
+Schenker was primarily interested in event hierarchies and Schoenberg in
+the tonal hierarchy. Of course, Schoenberg also had a much more vertical
+conception of events than did Schenker; here the difference is real.
+PITCH SPACE AND GENERATIVE MUSIC THEORY
+
+There are three subjects I want to touch on briefly with regard to pitch
+space and generative music theory.
+First, as was pointed out at the beginning, pitch space and stability conditions are in principle the same thing. To the extent that the above model
+works, it can therefore replace the verbally stated stability conditions in
+GTTM (see especially pp. 224-225). The relevant reductional preference
+rules (TSRPR2 and PRPR 3) can then refer to distance measurements in the
+space. In the general case and all else being equal, given pitch events x and y
+in time-span or prolongational region r, x will dominate y if x is more proximate to the referential center of the space, and conversely if y is more proximate. This formulation works at any reductional level. It is significant here
+that pitch space, too, is hierarchical in character. This permits a correspondence between levels of the event and tonal hierarchies that otherwise
+would be impossible.
+Second, an acknowledged limitation of the GTTM theory is its sketchy
+account of voice-leading, an area where Schenker is strong. This is only a
+practical limitation, however, requiring not revision but extension of the
+theory. The correct solution, I believe, is not to borrow in a literal fashion
+Schenker's numerous voice-leading techniques, many of which I take to be
+merely colorful descriptions of hierarchical relations, but to adopt their essence through the above generalization of the Zug. That is, the notion of
+completeness, as fleshed out through the proposed pitch space, provides the
+basis for an account of voice-leading intuitions. (A related shortcoming of
+the GTTM theory, its inability to give separate structural descriptions for
+different contrapuntal lines, requires a different sort of solution that lies beyond present concerns.)
+13. Lewin (1972) discussed such relationships in connection with Schoenberg's Violin
+Fantasy, Mead (1985) in connection with Schoenberg's Violin Concerto.
+
+Tonal Pitch Space
+
+345
+
+Fig. 28. Measures 1-9 of the second movement of Beethoven's Waldstein Sonata, op. 53.
+
+Third, having a theory of the tonal hierarchy permits a richer description
+of event hierarchies. Let me illustrate with the opening phrase of the second
+movement of Beethoven's Waldstein Sonata, given in Figure 28. Smith
+(1986) demonstrates that a linear analysis alone fails to capture the passage's striking harmonic specificity. To rectify this shortcoming, he adds a
+leveled Roman-numeral analysis to his linear graph. This step is useful but
+does not really convey a sense of the phrase's extraordinary harmonic progression.
+A pitch-space description can help. With I/I reset to F major, Figure 29
+repeats part of Figure 17b, showing die regional route traveled in the course
+of the phrase. A number of diagonal steps leads to a distant, tentative jUVin
+measure 4, after which the harmony skips back to vii7V- A6- V7/! in measures 5 and 6. This "map" visualizes the harmonic journey far better than
+Roman numerals can.14
+But such a map has meaning only in conjunction with a hierarchical analysis. So, following the spirit of Smith's argument, I append a GTTM-style
+reduction of the passage in Figure 30.15The time-span reduction (TSR) appears in the upper staves of the musical notation, the prolongational reduction (PR) in the tree and lower staves. Nonessential voices are reduced out
+at underlying levels. The octave transfer at underlying levels in measures 1
+and 2 is justified by the motivic parallelism with measure 3 and by the re14. Longuet-Higgins (1962/1987), Carpenter (1983), Werts (1983), and others have employed maps such as Figure 29, although not in connection with a reductional analysis.
+15. It is beyond my purpose here to discuss the derivation of this analysis or its deviations
+from the theory as presented in GTTM. For a rather similar Schenkerian analysis, see Salzer
+(1952).
+
+346
+
+Fred Lerdahl
+
+Vl\
+ttii <®X«iv
+VII (vij) II J
+ttvi
+in (m\ (yj
+v
+tti
+i
+ttiv VI vi \±\
+vii
+
+II
+
+ii
+
+IV
+
+iv
+
+Fig. 29. The regional path in measures 1-9 of the Waldstein Sonata. (The space is taken
+from the regional torus of Figure 17, oriented to F major.)
+
+suitingvoice-leadingpatternof paralleltenthsgoverningmeasures1-5 chromaticallyat level b of the prolongationalreduction,diatonicallyat
+bass is a good example
+the
+levela. (Incidentally, chromatically
+descending
+to
+within open-fifthspace, and is a counterpart measures
+of completeness
+1-13 in the firstmovement.)
+2-4
+revealsthatmeasures prolongVII,but
+reduction
+Theprolongational
+that at a deeperlevel this regionexists within the frameworkof a passing
+motion from I to V. Measures6-8 are a compensatingV7 prolongation,
+whichin turnfallswithin the I prolongationof measures1 and 9. Thus the
+IV6
+abnormalprogressionto It is embeddedwithin a normalvoice-leading
+framework. The ttIV6is all the more salient because it abuts an
+intermediate-level
+quitesubordiyet
+groupingboundary; it is hierarchically
+nate. The expressiveforce of the passagecan be understoodonly through
+this combinationof harmonicdistanceand hierarchical
+position.
+in
+The doublerepresentation Figures29 and 30 is lackingin at least two
+respects.First, the regional space of Figure29 could be enrichedby the
+of
+equivalent Figure18, so that,for instance,not justiii but its actualchord,
+shouldcoexist
+V/iii,is shown.Second,the harmonicmapandthe reduction
+in one graph.Both steps presentnotationalproblems.I imagineprolongational trees reachingdown to events in some N-dimensionalpitch space,
+in
+unitingthe tonal and eventhierarchies one overallrepresentation.16
+References
+Balzano, G. The pitch set as a level of description for studying musical pitch perception. In
+M. Clynes (Ed.), Music, mind, and brain. New York: Plenum, 1982.
+Bharucha,J. J. Event hierarchies, tonal hierarchies, and assimilation: A reply to Deutsch and
+Dowling. Journal of Experimental Psychology: General, 1984a, 113(3), 421-425.
+16. The idea for this article appears in embryo in one section of Lerdahl (1987b). While
+preparing this article, I benefited greatly from correspondence and discussions with Diana
+Deutsch, Carol Krumhansl, Andrew Mead, and William Rothstein. Figures 6 and 10 were
+suggested by Krumhansl.
+
+Tonal Pitch Space
+
+347
+
+Fig. 30. The time-span and prolongational reductions of measures 1-9 of the Waldstein Sonata.
+
+Fred Lerdahl
+
+348
+
+Bharucha,J. J. Anchoring effects in music: The resolution of dissonance. Cognitive Psychology ,1984b, 16485 -5 18.
+Bharucha,J. J., & Krumhansl, C. L. The representation of harmonic structure in music: Hierarchies of stability as a function of context. Cognition, 1983, 13, 63-102.
+Browne, R. Tonal implications of the diatonic set. In Theory Only, 1981, 5(6-7), 3-21.
+Carlsen, J. Some factors which influence melodic expectancy. Psychomusicology, 1981,
+1(1), 12-29.
+Carpenter, P. Grundgestalt as tonal function. Music Theory Spectrum, 1983, 5, 15-38.
+Dahlhaus, C. Schoenberg and Schenker. Proceedings of the Royal Musical Association,
+1973, 100, 209-215.
+Deutsch, D. The processing of structured and unstructured tonal sequences. Perception &
+Psychophysics, 1980, 28(5), 381-389.
+Deutsch, D. The processing of pitch combinations. In D. Deutsch (Ed.), The psychology of
+music. New York: Academic Press, 1982.
+Deutsch, D. Two issues concerning tonal hierarchies: Comment on Castellano, Bharucha,
+and Krumhansl.Journal of Experimental Psychology: General, 1984, 113(3), 413-416.
+Deutsch, D., & Feroe, J. The internal representation of pitch sequences in tonal music. Psychological Review, 1981, 88, 503-522.
+Epstein, D. Beyond Orpheus. Cambridge, MA: The MIT Press, 1979.
+Jackendoff, R. Semantics and cognition. Cambridge, MA: The MIT Press, 1983.
+Jackendoff, R., & Lerdahl, F. Musical processing. In preparation.
+Krumhansl, C. L. The psychological representation of musical pitch in a tonal context. Cognitive Psychology, 1979, 11, 346-374.
+Krumhansl, C. L. Perceptual structures for tonal music. Music Perception, 1983, 1(1), 2862.
+Krumhansl, C. L., Bharucha, J. J., & Castellano, M. A. Key distance effects on perceived
+harmonic structure in music. Perception & Psychophysics, 1982, 32, 96-108.
+Kessler, E. Perceived harmonic structure ot chords in
+Krumhansl, C. L., Bharucha, J. J., ÔC
+three related musical keys. Journal of Experimental Psychology: Human Perception &
+Performance, 1982, 8, 24-36.
+Krumhansl, C. L., & Kessler, E. Tracing the dynamic changes in perceived tonal organization in a spatial representation of musical keys. Psychological Review, 1982, 89, 334368.
+Krumhansl,C. L., & Shepard, R. Quantification of the hierarchy of tonal functions within a
+diatonic context. Journal of Experimental Psychology: Human Perception & Perform-
+
+ance, 1979, 5, 579-594.
+
+Lake, W. Melodic perception and cognition: The influence of tonality. Unpublished doctoral dissertation. Ann Arbor: University of Michigan, 1987.
+Lerdahl, F. Timbrai hierarchies. Contemporary Music Review, 1987a, 2(1), 135-160.
+Lerdahl, F. Cognitive constraints on compositional systems. In J. Sloboda (Ed.), Generative
+processes in music. Oxford University Press, 1987b.
+Lerdahl,F., ÔC
+Jackendoff, R. A generative theory of tonal music. Cambridge, MA: The MIT
+Press, 1983.
+Lewin, D. A study of hexachordal levels in Schoenberg's Violin Fantasy. In B. Boretz oc E. T.
+Cone (Eds.), Perspectives on Schoenberg and Stravinsky. New York: Norton, 1972.
+Lewin, D. Generalized musical intervals and transformations. New Haven: Yale University
+Press, 1987.
+Longuet-Higgins, H. C. Two letters to a musical friend. The Music Review, 1962, 23, 244248 and 271-280. [Reprinted in H. C. Longuet-Higgins, Mental processes: Studies in
+cognitive science. Cambridge, MA: The MIT Press, 1987.]
+Mead, A. Large-scale strategies in Arnold Schoenberg's twelve-tone music. Perspectives of
+New Music, 1985, 24(1), 120-157.
+Meyer, L. B. Explaining music. Berkeley: University of California Press, 1973.
+Narmour, E. Beyond Schenkerism. Chicago: University of Chicago Press, 1977.
+
+Tonal Pitch Space
+
+349
+
+Piston, W. Harmony (4th edition, revised and expanded by M. DeVoto). New York: Norton, 1978. (Originally published 1941.)
+Riemann, H. Vereinfachte Harmonielehre, oderdie Lehre von den Tonalen Funktionen der
+Akkorde. London: Augener, 1893.
+Salzer, F. Structural hearing. New York: Dover, 1952.
+Schenker,H. [Freecomposition], E. Oster (Trans.), New York: Longman, 1979. (Originally
+published 1935.)
+Schoenberg, A. [Theory of harmony]. R. Carter (Trans.), Berkeley: University of California
+Press, 1978. (Originally published 1911.)
+Schoenberg, A. Composition with twelve tones (1941). In A. Schoenberg, Style and idea.
+New York: St. Martins Press, 1975.
+Schoenberg, A. Structuralfunctions of harmony (rev. éd.). New York: Norton, 1969. (Originally published 1954.)
+Sechter, S. Die Grundsàtze der Musikalischen Komposition. Leipzig: Breitkopf u. Hârtel,
+1853.
+Shepard, R. N. Structural representations of musical pitch. In D. Deutsch (Ed.), The psychology of music. New York: Academic Press, 1982.
+Shepard, R. N., & Cooper, L. A. Mental images and their transformations. Cambridge,
+MA: The MIT Press, 1982.
+Smith, C. J. The functional extravagance of chromatic chords. Music Theory Spectrum,
+1986, 8, 94-139.
+Wason, R. W. Viennese harmonic theory from Albrechtsberger to Schenker and Schoenberg. Ann Arbor: UMI Research Press, 1985.
+Weber, G. Versuch einer Geordeneten Théorie. Mainz: B. Schotts Sôhne, 1824.
+Werts, D. A theory of scale references. Unpublished doctoral dissertation, Princeton University, 1983.
+
+

@@ -1,0 +1,562 @@
+Yale University Department of Music
+
+Report: The 1994 Lancaster University Music Analysis Conference
+Author(s): Richmond Browne
+Source: Journal of Music Theory, Vol. 39, No. 2 (Autumn, 1995), pp. 385-395
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843973
+Accessed: 16/12/2009 08:56
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+REPORT
+
+THE 1994 LANCASTER UNIVERSITY
+MUSIC ANALYSIS CONFERENCE
+
+Richmond
+Browne
+
+A decade had passed since the firstBritMACand it remainedonly to
+venture North, beyond Liverpool and Birmingham and Manchester,
+nearly to Carlisle, nearly to Hadrian'sWall. After London (twice) and
+Cambridge,Oxfordand Southampton,'one welcomed the westrenwind
+sweeping in from the Irish Sea.
+Friday afternoon
+In reportson conferences previous, this reviewer has often found a
+"theme"runningthroughvariouspapers.Thoughnone of the BritMACs
+to datehavebeen organizedaroundan announcedsingle topic, it has often
+happened that one seemed to come to the surface early on-perhaps
+because some issue of emergingimportwas on the minds of severalparticipants as they worked in solitude but in a community where notions
+385
+
+rapidlybecame slogans in the all-but-instant
+dialogue now availableon
+electronic mail. These suggestions, once stated with felicity, are developed informally in subsequentdiscourse through graceful allusions to
+some earlierspeaker'sformulation-or they may indeedbe the sole property of each listener as the conference progresses,in an interiorperception/cognitionoperationnot unlike the very one we call music listening.
+At anyrate,for this reporter, Cross (WolfsonCollege, Cambridge),
+Ian
+soundedin the
+by his very title: "MusicAnalysis and Music Perception,"
+opening paperan intellectualnote that seemed to echo in many following statements.Put simply,it runsthus:as studies of music as a cognitive
+processgrow in numberand depth,it is becomingclearerandclearerthat
+there is a real and importantdifference between theories of musicderivedfrom musical practice,the analysis of scores, the study of music
+as notatedor translated
+into languageor othermodes of informingabout
+music, and theories of musical cognition-the supposedworkingsof the
+brainas it perceives sound across time, categorizesit and its reactionsto
+it into at least proto-musicalevents, recategorizesthese things into memory (and thereby alters that memory), and utilizes its own strategiesto
+conductfurtherperceptionsin the light of these experiences.Thatthe apparatuswe use to talk about, formalize, or abstractmusic is not necessarily(not even possibly) identicalto the interiordialogueof musicalperis
+ception/cognition(increasingly seen as completely interdependent) a
+principleof real significance. It may be centralto the revampingof our
+discussion, as in the "new"musicology, properlyseen. A new ontology
+calls fortha new epistemology.
+Cross said this sortof thing and much more, with greaterelegance.As
+he put it, without a delineationof the two realms, cognitive science and
+musical experience, it will often be the case that one will claim to subsume the other.The error,as formulatedby Bruner,took place when "the
+cognitive revolution [was] divertedfrom its originatingimpulse by the
+the
+computational
+metaphor," firstrevolutionhavingbeen convincedthat
+"thecentralconcept of a humanpsychology is meaning"shapedby "intentional states [and] the symbolic systems of the culture."2
+Nicholas
+Cook has referredto the notion that folk psychology can safely be ignoredas the deletion of the listeneras a free agent.
+and Narmour,Cross
+Evaluatingthe theories of Lerdahl/Jackendoff
+finds their work only partially successful in evoking the explanatory
+power of science to deal with unconscious acts by individuals.Recent
+work by Johnson and Laird (based on that of George Lakoff) suggests
+thatthe epistemology of science itself is more culturallydeterminedthan
+positivism would have us believe, and Churchland's
+hopes thatcognitive
+science will producea new and improvedfolk psychology must be seen
+as ambitious, for now.3Once again, a warning against misplaced concreteness.
+386
+
+The very next paper, "In Search of a Past for Schenker"by Allan
+of
+Keiler(BrandeisUniversity),gave a powerfuldemonstration the difficulties involvedin definingthe work of a majormusical analystand analytical theoristwith respectto thatof seminal figuresbefore and afterhis
+time. Keiler,surelythe most deeply linguisticof currenttheorists,offered
+strong evidence that conflationsof Schenkerwith the organicismattributed to Goethe are mostly "fossilized encomia,"and that the seemingly
+prescienthints of generativethinkingone can find in Schenkerfrom the
+perspectiveof our Chomskiantime could not have been known as such
+to him, since the concepts of rule-governedsystems were simply not yet
+available.Thus the beauty of so many of Schenker'sstatementslies in
+their isolated musical convincingness, not in their orderly or explicit
+derivations.
+They mustbe takenlargely as theoriesof music, not of musical cognition.
+Voice Leading,
+GregoryProctor(Ohio StateUniversity),in "Idealized
+an Analytic Universal," satisfiedone of the manycompletionmanias
+has
+which activatetonal music's surfaces.Using an elegant gamut notation,
+his idealized voice leadings accountfor all of the voice-leading connections between tonal triads and seventh chords. Some possibilities are
+eternally impossible/fascinating,like the resolution of V7 to I in root
+position if both are in complete form. Othersoccur more thanonce, and
+require context for disambiguation.Schenker presented only applications of these, in competingstyles;WilliamBenjamin4 Allen Winold5
+and
+have presented similar but more constrainedtreatmentsof the notion;
+Proctorwould seem to have exhaustedthe topic.
+But RichardCohn (Universityof Chicago), talkingabout"Third
+Relations, CommonTones, and HexatonicSystems,"was able to offer a useful extension of one kind of voice-leading in triadicchains whose successive connections are classically legitimate,but which quickly lead to
+third-chains peculiarvalue in the music of Franck,Liszt,
+of
+major-minor
+In
+Mahler,andWagner. such patterns(e.g., A;+, G#-,E+, E-, C+, C-, A;+,
+etc., in Riemanniannotation),the triadsstill function as acoustic norms,
+but little remainsof harmonicfunctionin any traditionalsense. In cognitive terms,what is being demonstrated thatthere are always more patis
+ternsavailablethanany one system can makeuse of. Stylistic novelty lies
+in the utilizationof these possibilities.
+Lancasterbeing both near and far from London, people were still arriving or alreadydepartingeven as Fridayevening's banquettook place.
+ConferencedirectorAnthonyPople and his assistantsKirstyKirkpatrick
+and Lucy Warrenhad everythingnicely organized,however,and excellent food was received with pleasure, as were all too brief remarksby
+Society for Music Analysis and Conference Program chair Jonathan
+Dunsby.Although this was the first BritMACto be held outside of London and Oxbridgewithoutparticipation the Royal MusicologicalAsby
+387
+
+sociation, a very satisfying numberof musical scholarsfrom every level
+of academic practicein the United States and GreatBritain(and points
+beyond) were to be found conversingwarmlyas the evening went on.
+Saturday morning
+On a cold morning, Raymond Monelle (University of Edinburgh)
+warmly translatedeveryone to a faun's afternoon with the charm and
+power of a master interpreter.He found "Semantic Opposition in
+Debussy"between the literarydialectic and musical unity of this characterpiece, not, as Ratnerhas shown for classical music, at the level of first
+and second subjects,butjuxtaposedby Debussy in the firsttwo phrases,
+which Monelle sees as a "shepherd'spastoral= flute/syrinxchromatic
+insistence"and a "woodlandpastoral= hornpentatonyin developmental
+multiplicity,"Convincing though his presentationwas, some listeners
+challenged the detailed reading of each theme, hearing/readingsome
+of
+interpenetration the two images. Monelle's reply was as artful as
+Debussy could have wished.
+At the end of his own abstractfor "Hearing/Reading
+Beethoven's
+Cavatina,Op. 130, mvt. 5," Robert Pascall (Universityof Nottingham)
+claims that "Beethoven'sCavatina 'speaks' of sublime motions of the
+humanspiritthrougha play of oratoricand operaticconventionsmanipulated to delineate serenity,disruption,and resolution. Such hermeneusis emphaticallydoes not constitutemetaphor,
+neitheris it over-interpretation (using but marginalisingthe piece); ratherit validatesitself as an
+explicative humanistinterpretation,
+provisionallyfulfilling the semiosis
+of the piece, and forming an essential aspect of holistic analysis."Coming from a graduatestudent,that would constitutehubris.From Pascall,
+it is simplejustice. Surely there is room in someone's catalog for a collection of the teachingsof this master;I rememberno more comprehensive and convincing one-hourdidact.
+Only twice during LancMAC94 were we asked to choose between
+conflicting sessions. My colleague John Covach (University of North
+Texas then, Universityof North Carolinawhen you read this) attended
+two of them while I went to the others.Covach reports:
+In her "BeyondLe Boeuf: AnalyzingMilhaud'sFifth ChamberSymDeborah
+Mawer(University Newcastle-upon-Tyne) out to
+of
+set
+phony,"
+reclaimthe "seriousness purpose" Milhaud's
+of
+in
+that
+music,arguing the
+structural
+sophistication
+presentin many of the composer'sworks has
+and
+In
+to
+gone largelyunnoticed, thusunappreciated. addition presenting
+a rich barrage convincinganalytical
+of
+examples,Ms. Maweralso consideredMilhaud's1923 theoretical
+paperin La RevueMusicale,"Polytonaliteet Atonalite."
+While the scope of the paperallowed us only a
+388
+
+musicandthe theoretical
+glimpseintothe detailsof Milhaud's
+underpinit is evidentthatfurther
+workon thistopicwill provide
+botha fuller
+nings,
+workandthe deeperappreciation this musicthat
+of
+pictureof Milhaud's
+Ms. Mawerenvisions.
+Covachcontinues:
+The paperby Dai Griffiths
+titled "'Some(OxfordBrookesUniversity)
+times it's hardto be a woman':Fixities and Flexibilitiesof Genderin
+Recent Song,"was both thought-provoking,
+addressingwhat are ultiand
+matelyvery seriousandcrucialissues in interpretation, delightfully
+filled with carefullychosen musicalexamplesdrawnfrom
+entertaining,
+both popularart and music. Workingoutwardfrom Roland Barthes'
+famousessay, "TheGrainof the Voice,"Griffiths
+exploredhow text setof
+with the contextof the
+ting andthe performance the text can interact
+text in very surprising
+ways. Three interrelated
+questionswere posed:
+"What
+whena textproduced a womanis sungor set by a man?
+happens
+by
+Or when a text by a man is sung or set by a woman?And how do we
+understand song, as women and as men?"Weavinga paththrough
+that
+musicalexamplesby Elliott Carter(settingtexts of RobertLowell and
+Elizabeth
+Griffiths
+illustrated a
+in
+Bishop),the Smiths,andPolly Harvey,
+fashionhow an interpretation
+focusedon issuesof gendercan
+compelling
+and
+conopen up a very interesting worthwhileset of music-analytical
+cerns.
+
+While John Covach was with Mawer and Griffiths,this reporterwas
+enjoying two highly professionalrevelationsof classical magic. William
+Renwick (McMasterUniversity)showed us the secret of "HiddenFugal
+Paths: [by] Interpreting Middlegroundin Handel's Fugues."Partof
+the
+the way Handel managed the composing-out of fundamentalstructure
+was (in contrastto Bach's sectionalhandlingof each entryor set of them)
+due to his trick of dove-tailinginteriorcadences via ingano: a deceptive
+downturningof the leading tone to a flattedseventh, so that a V-I close
+becomes V-V/IV-IV,etc. This and other exploitations of tonal/modal
+ambiguitywere nicely handledin a well-plannedpaper.
+Michael Spitzer (University of Durham) needed sleight-of-handto
+avoid foot-in-mouth while navigating the treacherouswaters of schematic Gestalt-grunding/reification is impossible to continue this way,
+(it
+but he did, brilliantly).In a reading saved from excruciatingdetail only
+by creditinghis audience with powers of auditorydisenjambment
+equal
+to the exquisitecombinatoriality Mozart'smusic, "MusettesandComof
+binationSchemain Mozart'sC MajorStringQuartet"
+madeGjerdingen's
+1-7/4-3schema into a continuousmosaic of 1-7 (T5) 1-7 becoming4-3, 43. This trick depends on the intervallicrarityof ics 1 and 6, of course,6
+and constitutes a version of the ingano that Renwick found in Handel.
+389
+
+Where Meyer saw a gap to fill (in 1-7,2-1), Gjerdingen7
+posits a cultural
+artifactcapableof deformationand/orprolongation,and thus gives us, in
+Spitzer'sterms,"newlinks between the realmsof tonalprolongationand
+topical reference(planes which Agawu thinks are distinct)."Sometimes
+the sheer flood of words from a really fluent speaker (Milton Babbitt,
+Alan Street?)can outruneveryone in the arroyosof a lecturehall-but it
+is fun if you can float. And here again the line between what music can
+do (has done) and what the braindoes (how it does it) may be seen as a
+limen: a boundarywhich will eventuallybecome a cottage industry.
+Saturday afternoon
+Alan Street (University of Keele) on "'Von Heute auf Morgen':
+Schoenbergand the New Criticism."Schoenbergsubsumes his successors, whose glossia almostdisplacehis texts.OnlyAdoro has anticipated
+present-daypostmodernity,where imitation is a cop-out for attempted
+murder.Yet as Babbitt, Boulez, and Keller cannot decide which sin to
+commit, they follow him, who was willing to die to save himself... or
+was it music ... from ... ethnicity?
+I'll go out and come in again.
+Schoenbergand the cult of personality-the cult has one father/Babbitt, Boulez, Keller compete to be the sons-Taruskin sees this not as
+homage,but as a poietic fall-music with its manufactured
+technology is
+sanctionedonly locally-a politics of exclusion-Taruskin emphasizes
+the historyof performances,not writings-Bloom says composersmake
+history,they don't rewriteit-Dika Newlin asks why Schoenberg'sbio is
+so hardto write:she feels overpoweredby its subject-S has usurpedthe
+authorityto define his own place-Berg: "he is the father"-man as
+idea-a visionary-pure logos-lonely prophet/moralist-a modelof the
+Jewish-feared God would not allow [what?]... sense of destinyrespondingto [other] genius and tradition,to authority,constitutes aunot
+tradition, just in music... David
+thority-upholding Jewish/Christian
+Gross: traditionis a facsimile-something "seen again."Now a historiographyof the Schoenbergtradition:
+(1) Babbit. Near positivist, active critic of the European,pluralist/
+American;paradoxicallya studentof S's receptionhistorypragmatist
+anti-Adomo (because B is a structuralist), sees S as anti-system,as
+yet
+empiricist.
+(2) Boulez Condemns S's American conciliatorypieces-condemns
+memory-S is Dead through[?] his successors.
+(3) Hans Keller.Defenderof Schoenbergand Freud,contra Schenker
+andthe thesis of repressedtonalbackgrounds-censure of Boulez as narcissistic-notes Viennesetraditionof protestingtradition-likes Stravin390
+
+sky (who has geographic[?] limitations)and Britten-creativity = resistance, not in works but in paradigms.
+Adomo. [pre-]EchoesBoulez: aesthetic resistance= a fault common
+to all modem; new music levels, and becomes flat
+Mann.Dr.Faustus-(mis)-paradigmaticof man-Faustian mystery,
+of
+identity-order/chaos-Christian vs. Nazi-in Genesis of [the?] Novel:
+serialismbecomes more in the book than
+vom Heute auf Morgen: a parody of trad/pop-a Zeitoper.Irony =
+self-hate.
+Farbenmelodie(S in 1951: competitivew/Webem)
+The division of poietics and history-theory/analysis should sublimate dialectic process-Patricia Carpenter:reading S back into history-Hanslick-[Severine] Neff: organicism [is derived] from others'
+mechanics [?][!]
+Epistemologygroundedin the secular-Fr.: "noone can kill in absentia"-myth of origin/visiblepast-visible theology: simulacra:devaluation of the sign-ideology respondsto ideology
+Geniusor de-mystification-defying reduction-Barth: unbindingreleases gender... race... ethnicity-Ringer: S as Jew-Judy Brown: S
+had to submitto his differentness,yet 12-toneis to redeem [what?]from
+"Jewishness" .
+..
+Revision liberates,but may be political
+the Politics of identity:a generalreconciliationneeded-musicology:
+all forms of humanness-"music into discourse"-against transcendence-is value what musicology is about?
+Listening to Alan Street is nearly impossible, unless you are some
+combinationof KevinKorsyn,CarolynAbbatte,andAlan Street.Yet here
+is his abstract:
+As chief radicalamongearly twentieth-century
+musical modernists,it
+is unremarkable
+that Schoenberg should subsequentlyhave become
+the focus of intense critical scrutiny.Less readily appreciableis the
+extentto which this criticismhas formeda dominantimage of the composer. For example, the writings of, among others, Boulez, Babbitt,
+and Keller are customarily taken to represent a form of apology
+endemicto contemporary
+creativerevolution:a mediatinginfluencein
+the face of technicaland aestheticalienation.Such interpretations
+are
+then held to be supplementary Schoenberg'sextensive self-analyto
+ses. Yet if only because they are understoodto provide a more systematicrealisationof ideaspartiallyformulated theirinventor,
+these
+by
+secondary expositions acquire a primary significance which consequentlystandsto displace the original subjectof inquiry.
+That Schoenbergstudies have nonetheless maintainedan orthodox
+critical perspectivemay be explained by their strong orientationto391
+
+wardscompositionand the context of its production.By contrast,the
+aspect of receptionhas been relativelyneglected except for the signal
+contributionsof the composer's most rigorous critic, Theodor W.
+Adomo. AlthoughAdorno'sanalysisof modem musicalphilosophyis
+groundedin a conceptionof structural
+autonomy,its espousal of nonidentityplaces it in close proximityto the differentiallogic of present
+Moreover,Adorno'scommitmentto criticism
+day post-structuralism.
+as an element of necessity also anticipatesthe factitiouscondition of
+postmoderity wherein interpretive
+interpositionbecomes omnipresent. The prospect of a postmoder interpretation Adomo which
+of
+arises from this conjunctionalso invites speculationover a postmodern conception of Schoenberg, a question which may be addressed
+with reference to writings by Roland Barthes, David Gross, Michel
+FoucaultandJeanBaudrillard, well as ThomasMann'snovel, Docas
+tor Faustus.
+The paper following Alan Street's was by Julie Brown (Emmanuel
+College, Cambridge)and led a quiet audience to the safer ground of
+piece-centered discussion. "In the Beginning was the Song: Allegory,
+Theory,and Schoenberg'sMusical Idea"exploredSchoenberg'stropeof
+his new music as an emergence of divine creative authority,seeing the
+first song of Das Buch der hangenden Gdrten in both theoreticaland
+poetic senses as an evocationof Creationitself. This sortof thingrequires
+a sure touch, considerablediffidence,and a close readingof the poem in
+question. Brown's practiceof sensitive musical analysis was reassuring
+at thisjuncture.
+Tea.Tobacco.The fadingwarmthof Autumnat the edge of the Empire
+... well, the Roman empire, then ... an American reportertalks with
+British friends and thinks a bit too much about tomorrow'straipse at
+Vindolandaand HaltwhistleBur. Back to the last paper.
+The last speakeron a Saturday
+afternoonhadbetterbe forthright,
+even
+challenging.BruceCampbell(MichiganStateUniversity)was ready,and
+his "TheGraphicalPresentation MusicalAnalysis by Computer"
+of
+went
+well. He gave an overview of recent advances in CD-ROM technology
+using Apple Computer'sHypertalklanguageaimed at universityinstructors and musician-programmers-twokinds of people who seldom share
+their individualexpertises-and thereby risked dauntingthe first while
+boring the second. Many were the questions, so successful was the presentation.
+Another fine dinner (a bit pricey for some) gave the acknowledged
+principalof the Britishtheoreticalrenascencehis always-welcomedtime
+to place things in perspective.ArnoldWhittall(King's College, London)
+received the warm reception which surely is his due. And then the real
+business of the conference went on into the late evening: talk with old
+392
+
+friends not on the program (Craig Ayrey, R.J. Samuels, J.A. Ellis,
+Nicholas Cook, EstherCavett-Dunsby,
+Jim Samson, Naomi Cumming)
+aboutpeople notpresentbutwarmlyremembered
+(DerekPuffett,Christopher Wintle, Allen Forte, Carl Schachter). Much talk about watching
+young scholars turn slowly into veterans,and newer ones emerge with
+confidence,aboutthe similarlist of valuablepeople in the United States
+whom one always looks for at an SMT meeting, and how wonderfulit
+would be if the two groups really knew each other.There is a sense in
+which music is an entirelyprivatematter,but none in which talk aboutit
+can be.
+Sunday morning
+The now-familiarinnovationof the postersession was up and running
+all weekend, with much comment for the presentersstandingby to defend their work. One can mention only a few: MinnaMiller (University
+of Kentucky)on large scale in Schumann'sFantasie; Tom Royall (Universityof Keele) on perceivedoctave equivalence;Neil Todd(University
+of Sheffield)on perceptualanalysis;Jack Boss (BrighamYoungUniversity) on Schoenbergand Schenker;John Covachon Schoenberg'sotherworldliness; David Smythe (Lousiana State University) on Schenker's
+Formenlehre.
+There is something quite satisfactoryabout being able to
+look at an argument the selfpaced,nonserialway a posterallows-and
+in
+then ask the authorwhat she meant, if he had consideredyour own pet
+idea, what will come next.
+But the morning'spapershad begun and one hurriedto eitherWason
+and Moore, or to ap Si6n and Browne. Of the formerpair,William Renwick writes:
+In "APitch-Class
+Motivein Webern's
+W.
+'GeorgeLieder,' 3,"Robert
+Op.
+Wason(EastmanSchool of Music) gave us a highly empirical"tonal"
+readingof the piece-tonal in the sense thatthe pitchD is a focal point,
+a pointof reference,
+sometimesan objectof motionor repose.The reading was fair and as objectiveas such a readingcan be. Whatthe paper
+could have used was a more generaldiscussionof the otherprocesses
+methodin Webern's
+involved,and what we know of the compositional
+atonalwork.
+Renwick continues:
+I hadno previousacquaintance the musicof Barraque, foundthe
+with
+so
+materialin "TonalRemnants Grandiloquence: Relationship
+and
+The
+of
+MaverickSerialPracticeto Expressionin the Worksof JeanBarraque"
+in
+Moore(RoyalAcademyof Music)did
+interesting its own right.Jeremy
+a goodjob of explaining "healthy" in whichBarraque
+the
+usedserial
+way
+393
+
+how
+of
+withoutbecomingservant them,anddemonstrated he
+techniques
+tonalelementsandreferences
+as
+withinhis serialpractice
+accommodated
+dramatic
+a meansof heightening
+expression.
+was attentiveto Pwyll ap Sion (Coleg GogMeanwhile,your reporter
+ledd Cymru,Bangor) as he gave us a taste of [Michael] "Nyman'sNeurological Opera:Science quaArt."The text (andtitle of the work)is from
+Oliver Sacks's The Man WhoMistookHis Wife a Hat. The principal
+for
+characteris a musician who is sufferingfrom acute visual agnosia (i.e.,
+he can see but does not know that he can). Although the patient is derangedand deluded in many ways, when the plot calls for him to reluctantly sing some Schumann,his performanceof Ich grolle nicht is without flaw.This occasions much talk in the opera,and skillfully by ap Si6n,
+about the sense in which science is deconstruction,and music a science
+corporealresonancesof the imaginarymind."
+restoring"theabstracted
+This reviewerconducted,at the 3rd ICMPCin Liege in July 1994 and
+againat the SMT meeting in Tallahasseein November,gatheringsof persons who had read enough of AmericanNobelist neurobiologistGerald
+M. Edelman'swork8to be interestedin discussing the extent to which a
+new and ratherpowerfulview of the workingsof the brainmight invigorate some questions for music perceptionand cognition.A similarmeeting took place at the presentLancMAC,but will not be reviewedhereand
+indeed, its purposewas not expositorybut exploratory, that end was
+achieved.
+Two more majorpapersremained,even as trainschedules beckoned.
+The University of Lancasteris situated,like so many modem monastic
+colleges, on a remotehillside well away from the presumablydistracting
+noise of its pronominalsite. This city lover finds little to recommendin
+such rustication,butperhapsothersenjoyed the sense of being marooned
+with little to do but pursuethe intellectualfleece.
+Michael Russ (University of Ulster at Jordanstown)can always be
+countedon for a fact-filled,beautifullyorganizedanalysis with some further point in mind, and his "CastingLight on Musorgsky'sSunless" did
+not disappoint.Russ has a greattalentfor seeing affectualsignificancein
+analytic detail of the seemingly most ordinarysort. The pivotal song in
+the cycle is "Be Bored";in this careful reader'shands, dissonance becomes deceit, simplicity sarcasticbanality,the piano society, the composer the poet and the vocal part, and reality unbearable.It sounds
+forced, but it comes off like a Carl Schachteror EdwardCone masterstroke.Here is anotherwriterwhose work should be made availableto a
+wider professionalpublic.
+Last of all, and perfectly comfortablewith it, JonathanKramer(Columbia University)used every bit of his time with an enormousdeconstructioncalled "TheFinaleof Mahler'sSeventhSymphonyViewedfrom
+394
+
+a PostmodernPerspective."Kramerwas one of the first music theorists
+His
+to see beyondstructuralism. workhas been consistentlybuilton stubborn psychological insights about disconnectedness,temporalcrosscut,
+interfusionof detail, what Frommcalled long ago (approximately)"the
+dreamer'sdisplacementof accent."So postmodernismwas waiting for
+and
+Kramer, Mahleris not the only humanbeing one can find in history
+The technical stuff in a Kramerdiscursion
+waiting to be misunderstood.
+is all in plain view: in Mahlereverythinghappensout of phase, migrates
+and interpenetrates,
+takes place out of turn,reachingan emulsion which
+is a "non-teleologicalform that is nonetheless tonal."There were times
+talk
+duringKramer's when the audienceseemed restless,as if thingswere
+getting a bit close to home. Please read my first sentence again.
+The end of LancMAC94was thatit calmly dissipated.The Society for
+Music Analysis now runs these things; it held a boardmeeting, but saw
+no reason to have a general one. From ClaphamCommon to the slopes
+above MorecambeBay, the enterprisehas attainedcorporatestatus and
+misplacedits doubts.Well done.
+NOTES
+1. Forreports this author KCLMAC andCUMAC86, held at King'sColon
+84
+by
+and
+see
+lege London Cambridge
+University,
+respectively, JMT31 (1987): 165-71;
+on OXMAC atOxfordUniversity, JMT (1989):228-36; on CityUMAC
+see
+33
+88,
+91, at City University
+London,see JMT36 (1992): 207-16; on SotoMAC93, at
+the University Southampton, JMT38 (1994):355-67.
+of
+see
+2. JeromeBruner,
+Acts of Meaning(Cambridge London:Harvard
+and
+University
+Press),33.
+3. Paul M. Churchland,Scientific Realism and the Plasticity of Mind (London: Cam-
+
+Press, 1979),pp. 107-119.
+bridgeUniversity
+4. See WilliamBenjamin,
+"Pitch-Class
+in
+in
+Counterpoint TonalMusic," MusicTheBrowne(New York:
+AcademicPress, 1987):
+ory: Special Topics,ed. Richmond
+1-32.
+5. See Allen Winold, Harmony: Patterns and Principles (Englewood Cliffs, N.J.:
+
+Prentice-Hall,
+1986).
+6. See Richmond
+of
+Browne,"Tonal
+Implications the DiatonicSet,"In TheoryOnly
+5/6-7 (1981):3-21.
+7. See RobertGjerdingen, Classic Turnof Phrase (Philadelphia:
+A
+Universityof
+Press, 1988).
+Pennsylvania
+8. See Gerald M. Edelman, Bright Air, Brilliant Fire: On the Matter of the Mind
+(New York: Basic Books, 1992); The Remembered Present: A Biological Theory
+of Consciousness ( 1989): Topobiology:An Introduction to Molecular Embryology
+(1988); and Neural Darwinism: The Theory of Neuronal Group Selection (1987).
+
+395
+
+

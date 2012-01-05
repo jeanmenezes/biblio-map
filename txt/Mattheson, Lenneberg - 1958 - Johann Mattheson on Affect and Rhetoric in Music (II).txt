@@ -1,0 +1,4290 @@
+Yale University Department of Music
+
+Johann Mattheson on Affect and Rhetoric in Music (II)
+Author(s): Johann Mattheson and Hans Lenneberg
+Source: Journal of Music Theory, Vol. 2, No. 2 (Nov., 1958), pp. 193-236
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843199
+Accessed: 14/12/2009 15:25
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+JOHANN
+
+MATTHESON
+
+ON
+IN
+
+AFFECT
+
+MUSIC
+
+AND
+
+RHETORIC
+
+(II)
+
+by
+Hans Lenneberg
+Brooklyn College
+Elaboration, and
+Concerning the Disposition,
+Decoration of Melodies
+(Selections from Part II, Chapter XIV)
+1. It is often thought that a little inventive ability suffices for
+This, however, is not true. Invention itself is not enough
+composition.
+even though it may solve half the problem, for [it is true that] there
+must be invention to begin with. A good beginning is half the job. There
+is a proverb that says, "All's well that ends well!' To fulfill it, disand decoration - in terms of rhetoric, dispoposition, elaboration,
+sitio, elaboratio, et decoratio - are necessary. 71 While these terms
+have been mentioned above, a fuller explanation follows here.
+2. There are many who begin something with such generosity
+that they cannot keep it up. Horace complained about this already in
+his day when he said, "It was begun as a wine-jug and ended as a waterpot!'* There are many examples of composers who have a wealth of
+invention, but whose fire always goes out very quickly. They neglect
+to dispose their material carefully by never giving it a thought and thus
+they never work out anything and cannot keep anything up to the end.
+Marcello knows better than this, as we shall soon see.
+3. Other composers
+pick up whatever inventions they come
+across; usually only the smallest part of them is their own. However,
+they are clever and dispose, elaborate and decorate their plagiarisms
+so well that it is a pleasure to watch them at work.- If I had to make a
+choice between good invention and clever elaboration, etc., I might
+choose the former. I should prefer, however, to have both at the same
+time. This combination of qualities, alas, is as rare as a person of
+both beauty and virtue.
+4. First, let us consider disposition which consists of the nice
+ordering of all the parts and circumstances
+of a melody or an entire
+work. It is somewhat similar to a building plan, which is drawn, designed, and sketched to show where a hall, a room, a chamber, etc.,
+71. The meaning of these terms will become clear in the course
+of this chapter.
+* Amphora coepit instituti; currente rota cur urceus exit?
+Horace, Ars poetica, v. 21.
+72. Mattheson chooses an (unidentified) aria by Benedetto Marcello to illustrate the points he wants to make in this chapter.
+193
+
+Musical disposition differs from rhetoric only in its
+shall be placed.
+medium, 73 for it must observe the same six parts as does a speaker:
+confirmation,
+and
+introduction,
+narration,
+proposition,
+argument,
+confirmatio,
+close; [i.e.] exordium, narratio, propositio,
+confutatio,
+et peroratio.
+5. The earliest composers gave just as little thought to the above
+order as did the untutored naturally gifted speaker before rhetoric became a formal science and an art. In fact, despite its correctness,
+the
+result of anxiously following and measuring one's work by this schoolbook method would often be very pedantic. It can, nevertheless,
+not be
+denied that in the careful examination of good speeches as well as good
+melodies one can meet these parts - or, at least, most of them following each other in good sequence; despite the fact that most of the
+authors would as soon have given thought to their death as to such
+This is especially true of musicians.
+guides.
+6. Even in common conversation nature teaches us to use certain
+tropes74, certain suggested meanings of words, certain arguments or
+reasons, and to keep them in some order even though the speaker may
+never have heard of rhetorical rules or figures.
+This very natural
+mental instinct, which causes us to present everything in good order
+and form, has given certain clever heads the basis for their rules.
+Up
+to now the outlook in this respect has been dark in the field of music.
+We hope that it will gradually grow lighter and we shall try to make a
+contribution toward this goal.
+7. Exordium is the introduction and beginning of a melody in
+which its purpose and intention are shown in order to prepare the
+listener and to arouse his attention.
+In a movement without instruments, for voice and bass only, the introduction is very often contained
+in the prelude of the thorough-bass.
+When there is more than this ac[the introduction] is found in the ritornello.
+We call
+companiment,
+ritornello the part first played bythe instruments, since it later serves
+as a return [Wiederkehr] and may close as well as open the movement.
+8. Narratio is, as it were, a report, a tale in which the meaning
+and nature of the delivery is suggested.
+It is found at the entrance of
+the vocal part or the outstanding concertato-part
+[vornehmste ConcertStimme] and is related to the preceding exordium by means of a clever
+connection.
+9. The propositio,
+the proposition itself, briefly contains the
+It is of two kinds, simple
+meaning and purpose of the musical speech.
+or compound.
+Here we must mention colored or ornamented [verbramte] propositions,
+which belong to music exclusively and are unknown in rhetoric.
+Such propositions
+have their place immediately
+73. Vorwurff, Gegenstande oder Objecto.
+74. Mattheson uses the word tropos.
+The English cognate is
+"trope" which as a rhetorical term means "a figure of speech; the use
+of a word or expression in a figurative sense!'
+Webster's New Collegiate Dictionary, 1950, p. 912.
+194
+
+following the first paragraph [Absatz] of the melody, where the bass,
+as it were, takes the lead, and presents the subject [of the musical
+speech]75 briefly and simply.
+Thereupon the vocal part begins its
+propositio variata, unites with the bass, and thus creates a compound
+Later we shall look at an aria with this in mind, and thus
+proposition.
+see whether it fits this outline.
+That will make everything we have
+said here much clearer to both eye and ear, although it may now be new
+and strange.
+10. Confutatio is the resolution of objections.76
+In music it may
+be expressed by means of ties [Bindungen] or by the citation and refutation of apparently foreign passages.
+Such contrasts, carefully used,
+are a special source of aural pleasure.
+Everything that goes against
+the proposition is resolved and settled.
+This part of disposition,
+although it is one of the most beautiful, is not found in music very often.
+11. Confirmatio is the clever reinforcement
+of the
+and is brought about in melodies by means of surprising
+What
+(by which we do not mean the ordinary reprises)77.
+mind are agreeable passages repeated several times with
+nice variations.
+This will be shown later in the example.
+
+proposition
+repetitions
+we have in
+all sorts of
+
+12. Peroratio, finally, is the end or conclusion of our musical
+oration and must, above all else, be especially moving. The conclusion
+is found not only in the melody itself, but most often in the postlude
+whether for bass or for many voices,
+and whether this
+[Nachspiel],
+ritornello has been heard before or not. It is customary that the aria
+concludes with the same material with which it began. This, consequently, serves as peroratio as well as exordium.
+13. Here, too, a clever composer can often agreeably surprise
+his listeners by making unexpected changes in the close of melodies as
+well as in the postludes.
+They will make a very pleasant impression
+and thus give rise to the special emotions that correspond to them.
+That is the real purpose of the peroration.
+The kind of close that
+breaks off suddenly, ex abrupto, also serves as a useful means of
+arousing emotions.
+14. As proof of the above statements let us examine an aria
+Marcello.
+It will be a model according to which one can examine
+other melodies with regard to their disposition,
+for although not
+compositions share the same sequence of [rhetorical] parts, almost
+of these sections will be found in any good melody.
+
+by
+all
+all
+all
+
+75. "Subject" here must be taken as a rhetorical term.
+The
+German word is Sache which can be understood only as the "subject" of
+a speech or an essay and has no musical connotation.
+76. In rhetoric confutatio means that the speaker presents arguments against his own proposition andthen proceeds to resolve them.
+77. Reprise means a repetition of entire sections; repetition indicated by a sign. (Walther, op. cit., p. 521.)
+195
+
+15.
+
+The following bass-subject
+
+is the exordium of the aria:
+
+The same is taken up without ado by the voice and, since it already reveals the entire purpose of the melody, it is used almost identically
+in the following manner; however, it is now at a higher pitch:
+
+Ep
+
+-r$r J
+
+i-
+
+>~~~
+
+r;;
+
+p
+
+&~7
+
+This is actually the narration, which is continued up to a cadence,
+the completion of the meaning of the words.
+
+with
+
+16. After a modulation to the third79 the bass begins an answer,
+the real proposition,
+as it were, which appears thus as propositio
+simplex:
+
+Even though the subject is still the same, it has gained new strength
+from having been transposed.
+Since it is first stated by the bass alone,
+it is a simple proposition.
+
+* It seems that the composer has used the transposed
+Dorian
+mode. Since, however, we cannot give the entire aria here, the followand the major sixth or f-sharp
+ing staves do not bear a key-signature
+is added only as an accidental.
+One can see that even the old modes
+can still be used in the galant style.
+78. The vocal part is originally in the c-soprano clef. Mattheson's vocal notation, i.e., as far as the note-flags are concerned, has
+been retained.
+79. Nachdem nun der Absatz in der Tertz erfolgt ist ...
+Mattheson's omission of the actual part here referred to makes a translation of this passage somewhat difficult.
+Whether or not there is a
+modulation in the technical sense is not apparent from his text. The
+translator has used the word "modulation" to indicate that the music
+has somehow moved to C. The problem is not acute here, since between minor and its relative major there is no problem of modulation.
+196
+
+17. Next, however, the voice enters with a noticeable
+and thus creates a propositio variata:
+
+I
+
+I,
+
+' 7e
+X2djA-^tI
+
+0
+
+r
+
+r
+
+C
+
+pa
+
+r
+
+alteration
+
+Jo
+
+.I
+
+Next, the melody is continued in the same manner for several measures
+until the meaning of the words demands a halt again.
+18. Now the bass takes up the subject once more, in a way that
+resembles
+the beginning.
+Before it has come to the end, however, it
+is met by the voice-part,
+which gives the melody an entirely new appearance. In company with the bass it thus forms a compound proposition, propositio composita, as follows:
+Al
+
+A
+
+I
+
+.
+
+- $t-fre
+I
+
+1"'-" I~- I
+
+a I
+
+I
+I
+
+r
+
+rI
+I
+b
+
+r
+
+f I rr
+
+'
+
+-
+
+I -
+
+u
+V
+
+p
+
+I
+
+ER
+
+I
+
+%.
+
+C'
+?
+
+M_
+
+19. Again, after some measures, the confirmation or reinforcement of what has already been heard in various forms takes place, but
+with noticeable and beautiful alteration.
+-_i
+
+7
+
+i}
+
+$
+
+86
+
+Ih
+
+L
+
+)WSPbbSSUSGGl
+r
+
+Id~r
+
+p
+
+-
+
+This is as far as the first half of the musical speech goes; it is then,
+usually, closed in the same way in which it began andthus a peroration
+or conclusion is made.
+
+80. The translator has made some unindicated corrections.
+The
+upper voice of the original is short an eighth rest in the first measure.
+There is no sharp before the g in the upper voice of the original. In the
+case of the missing sharp the error obviously occurred in printing; the
+lines on which the notes stood were printed with the notes, and there is
+a distinct gap in the stave before the g in question.
+197
+
+has presentedhis
+20. In the second part, after the composer
+new
+and has, as it were, made an apostrophe,
+* he tears off, so to
+narration
+a little piece of his heretofore
+and makes
+a
+speak,
+subject
+general
+out of it. Thus, by means of ties and contrasts
+(read:
+special
+subject
+dissonant
+he keeps up the confutation
+it
+until he resolves
+objections),
+to the Hypodorian
+neatly and brings it to a rest on the fourth, according
+I shall quote and annotate the entire passage:
+mode.
+I' N
+?
+
+_
+
+kD
+
+4p
+L V^ I
+
+If-
+
+brg-P^
+
+I
+
+---k
+
+J
+^
+
+t
+
+~-
+
+?
+
+II
+
+I
+
+n.
+
+-
+
+di
+
+r
+
+*f
+e4)
+
+I
+
+rs
+
+?
+
+A
+I -M-1
+
+I I ^I
+^
+
+.7
+L
+
+j)~e)
+
+*-*''^J'-^jj
+It
+
+6fo.lt-
+
+- LJ_ i
+
+-JL
+
+.-
+
+Ar
+
+f-
+
+rI
+
+7L-KLA
+IN
+
+i
+
+N
+
+r
+
+I
+1
+
+or transition
+b) this is a transitus
+a) here ends the peroration;
+by means
+of which the preceding
+is joined to the following;
+c) at this point begins
+the apostrophe
+or aversio;
+or REPERCUSSIO
+to the
+d) is the answer
+sixth of the tonic [Hauptton];81 e) here the contrasts
+and their resolution
+* An apostrophe
+means that the speaker
+turns
+to
+unexpectedly
+listeners.
+81. Apparently
+is thinking of the momentary
+Mattheson
+arrival
+in f in measure
+4, although it is most likely one of his innumerable
+since at d) the key is definitely
+i. e., the seventh of
+mistakes,
+g minor,
+In 521 (line 2) he correctly
+the tonic.
+is on
+says that the new answer
+the fourth; there is, however,
+a grammatical
+difference
+between
+the
+In 220 Mattheson
+two cases.
+uses the dative, thus implying
+that "the
+sixth" is indirect
+"the answer to the sixth"'
+object; hence the translation
+while the passage
+in S21 is translated
+as "the answer
+on the fourth''
+The use of the dative,
+to
+implying
+"going toward" leads the translator
+other
+
+198
+
+meet,
+
+confutatio,
+
+rhetoribus
+
+dissolutio,
+
+nobis resolutio.
+
+21. After this the bass takes up the complete subject by means
+of a new answer on the fourth, makes something entirely new out of it
+fremd herum] and is followed by the voice, again with a
+[fdreht esgaz
+It looks like amplification and argument (amplificationi
+&
+change.
+argumentatione),
+by means of which the melody moves toward the fifth.
+
+L
+
+7
+
+22. Here follows a fresh answer or repercussio
+on the fifth of
+the key. In rhetoric, under the heading of figuris dictionis, this is
+called refractio seu reverberatio. 83 This, however, is handled in such
+a way that this time the voice-part does not follow but moves against
+the bass.
+Finally, the above-mentioned
+[excerpted?] clausula enters a
+new confutatio and thus the second sentence or period closes and the
+
+suppose that Mattheson may have mistakenly taken the f in measure 4
+as the key toward which the subject is moving, whereas it actually is
+the beginning of a new sequence.
+82. Literally,
+the word Verbesserung
+used here by Mattheson
+means "improvement'
+83. The translator
+believes
+that, in view of the context, the
+rendering of the Latin phrase as "refraction or reflection', will speak
+for itself without further explanation.
+199
+
+repetition
+.
+
+is begun.
+
+A
+
+84| 74
+
+785
+
+PACAPO
+
+^
+
+o
+
+WWI
+
+-
+
+a
+
+This may justifiably
+be called a good plan.
+It is not only well laid out,
+but well worked out. Aside from the six prescribed
+parts of disposiof certain elements
+tion, there is also a demonstration
+to the
+belonging
+of fiurae
+dictionis
+et sententiae.86
+We have pointed them out
+category
+in passing,
+even though they are part of decoration.
+Whoever is so in84. Another
+obvious
+defect of printing.
+The first a of the tie is
+in the original.
+There is a distinct
+missing
+gap in the stave and the
+tie is in its usual place,
+i. e., under the stave.
+85. Apparently
+In the original
+inagain a defect of printing.
+stead of one sixteenth
+note followed by two thirty-second
+there
+notes,
+are two sixteenth
+and one thirty-second
+notes.
+86.
+the distinction
+between
+the furae
+sententiae
+Concerning
+and the fgurae
+H. J. Unger (Die Beziehungen
+dictionis,
+zwischen
+Musik
+und Rhetorik im 16. bis 18. Jahrhundert,
+1941, p. 7f.) gives the follow"Word figures
+[dictionis]
+...
+ing brief explanation:
+[are] those which
+arise from changing the position,
+and comparing [inthe gramrepeating
+matical
+words and expressions,
+while the second group [sensense]
+consists
+of figures
+whole sayings
+tentiae]
+The
+(Gottsched).
+[involving]
+latter group includes
+the question
+distribution
+[see be(Interrogatio),
+which means a sudden breaking off of the speech!'
+low], and aposiopesis
+of distributio
+from the works of Shakespeare.
+Unger cites an example
+It will, no doubt, be helpful to repeat this example
+"A knave, a
+here:
+an eater of broken meats; a base, proud,
+rascal,
+shallow,
+beggarly,
+three-suited,
+hundred-pound,
+filthy, worsted-stocking
+knave; a whoreson, glass-gazing,
+finical rogue; one trunk-inheritsuper-serviceable,
+ing slave; one who wouldst be a bawd, in way of good service
+..."
+etc.,
+etc. (King Lear, Act II, Scene II.)
+"As a musical
+term distributio
+was first used by Scheibe,
+who
+understands
+it to be, exactly
+as in rhetoric,
+a breaking down of someIt has its greatest
+in the fugue'
+thing into its parts.
+application
+Ibid.,
+p. 74.
+200
+
+dined will pursue this study further. He will be astonished to find that
+these things are contained in all good melodies,
+just as if they [the
+rhetorical parts] had been made for the purpose.
+24. Such disposition is very important, and the relationship between all the parts of a piece depends on it. Nevertheless,
+many excellent persons and very inventive composers usually overlook it. If
+it is by accident, since they
+nonetheless
+succeed,
+they sometimes
+of their natural gifts and inignore the basic rules and, regardless
+stincts, have never formulated any rules concerning disposition.
+25. The art of the orators consists of the following: they begin
+with their strongest arguments, present the weaker ones in the middle,
+and close with stronger ones again. This could well be something of
+which the musician, too, may make use, particularly in the general
+disposition of his work. It may seem as if this prescription lent approval to those [composers] who do nothing but give their arias a good
+da capo in which, while the beginning and end are equally strong, the
+middle often looks quite pathetic.
+The reason why this kind of disposition is not good lies in the fact that it ignores the whole while putting
+all the effort into certain parts. One must understand that a work must
+not merely have this appearance in general, but be particularly disposed in such a way that each part in itself observes the three degrees
+of strong, stronger, and strongest argument. 87
+27. In writing large oratorios I usually begin atthe end and work
+this out while the spirit is still fresh enough for me to create something
+effective.
+all the while I consider the rest of the work.
+Nevertheless,
+Everyone must follow his own inclination. If I mention my way [of composing], I do it neither out of conceit, nor in order to make it a rule,
+but only to point out that I have always succeeded with this method. The
+listeners have always been so moved atthe end, where it matters most,
+that they remembered a great deal of it.
+40.
+it will be
+judgment
+however,
+of speech
+41.
+sively.
+
+If we are finally forced to say something about decoration,
+chiefly to remind the reader that this depends more on the
+of the singer and player than on the composer.
+There must,
+be some decoration of melody, and the figures and ornaments
+will serve well here if they are properly applied.
+
+One must under no circumstances
+use decorations
+excesThe figures* which are called [figurae] dictionis have a great
+
+87. Paragraph 26 and fifteen paragraphs beginning with number
+28, all of a very general nature, have been omitted.
+* Word figures that ornament expression and are
+pleasing to the
+ear consist of repetition, in which all the repeated parts sound either
+almost alike or entirely different.
+There are twelve of them, and they
+can be easily applied to single notes.
+in which an enPhrase-figures,
+tire phrase expresses a certain affect, occur both within and outside of
+debate. [Unterredung can mean either debate or conversation; the use
+of this term is not very clear. ] There are seventeen of these, almost
+all of them usable in music. They may be found in anybook on rhetoric.
+201
+
+to the alteration
+of
+similarity
+[Wandelungen] of notes, alterations
+length, or of rising and falling, etc. The figurae sententiae, however,
+are concerned with entire phrases [Satze], with their changes, alteraornaments [Manieren]
+tions, imitations,
+answers, etc. The so-called
+and I cannot forgive the
+very often spoil many beautiful melodies,
+French for the overelaboration
+and overdecoration
+of their doubles,
+much as I like their instrumental style. 88 They go so far that the
+beauty of their original melody is often lost. In these phrase-figures
+all word-figures
+are lost. Since the latter are best in music where
+notes take the place of words, they should come first, regardless of
+all alterations and variations of phrases, i.e., of entire passages or
+musical periods.
+42. Printz* tells the following relevant story about the famous
+Josquin: "When Josquin** was still at Cambrai, a performer added an
+indecent ornament [Coloratur] in one of his works. He [Josquin] became so annoyed that he said to the performer,
+'You ass, why do you
+add an ornament?
+If I had wanted that ornament I should have written
+it. If you wish to improve well-composed
+music, write your own but
+leave mine alone!"
+43. Nevertheless,
+we do not hold ornaments in contempt. Wellplaced ornaments are to be esteemed, whether a composer who is himself a clever singer or instrumentalist
+has written them in or whether
+they be added by the performer. We do disapprove of their abuse, however, and of the singers and players who, lacking in taste and sense,
+use them excessively,
+without moderation,
+and in the wrong places
+The same goes for the excessive fancies of some fantastic composers.
+They take their mad ideas for pearls and gems while they are usually
+The use of forced and oft-repeated ecmerely cut and painted glass.
+of ill-sounding intervals, as well as other unseemly libercentricities,
+ties, frequently produces real Hottentot music. 89
+45. The limitations of space and of our purpose do not permit
+further elucidation.
+Were it not for this, it would be easy to discuss
+and demonstrate how the twelve word-figures
+and seventeen phraseto the decoration of melody. What is
+figures might lend themselves
+
+88. The reader should not be misled by the use of the term "ornaments"here
+and assume that Mattheson is speaking of "word-figures '
+since ornaments are used only on individual notes. Mattheson is speakin relationship to the double, since in doubles the
+ing of phrase-figures
+entire dance (Mattheson would say "melody") is changed, usually by ornamenting the melody; they are really variations.
+* W.C. Printz, Historische Beschreibung der edlen Sing-undKling:
+kunst, [Dresden, 1690, ] Ch.X, ST33.
+** It is strange that the greatest
+composers of France were
+called there from abroad. Josquin and Lasso were Netherlanders,
+Lully
+was Italian, etc., etc.
+89. One paragraph omitted.
+202
+
+more usual, for example,
+than musical epizeuxis
+or subjunctio,90
+which means the strong repetition of the same note in the same part of
+the melody:
+basically:
+
+4Z
+
+J
+
+|
+
+z
+
+with figuration:
+
+I--
+
+Lr
+
+J
+
+I
+
+46. What is more commonly used in musical composition than
+anaphora91 which means that a passage already used recurs at the beginning of several successive phrases and thus establishes a relatio, a
+relationship.
+
+I
+
+,,I
+
+~
+
+rr
+
+4,
+
+Lr
+Thr1-1-"'-
+
+Epanalepsis,
+epistrophe, anadiplosis, paronomasia,
+polyptoton, anta93
+naclasis, ploce,
+etc., may be used so naturally in music that it al90. "Epizeuxis [subjunctio appears to be a synonym, since it
+means "to yoke to"' "to subjoin"] is a word-figure in which the same
+word is repeated at the beginning of a sentence, the second time with
+etc! "
+greater emphasis.
+Example: 'It cannot be; it cannot be that,
+Johann Christoph Gottsched, Handlexicon oder kurtzgefasstes
+Worterbuch der sch6nen Wissenschaften
+und freyen Kiinste, Leipzig,
+1760,
+p. 626.
+91. "Anaphora, a musico-rhetorical
+figure meaning about the
+same as pepetitio.
+It comes about 1) when a periodus or single word
+is repeated several times in the course of a composition for the sake
+of emphasis; 2) when the bass is repeated several times, as in chaconnes'' Walther, op.cit., p. 34.
+"Anaphora, repetition is what both arts [music and rhetoric] understand by this term. Anaphora is the repetition of the beginning word
+in several successive
+or immediately following each other
+sentences,
+(Gottsched). ... Burmeister knows it as a sort of fugue in which a
+melodic section is repeatedthroughout
+in some, although not all voices.
+Thuringus restricts anaphora to the bass.
+Unger, op. cit., pp. 68-69.
+92. Mattheson offers no explanation for this symbol which is not
+the customary sign for trill (t or tr) used elsewhere in this book.
+93. Epanalepsis,
+the return of the beginning of a movement at
+the end of same. Ibid., p. 76.
+Epistrophe.
+According to Scheibe "... [epistrophe] is the repetition of the closing melody of the first movement at the end of other
+movements!' Cited in ibid., p. 76.
+Anadiplosis, the repetition of the last word of a phrase as the
+first word of the next phrase. Walther, op. cit., p. 34; cf. Unger, op.
+203
+
+most seems as if the Greek orators had taken them from there; they
+are all repetitiones vocum, repetitions of words used in different ways.
+47. Concerning the phrase-figures
+which deal with entire passages [moduli], who does not know the use of exclamations,
+already
+discussed above* in three different applications,
+as a section of musical speech?
+Where is parrhesia94 stronger than in music? The parathings are said, can almost be grasped
+doxa, in which surprising
+or withdrawal is found in almost all opEpanorthosisg5
+physically.
+motion [Gegenbewegung].
+posite
+Paraleipsis,
+aposiopesis,
+aposall at home in music.
+trophe, 96 etc., are, in certain respects,
+48. Many readers will say to themselves,
+"We have used these
+figures and things for so long now without knowing anything about them
+that we can well continue in this way and ignore rhetoric"' These persons seem even more ridiculous to me than the bourgois gentilhomme
+p. 68.
+Paronomasia.
+"... In rhetoric it means the repetition of a word
+or phrase with an addition which gives it special emphasis. ... In music the additions may be single notes or pertain to louder or softer
+volume [starker oder verminderter Vortrag]j' Unger, op. cit., p. 86.
+Polyptoton.
+"According to Vogt the repetition of a section of
+'
+melody on different pitches ('Cum colon in diversa clavi repetitur!)
+Ibid., p. 87.
+"is one of those word-figures
+... consisting only
+Antanaclasis,
+of plays on words but containing no fire of affect. A word having the
+same syllables with two different meanings!' Gottsched, op. cit., p. 99.
+(The translator was not able to discover the musical application of this
+device.)
+This term seems to have the same meaning as antanaPloce.
+clasis.
+Cf. ibid., p. 1313.
+* Pt. II, Ch. IX. [The translator
+has made this the following
+section, see page 206. ]
+94. Parrhesia.
+'When mi contra fa is used in a composition in
+such a way that it does not sound bad:' Walther, op. cit., p. 463.
+"According to Burmeister the occurrence of unusual and daring
+dissonances resulting from the logical linear consistency of the voices!'
+Unger, op. cit., p. 87.
+95. Epanorthosis
+or correctio.
+"A phrase-figure
+in which one
+speaks as if one were correcting something one apparently had said too
+hastily!' Gottsched, op. cit., p. 615.
+96. The translator did not find paraleipsis in any of the sources
+he consulted.
+The meaning of the term is given in Liddell and Scott's
+Greek English Dictionary as "a passing over; 2) a rhetorical figure in
+which a fact is designedly passed over in such a way that attention may
+be especially called to it!'
+"In music a general pause, a silence in all the
+Aposiopesis.
+voices!'
+Walther, op. cit., p. 42; cf. Unger, op. cit., p. 70.
+See Mattheson's footnote to ?20 above. Gottsched
+Apostrophe.
+(op. cit., p. 118) says, "apostrophe or direct address is a phrase-figure
+in which one addresses
+absent or dead persons or inanimate objects.
+Example: 'Hear me, oh heavens! '"
+cit.,
+
+204
+
+of Moliere,
+who did not know that he was using a pronoun when he said,
+when he said to
+"I, thou, or he,' or that he was using the imperative
+his servant,
+"Come here.'
+I do not wish to go into more detail here,
+49. To be truthful,
+the reader
+can gather the truth of my remarks
+from the
+partly because
+above.
+while I do not care to be considered
+a novice,
+I do not
+Besides,
+want to carry this business
+too far all at once.
+50. Years ago our learned musicians
+wrote entire books to teach
+vocal ornaments.
+(They called them figurae cantus; I call them figurae
+have nothing to do with the above-mentioned
+cantionis.)
+These, however,
+of these [figurae]
+figures and must not be confused withthem.
+Examples
+the work of the former CaDelmay be found in, among other sources,
+meister
+of Nuremberg,
+Andreas Herbst, 97as well as in Printz.
+51. These things change almost annually
+and the old ornaments
+are no longer valid.
+or give way
+They may change their appearance
+to newer fashions.
+must be regarded
+Thus, such instructions
+entirely
+with pity, and a similar
+be equally
+study written
+today would possibly
+dated a few years hence.
+There are some ornaments,
+which
+however,
+have greater
+the accent,
+the Schleuffer
+as, for example,
+permanence
+9 Kuhnau has taught
+[sic] and the Vorschlag.
+about
+[us] something
+is concerned,
+in the preface
+them, at least as far as keyboard-playing
+to his suites.
+This will not be read without profit.
+While such ornaments belong to the art of performing,
+the composer
+must leave op97. J.A. Herbst,
+Musica
+moderna
+overo maniera
+del
+prattica
+buon canto, 1641.
+98. Op. cit.
+99. The translator
+has left these terms
+in their original
+lansince the terminology
+of baroque ornamentation
+is still someguages,
+what problematical.
+"Accent"
+and "Vorschlag"
+are both generally
+as "appoggiatura"
+translated
+and appear to mean the same ornament.
+"Schleifer"
+are the ornaments
+to Kuhnau, are indiwhich, according
+cated by the following
+signs: ^-or
+). The word is usually translated
+as "slide:'
+There is extensive
+literature
+this question and
+concerning
+the interested
+reader
+can investigate
+the problem
+at will.
+We shall
+mention here only Mattheson's
+Kuhnau's
+to his Neue
+source,
+preface
+Clavier
+Theil . .., Leipzig,
+A facsimile
+1689.
+of this
+Uebung erster
+with extensive
+preface
+deucommentary
+may be found in Denkmaler
+tscher Tonkunst,
+Erste
+Vol. IV, Leipzig,
+1901.
+Folge,
+(Kuhnau's
+is on pp. 3 and 4 while the commentary
+preface
+may be found in the
+editor's
+An amusing sidelight
+introduction.)
+that may be of some significance
+is that Mattheson
+refers
+the reader
+to an actually
+very inon ornamentation.
+complete
+Kuhnau gives the performer
+commentary
+of information.
+The performers
+only a bare minimum
+of the Baroque,
+of course,
+had no difficulty
+with ornaments,
+since they appear to have
+been accustomed
+to supplying their own. Kuhnau supports this custom.
+In his later publications
+of keyboard
+music he has virtually
+no ornaments and refers
+the performer
+to the above-cited
+preface and to ornaments
+as they are indicated
+in the work of 1689.
+In that work, he
+will find the ornaments
+says, the performer
+he (Kuhnau) likes.
+205
+
+portunities
+
+for them.
+
+52. One more thing to remember.
+The fugue must rightly be
+included among the figures of amplification,
+of which there are about
+These figures are more suitably useful for expansion, amplithirty.
+and show, than for the thorough
+fication, decoration, ornamentation,
+of the spirit.
+In the fugues, as in a hothouse, we find
+persuasion
+that rarely
+distributio, 100 and other blossoms
+mimesis,
+expolitio,
+develop into fruit. More about this elsewhere.
+Concerning Musical Punctuation
+(Selections from Part II, Chapter IX)
+1. The theory of musical incisions, 101 also called distinctiones,
+interpunctiones,
+posituras, etc., is the most essential part of compoIn Greek it is called diastolica. * This theory has, however,
+sition.
+been so underrated that until now no one has formulated the slightest
+rule for it; in fact, no information [Unterricht] about it has been available and the name is not found in the latest musical dictionaries.
+2. Some years ago a great German poet thought he had made a
+strange discovery, namely, that music behaved like rhetoric in this reHow marvellous!
+The music-masters,
+spect.
+especially those who
+instruct others in the art, ought to be ashamed of their own backwardness.
+Although one or the other of them has naturally stumbled on
+some healthy thoughts, the good gentlemen have remained on the edge
+without penetrating to the core of the problem.
+Consequently they have
+neither publicly nor privatelybeen able to putthe matter into its proper
+form. 102
+5. Each statement [Antrag], be it spoken or written consists of
+sentences or periods.
+These, in turn, consist of smaller sections that
+together make up a period. Sentences made in such a way grow into
+paragraphs and several paragraphs make a chapter. This, in brief, is
+the stepwise design or climax of all that is spoken, written, sung, or
+played.
+100. Concerning distributio see footnote 86.
+Mimesis.
+"In rhetoric mimesis means the mocking imitation of
+something previously said.
+Vogt explains its musical application as
+follows: 'Ethonopesis vel mimesis.
+Cum aliquis alterius vocem imiThe translator interprets this as"...
+tatur, ut mulieris!"
+If some
+voice imitates another in the manner of a woman (i.e., on a higher
+pitch)!' Unger, op. cit., p. 83.
+"Expolitio consists of remaining in the same place and looking at
+something said now from this, now from that angle (expol. est ... cum
+in eodem loco manemus, et aliud atque aliud dicere videmur. )' Johann
+Chr. Ernesti, Lexicon technologiae latinorum rhetoricae ...,
+Leipzig,
+1797, p. 156.
+101. The words "Incision"' "Einschnitt"' or "Abschnitt" will in
+general be translated simply as "punctuation" hereafter.
+* An etymological footnote by Mattheson has been omitted.
+102. Two paragraphs omitted.
+206
+
+6. In melody,
+as it were,
+we need at most
+tone-speech,
+at a time. Usually this takes up the duration of an aria.
+paragraph
+is made up, as we said, of several
+short sentences
+paragraph
+of which at least two are needed.
+There are occasional
+periods,
+to the demands of clarity.
+ceptions to this doctrine,
+according
+
+one
+The
+or
+ex-
+
+7. Those great poets (if they don't mind [my saying so]) who in
+lines for a paragraph,
+i. e.,
+writing a cantata [-text] take the following
+an aria, offend against the essential
+and natural character
+of a musical
+since these lines actually
+constitute
+no more than a single
+sentence,
+sentence.
+Because
+of its length it is called a peribole
+or periodicum.
+Being, that fills not only time
+But all of eternity;
+Nay, out of whose perfection
+Even the sea of eternity,
+Springs like a little brook;
+Yet all of whose greatness
+is but goodness:
+My soul adores thee. 104
+8. There are seven lines or sections
+here which, however,
+make
+but one four-member
+sentence
+or period.
+Because
+of its length and
+distinction
+it looks like a rich garment.
+the
+Yet, without belittling
+it is not at all musical.
+It is not a
+great inner beauty of the thoughts,
+that would inevitably
+have to be an aria, for the particular
+paragraph
+reason
+that in an aria the melody must have a place to rest a little at
+some point before the end. While it would be suitable
+for setting as an
+arioso or [some] other extraordinary
+it cannot
+movement,
+accompanied
+be an aria.
+9. A period or sentence,
+to describe
+it in its turn, is a concise
+statement
+a complete
+Whatever
+containing
+group of words
+meaning.
+does less than fulfill this demand is not a period or sentence.
+A structure containing
+more is a paragraph,
+which could and by rights,
+should - consist
+of several
+sentences.
+10. We have thus determined
+that a single period cannot make a
+musical
+because
+it lacks the parts required by an aria. Outparagraph
+side of music,
+as is well known, such sentences
+may be differentiated
+and separated
+(as incomplete
+from their context.
+paragraphs)
+However,
+a good reason for doing this - especially
+shouldhave
+if he be
+everyone
+a teacher.
+The rule can be even better illustrated
+by the opposite.
+11. Let us select
+a passage
+consisting
+as the above.
+This
+just as many sections
+Let us imagine
+the singer sitting
+periods.
+
+of just as many lines and
+has three
+one, however,
+on the bank of a river and
+
+103.
+Mattheson uses various
+German synonyms
+for "paragraph.'
+In English,
+however,
+they are all best rendered
+by the one term.
+104. All the translations
+of poetry in this chapter
+are of necessity quite literal and no attempt at poetic rendering
+will be made.
+The
+will be maintained
+of its correctness
+original punctuation
+in
+regardless
+English.
+207
+
+uttering the following:
+Clear mirror of my sorrows,
+Accept my tears.
+Let the whispering crystals
+Gently, gently fall!
+That to your silver-waves
+May be joined the dew of my tears,
+to become pearls.
+12. Although these fluid words cannot be compared with the excellence of the uplifting thoughts of the previous example (we are not
+dealing with this aspect here), they are, nevertheless,
+very pleasant
+and singable.
+Aside from this, they have the melodic character of a
+complete paragraph, which is what we want to show here. We have no
+intention of slighting the praiseworthy efforts of anybody.
+13. If many such arias and recitatives
+follow each other the
+work becomes a cantata or a scene [Auftritt], which may be considered
+a musical chapter.
+Collecting a number of such chapters, as in an
+oratorio, passion or theatrical work, makes a book.
+14. The recognition of a sentence obliges me to make
+close until it is over. 105 The recognition of a paragraph,
+forbids me to make a complete close anywhere but at the
+In both cases we have formal endings; the first,
+paragraph.
+is not complete.
+
+no formal
+however,
+end of the
+however,
+
+15. When there are several periods I can make several different
+formal closes or stops by the use of different keys106 (except for the
+last one). The paragraph, however, must be the only place to have a
+complete final close; i. e., when the final period is also the last one.
+If the last period is repeated, it has the same freedom as its predecessors. There is nothing, by the way, to keep me from making a cadence
+on the tonic elsewhere than at the end. This is frequently
+very good at
+the beginning. 107
+23. One rarely finds inexperienced or untutored composers who
+jump over a comma in speech, although even the brighter ones may do
+this - after due consideration - in composing.
+The former make a
+pause or stop all too often where [in the text] no comma can be either
+heard or seen. Examples of this are so frequent that I
+worry lest the
+105. For the sake of clarity the sentence has been simplified.
+Mattheson's use of periodus and Satz as synonyms within a sentence
+such as this is slightly confusing.
+106.
+
+"...
+
+verschiedenen
+
+anverwandten
+
+Klangen
+
+oder Tonen
+
+..."
+
+Literally this would mean "differently used sounds or tones"; however,
+the context makes it clear that Mattheson must be
+speaking of "tonalities'"
+107. A long discursive section explaining the grammatical function of various marks of punctuation, including
+many learned citations,
+has been omitted.
+208
+
+citation of a single one might be considered an exception.
+however, proceed thus in print:
+Capellmeister,
+
+When great
+
+Happy the one, who by his weight of sin (a rest)
+Is not frightened any more:
+Whose naked faults by our (a rest)
+Protector's purple cloak are covered, etc.,
+it must serve us as a mirror andthus prevent us from henceforth
+ing such gross schoolboy errors. 108
+
+mak-
+
+27. It is best to select models of such content that only perfect
+commas will be found in them; commas, moreover, that demand a real
+grammatical pause. We shall set them first unaccompanied, to nothing
+but a melody.
+In this way the fewest rests will be required, since
+This is
+everything can be done by means of certain melodic turns.
+much better than adding little gasps [Seuffzer] at each joint.
+28. In the following example five complete joints109 may be met
+with. In none of them, however, is a rest to be found. There is, nevertheless, ample opportunity for breathing, and at the end of the sentence
+there is a formal close in a related key.
+
+Seda tois
+
+' '
+
+'3
+l
+jJ
+Ge- trodt) mein Herti, nun kanSt du
+
+!IN
+
+fis -
+
+Sin
+
+4^r
+
+ver
+
+nicht
+
+itr
+
+t-F
+sollt
+
+S
+
+-
+
+es
+
+i
+c
+
+will
+
+Jesuis
+
+din
+
+en,
+
+am
+
+- Ias -
+
+und
+
+sen,
+'
+
+Klreut - tI
+
+I
+
+un-
+
+Jie
+
+F
+
+^ i IE?J.
+G
+r
+r
+solit es ,uc6 am KreuLt -
+
+108.
+incidentally)
+109.
+tion" in the
+110.
+your Jesus
+
+i;
+GcnA
+
+j2
+
+j
+
+pi
+
+seyn, un
+
+J
+
+te
+seyn. l0
+Three paragraphs containing additional examples (in Italian,
+have been omitted.
+Mattheson uses the word Gelenck, a "joint'' an "articulaphysical sense.
+Be comforted, my heart, now mercy is within your reach,
+will not desert the sinners, even on the cross.
+209
+
+29. This will be followed
+one with three
+example,
+by another
+are marked
+off by rests.
+sections
+The
+which,
+by way of contrast,
+comma
+after the word getrost
+in the previous
+example is pendulus or
+the comma after the word Schauet in the following
+incomplete;
+example
+as well as perfectus.
+The latter [term]
+pendulus
+may be considered
+seems here to be more applicable
+than the former.
+
+G
+
+raove
+
+mein JT-sus ist Rosen tu %lei-chen
+
+Scau- et,
+
+7^t6u
+
+1
+
+1t
+
+cIG c5.
+
+"u
+
+i r
+
+I
+
+wel-c&c
+Jan Purpurmit Dor- Pen tm hiialln.
+
+Je
+Scha-tet mein -r
+
+wtl-clt
+
+u
+
+ist
+
+den Pur- pur mit
+
+Ro -
+
+Dor
+
+en
+
+81
+glel-cn
+
+nen um- hiilln..
+
+30. A certain
+learned
+theoreticus
+the commas
+in the
+prefers
+bass
+or in the accompanying
+lowest
+voice rather than in the main
+He wishes
+them to be expressed
+and
+melody.
+by means of cadences
+makes this obligatory.
+31. Although,
+if necessary
+and for the sake of variety,
+commas
+can be suitably
+which rise
+suggested
+by means of such bass-clausulae
+and fall in an imperfect
+manner
+ascendentes
+(per clausulas
+imperfecte
+et descendentes)
+13, this is inadvisable
+in proportion
+to the greater
+to which the melody would become
+meaner and poorer because
+degree
+of the many cadences
+in the bass; for the melody must follow the bass.
+32. There are a thousand
+more
+reasons
+why the bass should
+the servant
+after the master,
+proceed in accord with the higher voice,
+the maid after the mistress.
+For that reason I advised in paragraph
+27
+that one leave the bass out altogether
+in exercises
+of this kind, essince I know that everybody
+to give the bass
+pecially
+always wishes
+The last two syllables
+111.
+of umhiillen require two notes.
+Mattheson deals with this problem
+in his "emendanda"-list
+by a correction
+in which he gives the elided form umhuilln for both measure
+9 and the
+last measure.
+112.
+is like roses, whose purple is surrounded
+Behold, myJesus
+by thorns.
+113.
+See footnote 114.
+210
+
+something to do and thus frequently neglects the more essential part.
+What, after all, does the bass have to do with melody? It belongs to
+One must not confuse these things.
+harmony.
+33. This is how the commas
+manuscript:1
+7
+
+a
+
+V
+
+of the above theoreticus
+
+BCY
+
+Clausula imperfecte
+ascendens
+
+look in a
+
+II
+
+Clausula imperfecte
+descendens
+
+34. There is, however, small comfort in this, for not every
+suggested joint in writing, not to mention singing, demands a special
+stop. It is therefore easy to see that one must bear in mind that not
+only are there written commas that are not actually pronounced, but
+also many that can and must be ignored in melody. 115 That is the
+reason for this distinction, which should be well noted in Critica musica, 116 inter comma perfectum ac pendulum, i. e., between a perfect
+and an imperfect joint of speech.
+35. Since we have already given two examples of the perfect
+comma, with as well as without rests, it appears to be appropriate now
+to give a small example of the imperfect comma as well.
+Let me say
+in advance that the dubious or hanging comma is sometimes subjected
+to only a very brief stop; most often, however, it is subjected to no
+stop at all.
+36. The first, that is the short stop, occurs after a sad exclamation (exclamatio) or after such a command (imperativus) as truly
+demands a pause or thought. For example:
+O! that Zion's help would come to Israel.
+Or:
+Stop!
+
+Do not slay him.
+
+He is the king, etc.
+
+37. With inserted vocativi as well as with the imperativi, i.e.,
+where there is any exclamation or a command expressing the heat of
+violent emotion, as for example in the twice exclaimed adverbia, * ach,
+114. The first is probably a so-called deceptive cadence (I to VI),
+the second, a cadence ending on the first inversion of the tonic triad (V
+to I6).
+115. A free translation for the sake of clarity.
+116. J. Mattheson. A periodical collected in two volumes, 172225.
+* It may easily be seen - and should be excused - that I make
+an effort to explain grammatical as well as other terms
+by means of
+equivalent German ones. Unfortunately I have to consider those among
+my readers who, while theyare musically learned, wouldhave difficulty
+211
+
+ach, nein, nein, ja, ja, etc., all punctuation is skipped because of the
+This is even truer in singing than in speech.
+urgency of the expression.
+We need not give a musical example, the words themselves suffice.
+Extinguish, Cupid, your flattering light! (punctum)
+(punctum)
+Phlegeton, give me glittering sulphur!
+Lend me, O stars, the face of Medusa,
+(comma perf.)
+That I may punish the shameful offense! (punctum)
+Let me, O heavens, bask in the joy,
+(comma perf.)
+Of revenge!
+38. Besides the four periods or sentences and the two perfect
+joints, we have here seven suspended commas, namely the four inserted
+vocativi, "Cupid'' "O stars,' "O heavens:' and "Phlegeton"' all of whom
+are called upon.
+Besides these there are three emotional words of
+command or imperativi: "extinguish:' "give me:' and "let me!' None of
+these seven, however are regarded as [separable] sections of melody.
+We may judge similar things according to this example.
+39. While the comma represents that part of speech called a
+joint or articulus in the human body, the colon represents a membrum,
+an entire member, as the Greek name implies.
+The semicolon (;) is
+Let us discuss the latter first.
+The semicolon
+only half a member.
+represents a section half-way between colon and comma. Such sections
+are used for disjunctivi, oppositi, and relativi, i. e., in such places as
+represent a separation, an opposite, or something referring to someare contained within a
+thing else, especially when such circumstances
+few words.
+40. The semicolon has another characteristic
+peculiar to itself:
+it is often used before the grammatical
+meaning has been completed.
+The colon, on the other hand, is never used in such a case; it requires
+complete grammatical sense while the rhetorical meaning, however, is
+still unresolved.
+41. Disjunctiva express separation and disparity but not opposition. Thus they maybe expressed in melody by such tonal relationships
+as are somewhat removed from one another. Example: "You I honored
+more; him I loved more!' Or: "I must surrender my body to you; do not
+demand my heart as well!' In the first sentence love and honor are
+Heart
+separated from one another; however, they are not opposites.
+and body are separated, as it were, in the second sentence; they are
+not, however, hostile to each other.
+42. In such cases the melody must make a noticeable distinction;
+one member of the musical rhetoric must be parted or separated from
+the other in some way. However, one must not introduce something
+[musical] that is opposed, whether by means of tonality or interval. 117
+in saying what exclamatio, vocativi, adverbia, etc. mean. It annoys
+me to have reason to add this note.
+117. A concluding part of the sentence has been omitted, since
+its significance,
+which does not appear to be important, is somewhat
+obscure.
+212
+
+This means that I must not make the intervals contradictory,
+[i.e.,]
+use a major third where a minor one had been, etc. Nor may I place
+rising passages where there had previously been descending ones, and
+vice versa.
+But I may in good fashion change the key and go to another
+For example from A[minor] to C[major] in a
+closely related one.
+recitative. 118
+
+^7
+
+I
+
+T;
+
+7
+
+;
+
+7
+
+IJ
+
+DICH ich iArae. rt; IHN
+N.ber mnte
+6h6
+-c
+8
+glietbt.1
+
+J
+
+rf
+
+Iirr
+From D[minor] to F[major] in an arietta.
+
+rti
+!
+|T'*rIchmussdln LEIB Jir
+4
+
+f
+
+r
+
+I
+
+r
+
+2
+
+I
+
+41j
+
+k - er - las- sen;
+
+r
+
+j
+
+I
+
+1
+
+Joch for- re NICHT AJs Hertz von mir. t0
+
+43. The most important element in such cases depends on stress
+or emphasis.
+In the first example the main stresses
+are on the pronouns "you" and "him"; another, if lesser,
+stress falls on the verbs
+"honored" and "loved!' In the second example the greatest stress is
+demanded by the word "not" and a weaker one by the noun "heart!' A
+formal close, as in the above examples, is not always necessary
+44. When there is actual opposition, the situation is quite different. Opposition of the words demands similar opposition in the music.
+Such conflicting delivery is best suited to recitatives
+and arias.
+It
+must not be forced, however.
+An example in melismatic style:
+One promises with mouth and hand,
+One will not say a word;
+But, as soon as a back is turned,
+The promise is already broken. 121
+118. This paragraph becomes clearer when the musical example
+in paragraph 45 is examined.
+In that example Mattheson, in order to
+express opposites, divides the setting into two parts corresponding to
+the two parts of the sentence.
+The first part ascends, the second descends.
+The translator
+assumes that the comment about changing
+major to minor thirds refers to a case in which the music is repeated.
+In that case, since the parts of the sentence are not "opposites" any
+change should not be too radical.
+119. You I honored more; him I loved more.
+120. I must surrender my body to you; do not demand my heart
+as well.
+121. The translation of this poem serves also as the translation
+of the text in the following musical example.
+213
+
+These are clearly opposites: to keep one's word or to break it. These
+conflicting acts may be expressed by such opposite motion of tones and
+intervals as will make an image for the ear.
+45. I say that one may do this - not that this is a requisite so
+indispensable that without it the melody ceases to be a melody. Clarity
+is clarity, however.
+Also, such remarks [as the above] are helpful to
+invention, for opposites can be melodically expressed in several ways:
+by means of passages that reverse their path, by intervals that run
+counter to each other, by sudden changes of key and meter, etc. To
+avoid becoming too lengthy, we shall give an example of the first kind
+of contrast [only].
+
+; !G'
+,G
+
+|: Gr 1:
+
+i
+
+DNso.t mananmit Mund HanI,kein soil eWort sein
+und
+
+r7t
+
+W
+
+tp
+
+rLt
+
+^
+
+7
+
+(J
+
+spro-chen; dock wenndcr Rile- ken nur %ewondt, ist
+
+^-f
+
+k4
+
+Jjas
+rochen.
+schron Wort bef
+
+r
+
+46. Relativi (to which, among others, all brief successive
+desRather than
+criptive phrases belong), have their own characteristics.
+contrasting and warring things, there should be equality and similarity
+of notes and intervals. One shouldnot, however, overdo this similarity,
+for there must, of necessity,
+be difference and variety.
+Example:
+Countless is the army of the stars;
+Countless the sand at the sea;
+Yet they are less than the number of my sorrows.
+There you have in the first two lines a
+sons, that are related to one another.
+means of similar passages [Modulos].
+hand contains a contrast and therefore
+of tonality [Klangen und Ton-Arten], as
+
+122.
+
+of comparipair of sentences,
+They should be expressed by
+The third line, on the other
+demands contrasting treatment
+follows:
+
+The text of the following musical
+214
+
+122
+
+example.
+
+ibr'
+J
+
+r
+
+JI
+
+4a
+
+r
+
+r
+
+F
+
+Ir
+och
+
+J4
+un-
+
+Hecr;
+
+n
+rl .Id
+
+uW - b6r ist AtrSand am Meer;
+j
+
+si
+
+r
+
+r Sternen
+
+lor
+-aeh UIn
+
+p
+
+r r f
+
+r T
+
+P
+
+'' - - - - cen
+
+S Jrn
+
+rF rTr
+
+sich cer Menac rmei - ner Sclmertaen .
+sections
+that are related (relativa)
+to each other
+47. If semicolon
+or if this happens in
+also happen to have similar
+rhyme and structure,
+one sentence
+or another,
+for example:
+Let all signs of love
+desert you;
+Let loose the bonds of faithfulness
+that tie you. 123
+elegant and easy transpositions
+[Versetzungen]
+in view of the relativa.
+come possible
+
+8cL-:
+Il
+4b5
+
+and good repetitions
+
+p
+
+Las nur al- Ie Lite. - e-
+
+be-
+
+;M
+
+tichen so% Jdir weickn;in
+
+lass d?rTruea
+Boar-J siwindtn)> lich inden,ttc.
+dJ;e
+
+48. The so-called
+small descriptive
+will seldom
+be
+passages
+found in arias,
+since they would make for too great length.
+They are
+often found in recitatives,
+and if they are treated intelligently,
+however,
+We shall give here the expression
+of somethey can be quite effective.
+one in despair.
+The example
+contains many small or half-members:
+
+123.
+
+The text of the following
+
+musical
+215
+
+example.
+
+My pains cannot be expressed; my troubles
+The air sighs for having nourished me;
+The earth for having borne me;
+Is worth only burning;
+The stars become comets,
+To slay me, monster of nature;
+The earth refuses my body its grave,
+Heaven refuses my soul a dwelling:
+What shall I do,
+damned murderer?
+Desperate,
+Rather than suffer so
+I shall hang myself! 14
+
+are countless;
+
+49. This selected and in its way very beautiful description
+be set to music as follows: (see pages 217 and 218).
+
+might
+
+50. Space does not permit an examination of the similarities
+between all of the above four or five half-members.
+If you examine the
+entire paragraph, you will find that a certain falling of the melody [Fall
+der Stimme] always points up the semicolon.
+The bass, too, contributes its share in marking the sections, especially
+in marking a new
+sentence - not by contrast, however, but by similarity.
+The five
+joints or commas are treated quite differently: the lowest voice does
+not even approach a complete clausula. On the other hand, at the colon
+or complete joint a formal close combined with rests aids further
+thought, and what follows is in a different key. The question is contrasted, and at the exclamation point there is a final cadence.
+51. Sometimes one finds an antithesis,
+a contrast, between the
+first and second parts of an aria. In that case the semicolon at the end
+of the first part becomes of necessity
+a period, since, when it is repeated from the beginning, it must be the final close and thus demands
+a complete cadence in the tonic key [Final-Note].
+Let the following
+words serve as example:
+Shall I love another?
+My ambition says "yes";
+But I shudder to see,
+How it would grieve her,
+Who favored me.
+
+(da capo)
+
+52. Aside from this single case, which I should rather avoid by
+means of working the da capo out twice, 127 the semicolon must never
+have a formal, certainly not a complete cadence.
+One must not pay
+too much attention to the poets, who often can show little reason for
+their punctuation.
+It is a somewhat controversial subject.
+Some prefer not to use the semicolon at all and restrict themselves to commas
+124.
+
+The text of the following musical
+
+127.
+
+"...
+
+mittels
+
+einer
+
+zweifachen
+
+example.
+Ausarbeitung
+
+des
+
+da Capo"'
+
+There appears to be no doubt that Mattheson means a written out (and,
+therefore,
+changed) da capo.
+216
+
+0
+4
+4
+
+-
+
+p
+
+r
+
+r
+
+-
+
+r
+
+Ln
+meint
+cin
+un-ithl-JMr
+-r($ liih ist m, Schmertti
+
+I
+
+"cr
+
+I
+
+5'
+
+4*
+
+I p["
+
+C
+
+i
+
+G
+
+l
+- en I Die. fft ; t- tJ
+hotersic
+Pla ;
+sefftit, la(ss Micnt
+
+I
+e!
+
+(.F 4f
+q
+
+P
+
+ae-itr lcn)
+nehrt; d; Welt die- weil sie mrich
+4'
+
+.25
+
+la
+
+aO O
+
+C
+werjenau
+ist 6boss .raimVtr--ren-nenswrt;TDieStemen
+~/^
+
+I
+
+j
+_______
+
+In the original
+the sixteenth
+rest is followed
+125.
+by an eighth
+a sixteenth
+It seems obvious tc
+too many.
+note thus giving the measure
+is not corrected
+that the mistake
+the rest
+the translator
+by eliminating
+but by shortening
+the note following
+the
+(which falls on a semicolon)
+rest.
+
+217
+
+I
+
+P
+
+A
+n t1
+
+4kd.
+
+4-.
+
+OL
+
+*
+
+I
+
+NWr
+
+r
+
+7
+
+rnich Schie -sol
+m
+
+me-ttn
+
+-fL
+
+Jer N4-tur
+
+Ltu
+
+toJ-ten;
+
+4-'r
+
+W
+
+I
+I
+
+r
+
+r
+
+e
+Dem
+spricltdieErd n
+CorFer
+
+r
+
+er Himmel
+meiner
+G'rc, d
+
+_f
+
+g____
+6
+A
+
+W
+
+Seel Jen \Uow-plote
+.
+
+1
+
+WCLS
+
+A
+fG."% dn, verh
+
+$
+4
+-
+
+I
+
+[
+
+I
+
+r
+
+9
+
+r
+
+tweiff- trl-ter,
+
+soil
+Mlorrer an? ek ichImicb so
+r-l^a -ter
+?
+
+W
+yn~c*? ZG
+df$G
+a
+
+un- r- traa I4ic
+
+IL
+I
+
+w/jc
+
+(
+
+(6)
+
+6
+
+r
+krhnc - kn I
+
+1
+
+The original
+126.
+has a semicolon
+may be deduced from the text as printed
+s50.
+
+218
+
+will riAmicL
+6enc6n!
+
+I
+That this is an error
+here.
+in ?48 and the explanation
+in
+
+and periods. 128
+This has somewhat
+54. We now come to the colon (:) proper.
+more importance than the previously discussed sections, since it encloses a greater part of speech and has complete grammatical meaning.
+However it remains clear that something must follow to complete the
+rhetorical meaning. For the latter reason the colon may not have a
+complete final cadence, but rather one that calls for further motion, a
+resting place that demands resumption, a clausula desiderans. 129
+57. We have room here to consider only the most urgent probIt should be noted that a stop should be made
+lems of melodic writing.
+before causes;
+but that there should be no cadence. When a story
+This is
+is to follow, the melody must be left doubtful, as it were.
+usually done by means of a fifth degree of the scale [in the bass] with
+7-6 figuration, sometimes by other means. Lipsius is right when he
+says, "colon suspendit"; the colon does want to suspend.
+58. "Examples" may be treated in the same manner. A deduction is different and does not need a resting point that demands resumption. Similes can stand a preceding cadence; headings, however, [have
+a preceding cadence] under no circumstances.
+The latter must be explained by means of a monotone, i.e., by the use of the same successive
+note almost as in the tied [gebundenen] church style. 131 Finally when
+the words of another or thoughtful saying are to be quoted, i32 the
+melody must not only be interrupted but must change key as well.
+59. Since the manifold use of every punctuation mark is quite
+reader can see for himself whether it makes
+clear, the intelligent
+sense to adopt one rule for all colons and semicolons
+(particularly as
+the colon itself is used in six or seven different ways), as a famous
+and learned royal Caellmeister
+would have it. He takes care of them
+all without further distinction by means of the following bass-figure.133
+
+v
+
+2
+
+o
+
+I
+
+65
+61.
+
+We shall now examine
+
+the interrogation
+
+in musical
+
+speech.
+
+128. Paragraph omitted.
+129. Two paragraphs,
+mostly concerned with the grammatical
+The last sentence of paraaspects of the colon, have been omitted.
+graph 54 has been somewhat freely translated.
+130. Colons are used before causes.
+131. In Pt. I, Ch. X Mattheson describes the gebundene KirchenStyl by which he simply means either Gregorian chant or Gregorian
+notation involving ligatures, i. e., "notes tied together!' It is plain from
+this that "the monotone, the use of the same successive
+note" is the
+Gregorian recitation tone or tenor.
+132. In German direct quotation is preceded by a colon.
+133. Paragraph omitted.
+219
+
+It is indicated
+There are either real or implied [verby the sign (?).
+maintain
+that the question
+blumt] questions.
+Many composers
+rigidly
+mark must always be expressed
+of the voice.
+One must
+by a rising
+take for granted that this device is always right.
+not, however,
+and pronunciation
+62. In common
+the voice always does
+speech
+rise more or less when there is a question.
+In melody, however,
+there
+are many conditions
+that not only tolerate
+an exception
+but actually
+demand one. In poetry, moreover,
+there are many figurative
+questions
+that actually
+do not leave any doubt.
+Doubt is the true mark of a real
+A composer
+make a clear distinction
+and
+must, therefore,
+question.
+his notes accordingly.
+this is the question:
+If, for example,
+arrange
+Can I administer
+medicine,
+When I myself must die?
+the meaning is that nobody can help another who needs to be helped himThis is basically
+a statement
+self.
+that is beyond all doubt.
+When,
+are phrased
+this way, one must not adhere too
+therefore,
+questions
+to the usual form.
+A clever
+free
+is, nevertheless,
+closely
+composer
+to make his melodic
+resolution
+in the manby emphatic
+displacement,
+ner of a question.
+63. It has been shown in paragraphs
+49 and 50 above how a real
+and definite question can be expressed
+without a rise of the voice.
+This
+method leaves
+the question wide open, nonetheless.
+To it [the method
+shown there]
+should be added that imperfect
+consonances
+are most
+suited to the purpose
+a question].
+To end the question
+[of expressing
+on a sixth, whether
+or falling,
+is good, particularly
+in recitarising
+tives.
+64. Gasparini134
+set the question,
+"Why do you not believe?"
+in an aria as shown in example
+1 below.
+He did it with a descending
+formula
+figure ending on a sixth. In another place he used the everyday
+This too is good and we shall not
+2) and ended on a fifth.
+(example
+criticize
+it. However,
+it should be handled as in example
+3 by means
+of a sixth135 which is not so common.
+
+134.
+Francesco
+1668-1727.
+Gasparini,
+The translator
+135.
+assumes
+that "sixth" refers tothe use of the
+inverted
+triad at the end, since Mattheson
+has apparently
+reC-major
+written example
+2 as example
+3.
+220
+
+lo. 1
+
+Curnoncredis etc.
+?
+
+No.3
+
+J, No.
+
+I
+
+*
+
+r
+
+D- J - J 1
+Itis? etc.
+quiddo- I -
+
+quid o -lt-tis?
+
+: r
+
+r
+
+J
+
+65. If one were to suppose that, as among questions there are
+two kinds, so among exclamations there are three, closer examination
+would prove him right. Thus the composer is obliged to make a distinction, although there is only one kind of sign (!). The first kind [of
+exclamation] includes astonishment,
+joyous exclamation, or an encouraging command. For example:
+1.
+
+Monarch!
+Mighty one!
+
+You are the unconquerable
+
+2.
+
+Hurrah! Hurrah!
+Hammonia!
+
+3.
+
+hero!
+
+long flourish
+
+Roar, thundering guns!
+Crash with fiery lightning!
+
+Long live,
+
+Joy is the master and the reigning passion here. For this reason vivid
+and fast passages as well as large intervals must be used.
+66. The second kind of exclamation
+embraces all wishing and
+heartfelt yearning; all pleading, invocation, and complaint, as well as
+fear, horror, terror, etc. The last-named demand melodic violence,
+which is best expressed by fast and nimble sounds. Yearning and the
+other emotions are always children of sadness.
+For example:
+Heaven! If you still have mercy for my
+suffering, then, o! now is the time to help me.
+one must use now large but
+According to the particular circumstances,
+not commonplace intervals,
+now intervals that are small and extraTenderness is the predominant affect.
+ordinary.
+67. The third kind of exclamation comes close to real cries, as
+when extraordinary
+consternation and astonishment arise from grue221
+
+some incidents,
+cries reaching
+suppose Cain represented thus:
+
+the highest
+
+peak of despair.
+
+Let us
+
+Open up, jaws of smoking hell!
+Pull me down into your heat!
+To you I deliver my despairing soul! etc.
+68. Of course, I would gladly add my humble voice to demands
+for banishing such gruesome, horrible representations
+from music. If,
+however, they do occur, one must know how to deal with them. This
+Here we
+depends, in the main, on a knowledge of the various affects.
+have unmitigated despair, and thus we may bring together conflicting
+intervals whose characters are at war with one another, such as major
+and minor thirds.
+We can set such wicked blasphemous exclamations
+to a mad turmoil of fiddle scraping and blowing. The pyrrhic foot 136
+is well suited to this sort of thing.
+69. Let me, parenthetically,
+as it were, insert a few words about
+the parenthesis here. This kind of section is an inserted phrase which,
+separated bythese marks ( ), to some extent interrupts the flow of continuous rhetorical thought. It is not a very musical thing and, as far as
+I am concerned, could well be excused from service in musical science.
+occur in an aria and, more freSince, however, it does occasionally
+the composer who wishes to deal
+quently and suitably, in recitatives,
+with such enclosed phrases must more or less interrupt
+successfully
+the main purpose of the melody in accordance with the greater or
+smaller interruption of the main purpose of the words.
+70. As an example of those insertions that depart quite far from
+the path of direct meaning, let the following be observed.
+We have not
+set either of the examples to music.
+How easy it is for him who deals thus with worms
+That he use even our dust (for, as is known,
+Nothing becomes nothing) to further his glory.
+Should this be sung, the melody would have to descend from the middle
+range of the soprano to the middle range of the alto, or, at least, a
+fourth or fifth, as if it were now for another voice. 137
+136. "The pyrrhichius consists of two [short] sounds of equal
+duration. It is named, some say, after the Epirotic king Pyrrhus who
+is said to have been a lover or inventor of it and to have introduced
+certain war-like dances inthis rhythm. ... It mightbe that such heated
+are named after their speed rather than after a person,
+fighter-leaps
+since both words have the same origin, namely, meaning fire and heat!'
+Pt. II, Ch. VI, 311. Example, loc. cit., 36:
+
+137.
+
+Two paragraphs
+
+containing other examples
+222
+
+omitted.
+
+73.
+or if they
+Rests and
+service
+to
+74.
+truthful,
+that for
+forced.
+who has
+sertions
+ingly.
+
+If these insertions
+are fairly
+related
+to the context
+closely
+contain brief exclamations,
+one must follow natural speech.
+since they do far more disstopping places are not suitable,
+than they aid the understanding.
+the verse-structure
+
+I believe
+that those
+and honestly
+who freely
+wish to be
+the greatest
+including
+poets of our time, will have to admit
+the most part these
+insertions
+and parentheses
+are rather
+Often they are included
+No one
+only for the sake of a rhyme.
+the least bit of musical
+will deny that inhowever,
+insight,
+are of little or no benefit to melody and should be used spar-
+
+75. To give a Davidian
+of how a parenthesis
+is best
+example
+dealt with in music,
+we recommend
+taking Psalm 124 and setting the
+"If the Lord were not with us"' for the whole chorus,
+while the
+words,
+words
+are sung by a solo voice
+followed
+"(say, Israel)"
+by the tutti
+"if the Lord, etc!' In that way this and similar
+insertions
+again singing,
+will be very effective.
+76. Since the period (.) closes
+we shall close this
+everything,
+chapter with its examination.
+Although it is the most important
+punctuation mark of musical
+it is the least problematic.
+One needs
+speech,
+to do nothing but make a formal cadence
+in the place where the period
+is found, a complete
+clausula and, finally,
+a complete
+close in the tonic
+key.
+Emphasis
+Concerning
+from Part II,
+(Selections
+
+in Melody
+Chapter VIII)
+
+1. Emphasis*
+deals with stress
+of thought,
+sounds or words; it
+explains them and makes them clear. Its use demands profound thought.
+The following
+four observations
+lie within the scope of "emphasis!'
+2. First we must consider
+i. e., the sound and
+emphasis
+proper,
+stress
+of the words themselves.
+This was already touched upon in the
+above chapter
+on melody, 138 but we must now elaborate
+it further and
+apply it to music.
+must
+
+3. Aside from this,
+be considered
+here.
+
+runs.
+
+4. Third,
+139
+
+we
+
+must
+
+the long or short pronunciation
+This is called "accent!'
+examine
+
+passaggi
+
+and
+
+graceful
+
+of syllables
+melodic
+
+* Mattheson's
+footnote has been omitted.
+138.
+Pt. II, Ch. V.
+r95ff.
+139.
+consists
+"Passaggio
+(Ital.),
+of several
+run(Fr.),
+passage
+This does not include tirate and circoli
+ning figures joined together.
+or those circoli,
+tiratae
+and other simple running
+[sic] bombilantes,
+.. which follow
+each other without
+a break.
+figures
+(See Printz's
+et modulatoriae
+Compendium
+vocalis,
+si.gnatoriae
+p. 53, andBrossard.)
+to the latter they are a melodic row
+According
+consist[Reihe-Gesang]
+ing of many small notes such as eighths,
+sixteenths,
+etc., strung to223
+
+5. Fourth, we must observe not only the repetition of words but
+of melodies,
+and voice-leading,
+in so far as certain
+progressions,
+stresses are required in these factors and the preceding ones. All this
+belongs under the heading "emphasisl'
+6. Before we examine each of these things in detail,
+briefly show how emphasis is distinguished from accent.
+
+we must
+
+7. Accent, which here means the special sounds of a syllable,
+had a different meaning, as we have seen above, in melodic decoration
+In the art
+[Modulatorie], where it refers to an ornament, or maniere.
+of poetry it is called accentus metricus,
+in music it is
+Reim-Fall;
+called accentus melicus, Singe-Fall.
+8. The distinction, accordingly, lies in the
+istics: first of all, emphasis always falls on an
+cording to its sound but according to its meaning.
+with their
+hand, has to do only with syllables,
+rising and falling pronunciation.
+
+following characterentire word, not acAccent, on the other
+length, brevity, and
+
+9. Besides this, every word of more than one syllable has at
+least one accent; not every word, however, receives emphasis.
+And
+vice versa, words of one syllable often lack any real accent, while they
+may be easily emphasized.
+10. Third, accent is concerned only with pronunciation.
+Emtothe affect and illuminates the sense and meanphasis virtuallypoints
+That is where the difference lies.
+ing of the delivery.
+11. As an illustration of the above four properties of emphasis
+- in sound and song - we shall first present a very short melody. The
+gether for at least one or two measures and no more than three (p. 89).
+... A passage should be no longer than a phrase singable in one breath,
+like a morceau, a bite.' Walther, op. cit., p. 465.
+Tirata is defined by the same author as a series of many notes of
+equal value. Illustration in Table XX, figure 9:
+
+A
+
+Tirata di semiminime
+irata di semiminime
+"...
+
+when they consist
+
+especially
+
+Tirata di legature
+Tirata di legature
+of eighth
+
+and sixteenth
+
+notes
+
+preceded
+
+almost always by a rest and followed ordinarily,
+by longer notesI'
+(Ibid., p. 609.)
+"Circolo, a circle, ... 2) when two circoli mezzi are written in
+such a way that if they were placed above one another they would make
+a complete circle!' (Ibid., p. 166.) Example, ibid., Table VIII, figure 9:
+
+-U
+
+1ry
+
+I
+224
+
+w
+
+WI
+
+4^
+
+r i -fc
+
+c l
+II ciel
+
+Lr
+4-JTr
+
+le I - Io ,
+
+SI
+
+tfe
+
+er - ckl
+
+p
+
+r
+
+TO
+
+t+U li
+
+r
+
+it rit G
+NON
+
+;
+
+I
+
+ttr- dolI tol
+
+5A,
+
+-
+
+tor.
+
+MrS
+I f1 t t~
+- ft
+1I citl tnL
+
+4L1
+
+-? L rP
+
+-
+
+le
+
+o el- IQ
+
+L
+
+$I
+
+a
+
+SI
+
+r1.-1?,
+f <l.
+
+- dr
+
+iQ
+
+@-I'
+
+r
+
+SI
+,
+
+,
+
+vr
+
+mvr
+
+PIE
+
+-
+
+de
+
+t
+
+i
+
+r
+
+pas-to - r,l--1,
+
+A
+
+i
+
+Ia
+
+Jr
+
+- Jr
+
+IQ
+
+t
+
+I
+
+__
+to -
+
+r
+
+A
+
+-
+
+R
+
+-
+
+-~
+
+."f
+
+,
+
+A
+cuA
+
+i
+
+- Jao
+
+e1e t
+
+Fer -
+
+Ic,
+
+re~l-
+
+r
+
+lM
+
+-
+
+-
+
+S
+NON
+
+I
+
+J
+
+.
+
+cru-
+
+225
+
+'|I
+
+;,i.
+
+lr
+
+o cil
+
+PIE-TO- SA NON
+
+J
+tu.
+
+I
+
+J
+
+pas - tor.
+
+1
+
+main rule that can be given is that such emphasis almost always involves a noticeable rise of the vocal part, if not necessarily
+a great
+one. (Even a half-step may often suffice.)
+The stressed note need not
+be the accented one.
+12.
+
+Let us take the following words as an example:
+U ciel ti fe SI bella,
+Leggiadra pastorella,
+Perche tu sia PIETOSA; NON cruda
+al tuo pastor. *
+
+13. We find three points of emphasis here, on the words si,
+pietosa, and non. ** Musically they might be expressed in the following
+manner: (see page 225).
+14. The felicity of a well-placed
+accent can be no better illustrated than by a comparison with a poorly placed one. From such observation of opposites much advantage is to be gained both in learning
+and in teaching. 140
+16. The word-accent
+must always be placed on an accented note
+of the melody [melodischen.Klang].
+It does not matter whether in this
+case, the note is especially
+raised, as for emphasis, as long as it is
+not lowered too much in repetition [Wiederspiel]. 141
+17. The general rule to be observed when dealing with accent is
+this: the note that falls on the accent of the text] must be appropriately
+2 It should be observed that emlong or newly struck [anschlagend.
+It may occur on short or
+phasis does not depend on this exclusively.
+passing notes [durchgehende Noten] if it is provided with some other
+distinguishing factor.
+18. To clarify the above it is necessary to say that neither an
+accent alone nor the written time value [ausserliche Geltung] can make
+a note long or anschlagend in the present meaning. The inner content
+* Transl.: Heaven made you so beautiful, pretty shepherdess, that
+you should show pity to your shepherd, not cruelty.
+** Si is an incendens which raises beautyhigher; pietosa the word
+on which the whole piece depends and cruda would contradict this, were
+it not for non. These are the reasons why stress falls onthese particular words, where some persons would least expect it.
+140. A paragraph discussing
+accentuation in speech has been
+omitted.
+141. The translator cannot clarify this somewhat obscure passage except for the assumption that Mattheson is referring to a repetition of the text with a different musical accompaniment.
+142. "Anschlagen is the opposite of remaining on the same note
+and of passing notes.
+It means, especially in keyboard playing, to
+strike the previous note again, or to strike a new one!' [Literallytranslated it would read "to strike the previous fingering again... "] Walther, op. cit. p. 38.
+226
+
+and melodic [singende]
+
+accent alone can do this.
+
+19. Of what this content and melodic accent consists has been
+sufficiently explained in Critica musica on pages 40, 41, 42, and 43.143
+We ask the reader to refer to it so that we need not become too lengthy
+here. The whole problem may be likened to a coin whose inner and
+outer values are often quite different.
+20. Let us give some examples of poorly placed accents and ask
+ourselves on which syllables of the word zweiffelhafft [doubtful] the accent lies and whether the following figure places it correctly.
+
+7:-a, r
+
+I
+
+r
+
+nielh lmals
+
+r
+
+r
+
+r
+
+I
+
+tweiffel-lafft
+n6ehvahls
+u
+-rn,
+
+Fr
+
+r ;rr
+
+2r
+
+r
+
+r
+
+hafft (Lseln.
+wei'e.l-k
+21. Both times the syllable hafft stands out, doubly so since it
+not only ascends but also has intrinsic value. 145 This can be justified
+only for the first syllable. 14 Without doubt, the passage ought to read
+as follows:
+
+trrLrr
+
+r
+
+r
+
+hie- -malls
+
+rr
+
+wfeiffel -
+
+r
+
+r
+
+w,iffel
+
+lAfft
+
+m
+
+ahft
+
+it
+
+r
+seyn,
+
+nichmiIls
+
+1
+
+2,u seyn.
+
+143. "An accent is the inner content and emphasis of a note
+which takes place in such a way that at certain times a note stands out
+from the others even though its appearance does not differ fromtheirs:'
+Crit. mus., Vol. I, p. 43.
+"Accentus and anschlagende notes are synonyms!' Ibid., p. 44.
+144. "Never to doubt"' All the translations
+of the texts of musical examples inthis chapter willbe quite literal in order not to obscure
+Mattheson's arguments.
+145. "Intrinsic value" is the literal translation.
+The term presumably refers to the fact that the syllable falls on an accented part of
+the measure.
+146. The word zweifelhaft (the modern spelling) is accented on
+the first syllable.
+As far as meaning goes, too, emphasizing the last
+syllable would be analogous to an emphasis on the last syllable of the
+English word "doubtfull'
+227
+
+22. Thus we have seen a small example taken from a real aria.
+This terrible state of affairs, however, is found more often in recitatives and we shall therefore give some examples in order, so to speak,
+to contrast black and white.
+
+Es.1
+Exi.
+ten
+Sie mac.h- ier Tleil, einem
+;a - i - cen Kries - knAcht Th;il.
+ein
+23. Anyone can see that the numbers vier [four] and eins [one]
+are the important words. The accent as well as the emphasis [of the
+text] lies on them and not the word Theil [part]. Since this time neither
+rising nor intrinsic value were made use of, and the notes were both
+times short and of no particular value, we should change the passage in
+the following manner:
+
+Sie Mnacl ten vier Tbhil einrm
+
+>
+
+jp. ?
+
+1
+
+m
+
+Jn
+
+iea li- chen Krieas- knecCt T6;1i.
+ein
+
+Here is a similar
+
+24.
+
+pair:
+
+Ex.
+
+Am}
+
+p;
+ULn von
+
+4
+
+J1'9t
+
+6
+
+rl
+
+br
+Stund
+
+i
+
+Oa
+
+J
+
+naehmsie der Tin
+
+er
+
+l1
+
+IL sich. 48
+
+The spoken accent clearly falls on zu [unto]. The composer,
+has treated the word briefly and as if it were unimportant.
+be better and more emphatic as follows.
+
+147.
+soldier.
+148.
+
+They
+
+divided
+
+[them]
+
+into four parts;
+
+And from that hour the disciple
+228
+
+however,
+It would
+
+one part for each
+
+took her unto himself.
+
+Und von
+
+1
+
+c
+t~i=FTr~c~TH
+4
+aer JTun-c%er u
+ricl
+
+hkmG
+25.
+
+Stund an
+
+n Ex,3
+
+w
+
+Dr J
+
+i l
+
+D
+c>
+t.
+c.
+sie ci - c. e- nom- men wrden. 49
+Doss
+
+1
+
+The accent of the word abgenommen [taken off, taken down] is undoubtedly on the first syllable, not the middle one as in the above example:
+J
+JI
+
+Dass sit
+26.
+
+e- nom - men
+
+o_-
+
+uiiraevn.
+
+EX.4
+
+rmz
+rr
+
+t
+
+naDie - weil d4s GrrAk 6a wl. 150
+Neither on the syllable well nor on the article das may there be an accent but only on Grab [grave] and possibly on nahe [near].
+
+Die - weitl ds
+
+Grab nvo-e
+
+war.
+
+* I am not unaware of the fact that the ordinary manner of writing
+this would make both of the last two notes c; however, this time I have
+written them as they are sung. [If the last two written notes were both
+c, baroque performance practice would have made the first one an api.e., it would have
+poggiatura (port de voix, accent, or Vorschlag),
+been sung as an f. Examples of this practice may be found in Leopold
+Mozart's Versuch einer gruindlichen Violinschule,
+1756, Ch. IX; C.P.E.
+Bach's Versuch iuber die wahreArt dasKlavier zu spielen, 1759, Ch. II;
+in Pt. II, Ch. III,
+and, particularly,
+5T24-26 of Mattheson's Capellmeister.
+The latter mentions that this particular ornament is "used
+daily in recitatives'']
+149. That they would be taken off [or down].
+150. While [because?] the grave was near.
+229
+
+27. In example one, both emphasis and accent are on the same
+words, vier and eins. Treating them otherwise, therefore, creates a
+In example two, the compound verb zusichnehmen [to
+double error.
+In such words,
+take unto oneself] is separated in the third person.
+whether they have three or four syllables,
+the accent falls on the one
+that comes first in the infinitive regardless
+of where the syllable is
+placed when the word is separated.
+28. The same holds true for the word abgenommen
+In number four, there can be no accent on the last
+three.
+dieweil; this is even truer for the article das. When das
+demonstrative
+pronoun it is often accented, not, however,
+used as an article.
+The accent is on Grab or possibly nahe.
+
+in example
+syllable of
+becomes a
+when it is
+
+This is correct:
+
+Undios- a51
+
+)
+
+)
+
+A)Gc
+f
+
+A
+
+29. In words of two syllables it should be noted that when the
+syllables are of equal length, the first, not the second should have the
+This would be incorrect, therefore:
+accent.
+
+y
+.--siJ
+
+The reason for this is that the first of two syllables
+preference as prima inter pares.
+
+UndJ
+must always have
+
+30. While most German words of two syllables usually have their
+accent on the first, the second being short or being made short, there
+is one exception in musical composition.
+Almost all the final notes of
+a melody must be anschlagend or have the accent, although the final
+syllable on which the note falls may be short.
+31. I say "almost all"' i. e., almost every last note of a melody,
+since I mean all real and formal cadences.
+Frequently an exception is
+made if one wishes to stop abruptly. In former days nobody observed
+this fine point [Artigkeit] of composition and ended thus:
+
+4nowa
+
+hZZ
+
+G
+
+sonst muss mein Kinl
+nowadays,
+
+r
+
+ter
+
+tr- trinkcnt 52
+
+however,
+
+sonst muass mein Hind er - trinken
+
+151. Alsbald is accented on the second syllable
+man pronunciation.
+The word means "forthwith:'
+152. Else my child must drown.
+230
+
+in modern Ger-
+
+Wherever the text
+32. These things depend on circumstances.
+has an accent there must unfailingly be a melodic accent as well. When
+the syllables have no accent, however, it is, nevertheless,
+possible to
+have a melodic accent. This is one of the musical prerogatives.
+33. We come now to passaggi.
+Right here let us take the words
+of Pilate from the Passion: "Weisst Du nicht, dass ich Macht habe?
+etc!'153 Would it make an emphatic or pointed melody to place a
+melisma of twenty-eight sixteenths on the word habe [have]? I doubt
+that anyone would think so, not even the composer.
+The latter would
+be like David who did not believe that Nathan's story of the sheep concerned him.
+34. A melisma on habe, however, would be preferable to one on
+the wordKind [child] in the first stanza of an ode, in which [type] nobody
+binds our hands, as here:
+
+_n"'
+[_
+
+sonst muss dean Kind
+
+er- trink n. 154
+35. How large a field we should find before us were we to examine and index such things! It is to be hoped that intelligent composers will proceed more thoughtfully and will not write music that
+takes its toll by suppressing emphasis.155
+If for one reason or another
+they want or must use such decorative passages with unfruitful words,
+let them at least not select such clumsy ones. 156
+44. Just as clever and moderate repetition adds much force to
+the melody, analysis or fragmentation[Auflosungj
+does too. The first
+153. The Gospel according to St. John (here literally translated
+from the German): Know you not that I have the power, etc.
+154. Else thy child must drown. (In the previous examples with
+this text it was "my child!')
+155. ... statt des Nachdrucks die Music nicht zur Unterdruckung
+Somewhat obscure and therefore freely translated.
+bringen.
+We add
+the literal translation here, "... instead of emphasis makes the music
+a [means] of suppressing!'
+A possibility that in this context does not
+appear a likely one would mean exactly the opposite, "... instead of
+emphasis suppress the music!'
+156. Five paragraphs dealing with repetition are summarized
+here rather than being given in full.
+Repetition of words should be
+used only for the sake of emphasis.
+Mattheson dislikes repeating
+"innocent words" and thus "submitting them to torture!' Words of importance, however "may well be repeated three or four times in order
+to lend them stronger emphasis!'
+231
+
+Iambic
+
+foot
+
+Spondaic
+
+foot
+a
+
+A
+
+r
+
+l
+
+1 r,,
+I' rlrJ=-H,
+< i|l- P ' rPB/T-rTT
+PI
+foot
+
+Trochaic
+
+For valley-peasants
+
+troch.
+
+troch.
+
+troch.
+
+(mixed)
+
+Lullaby
+
+fir
+
+rir
+
+~rf
+
+trochaic
+
+completely
+foot
+
+Dactyllic
+
+or
+
+ar
+
+~rr
+
+r
+
+II I
+
+rl
+
+Anapaestic
+
+Lrr
+
+~'ir
+r
+
+Ip
+
+.,,11~',r
+
+f
+
+H
+
+r-~r
+
+foot
+
+rr
+
+j
+
+r|r'11
+
+lr-i
+r
+
+r
+
+Molossus
+
+-
+
+- -
+
+1rr
+
+r rI
+
+r
+
+1I
+
+Trybrachys
+
+T^i~r
+
+Lr1rMttLrtE
+232
+
+-
+
+I
+
+mention of this may be found in Critica musica,
+45.
+
+vol. III, pp. 18 & 24.
+
+Take for example the following words:
+Let flow into my heart
+O God, despite all pain of sin,
+But one drop of Christ's blood.
+
+The words may be declaimed and broken up in five different ways after
+they have occurred once in their proper order: 1) Let flow, o God etc.;
+2) But one drop into this heart; 3) Let flow Christ's blood into my
+heart; 4) Despite all pain of sin into my heart; 5) O God, but one drop.
+46. This figure is most effective where the meaning of the words
+is somewhat far-fetched
+or dislocated [verworffen] or if, as in the
+above example, there are three or four phrases that must be heard in
+their entirety before the whole can be grasped.
+In such cases analysis
+not only furthers understanding and is almost necessary,
+but lends extraordinary beauty and unexpectedly moving emphasis.7
+
+Since Mattheson, in his chapter on the various rhythms (Pt. II,
+Ch. VI, Concerning the Length and Brevity of Sound or the Organization
+of Sound-Feet),
+offers few comments on their affects, the translator
+feels that it would serve no useful purpose to incorporate the entire
+The following, therefore,
+chapter in the translation.
+represents the
+literal translation of only those sentences that are relevant to the subject of the affects. The musical examples illustrating the rhythms discussed here will be found on page 232.
+spect.
+
+The spondaic foot is suitable for the expression
+At the same time it is simple.
+
+The iambic foot is moderately
+of a running quality.
+
+gay.
+
+It is neither
+
+of piety and reof a flighty nor
+
+The trochaic foot is not expressive
+of sharp [spitzig] or brittle
+In Sweden the peasants in the valleys like to
+[sprode] qualities ...
+dance to it. It is best suited to Spanish canarie-gigues
+and to lullabies.
+It has a quality that is somewhat satirical,
+but intrinsically it is rather
+innocent; certainly, it is neither serious nor sharp.
+The dactyllic foot is very common.
+well as serious melodies.
+
+jocose
+pieces,
+
+The anapestic
+and strange
+customarily,
+
+It is suitable
+
+to jocose as
+
+foot is more effective than the dactyllic one in
+It is also used in serious
+[fremden] melodies.
+however, it is there mixed with other rhythms.
+
+157. The omitted last two paragraphs of this chapter give similar examples of fragmentation of shorter phrases.
+233
+
+The molossus has a quality of heaviness and laboriousness.
+Its
+majestic steps are also suitable to a march or to pageants [Aufziige],
+when kettledrums [Pauken] are used. The molossus is less
+especially
+suited to lively pieces or dances; it is good for serious,
+sad, and
+melancholy compositions.
+The trybrachys
+it is used in serious
+called "triplets'158
+
+is used mostly in gigues.
+Sometimes, however,
+in those running figures that are
+pieces, i.e.,
+
+In his earlier book, Das neu-eroffnete Orchestre,
+Mattheson devotes an entire chapter (Part III, Chapter II) to the affects expressed
+by the various keys. Since he omits this aspect of the doctrine of the
+affects in Der vollkommene Capellmeister,
+a summary of his previous
+discussion is appended here. It should be pointed out that, dogmatic as
+he appears to be, Mattheson is aware of the fact that there is not
+and never will be any unanimity of opinion on this subject and advises
+his readers that he does not wish to usurp their right to form theories of
+their own. He is giving his own opinions "only in order to help the
+reader to get a clearer view of the subject.'
+Before going into the discussion
+of the keys, he summarizes
+earlier opinions on the modes very briefly.
+He is apparently unaware,
+however, that the Greek modes differed from the later church modes.
+In describing the affects of the keys, he cites other writers such as
+Athanasius Kircher,159
+and Johann Michael Corvinus. 160
+Glareanus,
+The following summary will be restricted to the opinions of Mattheson
+without consideration
+of what other writers may have had to say on the
+subject.
+Two general opinions about the nature of the keys are rejected by
+Mattheson, one in its entirety, the other as "oversimplified''
+To believe that major keys are gay and minor keys sad is not entirely wrong,
+says Mattheson; it is just not as simple as that. But it is stupid to believe that keys that have a signature with flats are "soft and tender:'
+while the keys with sharps are "hard, fresh, and gay'' He further warns
+the reader that he is going to base the descriptions that are about to
+follow on Cammer-Ton,
+not Chor-Ton.161
+The order in which Mattheson lists the keys has been retained in our summary.
+D minor, the tono primo (Dorian) is believed by Mattheson to be
+somewhat devout and calm, at the same time grand, agreeable, and exHe therefore recommends it for the furtherpressive of contentment.
+158. For an explanation of the pyrrhichius see footnote 136.
+159. Author of Musurgia universalis
+(1650).
+160. Author of Heptachordum danicum (1646).
+161. For the most recent discussion of Cammer-Ton and ChorTon see Arthur Mendel, "On the Pitches in Use in Bach's Time"' The
+Musical Quarterly, XLI, pp. 332 and 466.
+234
+
+in the church and for achieving
+peace of mind in corning of devotion
+muni vita.
+He does not wish to imply, however,
+that this key cannot
+also delight; nevertheless,
+must not be written
+in it,
+"skipping music"
+whereas
+music will be very successful.
+"flowing"
+G minor (transposed
+the most beautiful key!'
+Dorian) is "almost
+character
+Mattheson
+finds in it not only the rather serious
+of D minor
+with spirited
+combined
+but also uncommon
+loveliness,
+grace and com"It is suitable
+for tender as well as refresh[Gefalligkeit].
+plaisance
+as well as happy ones.
+for yearning
+In short, it lends itself
+ing things,
+well and flexibly to moderate
+and tempered
+plaintiveness
+gaiety!'
+A minor (Aeolian)
+is found by Mattheson
+to be somewhat
+plainand relaxed.
+"It is sleep-inducing
+but not distive, dignified
+[ehrbar]
+It is highly suitable for keyboard and other instrumental
+so.
+agreeably
+compositions!'
+E minor (Phrygian),
+can hardly be considered
+says Mattheson,
+"Whatever one may do with it, it will remain
+gay.
+pensive,
+profound,
+of grief; in such a way, however,
+that some chance
+sad, and expressive
+of consolation
+remains!'
+To C major (Ionian) Mattheson
+a rather rude and imascribes
+but says that it is suited to the expression
+of joy.
+character,
+pertinent
+"A clever
+who chooses
+the accompanying
+instruments
+well
+composer
+can even use it for tender and charming
+compositions!'
+F major (transposed
+of expressing
+the most
+Ionian) "is capable
+beautiful sentiments,
+whether these be generosity,
+steadfastness,
+love,
+or whatever
+else may be high on the list of virtues.
+It is natural
+and
+unforced when used to express
+such affects!'
+He compares
+it to a handsome person
+who looks good whatever
+he may do and who has, "as the
+French say, bonne grace.'
+D major is found to be somewhat
+sharp and stubborn,
+very suitable to noisy,
+and cheering
+gay, war-like,
+[auffmunternden]
+things.
+"No one will deny, however,
+that if a flute is used instead
+of a clarinet162 and a violin is the predominant
+instrument
+instead of the kettledrum, it can very well be used for delicate things!'
+G major (Hypoionian)
+Mattheson
+calls insinuating
+and persuasive.
+It is, besides,
+somewhat
+brilliant
+and suited to the expression
+of serious as well as gay affects.
+C minor "possesses
+both exceeding
+loveliness
+and, at the same
+Since the first quality is too prevalent
+sadness.
+time,
+and one easily
+it will be best to enliven this key by
+gets tired of too much sweetness,
+a somewhat
+and regular
+This will keep its mildmouvement.
+spirited
+162.
+There is some question
+here whether
+Mattheson is indeed
+of the clarinet,
+since
+were
+used with
+speaking
+trumpets
+generally
+kettledrums
+in martial
+music.
+The term
+clarino
+meaning
+"high
+well known.
+trumpet" is, of course,
+235
+
+ness from becoming
+If, of course,
+soporific.
+does not apply!'
+this consideration
+sleep,
+
+it is
+
+intended
+
+to induce
+
+F minor was felt by Mattheson
+to be mild and relaxed,
+yet at the
+It is very
+time profound and heavy with despair and fatal anxiety.
+in its beautiful
+of black, helpless
+says Mattheson,
+expression
+moving,
+which occasionally
+to shudder.
+causes the listener
+melancholy
+
+same
+
+B-flat major (transposed
+and showy,
+Lydian) "is very diverting
+It thus can pass as both magnificent
+somewhat
+and
+modest.
+however,
+delicate
+Mattheson
+with Kircher,
+who says that it
+[mignon]!'
+agrees
+the soul to more arduous things (ad ardua animam elevans).
+elevates
+Mattheson
+lasciviousness,
+
+considers
+E-flat
+to express
+of
+the opposite
+major
+it being rather pathetic,
+and plaintive.
+always serious,
+
+A major "is very touching,
+It
+brilliant.
+although it is somewhat
+is best suited to the expression
+and sad passions
+of plaintive
+rather
+than to divertissements.
+It is especially
+for the
+good for compositions
+violin!'
+E major is found to express
+or fatal sadness.
+"Under
+desperate
+certain
+it can be piercing,
+circumstances
+and penetrating!'
+sorrowful,
+He compares
+it to the "fatal separation
+of body and soul!'
+
+bizarre,
+
+B minor is, according
+to Mattheson,
+moody, and melancholy.
+
+minor,
+F-sharp
+"although it leads
+rather than lethal.
+languid and amorous
+163 and misanthropic.
+singular,
+
+seldom
+
+used
+
+because
+
+it is
+
+to great sadness,
+is somewhat
+It is also somewhat
+abandoned,
+
+In conclusion,
+the translator
+wishes
+to express
+his gratitude to
+Professor
+Gustave Reese
+of New York University
+for his patient and
+as advisor on the original thesis from which this article
+helpful interest
+has been extracted.
+
+The original
+163.
+words
+and "singulier"
+"abandoniert"
+over from the French
+cannot be translated
+with any certainty.
+doniert
+or "wild' singulier
+might mean either "deserted"
+might
+"alone" as well as "extraordinary!'
+236
+
+taken
+Abanmean
+
+

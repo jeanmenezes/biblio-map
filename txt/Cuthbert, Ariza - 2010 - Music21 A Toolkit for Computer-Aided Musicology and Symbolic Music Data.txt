@@ -1,0 +1,914 @@
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+music21: A Toolkit for Computer-Aided Musicology and
+Symbolic Music Data
+Michael Scott Cuthbert
+
+Christopher Ariza
+
+Music and Theater Arts
+Massachusetts Institute of Technology
+{cuthbert, ariza}@mit.edu
+labeling is another task that initially seems easy but rapidly becomes extremely troublesome for several reasons.
+Are grace-notes accented or unaccented? Only a musically-trained ear that also knows the norms of an era can tell.
+Incompletely-filled measures, such as pickup measures
+and mid-bar repeats, present problems for algorithms. As
+the researcher’s corpus expands, the time spent on metaresearch expands with it. What began as a straightforward
+project becomes a set of tedious separate labors: transforming data from multiple formats into one, moving
+transposing instruments into sounding pitch, editorial accidentals in early music, or finding ways of visualizing
+troublesome moments for debugging.
+Researchers in other fields can call upon generalpurpose toolkits to deal with time-consuming yet largely
+solved problems. For instance, a scientist working with a
+large body of text has easy access to open-source libraries
+for removing punctuation, converting among textencoding formats, correcting spelling, identifying parts of
+speech, sentence diagramming, automatic translation, and
+of course rendering text in a variety of media. Libraries
+and programs to help with the musical equivalents of
+each of these tasks do exist, but few exchange data with
+each other in standardized formats. Even fewer are designed in modern, high-level programming languages. As
+a result of these difficulties, computational solutions to
+musicological problems are rarely employed even when
+they would save time, expand the scope of projects, or
+quickly find important exceptions to overly broad pronouncements.
+The music21 project (http://web.mit.edu/music21)
+expands the audience for computational musicology by
+creating a new toolkit built from the ground up with intuitive simplicity and object-oriented design throughout.
+(The “21” in the title comes from the designation for
+MIT’s classes in Music, Course 21M.) The advantages of
+object-oriented design have led to its wide adoption in
+many realms of software engineering. These design principles have been employed in music synthesis and generation systems over the past 25 years [2, 9, 10] but have
+not been thoroughly integrated into packages for the
+analysis of music as symbolic data. Humdrum, the most
+widely adopted software package [6], its contemporary
+ports [7, 11], and publications using these packages show
+the great promise of computational approaches to music
+theory and musicology. Yet Humdrum can be difficult to
+use: both programmers and non-programmers alike may
+find its reliance on a chain of shell-scripts, rather than object-oriented libraries, limiting and not intuitive.
+Nicholas Cook has called upon programmers to
+create for musicologists “a modular approach involving
+
+ABSTRACT
+Music21 is an object-oriented toolkit for analyzing,
+searching, and transforming music in symbolic (scorebased) forms. The modular approach of the project allows
+musicians and researchers to write simple scripts rapidly
+and reuse them in other projects. The toolkit aims to provide powerful software tools integrated with sophisticated
+musical knowledge to both musicians with little programming experience (especially musicologists) and to
+programmers with only modest music theory skills.
+This paper introduces the music21 system, demonstrating how to use it and the types of problems it is wellsuited toward advancing. We include numerous examples
+of its power and flexibility, including demonstrations of
+graphing data and generating annotated musical scores.
+
+1. INTRODUCTION: WHY MUSIC21?
+Computers have transformed so many aspects of musicology—from writing and editing papers, to studying
+manuscripts with digital files, to creating databases of
+composers’ letters, to typesetting editions—that it is incredible that most analytical tasks that music historians
+perform remain largely untouched by technology. The
+study of the rich troves of musical data in scores,
+sketches, intabulations, lead-sheets, and other sources of
+symbolic music data is still done almost exclusively by
+hand. Even when databases and spreadsheets are employed, they are usually created for a single purpose.
+Such specialized approaches cannot easily be reused.
+Computer scientists often assume that, compared to
+working with scanned images of scores or sound files,
+manipulating symbolic data should be a cinch. Most of
+the information from a score can easily be converted to
+text-based or numeric formats that general-purpose statistical or information-retrieval tools can manipulate. In
+practice the complexities of music notation and theory
+result in these tools rarely being sufficient.
+For instance, a researcher might want to compare
+how closely the music of two composers adheres to a particular scale (say, the major scale). What begins as a
+straightforward statistical problem requiring little musical
+knowledge—simply encode which notes are in the scale
+of the piece’s key and which are not—can quickly grow
+beyond the capabilities of general statistics packages.
+Suppose that after some initial work, our researcher decides that notes on stronger beats should be weighed
+more heavily than those on weaker beats. Now she must
+either add the information about beats by hand to each
+note or write a new algorithm that labels the beats. Beat
+
+637
+
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+high-level objects. The framework includes many objects,
+including Pitches, Chords, Durations, TimeSignatures,
+Intervals, Instruments, and standard Ornaments. Through
+method calls, objects can perform their own analyses and
+transformations. For instance, Chords can find their own
+roots, create closed-position versions of themselves,
+compute their Forte prime forms, and so on. Researchers
+can extend objects for their own needs, such as altering
+the pitch of open Violin strings to study scordatura, specializing (subclassing) the Note class into MensuralNote
+for studying Renaissance Music, or grouping Measures
+into Hypermeters. The object-oriented design of music21 simplifies writing these extensions.
+
+an unlimited number of individual software tools” [3]. A
+framework built with intuitive, reusable, and expandable
+objects satisfies Cook’s call without sacrificing power for
+more complex tasks.
+As a new, open-source, cross-platform toolkit written
+in Python, music21 provides such a modular approach,
+melding object-oriented music representation and analysis with a concise and simple programming interface.
+Simplicity of use, ease of expansion, and access to existing data are critical to the design of music21. The toolkit
+imports Humdrum/Kern, MusicXML [4], and userdefined formats (with MIDI and MuseData forthcoming).
+Because it is written in Python, music21 can tap into
+many other libraries, integrating internet resources (such
+as geomapping with Google Maps), visualization software, and sophisticated database searches with musical
+analysis.
+This brief paper gives an overview of the music21
+toolkit. Through examples of musicological applications
+that the system enables, the main distinguishing features
+are illustrated: simplicity of use and expansion.
+
+3. STREAMS: POWERFUL, NESTABLE,
+CONTAINERS OF TIMED ELEMENTS
+At the core of music21 is a novel grouping of musical
+information into Streams: nestable containers that allow
+researchers to quickly find simultaneous events, follow a
+voice, or represent instruments playing in different tempi
+and meters. Elements within Streams are accessed with
+methods such as getElementById(), an approach similarly to the Document Object Model (DOM) of retrieving
+elements from within XML and HTML documents. Like
+nearly every music21 object, Streams can immediately
+be visually displayed in Lilypond or with programs that
+import MusicXML (such as Finale and Sibelius).
+Through the Stream model, a program can find notes or
+chords satisfying criteria that change from section to section of a piece, such as all notes that are the seventhdegree of the current key (as identified either manually or
+with an included key-detection algorithm) and then retrieve information such as the last-defined clef, dynamic,
+or metrical accent level at that point.
+Many tools to visualize, process, and annotate
+Streams come with the music21 framework. These tools
+include graphing modules, analytical tools, and convenience routines for metrical analysis [8], phrase extraction,
+and identification of non-harmonic tones. Figure 2 demonstrates the use of metrical analysis, derived from
+nested hierarchical subdivisions of the time signature [1],
+to annotate two Bach chorales in different meters.
+
+2. SCRIPTING AND OBJECTS
+Music21 is built in Python, a well-established program-
+
+ming language packaged with Macintosh and Unix computers and freely downloadable for Windows users. The
+toolkit adds a set of related libraries, providing sophisticated musical knowledge to Python. As shown in Figure
+1, after adding the system with “from music21
+import *”, straightforward tasks such as displaying or
+playing a short melody, getting a twelve-tone matrix, or
+converting from Humdrum’s Kern format to MusicXML
+can each be accomplished with a single line of code.
+
+Display a simple melody in musical notation:
+tinyNotation.TinyNotationStream(
+"c4 d8 f g16 a g f#", "3/4").show()
+
+Print the twelve-tone matrix for a tone row (in this case the
+opening of Schoenberg’s Fourth String Quartet):
+
+from music21.analysis import metrical
+
+print(serial.rowToMatrix(
+[2,1,9,10,5,3,4,0,8,7,6,11]) )
+
+# load a Bach Chorale from the music21 corpus of supplied pieces
+bwv30_6 = corpus.parseWork('bach/bwv30.6.xml')
+
+or since most of the 2nd-Viennese school rows are already
+available as objects, you could instead type:
+print(serial.RowSchoenbergOp37().matrix() )
+
+# get just the bass part using DOM-like method calls
+bass = bwv30_6.getElementById('Bass')
+
+Convert a file from Humdrum’s **kern data format to MusicXML for editing in Finale or Sibelius:
+
+# get measures 1 through 10
+excerpt = bass.getMeasureRange(1,10)
+
+parse('/users/documents/composition.krn').
+write('xml')
+
+# apply a Lerdahl/Jackendoff-style metrical analysis to the piece.
+metrical.labelBeatDepth(excerpt)
+
+Figure 1. Three simple examples of one-line music21 scripts.
+
+# display measure 0 (pickup) to measure 6 in the default viewer
+# (here Finale Reader 2009)
+excerpt.show()
+
+Though single-line tasks are simpler to accomplish in
+music21 than in existing packages, the full power of the
+
+new toolkit comes from bringing together and extending
+
+638
+
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+4.1 An I
+Integrated and Virtual Cor
+rpus of Music for
+Researchers
+Music
+c21 comes wit a corpus pac
+th
+ckage, a large c
+collection of fr
+freely-distributa
+able music for analysis and t
+testing,
+including a complete collection of the Bach Ch
+g
+horales,
+numerou Beethoven String Quartets, and examp
+us
+ples of
+Renaissa
+ance polyphon The virtual corpus exten the
+ny.
+l
+nds
+corpus p
+package even further. Simila to a collect
+ar
+tion of
+URL bookmarks to m
+music resources additional re
+s,
+epertoailable online, can be autom
+matically down
+nloaded
+ries, ava
+when fir requested a then made available to t rerst
+and
+e
+the
+searcher for future use The corpus includes both Kern
+e.
+h
+sicXML files. Future system expansions w not
+m
+will
+and Mus
+only grow the tools for analysis, but also the bread and
+r
+dth
+f
+works.
+depth of the corpus of w
+4.2 Perm
+missive Licens and Full Do
+se
+ocumentation
+Music21 is a tool
+lkit: a collectio of tools tha work
+on
+at
+together in a wide ran of context The promis of a
+nge
+ts.
+se
+toolkit is only achieved if users can expand and int
+s
+d
+tegrate
+software components i their own w
+e
+in
+work. Thus, music21
+is releas
+sed under the Lesser General Public L
+e
+License
+(LGPL), allowing its use within both free and comm
+mercial
+e.
+ementation and documentatio stay
+d
+on
+software So that imple
+synchron
+nized, the tool
+lkit also featu
+ures high-quali inity,
+dexed, and searchable documentation of all modul and
+a
+n
+les
+classes, automatically created from the source cod and
+de
+routines.
+r
+Th
+he
+music2
+21
+site
+test
+(http://
+web.mit.
+.edu/music21) hosts up-to-d
+date informatio doon,
+cumentat
+tion and relea links. Cod browsing, f
+ase
+de
+feature
+requests, and bug repor are housed at Google Cod
+,
+rts
+de.
+
+# perform the same process on a diffe
+e
+ferent chorale in 3/ time
+/4
+bwv11_6 = cor
+b
+rpus.parseWor
+rk('bach/bwv1
+11.6.xml')
+alto = bwv11_
+a
+_6.getElement
+tById('Alto')
+)
+excerpt = alt
+e
+to.getMeasure
+eRange(13,20)
+)
+metrical.labe
+m
+elBeatDepth(e
+excerpt)
+excerpt.show(
+e
+()
+
+5. EXAMPLES
+S
+Better th an explana
+han
+ation of high-l
+level features, a few
+specific examples illus
+strate the toolk
+kit’s promise. These
+examples are chosen for both their novel and pr
+ractical
+utility.
+ding Chords w
+within Melodic Fragments
+c
+5.1 Find
+The sc
+cript in Figure 3 searches the entire second violin
+e
+d
+part of a MusicXML s
+score of Beeth
+hoven’s Große Fuge,
+e
+op. 133, to find measu that melod
+ures
+dically express dominant seve
+enth chords in consecutive notes. It then di
+n
+isplays
+the chor in closed p
+rd
+position, the su
+urrounding me
+easure,
+and the Forte prime form. (Runni
+ing the same query
+across ba
+arlines would a just a few l
+add
+lines of code).
+
+Figure 2. Ana
+F
+alytical tools, s
+such as this m
+metrical accent
+t
+la
+abeler, are inc
+cluded with mu
+usic21 and work with most
+t
+Streams (includ
+S
+ding Scores an Parts). Her excerpts of
+nd
+re,
+f
+tw Bach chora
+wo
+ales, each in a different mete are labeled
+er,
+d
+with dots corres
+w
+sponding to the metric stren
+eir
+ngths.
+
+op133 = corpus.parseWork(
+'beethoven/opus133.xml')
+violin2 = op133.getElementById('2nd Violin')
+
+4. FURTHER FEATURES
+4
+R
+
+ty
+# an empt container for later display
+display = stream.Stream()
+
+In addition to providing sophisticated resources in a
+n
+modern progra
+m
+amming language, the musi
+ic21 package
+e
+ta
+akes advantag of some of the best cont
+ge
+f
+temporary approaches to sof
+p
+ftware distribut
+tion, licensing, development,
+,
+,
+and documenta
+a
+ation. These a
+approaches assure both the
+e
+lo
+ongevity of the system acros multiple platforms as well
+e
+ss
+l
+as the ability o the system to grow and in
+a
+of
+t
+ncorporate the
+e
+work of contrib
+w
+butors.
+
+for thisMeasure in violin2.measures:
+list
+nisons, octaves,
+# get a l of consecutive notes, skipping un
+# and re (and putting n
+ests
+nothing in their pla
+aces)
+notes = thisMeasure.findConsecutiveNotes(
+ves = True,
+skipUnisons = True, skipOctav
+rue)
+skipRests = True, noNone = Tr
+pitches = stream.Stream(notes).pitches
+
+639
+
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+for i in ra
+ange(len(pitc
+ches) - 3):
+# makes eve set of 4 notes in a whole-note c
+ery
+nto
+chord
+testChord = chord.Cho
+d
+ord(pitches[i
+i:i+4])
+testChord
+d.duration.ty
+ype = "whole"
+"
+if testCh
+hord.isDomina
+antSeventh():
+:
+# A dominant-seventh chor was found in thi measure.
+rd
+is
+el
+he
+er
+# We labe the chord with th measure numbe
+# and the first note of the m
+f
+measure with the Fo Prime form
+orte
+testCho
+ord.lyric = "m. " + str(
+"
+thisMeasu
+ure.measureNu
+umber)
+orm = chord.C
+Chord(
+primeFo
+thi
+isMeasure.pit
+tches).primeF
+FormString
+firstNo
+ote = thisMea
+asure.notes[0
+0]
+firstNo
+ote.lyric = p
+primeForm
+# Then we append the chor in closed positio followed
+e
+rd
+on
+# by the m
+measure containing the chord.
+g
+chordMe
+easure = stre
+eam.Measure()
+)
+chordMe
+easure.append
+d(
+test
+tChord.closed
+dPosition())
+display
+y.append(chor
+rdMeasure)
+display
+y.append(this
+sMeasure)
+display.show(
+d
+()
+
+# perform the same process o a different work
+on
+k
+chopinStream = music21.parse(kern.mazurka6)
+notes = chopinStream.flat.stripTies()
+ph.Plot3DBarsPitchSpaceQuarterLength
+h(
+g = grap
+notes, colors=['b'])
+g.process()
+
+Figure 3. The results of a sea
+F
+r
+arch for chords expressed
+s
+melodically.
+m
+
+5.2 Distributio of Notes by Pitch and Duration
+5
+ons
+b
+D
+Figure 4 de
+emonstrates th ability of mu
+he
+usic21 graphs
+s
+to help visualiz trends that a otherwise d
+o
+ze
+are
+difficult to discern. These gra
+c
+aphs plot three features: pitc duration of
+e
+ch,
+f
+notes, and how frequently the pitches and durations are
+n
+w
+ese
+d
+e
+used. From two small excerpt of pieces in 3/4 by Mozart
+u
+o
+ts
+t
+(a minuet, in re and by Chopin (a mazurk in blue), it
+ed)
+ka,
+t
+can be seen tha pitches in th Mozart exa
+c
+at
+he
+ample follow a
+ty of bell-cu
+ype
+urve distribution, with few hi notes, few
+igh
+w
+lo notes, and many notes to
+ow
+oward the midd of the regidle
+stral space. Ch
+s
+hopin’s usage jumps through
+j
+hout the piano.
+The differences in pitch usa suggest that this line of
+T
+age
+f
+in
+nquiry is wort pursuing fur
+th
+rther, but no connection bec
+tw
+ween duration and pitch appears. Music21’s easy-to-use
+1
+e
+graphing metho help resear
+g
+ods
+rchers find the best visualizati tool for th data, easil switching among diverse
+ion
+heir
+ly
+a
+e
+formats.
+f
+
+Figure 4 Differences in pitch dist
+4.
+s
+tribution betwe
+een
+Mozart and Chopin.
+a
+
+from music21.
+f
+.musicxml imp
+port testFile as xml
+es
+from music21.
+f
+.humdrum impo
+ort testFiles as kern
+s
+
+The Mozart and Chopin examp
+ples, while sh
+howing
+distinctiv individual usage, show little correlatio beve
+on
+tween pi
+itch and durati
+ion. Many other pieces do. A exAn
+treme e
+example is M
+Messiaen’s “M
+Mode de valeurs et
+d’intensi
+ités” from Qua études de rythme, perha the
+atre
+aps
+rialism. A per
+first wor of total ser
+rk
+rfect correlatio beon
+tween pi
+itch and durat
+tion, as found in the middle voice
+e
+(isolated for clarity), is plotted in Figure 5. An asp of
+d
+s
+pect
+
+# display 3D grap of count, pitch, and duration
+phs
+,
+mozartStream = music21.pa
+m
+arse(
+rtTrioK581Exc
+cerpt)
+xml.mozar
+notes = mozar
+n
+rtStream.flat
+t.stripTies()
+)
+g = graph.Plo
+ot3DBarsPitch
+hSpaceQuarter
+rLength(
+notes, co
+olors=['r'])
+g.process()
+g
+
+640
+
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+the composition that is difficult to observe in the score
+but easy to see in this graph is the cubic shape (-x3) made
+through the choice of pitches and rhythms. This shape is
+not at all explained by the serial method of the piece. Also easily seen is that, although Messiaen uses lower notes
+less often, there is not a perfect correlation between pitch
+and frequency of use (e.g., 21 B-flats vs. 22 A-flats).
+messiaen = converter.parse(
+'d:/valeurs_part2.xml')
+notes = messiaen.flat.stripTies()
+g = graph.PlotScatterWeightedPitch\
+SpaceQuarterLength(notes, xLog = False,
+title='Messiaen, Mode de Valeurs,
+middle voice')
+g.process()
+
+Figure 6. A graph of pitch class usage over time in
+Beethoven’s Große Fuge.
+
+5.4 Testing Nicolaus de Capua’s Regulae of Musica
+Ficta
+This example shows a sophisticated, musicological
+application of music21. Among his other writings, the
+early-fifteenth century music theorist Nicolaus of Capua
+gave a set of regulae, or rules, for creating musica ficta
+[5]. Musica ficta, simply put, was a way of avoiding tritones and other undesirable intervals and create more
+conclusive cadences through the use of unwritten accidentals that performers would know to sing. Unlike the
+rules of most other theorists of his time, Nicolaus’s four
+rules rely solely on the melodic intervals of one voice.
+Herlinger’s study of Nicolaus’s rules suggested that they
+could be extremely successful at eliminating harmonic
+problems while at the same time being easy enough for
+any musician to master. However, as is conventional in
+musicology, this study was performed by hand on a few
+excerpts of music by a single composer, Antonio Zachara
+da Teramo. Using music21 we have been able to automatically apply Nicolaus’s rules to a much wider set of
+encoded music, the complete incipits and cadences of all
+Trecento ballate (about 10,000 measures worth of music)
+and then automatically evaluate the quality of harmonic
+changes implied by these rules. Figure 7 shows an excerpt of the code for a single rule, that a descending major second (“M-2”) immediately followed by an ascending major second (“M2”) should be transformed into two
+half-steps by raising the middle note:
+
+Figure 5. A graph of pitch to duration relationships in
+Messiaen, “Mode de valeurs,” showing the correlation
+between the two note attributes.
+
+5.3 Pitch Class Density Over Time
+In Figure 6, pitch class usage, over the duration of
+the composition in the cello part of a MusicXML score of
+Beethoven’s Große Fuge, is graphed. Even though the
+temporal resolution of this graph is coarse, it is clear that
+the part gets less chromatic towards the end of the work.
+(We have manually highlighted the tonic and dominant in
+this example.)
+
+# n1, n2, and n3 are three consecutive notes
+# i1 is the interval between n1 and n2
+# i2 is the interval between n2 and n3
+i1 = generateInterval(n1,n2)
+i2 = generateInterval(n2,n3)
+
+beethovenScore = corpus.parseWork('opus133.xml')
+celloPart = \
+beethovenScore.getElementById('Cello')
+
+# we test if the two intervals are the ones fitting the rule
+if i1.directedName == "M-2" and \
+i2.directedName == "M2":
+
+# given a “flat” view of the stream, with nested information
+# removed and all information at the same hierarchical level,
+# combine tied notes into single notes with summed durations
+notes = celloPart.flat.stripTies()
+
+# since the intervals match , we add an editorial accidental
+n2.editorial.ficta = \
+Accidental("sharp")
+
+g = graph.PlotScatterPitchClassOffset(notes,
+title='Beethoven Opus 133, Cello')
+g.process()
+
+641
+
+11th International Society for Music Information Retrieval Conference (ISMIR 2010)
+
+# we also color the affected notes so that if we display the music
+# the notes stick out. Different colors indicate different rules
+n1.editorial.color = "blue"
+n2.editorial.color = "forestGreen"
+n3.editorial.color = "blue"
+
+The next stage of development will add native support for additional input and output formats, including
+MIDI. Further, libraries of additional processing, analysis, visualization routines, as well as new and expanded
+object models (such as non-Western scales), will be added to the system. We are presently focusing on creating
+simple solutions for common-practice music theory tasks
+via short music21 scripts, and within a year hope to be
+able to solve almost every common music theory problem
+encountered by first-year conservatory students.
+
+Figure 7. Applying ficta accidentals with music21.
+The results of applying one or all the rules to an individual cadence or piece can be seen immediately. Figure 8 shows the rules applied to one piece where they
+create two “closest-approaches” to perfect consonances
+(major sixth to octave and minor third to unison). These
+are the outcomes one expects from a good set of regulae
+for musica ficta.
+
+7. ACKNOWLEDGEMENTS
+The authors thank the Seaver Institute for their generous funding of music21. Additional thanks are also
+extended to three anonymous reviewers for their helpful
+comments.
+
+# get a particular worksheet of an Excel spreadsheet
+ballataObj = cadencebook.BallataSheet()
+# create an object for row 267
+pieceObj = ballataObj.makeWork(267)
+# run the four rules (as described above)
+applyCapua(pieceObj)
+# display the first cadence of the piece (second snippet) by
+# running it through Lilypond and generating a PNG file
+pieceObj.snippets[1].lily.showPNG()
+
+8. REFERENCES
+[1] Ariza, C. and M. Cuthbert. 2010. “Modeling Beats,
+Accents, Beams, and Time Signatures Hierarchically
+with music21 Meter Objects.” In Proceedings of the
+International Computer Music Conference. San
+Francisco: International Computer Music Association.
+[2] Buxton, W. and W. Reeves, R. Baecker, L. Mezei.
+1978. “The Use of Hierarchy and Instance in a Data
+Structure for Computer Music.” Computer Music
+Journal 2 (4): 10-20.
+[3] Cook, N. 2004. “Computational and Comparative
+Musicology.” In Empirical Musicology: Aims,
+Methods, Prospects. N. Cook and E. Clarke, eds. New
+York: Oxford University Press. 103-126.
+[4] Good, M. 2001. “An Internet-Friendly Format for
+Sheet Music.” In Proceedings of XML 2001.
+[5] Herlinger, J. 2004. “Nicolaus de Capua, Antonio Zacara da Teramo, and musica ficta.” In Antonio Zacara
+da Teramo e il suo tempo. F. Zimei, ed. Lucca: LIM.
+67–89.
+[6] Huron, D. 1997. “Humdrum and Kern: Selective
+Feature Encoding.” In Beyond MIDI: the Handbook
+of Musical Codes. E. Selfridge-Field, ed. Cambrdige:
+MIT Press. 375-401.
+[7] Knopke, I. 2008. “The PerlHumdrum and
+PerlLilypond Toolkits for Symbolic Music
+Information Retrieval.” ISMIR 2008 147-152.
+[8] Lerdahl, F. and R. Jackendoff. 1983. A Generative
+Theory of Tonal Music. Cambridge: MIT Press.
+[9] Pope, S. T. 1987. “A Smalltalk-80-based Music
+Toolkit.” In Proceedings of the International
+Computer Music Conference. San Francisco:
+International Computer Music Association. 166-173.
+[10] Pope, S. T. 1989. “Machine Tongues XI: ObjectOriented Software Design.” Computer Music Journal
+13 (2): 9-22.
+[11] Sapp, C. S. 2008. “Museinfo: Musical Information
+Programming
+in
+C++.”
+Internet:
+http://museinfo.sapp.org.
+
+Figure 8. Music21 code for automatically adding musica
+ficta to Francesco (Landini), De[h], pon’ quest’amor,
+first cadence.
+
+In other pieces, Nicolaus’s rules have an injurious effect,
+as Figure 9 shows. With the toolkit, we were able to run
+the rules on the entire database of Trecento ballatas and
+determine that Nicolaus’s rules cannot be used indiscriminately. Far too many cases appeared where the proposed ficta hurt the harmony. One of the main advantages
+of the music21 framework is making such observations
+on large collections of musical data possible.
+
+Figure 9. Francesco, D’amor mi biasmo, incipit after automatically applying ficta accidentals.
+
+6. FUTURE WORK
+The first alpha releases of music21 introduce fundamental objects and containers and, as shown above,
+offer powerful tools for symbolic music processing.
+
+642
+
+

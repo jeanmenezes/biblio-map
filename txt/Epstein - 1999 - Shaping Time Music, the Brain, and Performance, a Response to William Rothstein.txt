@@ -1,0 +1,1291 @@
+Yale University Department of Music
+
+"Shaping Time: Music, the Brain, and Performance", a Response to William Rothstein
+Author(s): David Epstein
+Source: Journal of Music Theory, Vol. 43, No. 1 (Spring, 1999), pp. 165-190
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/3090693
+Accessed: 16/12/2009 13:18
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+Shaping Time:Music, The Brain, and Performance,
+a response to William Rothstein
+RESPONDENT
+David Epstein
+To the editor:
+I write in response to William Rothstein'sreview of my book, Shaping Time:Music, the Brain, and Performance(Journalof Music Theory,
+42.1, Spring 1998, 125-44). I would like to cover a numberof points
+raised in this review, one of them, by its complex and seemingly contradictorynature,
+trulyinvitingdiscussion.It concernswell-knownenigmatic
+in the Ninth Symphony of Beethoven. I furtherdiscuss in these
+places
+pages an interestingissue concernedwith the natureof ideas themselves
+that arises from Rothstein's review, though it is not pursued therein.
+of
+and
+Lastly,the review containsmisunderstandings misrepresentations
+ideas offered in the book thatneed to be corrected.
+major
+A numberof Rothstein'scritiquescontributeto ways in which ideas
+This is particularly
+in Shaping Timewill evolve as I pursuethem further.
+trueof some commentswith regardto proportional
+tempo, a concernthat
+occupies much of ShapingTime,in which Rothsteinseems to findpotential riches despite reservations.I appreciatethis contribution.
+The review fails at the outset, however,to fulfill one critical aspect of
+a reviewer'sobligation-that of reportage.Reviews are expected to provide readerswith an overview of a book's perspectives,as well as to present a reviewer'sassessmentof its ideas. Thatoverviewis notablyincomplete here. Specifically, the review takes virtually no notice of a major
+component of the book-its concern with the neurobiologicalbasis of
+musical timing.
+Otherthan a quote of mine (Rothstein, 127) that proportional
+tempo
+seems a way of making music "most in resonance... with the neurophysiology of time processing and communication([Epstein] 155)", and
+a commentthat the book "makesextensive use of insights gleaned from
+165
+
+the cognitive sciences"(Rothstein,125), readerswouldhaveno idea from
+this review thata significantpartShapingTimeis concernedwith the neuthat the perirophysiology of timing and time controlin music. Further,
+which characterizesa steady beat in the performanceof music
+odicity
+seems to rest upon the periodicnatureof neuronalfirings,the oscillatory
+functionthatthese neuronsrepresent,the coupled natureof neuraloscillators that results in linkages of periodicitiescovering varying spans of
+durations.Yet a significantportion of the book deals with these facts.
+6
+Chapter is devotedto the biological aspectof neuralperiodicity,its hierarchical and phase relationships,the bases these provide for biological
+clocks, the neuralmechanics of these clocks and their coupling oscilla7
+techniquesas
+toryfunctions.Chapter is devotedto tempo measurement
+to deviationsfromexact proportions
+and
+relateto proportional
+tempi,
+they
+criteriafor judging their significanceor lack of it, to issues of temporal
+orderthresholdand consequentaspects of temporalperception.Chapter
+9 offers case studiesof music from seven nonwesterncultureswhich sugtempo may be a universal.Should this be so, the
+gest that proportional
+likelihood that these tempo relationshipsrest upon neural mechanisms
+basic to all humanbeings is strengthened.
+These chapters, together with their notes and bibliography,occupy
+almost 100 pages of Shaping Time,roughly one sixth of the book. Their
+ideas furtherpermeatediscussions in laterchapters.They are a majorfocus of the study, and they offer a perspectivethat has begun to work its
+way into music theory only in recent years.Yet the review does not discuss them at all. Readersnot familiarwith the book would thus scarcely
+be awareof these contents or their scope.
+Moving to other matters,let me discuss the points mentioned at the
+outset of this letter:
+Discussion: 1) Re the Beethoven Ninth Symphony
+Rothstein(135) speaks to conundrums
+posed by two tempo markings
+in the Beethoven Ninth, markingsthat to date, as he rightly notes, have
+eluded adequateresolution.I discuss these markingsandtheircontextsin
+ShapingTime,but commentfurtherupon them here, for the recentexperience of conducting the work yet again has yielded new perspectives.
+My view of the tempo relationsin these places has not changed substantially,but my sense of the contextsthatbearupon themhas enlarged.The
+places in question are the Scherzo and Trio of movementII, their tempi
+and the stringendothatlinks these sections, and the Alla marcia section
+in the last movementand its indicatedtempo.
+My sense of things regardingthe second movement rests upon the
+questionwhetherBeethoven'smarkingof half=l 16 for the Prestotempo
+that constitutes the Trio is valid. The prevalent alternateview is that
+166
+
+whole=116 was intended. I continue to feel that half=116 is correct. I
+agree with Rothstein (135) about the im Volkstoncharacterof the Trio
+tune-a factorthatrequiresthe slower tempo, and furtherfind thatmanuscript studies (outlined in Shaping Time,234-36) confirm this tempo.
+As for the rhythmic/thematic
+relations that I offer and Rothstein (125)
+disputes,there seems room here for legitimatedisagreement.
+The salient questionaboutthis passage is the one thatRothstein(137)
+asks-namely, "how can one effect a stringendo or ritardandobetween
+two tempos if those tempos are effectively identical?"My present-day
+responseis thatif we accept Beethoven'sprintedhalf=116 tempo for the
+Trio, the passage can therebybe seen as a species of accelerando ... a
+tempo, a mode of tempo discourse not unknown in eighteenth-century
+music thoughdevelopedmore within the nineteenthcentury,to an extent
+by Beethoven himself. That said, this is nonetheless a curiousversion of
+accelerando ... a tempo,for almostevery detail of the passage is variant
+fromthe standard
+notionof thatmodel.A tempo,for example,is not stated
+in so many words, and the Presto thatmarksthe Trio seems to contradict
+it. Further,
+Beethoven calls for stringendo,not accelerando.
+Thereareaffinitieswith the prototype,however.Forone, a tempo,thus
+the same beat speed as prior to the passage, is explicit in Beethoven's
+metronomemarking.(The "Presto"indicationat the alla breve remains
+enigmatic and probablycannot be adequatelyexplained. If Beethoven's
+metronomedesignationis accepted,thatis, presto is best seen as character designation.If on the otherhandpresto is to determinespeed [thusthe
+alternative
+charactersuffers.)As for the accelwhole=116], the Volkston
+erationaspect of the model, Beethoven's specifiedstringendois a significant variant.
+Accelerationcan be seen as physics embracesthe term,i.e.,
+scalar acceleration,or change in rate of speed. Stringendo connotes a
+more complex event as well as an additionalfactor:the factoris an inner
+psychological or affective state, often one of tension; the event that this
+creates (or motivates)is a driving,or pressing forward,of tempo. Pressing forwardalso suggests resistance, with the result that the speed ultimately attainedvia stringendo is probablyless great than that achieved
+by acceleration. (The French and English terms for this modus operandi-"pressez," or the "press forward"seen above, convey this sense
+better than the Italian "stringendo,"
+whose connotationof "squeezing"
+more a consequence of the action than its cause, thus a beat
+suggests
+"squeezed"to smaller size.)
+This subtle set of circumstancesworks its way in the passage, as does
+the sense of forwardmotion establishedby the phrasestructureof these
+18 bars (mm. 396-413), wherein the melodic and/ormotivic groupings
+continually shortenby a factor of 2, from 4-2-1-1/2 bar sets. (See Epstein, Example 8. f, p. 235, and the discussion, 234-35.) Added to this
+mix is the change to alla breve at the close of the passage, which has the
+167
+
+effect of further"confusing"the sense of time, of beat, of activity.In essence there are two calculi at work in the passage, one effecting change
+via stringendo il tempo, the second creatingchange throughthe altered
+meter and its attendant
+activitywithin the beat. The resultis describedin
+Time-in essence, that "when the Presto theme arriveswe are
+Shaping
+left momentarily'beatless', unawarefor at least one beat (if not a bar or
+more) whatthe tempo,pacing, motionmay be" (234). By the same token,
+Beethoven sets the stage at this point for the Trio-for its tempo, and for
+the psychological sense of pace. The detailsthatcontrolthatpace-pedal
+melodic direction,soft
+tone, restrictedthematicrange, "uncomplicated"
+dynamics, light articulations,essentially static harmonyprimarilyconsisting of local activity,etc. are discussed on p. 235.
+In its entiretythe passage effects a transformation perceptionmore
+of
+akin perhapsto late nineteenth-century
+or that of our own era
+practice
+thanto 1817-1823-a modulationof pacing, tempo, and details of activity achieved with the subtlety of an "unseen hand."We emerge from
+change, thatis, before we are fully awareof what has changed.
+The second conundrum,mentionedearlier,concerns what Rothstein
+for
+(135) describes as "theoddly slow 84 (to the dottedquarter) the alla
+marcia variationin the finale."The perceptionis apposite. My view of
+this tempo, as discussed in Shaping Time (238-39), has not notably
+changed;in the main it still seems unviable.The context within which it
+takes place, however,I now view differentlyto the extent that aspects of
+the tempo do in fact appearplausible.
+Severalfactorsinfluencethis view-for one, the fact that84 to the beat
+at the alla Marcia is minimally differentfrom the pulse of 80 that precedes it.' The discrepancyis 5%, the Just Noticeable Difference much
+discussedin ShapingTime(thoughignoredin the review).Rothstein(137)
+characterizessuch a perception,in a differentcontext, as being in "recHis
+ognizably the same pulse-stream." phrasecapturesthis essence.
+bears upon the segmentthatprecedesthe
+This similar"pulse-stream"
+theme within the
+alla Marcia. It bears upon the returnof the "Freude"
+alla Marcia (m. 543) as well. Essentially,both themes move at the same
+articulapace. Both, too, are of loud dynamic, and both share"marked"
+tion-the "Cherubsteht vor Gott"explicitly so (the staccatomarks),the
+"Freude"
+passage implicitly throughthe staccati (spiccati) in the strings
+andthe continualnew attacksuponnotes in the winds, brassandtimpani.
+Moreovereach of these themesis "setup,"so to speak,in such a way that
+the "oddly slow" pace of 84 feels viable. The "vorGott"passage closes
+with a fermatamolto tenuto.The cadence thus halts the flow of time. Nor
+is that flow set anew as the march begins: its first four bars are mostly
+silence, punctuatedsolely by notes on the weak beat of alternatebars.
+The ensuing eight measuresincrease the attacksto every bar, but again
+168
+
+movement does not occur until 13
+on their weak beats. Straightforward
+bars into the march.
+In a somewhatreverseway the flow of time is retarded-psychologically, if not physically-following the Ft climax (mm. 525-40). The
+horn note motive continually begins off the strong beat, obscuring the
+prevalentpulse, and the entire passage "relaxes"by way of a long and
+diminuendo(ffto pp).
+structured
+A consequenceof this plan is a tempoof 84 thatseems viable for these
+two passages that encase the march.The main body of the march,however (mm. 343-524 or, minimally,431-524), remainsin my view untenlive or recorded,that
+able at the tempo of 84. I know of no performance,
+manages that tempo, the Norringtonone I discuss (239) included. The
+music demandsgreaterdrive than 84 allows.
+Seen in this "revisionist"light, the alla Marcia is not so discrepant
+from Beethoven's indications. The mystery lies not so much with the
+explicit tempomarking(84) as with the absenceof a signal thatthe march
+propermust move forward.The large-scale structure,however, clearly
+is deliberate,plannedto a degree not generally recognized. Its reigning
+tempo (84) appearsnot so oddly slow in this perspective.
+Discussion: 2) Of unity, rigidity, and the evolution of ideas
+Rothstein(128) raises a complex point concerninga majorpremiseof
+Shaping Time.He speaks of "Epstein'srigid adherenceto a Schoenbergian standardof unity" which pertainsto relationships,tempo ones included, thatorganizea work as a unifiedand coherentwhole. "Thisis an
+he
+assumption,not an argument", says, "andit is neverquestionedin this
+book."
+But the idea is indeed questioned.Nor is the adherencerigid, as Rothon
+stein suggests. (Documentation this is providedhere. See Case IV,last
+two items.) Yet Rothstein'spoint bears examination.
+I acknowledgethe cogency of unity as a compositionaland an analytical approach, and am aware that postmodern and deconstructionist
+perspectives have moved away from this earlier view. These changing
+perspectivestouchupona biggerissue, one containedin Rothstein'scomment but not pursuedby him. It concernsthe relevance,and the possible
+once vital,
+interconnections,
+amongevolving ideas-whether perspectives
+in an earliertime, retaincogency in a newer age.
+highly developed
+As we move to new theoretical
+bases,for instance,do we simplychange
+bases, or do we in factdiscardthe olderbases, muchas we changeclothes?
+Alternatively,are there hierarchictheories with levels upon which antithetical ideas coexist, levels wherein they may in fact connect in complementaryways?
+169
+
+I suspect the latteris true. Certainlyit is so in the sciences. Newton's
+view of space and time, for example, continues to serve adequatelyfor
+simple computationsof highway travel (thus Distance=Speed x Time,
+"simple"in the sense of presumedconstantspeed). His worldview fails
+with respect to astronomicalspace/time, however, which requiresrelativity theory.Mendeliangenetics are not irrelevantto currenttheories of
+reproductionand growth, but they are inadequate;hence the evolution
+As
+of molecularbiology andgene technology. formusic,in particular,
+tonal
+music: Tovey's approachto phrase structure,with its descriptions of
+is
+phraselengths and surfacecharacteristics, not incompatiblewith current theory.It is not sufficient,however. Lerdahland Jackendoff,Rothstein, Schachter,Schenker and others yield deeper insights. Much the
+same complementaritymay be true with regardto Schoenberg'sideas
+concerningunity, and the significantconcerns aboutthe uniquenessand
+individualityof perception,cognition, construalof informationand the
+like that have emanated from the critical theories of the postmodern
+world.2
+Misunderstandings and Misrepresentations in the Review
+The points discussed above, stimulatedby Rothstein's review, contributeto the dialogue that any authormight hope a large study would
+elicit. There are also, however,numerousmisunderstandings,
+misrepreof
+sentations,misconstrualsand misinterpretations ideas, concepts and
+facts in ShapingTimethatfigurein Rothstein'stwenty-pagereview.These
+must be corrected.
+in
+I cannotaddressall the pointsof misunderstanding the limitedspace
+of this letter,but I will addresssome. They concernthe studies of accelerationandritard
+foundin the book, as well as the model of rubatooffered
+there.Additionally,I deal with distortionsof context that underlieother
+issues discussed by Rothstein.
+Case I. Re Acceleration and Ritard
+I appreciateRothstein'sendorsement(133) of the study of acceleration andritardin ShapingTime.He misses, however,aspectsof the cubic
+JacobFeldman,found charcurve shapethatI and my fellow researcher,
+acterizes accelerationsand ritards(chapter 12). For example, Rothstein
+(133) states: "An importantpoint is that, given any two points on a
+graph-representing a beginning tempo, a goal tempo, and a length of
+time between them-there is one and only one cubic curve thatcan connect them.This suggests (andEpsteinseems to encouragethe suggestion)
+thatthereis one and only one 'ideal' ritard,or accelerando,between any
+two given boundarytempos, but that is not quite true: a differentcubic
+170
+
+curve might be found that increases or decreases the length of time between the two stable tempos."
+To say that "a differentcubic curve might be found that increases or
+decreasesthe length of time between the two stable tempos"contradicts
+one of the given conditionsthatRothsteindescribes,namely "a length of
+time between [the two given points on the graph]." in this context of
+For
+a given condition,"alength"meansjust that-a length,a singular,unique,
+one and only length. Rothstein's interpretation thus mathematically
+is
+false.
+Moreover,to say thatthis set of givens "suggests ... thatthereis one
+andonly one 'ideal'ritard,or accelerando,between any two given boundary tempos"is itself false. That statementimplies the generalizationof a
+propositionthat in fact is true only for a specific condition-the unique,
+given length of time between Rothstein'sgiven boundarypoints.
+Rothstein confuses here the difference between a cubic curve and a
+cubic spline, the latterdescribedin n.5 (555) of chapter 12 ("The cubic
+curve in Example 12.2 fits within anothermathematicalclassification,
+that of a spline-a curve that serves the function of joining two lines. It
+can thus be describedas a cubic spline").A cubic spline is illustratedin
+Example 12.2 of the chapter(420), its captionreinforcingthis definition:
+"CubicSpline-the cubic curve X-Y smoothlyjoins the horizontallines
+W-X andY-Z."Further
+explanationis providedon the same page. Referto Example 12.2, the text explains that "we are presentedwith two
+ring
+horizontallines, W-X andY-Z, and the chargethatwe join them by a line
+thatwill make a 'smooth'joint, ajoint whose connectionwith the straight
+lines providesa maximallygradualtransition,devoid of abruptness."
+Implicit in the example, andin the descriptions,arethe fixed positions of the
+lines to be joined. Implicittherebyare the fixed positions of the X andY
+points on these lines. It follows that these fixed positions bound a fixed
+durationbetween the points.
+The confusion is compoundedwhen Rothsteinstates: "This suggests
+... that there is one and only one 'ideal' ritard,or accelerando,between
+any two given boundarytempos."Yet furtherconfusion follows from his
+statementthat"Epsteinseems to encouragethe suggestion." just seen,
+As
+Rothstein's initial given conditions describe a cubic spline. But cubic
+splines do not "suggest";they are mathematicalfact.
+Nor does Epstein"encourage suggestion." the contrary,
+the
+To
+Epstein
+and Feldmanrecognize and state a numberof times within this chapter
+that cubic curves (as distinct from cubic splines) can vary individually
+while retaining their generic identity. Though we do specify (421-22)
+that "given the end points of such a [cubic] curve, there is only one trajectory that can be drawnbetween these points that will fit the mathematical descriptionof a cubic curve,"we furtherexplain (438) that dif171
+
+ferences are found in specific embodimentsof the curve. Speaking of
+the accelerationandritardperformancesstudiedin the chapter(438), we
+state:"Whilethe four acceleration/ritard
+examples viewed above adhere
+to the model of a cubic curve with strikingfidelity, similaritiesand differences are also found in the applicationof the model. Karajan's
+curves,
+with their two potential versions and their bell-shaped kinetic aspects,
+seem unique, as does the de Falla example, with its segmented sections
+and step-downs.It is not surprisingthat diversitymight reign within the
+constraintsof a prevalentmodel. It is also not unexpected,though it is
+certainly striking, that formal prototypes or, more properly,subprototypes also exist within the confines of the model."
+The point is amplifiedin n. 19 (558) of the chapter,viz.: "Itis clearthat
+cubic curves, have somewhatdifall these curves, while mathematically
+ferent shapes.In fact, not all cubic tempo curves look alike. Just as there
+is a parameter
+(slope) thatallows two straightlines to look differentfrom
+each embodyingdegreesof freeeach other,thereare severalparameters,
+dom, within the definitionof a cubic curve that allow the cubic shape to
+vary from one example to another.Cubic curves are a small subset of all
+curves,but still 'roomy'enough to permitsome varietyamongthem.The
+data set (perforR2 [correlation],
+relativeto a cubic curve, of a particular
+mance sample) reflects how well thatdata set matchesthe nearest cubic
+curve(i.e., the "bestfit").Differentdatasets with the same R2can be near
+to different cubics, however. Hence data sets with similar R2may not
+will
+have similarshapes, althoughall data sets with high cubic-curve-R2
+have a shape that correspondsto the special family of curves that are
+cubic curves."
+Aside from these explanations,it is visually obvious from the performance examples, graphedas cubic curves, that those curves embody a
+acceleration(436, Example 12.7c) begins by
+varietyof shapes.Karajan's
+going the wrong way (i.e., retarding)before initiating the increase in
+speed;it ends in a symmetricalbut oppositeway, acceleratingbeyondthe
+to
+end-goal tempo before returning(retarding) it. The accelerationin the
+de Falla work (431/432, Examples 12.6b/c) is of markedlydifferentprofile. Further, coefficientsof the x, x2,andx3componentsof the curves,
+the
+notablyin the Stravinskyand Dvorakritards(respectively425, Example
+12.4b, and 427, Example 12.5b), are also different,indicatingvia quantitativemeans the distinctivenessof the individualcurves (which is why
+this informationis provided).The Himou curve (446) differsfrom all the
+others, not only in durationbut in profile as well. Last but hardlyleast,
+the five curves of Example 12.9e (444), capturingthe profiles of five riare
+tards in performancesof Schumann'sTrdumerei, notably different.
+these difThey have been normalized,in fact, specificallyto demonstrate
+ferences. (Normalizingis explainedin n. 19, p. 558.)
+172
+
+Case II. Re Rubato
+Rothstein's discussion (131-32) of the model for rubato offered in
+chapter11 of ShapingTimeis quitemistaken.He correctlyportraysa primary aspect of the model (131), namely the proportionalphase fit
+between the lengths of beats and phraseson the most fundamentallevel
+of the model (Level I). The errorsbegin a step beyond this point.
+Item.I establisha ? 10%rangeof deviationfroma whole-number
+phase
+fit of beat duration-to-phrase
+duration,recognizing, as Rothstein (131)
+accuratelyreports,that absoluteprecisioncannotbe expected. Rothstein
+(same page) fails to provide context, however,when he quotes my comment that these "limits are admittedlypunishinglysevere and restrictive
+of
+([Epstein], 377)." He thus obscures an understanding what this criterion may representand why. Moreover,given the tone of Rothstein'sdiscussion ("onewould suspectEpsteinof scholarlymalpractice.. ." [131];
+"This is the Looking-Glass school of cognitive science.. ." [132]), and
+for
+lacking adequatebackground this "punishinglysevere"comment,the
+commentcan appeartrivial.It is not. The reasoningbehindthis ?10% criterion, ignored by Rothstein, is providedwithin chapter 11 of the book
+(376-77), viz.:
+"In pursuing the case studies that follow, some criterion has been
+sought by which to discernacceptabledeviationsfrom discrepanciesbeyond the allowablepale. It is not an easy search;ready-madecriteriaare
+hardly available. Most studies concerned with limits of temporal perception have dealt with time periods considerablydifferentfrom those
+found here, bounded in the main by the psychological present,that allimportantperiod of ca. 0.5-2 sec., which seems to function as a 'window' within which so much informationis perceivedand processed.It is
+within this spherethat the 5 percentWeberFractionregardingtime perception functions."(376f.) 3
+I continue (377): "Acuityof temporalperceptionseems to diminish
+rapidly as the perceptionperiod widens. (Recall that Getty [1975] and
+Mach [1865] found the WeberFractionto rise steeply aftertwo seconds.)
+To apply the criteriaof small-scale timings to rubatostudies is unrealistic ... [for] the temporalperiods within which the period/phasecorrelations take place rangefrom beats minimallyof 281 msec. to entireworks
+thatcover a numberof minutes,the latterdurationswell beyond the psychological present."
+"In the absence of availablecriteriawe have constructedan artificial
+criterion,with limits that are admittedlypunishingly severe and restrictive [the ?10% discussed above] ... This is a tough standard, be sure,
+to
+if we recall thatGetty's test of the WeberFractionfound this
+particularly
+tolerance [10-11.5 percent] in time perceptionslimited to 2.8 sec. Our
+durational
+periods for phraseson Level I are far beyond these bounds."4
+In sum, the phrasedurationsin the three works studiedin this rubato
+173
+
+chaptercover a spectrumfrom 3.228 sec. to 19.753 sec. The majorityof
+the durationslie within double digits. They thus exceed by many orders
+of magnitudethe 2.5 sec. upperlimit of the psychological present.Conversely,the 10%criterionfor discrepancyis ordersof magnitudesmaller
+thanthe Getty andMach findingsof the JND for time periodsbeyondthe
+psychological present. Given this context, "severe,"arguably"punishingly severe,"do not seem exaggerateddescriptionsof the ?10% criterion.
+Item.Withinhis same discussionof phase fit Rothstein(131-32) states
+that "he [Epstein]finds that some phrases do not meet his 'punishingly
+severeandrestrictive'
+criteria(thoughmanydo).And so he redefineswhat
+he means by 'beat.'He substitutesthe notion of 'groundbeat'."
+This is a distortionof both contextandmeaning.Beat andgroundbeat
+are not two differentthings in this model. Nor is groundbeat a redefinition, much less a substitutefor the concept of beat. Nor in any way is the
+term groundbeat invoked as a Deus ex machina, broughtinto play, as
+Rothsteinimplies, to rescue a failing situation.
+A groundbeat is the metric beat that Rothstein (131) describes as a
+hypotheticallymetronomicbeat. ("He [Epstein]first describes the phenomenon, sensibly enough, as a dichotomybetween the performedbeat
+and a hypotheticallycontinuedmetronomicbeat...") The term ground
+beat indicatesthefunction fullfilled by the metric beat in the rubatoparadigm. This functionaldistinction,and the relationshipof the termsbeat
+and groundbeat, are explicit in passages within the chapterthat lay out
+the model and its properties,viz.:
+"Further
+implicit in both views of romanticrubatois the fascinating
+phenomenonof two separateanddifferenttime controlsoperatingsimultaneouslyas the phraseor othermusical segmentprogresses.Thereis the
+strict metric control of the beat-the hypotheticallyinvarianttime unit
+thatserves as the groundelementfor timing. Moving in parallelwith this
+is the pulse of varioussegmentsof the phrase,a pulse distortedby rubato
+as a means of enhancingmusical expression."(Epstein, 373. Emphasis
+added.)
+I continue: "These two time controls ["metricbeat" and "pulse"],
+really systems of time control, rapidlybecome dissynchronousand thus
+in conflict",thoughthereis an "eventualreconciliationof these two sysof
+tems, theirreturnto phase synchrony... This resynchronization beat
+and pulse lies within the extremebounds of the phraseitself. It is at the
+phrase end... that the two systems realign."Note 4 (549), which concerns this point, furthermakes the link between beat and ground beat:
+"Theidea that an underlyingground beat should returninto phase synchrony at the end of a phraseis implicit in much thinkingabout rubato
+today.. ." (373. Emphasisadded.)
+Additionally,on p. 374 of the chapter,is the following: "The terms
+174
+
+describe the phenomenondiscussed earlier [373], in
+[Periodicity/Phase]
+which two parallel differenttiming systems run simultaneously.One of
+these systems, the metric, establishes the basic, or ground,period that
+will underliethe full phrase or, on broaderlevels, a largermusical segment. On the level of phrase, this ground period is the beat. Working
+against it is the pulse of various phrase segments, whose rhythmictimings are distortedvia rubato."
+(Emphasisadded.)
+Groundbeat and beat, as terms and as function, are thus clearly set
+forth and explained.
+Item. Rothstein(132) claims the following: "It is obvious that, given
+a single groundbeat and an allowance of +10%, any randomlyselected
+phrase length has a 20% chance of meeting Epstein's requirementsfor
+phase fit."
+Rothstein'slanguage,with its invocationof chance, is the languageof
+indeed he explicitly characterizes and consequentcalcuthis
+probability;
+lations (132, paragraph2) as probabilities.Probabilitydoes not follow
+from his claim, however.What Rothsteindoes is depict a 20% criterion
+of range as a probability,which it is not.
+Determinationof probabilitywould require clear delineation of the
+elements whose interrelationships
+give rise to such a probability.Rothstein's statement,however,is unclear.Whatdoes "anyrandomlyselected
+phrase length" mean? The possibilities are two: 1) any phrase selected
+randomly,thatphrasepresumedto have a given length;or 2) anyphrase
+the
+length selected randomly.Grammatically, second statementis correct. But the data of these rubatostudies do not reflect randomphrases,
+or randomphrase lengths; the studies present specific lengths, those of
+specific performances.Moreover,the formulationof probabilitywould
+entail computationsdifferentfrom Rothstein'sstatement.
+Thus Rothstein does not present probabilityhere. As noted above,
+what his 20% figure describes is range-namely, the range of allowed
+discrepancyfrom an integer fit of ground beat-to-phraselength. This,
+the
+however,is redundant; informationis a given of the model. The new
+contribution the conversionof ?10% to 20%.
+is
+Item. Rothstein(132, paragraph describesa test he performson the
+2)
+data provided in chapter 11 concerning Novaes's performanceof the
+ChopinA-minorMazurka,op. 17, no. 4. In his words:"Itook the six possible groundbeats as performedby Novaes in the firstphraseof the Mazurka-since ground beats are performedlengths, they differ in every
+phrase-and I chose two extremes, 12.691 and 17.223 seconds, based on
+multiples of my groundbeats. (In the outer sections of the Mazurka,all
+but one of Novaes's phraselengths fall between these extremes.)Then I
+determined,based on the 10% criterion,which ranges of durationsbetween my extremes would constitute acceptablephase fits. The answer
+was slightly above 75%," which Rothstein identifies as a probability,
+175
+
+namely:"Thus,if Novaes's firstphrasehad measuredanywherebetween
+12.691 and 17.223 seconds, it would have had roughly a 75% chance of
+meeting Epstein's 'punishinglysevere' criteria...."
+I find it difficultto follow Rothstein'scalculations,since his descriptions of method and the data he provides are spare. It is unclear,moreof
+over, whetherhis characterization his figuresas probabilitiesis mathin
+ematically appropriate, view of the discussion of probabilityfound
+above.
+Rothstein'sapproach
+seems partlybaseduponhis intuitionsaboutpossibilities of the data,ratherthanupon the dataof chapter11 themselves,
+which are factual.But in terms of this intuitiveapproachare his derived
+data"hard," real,or arethey,so to speak,mathematical
+i.e.,
+"paraphrases"?
+For
+Further,are his data properlyinterrelated? example, Rothstein explains, "I chose two extremes, 12.691 and 17.223 seconds."Why these
+choices? Only because "all but one of Novaes's phrase lengths fall between these extremes"?Or, additionally,because they are "basedupon
+multiples of my ground beats"-i.e., based upon Rothstein's selected
+multiplesof his selected groundbeats?
+It is also not clearwhetherRothsteinsimplyderivesthesephraselengths
+from 11 phrasesin the piece (the outer sections), or whetherthese criteria are applied to other phrases, though his basis for this choice, as he
+explains it, is durationsperformedonly in thefirst phrase.There seems
+in this last point a potentialcontradiction. more,is this intuitivechoice
+Yet
+carried out to the exclusion of other data that directly apply to other
+phrases?
+Is there somethingof a self-fullfilling process here? Come up with a
+duration,thatis, found partlythroughan intuitivesense of its "rightness"
+ratherthanas a matterof fact; multiplythe durationa numberof times to
+then findthatthe governingduraachieve another,"governing"
+duration;
+tion relates within a certainmarginto the firstduration.Or do I misrepresent Rothstein?Given his limited explanationof method, and in the
+absence of otherdataor of computations,it is hardto know.
+Rothstein'smethod and my study seem significantlydifferentin one
+respect: from what he explains, his material seems created from other
+data,thusone step removedfromthe facts. My studyuses the factualdata
+of actualperformance.
+The absence of data in Rothsteinis critical. He provides nothing but
+two durations.He offers no calculations,nor the mathematicalperspectives thatjustify observationsor conclusions drawnfrom these calculations. Thus readersmust accept his conclusions on faith, though faith is
+not a relevantmodus operandi.Absent full presentationof his material,
+and the opportunitytherebyfor evaluation,neitherhis argumentnor his
+conclusions are adequate.
+This is the most complex and diffiItem. Groundbeat determination.
+176
+
+cult aspect of this model. I am not fully satisfied with the solutions in
+chapter11. In this respect Rothsteinand I agree.We drawdifferentconclusions aboutthe matter,however.From his discussion I gatherthat he
+would scrap the entire enterprise.I do not see it that way. There is evidence here of a significantphenomenon.It will requiremore development and, very likely, different and more sophisticated mathematical
+it
+techniquesto pinpointthe phenomenonand demonstrate convincingly.
+Rothsteinis awareof the difficultyof identifyingthe beat thatcarries
+a tempo, though he discusses it only minimally ("the definitionof 'firm
+tempo' in a rubatophraseis a tricky thing" [132]). I describe it in more
+detail, noting that "althoughwe may hear a rubatoperformancewith a
+generalsense of a common underlyingpulse, thatpulse is in fact often in
+flux. The changes are generallysubtle, and heardover the span of phrase
+time theirdifferencesarebecloudedby the stresses,pulls, andexpressive
+affect of the phrasesthemselves" (385). I continue:"The operativeunit
+of pulse is not always clear in a performancethat continually shifts its
+ground.Whatit may appearto be dependsupon one's perceptions,rhythmic reflexes, personalsense of pulse, and feeling for phraseorganization
+among small distinctions in timing and duration.Often, too, as in this
+piece [ChopinMazurka,op. 17, no. 4], the music hoversin an in-between
+state, not really moving in 3 or fully in 1 either,but oscillating continually between these poles. That is the import of the many phrases here
+where the groundbeat was found to vary"(387).
+Those severalfactors-a pulse not really moving in 3 or fully in 1, an
+underlyingpulse often in flux, an operativepulse in a performancethat
+continuallyshifts its ground-make it "atrickything"to nail down a single unit of beat, even a single location of beat. Thus the majorquestion:
+with respect to a ChopinMazurkaor Waltzmoving partlyin 1, partlyin
+note may alterna3, is it reasonableto suggest thatthe bar or the quarter
+tively be functioningas the groundbeat?A "yes" answeris easy if both
+durations
+make an integerfit with the phraselength.But whatif one duration does, and the other does not? Do we disallow one or the other, or
+both, based upon the statistical need for consistency of unit across all
+such phrases?Thatdecision may satisfy the statistician,but does it reveal
+or does it mask musical phenomena?
+The problemis not limited to bar-or-beat
+dimensions.Thereinlies my
+sense that this issue requiresa differentmode of mathematicalanalysis.
+I discuss this shortly.
+Viewed within the frameworkof Shaping Time, however, certainly
+thereare consistentpatternsof events in these performances-consistent
+to an extent that suggests something significant is going on along the
+lines of the model. If we grantthe firstbar,or the firstquarter
+note within
+thatbar,statusas a groundbeat, for instance,then within the Mazurkaas
+played by Novaes 10 of the 15 phrases-67%-fulfill the ground beat
+177
+
+role.5To this we can add phrase6 which, unlike otherphrases,begins in
+rubato,its groundbeat thus occupying the full second bar of the phrase.
+(See Example 11.ld, p. 386.) Further,all phrases other than no. 6, as
+in
+noted on p. 387, areplayed such thatthe groundbeat is articulated the
+beginningpartof the phrase.
+In the Brahmsexample(Example11.3c, p. 411), all 14 phrases(100%)
+embody the singularentity of a quarternote as groundbeat. All phrases
+likewise place this groundbeat at the head of the phrase-either upon its
+upbeat or upon the following quarternote, the phrase downbeat.This
+within a piece where, as the text discusses (406-15), the structureitself
+bears ambiguousdispositionsof phrases.6
+I cannotclaim equal success in this respect with regardto the Lipatti/
+ChopinWaltz.In partthis may be a shortcomingof the model in its pilot
+version, which to me suggests all the more the need for a different,more
+mathematical
+mode of analysis.Inpartthis may also lie with
+sophisticated
+within the
+the complex ways thatLipattishapestimings and articulations
+Waltz,as discussed in my text (395-401). Yet therearepatternsand correlations.The matteris not readyfor finaljudgment.
+Are theremorepromisingmodes of mathematical
+analysis?I thinkso.
+I, in collaborationwith colleagues in neurology and mathematicsat the
+medical school of the Universityof Dusseldorf, am currentlyat work on
+this. We anticipatean articlein the nearfuture.Among the resultsof work
+alreadypublishedis an articleby Largeand Jones (1999) thatpresentsa
+computermodel for detectingperiodicitiesamongdisparateandcomplex
+timing data. Essentially the computercomparesand cross-correlatesall
+data, algorithms of the program discerning therein periodic patterns.
+and
+the
+Phase entrainment phase attractors, latteran outgrowthof chaos
+is
+theory,figurein these algorithms.Equallyimportant the book by Tass
+to
+(1999) thatpresentsa new theoreticalapproach phaseresettingandthe
+of
+and
+stimulation-induced
+synchronization desynchronization a population of oscillators[neurons].Tass'smodel parallels,in its scientificmode,
+of
+much of the phase synchrony/dyssynchrony groundbeat and phrase
+offered in the rubatomodel in Shaping Time.Tass uses stochasticmethods from statisticalmechanics in working out his model and in presenting his results,some of the latterevidencedby dataobtainedby MEG and
+EEG studies.
+elements of the mathematicsof
+Jones and Boltz (1989), incorporating
+dynamic systems, is anothersource of similarly oriented studies, as is
+McAuley and Kidd (1998), with its perspectivesof neuralperiodicityas
+the product of dynamic, adaptive oscillators. Additionally, Drake and
+Botte (1993) contributeto the growing awarenessthat time discrimination and its acuity,thatthe JustNoticeable Difference and the like, seem
+to be context dependent.
+178
+
+Case III. Distortions of Context (A): Misconstrual; Exaggeration;
+The "Fiction Factor"
+Rothstein'scriticisms contain numerousdistortionsof context. Some
+of these are achieved by misconstrual,relatingconcepts and arguments
+thatare not relatedby the authornor intendedto be so related.Additionally, Rothsteintends to drive distortedcontexts to exaggeration.
+A second mode of distortion,drawingupon what I have dubbedthe
+A
+"FictonFactor."
+exacerbatesthe misconstrual
+approach: set of concepts,
+falsified via misconstrual,is presentedas a point of view advocatedby
+the author.
+This fictionalview is thenattacked the reviewer.
+This resemby
+bles the "StrawMan"tacticdefinedby an earliergeneration,wherebyone
+creates a fictive figureonly to knock him down.
+I sample two such cases here:
+Item. Rothstein (126-27) quotes three passages about proportional
+tempo found in Shaping Time,offering them as "passagesin which Epstein's core belief is revealed."He follows with this statement:"Thelast
+in
+quotationis especially characteristic, thatEpsteingives the performer
+latitude with one hand only to take it away with the other.After all, he
+sniffs, 'some of us are more gifted than others'when it comes to matters
+of tempo ([Epstein], 362). This is a truismin any aspect of musical performance-or of analysis, for thatmatter-but it is tasteless to stateit so
+baldly"(Rothstein, 127).
+Both misconstrualand the "FictionFactor"arerepresented
+here, conin a four-stepprocess:
+joined
+Step 1 presents the three passages about proportionaltempo-Epstein's alleged core belief. (Two of these quotatons,given in full, are discussed laterin this letter.See Case IV, thirdItem.)
+Step 2 presents the quote "'some of us are more gifted than others'
+when it comes to mattersof tempo."
+Step 3 conjoins the quotes of Steps 1 and 3 via Rothstein'sstatement
+that "the last quotationis especially characteristic, that Epstein gives
+in
+the performerlatitude...."
+Step 4. This connection established, Rothstein attacksit. ("This is a
+truismin any aspect of musicalperformance... but it is tasteless to state
+it so baldly.")
+The process is not a simple one, however.For one thing, two of my
+three passages concerned with proportionaltempo are skewed when
+quotedin Rothstein'sreview.As I show laterin this letter (Case IV, third
+Item), the reviewer distortstheir contexts by adding emphases that turn
+their meanings.
+Further,the passage in Step 2 is presentedcompletely out of context
+with respectto the quotes of Step 1. Nor were they intendedto be related.
+Indeed, Rothstein's "the last quotation is especially characteristic..."
+quote is separatedfrom the "some of us are more gifted .. ."passage by
+179
+
+over 200 pages. The latterphrasein fact arises from a considerationof
+ideas of Noam Chomsky-ideas concerninginnatecompetenceand"peras
+formance," he sees these matterswith respectto language,andthe light
+shed on an aspect of tempo in music.
+they may
+In demonstrating point, it is helpful to review the summaryof the
+this
+cross-culturalstudy of tempo which is found on pp. 359-63 of Epstein,
+chapter9-a chaptertotally ignoredby Rothstein,as pointedout earlier.
+The summarydraws a number of conclusions about the study, among
+them the fact that "when tempos changed in the various musics [of the
+seven culturesunder study], they changed by low-orderintegralratios."
+the
+"if
+Further, the newly arrived-at
+tempo was not exactly in proportion,
+deviation in time from this exact ratio was in the majorityof cases so
+small that it was below both the orderthresholdof perception(PT) and
+the WeberFraction(WF)"(359).
+The summaryalso notes that"proportional
+tempo is a constantin this
+study-an unchangingfactor among musical examples of widely varying cultures, and of varying affect, emotional states, purposes, and set..., of
+tings. It exists in music of processionals,of privateentertainment
+ceremonies and large social gatherings,of games, even in the rhythms
+and tempos accompanyingbarterand bargain..., these musics distributed widely across the globe. This suggests both a musical and an aesthetic constant, as well as a musical/aestheticconstraint. Finally, this
+study supportsthe premise suggested in earlierchapters-that an innate
+biological function seems to be the basis for this tempo phenomenon.It
+is difficultto see any otherbasis. Certainlyit strainscredibilityto propose
+that such closely correlatedtempos across so many culturesare a matter
+of acculturation
+alone, or the result of chance.
+"This universalitysuggests a mutualneurophysiology.Thus genetic,
+biological constraintsmay underlie musical performance.These constraintsmay augment,as well as underlie,those otherbases of authority,
+of tradition,and of intuitionthathave heretoforebeen the sources of our
+musical trainingand musical thinking"(359-62).
+A question arises from this discussion. "Why,if proportional
+tempos
+are natural,do roughly 20 percent of the performancesin this study lie
+outside this practice-not to mention similar exceptions in the performance of Westernartmusic?"(362).
+Among the suggested answers are implications of Chomsky's theories, viz.: "The notion of competence and performance,as developed
+by Noam Chomsky[as perlisted citations]with regardto linguistics,may
+be applicableto this areaof music. Chomskyhas determinedthathuman
+beings everywhere possess an innate competence for understanding
+and
+grammar syntaxin language.It is this inbornabilitythatallows us to
+childhooddevelopment.
+learnournativelanguageas partof our 'natural'
+Nevertheless,thoughvirtuallyall of us know our nativetongue, we vary
+180
+
+in the ability,complexity,even elegance with which we speak('perform')
+that language. Thus performancevaries within universal,innate competence.
+"So it may well be with music, specifically,in this instance,regarding
+tempo. We may well possess a universalcompetence to feel tempos in
+relationto a pulse, and to relatethatpulse itself in momentsof changing
+tempos.The degreeof precision(andgrace,elegance, fluency)with which
+we effect these tempo changes, however, may vary with individuals.In
+effect, some of us are more gifted than others"(362.)
+Thereinthe contextfor the last sentenceabove.As noted earlier,Rothstein quotes it completely out of context.
+The final stage: Rothstein'sconnective sentence (Step 3) conjoins the
+disparatequotationsof Steps 1 and2. He establishestherebythe fictitious
+which he then attackswith languagesuggestiveof one who has
+argument
+been morallyoffended (Step 4).
+Item.Rothstein(128) findsthe ideas aboutproportional
+tempoin Shaping Time"contradicted both compositionaland performancepractice
+by
+in the eighteenth and nineteenthcenturies"in that, among other things,
+"movementsof a symphonywere often not performedtogetheron a proby
+might be separated other
+gram;the firsttwo movements,in particular,
+instrumental vocal pieces. At thepremiereof Beethoven'sViolin Conand
+certo, the soloist improvised between the first and second movements
+(with the violin held upside down, apparently).Were such interpolated
+to
+pieces or improvisationsto be performedin temposproportional those
+of the surrounding
+movements?The very questionis absurd ...."
+Indeed,the last statementis absurd.But it is Rothstein's,not mine. No
+such claim is made in the book.
+The essence of Rothstein'scriticismis not absurd,but it is illogical. It
+conjoins two issues that are essentially separate:the composition of a
+work, with all the structural,
+syntacticaland other relationships,procedures, processes and such that are involved with composition;and what
+a society at some period of historyopts to do with that work.
+Following the premises of his argumentcertainlygets us into muddy
+waters. Leaving tempo mattersaside, are we to assume that because of
+concertpracticessuch as Rothsteindescribes,majorcomposersintended
+no significantrelationshipsamong the movementsof a multi-movement
+work?Thatall thatlies acrossthese movementsis ad hoc? Whatof works
+in which ideas fromone movementreturn another-or, in opera,among
+in
+differentacts?
+the
+How shallwe characterize BeethovenFifthandNinthSymphonies,
+as well as his op. 131 Quartet(see note 7, below), the BrahmsThirdSymphony, the corer movements of Mozart Divertimento,K.136, (and his
+symphonies discussed in some detail in Shaping lime [173-93]), the
+MahlerFirstandFourthSymphonies,the SchumannPianoConcerto(six181
+
+bar transition,movement II to III) and Piano Quintet,the Tchaikowsky
+FourthSymphony,the Dvorak String Serenade and Cello Concerto, to
+mention but a few examples? By Rothstein'sreasoning (129) these are
+"extremecases," mostly prevalentin the nineteenthcentury.What constitutes "extreme"?
+Numberof cases? Natureof the relationships?Era?
+Does "extreme"
+encompass the fact that these works, with the arguable
+in
+exception of the Beethoven Fifth, are not "tightlyintegrated" the extensive sense to which Rothstein refers?That they make no more than
+cameos of memory (the MahlerFourth
+momentaryrecalls, "flashback"
+in fact a "flashahead"predictionof the finalmovement),or shareGrundgestalt characteristics?
+Additionally,what of the returnsof the two differentchorales in the
+Bach "SaintMatthewPassion,"some of these returnsreset, all of them
+with differenttext? And if nineteenthcenturyopera is allowable in this
+discussion, what of the brief returningstrainsof "Mi chiamano Mimi"
+(Act 1) as Mimi lies dying in Act 4 of "La Boheme"-not to mention
+Wagner'sever recurringleitmotives?
+What of the numerous Grundgestaltinterconnectionsin numerous
+works of the eighteenthand nineteenthcenturiesthathave been demonstratedby a numberof analysts?I refer here not to the conventionalkey
+relationshipsor successionsof genretypes mentionedby Rothstein(129),
+relationsof theme, rhythm,dynamics,articulations
+but to deep-structure
+and the like.7
+Rothstein(129f), perhapsunintentionally,
+invokesthe "FictionFactor"
+when discussing the comparativeapproachof inter-opusstudies, which
+look at works throughouta genre, and the intra-opusapproachwhich
+focuses upon a specific work. The validity of either approachis not in
+question. But the either/orcontext that underliesRothstein'sdiscussion
+are
+is certainlyquestionable.
+These approaches in no way mutuallyexcluThe
+sive. If anything,they are complementary. inter-opusapproachgeneralizes;the intra-opusapproach
+Moving from the general
+particularizes.
+to the particular commonplacethinking.It is formalizedin the biologis
+ical sciences; thus genus, and species.
+viz.: Thereexisted throughThe point appliesto Rothstein'sargument,
+centuriesnumerous
+danceforms(genres)
+outtheeighteenthandnineteenth
+character the
+and
+of
+markedby characteristics meter,tempo, articulation,
+like. Composersdrewuponthese sourcesfor specific works, at times preserving these characteristics,at other times abstractingthe music some
+distancefrom its roots. Thus the allemandes,courantes,gigues, minuets,
+and
+sarabandes such in J.S. Bach's keyboardpartitas,cello suites andthe
+like, the minuetsof HaydnandMozartsymphonies,sonatas,stringquartets and such.
+None of this will be news to readersof this letter.Rothstein'sprimary
+point, however,thatgenre and inter-opusconsiderationsoutweigh, if not
+182
+
+exclude, internal structuralmatters (intra-opusconcerns), can lead to
+strangeconclusions.Takingthe Bach keyboardpartitasor the cello suites
+as cases in point, why should we not freely mix the allemandes, courminuetsand such amongthe differentsuites, or among
+antes, sarabandes,
+the various partitas,respectingthe majoror minor modes of the works,
+and transposingthe movements so that they fit the proper key?8 Most
+musicians,I suspect,will be skepticalof such a proposition(as am I). But
+if that scheme is not viable, then internalrelationships-considerations
+of motivic shape,harmonicand motivic patterns,otherGrundgestaltdetails, and probablytempo matters-must play a role vis-a-vis coherence.
+Similar concerns pertainto tempi as found in minuets among works
+of Mozart-an issue that Rothstein (128ff.) discusses. Rothstein (129)
+to
+findsme dismissive of Marty'sinter-opusapproach this matter.Not so.
+I point out, however,thatMarty's"studywould be yet more valuable ...
+had he explored the ramificationsof his [inter-opus]observationswith
+respect to tempo connectionswithin entirepieces" (Epstein,527, n. 12).
+I continueto think so.
+A look amongthe minuetsin variousMozartsymphonies,stringquartets, and the two piano sonatas with such movements illustrates this
+point. The tempo terms, and the speed categoriesto which they presumably apply, are not sharplydefined among these movements, and there
+are overlaps as well. This suggests that compostional calculations beyond those exploredby Martymay be at work within individualworks.
+the
+Consider followingsample,forexample.Amongtheminuetsmarked
+Allegretto,using as a referencetempos commonlyheardin our age which
+I and, I suspect, many othersfind plausible,I hearcommonalitiesamong
+the symphonies 28, 39, and 41, and the stringquartetin Eb, K. 428. All
+of these move within a range of 132-to-ca.138 to the quarter(thoughthe
+feels more in quasi-onethanthe others).Yet the D-majorquar"Jupiter"
+tets, K. 499 and K. 575, both carrying the same Allegretto indication,
+move notably faster, the quarterat about 152-160 (again, some feeling
+But
+more in 3, othersmore in 1 or "in-between"). the minuetof the quartet in C, K. 465, markednot AllegrettobutAllegro, also moves at ca. 160
+in
+(possibly a hairfaster),andthe minuetof K. 458, the quartet Bb,marked
+Moderato,moves at the lower range of the Allegrettoexamples (quarter
+ca. 132, perhapsslightly less).
+The categories, in other words, are not exclusive. There may be correlationsof key and other aspects of genre such as Rothsteinand Marty
+describe, though I'm not convinced they are always clearly to be delineated or in all instances necessarily salient. However that issue may decided, the perplexitiesof tempo and tempo designationspersist.9
+The problem is yet more complex, for any of these minuets can
+andmay well have been plausiblyexperiencedat temposperhaps5-10%
+faster or slower-all the more so in our time, when early music perfor183
+
+mances have grown ever more prominent,side by side with traditions
+from our own century and those inheritedfrom the nineteenthcentury.
+not
+lie?
+Where,then, does "validity," to mention "authenticity,"
+It is in this contextthatI findthe intra-opusapproachsignificant-and
+not only with respectto Mozartminuets.Internal
+correspondences
+among
+movements, inclusive of tempi; Grundgestaltvarieties of coherencein
+these have been discussed and demonstrated our era. Nor, I repeat,are
+they incompatiblewith the generalizationsof inter-opusstudies. As for
+the fact thatBach reworkedinstrumental
+pieces for use in the cantatas,or
+that Beethoven shifted the original finale of the A-majorViolin Sonata,
+sonata(Rothstein,128):
+op. 30, no. 1, to anotherworkin A, the "Kreutzer"
+this does not disprovethe intra-opusperspective.The shifts and reworkings denote interestingincidents,not prevalentpractice.
+Case IV. Distortions of Context (B): Omissions:
+Further misconstruals
+I have discussed some of these already(the quotecited in Case III, first
+Item; the firsttwo Items concernedwith rubato,Case II). Furtherexamples follow here-again, only a sampling.
+Item. Rothstein(128): "CertainlyEpstein often throwscaution to the
+winds, as when he adduces the mere appearanceof markingssuch as a
+tempoor TempoI as evidence for proportional
+tempos ([Epstein], 154)."
+Rothsteinchooses not to mentionthe termDoppio movimento,seemrelationship,though it is
+ingly an incontestableexample of proportional
+includedin my sentencethathe quotes (Epstein, 154, top of page). Moreover, the text on p. 154 is a summaryof a two-chapterdiscussion of biological and historical bases for proportionaltempo (Epstein, 109-55).
+The relationshipof 1:1 is seen thereinas one of these proportions,
+viewed
+in the context of connections among movements.A tempo, on the other
+hand, is supportable,
+obviously, only if a basic tempo has been departed
+from and then returns.These contexts are not providedby the reviewer.
+The chapter on biology includes extensive discussion, replete with
+sources, of the periodic natureof neural firings-the basis for our socalled "biologicalclocks."It furtherdiscusses the neurophysical(neuromuscular)entrainment which the nervous system adaptsto periodiciby
+ties. I suggest in the course of these discussions that if an established
+musical tempo can be characterizedas periodic, it would seem both
+and
+caused by neuralentrainment an example of it. Thereinlies the logic
+of my remarkabouta tempo.It make sense in this context, as it denotes
+a departure
+from an establishedtempo and a subsequentreturnto it, the
+returnlinked with this function of neuralentrainment.
+Nothingaboutthese chapters,theirdiscussions,theirsources,the summaryof them on p. 154, northe contextthey providefor my point,is indicated in Rothstein'sremark.
+184
+
+Item.Rothstein(131): "Epsteinis not aboveplayingfast andloose with
+the data. Thus, in his discussion of Mozart's G-minor Symphony, K.
+550-the best andmost extensive of his Mozartanalyses-Epstein in one
+place (185) omits the firsttwo eighth-notesof the firstviolins, ES-D,when
+measuringthe largermotive of the ascendingsixth;a few pages later(192)
+he includes the same pair of eighths in measuringthe same motive. The
+between this motivic
+reasonis simple. In the formercase, the proportions
+statementand two later ones 'work' only if the upbeatis omitted;in the
+is
+lattera differenttempo plan, also proportional, used, and now the two
+become necessary for the relationshipto 'work'-and so
+eighth-notes
+they are restored.Epstein is nothing if not pragmatic:if a 36-inch yardstick doesn't give the desiredresults,he will use another,of 37 inches, or
+34 1/2. But he'll still call it a yard,andhe'll still ask the readerto takehis
+measurementsseriously."
+of
+Again, misconstruals text, distortionsof context,falsification.Roththat
+stein merges arguments areseparate,anddistinctlydifferent,as I preconclusions. To wit:
+sent them. He then drawsunwarranted
+Discussion I. Page 192 ends a discussionof one plausibleset of tempo
+relations.Some observationsbased upon those relationsareconcludedin
+the firstparagraph thatpage.
+of
+Discussion II. A second set of plausible relations is then discussed,
+2,
+beginning in paragraph viz.: "In closing, we should note anotheroft
+heardtempointerpretation this symphonythatis fully compatiblewith
+of
+this discussion.It bringsthe firstandlast movementsinto a 1:1 alignment
+of tempo by means of a small, but flexible, range of pulse that moves
+between M.M. ca. 132-138...." I then discuss tempo propertiesseen
+within this differentplan.
+Re Discussion I:
+Discussion I includes two examples. Concerning the initial tempo
+scheme (firstexample):Rothsteinis correctthatI omitthe firsttwo eighthnotes of the first violins, Eb-D [the phraseupbeat],when measuringthe
+largermotive of the ascendingsixth (Epstein, 185, Example 8.4b). Rothstein is wrong to say that "a few pages later (192) he [Epstein]includes
+the same pair of eighths in measuringthe same motive" (Example 8.4i,
+191-the second example).
+I do not do so. Moreover,I deal with two completelydifferentthings
+in these two examples.The firstexampleassesses pitcheswithin a motive.
+The second is comcered with textures, dynamics, harmonies, instrumentationwithin passages in two differentmovements. I note the presence of the same motive in both examples, but I am not concerned with
+Thus my text, regardthis motive in connection with any measurements.
+ing the second example:
+elements is heardat the closing passages
+"Anotherset of interrelated
+185
+
+of the developmentsin these corer movements.... The passages are
+seen in Example 8.4i. Again their affinitiesare striking.In each case the
+half-step motive Eb-D is exploited (the invertedC#-D as well, in moveharmentI) with a full tuttisound,fortedynamic,andlargelycomparable
+and instrumentalregisters have much in
+monies. The instrumentation
+common, notablyin cellos, basses, and bassoons, and the melodic regishas
+teris also the same."(191. Textnotrelevant beenexcised to save space.)
+I next lay out criteriaby which to measurethese passages: "Thereare
+various ways to view these passages comparatively,since the prolongation of the dominantin movement I goes well beyond the forte phrase
+indicated here." (191-92) This done, I note the measurement:"If we
+compare only the forte passages in each movement, which provides a
+similar base of characteristics,we find the the first-movementphrase,
+with a durationof eight bars [my emphasis], amountsto 16 seconds at
+half=100. The phrasein movementIV [fourbars long, self evident from
+the example] lasts 4.35 seconds, yielding a proportionbetween the two
+phrasesof 4:1, with a discrepancyof 8.8 percent(again a figureof questionable significance, given the time span between the two segments)"
+(192).10
+Clearly,as denoted by my emphasis, it is the bar that is measurednot the barplus upbeat,as Rothsteinmisunderstands;
+simply the bar,and
+collections of bars. (The example in question,Ex. 8.4i, p. 191, is reproduced below.) Thus two differentthings are discussed in Discussion I:
+1) Measurementof the D-Bb motive; 2) A second set of measurements
+thatdeals with othermatters.Even despitethis-despite the fact thatthese
+are
+measurements not related,the upbeatsare not includedin eithermeasurement.Rothstein'scriticismis false.
+Re Discussion II:
+The first issue concluded, I next discuss the second set of plausible
+2,
+temporelationships(Discussion II, beginningat paragraph p. 192), ex1I5
+
+U.1
+
+Wf
+
+fif
+
+I
+
+_
+
+f
+
+"
+9'
+
+.F
+
+Source:Epstein, ShapingTime, 1995.
+By permissionof SchirmerBooks
+
+186
+
+features(motives, accompaniment
+ploring differentaspects of structural
+figures, altered characterof themes, paradoxicalperceptions of speed,
+etc.) occasioned by the new relationships.
+This new perspectiveinvolves new criteria,which apply throughout.
+Thus, as partof this discussion I observe that:"themotivic span from D
+to the upperBb, structurally
+prominentin the opening themes of movement I, III, and IV [see Example 8.4b], now occupies four beats in each
+instance,if we alterourmode of reckoningto include in all cases the beat
+that contains the upbeat [my emphasis]. Because all these movements
+move at the same beat speed, the durationspan of the motives is now the
+same"(192, paragraph
+4).
+Here, too, Rothsteinis off the mark.As just shown, this is a second,
+The new tempos, not surpriscompletely differentcase of measurement.
+occasion differentdegrees of relationship.In assessing them, the
+ingly,
+same yardstick(i.e., the upbeat) of measurementis applied across the
+board.
+In sum, Rothsteinconfuses and melds two separateand distinctlydifferent discussions of tempo. He misreadstheir criteriaof measurement,
+whatI have written,what
+andcomes up with statementsthatmisrepresent
+I observe, and what I claim. Readerscan assess the mannerin which he
+does so.
+Item.As mentionedearlier,Rothstein(128) speaksof "Epstein'srigid
+adherenceto a Schoenbergianstandardof unity."On p. 126 Rothstein
+speaks in somewhat the same vein, quoting "threepassages in which
+Epstein's core belief is revealed."I offer the firsttwo of these:
+"The study also suggests that proportional
+tempo, tempo united by a
+common pulse, may be the clue to a 'proper'sense of tempo, leading to
+tempos that work in the most successful way in terms of musical affect
+(195, emphasis added [by Rothstein])."
+relatedboundarytempos seem a basic condition gov"Proportionally
+...
+erning accelerandos/ritards these elements set the temporal framemust be shaped(418, emphasis
+work within which an accelerando/ritard
+added [by Rothstein])."
+Rothstein's added emphases promote an impression of rigidity.The
+normativereading,providedby my plain text, is the intendedone. Had I
+wanted anythingelse, I would have addeditalics.
+Item. The impression of "rigid adherence"is furtheredby the reviewer'somissions-by thenumerous
+passagesaboutproportional
+tempo,
+that is, which Rothstein chooses not to quote. I offer a sampling, with
+which I conclude this analysis, as these passages may be seen as representativeof the truetone and context of my views:
+1) Concludingan analyticdiscussion of tempoin Beethoven,I say: "It
+may be impossible to drawultimateconclusions aboutspecific temposin
+the Ninth. Traditionhas defined one set that, rightly or otherwise, devi187
+
+ates in partfromthose of the composer.We aretold by contemporary
+witnesses that faster tempos prevailedin Beethoven's time than in our own
+era.A dedicatedcontingentof modem performers
+successfullyre-creates
+the music as it may have soundedin its earlydays (thoughthatre-creation
+snags to an extent on the thornyquestion of tempo). A slippery terrain
+prevails regardingtempo, in which no base-historical fact, score ediold
+detions, personaltaste, tradition,instruments andnew, performance
+mands,acoustics, andmany otherfactors-presents perspectivesthatare
+not, in some way, irreconcilable.
+"The one factor that emerges as a constant in this musical bouillabaisse is proportionaltempo. Clearly it affected the way Beethoven
+perceivedtempo. Just as clearly,it arose from deeply embeddedfeatures
+of structure
+withinBeethoven'smusic, addingtherebya temporaldimension of coherenceto worksthatin many otherparameters extensively
+are
+unified.
+"Manyconditions will affect actual tempos in a given performance.
+Ultimately,pacingwill restuponpersonalintuition,in some ways affected
+by mattersbeyond even the controlof musicians. (Acoustics is a case in
+point.) Ultimately,too, we will findtempossatisfyingor not uponequally
+intuitive grounds.That we may find them coherent,however-binding
+and unifying-seems a desideratumthat stems from functional aspects
+of our nervous system as it guides our perceptions,intuitions,feelings"
+(Epstein,239-40).
+2) Another sample is the passage following the third Epstein "core
+belief" offered by Rothsteinon p. 127. Thus [Epstein, 155]: "Weare not
+machines,however.We can and do departfrom an overridinggoverning
+pulse in the course of performance.How and where we do so is critical.
+Flexibilityalongthelines of themagneteffect [discussedin Epstein,chapter 6, p. 152]-forward movement, ritard,rubato, and the like-adds
+excitementto performance.
+These alterationsseem to be controlled,howa higher order of time organization,their phase relations coever, by
+ordinatedon longer spans."
+3) I continue,in an endnote affiliatedwith this last passage: "Wecan
+of
+also overridea governingpulse, to the detriment the music, if ourmusical focus centersupon elementsnot germaneto pulse or to a global view
+of a work. It is not uncommonto hearmusicianslinger over a phrase,or
+exaggeratea ritardor othertemporalnuancefor the sake of local expression. This can enrichthe music if kept within bounds,with a largertemwhenoverporaldesignin mind.It can destroytemporal
+planandstructure
+done. It would seem to be a matterof degree and, as mentionalabove, of
+focus-where, thatis, one centersone's musicalthoughts"
+(Epstein,518).
+
+188
+
+*
+
+*
+
+*
+
+This review raises the workloadfor interestedreaders.It will not do to
+readthe book andthe review,in whateverorder,andleave it at that.Given
+this letter,readerswill now have to shuttlebetween book, Rothsteinreview, Epstein response, and the various permutationseffected by these
+comparisonsin orderto to figureout where validity may lie.
+Ultimately this is to the good. The review has broughtto center stage
+the issue of tempo, which until now has not been at the forefrontof theoretical interest. I shall read with interest any response that Rothstein
+his
+may offer to this letter-in particular, responseto the specific matters
+in his review thatI have raisedhere.
+David Epstein
+MassachusettsInstituteof Technology
+NOTES
+1. Half=80is specifiedas the governing
+themeat m. 92, its
+tempofor the "Freude"
+firstoccuTence.Thoughnot specifiedas suchwhenthe themerecursat m. 237, I
+as
+(andmanyothers)see the connection implicit.
+2. RobertMorgan's
+recentarticleprovidessignificant
+insightsinto this question,as
+do the ideas of MauriceMerleau-Ponty,
+whichMorganprovides(pp. 2-4). Parwith
+ticularlyrelevantis the discussionof the evolutionof ideas, as contrasted
+of
+Thomaskuhn'sperspective paradigm
+shifts.See Morgan,
+Robert."Symmetrical FormandCommon-Practice
+Music TheorySpectrum
+20/1 (Spring
+Tonality,"
+1998):1-47.
+3. Weber's
+Fraction
+derived
+fromit, also knownas the JustNoLaw,andtheWeber
+ticeableDifference[JND],describethe minimaldegreeof changefroman established periodicity
+requisitefor thatchangeto be perceived.This is discussedin
+detailon pp. 166-67 (chapter of the book,whichis concerned
+with criteria
+for
+7)
+studiesof tempoin followingchapters. I havenoted,the chapter ignoredby
+As
+is
+Rothstein.
+7
+4. The GettyandMachstudiesaredetailedin chapter (167, andtheextensiven.10,
+521-23). Gettyfoundthatthe JNDrisesto 13-17%at 3.5 sec., theupperlimitin
+his tests;Machfound 18%at 2.5 sec. and33%at 15 sec. Creelman
+(1962) found
+the JNDto lie morein the areaof 10%withinwhatis essentiallythe psychologiin
+cal present-from 0.2 sec-2.0 sec. (Detailsandcitationsareprovided the text
+andbibliography ShapingTime.)
+None of this is discussedby Rothstein.
+of
+5. All butone of these (phrase12) arewithinthe alloweddiscrepancy fit.
+of
+of
+the
+6.I shouldnote that,frommy presentperspective, appearance a groundbeat
+at the headof a phrasemay be a norm,butis by no meansa universal an allnor
+Thereare no rulesaboutthis matter.
+Rubatodecisionsreflect
+pervasivedemand.
+and
+elements.
+ways thatan artistviews a structure choosesto shapeits expressive
+7. The Schunann Piano Quintetstraddlesboth categories.It aboundsin Grund-
+
+189
+
+but
+gestaltrelationships, alsobringsbacktheopeningthemeof thefirstmovement
+at the coda of the last movement.
+Likewise,Beethoven's 131 StringQuartet,
+op.
+as has been widely observed,
+to
+emanates greatdegreefroma Basic Shape-the
+fouropeningnotesof thefugue(movement Yetit comesclose to a variedstateI).
+mentof thisopeningthemein thelastmovement 21ff andthereafter).
+Thusthe
+(m.
+of
+laterthemehas something the "recall"
+character
+notedabove.TheMozart
+symthan
+categories.
+phoniesfit morethe Grundgestalt the "recall"
+8. Theissuein thishypothetical
+exerciseis musicalcontent, practical
+not
+issues such
+as whether transposed
+the
+music"fitsunderthe hands."
+9. Zaslaw(1989),whohasdevoted
+muchof his career thesevexingquestions,
+to
+parin
+allels manyof my thoughts this letterandin ShapingTime.See his discussion
+of performance
+and
+practice tempo,489-501.
+in
+10. Of the eight barsdelineated the firstmovement
+phrase,only the firstfour are
+includedin the musicalexample.
+
+WORKS CII ED
+in
+Evidence
+Drake,C., andBotte,M.C. 1993."Tempo
+sensitivity auditory
+sequences:
+for a Multiple-look
+Model."
+and
+54:
+Perception Psychophysics 277-86.
+and
+Jones,M.R., andBoltz, M. 1989. "Dynamic
+PsyAttending Responseto Time."
+chologicalReview96: 459-91.
+HowPeopleTrack
+Large,E.W.,andJones,M.R. 1999."TheDynamicsof Attending:
+Events."
+Review,106: 119-59.
+Psychological
+Time-varying
+fromTemporal
+McAuley,J.D., andKidd,G.R. 1998. "Effectof Deviations
+Expectaof
+HumanPerceptionson TempoDiscrimination Isochronous
+ToneSequences."
+tionand Performance
+24(6): 1-15.
+in
+and
+and
+Tass,P.A.1999.PhaseResetting Medicine Biology.Heidelberg NewYork:
+Verlag.
+Springer
+Practice,Reception.
+Performance
+Context,
+Zaslaw,N. 1989. Mozart'sSymphonies:
+New York:
+Oxford.
+
+190
+
+

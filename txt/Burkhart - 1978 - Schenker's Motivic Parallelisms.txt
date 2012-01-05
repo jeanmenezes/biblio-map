@@ -1,0 +1,1494 @@
+Yale University Department of Music
+
+Schenker's "Motivic Parallelisms"
+Author(s): Charles Burkhart and Heinrich Schenker
+Source: Journal of Music Theory, Vol. 22, No. 2 (Autumn, 1978), pp. 145-175
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843395
+Accessed: 15/12/2009 13:48
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+SCHENKER'S "MOTIVIC PARALLELISMS"
+
+Charles Burkhart
+
+INTRODUCTION
+Central to Heinrich Schenker's theory of music is his concept of
+hierarchically ordered structural levels (Schichten). According to this
+concept, a level expressing a given degree of reduction governs-that is,
+provides the structure of-the next most elaborate level, and is therefore
+"higher" in rank to it. Schenker's gradual evolving of his theory-a task
+spanning many years of his life-may be characterized as an ever-greater
+awareness of ever-higher levels of structure.1 In his early theoretical
+works he was concerned with phenomena relatively near the musical
+surface that he would later see as belonging to "lower" levels. The term
+"lower," however, is by no means to be taken in a derogatory sense, as
+though Schenker were discarding these aspects of music; he merely saw
+that they were governed by still higher constructs.
+While the chronological development of his theory proceeded from
+the low to the high, so to speak, Schenker very often chose the opposite
+course-from high to low-when presenting his theory in writing.2 In
+his last work, Der freie Satz, the systematic presentation of his complete
+theory in its final form, he early introduces the concept of the Ursatz,
+the highest structural level and a constant throughout tonal composi145
+
+tion. He then moves "down"-in the direction of the musical surfacetaking up in logical order phenomena of ever finer detail (even giving a
+chapter to articulation slurs of the tiniest size!), but always in the light
+of that which systematically had preceded them. In this astonishingly
+comprehensive presentation, Schenker tried to locate hierarchically all
+his specific ideas on musical organization. The subject of this article is
+one such idea, and one which, in my opinion, has been slighted in much
+of the discussion of Schenker's contribution to musical thought. I refer
+to his discovery that, in a given tonal composition, a melodic unit, or
+"motive," can be subjected to "hidden repetitions." While these repetitions could take the form of simple rhythmic transformations on the
+surface, Schenker was much more interested in those that involved subsurface elements, that is, in which the motive was expressed on different
+structural levels-both low and high-or, as is often said, expressed "in
+the small" and "the large." I am likewise concerned chiefly with repetitions of this type, and will call such a repetition a "motivic parallelism." But I hasten to add that Schenker used a variety of terms for
+the phenomenon, and I will later give an account of them.
+Ideas more or less similar to this have been advanced by other 20thcentury writers, notably Rudolph Reti and Josef Rufer.3 A thorough
+comparison of their methods and results with Schenker's would require
+a separate article. Suffice it to say that, although the work of Reti and
+Rufer is quite different, they share one basic feature that distinguishes
+their approach to motivic ideas from that of Schenker: both start with
+the motive (or theme) and attempt to derive the rest of the composition therefrom. They will point to sub-surface configurations of notes
+and claim that, by virtue of a vague resemblance in general shape, these
+configurations are organically related, but they feel no need to support
+their claims with criteria of a systematic nature. In particular, they
+make no attempt to relate melodic phenomena to the domains of harmony and tonal structure. Schenker's starting point is a theory of tonal
+structure that accounts for both melody and harmony and the interaction of the two. Because the melodically particular arises from systematically defined constants, he can analyze it in terms of those
+constants with consistency and precision. It follows that motivic parallelisms, although considered very important by Schenker, do not occupy
+as central a place in his work as they do in that of Reti and Rufer. He
+merely says: they sometimes occur; they do not have to occur; when
+they do, their significance for the particular work will vary from case to
+case, but they always impart to it a greater coherence, a richer content.
+Although the existence of motivic parallelism in Schenker is made
+possible by his concept of structural levels, the idea is not itself a
+systematic construct-like the Ursatz, for example-or a systematic
+technique like superposition or voice exchange. Rather, it is more in
+146
+
+the nature of a compositional feature-an element of design. For this
+reason it cannot be discussed very satisfactorily in the abstract; indeed,
+the idea figures much more prominently in Schenker's analyses of individual compositions than in his specifically theoretical writings. I will
+later trace the idea in his work and review his single attempt to formulate it in theoretical terms, but first I offer (in Part I) my own presentation of Schenker's idea through a series of examples selected to reveal
+various aspects of motivic parallelism and distinguish it from related
+phenomena.
+PART I
+Two quite modest examples will serve to introduce some basic terms
+and frequent characteristics. The first, the well-known beginning of
+Mozart's C major piano sonata, K. 545, features two statements of the
+melodic progression A-G-F-E* as shown under the brackets in Example
+la.4 This two-fold statement is an example of motivic parallelism. (In
+the interests of basic terms, I will ignore the larger melodic levels of
+this excerpt.) Designating the 4-note unit as a "motive" extends the
+term beyond its traditional application to surface events only. The
+"parallelism" is, strictly speaking, the relation between the first statement and its repetition, but this term can also simply refer to the second statement alone. The second "parallels" the first by traversing
+either the same pitches or, as I will presently show, a transposition of
+those pitches.
+A motivic parallelism must have at least two statements of the
+motive, but more may occur. It is sometimes convenient to call the
+first the pattern and the second the copy. Additional statements can
+also be called copies. A copy may be of any length relative to the pattern. In Example la, the copy, being longer than the pattern, is also
+called an enlargement (Vergrosserung is Schenker's term). This term is
+not to be equated with augmentation, as of a fugue subject (although
+Example la might mislead one to do so since the enlargement here
+happens to be exactly twice as long as the pattern). The difference
+between enlargement and augmentation is that the former is a motive
+that lies embedded among notes of subordinate rank-notes of "embellishment"-while the latter normally has no embellishment, but lies
+openly on the surface. By "surface" I mean the "note-to-note" aspect
+of music, without thought of hierarchy. A condition of motivic
+*In this article I have designatedpitches in two ways. When no registeris involved, I indicatepitches simply as capitalletters standingalone;when the exact
+
+register needs to be indicated, I use the well-known system in which c1 denotes
+middle C, c2 the next highest C, etc. Author.
+147
+
+Mozart, K. 545, I
+Allegro
+
+A enlargement
+
+G
+
+F
+
+E
+
+Example la (after Jonas)
+
+Beethoven, Op. 2, No. 1, III
+
+Menuetlo
+
+Aliegretto
+
+contraction
+
+'b:?-
+
+5
+3
+
+tr
+
+64-3
+
+- r
+
+5
+
+-5
+
+r
+
+Yr
+
+Example 1 b(after Schenker)
+
+J. S. Bach, WTC I, Prelude 8
+
+9)
+
+148
+
+b, 1,
+
+cpr1 ,
+
+t
+
+(p ;; (
+?
+
+Example 2 (after Schenker)
+
+I
+
+parallelism is that either pattern or copy or both must lie at least partly
+beneath the surface-that is, be embellished by additional notes. In
+Example la both pattern and copy are thus embellished, although the
+pattern only slightly so.
+The motive in Example lb (from the Menuetto of Beethoven's F
+minor piano sonata, Op. 2, No. 1) is a 5-note turn-A-flat-B-flat-A-flatG-A-flat. Here the pattern-copy situation is the reverse of that in
+Example la (and one more rarely encountered): the copy is a contraction (Verkleinerung) of the pattern. The pattern, rather than the copy,
+lies beneath the surface in that it is embellished by brief arpeggiations
+into an inner voice. This inner voice is indicated by downward stems in
+the figure.5
+Example lb makes the important point that individual notes of a
+motive may have a harmonic function in the copy different from that
+which they have in the pattern. Indeed, a parallelism is all the more
+interesting when this is the case. For example, the pattern's B-flat, lying
+as it does within a prolonged I chord, is a dissonant upper neighbor to
+a larger, chordal A-flat, while in the copy the B-flat is a member of a
+V7 harmony and the following A-flat a passing tone within a prolongation of that harmony. Example lb also illustrates that pattern and copy
+need not be in the same voice, and, further, that they can overlap in
+time.
+A quite different type of sub-surface repetition is revealed by the
+E-flat minor prelude from the first book of Bach's Well-Tempered
+Clavier. A reduction of the prelude's opening twelve measures is given
+in Example 2.6 The motive of a descending filled-in third runs throughout the work. These filled-in thirds occur in many transpositions, each
+one providing a local basis for much more elaborate motivic life on the
+surface. But the surface has relatively few filled-in thirds, and those that
+do occur there have no very significant motivic connection with the subsurface ones. Among the sub-surface motives, the absence of a clear
+pairing of the first two statements makes the terms "pattern" and "copy"
+of less relevance here than in Examples 1a and Ib.
+This type of motivic parallelism-multiple repetitions, with transposition-is quite common. It is not peculiar to Baroque music, as the
+example might suggest. Also, any kind of sub-surface motive-not just
+filled-in intervals-can receive such treatment. (See, for example, the
+treatment of the broken-triad motive-both on and beneath the surface
+-in Mozart's C major sonata, K. 545, second movement, measures 2
+through 7.) I mention this type of treatment at this early point because
+many of my subsequent examples will be "pattern-copy" pairs with the
+copy dramatically enlarged, and I do not wish to leave the impression
+that they represent the chief type. There is no chief type.
+The beginning of Chopin's F-sharp major nocturne, Op. 15, No. 2,
+149
+
+Chopin, Nocturne, Op. 15, No. 2
+LarghetJ o
+
+'
+a)
+
+~"2??
+
+?J''
+
+[jJl'"JJ=
+7
+
+'"?,
+
+b)
+
+?3)
+
+r>
+
+_
+
+i
+j4lJiJ
+17 -',JeJ9DJJJM,JJ!LJJJJ)jjj]?
+lewiero
+
+1_^T
+
+,w
+
+)
+
+""
+
+b
+
+_r
+
+Lr
+
+r
+
+J
+
+Example 3
+showing variation, not parallelism
+
+a) normal upper-neighbor
+formula
+
+I
+
+II
+
+Ti
+tinc.
+b) mod ijfied thus:
+
+N
+
+,
+
+(3)
+
+(2)
+
+inc. N
+
+Example 4
+150
+
+presents another sort of pattern-copy situation (see Example 3.) The
+pattern of measures 1-2 is answered by a copy in measures 3-4 and by
+a second, far more elaborate, copy in measures 11-12. This well-known
+kind of pattern-copy relationship, however, is not called motivic parallelism but variation.7 There is indeed common ground between the
+concepts of variation and parallelism, and it could be argued that they
+differ only in degree. But the degree is considerable in that variation
+not only includes the element of harmony, but makes both pattern and
+copy complete pitch-structural units. There is, moreover, a rhythmic
+factor essential to variation: pattern and copy take on the same
+rhythmic structure and are basically of the same length. This is a decisive distinction. It is one reason why Example Ib is a parallelism, not
+a variation.
+The pattern-copy relationship in variation, then, is quite fixed. In
+motivic parallelism the relationship is much more fluid and open to an
+unlimited variety of structural possibilities. There is one such possibility
+that is particularly characteristic of motivic parallelism and impossible
+in variation: pattern and copy can "nest" one within the other, thus:
+?
+f-. That is, the two statements start on the same note
+but lie on different levels. (I will be showing this in several later examples.) Variations cannot nest; they are always temporally separate.
+Although the concept of variation is excluded from that of parallelism, genuine parallelisms most certainly can exist within a patternstatement or a copy-statement of a variation, or between the two at
+non-identical spots, or anywhere between different voices. For example,
+in Example 3a, notice the opening a-sharpl-bl-a-sharpl reflected in the
+c-sharp'-d-sharp2-c-sharp2 of measure 2-a small but pregnant parallelism, as I will show. And in Example 3b, observe another, and longer,
+copy in the left hand's c-sharp-d-natural-c-sharp.
+This same Chopin nocturne provides the opportunity to isolate another concept that overlaps with that of motivic parallelism. It is a
+structural concept of large scale, but I will approach it from the small.
+In the opening four right-hand notes of the nocturne, the particular
+form that the neighbor-tone formula takes is not the normal one, but
+a derivative of it as shown in Example 4. These four notes initiate
+motivic events that are paralleled on a higher level in measures 1-16
+as shown in Examples 5a and 5b. I refer not only to 1) the way the bl
+of the upbeat is enlarged and given harmonic support with a II chord,
+and to 2) how the appoggiatura a-sharp1 of measure 1 is repeated in
+the cadential 4 chord at measure 7, but also call attention to 3) the
+arpeggiated fifth-g-sharp1 down to c-sharp'-which, first appearing in
+measure 1, is intricately prolonged in measures 7-8.
+While repeated details such as these are the subject of this article,
+this example is special because of its particular relation to repetitions
+151
+
+Chopin, Nocturne, Op. 15, No. 2
+
+a) Mm. 1-2
+
+t')u 4
+
+,,
+
+A"V00a#
+
+e
+
+(3)
+u
+
+P
+
+b)Mm.1-16
+
+b) Mm. 1-16
+3
+3
+
+(1)
+
+2#pI
+f"*#ti
+
+J
+
+511 1nS~~~~~~~~~~~~~~~~~~~~~
+,~~~~~~~~~~~~~~~~~
+i
+
+Example 5 (after Schenker)
+
+152
+
+of a larger, more general kind: both measures 1-2 and measures 1-16
+3-2-i
+
+are based on the melodic-harmonic structure I-V-I (see Examples Sa
+and 5b). This structure will be recognized as identical with one of the
+three Ursatz forms, and it may come as no surprise that the Ursatz of
+3-2-i
+the entire composition is also I-V-I.8 Thus the opening portions of the
+composition exhibit replications of the structural construct embracing
+the whole in the manner of a series of nesting levels, thus:
+(
+
+1
+
+This structural construct-I will call it "Ursatz parallelism"-is found in
+many compositions. It is a valid construct in its own right, and one that
+Schenker placed under the still larger heading of Ubertragung der Ursatzformen, that is, "transference (to lower levels) of the Ursatz forms."
+Ursatz parallelism, since it is a structural concept, exceeds the definition of motivic parallelism. It has at times been confused with motivic
+parallelism to the detriment, it seems to me, of the latter.9 My objection to mixing up the two is that the "motive" involved-the Urlinie-is
+of so universal a nature, and its transference to lower levels so-one might
+say-"automatic," that Ursatz parallelism is virtually irrelevant to the
+subject of motivic parallelism, which focuses upon the "free" and the
+unique rather than the general. In the present example, the relevant
+point is that the elaboration of the 3-2-1 of Example 5a is paralleled
+in the elaboration of the 3-2-1 of Example 5b. This aspect of the repetition is much more unusual and interesting than the Ursatz parallelism
+per se.
+This is not at all to say, however, that the Ursatz concept is generally
+irrelevant to small motivic events. Obviously they are intimately linked
+here. Also, Schenker has described another, even more explicit, relationship that can occur between the two. I will report on this in Part II.
+It is well known that when motives are repeated on the surface, their
+intervals are frequently altered for harmonic reasons. Similar tonal
+alteration sometimes occurs in sub-surface repetitions as well. An example is measures 17-24 of our Chopin nocturne (see Example 6). Although these measures present a contrasting theme on the surface, the
+top voice is structured on an enlargement of measure 1 (with upbeat).
+The point is not the transposition to the area of C-sharp major (V), but
+that, within the large-scale V, the original motive is altered to conform to a lower-rank A-sharp major (III) chord. (Also observe the correspondence between the pattern's repeated C-sharps of measures 1-2
+-a salient feature of the original motive-and the strange repeated Asharps of measure 24. If there is any doubt that Example 6b parallels
+6a, surely these insistent A-sharps testify to the contrary.)
+A second, and very large, example of a tonal copy spans virtually
+the first 45 measures of the nocturne. It grows out of the c-sharp2 first
+manifested in the surface motive shown in Example 7a. Here the har153
+
+Chopin, Nocturne, Op. 15, No. 2
+
+a)
+I
+
+J'r
+
+b)
+
+t
+
+g
+
+~
+
+w
+
+a
+
+...8
+appog
+
+~
+
+.
+
+4
+
+____
+
+IJ
+
+5
+
+b)
+
+?
+@
+
+?
+
+?
+
+@
+
+-E
+
+--
+
+(1[~3)
+
+Y
+
+X
+Y
+
+Example 6
+illustrating a tonally altered enlargement
+
+Chopin, Nocturne, Op. 15, No. 2
+
+m. 2 (also 4,10, 12)
+
+MJ
+
+b"Q
+/)tB
+<tiV
+
+^-
+
+C^
+
+Example 7
+
+154
+
+mony is simply a I chord. Example 7b shows the copy of this motive.
+Its intervallic differences are clearly related to the V chord.10 Of course,
+a listener can only gradually become aware of so huge a copy as this. At
+measure 17 he will be hearing the smaller-scale parallelism shown in
+Example 6. But at measure 25 (doppio movimento), the e-sharp2 of
+measure 17 is quite audibly picked up again. The g-sharp2 of measures
+33-38 stands out clearly, and, at the appoggiatura (d-natural3-c-sharp3)
+of 39-41-the climax of the entire piece-the relationship to the appoggiatura (d-sharp2-c-sharp2) of the pattern becomes inescapable.
+It is obvious that the more one admits the possibility of divergence
+from the exact intervals of the pattern, the riskier the business of finding parallelisms becomes. The most convincing cases are those that span
+clearly articulated formal units. I particularly emphasize the point that
+the uncovering of divergent copies requires particular attention to the
+harmonic milieu. Of course, no motives of any kind can be meaningfully analyzed without a full accounting of their relation to harmonic
+elements.
+The subject of motivic parallelism impinges in a number of ways on
+the traditional concept of motivic transformation, that is, the rhythmic
+alteration of a motive. The concept of transformation is distinct from
+parallelism (as I have defined it) because in the former both pattern and
+copy lie wholly on the surface, while the latter always has a sub-surface
+component. Although I have found it necessary to maintain the conceptual distinction, individual cases certainly exist-like Example 8, for
+example-that could be called without serious consequences either a
+parallelism or a transformation.1
+Schenker did not encounter a great deal of motivic transformation
+in the music to which he confined himself, but he encountered some.
+He includes examples of transformed repetitions in his analysis of
+motives without pointing out any distinction between them and subsurface repetitions. Probably he made no such distinction because he
+felt the transformations were so obvious. It is noteworthy that one of
+his most frequently used terms for motivic parallelism gracefully embraces transformation as well. I refer to verborgene Wiederholungen"hidden repetitions." If the repetition is sub-surface, it is "hidden" by
+the lower-rank pitches; if on the surface, it is "hidden" by the altered
+rhythm.
+Transformation is a prominent stylistic element in much late 19thand early 20th-century music. That parallelism also is present in this
+repertoire has been demonstrated by Felix Salzer, in various analyses
+in his Structural Hearing12 of works by Wagner, Mahler, and Debussy.
+Of particular interest is his reduction (in Volume II, Graph 455) of the
+first thirty measures of Debussy's Prelude to "Afternoon of a Faun,"
+which shows how the first six pitches of the flute solo in measure 1155
+
+Beethoven,Op.2, No
+
+t.A
+011N
+
+first the
+
+pp
+
+1j
+
+r1 I
+
+Example 8
+
+Debussy, Pre'lude'aL'apr'es-
+
+whole-tone setx
+
+Iwhole -tone setyI
+
+Example 9
+
+from c-sharp2 down to g-naturall--appear in several sub-surface enlargements, most notably at measures 21-25. Confining myself to the remainder of this motivically complex work, I offer two further illustrations of parallelisms quite distinct from its many transformations.'3
+1) The opening flute solo moves from g-natural' back to c-sharp2;
+the same course is traversed in the large from measure 31 to measure
+37 as shown in Example 9. As this enlargement slowly proceeds
+beneath the surface, rapid transformations (harmonically altered) of
+the motive of measure 1 are projected on the surface. (Measures 31
+through 36 enclose the work's most radical departure from traditional procedure. Within these measures the primary referent is the
+whole-tone set. It is the shift from one transposition of the set (x) to
+the other (y) at measure 34 that produces an alteration in the motivic pattern: b-flat' instead of b-naturall.)
+2) The first closed section of the work, measures 1-30, features
+many repetitions of c-sharp2 as a long appoggiatura yearning for bl.
+The transitional section of measures 37-55 is characterized by a
+modulation to D-flat major, the key of the second closed section
+(measures 55-74). Here, in the service of "neutralizing" the appoggiatura c-sharp2 by turning it into a tonic, a three-note motive,
+b'-c2-d-flat2, is projected on several levels (see Example 10, which
+shows only this element). I relate this motive to the upbeat of the
+main theme of the work, that is, to the b'-b-sharp'-c-sharp2 at the
+turn of measure 2, of measure 21, etc., and likewise at the turn of
+measure 37, where the last C-sharp appoggiatura occurs until the
+"reprise" at measure 94.
+While motivic parallelisms are chiefly found in upper voices, statements of pattern, copy, or both can appear in the bass also. Since the
+bass must, of course, simultaneously continue its main task of providing the harmonic structure, such an event can produce a rich fusion of
+melodic and harmonic elements. In Brahms's A minor intermezzo, Op.
+76, No. 7, an eight-measure introduction closes with a V-I cadence
+whose two bass notes, E-A, receive an unusual embellishment-E-C-Athat is subsequently reflected in the chief motive of the main body of
+the piece (see Example 11).
+A remarkably extended example of bass parallelism occurs in
+Schubert's "Erlkonig."'4 The famous left-hand motive announced in
+measure 2 is first of all a rapid motion up to inner-voice d and back
+down, the bass voice being simply G. At the peak of this motion the d
+is embellished with an upper neighbor tone e-flat. This motive not only
+figures notably on the surface, but also appears as an enormous enlargement spanning virtually the entire song (see Example 12). Schubert
+stretches out the motive by treating several of its tones as temporary
+157
+
+_I.~~~~~~~~~~Debussy,
+
+Prelude a L'apres-
+
+0o
+00
+
+Example 10
+
+Brahms, Intermezzo, Op. 76,
+
+E1 'j1 C^.-LT
+^G
+
+3
+
+V4lH='^
+
+x
+
+LLLI
+
+Example
+11I
+
+Example 11
+
+appog.
+J
+
+tonics. But it must be recognized that he did not make of this inspired
+idea a mechanical tour de force. For one thing, the motive's second
+note, A, is omitted in the enlargement, since it would be virtually impossible to elevate this note to the status of a tonic within the song's
+basically quite conventional "key plan." The same is true of the motive's
+penultimate note, B-flat, which is likewise omitted. (It is very questionable to find this note paralleled in the B-flat of the I6 chord in measure 129.) Still, Schubert has paralleled quite enough of the motive to
+leave no doubt of the idea-an idea whose relation to the mounting excitement of the poem is obvious. Particularly interesting is the way the
+neighbor tone E-flat is worked into the plan: the rising keys, B-flat
+major, C major, and D minor, are exactly synchronized with the three
+increasingly insistent speeches of the Erlking. Each of these keys clearly
+demarcates a closed musical section, and each of these sections is preceded by a "transitional," modulating section. When D minor is reached
+(measure 112), the Erlking's third speech, instead of starting at once, is
+delayed until the sudden entrance of an E-flat major chord, which is
+not a key, but only the flat-II of a I-flat-II-V-I progression in the prevailing key of D minor. While Schubert scarcely tonicizes the E-flat,
+his paralleling of the motive is all the closer for that, because, just
+as the E-flat of the motive belongs to the note D, so this flat-II belongs to D minor. Of course, we have to overlook the A major chord
+of measure 122-the chord the flat-II must progress to on the way to
+the cadential I.
+My two final examples show pattern and copy effecting cohesion
+between the exposition and development sections of sonata forms. Also,
+I will show how each of these examples lies under the Ursatz-a dimension omitted from most of the earlier examples.
+In an essay (in Tonwille II, p. 25) on Beethoven's F minor piano
+sonata, Op. 2, No. 1, Schenker, discussing the first movement, reports
+the remarkable discovery that a sub-surface motive spanning the first
+theme (measures 1-8) is paralleled in a huge enlargement (measures 4981) in the development section. The motive is in two parts-first a rising
+third (A-flat-B-flat-C), then a falling sixth (C-B-flat-A-flat-G-F-Enatural). (See Example 13a, which represents only the exposition.)
+Schenker published this essay in 1922, before his theory of the Ursatz
+had reached its final form. I have couched Example 13 in terms of the
+mature theory, placing the entire parallelism-pattern and copy tog-4- -2
+gether-under the still large construct:
+I IIV Example 13a shows
+that, in the first theme, the falling sixth (measures 7-8) is bounded by
+c3 (as 5) and inner-voice e-natural2. In the bridge section (measures 920), the falling sixth is repeated in A-flat major (e-flat2-g ), bringing in
+its course b-flatI as 4. The second theme (measures 21-41) contains
+many attempts to resolve G to A-flat, but does not fully do so until the
+159
+
+Schube
+0o
+Motive
+
+:
+
+r
+L
+mm.
+
+I
+
+J
+
+-r
+
+-
+
+,
+
+I
+
+)
+
+(m)
+
+lo
+^>;b *..
+
+I'
+
+I
+
+3
+
+I
+
+I
+
+'Narrator
+
+I
+i
+
+Im .
+
+t"'Duliebes'
+Kind"
+
+trans.
+_________
+
+r
+m
+
+I
+
+'"WilJst feiner'
+Knobe"
+
+I
+
+, tra
+tra ins
+
+'ulch
+
+liebe
+4
+
+C
+rr'r
+,~ fK
+
+rans.
+r ns.
+
+'I
+
+dich"
+
+Y
+
+'
+
+I
+
+Example 12
+
+Beethoven, Op. 2, No.
+1st theme
+
+bridge
+
+A
+
+Motive:
+
+^
+
+I
+
+r1
+
+3^ i-i
+
+'''--i
+
+Example
+
+i
+
+Z,
+
+j
+
+-l0r^^^,^,11'
+1 3a(after
+
+Scher)
+
+Exml
+Example 13a (after Schenker)
+
+movement's first full cadence-at measure 41-which brings a-flat as 3
+over an A-flat major chord (III of the Ursatz). The closing theme (measures 41-48), with its "turn motive" discussed earlier (Example 8),
+now prolongs the 3.
+Example 13b represents the development section. Its seven stages,
+3 2
+starting with the Ursatz progression III V, move progressively nearer
+to the composition. The enlarged motive begins on A-flat as 3 and
+soars over the many references to the surface motives of the exposition.
+It ends at measure 81 with the arrival of the V of the Ursatz. The G of
+this V chord is the Urlinie's 2. But because the motive descends to innervoice e-naturall, the 2 is not present in the foreground.
+Except for a few brief references to it in Harmonielehre, the first
+movement of Mozart's C major piano sonata, K. 330, is not analyzed
+in the published works of Schenker. The motivic parallelisms in this
+movement are of particular interest because of their relation to an
+unusual aspect of the design, namely, that the exposition's surface
+themes are absent from the development section. I will show that the
+integration of exposition and development is achieved by means of
+motivic parallelisms. But before doing so, I must draw attention to another unusual feature: the first and second themes are themselves a
+parallelism. The single construct underlying both themes is a compound
+of three motives that I will identify as t (for triad), x, and y. This construct (txy) may be schematized as in Example 14a. Motives t, x, and y
+all start on and are prolongations of a high-rank 5.
+t is the descending triad 5-3-1, lies near the surface and is therefore
+short. It is embellished with appoggiaturas.
+x is the upper-neighbor motion 5-6-5, lies below the surface and is
+of long duration.
+y is a passing motion down to lower-rank 3.
+Example 14b shows these motives as they appear in the first and
+second themes. Notice that the second theme can be broadly viewed in
+terms of two xy 's-a low-rank one nesting within a higher one as shown
+in Example 14c. The higher xy is in turn superseded by the Urlinie (51) of the G major section, and over all this reigns a still higher-rank d2
+-the 2 of the Urlinie. (The complete Urlinie cannot be taken up here.)
+The dispersal of the motives in the development section is highlighted by Examples 14d and 14e. First of all, notice in Example 14d
+that txy-in still another metamorphosis-is discernible in the first
+phrase (measures 59-66). Motive t is here greatly lengthened are reduced to just the descending fifth (d2-gl), with the typical appoggiaturas abundant in the figuration. Arching over the whole phrase is a
+high-rank x that joins with a surface y, just as in the exposition.
+Motives y and xy are then further developed in measures 65-79 (see
+161
+
+Beethoven, Op. 2, No. 1, I, Development
+A
+
+A
+
+3
+
+0 I.
+
+2
+
+1)
+
+nr
+
+uI
+
+Y
+
+-
+
+15
+
+[^
+5)
+
+" "
+*
+
+-
+
+-.
+
+4) ,.J
+
+"-*
+
+15
+
+C
+
+i
+
+-6
+
+O
+
+-
+
+-
+
+,--' ..
+
+.
+
+^
+
+^^
+
+_
+
+--
+
+rr
+
+.
+
+r
+
+6)
+
+etc.
+
+3
+
+(2)
+- - -
+
+"
+
+en lrgemenr
+
+i.
+_ _, ^ ,:
+--,,
+
+i_
+
+-
+
+-
+
+_
+
+-.
+
+-
+
+7)
+
+6 - (5) 6-(5)
+
+6
+
+"-6 (Er
+
+n5-
+
+162
+
+:_
+
+_ -
+
+Example 13b
+
+v
+
+x
+N
+
+6
+
+5
+
+(5)
+
+(\ 4
+third -.-.3
+
+3
+I
+
+-
+
+t
+
+y
+
+I
+
+(for t ri cd )
+Example 14a
+
+Mozart, K. 330, I (second theme)
+
+Example 14c
+
+163
+
+Mozart, K. 330, I
+first theme (beginning)
+
+T
+
+1
+
+P
+A i' XiI
+
+1 1
+
+v*4-3
+
+second theme (entire)
+A
+
+G moj.
+T -
+
+x
+
+I!
+
+Im
+
+_
+
+n_
+
+-
+
+-I
+
+QL^yl"fl"jtW
+
+^
+3
+
+2
+
+1
+
+y----II
+(1z)
+
+164
+
+y
+
+.6
+
+I
+
+Example 14b
+
+Mozart, K. 330, I, Development
+
+xy
+
+~
+~
+
+(res-f
+
+L~-~.
+et...
+I
+
+"
+
+Example 14d
+165
+
+m!E ,,@S
+
+7r-
+
+Mozart, K. 330, I, Development
+(showing the enlargement of motive y)
+
+?
+y
+
+1)
+
+2)
+
+1
+
+i~
+
+I
+
+4
+
+r
+
+, , --ad
+
+',
+j~
+
+W-"d
+
+A
+
+-4 j
+
+~
+
+QI-J
+0
+
+3)
+
+E
+
+a f":iR;
+0*'
+
+L
+
+-F ---
+
+. _-
+
+r~
+
+Example 14e
+166
+
+/
+
+r
+
+(l
+l-s,
+
+-
+
+- 1b-
+
+4.
+
+-
+
+7
+n
+
+Example 14e and compare with Example 14d): y (as d2-c2-b') receives
+a most imaginative enlargement;'5 while this enlarged y slowly unfolds
+beneath the surface, contractions of xy-now brought entirely to the
+surface-are stated in several transpositions.
+The first movement of K. 330, then, is-in a subsurface sense-a
+"monothematic" sonata form. But the very different rhythms of the
+two presentations of txy, not to mention the different figuration, create
+a surface impression of two distinct themes, as in a normal sonata form.
+Neither of these surface themes appears as such in the development, as
+earlier noted, and this is abnormal, to say the least. But much development nevertheless occurs-and in two basic ways: sub-surface elements
+are either repeated sub-surface (with new rhythm and figuration), or are
+exposed on the surface in contracted form.
+I do not wish to leave the impression that many sonatas (by Mozart
+or anyone else) are similarly monothematic beneath the surface. I do
+not believe this to be the case. I also give very little weight to the fact
+that Mozart used txy-or something quite close to it-as the basis of the
+opening theme of more than one composition. The important thing is
+the way such compositions differ, and, still more important, the artistic
+content of each individual case.
+A brief resume of the foregoing examples will show that they exhibit a diversity of structural characteristics. In some, the motivic statements nest one within the other: --i
+'; in others, they are temr -. In the former, the two statements are
+porally separate: j
+necessarily on different levels, but in the latter, statements can be on
+the same or on different levels. The examples also exhibit a variety of
+designs in the motives themselves. In general, the simpler a design is, the
+more it tends to appear in many pieces (although there are a fair number of designs that I know only one example of). Perhaps the most
+frequent are the filled-in third, the turn, and, especially, the upper
+neighbor-tone formula. Another frequently found one is, like the
+Mozart example just discussed, that which starts with the upper neighbor tone, then continues to fall in steps; e.g., 5-6-5-4-3.
+The examples also demonstrate that the Schenkerian motivic parallelism is indissolubly wedded to the harmony of the passage in which it
+occurs. This could hardly be otherwise in a theory that sees melody and
+harmony as emanations of a single source-the tonic triad-and therefore ultimately inseparable. But it is not true that parallelisms are an
+automatic by-product of the triadic tonal system or-more to the point
+-that they are an automatic by-product of a theory that sees musical
+structure in terms of levels. Although parallelisms can be isolated thanks
+only to the theory of levels, they are not an inevitable manifestation
+of that theory. Rather, they are a manifestation of the composer's freedom, and the most interesting parallelisms are manifested in the works
+of the best composers.
+167
+
+Since Schenker's theory views all detail in the light of something
+larger, I have occasionally found it problematic to write this article from
+the opposite point of view, that is, beginning with the small. Therefore I
+will, in the course of briefly tracing the development of motivic parallelism in Schenker's work, summarize the one extended statement on
+the subject that he made from the perspective of his complete system.
+PART II
+The Term "Motivischer Parallelismus" in Schenker
+Although Schenker's work provides abundant examples of motivic
+parallelisms as well as lengthy discussion of many specific cases, he did
+not often use the term "motivischer Parallelismus," and when he did,
+it was frequently not in the sense that I have used "motivic parallelism"
+here. On those rare occasions when he used it, Schenker was generally
+referring to quite simple exact repetitions in which both pattern and
+copy lay entirely on the surface. Usually the copy would be transposed;
+sometimes it would be rhythmically different.
+The earliest instance of the term "motivischer Parallelismus" that I
+know of is in Paragraph 79 of the Harmonielehre. Speaking of a musical
+example (No. 156), Schenker points out that pattern and copy have a
+formal correspondence. Such a correspondence can likewise be observed in several other (although not all) instances of the term in later
+writings. For example, in Tonwille VI, page 11, Schenker, discussing
+Beethoven's fifth symphony, third movement, refers to an 8-measure
+phrase (mm. 19-26) and its exact transposition a minor third higher
+(mm. 27-34) as a "motivischer Parallelismus." It is worth noting that
+this usage is quite precise in that it applies to musical statements that
+are very nearly identical. In several later instances (e.g., Tonwille VII,
+p. 5; Meisterwerk I, p. 68; Meisterwerk III, p. 50; and Der freie Satz,
+Paragraph 252 at Figure 118), Schenker does use the term (or simply
+"Parallelismus," or "parallelistisch") in reference to sub-surface examples. But since he also retains the earlier usage in late writings, one
+cannot conclude that the meaning of the term was gradually becoming
+more limited and specific, as, for example, in the case of the term
+Urlinie.
+What did Schenker call the phenomenon that is the subject of this
+article? He used various terms. Very often he simply used "Motiv,"
+a term he would apply to motivic life on any level, whether a parallelism (in my sense) was present or not. Or, similarly, he would use
+"motivischer Inhalt" (motivic content) or simply "der Inhalt." Often he
+would merely point out the "Vergr6sserung" (enlargement) or the
+"Verkleinerung" (contraction). Or he might picturesquely refer to
+pattern and copy as "Aussaat" and "Ernte" (seed and harvest). In the
+168
+
+particularly striking case in Beethoven's Op. 2, No. 1 (recall Examples
+13a and 13b) he used a word of his own, "Urmal," meaning "basic
+mark," that is, most significant feature. Throughout his work the term
+"verborgene Wiederholungen" (hidden repetitions) appears, and it is
+this one that Schenker quite definitely prefers in Der freie Satz.
+Since Schenker always treated motivic matters within their context,
+it was natural that he used various terms, depending on the situation.
+I needed one term to designate my subject, and chose "motivic parallelism" because it is generally so used today.
+The Growth of the Idea of Motivic Parallelism in
+Schenker's Writings
+In Schenker's earlier theoretical works, the Harmonielehre (1906)
+and the two-volume Kontrapunkt (1910 and 1922), as well as in his
+analytic works up to about 1920, the concept of structural levels is not
+sufficiently developed to permit motivic parallelisms to appear in any
+very significant way. However, in Harmonielehre Schenker enunciated
+a basic esthetic principle relevant to them. "Repetition," he writes, "is
+the basis of music
+tion of content is
+on a considerably
+series of tones . .
+
+as an art . . . An especially rich source for the creato be found in repetition . . .From (it) there arisesmotif . . . The motif is a recurring
+higher level-the
+. Only repetition can demarcate a series of tones and
+
+its purpose."16 Schenker considered the principle of repetition so fundamental to music that in later writings he referred numerous times to the
+passages here quoted, sometimes in specific connection with examples
+of parallelism. The term he used in Der freie Satz to denote parallelisms,
+"verborgene Wiederholungen," likewise maintains a connection with
+this early statement.
+Publication of the annotated editions of four late piano sonatas of
+Beethoven was begun in 1913. The last of these, issued in 1920, was of
+the A major sonata, Op. 101, and represents a point in the development of the concept of levels where a special notation was needed to
+portray it. This can be seen in various of the sketches. The essay's
+Figure No. 38 is of particular interest as an early example of motivic
+parallelism in Schenker's work. Taking the form of five stages, it
+demonstrates an astonishing relation between the 20-measure Adagio
+section and the melody of the first movement's opening two measures.
+(Immediately following the Adagio, Beethoven is going to quote
+exactly these two measures. To prepare for this unexpected event, he
+subtly foreshadows it in the Adagio.)
+The ten Tonwille and three Meisterwerk volumes, published between 1921 and 1930, are in large part analyses of specific compositions. These are in the form of essays consisting of text plus musical
+reductions, both of which must be simultaneously followed by a reader
+169
+
+already intimately familiar with the composition as music. As Schenker's
+theory deepened, these essays gradually took on a format that became
+standard: typically, they start with a presentation of the ultimate background, then-gradually building the piece before the reader's eyes, as it
+were-work systematically "down" through a series of progressively
+more elaborate stages that reveal motivic and other voice-leading events
+of ever smaller scope, and conclude with remarks on how the piece
+should be performed. (Appendices on (1) text criticism and (2) the
+work of earlier analysts of the piece are often added to the larger
+essays.) Although these are analyses, not primarily presentations of a
+theory (like Der freie Satz-and the distinction is important), they
+nevertheless display a continual growth in Schenker's concepts together
+with an ever more refined notation for visually representing them.
+Motivic parallelism is one aspect of this remarkable growth. A multitude
+of examples are contained in these essays, many singled out in the
+reductions by means of brackets, others simply mentioned in the text.
+In one of these essays (Die Kunst der Improvisation, Meisterwerk I,
+p. 11), Schenker makes a particularly valuable point that touches on
+a relation sometimes found between motivic parallelism and the Urlinie. Analyzing the prelude to Handel's D minor suite for clavier, he
+presents (on pages 37-38) two possible readings of the Urlinie of this
+piece and states that Reading 1 is superior to Reading 2 because it
+reflects "a motivic connection between the path of the Urlinie and the
+diminution of the lowest rank" (my translation). Specifically, the
+referred-to "diminution" (a term I will discuss presently) is the subsurface motive A-B-flat-A-G-F, which, within the opening seven measures, appears several times in various registers and in contexts that
+clearly make a neighbor tone of the B-flat. To arrive at a reading of the
+Urlinie, an analytic decision must be made within the note series
+Schenker's two possible-and both quite
+A-G-A-B-flat-A-G-F-E-D.
+logical-readings are shown in my Example 15. He is quite emphatic
+that the first reading must be chosen over the second because of its
+resemblance to surface motives "of the lowest order"-a line of reasoning suggesting that even the Urlinie is to some degree subject to artistic
+interpretation. It would be a mistake to conclude that he meant that
+this kind of relationship occurs in all pieces. But it occurs in some, and
+the analyst should be open to the possibility.
+Schenker's continually developing theory reaches its final embodiment within his concept of the Ursatz as formulated in Der freie Satz.
+While he obviously could not go back and "correct" all his earlier
+analyses in the light of the Ursatz concept, he does give in Der freie
+Satz a few different readings of compositions he had treated in earlier
+publications. These are of great interest, but they also have had the unfortunate side-effect of encouraging the notion that all the earlier
+170
+
+.A
+5
+
+Reoding I
+
+t
+
+~b
+
+JI*;
+&
+5
+
+AA
+6
+l
+
+d
+
+5
+
+I
+r
+A
+
+Reoding 1
+2 ,
+Readin4
+
+W
+
+A
+3
+
+A
+
+A
+
+2
+
+1
+
+I
+.
+C
+
+6
+
+A
+3
+
+d
+c
+A
+
+2
+
+J
+
+6
+
+A
+1
+
+Example 15 (adapted from Schenker)
+
+171
+
+analyses are of little value. Such a conclusion is quite unwarranted,
+particularly so with respect to the examples of motivic parallelism, most
+of which are on sufficiently low levels as to remain substantially unaffected. The Ursatz iconcept will sometimes cast new light upon these
+examples, but for the most part it does not threaten their validity or in
+any way diminish their importance.
+Since motivic parallelism is, as I have said, more in the nature of a
+design element than a systematic technique, it is much more readily
+discussed in terms of concrete examples than as a theoretical formulation. But in Paragraph 254 of Der freie Satz (1935), Schenker does attempt to arrive at such a formulation, and to place it within his system.
+To achieve this, he has recourse to his idea of diminution, an idea that
+runs throughout his later writings and to which he devotes an entire
+chapter in Der freie Satz. Completely accepting the traditional meaning
+of this ancient term, Schenker extends it to apply to a far wider field
+than heretofore. "Diminution" is to be understood not only as surface
+figuration, but as a process that occurs at every level. Any pitch construct, no matter how comprehensive, can be subjected to diminution.
+The triad, the foundation of tonal music, is diminuted-first by means
+of arpeggiation, then by connecting its members with passing tones.
+Out of this material is formed the Ursatz, the particular "diminution"
+of the triad that is the basis of all individual compositions. Diminution
+of the Ursatz generates in turn the "first structural level (Schicht)" of a
+particular composition; likewise this the second, and so on. This process
+of deriving the subsequent from the prior was frequently characterized
+by Schenker as "organic" (organisch). In a master composition, a given
+detail is not merely pinned on like a sequin, but "organically" derived
+from the whole through diminution. However, such membership in a
+whole, although essential, is still only a very general condition. More
+specific methods are needed to promote further organic relatedness.
+These methods are so legion, says Schenker, that he can mention only a
+few of the most important. One of them is the time-honored method of
+repetition. That is, a higher degree of organic coherence is achieved
+when two or more diminutions are the same shape, such as, for example, the dux and comes of a canonic imitation. Such surface repetition
+is effortlessly apprehended and gives instant pleasure. But repetitions of
+a different sort, less immediately gratifying, but no less genuine and
+audible, lie concealed beneath the musical surface. These "hidden repetitions" can range from the tiniest particles to the broadest of tonal
+spans. When they appear in a composition they give it a more deeply
+"organic" dimension.
+Schenker then illustrates this formulation with a large and varied
+collection of examples that exhibit enlargement or contraction, or that
+lie, as he says, outside such concepts. This collection-Figures 118 and,
+172
+
+especially, 119 of the Anhang to Der freie Satz-leaves no doubt that,
+whatever his term for it, Schenker is here showing what I have been
+calling motivic parallelism. But now he completely eschews the word
+"Motiv" because, I suspect, it is too "compositional" for so abstract a
+presentation of the idea. His almost poetic "hidden repetitions," on the
+other hand, is quite felicitous-unspecific enough to admit every possibility.
+Near the close of Paragraph 254 Schenker makes a large claim for
+hidden repetitions. They are, he says, "the principal conveyors of the
+synthesis ... (The) masters base their syntheses chiefly on such relationships." Whether or not we can take this statement entirely literally (for
+there are surely other such "conveyors"), the important word here is
+"synthesis." A word Schenker used far more often than "analysis," it
+places the emphasis on the putting together rather than the taking
+apart.
+Regrettably, students exposed to Schenker's theories rarely realize
+that, in working with them, "synthesis" is the desired goal. Perhaps
+diverted by a premature or sensational presentation of the concept of
+the Ursatz, they tend to see Schenker's approach to music only in terms
+of reduction, and take the uncovering of the Ursatz as the end of the
+quest. Exactly the opposite is the case. The Ursatz is the beginning, not
+the end-the starting point of a process of diminution that gradually
+yields a systematic view of the whole. The end is this view, that is, the
+view from the background toward the foreground-not the other way
+round. In short, the end is synthesis.
+Hidden repetitions, says Schenker, make an important contribution
+to the synthetic view. But, as always, he does not stop with a merely
+intellectual "view." Awareness of these repetitions, he adds, contributes
+to the quality of performance. When the performer is conscious of
+them-hears them in terms of the synthesis-they can make a great difference to the way he plays the music. I have noted that Schenker
+usually ended his analytic essays with remarks on how the work in
+question should be played. Similarly, he ends this statement urging the
+reader to let theory inform practice. For him, the ultimate goal of the
+study of motivic parallelisms-as of every aspect of music-is reached
+only in its application to the greater task of bringing the music to life.
+
+173
+
+NOTES
+1. This development is described by Allen Forte in his classic article, "Schenker's
+Conception of Musical Structure" Journal of Music Theory, III/l, (1959).
+Forte points out that "Schenker's major concept is not that of the Ursatz,
+as is sometimes maintained, but that of structural levels, a far more inclusive
+idea."
+2. I refer principally to 1) the ten volumes of Der Tonwille (hereafter Tonwille
+I-X), privately issued by Schenker between 1921 and 1924, 2) the three
+volumes of Das Meisterwerk in der Musik (hereafter Meisterwerk I-III), published by Drei Masken Verlag, Munich, in 1925, 1926, and 1930 respectively
+(reissued as three volumes in one in slightly reduced facsimile by Georg Olms,
+Hildesheim, 1974), and 3) Der freie Satz (Universal Edition: Vienna, 1935;)
+second, revised edition by Oswald Jonas, 1956).
+3. See Reti, Rudolph, The Thematic Process in Music (New York: Macmillan,
+1951) and Rufer, Josef, Composition with Twelve Notes, translated by H.
+Searle (London: Barrie and Rockliff, 1954). Reti attempts to demonstrate
+melodic connections between various themes within given movements and
+likewise between themes of different movements of given works. Rufer, who
+was, of course, primarily writing about 12-tone music, elaborates upon
+Schoenberg's idea of the Grundgestalt ("basic shape"). According to Rufer,
+Schoenberg spoke of this idea in reference to both tonal and 12-tone music,
+but did not demonstrate it in detail. Rufer defines the idea as "the musical
+shape (or phrase) which is the basis of a work and is its 'first creative thought'
+(to use Schoenberg's words) . . . Everything else is derived from this. . ." (p.
+viii). He offers an extensive demonstration of the idea (p. 183) in an analysis
+of a Beethoven sonata movement.
+4. Oswald Jonas first pointed- out this parallelism in his Einfuhrung in die Lehre
+Heinrich Schenkers (Vienna: Universal Edition, 1934, rev. ed., 1972), an insightful presentation of Schenker's theory. (Throughout my article, some of
+the examples will come from Schenker himself, some from others. Both
+types will be credited. Uncredited examples are by the author.)
+5. Example lb is adapted from Schenker's Tonwille II, p. 32. Schenker also
+gives precise directions on how the performer should bring out this parallelism.
+6. Example 2 is adapted from a sketch in Schenker's Tonwille I, p. 38.
+7. I am elaborating here on a distinction made by Schenker, who illustrates it
+with .an extremely detailed analysis of these same measures from Chopin
+(Der freie Satz, Paragraph 252, Figure 117, 1). It is often said that Schenker
+viewed all composition as essentially a "variation" process. While this is in a
+very general sense true, such a use of the word "variation" is far broader than
+the strict (and quite traditional) sense in which I am using it here.
+8. As Schenker has shown in an illuminating sketch of the complete piece
+found in Meisterwerk II, p. 41, in which he also analyzes the "neighbor-tone
+diminution" in great detail (see especially the enormous C-sharp-D-naturalC-sharp in the bass that undergirds the entire Doppio movimento section!).
+9. E.g., Forte, op. cit., p. 10.
+10. Schenker, in the analysis cited in Footnote 8, reads the c-sharp2 of mm. 2, 4,
+etc., as a covering-tone (Deckton). This covering-tone, within mm. 17-48
+(which includes the Doppio movimento section), is greatly elaborated in a long
+upward motion to c-sharp3, then down to c-sharpl. (My view of the nocturne is essentially the same as Schenker's, but the motivic analysis given in
+Figures 4, 5,6, and 7 is mine.)
+11. I am indebted to the late Ernst Oster for pointing out the motivic relation174
+
+12.
+13.
+14.
+15.
+16.
+
+ship shown in Figure 8, and, in general, for many invaluable ideas pertaining to my subject. That Beethoven intended this, the closing theme, to be
+be heard as a repetition of the turn at the beginning is confirmed by a detail
+not shown in Figure 8: the short appoggiaturas in measures 5, 6, 41f., and
+144.
+Published by Charles Boni, New York, 1952. Republished by Dover Publications, Inc., New York, 1962.
+A piano transcription with numbered measures is given in Burkhart, Anthology for Musical Analysis (New York, all editions).
+An edition with numbered measures is given in Burkhart, op. cit.
+This enlarged y is from an unpublished analysis of Ernst Oster.
+The quoted passages are from Paragraph 4 and the note to Paragraph 88 of
+Harmony, edited by Oswald Jonas, translated by Elisabeth Mann Borgese
+(Chicago, 1954). In the context of the esthetic debate between the "heteronomists" and "autonomists," these passages clearly align Schenker with the
+latter. Although he was not primarily an esthetician, his work powerfully
+contributes to the view of music as a self-sufficient art.
+
+175
+
+

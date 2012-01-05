@@ -1,0 +1,2320 @@
+Yale University Department of Music
+
+Cohn Functions
+Author(s): David Lewin
+Source: Journal of Music Theory, Vol. 40, No. 2 (Autumn, 1996), pp. 181-216
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843888
+Accessed: 16/12/2009 10:01
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+COHN FUNCTIONS
+
+David Lewin
+
+is
+Ourpoint of departure workdone by RichardCohnin 1993. A symposium on Cohn's ideas was held at SUNY Buffalo on July 28-29,
+1993.1This has led to generalizing Cohn's work in a numberof directions. The presentessay is one such generalization.
+Part 1: Cohn sets
+This section will briefly summarizeCohn's initial observations. Let
+us consider the pcset {B,C,D}. If we cast away the pitch class C, and
+substitutefor it the adjacent(NB) pitch class C#, we obtain the pcset
+{B,C#,D},which is an invertedform of {B,C,D}. I shall say thatwe have
+performeda Cohnflip on {B,C,D).
+In similar fashion the pcset {C,E,G} can be Cohn-flippedinto its
+the
+invertedform {C,E6,G},casting out E and substituting adjacent(NB)
+pitch class E.
+{C,E,G} can also be Cohn-flippedinto its inverted form {B,E,G},
+casting out C and substitutingthe adjacent (NB) pitch class B. Thus
+{C,E,G} can be Cohn-flippedin two differentways. A pcset with that
+propertywill be called a Cohnset.
+Cohnlisted all possible Cohn sets in the mod 12 pc universe.They are
+181
+
+(a) the singletons:e.g. {C} Cohn-flipsinto either {B} or {C#}.
+(b) the harmonictriads:e.g. {C,E,G} Cohn-flipsas describedabove.
+(c) the anhemitonicpentatonicscales: e.g. {C,D,E,G,A} Cohn-flips
+into either {C,D,F,G,A} or {B,D,E,G,A}.
+(d) the complementsof (a)(b)(c) above-thus includingdiatonic
+scale-sets.
+(e) and no otherpcsets.
+This list is suggestive.Cohndevelopedcertainfindingsandraisedcertain questionsaboutCohn sets, generalizedto universesmod N, whereN
+need not be 12. For instance, if we representthe mod 7 universeby a C
+in
+majorscale, and interpret
+"adjacent" a diatoniccontext,then the Cohn
+sets are
+(a) the singletons:e.g. {C} Cohn-flipsinto either {B } or (the diatonically adjacent){D}.
+(b) the fifth-spanning
+dyads: e.g. {C,G} Cohn-flipsinto either {C,F}
+or {D,G).
+(c) the triads:e.g. {C,E,G} Cohn-flipsinto either {B,E,G} or
+{C,E,A}.
+(d) the complementsof (a)(b)(c) above-thus including seventh
+chords.
+(e) and no otherpcsets.
+This list seems equally suggestive.
+Cohn sets characteristically
+give rise to Cohn cycles of pcsets. These
+are formedby enchainingCohn-flippedsets in the obvious way. Thus, in
+the mod 12 world, the C-major-scaleset gives rise to the familiarcycle
+of scales through the circle of fifths, i.e.... {C,D,E,F,G,A,B},
+{C,D,E,F#,G,A,B },
+....
+{C,D,E,F,G,A,B6), {C,D,E6,F,G,A,B6},
+{C,D,E,F#,G,A,B}, {C,D,E,F,G,A,B, .... Each pcset on this list is a
+Cohn-flip of the set that precedes it, and also of the set that follows it.
+Harmonictriads,as Cohn sets mod 12, give rise to shorter,less exhaustive Cohn cycles, e.g.... {C,E,G}, {C,E6,G}, {C,E6,A6}, {B,D#,G#},
+{B,E,G#}, {B,E,G}, {C,E,G},....
+Part 2: Cohn functions; definitions and examples
+From here on I shall present my own work, one generalizationof
+Cohn's (and by no means the only one of interest).
+Pcsets-and other related set-theoretic configurations,as we shall
+see-can be representedby certainfunctions, functions which have as
+argumentsthe numbersmod 12, or more generallymod N. The C major
+diatonic set mod 12, for example, can be representedby the function f
+182
+
+whose values are f(0)=yes, f(1)=no, f(2)=yes, f(3)=no, f(4)=yes, f(5)=
+yes, f(6)=no, f(7)=yes, f(8)=no, f(9)=yes, f(10)=no, f(ll)=yes. This
+function assigns the value "yes"to each pc-numberthat is a memberof
+the designatedpcset, and the value "no"to each pc-numberthat is not.
+We shall representthe above functionby the symbol (ynynyynynyny).
+The 7-35 set class can also be represented a functionthathas numby
+bers mod 7 as arguments,and numbersmod 12 as values. The function
+assigns to each numberj mod 7 the j-th intervalof the diatonic scale. So
+f(0)=2: the 0th intervalof the scale is 2 semitones.f(1)=2: the next interval of the scale is 2 semitones. f(2)=l: the next intervalof the scale is 1
+semitone.And so forth:f(3)=2, f(4)=2, f(5)=2, f(6)=1. We representthis
+functionby the symbol (2212221).
+In like fashion the C majortriad,as a set in the mod 12 universe,can
+be represented the mod 12 function(ynnnynnynnn).
+And the transpoby
+sitional set class of "majortriad"can be represented the mod 3 funcby
+tion (435), where the numbers4, 3, and 5 are intervalsmod 12.
+of
+Cohn-properties these variouspcsets (or set classes) arereflectedin
+certain properties of the mod N functions that represent the various
+pcsets (or set classes).
+The concept of Cohn flippingcan be extendedto functionswith arguments mod N as follows.
+DEFINITION 2.1: A mod N function is Cohn flipped when an
+exchange of different(NB) values at adjacent(NB) argumentsgives rise
+to a rotatedretrograde the originalfunction.
+of
+For example, consider the mod 12 function (ynynnnnnnnny),
+which
+representsthe pcset {B,C,D }. Let us exchange the different(NB) values
+y and n at the adjacent(NB) arguments0 and 1. We obtain the function
+which represents {B,C#,D}. The exchanged function
+(nyynnnnnnnny),
+values are italicized. If we startat the italicizedy and read the new function circularlybackwardstherefrom,we obtain (ynynnnnnnnny),
+which
+has
+(ignoring italics) is the original function. So (ynynnnnnnnny) been
+Cohn-flippedinto (nyynnnnnnnny), the above definition.
+by
+Or consider the mod 3 function (129), where the numbers1, 2, and 9
+are mod 12 intervals. This function represents the transpositionalset
+class of {B,C,D }. If we exchangethe different(NB) values 1 and 2 at the
+adjacent (NB) arguments0 and 1, we obtain the new function (219),
+which representsthe transpositional class of {B,C#,D}. If we startat
+set
+the italicized 1 and read the new function circularlybackwardstherefrom, we obtain (129), which (ignoringitalics) is the originalfunction.
+We can now define "Cohnfunctions."
+DEFINITION2.2: A Cohnfunction is a functionwith arguments
+mod
+N that can be Cohn-flippedin two differentways-i.e. at two different
+locations.
+adjacent-argument
+For a Cohn function,N must be greaterthan2. (A functionmod 2 has
+183
+
+location.) For the rest of this article,in cononly one adjacent-argument
+sideringfunctionsmod N, we shall assume thatN is 3 or greater.
+Functions that representCohn sets are Cohn functions in a natural
+way. For instance, let us consider the function (ynynynnynynn),which
+representsthe Cohn set {C,D,E,G,A}. An exchange of differing (NB)
+values at the adjacent(NB) arguments4 and 5 (mod 12) yields the new
+function(ynynnynynynn),
+which representsthe pcset {C,D,F,G,A . If we
+startwith the rightmosty of the new functionas written,andreadthe new
+function circularly backwards therefrom, we obtain (ynynynnynynn),
+which is the original function (ignoringitalics). So the orginalfunction,
+(ynynynnynynn),can be Cohn-flippedat arguments4 and 5. It can also
+be Cohn-flippedat arguments11 and 0: the exchange of differingvalues
+at those two adjacent argumentsproduces the new function (nnynynnynyny), which represents the pcset {B,D,E,G,A}. Reading the new
+function backwardsas it standson the page-we do not have to do any
+which is the originalfunction
+rotatinghere-we obtain(ynynynnynynn),
+(ignoring italics). So our function can be Cohn-flippedin two different
+4
+ways-at arguments and 5, or at arguments11 and0. It is a Cohn function.
+If we representthe transpositionalset class of {C,D,E,G,A} by the
+function(22323), an interval-valued
+functionmod 5, then thatfunctionis
+a Cohn function.It Cohn-flipsat arguments1 and 2: the exchangeof values here produces (23223), which, when readbackwards
+and suitably
+rotated, produces (22323), the original function. It also Cohn-flips at
+arguments4 and 0 (mod 5): the exchange of values there produces
+(32322), which, when readbackwards,
+produces (22323), the original
+function.
+The study of Cohn functions is thus one way to generalize the study
+of Cohn sets. (It is by no means the only way!) As we shall see, we can
+catalogueall possible Cohn functions, so the generalizationis fruitful.It
+is also useful because we have made no stipulationswhateverupon the
+things thatmay be the values of a Cohn function.The values may be the
+symbols "yes"and "no";they may be variousintervalsmod 12; they may
+be variousdynamics,or register-numbers, characteristic
+or
+markingslike
+{tenuto,staccato,slurred,detache,jt6 }, or a myriadof othersuch musically pertinentsorts of things.
+For one example, let us use the symbols a, u, and r to denote "acand "rest."A repeating accent-patternin comcented," "unaccented,"
+poundtriplemetercan then be represented the mod 9 function(aurauby
+ruar). This is a Cohn function. It Cohn-flips at arguments0 and 1:
+as
+It
+(uarauruar)
+retrograde-rotates (aurauruar). also Cohn-flipsat arguments 3 and 4: (auruaruar)
+as (aurauruar).
+retrograde-rotates
+Example 1
+shows a Cohn cycle that reflects this structure,realizing it as a passage
+for drum.2
+184
+
+. = MM 120
+repeateach measureonce
+
+,
+
+r
+
+.
+
+l
+
+rn
+
+au
+
+r au
+
+r u a r
+
+au
+
+r ua
+
+au
+
+r ua
+
+rau
+
+r
+
+ua
+
+r u a r au
+
+r
+
+r
+
+ua
+
+r au
+
+r
+
+u a r a u r au
+
+r u a r
+
+r ua
+
+... andda capo senzafine
+
+Example 1
+...D]
+
+F
+
+a
+M
+
+C
+m
+
+e
+M
+
+b
+
+G
+m
+
+M
+
+D
+m
+
+[F...
+p
+
+Example2
+Here is anotherCohn functionthat goes beyond normalpcset theory.
+It involvespitch-classstructures just intonation.Let the symbols M, m,
+in
+and p representrespectively a just majorthird (5:4), a just minor third
+minorthird(32:27, a syntonic comma less than
+(6:5), and a Pythagorean
+a just minorthird).The exact numericalratiosare not the point here;the
+point is that these categories correspondconceptuallyto aspects of just
+scales as promulgatedwidely during the 19th Century,beginning with
+Moritz Hauptmann.3 top row of Example 2 shows the pitch classes
+The
+of the just C majorscale as Hauptmann
+lays them out.
+The bottomrow of the example shows the succession of intervalsfor
+the series of pitch classes. Upper-casepcs relate among themselves by
+fifths;so do lower-casepcs. Upper-casepcs relateto adjacentlower-case
+pcs by just thirds.The intervaldF would be a just minorthird,but lowercase d is not in Hauptmann's
+C-majorsystem;it is pre-emptedby uppercase D, the fifth of G. Instead of dF, the system includes the dyad DF,
+which spans a Pythagoreanminorthird,reflectingthe constructionof D
+as threefifths from F.
+The function we wish to consider is the interval-series(MmMmMmp), a mod 7 function.It is a Cohnfunction.It Cohn-flipsat arguments
+0 and 6: (pmMmMmM)
+as
+the
+retrogrades (MmMmMmp), originalfunction (ignoringitalics). We shall call this "theM/p flip."The functionalso
+185
+
+... D]
+
+(a)
+
+(b)
+
+a C e
+G b D
+[F...
+M m M m M m
+p
+p m M m M m M
+G b D
+[f#...
+f# a C e
+
+... D]
+
+F
+
+...D]
+
+...d]
+
+F
+
+a C e
+G b D
+[F...
+M m M m M m p
+M m Mm
+M p
+m
+F a C e
+G b d [F...
+Example 3
+
+as
+Cohn-flips at arguments5 and 6: (MmMmMpm)retrograde-rotates
+We
+(MmMmMmp). shall call this "them/p flip."
+Cohn-flipsof the interval-seriescorrespondto modulationsof thejust
+C-majorsystem. Example 3a shows how the system becomes a just eminor system by the M/p flip. (e, a, and b triads are all just in this system.)And example 3b shows how the system becomes ajust a-minorsystem by the m/p flip. (a, d, and e triadsare all just in this system.) From
+this phenomenon we can construct an "infiniteCohn-cycle"-better, a
+"Cohn-chain"--ofmodulatingjust majorand minor keys: ... dm, FM,
+am, CM, em, GM, bm, DM, f#m, .... Every pair of adjacentkeys in this
+chain is relatedvia a pertinentCohn-flipof the interval-seriesinvolved.
+Here is yet another3-valued Cohn function of musical interest.It is
+the mod 7 function (xyzxzyz). It Cohn-flips at arguments 1 and 2:
+into (xyzxzyz). It also Cohn-flips at argu(xzyxzyz) retrograde-rotates
+ments 0 and 6: (zyzxzyx) is the retrograde (xyzxzyz).
+of
+If we use the argumentsmod 7 to label successive pitch classes of the
+C majorscale, then the argumentsthat receive the value x, for the function (xyzxzyz), are arguments0 and 3, the numbersthat label pcs C and
+F. The argumentsthat receive the value y are 1 and 5, the numbersthat
+label pcs D andA; while the argumentsthatreceive the value z are 2, 4,
+and6, the numbersthatlabel pcs E, G, andB. The Cohnfunctioncan thus
+representa partitionof the scale into three pcsets: X={C,F}, Y={D,A},
+andZ={E,G,B }. Underthis representation, Cohn flips of the function
+the
+to "Cohnflips"of the partitionas a whole. By exchangingthe
+correspond
+adjacentpcs D and E (arguments 1 and 2 mod 7), one transformsthe
+XYZ partition into the diatonically-inverted partition X'={C,F},
+Y'={E,A), Z'={D,G,B}. And by exchanging the adjacentpcs C and B
+(arguments0 and 6 mod 7), one transformsthe XYZ partitioninto the
+diatonically-inverted
+partitionX"= {B,F}, Y"={D,A }, Z"= E,G,C}.
+We shall call such a partitiona Cohnpartition (of its mod N "scale").
+186
+
+of
+The Cohn structure the functioninduces a Cohn cycle of partitions,as
+displayedin example 4.
+Otherinterestingapplicationscan be found for 3-valued Cohn functions. David Clampitt(in an unpublishedletter)pointedout thatthe interval series for many normally-ordered
+pcsets mod 12 are 3-valued Cohn
+functions.So, for example, pentachordsof Forte-types5-3, 5-6, and 5-7
+have respective interval-series (11217), (11316), and (11415); each
+series can be represented the mod 5 Cohn function(xxyxz). The Cohn
+by
+gives rise to "modulating"
+structuring
+cycles among prime and inverted
+forms of the sets. Example 5 shows how this works in the case of Forteset 5-7.
+The transitionfrom each stage to the next, in example 5, replaces the
+"plagal" division of some dyad (e.g. C#-D-F#)by a corresponding
+"authentic"
+division (e.g. C#-F-F#), vice-versa.The cycle of the examor
+each pcset down a semitone at every alternatestage, so it
+ple transposes
+will cycle throughall 24 unorderedforms of set 5-7. Othersuch cycles
+will be shorter,e.g. that shown in example 6 for some sets of class 5-32.
+
+{C,F}
+{D,A)
+{E,G,B}
+(exch. A
+with B)
+
+(exch. G
+with A)
+10
+
+(C,G}
+{E,B}
+{D,F,A}
+{D,A}
+{F,B}
+{C,E,G}
+
+(exch. D
+with E)
+
+(exch. C
+with D)
+
+(exch. B
+with C)
+
+{C,F}
+{E,A}
+{D,G,B
+{D,G}
+{E,B}
+{C,F,A)
+{D,A}
+{F,C}
+{B,E,G}
+
+(exch. F
+with G)
+
+(exch. E
+with F)
+
+{C,G}
+{E,A}
+{D,F,B}
+{D,G}
+
+01 {F,B)
+
+{C,E,A}
+(where
+we
+started)
+
+Example4
+{C,C#,D,F#,G) -
+
+11415
+-
+
+{C,E,F,F#,B 41151
+
+{(C,C#,F,F#,G} --
+
+1 41
+
+15
+
+{C,E,F,B,B } -~
+4151
+1
+
+{C,C#,F,F,B}
+
+1 4151
+and so forth
+
+Example 5
+187
+
+->
+{C,C#,E,F#,A}
+1 32 33
+--o
+
+{C,C#,E,G,A} 1 3 3 2 3
+
+{C,D#,E,G,A}
+3 13 23
+
+{C,D#,E,G,B-}2
+3 133
+
+{C,D#,F#,G,Bb}
+-)
+3 3 132
+
+and so forth
+
+Example6
+re-dividing
+the m3
+
+re-dividing
+the semitone
+-o
+
+{B,C,D}
+129
+
+{B,C#,D}
+219
+re-dividing
+the semitone
+
+re-dividing
+the m3
+{E,C#,D}
+912
+{E,F#,D#}
+291
+
+*
+
+{E,C#,D#}
+921
+
+- and so forth
+Example7
+
+Each pcset in the cycle of example 6 is transformed T3 two stages
+by
+later,so the entirecycle will enchaineight forms of set 5-32-four prime
+and four inverted.
+Clampitt,in his letter,listed exhaustivelythe many pcset classes that
+have interval series representableby 3-valued Cohn functions. All trichordswhose interval-series
+have threedistinctvalues aresuch. Example
+7 demonstrates the intervalseries (129).
+for
+In the example, the first transitioncorrespondsto a Cohn flip of the
+pcsets involved-C# is adjacentto C as a pitch class. But the second transition is not a Cohn flip of pcsets-E is not adjacentto B as a pitch class.
+Neverthelessthe transitionis generatedby an exchange of distinct adjacent values in the interval series, 2 and 9 being adjacentvalues for the
+mod 3 function (219).
+Indeed any 3-valued function mod 3 is de facto a Cohn function.
+0
+(xyz), in all generality,Cohn-flipsat arguments and 1: (yxz) is a rotated
+retrogradeof (xyz). (xyz) also Cohn-flips at arguments0 and 2: (zyx)is
+the retrograde (xyz). Furthermore,
+of
+(xyz) also Cohn-flipsat arguments
+1 and 2: (xzy) is a rotatedretrogradeof (xyz). (xyz) thus Cohn-flips at
+threedifferentadjacent-argument
+pairs.
+188
+
+Any 2-valuedfunctionmod 3 is also de facto a Cohn function. (xxy),
+in all generality,Cohn-flips at arguments1 and 2; it also Cohn-flips at
+arguments2 and 0. It does not, however,Cohn-flipat arguments0 and 1,
+because the values of the functionthere are not (NB) distinct.
+It follows that the interval series for any trichordmod 12, the augmentedtriadexcepted,is a Cohn functionmod 3. So any trichord,except
+for the augmentedtriad,can be cycled in the mannerof example 7.
+Example 8 illustratesthis for a 2-valued intervalseries.
+Since the 3-valued Cohn function (xyz) Cohn-flipsaboutany pair of
+arguments,
+example 7, whose trichordhas a 3-valuedintervalseries, can
+be expandedto a much more complex graph.Example9 shows a portion
+of the hexagonalgraph;the intervalseries Cohn-flipsone way vertically,
+anotherway diagonallyup-right-down-left, yet anotherway up-leftand
+The readeris invited to explore how the graphis surfedby
+down-right.4
+consecutive forms of Forte-set 3-2 in J.S. Bach's chorale prelude on
+"DurchAdam's Fall,"or in the f#m fugue from Book I, WTC.
+Cohn functionscan have more thanthreedistinctvalues. Indeedthere
+is no upperlimit on the numberof distinct values a Cohn function may
+{C,C#,D} 1 110
+
+{C,C#,B} -1 101
+-
+
+{C,B6,B}--1011
+
+{A,B6,B}
+1 1 10
+
+and so forth
+Example 8
+
+{E,F,D}
+{E,C#,D}
+{E,,F,D}
+{E6,E,C#}
+{E,C,D}
+{B,C#,D}
+/
+{E6,C,C#}
+{B,C#,A#}
+{B,C,D}
+{B6,C,C#}
+{B,C,A}
+{B,G#,A#}
+{Bb,B,C#}
+{B,G#,A}
+{BC,C,A}
+{G,G#,A#}
+{B6,G,A}
+{F#,G#,A}
+{G,G#,F}
+{F#,G,A}
+{F#,G#,F}
+? connectionre-dividesthe semitone.
+'
+
+\
+
+connectionre-dividesthe minorthird.
+connectionre-dividesthe whole tone.
+Example9
+189
+
+have. But Cohn functionswith more thanthreedistinctvalues come with
+a very special structure.
+To illustrate,let us considerthe two-valuedmod 3 "rootfunction"fl =
+(yyn), where y and n standfor "yes" and "no"respectively.From fl we
+derive a two-valued mod 6 Cohn function f2 = (yn yn ny). The blanks
+have no mathematicalsignificance; they are only there to structurethe
+visual field suggestively.The consecutive values of f2 are the values of
+the root function fl, alternatingwith their respective antitheses.f2 can
+thus be regardedas a series of three "antithesispairs."
+To proceed farther,we next select some palindromicstring of valFor
+ues-call it P.P may be any palindromewhatsoever. instanceP might
+be null; or P might consist of the lone symbol y, or the lone symbol n, or
+the lone symbol (say) r, where r is a new symbol. Or P might consist of
+the palindromenn, or yy, or rr. Or P might consist of the palindrome
+And
+qxvryynnnabcbannnyyrvxq. so forth. Let L be the length of P.
+Fromf2 we now form f3 = (yn P yn P ny P). f3 is a function mod(6+
+3L). f3 is a Cohn function. Specifically, the exchange of distinct values
+for f3 at arguments0 and 1 yields (ny P yn P ny P), which is a rotatedretrogradeof (yn P yn P ny P), which is f3 itself, ignoring italics. And the
+2+L and 3+L
+exchangeof distinctvalues for f3 at the adjacentarguments
+P ny P ny P), which is a rotatedretrograde (yn P yn P ny P),
+of
+yields (yn
+which is f3 itself, ignoring italics.
+In case the palindromeP is void (L=0), f3 is simply f2. Reinterpreting
+y as "low"and n as "high,"we can use f2 = (low high low high high low)
+to model thematic aspects of the Hauptmotivfor the finale of Schoenberg's ThirdQuartetOp. 30. The motiv, heardin the first violin at measure 1, presents pitches E5, D#6, E5, D#6, C#6, D5 as four eighths and
+two quarters,
+bowed in successive pairs.The violin presentsanotherversion of the same contourmotiv duringmeasure2.
+In case P is the palindromecomprisingthe one symbol r, f3 is the mod
+9 Cohn function(yn r yn r ny r). If we interpret to mean "accented"
+and
+y
+n to mean "unaccented," r to mean "rest,"
+and
+then f3 has the same structureas the function(aurauruar),
+studiedearlierin connectionwith example 1(p. 185).
+In case P is the palindromecomprisingthe symbol-stringnn, then f3
+is the mod 12 function(yn nn yn nn ny nn). Readingthe symbols as "yes"
+and "no"in the familiarway mod 12, we find that f3 here can represent
+the Cohn set {C,E,A}. And so forth.
+We could also start with the two-valued mod 5 "root function"fl=
+(yynyn).We derivethe two-valuedmod 10 Cohn functionf2 by alternating fl's values with theirrespectiveantitheses:f2=(yn yn ny yn ny). And
+then, P being any palindromeof length L, we trope each antithesis-pair
+of f2 by an insertedP, therebyobtainingthe Cohn function f3=(yn P yn
+P ny P yn P ny P). f3 is a Cohn functionmod (10+5L).
+190
+
+In general,if we startfrom any of certain"rootfunctions"mod K and
+any palindromeP of length L, we can derive Cohn functions mod (K
+(2+L)) in this fashion. The mathematicalniceties will be providedlater.
+As we shall note, K mustbe odd.An appropriate
+"rootfunction"fl is not
+necessarily itself a Cohn function mod K, but it can be derived from a
+very specific functionfO mod K in a way we shall examine later.fO is a
+Cohn function and much more.
+Part 3: prolegomena
+In this and the following partsof the presentessay, we shall construct
+and catalogue all possible Cohn functions.There are only a few generic
+types of them, and we have already studied specific examples of each
+possible type.
+In parts 4 through7 we shall constructeach generic type of Cohn
+function.Part8 will thenexplainin whatsense everypossible Cohnfunction must be one of the already-studied
+types.
+To simplify matters we shall consider only those Cohn functions
+which are "0/1 situated." Cohn function is such when one of its Cohn
+A
+flips occurs at the arguments0 and 1, mod N. It is clear that Cohn functions, in general,are the variousrotationsof 0/1 situatedCohn functions.
+Part 4: Two-valued generator-typeCohn functions
+The firsttype of Cohnfunctionwe shall constructis whatwe shall call
+the "two-valued
+generator
+type."Example 10 illustratesa particular
+specimen.
+The top row of example 10(a) lists the numbersmod 12 as multiples
+of 5. 5 is the "generator"
+here, in a technical sense to be describedlater.
+The bottomrow of example 10(a) assigns to each argument mod 12 the
+j
+value f(j)=x or f(j)=y, depending on where j comes in the list of arguments that lie above. If j lies between 5 and 1 inclusive on the list, the
+function assigns to argument the value f(j)=x. If j lies between 6 and 0
+j
+inclusive on the list, the function assigns to argument the value f(j)=y.
+j
+A verticaldivideron example 10(a) emphasizesthat structure.
+Example 10(b) "unscrambles" rewritingthe arguments in their
+(a),
+j
+usual order,and permutingthe list of corresponding(underlying)function values accordingly.
+In the form of example 10(b) we can recognize f as a Cohn function.
+The exchange of distinct values at arguments0 and 1 yields (xyyxyx
+into (yxyxyxyyxyxy), which is f. And the exyyxyxy), which retrogrades
+change of distinct values at arguments5 and 6 yields (yxyxyyxyxyxy),
+which retrogrades
+into (yxyxyxyyxyxy), which is f.5
+If we interprety as "yes" and x as "no,"then f can representthe G
+191
+
+a)
+
+j=5
+f(j) =x
+
+b)
+
+j=0
+f(j) =y
+
+10 3 8 1
+x x x x
+1 2 3 4 5
+x y x y x
+
+611
+4 9 2
+y y y y y
+6
+y
+
+7
+y
+
+0
+y
+
+7 8 9 10 11
+y x y x y
+
+Example 10
+majordiatonic set {C,D,E,F#,G,A,B},a Cohn set mod 12. (ReplacingC
+by C#,or F#by F, producesa suitableinverteddiatonicset.)
+The constructionjust studied, using the generator5 mod 12, can be
+generalizedto an analogousconstructionusing any generatorG mod N.
+mod N."
+We shall need to define, first,what is meantby a "generator
+an
+DEFINITION By a generatormodN we shall understand inte4.1:
+ger G, between 1 and N-l inclusive, whose multiplesmod N exhaustall
+the numbers
+mod N. Thatis, the set {G,2G,3G, ... ,(N-1)G,NG=0},when
+we reduceeach of its numbersmod N, includeseach numbermod N.
+Since thereare N listed multiplesof G above, and N distinctnumbers
+mod N, each numbermod N will appearonce and only once on the list.
+The generatorsmod 12 are 1, 5, 7, and 11.
+A generatorG mod N necessarilypossesses several other interesting
+propertieswe shall now survey.Any numbermod N which possesses any
+one of these propertieswill be a generator.
+DEFINITION4.2: The [additive] order of a numberj mod N is the
+smallest positive integer K for which Kj = 0 mod N (i.e. for which N
+divides Kj).
+Since Nj=0 mod N, the order K of j is always either equal to N or
+smallerthanN.
+For G to be a generatormod N, it is both necessaryand sufficientthat
+the orderof G be N itself (and not any smallernumber).For those interested, a proof will soon be supplied.
+Also: for G to be a generator
+mod N, it is both necessaryand sufficient
+that the integersG and N be relativelyprime (have no common divisor
+greaterthan 1).
+DEFINITION4.3: A unit mod N is a numberu mod N such that 1 is
+some multiple of u, mod N. That is, there is some v mod N satisfying
+uv=l mod N. So, for example, 7 is a unit mod 10 (since 7 times 3 is 1
+mod 10).
+The numbers1, 5, 7, and 11 are all units mod 12-each of those numbers, multipliedby itself, produces 1 mod 12.
+For G to be a generatormod N, it is both necessaryand sufficientthat
+G be a unit.
+We sum up our observationsso far in a tighterform.
+192
+
+a)
+
+<G, 2G,..., MG=1, 1+G, 1+2G,... ,(N-1)G, NG=0>
+The list is called "<FROMG TO 0 STEP G>"
+
+b)
+
+<G, 2G,..., MG=1>
+The list is called "<FROMG TO 1 STEP G>"
+
+c)
+
+<1+G, 1+2G,..., (N-1)G, NG=0>
+The list is called "<FROM1+G TO 0 STEP G>"
+Example 11
+
+THEOREM4.4: Conditions (a) through (d) below are all logically
+equivalent.Each conditionimplies all the others.
+(a) G is a generatormod N.
+(b) The orderof G, mod N, is N.
+(c) As integers,G and N are relativelyprime (have no common divisor bigger than 1).
+(d) G is a unit mod N.
+We shall accept this theorem as valid. For readerswho are curious,
+AppendixA (p. 213) gives a proof.
+Havingdevotedsome study to the propertiesof generatorsmod N, we
+now continue with the study of two-valued generator-type
+Cohn functions.
+In example 10, we began by listing the numbersmod 12 as consecutive multiplesof the generator5. In the generalcase where G is a generator mod N, we shall begin analogously,listing the numbersmod N as
+consecutivemultiplesof the generator startingwith G andendingwith
+G,
+0=NG. We obtainthe list of example 1l(a).
+Here M is the number such that MG=1. Then (M+1)G = MG+G =
+1+G, (M+2)G = MG+2G = 1+2G, and so forth.
+The numberson the list add an incrementof G, mod N, at each successive entry. As indicated on example 1 (a), we shall call the list
+"<FROMG TO 0 STEP G>," understanding
+"mod N" where that does
+not need to be specified.
+We shall be devoting special attentionto that part of the list which
+extends from G through 1 inclusive. This sublist is shown in example
+l(b); it will be called "<FROMG TO 1 STEP G>." We shall also be
+devoting special attentionto thatpartof the big list which extends from
+1+G through0 inclusive. This sublist is shown in example 1l(c); it will
+be called "<FROM1+G TO 0 STEP G>."
+A special note is in order.Example 11 shows entriesof 2G, 1+2G, and
+the like in its visual field. In some cases, these numbers may not lie
+within the indicatedspans.The notation"<G, 2G,.... MG=1>"means:
+193
+
+"Startwith G, andkeep addingG's until you get to 1; then stop."Now the
+numberG=1 is always a generatormod N; in that case M=1 and the list
+<FROMG TO 1 STEP G> comprisesG alone-the number2 will not be
+on the list. Similarly,G=(N-1) is always a generatormod N; in that case
+1+G = 0 mod N and the list <FROM 1+G TO 0 STEP G> comprises 0
+alone-the number 1+2G will not be on the list, nor will the number
+(N-1)G. For purposesof reasoningand/orcomputing,the logical definitions of the sublists should be used, not their visual appearanceson
+example 11. Logically, <FROM G TO 1 STEP G> is that series which
+lists all consecutive multiplesof G between 1G=Gand MG=1 inclusive.
+When M=1 (if G=1), the list will containonly one entry.If M=2, the list
+will containexactly two entries,namely 1G=Gand 2G=MG=1. The following logical definitionsof the lists at issue will be useful later,for precise reasoning.
+4.5: Given G a unitmod N, andthe integerM between
+DEFINITIONS
+1 and N-l inclusive such thatMG=1 mod N, then
+The list <FROMG TO 1 STEP G> arrangesin orderthose multiples
+mG of G such thatthe integerm lies between 1 and M inclusive.
+The list <FROM 1+G TO 0 STEP G> arrangesin orderthose multiples nG of G such thatthe integern lies between M+1 andN inclusive.
+The list <FROMG TO 0 STEP G> arrangesin orderthose multiples
+nG of G such that the integern lies between 1 and N inclusive.
+The readeris remindedthat we are always supposing N greaterthan
+2, in our presentinvestigations.
+Example 12(a) copies over example 10(a). Reviewing it, we see that
+the Cohn function there was obtainedby assigning the value x to every
+argumentmod 12 <FROM5 TO 1 STEP 5>, and assigning the value y to
+mod 12 <FROM6 TO 0 STEP 5>. The constructiongenevery argument
+eralizes for any generatorG mod N, as displayedin example 12(b). (This
+examplesupposesthatthe lengthsof the pertinentsublistsare sufficiently
+large to admit the numbers2G etc. mod N.) That is, the function displayed in example 12(b) is a Cohn function. More formally, using the
+logical definitionsof the sublists given in Definitions4.2 above, we have
+the following theorem.
+THEOREM4.6: Given a generatorG mod N, define the mod N function f as follows: for every argument on the list <FROMG TO 1 STEP
+j
+G>, set f(j)=x; for every argument on the list <FROM 1+G TO 0 STEP
+j
+G>, set f(j)=y.
+Then f is a Cohn function. It Cohn-flips at arguments0 and 1, and it
+Cohn-flipsat argumentsG and 1+G.
+The theoremwill not be provedhere.An earlierdraftof this article,in
+which I included formal proofs of this and other subsequenttheorems,
+began stretchingout to well over a hundredpages of typescript,most of
+194
+
+a)
+
+j=5
+f(j) =x
+
+10 3 8 1
+x x x x
+
+b) j = G 2G...(M-1)G
+x
+f(j)= x x...
+
+6 11 4 9
+y y y y
+
+2 7
+y y
+
+0
+y
+
+MG=1 1+G 1+2G ... (N-1)G NG=0
+x
+y
+y
+y
+y...
+Example 12
+
+them purely mathematical.I decided the readersof this journal, by and
+large, would not be happy with such text.
+We next turnour attentionto an interestingconsequence of the theorem. We note first that a two-valued generator-typeCohn function can
+always be rotatedinto itself, after a suitable single exchange of distinct
+values at numericallyadjacentarguments.
+THEOREM
+4.7: Given the situationof Theorem4.6, let f' be the function which exchanges the values of f at the adjacentarguments0 and 1.
+Then f' is a rotationof f (as well as a rotated-retrograde).
+Specifically,for
+all arguments f'(j) = f(j+G).
+j,
+As above, a formalproof is not given here. The converseof Theorem
+4.7 is also true.
+THEOREM4.8: Let f be a functionmod N, with f(0) and f(1) distinct
+values;let f' be definedby f'(0)=f(l); f'(l)=f(0); f'(j)=f(j) for otherargumentsj. Supposethatf' is some rotationof f. Suppose specificallythatG
+is the order-interval rotation,so that f'(j)=f(j+G) for all arguments
+of
+j
+mod N. Then G is a generatormod N, and f is a two-valued generatortype Cohn function.f Cohn-flips,specifically,at arguments0-and-1, and
+also at argumentsG-and-(l+G).
+A formal proof is not providedhere. We can combine Theorems4.7
+and 4.8 into a single theorem:
+THEOREM4.9: The following categories of function mod N are the
+same:
+Cohn function, and
+(a) a two-valuedgenerator-type
+(b) a function which can be rotated into itself, after distinct values
+have been exchanged at some pair of numericallyadjacentarguments.
+Part 5: Three-valued generator type Cohn functions
+Let N be an odd number.Let G be a generatormod N; let M be the
+positive integer less than N such that MG=1 mod N. Either M or N-M
+must be even, and only one of the two is even. (If both were odd, or if
+both were even, then N would be even, contraryto supposition.)
+If N-M is even we can replacethe generatorG with the new generator
+195
+
+G
+j:
+f(j): x
+
+3G
+2G ... 1-2G
+x
+
+...
+
+z ...
+
+z
+
+1-G
+1
+x
+
+1+G ... (N-1)G=-G NG=0
+y
+
+...
+
+y
+
+y
+
+z
+
+Example 13
+G' = N-G = -G mod N. Setting M' = N-M, we see that M'G' = (N-M)
+(-G) = -NG + MG = 1 mod N. And M' is even. So, to considerthe generic
+situation,it suffices to considerthe case where M is even.
+Example 13 is analogousto example 12(b) before. It displays a function f with threedistinctvalues, x, y, and z. Like the functionof example
+on
+12(b), f here takeson the value y for all arguments the rightside of the
+example, <FROM 1+G TO 0 STEP G>. The currentf takes on two distinct values for G-multipleson the left side of the example. For odd intemG
+gers m between 1 andM-1 inclusive,f assigns the argument the value
+x; for even integersm between 2 and M inclusive, f assigns the argument
+mG the value z. Since M itself is even, f does assume all threeof the values: f(0) = y, f(G) = x, and f(MG) = f(1) = z. (M, which is a unit, cannot
+be 0; it must be 2 or greater.)
+THEOREM5.1: The function f of example 13 is a Cohn function. It
+Cohn-flipsat arguments0-and-1, and it Cohn-flipsat argumentsG-and(1+G).
+The proof is not given.
+DEFINITION5.2: A function of the sort just constructedwill be
+called a three-valuedgenerator-typeCohnfunction.
+The function is "three-valued"
+because we are supposing x distinct
+from z. The machineryof the theoremwould workperfectlywell if z and
+x were equal, but in thatcase we would simply have a two-valuedgenerator-typeCohnfunctionof the sortexaminedin Part4: example 13 would
+collapse into example 12(b).
+The most general three-valuedgenerator-typeCohn function is any
+rotationor retrograde-rotation the generic Cohn functiondisplayedin
+of
+example 13.
+NOTE5.3. It will be well to stressonce more thatthree-valued
+generator-typeCohn functions can be found or constructedonly when N is
+odd. They can always be found when N is odd (and greater than 1),
+because in thatcase, given any generatorG with MG = 1, eitherM or (NM) mustbe even-and if (N-M) is even, it can be consideredas an M' for
+the generatorG' = (N-1)G. These matters were discussed toward the
+beginningof Part5 above.
+For an example, let us considerN=9. Since 7 and 9 have no common
+196
+
+(a)
+j:
+
+7
+
+3
+8
+
+f(j): x
+
+6 4
+
+y
+
+5
+
+y y y
+
+5
+z
+
+6 7 8
+y x y
+
+2 0
+
+1
+x
+
+z
+
+y
+
+z
+
+(b)
+j: 0 1 2 3 4
+f(j): y z y x y
+Example 14
+divisorgreaterthan 1, G=7 is a generator
+mod 9. HereM=4, since 4 times
+7 = 1 modulo 9. Example 14(a) lists the numbersmod 9 in the formatof
+example 13, and constructsthe correspondingCohn-functionf as indicated.Example 14(b) "unscrambles" numbersmod 9, puttingthem in
+the
+theirusual order,and writes beneatheach j the corresponding
+value of f
+that lies below j on example 14(a). Reading off f-values in the orderof
+example 14(b) we can denote f in our earliersymbolismas (yzyxyzyxy).
+We can then check directly that f is a Cohn function: (zyyxyzyxy)
+retrograde-rotates
+into(yzyxyzyxy), which is f, ignoring italics. And
+into
+(yzyxyzyyx)retrograde-rotates (yzyxyzyxy),whichis f, ignoringitalics. As our abstractwork has told us, f Cohn-flipsat 0-and-1, and also at
+7-and-8.
+As anotherexample, let us take N=7 (remember, must be odd) and
+N
+G=2. (Since 2 and 7 are relativelyprime,2 is a generatormod 7.) In this
+case M=4, which is even, so we can constructthe generic three-valued
+Cohn functionin this particular
+case as follows: forj = 2, 4, 6, and 1, f(j)
+= x, z, x, and z respectively;forj = 3, 5, and 0, f(j) = y. Thus forj = 0, 1,
+2, 3, 4, 5, and6, f(j) = respectivelyy, z, x, y, z, y, andx. In ourearliersymof
+bolism, f is the function(yzxyzyx). f can model a partition the C major
+scale into sets X, Y, and Z: X comprisesjust those notesj whose f-values
+are x, and so forth.Thus X = {E,B}, Y = {C,F,A}, and Z = {D,G}. This
+is a form of the "Cohn-partition"
+studiedearlier,a partitionof the scale
+into a triadandtwo fifths.Cohn-flipping functionat arguments
+the
+0-and1 models exchangingnotes 0-and-l (C and D) between pertinentsets of
+the partition:this yields the new partitionX' = {EB ), Y' = {D,F,A}, Z'
+= {C,G}, a diatonicinversionof the originalpartition.Cohn-flippingthe
+function at argumentsG-and-(l+G), i.e. at arguments2-and-3, models
+exchangingnotes 2-and-3 (E and F) between pertinentsets of the partition: this yields the new partitionX" = {F,B), Y" = {C,E,A}, Z" =
+{D,G }, a diatonicinversionof the originalpartition.
+197
+
+Not every three-valuedCohn function is of generatortype. Some are
+of the type we shall study next, which we shall call the "antithesis-palindrome type."The rhythmicfunction of example 1, which was three-valued, was of that type. We discussed this informallyat the end of Part2.
+There,we noted as well thatCohn functionsof the antithesis-palindrome
+type may have an indefinitelylarge numberof distinct values. In Parts6
+and 7, which follow, we shall explore that. Before studying the full
+antithesis-palindrome
+type of function, in Part7, we shall first study the
+pure antithesis-pair
+type in Part6. Here the palindromeis null, and this
+type of functionhas only two values.
+Part 6: The (two-valued) antithesis-pair type of Cohn function
+We shall constructhere the most general Cohn function f, of antithe0-and-1, andthathas symbolic
+sis-pairtype, thatCohn-flipsat arguments
+values x and y, with f(0)=y and f(l)=x.6 We startwith an odd numberK,
+greaterthan or equal to 3.
+Example 15, stage 0, displays a certainfunctionfO mod K. The arguments for fO are listed as the multiples of 2, mod K, in order<FROM2
+TO 0 STEP 2>. The integerK being odd, the integerK-l will be even; a
+verticaldivideris placed on the example afterK-1. Then, since K-l is the
+same as -1 mod K, the next entry on the argumentlist of the example is
+(-1)+2 or 1 mod K. Successive increments of 2 then continue the list
+throughthe odd integersfrom 1 to K inclusive, where of course K=0 mod
+K. The values of fO are given as f(k)=x or f(k)=y, dependingon whether
+the integerk, lying between 1 and K inclusive, is even or odd.
+The reader'sattentionis drawnonce more to the restrictionthat K be
+odd. Since 2 and K have no common divisors greaterthan 1, 2 is a generatormod K, andthe formatof the example lists all the numbersmod K.
+(If K were even, the multiples of 2 mod K would list only half the numbers mod K-just the even numbersmod K.)
+Attention is also drawn to the fact that the function fO has (K-1)/2
+argumentswith x-values and (K+1)/2 argumentswith y-values. It thus
+assumes,the value y exactly one more time, thanit assumes the value x.7
+Stage 1 of example 15 keeps the function values from stage 0 as they
+lie; it multiplies all the argumentsof stage 0 by a unit (any unit) u mod
+K. A new functionfl mod K is therebyconstructed.The argumentsof fl
+arehere listed as consecutivemultiplesof the generator mod K. (Since
+2u
+2 and u are both units, so is 2u.) Argumentson the list <FROM2u TO -u
+STEP 2u> have x-values; argumentson the list <FROM u TO 0 STEP
+2u> have y-values. The functionfl will be called the rootfunctionfor the
+Cohn function eventually generated.fl itself need not necessarily be a
+Cohn functionitself; it is of course generatedin a very specific way from
+the very specific (Cohn) function fO. The root function fl, like the func198
+
+stage 0: fO assigns the even integers,between 1 and K inclusive, the
+value x; it assigns the odd such integersthe value y.
+2 4
+x
+
+...
+...
+
+K-1
+x
+
+1 3
+y y
+
+... K-2 K=0
+...
+y
+y
+
+stage 1: The rootfunction fl multipliesthe argumentsof fOby the unit
+u mod K.
+2u
+x
+
+4u
+x
+
+-u
+x
+
+...
+...
+
+u 3u ...
+y y ...
+
+(K-2)u 0
+y
+y
+
+stage 2: f2 is definedon even argumentsmod 2K, replacingu mod K in
+the root functionby v=2u mod 2K. (E.g: if K=7 and u=5 mod 7
+then v=10 mod 14.)
+2v 4v ... -v
+v 3v ... (K-2)v 0
+x
+x
+x ...
+y
+y
+y y ...
+stage 3: for each even argument mod 2K in stage 2, assign the odd
+j
+argumentl+j the antitheticf2-value (opposite to j's value).
+2v
+
+4v
+1+2v
+
+x
+
+-v
+...
+Iv
+3v
+...
+(K-2)v 0
+1+4v...
+1-v
+1+3v ...
+1-2v 1
+l+v
+
+x
+y
+
+...
+y
+
+x
+...
+
+y
+y
+
+...
+
+y
+x
+
+x
+
+y
+...
+
+y
+x
+
+x
+
+Example 15
+tion fO,has (K- 1)/2 arguments
+with x-values and (K+1)/2 arguments
+with
+it assumes the value y exactly one more time, than it assumes
+y-values;
+the value x.
+Stage 2 of example 15 keeps the functionvalues from stage 1 as they
+lie; it replaces the numberu mod K by the numberv=2u mod 2K. (For
+example:if K is 7 and u is 5 mod 7, v is 10 mod 14.) This process begins
+to constructa new function f2 mod 2K. The even argumentsfor f2 are
+here listed as consecutive multiples of the number 2v mod 2K. Arguments on the list <FROM2v TO -v STEP 2v> have x-values; arguments
+on the list <FROM v TO 0 STEP 2v> have y-values. f2 is not yet
+completely defined: we know its values so far only for even arguments
+mod 2K.
+Stage 3 of example 15 finishes the definitionof function f2, by providing its argumentsfor odd values mod 2K. For each even argument
+j
+mod 2K, the odd argumentl+j is assigned the "antithetic"
+value, from
+the value assigned at argumentj. That is, f2(l+j) is defined as y or x,
+accordingto whetherf2(j) is x or y respectively.
+199
+
+stage 0: fO assigns the even integers,between 1 and 7 inclusive, the
+value x; it assigns the odd such integersthe value y.
+2 4 6
+1 3 5 7=0
+x x x
+y y y
+y
+stage 1: The rootfunction fl multipliesthe argumentsof fO by the unit
+u=5 mod K=7. (3, 6, 2, 5, 1, 4, and Oare respectively5 times
+2,4,6, 1, 3, 5, and 0 mod 7.)
+3 6 2
+5 1 4 7=0
+x x x
+y y y
+y
+stage 2: f2 is definedon even argumentsmod 2K=14, replacing5 mod
+7 in the root functionby 10 mod 14. All argumentnumbers
+mod 7 in stage 1 get multipliedby 2 mod 14 in stage 2.
+6 12 4
+10 2 8 14=0
+x
+x x I
+y
+yy y
+stage 3: for each even argument mod 14 in stage 2, assign the odd
+j
+argument1+j the antitheticf2-value (opposite to j's value).
+4
+12
+2
+6
+10
+8
+0
+11
+1
+7
+13
+9
+5
+3
+x
+x
+x
+y
+y
+y
+y
+x
+x
+x
+x
+y
+y
+y
+Example 16
+THEOREM6.1: f2, as defined at stage 3 of example 15, is a Cohn
+function. It Cohn-flips, specifically, at arguments0-and-l, and it also
+Cohn-flipsat argumentsv-and-(l+v).
+For example, let us take K=7 and u = 5 mod 7, so thatv = 10 mod 14.
+Stages 0 through3 of example 16 thenprovideus with the antithesis-type
+Cohn functionf2 mod 14 displayedat stage 3. We can write out f2 in the
+conventionalnotationused earlier,as (yx yx xy xy yx yx xy). The blanks
+here have no mathematicalsignificance;they are only used to isolate the
+antithesis-pairsat even-and-succesive-oddargumentsmod 14. By our
+construction,the Cohn functionf2 will Cohn-flipat arguments
+O-and-1,
+and also at argumentsv-and-(l+v), i.e. at arguments10-and-1l. We can
+check that out by inspection: (xy yx xy xy yx yx xy) retrograde-rotates
+into (yx yx xy xy yx yx xy) ; while (yx yx xy xy yx xy xy) retrograderotatesinto (yx yx xy xy yx yx xy).
+
+200
+
+Part 7: antithesis-palindrome type Cohn functions.
+Let us consider the function f2 just discussed in connection with
+example 16 at the end of Part 6 above. If P is any palindromeof any
+length, involving any symbols whatsoever,the pertinentadjacent-argument exchanges and retrograde-rotation
+behavior of f2 will not be
+changed in essence, should we insert the string P between successive
+Thatis, the functionf3 = (yx P yx P xy P xy P yx P yx P
+antithesis-pairs.
+xy P) will be a Cohn function. By inspection:(xy P yx P xy P xy P yx P
+into
+yx P xy P) retrograde-rotates (yx P yx P xy P xy P yx P yx P xy P);
+while (yx P yx P xy P xy P yx P xy P xy P) retrograde-rotates (yx P
+into
+yx P xy P xy P yx P yx P xy P).
+If the palindromeis of length L, then the expressionabove articulates
+into segmentsof length 2+L, each segmentconsisting eitherof "xy P" or
+of "yx P."There will be K such segments. So the "N" of the enlarged
+function"modN" will be K times 2+L.
+The idea is intuitivelyclear enough. Workingout the specifics of the
+involved is a bit fussy. The niceties will be handledin
+number-juggling
+this partof the presentessay.
+We startwith an odd numberK and a unit u mod K, as before. Let P
+be any palindrome; L be its length. If L=O(so the palindromeis null),
+let
+we have the case just discussed in Part6 above, so we shall supposehere
+that L is 1 or greater.If L is 1, we shall denote the sole symbol of the
+palindromeby p . If L is 2 or more, we shall use the symbols p1, p2, ...
+to denote the successive symbols of the palindromeP = p p2 ... p(L-l)
+pL, so that pl=pL, p2=p(L-l) and so forth. Let J = 2+L. Let N be K
+times J.
+Stages 0 and 1 of example 17 proceedexactly as did stages 0 and 1 for
+example 15 earlier.At stage 2, where example 15 replaced u by v=2u
+mod 2K, example 17 more generally replaces u by v=Ju mod JK. This
+amountsto multiplyingall the argument
+numbersmod K of stage 1 by J,
+to obtainthe argumentsmod JK listed in stage 2.
+At stage 2, the function f2 is defined only for those argumentsmod
+N=JK thatare multiplesof J. Stage 3, like stage 3 of example 15, assigns
+"antithesis"values to f2 for those argumentsmod N that are 1-morethan-some-multiple-of-J.
+We have yet to assign f2-values to argumentsmod N that are neither
+multiples of J, nor 1 more than multiples of J. Stage 4 of example 17
+assigns such values. "smoJ"stands for "some multiple of J."Thus if a
+numbermod N is (smoJ)+0, its f2-value has already been assigned at
+stage 3. The same is the case for a numberthatis (smoJ)+l. If a number
+n is (smoJ)+2 (i.e. 2 more than some multipleof J), stage 4 assigns f2(n)
+the value p , wherep is the firstsymbol of the palindromeP. Since P is
+a palindrome,pl is the same symbol as pL, the last symbol of the palin201
+
+stage 0: fO assigns the even integers,between 1 and K inclusive, the
+value x; it assigns the odd such integersthe value y.
+2 4 ... K1 3 ... K-2 K=0
+x x ...
+x
+y
+y y ...
+y
+stage 1: The rootfunction fl multipliesthe argumentsof fO by the unit
+u mod K.
+2u 4u ... u 3u ... (K-2)u 0
+x x ...
+x
+y
+y
+y
+y ...
+stage 2: f2 is definedon argumentsthat are multiplesof J mod JK,
+replacingu mod K in the root functionby v=Ju mod JK. (E.g:
+if K=7 and u=5 mod 7 and J=10, then v=50 mod 70.)
+2v 4v ... -v
+v 3v ... (K-2)v 0
+x
+x ...
+x I y
+y ...
+y
+y
+stage 3: for each argumentn mod JK in stage 2, assign the argument
+1+n the antitheticf2-value (opposite to n's value).
+2v
+4v
+... -v
+v
+3v
+... (K-2)v
+0
+l+2v
+l+4v ... 1-v l+v l+3v ...
+1-2v 1
+x
+
+x
+
+y
+
+...x
+
+y
+
+...
+
+y
+
+y
+
+x
+
+...
+
+y
+
+...
+
+y
+
+x
+
+yx
+
+stage 4: "smoJ"means "some multipleof J." The palindromeP, of
+length L = J-2, has symbols p (= pL), p2 (= p(L-l)),....
+p(L-l) (= p2), and pL (= pl).
+if the numbermod N is
+the f2-value thereis
++0
+as assigned in stage 3
+(smoJ)
+as assigned in stage 3
+(smoJ) + 1
+pl (=pL)
+(smoJ)+ 2
+(smoJ) + 3
+p2 (=p(L-l))
+
+(smoJ) + (J-2)
+(smoJ) + (J-1)
+
+p(L-l) (= p2)
+p(L) (= p )
+Example 17
+
+202
+
+drome.The fact is noted on the visual display for stage 4. If a numbern
+is (smoJ)+3 (i.e. 3 more than some multiple of J, should there be any
+such), stage 4 assigns f2(n) the value p2, where p2 is the second symbol
+of the palindromeP. Since P is a palindrome,p2 is the same symbol as
+p(L-1), the penultimatesymbol of the palindrome.The fact is noted on
+the visual displayfor stage 4. And so forth:if a numbern is (smoJ)+(r+
+1),
+where the integerr is between 1 andL inclusive, stage 4 assigns f2(n) the
+value pr, the r-th symbol of the palindrome.Since P is a palindrome,pr
+is the same symbol as p(L+1-r).
+We see from the visual display that an argumentmod N which is
+(smoJ)+2 is assigned the same f2-value, as is an argumentwhich is
+(smoJ)+(J-l); an argumentwhich is (smoJ)+3 (should there be any) is
+assigned the same f2-value, as an argumentwhich is (smoJ)+(J-2);and
+so forth.
+THEOREM7.1: f2, as fully defined at stage 4, is a Cohn function. It
+Cohn-flipsat arguments0-and-1; it also Cohn-flipsat argumentsv-and(1+v).
+The proof is not given.
+The function f2, with values as at stage 4 of example 17, can be constructedfor any N, with a free choice of unit u mod K, providedonly that
+K be an odd divisor of N (greaterthan 1). The function can thereforebe
+constructedfor any N which has a properodd divisor,which is to say for
+any N that is neithera power of 2 nor a prime number.
+Example 18 providesa specific case of the generic structure.
+Stages 0
+and 1 copy over the same stages from example 16, taking K=7 and u=5
+mod 7. Now we takea palindromeP of lengthL=4 -let's give it the symbols pqqp.Then J = L+2 = 6, and N = JK = 42.
+Stage 2 of example 18 multipliesthe numbersmod 7 of stage 1 by J=6
+mod 42. Stage 3 thus assigns f2-values to all numbersthatare some multiple of 6 (smo6) mod 42. Stage 3 then assigns f2-values to all numbers
+that are (smo6)+1 mod 42. If n is smo6 mod 42, stage 3 assigns 1+n the
+f2-value antitheticto n's value.
+Stage 4 of example 18 completes the assignment of f2-values by
+assigning numbers that are (smo6)+2, or (smo6)+3, or (smo6)+4, or
+(smo6)+5, the f2-values p or q or q or p respectively,i.e. the consecutive
+symbols of the palindromep q q p. On the lower right side of stage 4, the
+palindromecan be read downwards.
+All the values of f2, for every argumentmod 42, can now be readoff
+in
+notastages 3 and4 of example 18. f2 can be represented our standard
+tion by (yx pqqp yx pqqp xy pqqp xy pqqp yx pqqp yx pqqp xy pqqp).
+As earlier,the blanksin the notationhave no mathematicalsignificance;
+they are only there to articulatein the visual layout the antithesis-cumpalindromestructuring.
+203
+
+stage 0: fO assigns the even integers,between 1 and 7 inclusive, the
+value x; it assigns the odd such integersthe value y.
+2 4 6
+1 3 5 7=0
+x x x I y y y
+y
+stage 1: The rootfunction fl multipliesthe argumentsof fOby the unit
+u=5 mod K=7. (3, 6, 2, 5, 1, 4, and Oare respectively5 times
+2,4,6, 1, 3, 5, and Omod 7.)
+3 6 2
+5 1 4 7=0
+x x x I y
+y
+y y
+stage 2: f2 is definedon argumentsthat are some multipleof J=6 mod
+42, replacingu=5 mod 7 in the root functionby Ju=30 mod 42.
+All argumentnumbersmod 7 in stage 1 get multipliedby 6
+mod 42 in stage 2.
+18 36 12 30 6 24 42=0
+x
+x
+x I
+y
+yy
+stage 3: for each argumentn thatis some multipleof 6 (smo6) mod 42
+in stage 2, assign the argument1+n, thatis (smo6)+1, the antithetic f2-value (opposite to n's value).
+18
+12
+36
+30
+6 24
+0
+37
+19
+13
+31
+7
+1
+25
+x xx
+y
+y
+y
+y
+x
+x
+x
+x
+y
+y
+y
+stage 4: "smo6"means "some multiple of 6." The palindromeP, of
+length 4 = J-2, has consecutive symbols p, q, q, and p.
+if the numbermod 42 is
+the f2-value thereis
+as assigned in stage 3
+(smo6) + 0
+as assigned in stage 3
+(smo6) + 1
+(smo6) + 2
+p
+q
+(smo6) + 3
+q
+(smo6) + 4
+(smo6) +5
+p
+Example 18
+
+204
+
+Part 8: The above types of Cohn function are exhaustive.
+We have now explored several generic sorts of Cohn functions (that
+0
+Cohn flip at arguments and 1). In Parts4 and 5 we exploredtwo-valued
+and three-valuedgenerator-typeCohn functios. In Part 7 we explored
+type Cohn functions, a species that subsumesthe
+antithesis-palindrome
+functionsof Part6 as special cases.
+The following fact is true:Any Cohn function must be eitherof generator type (two-valued or three-valued),or of antithesis-palindrome
+type. We have thereforenow constructedgeneric examples for all possible types of Cohn functions.
+There will be no formal proof of that fact here-as I statedearlier,I
+am eschewing such proofs in this paper,to conserve space and to avoid
+wearying readers who have limited tolerance for formal mathematical
+prose. Still, it will be useful to breakthe assertiondown into two more
+specific theorems.
+THEOREM8.1: Let f be a Cohn function mod N that Cohn-flipsat
+arguments0-and-l, and that also Cohn-flipsat argumentsG-and-(1+G).
+Cohn
+Suppose that G is a generatormod N. Then f is a generator-type
+function,as specifically constructedin Parts4 and 5 earlier.If N is even,
+f must be two-valued.If N is odd, f may be two-valuedor three-valued.
+THEOREM8.2: Let f be a Cohn function mod N that Cohn-flipsat
+arguments0-and-1, and that also Cohn-flips at argumentsv-and-(l+v).
+Suppose that v is not a generatormod N. Then f is an antithesis-palindrome type Cohn function, as specifically constructedin Part 7 earlier.
+The numberK of that constructionis the orderof v-defined earlieras
+the smallest positive integer satisfying Kv=0 mod N. (Since v is not a
+generator,K will be strictly less than N.) K must be odd. K divides N
+properly,and the multiples of v, mod N, are exactly the multiples of J
+mod N, whereJ = (N/K). ShouldJ be greaterthan2, thenthereis a palindrome P, of length J-2, such thatconsecutive values of f at kv+2, kv+3,
+.... kv+(J-2), and kv+(J-l) are the consecutive symbols of the palindrome-k being any integer from 0 to K-1 inclusive. The numberu =
+(v/J) mod K is a unit mod K, and the stages of example 18 can be read
+backwards,to arriveat the root function fl mod K, and thence to arrive
+at the underlyingfunctionfOmod K, which simply assigns the value f(l)
+to the even integersmod K, from 2 to K- inclusive, and the value f(0) to
+the odd integersmod K, from 1 to K=0 inclusive.
+The theoremsare given withoutproof.8
+Part 9: Some directions for further work (I)
+One way of expandingthe precedingwork would be to study "order
+w" Cohn-flippingof functionsmod N, where w is some numbermod N.
+205
+
+holding {F,G#};moving B and D# by semitones:
+F G# B D#
+F G# B D#
+F G# C D
+F G# B6D
+moving F and Dt by semitones:
+holding {GC,B};
+F G# B D#
+F G# B Dl
+E G# B D
+F#G# B D
+holding {F,B}; moving G#and D# by semitones:
+F G#B D#
+F G#B D#
+FGBD
+FABD
+holding {B,D#}; moving F and G#by semitones:
+F G# B D#
+F#A B D#
+holding {D#,F};moving G#and B by semitones:
+F G# B D#
+F A CD#
+holding {G#,D#};moving F and B by semitones:
+F G# B D#
+F G# B#D
+Example 19
+A function has an "orderw Cohn flip" at argumentsQ-and-(w+Q)if an
+exchange of distinct(NB) functionvalues at those two w-separated(NB)
+of
+argumentsgives a rotatedretrograde the originalfunction.A function
+is an "orderw Cohn function"if it can be orderw Cohn-flippedin two
+differentways.
+If w is a unit mod N, then the orderw Cohn functions are simply the
+of
+"circle of w transforms" ordinary(order 1) Cohn functions.The situation istrickier if w is not a unit mod N, but the mattermay still be studied by techniquessimilarto those used to performthe constructionsand
+prove the theoremsof Parts4 through8 above.
+Another way of expanding the work arises from Douthett's voluminous but as yet unpublishedwork on various pcset relationshipssuggested by Cohn's originalwork.We can say thatpcsets X andY arein the
+"Douthettrelationof degree 1" (DOUTH1) if Y can be obtainedby discardingsome memberpitch class x of X, and then picking up some new
+pitch class y one semitone away from the discardedx.9 X is then a Cohn
+206
+
+set if it is in the DOUTH relationto two distinctinvertedforms of itself.
+According to Theorem4.9, X is in the DOUTH1 relationto some properly transposedform of itself if, and only if, it is a Cohn set arisingfrom
+some two-valuedgenerator-type
+Cohn function.
+Douthett studied many generalizations of the DOUTH1 idea. For
+instance, we can say thatpcsets X andY are in the "Douthettrelationof
+degree 2" (DOUTH2) if Y can be obtained by discardingtwo member
+pitch classes xl and x2 of X, and then picking up two new pitch classes
+yl and y2, where yl lies one semitone away from the discardedxl and
+y2 lies one semitone away from the discarded x2. In general, we can
+study Douthett relations of arbitrarilyhigh degree D, within suitably
+large "scales"mod N. But DOUTH2 is alreadyof ample interest,in the
+mod 12 context;it warrants
+extendedstudyin its own right.For instance,
+as Douthett points out in privatecorrespondence,any pcset forming a
+Tristan Chord or a dominant-seventhchord has a vast panoply of
+DOUTH2-relationswith transposedand invertedforms of itself. Example 19 illustratesthese, startingfrom the chord {F,G#,B,D#}.
+As we see from the left-hand column, the chord is in DOUTH2relation with its own transpositionsat levels T3, T6, and T9, pivoting
+aboutits own ic3 and ic6 dyads.10Aswe see from the right-hand
+column,
+the chord is also in DOUTH2-relationwith six of its inverted forms,
+chordsbuilt on F, G#,B, E, G, and B.11
+namely the dominant-seventh
+Douthett is particularlyinterestedin features of the abstractgraphs
+generatedby such transitional
+possibilities. Beyond abstractgraphs,contextual graphsthat arise from specific passages can be of analytic interest. Let us consider, for instance, those Tristanand dominant-seventh
+chords that occur withing the first three phrasesof Tristan.They can be
+listed as follows.
+Chord 1: {F,B,D#,G#}
+Chord2: {E,G#,D,B}
+Chord3: {G#,D,F#,B)
+Chord4: {G,B,F,D}
+Chord5: {C,F,A6,D}
+Chord6: {B,D#,A,F#}.
+The following DOUTH2-relationships
+obtain.
+Chord 1 to any of Chords2,3,4,5,6; and vice-versa.
+Chord2 to Chords4 and 5; and vice-versa.
+Chord3 to Chords4,5, and 6; and vice-versa.
+Chord4 to Chord5; and vice-versa.
+In this scheme, Chord1, which is afterall the TristanChord,has a special and unique position: it is DOUTH2-relatedto all five of the other
+207
+
+Stage 2
+1
+l\
+o
+2
+symmetry
+(12)
+
+Stage 3
+1
+1
+o
+3 2
+symmetry
+(23)
+
+Stage 4
+1-4
+1-4
+\/
+3
+
+2
+
+symm. p
+or p(23)
+p any perm
+on{l1,4}
+
+Stage 5
+/-\
+1-4-5
+\ A\ /
+3
+
+2
+
+or p(2
+or p(23)
+p any perm
+on {1,4,5)
+
+Stage 6
+1-4-5
+I/
+32
+only symnm
+remaining
+is (45)
+
+Example20
+Chords.Chord2 has threeDOUTH2-links(to Chords1,4,5); Chords3,4,
+and 5 each have four DOUTH2-links.Chord6 is also special and unique
+in that it has the fewest numberof DOUTH2-links in the context; it is
+linkedonly to Chords 1 and 3. The two most "tonallyfunctional"Chords
+of the passage, Chords 2 and 6, thus have the fewest DOUTH2-links
+(threeand two respectively).
+Example 20 presents a suggestive way of "unfolding"the various
+DOUTH2links over five successive temporalstages. The numberson the
+example standfor theirrespectiveChords;lines connect Chordsthat are
+in the DOUTH2 relation.
+At Stage 2 (afterwe hearChord2), thereis a perfectgraphicsymmeof
+try:the line-structure the graphis not affectedif nodes 1 and 2 arepermuted.At Stage 3 (afterwe hearChord3), the symmetryof nodes 1 and
+2 is destroyed, while a new symmetry arises: the line-structureof the
+graphis not affected if nodes 2 and 3 are permuted,but other permutations of the nodes would change the graphicstructure.
+(Forinstance,permutingnodes 1 and 2 would removethe line between node 1 and node 3,
+and would introducea line between node 2 and node 3.) Stage 4 preserves and amplifies the (23) symmetry.It introducesa new symmetry
+between nodes 1 and 4. If p is any permutation the symbols 1 and 4,
+on
+then p and p(23) are symmetries of the graph. Stage 5 preserves and
+of
+amplifiesthese symmetries:the line-structure the Stage 5 graphis preservedby permutations and p(23) if p is any permutation the sybols
+on
+p
+1,4, and 5. Stage 6, which stronglypreparesa tonal cadence, spectacularly disrupts the highly symmetrical structureof the Stage 5 graph,
+along with the process of amplifying symmetry.At Stage 6, no symmetries remainexcept for (45).
+Similar sorts of analytic commentarycan be producedfor other suitable Wagnerian
+passages. The curiousreadermay constructsuch a comas practice,for the openingof the ImmolationScene (startingat
+mentary,
+208
+
+"Molto largamentee piu lento"), where the following pertinentChords
+are heard.
+Chord 1:A CEG
+Chord2: BDD; F G
+Chord3: Bl C E G
+Chord4: BbDbF Al
+Chord5: BB EJG
+D
+Chord6: B C#E G
+Chord7: B C#E#G
+Chord7, afterbeing presentedin the above DOUTH2 context, is then
+treated as a functional dominant of F# major, "resolving"to the Fire
+motive in that key. The readerwho works out the exercise will find that
+the highly asymmetricalgraphat Stage 7 shattersthe highly symmetical
+graphat Stage 6, very much as the final stage of the Tristananalysisproduced a relativelyasymmetricalgraphthat shattereda highly symmetrical graph at the penultimateStage there. In both cases the final Stages
+dominants" that
+in
+preparebig tonal cadences, soundinglike "functional
+connection.12
+
+An interestingcomplex of DOUTH2-likerelationships
+involvesforms
+of the hexachord023468, a hexachordmuch used by Schoenberg-e.g.
+in the WindQuintet,in VonHeute aufMorgen, and in the Violin Fantasy.
+Insteadof DOUTH2 itself, we wantto invokehere the analogousrelation
+thatinvolves fouths-or-fifths
+insteadof semitones, thatis DOUTH2 subtransformation. shall call the new relaWe
+jected to the "circle-of-fifths"
+tion DOUTHCF2. Sets X and Y are in the DOUTHCF2relation if one
+can discardpitchclasses xl andx2 fromX, andpick up new pitchclasses
+yl and y2 to formY, in such a way thatyl is a fourthor fifthfromxl, and
+y2 is a fourthor fifth from x2.
+So, in example 21(a), the hexachordH = 023468 is in the relationto
+its 2-transposeH2. As suggestedby the verticalunderlayof the example,
+we can discardpcs 0 and 3 from H, and pick up new pcs 5 (a fifth away
+from pc 0) and t (a fifth away from pc 3), so as to obtain H2. In similar
+with H4, and H4 with H6, and so
+fashion, H2 is in DOUTHCF2-relation
+on. As one reads down the list of example 21(a), one passes througha
+complete T2-cycle of hexachordforms. This cycle is similarin structure
+to a Cohn cycle.
+We are not yet throughwith example 21(a). It enables us to see thatH
+is in the DOUTHCF2 relation with every one of its evenly-transposed
+forms. Forinstance,comparethe H rankof the matrixto the H4 rank.We
+see thatH4 can be obtainedfrom H if we discardpcs 2 and 3 from H and
+pick up new pcs 7 and 8, a fifth away frompcs 2 and 3 respectively.Likewise we can obtainH6 from H if we discardpcs 3 and4 from H andpick
+209
+
+H:0
+H2: 5
+H4: 0
+H6: 0
+H8: 0
+Ht: 0
+(andbacktoH: 0
+
+(a)
+
+(b)
+
+H: 023468
+hO: 09t468
+
+23
+2 t
+7 t
+2 t
+2 t
+2 t
+2 3
+
+46
+46
+46
+96
+4e
+46
+4 6
+
+8
+8
+8
+8
+8
+1
+8)
+
+H: 023468
+h2: 02te68
+
+H: 023468
+h4: 02t 148
+
+H: 023468
+ht: 72t468
+
+(c)
+
+H: 023468
+discard3; pick up t: 02 t 468
+discard8; pick up 3 again:02 t463, obtainingh6.
+
+(d)
+
+H: 023468
+discard3; pick up t: 02 t468
+discardt; pick up 5: 025468, obtainingh8.
+Example 21
+
+up new pcs t and 9, a fifth away from pcs 3 and 4 respectively.And so
+forth. So the DOUTHCF2-graph the six forms of the hexachordis a
+for
+is
+complete graph.(Any pairof the hexachord-forms connectedby a line
+on the graph.)
+to
+Example21(b) shows how H is also DOUTHCF2-related fourof its
+invertsH aboutthe pc 0;
+evenly-invertedforms. The invertedform "hO"
+the forms h2, h4, etc. are hOtransposedby T2, T4, etc. respectively.
+It seems a shame thatH is not DOUTHCF2-related, well, to h6 and
+as
+h8. However, we can define an "extendedDOUTHCF2 relation,"EXT
+DOUTHCF2, which will in fact relate H with h6 and h8 as well. The
+extended relation works as follows. Given a pcset X, suppose that the
+algorithmbelow can be executed.
+(i) Discarda memberpc x of X.
+(ii) (If possible,) pick up a fresh pc yl from the "pack"(i.e. the
+complementof X), thatlies a fifth away from the discardedx.
+Call the new pcset Z.
+(iii) Put x back into the "pack"(i.e. the complementof Z, whence it
+might be picked up again at a later stage of the algorithm).
+(iv) Discarda memberpc z of Z. (We allow the possibility of choosing z=yl, of discardingthe pc selected at stage (ii) above.)
+(v) (If possible,) pick up a fresh pc y2 from the "pack"(i.e. the
+210
+
+complementof Z), thatlies a fith away from the discardedz.
+Call the new pcset Y.
+If the algorithmcan be executed successfully, we shall say thatpcsets
+X andY are in the extendedDOUTHCF2relationEXTDOUTHCF2.13
+It is easily verified that DOUTHCF2-relatedsets must be EXT
+DOUTHCF2-related.14 EXTDOUTHCF2 does indeed "extend"
+So
+DOUTHCF2. Furthermore,any pcset X-except for the total chromatic-is EXTDOUTHCF2-related itself.'5
+to
+Example 21(c) now shows us how hexachord H is in the EXT
+DOUTHCF2relationto its evenly-invertedform h6. And example 21(d)
+shows us how H is in the EXTDOUTHCF2relationto its evenly-inverted
+form h8. So H is in the EXTDOUTHCF2 relation to all its evenlyinvertedforms (via example 21 (b)(c)(d)), as well as all its evenly-transposed forms (via example 21(a)).
+I have yet to find a pithy short passage for analysis, from any of
+Schoenberg'svariousworksinvolving hexachordH, thatworksas neatly
+as the Wagneranalyses above. But I am fairly sure that some such passages exist (I should guess most likely in the Wind Quintet).Orpossibly,
+the DOUTHCF2 or EXTDOUTHCF2relations might be suggestive in
+analyzinglargerformalfeaturesof the works, featuresthatmight involve
+a variety of excerpts from temporally non-contiguous locations in the
+music.
+Part 10: Some directions for further work (II)
+Douthett'swork, as I partiallydescribedit and elaboratedit in Part9
+above, is only one direction in which Cohn's orginal impetus can lead
+onward. In the context of the present paper, I want to note that the
+DOUTH2 and othersuch relationsamongpcsets can be studiedand generalizedby using thefunction model I earlierused to study and generalize Cohn's initial ideas aboutpcsets.
+We can specifically extend the notion of a DOUTH2 relationbetween
+pcsets, to a notion of a DOUTH2 relationbetween functions mod N, as
+follows.
+DEFINITION10.1: Let f and f' be functionsmod N. We shall say that
+f and f' are "DOUTH2-related"
+when we can find numbersm and n mod
+N such thatcriteria(a) through(c) below all obtain.
+(a) The four numbersm, m+1, n, and n+1 are all distinctmod N.
+(b) f(m) ne f(m+l); f(n) ne f(n+l).
+(c) f'(m) = f(m+l); f'(m+l) = f(m)
+f'(n)= f(n+l); f'(n+l) = f(n)
+f'(j) = f(j) for all other arguments mod N.
+j
+211
+
+We will then be particularly interested in functions f that are
+DOUTH2-related to various of their rotated ("transposed")and/or
+forms. Such functionscan be investigated
+("inverted")
+rotated-retrograde
+like those used to explore the necessary structureof
+using techniques
+Cohn functions,in the body of this paper.
+The "extendedDOUTH2 relation"can be definedamongfunctionsas
+follows.
+DEFINITION10,2: Let f be a functionmod N. Suppose that the following algorithmcan be executed.
+(a) Find m (if possible) so thatf(m) ne f(m+1).
+(b) Define f'(m) = f(m+l); f'(m+1) = f(m);
+f'(j) = f(j) for all otherj mod N.
+(c) Select n (possibly = m) such that
+f'(n) ne f'(n+l).
+(d) Define f"(n) = f'(n+1); f"(n+1) = f(n);
+f"(j) = f'(j) for all otherj mod N.
+In thatcase, we shall say thatthe functionsf and f" are"EXTDOUTH2related."
+As was the case with the corresponding
+relationsin Part9 above, we
+can show that any pair of functions that is DOUTH2-relatedis also
+EXTDOUTH2-related. (So EXTDOUTH2 does indeed "extend"
+DOUTH2.) And we can show that any function f is necessarily EXT
+DOUTH2-related itself, so long as f has more thanone value.
+to
+We will be particularly interested in functions f that are EXT
+DOUTH2-related to various of their rotated ("transposed")and/or
+forms. Such functionscan be investigated
+("inverted")
+rotated-retrograde
+like those used to explore the necessary structureof
+using techniques
+Cohn functions,in the body of this paper.
+And so forth.ThoughCohn's originalideas, and many of theirextensions by others, are formulatedso as to concernpcsets mod N, much of
+the work can be generalizedso as to pertainto functionsmod N. Instead
+of talkingabouttransposedor invertedpcsets, we then talk aboutrotated
+or rotated-retrograde
+functions. The conceptual focus changes: instead
+of regarding the numbers mod N as objects, either set-theoretic or
+embeddedin a mod N "scale,"we regardthe numbersmod N as orderpositions in a serial context where the "objects"arrangedin series can
+be anything whatsoever-they are now simply the values of functions.
+So far as the formal work is concerned,we need only be able to distinguish situationslike "f(j) = f(j+1)," from situationslike "f(j) ne f(j+1)."
+For the formalwork, we need not concernourselves any more with what
+This leaves the functionsfree to model a greatmany
+f(j) and f(j+1) "are."
+musical phenomena,includingpitch-classphenomenabut also including
+many others.
+212
+
+APPENDIXA
+We provide here a formal proof for Theorem 4.4, which is restated
+below.
+THEOREM4.4: Conditions (a) through(d) below are all logically
+equivalent.Each conditionimplies all the others.
+(a) G is a generatormod N.
+(b) The orderof G, mod N, is N.
+(c) As integers,G and N have no common divisor bigger than 1.
+(d) G is a unit mod N.
+We divide the proof into four sections. First we shall prove that condition (a) implies condition (b). Then we shall provethat (b) implies (c).
+Then we shall prove that (d) implies (a). And finally we shall prove that
+(c) implies (d). These steps entail the completelogical equivalenceof the
+four conditions.
+Proof that(a) implies (b): Let K be the orderof G mod N. K, as noted
+earlier,is eitherequalto N or smallerthanN. The list of G-multiplesmod
+N, after commencing with G,2G,3G,... ,KG=O, cycles around and
+repeatswith (K+1)G = KG+G= G, (K+2)G = KG+2G= 2G, andso forth.
+So the set of G-multiplesmod N comprises at most K distinct numbers
+mod N. By the assumptionof condition (a), K must equal N.
+Proof that (b) implies (c): Let d be a positive whole number that
+divides both G and N. We write N = N'd; G =dG'. Then N'G = N'dG' =
+NG' = 0 mod N. Since N'G = 0 mod N, N' is greaterthanor equal to the
+order of G. But by the assumptionof (b), the order of G is N. So N',
+which divides N, is also greaterthanor equalto N. It follows thatN' must
+equal N, whence d must equal 1.
+Proof that (d) implies (a): Since G is a unit, there is some numberv
+such thatvG=1 mod N. Given any numberjmod N, the numberjvis such
+that (jv)G = j(vG) = j mod N.Thus any numbermod N is some multiple
+of G, as required.
+The proof that (c) implies (d) is the most complex. To prove it, we
+shall firstprove the following lemma.
+LEMMA: Let S be any additive subgroupof the integers (positive,
+negative,and zero).Assume S does not consist of zero alone. Let d be the
+smallest positive numbercontainedin S. Then S comprises exactly the
+variousmultiplesof d.
+Proof of the lemma:Since S containsd, S containsd, d+d, d+d+d,and
+so forth.S, bringa subgroup,also containsthe negativesof all those numbers. So S contains every multiple of d. We must show now that every
+memberof S is a multiple of d. S being a subgroup,it suffices to show
+this for every positive memberof S. Let s be a positive memberof S. Let
+jd be the largestmultipleof d thatis less thanor equal to s. Then s = jd +
+r, where r is some numberlying between 0 and d-1 inclusive. Now s is a
+213
+
+memberof S, andjd-being a multiple of d-is a memberof S. S being
+a subgroup,the numbers-jd is a memberof S. But thatnumberis r. Thus
+r is a memberof S, and r lies between 0 and d-1 inclusive. Since d is the
+smallest positive member of S, then r cannot be positive. Hence r must
+equal 0. And so s = jd. As desired, the sample member s of S is indeed
+some multipleof d.
+We can now proceed to the proof that (c) of 4.1 implies (d) of 4.1.
+Given that G and N have no common divisor bigger than 1, consider the
+family S of integers comprisingthose integers that can be writtenin the
+form jG+kN, where j and k range throughall integers. The sum or difference of any two such integers is such an integer, so S is an additive
+subgroupof integers.S containsboth G (which = 1G+ON)and N (which
+= OG+1N).
+Let d be the smallest positive member of S. Then, according to the
+lemma, S consists precisely of all the multiples of d. So G and N, both
+members of S, are both multiples of d. By the assumptionof condition
+(c), d must equal 1. So 1 is a memberof S.
+That means-according to the way S was defined-that the integer 1
+can be writtenas jG+kN, for some integersj and k. So 1 differs fromjG
+by a multiple of N. Hence jG = 1 mod N. And so G is a unit mod N, as
+asserted.
+
+214
+
+NOTES
+1. Attending symposiumwere NormanCarey,DavidClampitt,
+the
+JohnCloughwho organized event,Richard
+the
+DanielHarrison,
+Martha
+Cohn,JackDouthett,
+DavidLewin,andCharles
+Smith.Someof Cohn'sinitial
+Hyde,CarolKrumhansl,
+ideas have been synopsizedin his articleon "Maximally
+SmoothCycles, Hexatonic Systems,and the Analysisof Late-Romantic
+TriadicProgressions,"
+music
+analysis 15, (March,1996),9-40.
+2. I am gratefulto Cohnfor showingme (in an unpublished
+email letter)how the
+certain
+ideasby
+symbolsa, u, andr can be usedin this way,to represent
+rhythmic
+3-valuedCohnfunctions.
+3. Moritz Hauptmann, Die Natur der Harmonik und der Metrik (Leipzig: Breitkopf
+
+& Hartel,1853).Trans.
+WilliamEdward
+The
+and
+Heathcote, Natureof Harmony
+Da
+Metre,reprinted
+(NewYork: CapoPress, 1989).
+4. The analogous
+triadswouldillustrate,
+graphfor [theinterval-series harmonic
+of]
+in its three differentdirectionalbondings,Riemann'srelationsof our relative
+of
+and
+major/minor, ourparallelmajor/minor, of his Leittonwechsel.
+5. It is no accidentherethat5, whichis one of the "arguments and6,"is the gen5
+erator.
+Morespecifically, generator is the order-interval
+the
+5
+betweenarguments
+at
+0-and-1, and arguments5-and-6, the two adjacent-argument-pairswhich f
+We
+Cohn-flips. shalldiscussthis lateron in generality.
+6. This seems a bit perverse, the assignment y andx valueswill correlate
+but
+of
+betterwiththe structure earlierexamplesfor generator-type
+of
+functions.
+7. fOis a (two-valued
+Cohnfunction.It Cohn-flips arguments
+at
+1generator-type)
+This is not of muchspecialinterestin
+and-2,andalso at arguments
+(K-1)-and-0.
+the present
+constrained its specificconcontext,for fOis muchmoreradically
+by
+struction
+here:It mustbe thespecificfunctiondisplayedin the example.
+8. Thosewho wantto essay theirown proofsfor the theorems advisedto startby
+are
+the
+Let
+modN (notnecessarily Cohn
+a
+proving followinglemma: fbe anyfunction
+function) which Cohn-flipsat argumentsQ-and-(l+Q). (It does not matter
+whether is a generator not.)Let f' be the functiondefinedby f'(Q)=f(l+Q);
+or
+Q
+f'(l+Q)=f(Q); f'(j)=f(j)for all othervaluesof J modN. Thenf'(j) = f(l+2Q-j) for
+all arguments mod N. Thatis, the indexof rotation the pertinent
+for
+rotated-retj
+of
+is
+rogression f, once the valuesf(Q) andf(l+Q) havebeen exchanged, 1+2Q,
+the sumof Q and 1+Q.
+9. The readeris referred the articleon "Pitch-Class
+to
+Poker" LoraGingerich
+in
+by
+the Journal of Music Theory Pedagogy 5.2 (Fall 1991), pp. 161-78, for a prescient
+
+to
+approach thesesortsof ideas in a pedagogical
+setting.
+10.The structural
+involvement the ic3-cyclein this contextvividlyevokesaspects
+of
+of Benjamin Boretz's Meta-Variations: Studies in the Foundations of Musical
+
+Ph.D.dissertation,
+Princeton
+1970.A revisedversionof the
+Thought,
+University,
+dissertation
+of
+appearsin Perspectives New Music, volumes 8-11 (Fall-Winter
+1969 throughSpring-Summer
+to
+1973). Particularly the point are the analytic
+remarks Tristan volume11, number1 (Fall-Winter
+on
+in
+1972), 159-217.
+11.The connection
+withBoretz'sworkis againstriking.
+12.This sort of tensionbewteen"tonal" "atonal"
+and
+meaningsfor the semidiminishedanddominant
+seventhchordsseemsemblematic Wagnerian
+for
+dramaturgy
+from 1858 on. Thereare two worldsin Tristan.
+One is the worldof social and
+215
+
+and
+is
+politicalobligation,
+responsibility, action.In this worldTristan a knight,a
+subjectof King Mark's,a trustedvassaland a relativeon an important
+political
+mission.Isoldeis a Queenaffianced a foreignKingin a politicalarrangement.
+to
+Thedrama
+hereis a drama action,muchin the spiritof Scribe(though
+of
+Wagner
+no doubtpreferred thinkof his modelas Schiller).
+to
+Therearepurposes be fulto
+and
+filled,endsto be attained, peoplemustact to attainthoseends.In this world,
+is
+in
+sense:dissonances
+must
+harmony tonallyfunctional a moreor less traditional
+be explained;
+and
+theymustbe resolvedto one key (end)or another, theypushon
+to do so, achievingteleologicalpurposes. Tristan
+The
+Chord{F,G#,B,D#}, parin
+whichdisrupts tonallyfunctional
+the
+ticular,
+teleology,mustresolvein one key or
+another. triesto resolvein almosteverykey,I shouldsay, somewhere other
+or
+(It
+in the drama.) otherworldof Tristan the worldof passion,of oceanicfeelThe
+is
+the
+betweenTristan Isolde.Thisworld
+and
+ing, of the Liebestod, love relationship
+knowsno politicalor socialobligations purposes; seeksonlyto generate
+or
+it
+itself
+in
+in
+indefinitely all directions.
+Harmony, thisworld,works"atonally,"
+generating
+intervallic
+and
+that
+patterns relationships exfoliateceaselessly.In this harmonic
+into
+Chord
+"resolves" naught
+but
+are
+world,thewould-be
+"keys" whichtheTristan
+or
+of
+of
+neighboring passinginflections theChorditself (orwhatever its T/Iforms
+So
+of
+seventh
+chordat Stage
+maybe locallyprominent). thebehavior thedominant
+6 of example 20, shattering transformational
+the
+symmetriesof Stage 5 as it
+tonalcadence,is allegorically
+in
+emblematic this conpusheson to a functional
+nection.So, likewise,is the behavior the dominant
+of
+seventhchordat Stage7 of
+the ImmolationScene exercise, shattering transformational
+the
+symmetriesof
+tonalcadence.Here,Briinnhilde's
+Stage6 as it pusheson to a functional
+thoughts,
+her
+actionandpurpose.
+havingexplored love relationwith Siegfried,turntoward
+13. Gingerich's
+"Pitch-Class
+Poker"
+seems especiallyprescientin the contextof the
+algorithm.
+=
+14. Takex of the algorithm xl as perthe DOUTHCF2
+take
+criterion; yl according
+=
+to the samecriterion;
+takez of the algorithm x2 as per the DOUTHCF2
+critecriterion.
+rion,andselecty2 as perthe DOUTHCF2
+15. Find x for stage (i) of the algorithm thatsome yl, fifth-related x, is not a
+so
+to
+memberof X. Takethatyl for stage (ii). Then,at stage (iv), discardz=yl. And
+Afterexecutingthe algorithm
+then,at stage(v), pick up x fromthe packas "y2."
+in thatfashion,one endsup withpcsetY the sameas the originalpcsetX.
+
+216
+
+

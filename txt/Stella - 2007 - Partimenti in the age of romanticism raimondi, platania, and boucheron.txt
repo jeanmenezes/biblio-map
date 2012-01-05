@@ -1,0 +1,3639 @@
+Partimenti in the Age of Romanticism
+Raimondi, Platania, and Boucheron
+
+Gaetano Stella
+
+Abstract  The teaching of music composition in Italy during the nineteenth century continued to make great
+use of partimenti. But during the course of the century, partimenti gradually lost their importance as guides to
+improvisation, transforming instead into blueprints for a written-out practice. Prominent musicians and teachers like Pietro Raimondi, Pietro Platania, and Raimondo Boucheron tried to merge the partimento tradition with
+the harmonic and formal innovations of their own era. Raimondi and Platania, significant exponents of the late
+Neapolitan school of composition, searched for innovation from within their own tradition. Boucheron, in Milan,
+deeply influenced by French and German theorists, used partimenti as a medium through which he could introduce
+elements of Romantic harmony. The partimento lessons of all three display not only a musical sophistication that
+merits our attention today, but also an insider’s perspective on issues in nineteenth-century Italian composition.
+
+during the nineteenth century, Italian compositional theory began to
+be deeply influenced by transalpine theories, perceived as more “modern” and more in accord with the ideals of the age of Romanticism. In fact,
+many ­ usicians—and particularly those who were exposed to French and
+m
+(later) German influences—shared the idea that Italian traditional teaching
+methods had become obsolete (Sanguinetti 2005, 456). Nevertheless, partimenti continued to occupy a central position in the professional training of
+many Italian composers. Important musicians and theorists published new
+p
+­ artimento-based works that tried to cope with the problems raised in teaching composition under this new aesthetic regime.
+This altered situation was also reflected in the way that partimenti were
+used. In the eighteenth century, the realization of a partimento was generally
+improvised at the keyboard. The written part of compositional training was
+cultivated under other forms: strict and fugal counterpoint, and free composition expressed through disposizioni and solfeggi.1 Fugue had a significant role as
+
+1  Disposizioni were exercises set in open score for two or
+more voices, and involved imitation and other contrapuntal procedures. Often they were based on a partimento.
+Solfeggi was a short composition, usually for voice and
+
+unfigured bass, and was generally used in teaching as a first
+attempt at free composition. Disposizioni and solfeggi are
+discussed in Gjerdingen 2007 and Sanguinetti 2005.
+
+Journal of Music Theory  51:1, Spring 2007
+DOI 10.1215/00222909-2008-026  © 2009 by Yale University
+
+161
+
+162
+
+J ourna l o f M usi c T h e ory
+
+the capstone of both the unwritten (as fuga-partimento) and the written paths
+of advanced training.
+During the nineteenth century, partimento teaching became more
+and more a written-out practice. At the same time, counterpoint lost its status
+in music pedagogy in favor of harmony, which took on the aura of a quasis
+­ cientific discipline. Partimenti nevertheless remained a central tool in Italian
+musical pedagogy for most of the century, and for decades Fedele Fenaroli’s
+Partimenti (1814) remained the preeminent textbook in the conservatories.
+New editions with added commentary were published in Italy until the first
+decades of the twentieth century, even though Fenaroli’s partimenti were
+grounded in an eighteenth-century concept of tonality (Rosenberg 1995, 198–​​
+209; Sanguinetti, in press).
+The immense fame of Fenaroli during the nineteenth century eventually
+eclipsed that of all other authors, including the great Francesco Durante and
+Leonardo Leo, whose partimenti had never been published. Even so, the old
+custom of eighteenth-century Neapolitan masters to compose new partimenti
+for their students did not entirely disappear. In the early nineteenth century,
+for example, Niccolò Zingarelli, teacher of Saverio Mercadante and Vincenzo
+Bellini, and a well-known opera composer in his own right, published two
+books of partimenti (Zingarelli 1830). His partimenti, written in a conservative style, show hardly any traces of the harmonic novelties being introduced by the rising generation of Italian composers like Gioachino Rossini,
+Gaetano Donizetti, Gaspare Spontini, and of course his own student Bellini.
+Zingarelli’s conservative approach to partimenti was shared by many masters
+from his era. The result was a growing distance between music pedagogy and
+music practice. To remedy this situation, several musicians—from both inside
+and outside the Neapolitan tradition—searched for new ways of using partimenti. Among the first of these, Pietro Raimondi and Pietro Platania tried to
+adapt the old tradition to the new situation. Other musicians, like Raimondo
+Boucheron—who never studied in Naples—used the partimento as a tool for
+introducing to Italy the new methods of the Paris Conservatory.
+Two Late Neapolitan Masters: Pietro Raimondi and Pietro Platania
+Pietro Raimondi
+
+Pietro Raimondi (1786–1853) was one of the most significant figures in the
+nineteenth-century Neapolitan school of composition. He published two
+important collections of partimenti: the Bassi imitati e fugati divisi in tre libri
+(Imitative and Fugal Basses Divided into Three Books, ca. 1830s) and his Nuovo
+genere di scientifica composizione: Andamenti di Basso numerato con una due o tre
+armonie (A New Kind of Scientific Composition: Figured Basses with One, Two, or
+Three Harmonizations, 1852). His best pupil, Pietro Platania (1828–1907), published his own collection of partimenti as the practical part of his Trattato
+d’armonia, seguito da un corso di contrappunto (A Treatise on Harmony Followed by
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+a Course in Counterpoint with Partimenti, 1883). Both men worked to preserve
+Neapolitan traditions, and both wrote partimenti. But they wrote them in a
+new way, differing in some respects from past tradition. Raimondi and Pla­
+tania adopted an ambiguous position. On the one hand, they believed in “scientific” harmony. But on the other hand, they strove to preserve the leading
+role of counterpoint.
+The most unusual aspect of Raimondi’s Nuovo genere di scientifica composizione is that all the partimenti have multiple systems of figures. In fact, every
+bass line is provided with two, or sometimes three, harmonizations of increasing difficulty (Example 1). Other maestros like Gaetano Greco and Saverio
+Mattei had used multiple figures in the eighteenth century, but Raimondi’s
+Nuovo genere is, to my knowledge, the only collection of partimenti that uses
+this procedure consistently.
+Raimondi’s multiple figures, however, are but a written-out manifestation of a much older pedagogic principle that lies at the very heart of all
+Neapolitan teaching practice: the search for multiple solutions to the same
+compositional problem. An excellent example of this practice can be found
+in the counterpoint exercises completed by Vincenzo Lavigna (the teacher of
+Giuseppe Verdi) under the direction of Fenaroli. In these exercises we find an
+almost obsessive search for the largest possible number of alternative settings
+for the same pattern, whether a cadence, a scale, or a disposizione (Sanguinetti in press). Interestingly, Raimondi—unlike most of his contemporaries—
+included a significant number of partimento fugues in his collection, following a formal scheme that stretches back to Nicola Sala and Giacomo Tritto
+(Stella 2006).2
+This fugue tradition would be further developed by Platania in his Corso
+completo di fughe e canoni di ogni genere (Complete Course of Fugue and Canons of All
+Types, 1871). Platania, however, completely omits the partimento fugue and
+replaces it with a new format developed by his master Raimondi: basso imitato e fugato (imitative and fugal bass). The formal scheme used by Raimondi
+and Platania is outlined in Table 1. The main feature of this kind of fugue is
+that, following the exposition, one avoids the key of the dominant. From a
+formal point of view, the most significant harmonic degree becomes the subdominant. The formal scheme of this fugue includes two sections that do not
+appear in other traditions. They were called imitazione and modulazione. Both
+are sections that connect thematic statements (see Example 2). The imitazione
+consists of a nonmodulating sequence that makes use of imitative entries. The
+modulazione, on the contrary, is a connecting section that modulates without
+2  This formal scheme, however, was not the only one
+used in the Naples conservatories. In fact, Sala and Tritto
+followed the school of Leonardo Leo (they were called
+“Leisti”), while another school followed Francesco Durante
+(the “Durantisti”). On the controversy between “Leisti” and
+“Durantisti, see Rosenberg 1999.
+”
+
+163
+
+JMT 51:1 149-3 Stella ex. 1
+164
+
+J ourna l o f M usi c T h e ory
+
+$Ý
+
+Lezione 1
+
+/ Łý Ł Ł Ł ð
+0
+3
+5
+8
+
+6
+4
+
+Ý / Łý Ł Ł Ł ð
+0
+
+Lezione 2
+
+3
+8
+5
+
+6
+4
+
+3
+8
+5
+
+6
+
+ðý
+5
+
+²5
+
+3
+6
+
+Ý ðý
+7
+5
+
+%
+
+8
+
+3
+
+Ł
+
+Ł ðý
+6
+3
+
+ð
+
+5
+6
+
+3
+5
+
+ð
+
+Ł −Ł Ł Ł
+
+8
+3
+
+6
+
+8
+3
+
+²3
+
+²2
+
+4
+2
+
+4
+
+4
+
+4
+−3
+
+6
+
+6
+
+5
+
+¦3
+
+6
+
+−5
+3
+
+²6
+−5
+
+6
+5
+
+5
+
+6
+
+6
+3
+
+5
+
+3
+
+6
+
+ð
+9
+
+4
+
+6
+
+8
+
+²5
+
+²
+
+−
+
+ðý
+
+4
+
+6
+3
+
+−3
+
+Ł
+
+ðý
+
+²6
+
+8
+
+²3
+
+3
+
+Ł
+
+5
+
+ð
+
+3
+6
+
+3
+
+²4
+
+Ł
+
+ð
+
+ðý
+
+²6
+−5
+
+4
+3
+
+²6
+
+−
+¦3
+
+6
+
+5
+4
+
+Ł
+
+ð
+
+¼
+
+3 4
+8 7 6
+
+Ł
+
+ð
+
+¼
+
+Ł
+
+ð
+
+¼
+
+6
+4
+
+ð
+6
+
+8
+6
+
+6
+3
+
+2
+4
+
+²3
+
+5
+
+5
+
+6
+3
+
+6
+3
+
+4
+2
+
+ð
+
+−3
+
+4
+2
+
+Ł Ł Ł Ł
+
+²6
+
+6
+3
+
+3
+
+Ł Ł Ł Ł
+
+8
+
+ð
+
+¦5
+
+6
+
+−3
+
+ð
+
+ðý
+ðý
+
+²5
+
+Ł Ł Ł Ł
+
+8
+
+2
+
+ðý
+
+ð
+
+ð
+
+¼
+
+3
+
+Ł −Ł Ł Ł
+
+2
+
+²3
+
+¼
+
+3
+
+Ł
+
+6
+
+3
+
+¼
+
+ð
+
+6
+5
+
+Ł
+
+8
+
+²3
+
+3
+
+Ł
+
+5
+
+6
+3
+
+ð
+
+6
+
+−5
+
+5
+
+6
+3
+8
+
+5
+
+Ł ðý
+
+ð
+
+Ł
+
+²3
+
+7
+3
+
+Ł −Ł Ł Ł
+
+8
+5
+
+[missing]
+
+7
+
+9
+3
+
+Ł
+
+3
+
+6
+
+ð
+
+Ý ðý
+Ý ðý
+
+Ł
+
+5
+
+11
+
+²5
+
+8
+3
+
+3
+
+¦6
+
+3
+
+5
+
+Ł
+Ł
+
+5
+3
+
+²6
+
+7
+
+5
+4
+
+¦3
+
+6
+
+6
+4
+
+Ý ðý
+
+$Ý ý
+ð
+
+%
+
+3
+5
+
+Ý / Łý Ł Ł Ł ð
+% 0
+
+Lezione 3
+
+$Ý
+
+5
+3
+
+Ł ðý
+
+6
+4
+
+5
+3
+
+3
+5
+
+3
+
+8
+3
+
+Example 1.  Raimondi, Nuovo genere di scientifica composizione (1852), book 2, the beginning
+of lessons 1, 2, and 3; set in score format by this author
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+165
+
+Table 1.  The formal scheme of a typical fugue by Sala
+
+Subject sections		
+
+Free sections
+
+→	
+Modulation and/or imitation
+
+Exposition	
+
+or modulated imitation if the
+counterexposition begins from
+the answer or any way from
+the dominant
+Counterexposition (not mandatory)	
+Middle entry at the IV del Tono	
+Augmented subject with the
+inversion at the distance of a
+12th or, in a few cases, a 10th
+(again in the main key)	
+
+→	
+→	
+
+Imitation or modulation
+Imitation (and/or modulation)
+
+Stretti (always in the main key)	
+
+→	
+Imitation or modulation
+→	Each stretto is followed by an
+
+	
+
+↓
+
+imitation or modulation
+Canon, pedal point (not mandatory), final cadence
+
+↓
+
+	
+
+Coda (few bars; normally is not an independent section)
+
+JMT 51:1 149-3 Stella ex. 2a
+
+(a)
+
+Ð
+− ½ ð ý Ł Ł Ł Ł Ł Ł ðý Ł Ł Ł Ł Ł ð ý Ł Ł
+Ł Ł ŁŁŁ Ł Ł ŁŁ
+Ł
+š ·ð
+Ý −· ð ý Ł Ł Ł Ł Ł Ł ð ý Ł Ł Ł Ł Ł ð ý Ł Ł
+Ł Ł ŁŁ ðý Ł Ł Ł Ł ŁŁ Ð
+Ł
+JMT 51:1 149-3 Stella ex. 2b
+
+!
+
+(b)
+
+!
+
+Imitazione
+
+Ł ŁŁŁÐ
+ð
+− Ð ð ð Ð Ł Ł ð Ł Ł ð ý Ł Ł Ł Ł ¦Ł Ð
+š ð
+Ý − Ð ðý Ł ð ð ð ð ð −ð Ł Ł Ł Ł ð ð Ł Ł Ł Ł ¦ ð ð Ł −Ł Ł Ł Ð
+Modulazioni
+
+Example 2.  Platania, Corso completo di fughe e canoni di ogni genere (1871), Fugue no. 5.
+(a) Imitation. (b) Modulation
+
+J ourna l o f M usi c T h e ory
+
+166
+
+making use of imitations. Very rarely are imitation and modulation joined
+together. If they were, the passage would be called “modulating imitation”
+(imitazione modulata, Sala 1794).
+Example 3 shows the application of this formal scheme to a partimento
+fugue by Raimondi. He follows its outline quite closely, except for the position
+of the canon that precedes, rather than follows, the stretto.
+The second 1 of 2
+JMT 51:1 149-3 Stella ex. 3 p.partimento treatise written by Raimondi was entirely devoted
+to the already mentioned basso imitato e fugato, which gradually took the place
+
+Exposition
+Allegro
+Ł Ł Ł ¦ Ł Ł Ł −Ł Ł
+ŁŁ Ł
+Ł Ł Ł Ł Ł Ł Ł ¦Ł
+Ý − ‡ ¼ š Ł Ł Ł Ł ð Ł Ł ð Ł Ł Ł ð ýŁ
+¹
+Ł Ł
+Ł Ł Ł Ł Ł ¦ Ł ð ý Ł Ł −Ł Ł Ł ² Ł
+ŁŁ
+š
+ÿ
+
+Ł Ł ²Ł Ł Ł ¦Ł Ł
+Ł ¦Ł Ł Ý
+ŁŁ Ł
+− ð Ł Ł ð Ł Ł Ł ðý Ł
+Ł ŁŁ
+¹
+Ł Ł ŁŁ ð
+Ł Ł Ł Ł Ł ²Ł ¦ ð ý Ł Ł ¦ Ł Ł Ł ²Ł
+Ł ¦Ł
+š
+
+7
+
+²
+¦
+Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦ Ł Ł Ł −Ł Ł ý Ł Ł Ł
+�
+
+Ý − ðý
+
+13
+
+6
+
+19
+
+8
+
+Ý−
+
+ð
+
+3
+
+ð
+
+6
+
+ð
+7
+
+6
+
+3
+
+3
+
+3
+
+3
+
+6
+
+6
+
+3
+
+6
+
+5 ²6
+
+Łý ¦ Ł� ð
+
+Ł Ł Ł Ł Ł
+8
+
+6
+
+5
+
+3
+
+²
+¦
+Imitation
+Ł
+Ł Ł Ł ²Ł Ł
+Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł
+3
+
+3
+
+8
+
+5
+
+3
+
+‘IV del tono’
+
+25
+
+ð
+ð
+Ý− Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł
+Ł ¦ Ł Ł Ł Ł Ł Ł Ł Ł Ł −Ł Ł Ł Ł Ł š Ł Ł Ł Ł ¹ Ł Ł Ł Ł Ł Ł −Ł
+Ł
+
+ðý
+ð
+ŁŁ
+Ł Ł Ł ¦ Ł Ł −Ł Ł
+ð
+ŁŁ Ł
+− ðý
+Ł Ł Ł ¦Ł Ł Ł Ł Ł š Ł Ł Ł Ł Ł ¹ Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦Ł
+š Ł Ł Ł Ł Ł Ł ¦ Ł ð ý Ł Ł −Ł Ł
+
+31
+
+Ł Ł ¦ Ł Ł −Ł
+ŁšŁ Ł Ł Ł ð
+Ł
+š − ð ý Ł Ł −Ł Ł Ł Ł ² Ł Ł Ł Ł
+Ł
+Ł
+
+37
+
+¦
+š − Ł Ł Ł Ł ¦ Ł Ł Ł −Ł Ł Ý Ł Ł Ł Ł Ł ð ð
+
+43
+
+3
+
+3
+
+6
+
+−6
+
+3
+
+6
+
+3
+
+5
+3
+
+6
+
+Imitation
+
+Ý− Ł Ł Ł Ł Ł ð
+
+49
+
+3
+
+8
+
+6
+
+6
+
+ðý
+
+−6
+
+Ł Ł Ł Ł Ł Ł Ł
+
+6
+
+6
+
+5
+
+²
+ð ý Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦ Ł Ł Ł −Ł
+6
+
+Ł Ł Ł Ł Ł Ł −Ł Ł Ł Ł Ł Ł ð
+
+Canon
+Ý − ¦Ł Ł Ł Ł Ł Ł Ł Ł ð ð
+
+55
+
+ð
+
+3
+
+6
+
+6
+
+5
+
+3
+
+3
+
+Ł Ł Ł Ł Ł −Ł Ł Ł Ł Ł Ł Ł ð
+
+6
+
+3
+
+Ł Ł Ł Ł
+
+Łý Ł Łý Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ý Ł Ł Ł Ł
+�
+�
+�
+
+Example 3.  Raimondi, Nuovo genere di scientifica composizione (1852), book 2, lesson 30
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+JMT 51:1 149-3 Stella ex. 3 p. 2 of 2
+
+Ł Ł Ł Ł Łý Ł Ł Ł Ł Ł Ł ¼
+�
+
+61
+
+Ý − Ł Ł ¦ Ł Ł Ł Ł Ł Ł Łý Ł Ł Ł Ł
+�
+
+¦6
+
+Ý− Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ð Ł Ł Ł Ł ð
+3
+
+67
+
+3
+6
+
+3
+8
+
+ŁÝ
+ð
+−ð
+Ł ð ð
+š ¹ Ł Ł Ł ¦Ł Ł Ł Ł Ł Ł Ł Ł
+
+74
+
+6
+
+3
+
+3
+6
+
+7
+3
+
+¦6
+
+ŁŁŁŁð
+
+6
+
+6
+
+5
+
+ð
+
+167
+
+ð
+
+Łý Ł Łý Ł
+�
+�
+
+Stretti
+Ł
+Ł š Ł Ł Ł Ł ð Ł Ł Ł ð Ł Ł Ł Ł š Ł Ł Ł Ł ¦Ł
+¹
+Ł
+8
+3
+
+−7
+
+ðý Ł Ł
+
+Ł Ł Ł Ł Ł ¦Ł Ł Ł Ł Ł Ł Ł ð ð
+6
+
+8
+
+8
+
+3
+
+6
+
+6
+
+Imitation
+
+²
+¦
+Ý − Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦ Ł Ł Ł −Ł Ł Ł Ł ý Ł Ł Ł Ł Łý Ł Ł Ł Ł Ł ý Ł Ł Ł Ł Łý Ł Ł Ł Ł Ł Ł Ł ¦ Ł
+�
+�
+�
+�
+
+82
+
+6
+
+6 5
+
+3
+
+3
+
+3
+
+6
+
+6
+
+4
+
+−7
+
+89
+
+Ý − Ł š Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦Ł Ł Ý Ł Ł Ł Ł ð
+š
+
+96
+
+6
+4
+
+Ý− Ð
+
+5
+¦7
+
+4
+
+3
+8
+
+Ð
+
+−5
+7
+
+4
+6
+
+Ð
+
+²4
+8
+
+5
+¦7 −3
+7
+
+8
+3
+
+Ł
+
+¦3
+²6
+
+Ł
+
+3
+5
+
+5
+6
+
+Ł ²Ł
+
+3
+
+3
+5
+
+−3
+
+6
+
+Ł −Ł
+
+ð
+
+¦6
+
+Pedal
+
+¼
+
+8
+
+Ð
+
+Ð
+
+Final cadence
+
+3
+8
+
+Ł
+
+5
+
+3
+5
+
+Ł
+
+Ð
+
+4
+6
+
+4
+
+Ð
+
+5
+
+8
+
+6 6 8
+
+8
+
+3
+
+4
+6
+
+3
+
+Ð
+
+3
+
+5
+3
+
+8
+3
+
+Ð
+
+Example 3 (continued)
+
+of partimento fugue in Italian pedagogy.3 In the preface to his Bassi imitati e
+fugati divisi in tre libri (ca. 1830s), Raimondi writes:
+Despite the fact that the very well known Maestri dell’Armonia Choron, Marpurg, and others have only mentioned the school of the “Bassi d’imitazione” in
+passing, . . . until now no one has ever published a collection of basses for the
+instruction of young people who devote themselves to the musical art, in such
+a way as to facilitate the path to fugue. . . . With the greatest sorrow I heard
+from some ill-advised young people that in order to compose works in whatever
+genre it was enough to know the principles of voice-leading and to write some
+solfeggi, without wasting time in the study of fugue.
+
+After having stressed the importance of counterpoint and fugue in the syllabus of the old Neapolitan school, he continues: “I wrote these Basses for those
+who are already skilled in counterpoint. But it is necessary to warn young
+scholars that they must first work hard on the partimenti by various authors,
+and only after that can they attempt to compose, otherwise their efforts will be
+fruitless.” He concludes with the exhortation to “live happily.”4
+3  The basso imitato e fugato is still in use in the traditional
+Italian syllabus of the course in composition.
+4  “Sebbene i chiarissimi Maestri dell’Armonia Choron,
+Marpurg, ed altri avessero accennata soltanto la scuola dei
+Bassi d’imitazione, pure quest’utile insegnamento è stato
+
+mai sempre trascurato, ne si è finora redatta una raccolta
+di Bassi, per istruire i giovani che si dedicano all’arte musicale, e così rendere loro agevole la strada per passare alle
+Fughe. . . . Con sommo rammarico intesi da taluni mal consigliati giovani, che per comporre delle opere in qualunque
+
+168
+
+J ourna l o f M usi c T h e ory
+
+Raimondi’s preface is the only part of his book that contains written
+explanations. The rest of the book contains nothing but music, following the
+Neapolitan tradition of committing to paper solely the examples, and relying
+on oral transmission for the explanations.
+Unlike Raimondi’s partimento fugues, his bassi imitati e fugati are, from
+the perspective of form, more free. There is no standard formal scheme, so the
+different elements of the fugue (those outlined in Table 1) can be arranged
+in different tonal and formal designs. Still, the most important difference
+between the partimento fugue and the “imitative and fugal bass” lies not in the
+overall design but in the technique of realization: the former was improvised
+at the keyboard; the latter was written out. Compositional assignments on
+Raimondi’s bassi completed by three of his students—Carmelo Fodale, Vincenzo Fiodo, and Pietro Platania—provide important evidence for the style
+of nineteenth-century written realizations (Fodale 1835; Fiodo 1835; Platania
+I-Nc Platania 58.3). As Raimondi wrote in the preface to his Bassi imitati e
+fugati, this work was designed “to facilitate the path to fugue” (Raimondi ca.
+1830s), though it is unclear exactly which kind of fugue Raimondi had in
+mind. Nonetheless, it seems evident that the basso imitato e fugato was halfway
+between standard partimento practice and the written vocal fugue, thus representing at the same time a final stage of partimento training and a preparatory
+stage for the study of the vocal fugue.
+According to Jesse Rosenberg (1995, 210), Raimondi’s choice to publish
+a book entirely devoted to fugal procedures, together with the complete lack
+of any explanation, is a sign of a conservative position. This is true only in part.
+The late “Leista” tradition represented by Raimondi and his pupil Platania did
+try to preserve the old tradition in the new era, hoping to renew music teaching from within the Neapolitan school of composition. Yet Raimondi’s belief
+in harmony as science, his research into new possibilities in counterpoint, his
+“contrapuntal gigantism” (Stella 2007), as well as the strong experimentalism
+that surfaced in his mature compositions, all testify, despite his strong connections with an academic classicism, to the Romantic nature of his theoretical
+works.
+Pietro Platania
+
+Pietro Platania, considered by Raimondi his best pupil, continued his master’s involvement with partimenti. Around 1860, when he was the dean of the
+Regio collegio di musica del Buon Pastore (Good Shepherd Royal College of
+Music) in Palermo, Platania jotted down a sketch for the syllabus of the har-
+
+genere, bastava semplicemente aver conoscenza della disposizione delle parti, e far dei solfeggi, né doveasi perder
+lungo tempo nello studio delle Fughe. ​ . . ​ uesti bassi però
+. Q
+sono stati da me scritti per coloro i quali sono già provetti
+
+nel Contrappunto, e fa mestieri di avvertire i giovani studiosi,
+che devono precedentemente occuparsi con impegno nei
+partimenti dei varii Autori, e poi cominciare a comporre, altrimenti infruttuose riusciranno le loro fatiche. ​ . . ​ ivi felice.
+. V
+”
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+169
+
+mony and counterpoint classes in his conservatory: “Harmony. In a rational
+and practical sense. Written realization. After 6 months practical performance
+on the piano and on the melodium [a reed organ] . . . Suggested authors:
+Fenaroli, Mattei and after, according to the professor’s choice, a number of
+partimenti by Cotumacci, Sala, and Raimondi” (I-Nc Platania 58.3).5 Sometime in this same period Platania wrote his Trattato d’armonia (published in
+1883). Unlike his master Raimondi, Platania refused to add figures to his partimenti, thus following the age-old Neapolitan tradition. In the preface to his
+Trattato d’armonia he writes:
+The present treatise follows a practical system of teaching Harmony without
+indications of figures in the bass line, instead instilling in the pupil an awareness of the natural and inflexible canons of Harmony, i.e. the Rule of the
+Octave, the origin of the harmonized scale from the three fundamental and
+immutable triads embodying the tonality, the proper tendencies of tones in
+their various directions. . . . The use of figures makes pupils, notwithstanding
+their professors’ theoretical explanations, one might say almost involuntarily
+harmonize without a clear determination, and without analysing their own
+work. I have therefore restricted the indication of figures to the end of the
+book, and only to show some special or rare ways of harmonizing, different
+from the common usage.6
+
+This text, written by Platania around 1860, contains some references to an
+unpublished treatise on partimento titled Sull’armonia. In this work Platania
+states, “The method I hint at is based on a simple and very important rule: the
+pupil must study the basses without figures, learning to recognize the right
+figures after having understood the fundamental rules of harmony studied
+theoretically and practically” (Platania, Sull’armonia, I-Nc S.C. 12.8.2).7
+Platania follows, in general, the traditional approach used by countless
+Neapolitan masters (including Fenaroli). He first begins with cadences and
+then introduces the Rule of the Octave, the different bass motions, and finally
+special, more complex patterns. Yet he imbues his partimenti with a Romantic
+aura that is completely absent from partimenti written by masters of the previous generation (e.g., Raimondi or Zingarelli). The most original aspects of his
+5  “Armonia. In senso razionale e pratico- per iscritto- Dopo
+sei mesi esecuzione pratica sul piano e sul melodium ​ . . ​
+.
+Autori da adottarsi: Fenaroli, Mattei e dopo, a scelta del
+professore, una quantità delle lezioni di partimenti di Cotumacci, Sala e Raimondi.
+”
+6  “Il presente trattato s’informa ad un sistema pratico
+d’insegnamento armonico senza indicazioni di numeri sul
+basso, istituendo invece l’allievo sulla cognizione dei canoni
+armonici naturali ed irremovibili, cioè: la conoscenza della
+regola dell’ottava, la derivazione della scala armonica dalle
+tre triadi fondamentali identiche che costituiscono la moda­
+lità, la rispettiva tendenza dei suoni componenti gli accordi
+nelle loro varie diramazioni. . . . L
+’uso dei numeri fa si che
+
+l’allievo malgrado le spiegazioni teoriche del maestro è
+trascinato, direi quasi involontariamente, ad armonizzare
+senza precisa persuasione e senza bene analizzare il proprio operato. . . . Mi sono riserbato io quindi l’indicazione dei
+numeri sul partimento verso la fine del Corso, e ciò solo per
+mostrare le ricercate o speciali maniere d’armonizzare, differenti dal consueto.
+”
+7  “Il metodo dunque cui accenno si basa sopra una
+semplice ma importantissima regola, quella cioè, che lo
+allievo studiasse i bassi senza numeri, ma questi facendoli
+riconoscere dopo mercè i precetti fondamentali d’armonia
+ragionata teoricamente e praticamente.
+”
+
+170
+
+J ourna l o f M usi c T h e ory
+
+output are thus to be found in the more advanced partimenti, rather than in
+the introductory exercises that closely follow the traditional path.
+The partimento-related output of Platania may be summarized under
+two main categories: real partimenti and “imitative and fugal basses.” Of the
+first category of partimenti, only a single realization from Platania of one of
+his own partimenti survives, together with a detailed example of a figured
+partimento. No realization of an imitative and fugal bass from Platania has
+come to light. Some manuscripts in the Naples conservatory library, however,
+include realizations by Platania (or by his students) of partimenti by Fenaroli,
+and of imitative and fugal basses by Raimondi. All these works bear witness
+to significant changes that occurred within the Neapolitan tradition in the
+second half of the nineteenth century.
+Let us first examine a written realization of partimento no. 2 from Fenaroli’s widely published book 4. It was penned by an anonymous student who
+studied under Platania around 1860 (I-Nc Platania 61). In many respects
+this realization (shown in Example 4) follows past tradition. It is written in
+JMT 51:1 149-3 Stella ex. 4
+a keyboard style, with frequent changes in the number of voices during the
+p
+­ artimento—a characteristic feature of the eighteenth-century continuo practice. The realization employs, even if in a somewhat extended way, all of the
+
+!
+
+Ł Ł Ł Ł
+Ł Ł
+Ł Ł Ł Ł Ł
+Š � Ł ²² Ł ² Ł ²−Ł ² Ł Łý Ł ² Ł Ł Ł Ł Ł Ł ² ŁŁ Ł
+Ł Ł Ł Ł
+Ł Ł Ł Ł Ł Ł Ł
+Ł
+Ł Ł
+Ł Ł Ł
+Ý � Ł Ł Ł Ł ²Ł Ł ¦ Ł Ł ²Ł Ł ¦ Ł Ł Ł Ł Ł Ł Ł Ł Ł
+6
+
+!
+
+Ł
+Š Ł
+Ł
+
+Ł ²Ł ²Ł
+Ł Ł Ł
+Ý Ł Ł Ł Ł ²Ł Ł ¦ Ł Ł
+
+11
+
+!
+
+Š Ł Ł Ł
+Ł Ł Ł
+Ł Ł
+Ý Ł Ł Ł
+
+Ł
+
+Łý −Ł ŁŁ ²ŁŁ
+Ł
+Ł
+Ł
+Ł Ł
+
+Ł Ł Ł Ł ²Ł Ł Ł Ł
+
+�
+Ł
+Ł Ł Ł Ł
+Š ² Ł ý Ł Ł Ł Ł ²² Ł ² Ł ²−Ł ² Ł ² Ł ² Ł
+Ł
+Ł Ł Ł
+Ł
+Ł Ł Ł
+Ł Ł Ł Ł
+Ł
+Ý Ł ²Ł ²Ł Ł Ł Ł Ł Ł ²Ł Ł ¦ Ł Ł ²Ł Ł ¦ Ł Ł Ł Ł
+
+15
+
+!
+
+ðŁ Ł Ł Ł Ł ² Ł
+Ł
+²ð
+ð
+Ł ²Ł Ł Ł Ł Ł
+
+�
+Ł Ł Ł
+Ł ² Ł ²² Ł ýýý ¦ ¦ ¦ ŁŁ Ł Ł Ł ² ŁŁ Ł Ł ²² Ł Ł Ł Ł Ł ²² Ł ¦ Ł Ł ¦ Ł ² Ł Ł ² Ł ¦ Ł Ł ¦ Ł
+Ł Ł Ł ð
+Ł
+Ł Ł Ł Ł Ł Ł Ł
+Ł Ł Ł ð
+Ł
+Ł Ł Ł
+Ł Ł
+Ł Ł Ł
+Ł
+Ł Ł Ł ²ð
+Ł Ł Ł ¦Ł ð
+Ł Ł Ł Ł ²Ł Ł Ł Ł Ł
+Ł
+²Ł Ł ¦ Ł Ł Ł
+
+Ł Ł ŁŁŁ Ł Ł
+Ł
+Ł
+Ł ŁŁ ŁŁ
+Ł
+Ł Ł Ł
+Ł
+
+Ł Ł
+
+Ł ² Ł Ł ² ² Ł ¦ ŁŁ
+Ł ²Ł Ł ²Ł Ł
+Ł Ł Ł Ł Ł
+Ł
+Ł Ł Ł ²Ł Ł
+
+�
+Ł
+²Ł ý Ł Ł Ł Ł Ł Ł Ł
+Ł
+Ł ð
+Ł
+Ł
+Ł Ł Ł Ł ²Ł Ł Ł Ł Ł ²Ł ²Ł Ł Ł Ł Ł
+
+²ŁŁ
+Ł
+Ł
+
+Ł ý ¦ Ł ŁŁ ²² Ł
+Ł
+Ł
+² Ł ŁŁ
+
+Ł Ł Ł
+Ł ²Ł Ł Ł ²Ł Ł Ł Ł Ł ²Ł Ł Ł ²Ł Ł Ł
+Ł Ł Ł Ł Ł
+Ł Ł
+Ł Ł Ł Ł
+Ł Ł Ł
+Ł
+Ł Ł Ł Ł Ł
+Ł Ł Ł Ł
+Ł
+
+² Ðq
+Ð
+q
+Ð
+
+Example 4,  Anonymous, Partimento. I-Nc Platania 61. The bass is taken from lesson 2, book
+4, of Fenaroli’s Partimenti.
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+171
+
+five classes of partimento rules: (1) cadences and basic axioms, (2) the Rule
+of the Octave, (3) dissonances, (4) bass motions (here with remarkable chromatic variants), and (5) scale mutations (modulation). The texture, however,
+tends to be more chordal than in a typical eighteenth-century partimento
+realization (for a comparison with a more eighteenth-century style of realization, see the article by Sanguinetti, this issue).
+An example of the second kind of partimento is no. 51 from Raimondi’s
+Bassi imitati e fugati, as realized by Platania (I-Nc Platania 58.13). This realization was probably completed during the 1850s and follows closely Raimondi’s
+tradition. Two excerpts of it are shown in Example 5.
+The exposition begins with the subject sounding together with the bass
+line, as was customary in the partimento-fugue tradition (mm. 1–8, Example
+5a). Unlike in a partimento fugue, in this format the given part is always the
+bass. This means that the first subject entry must be supplied by the student,
+who must scan the bass line in order to find the “hidden” subject (in this case,
+JMT 51:1 149-3 Stella ex. 5a
+(a)
+
+Soprano
+
+Alto
+
+Tenor
+
+Bass
+
+$
+
+5
+
+Š
+Š
+
+Šð
++
+Ý
+% ð
+
+$
+
+Ultimi bassi imitati e fugati
+
+Š�
+Š�
+
+ÿ
+ÿ
+
+Š� ð ð
++
+Ý� Ð
+%
+
+ð
+ð
+
+ÿ
+
+ÿ
+
+ÿ
+
+ÿ
+
+ÿ
+
+Ł ŁŁŁŁŁŁ
+Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ²Ł
+Ð
+ðý
+Ł ð
+ð
+ÿ
+
+ÿ
+ÿ
+
+ÿ
+
+Platania/Raimondi
+
+ÿ
+
+ÿ
+ÿ
+
+ÿ
+ÿ
+
+ð
+ð
+Ð
+
+ðý
+²Ł Ł ²Ł Ł ²Ł Ð
+Ł
+Ł ²Ł Ł Ł Ł Ł Ł
+Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ð
+
+Example 5.  Pietro Raimondi, Ultimi bassi imitati e fugati, no. 51; realization by Pietro
+Platania, I-Nc Platania 58.13. (a) Exposition, mm. 1–8. (b) Canon, mm. 48–55
+
+JMT 51:1 149-3 Stellalex.f 5b usi c
+J ourna
+o M
+172
+
+T h e ory
+
+(b)
+
+$
+
+48
+
+Soprano
+
+Alto
+
+Tenor
+
+Š0 ð
+0
+Š0 ð
+0
+Š0
+0
++
+
+Bass
+
+$
+
+ð
+
+½
+Ł
+½
+
+Ł
+
+ŁŁ ŁŁŁŁð
+½
+
+Ý 0 Ł Ł Ł Ł Ł Ł Ł ðý
+% 0
+
+52
+
+Š ðý
+
+Ł Ł Ł Ł Ł Ł ðý
+Ł
+
+ŁŁ Ł ŁŁŁŁŁŁ
+
+Ł ŁŁŁ ŁŁ ŁŁŁŁð
+
+ŁŁ ŁŁŁŁð
+
+Ł ŁŁŁ ŁŁ
+
+Ł Ł Ł Ł Ł Ł Ł Ł Ł ðý
+
+Ł Ł Ł Ł Ł Ł Ł Ł Ł ðý
+
+ŁŁ
+
+ŁŁ ð
+
+Š Ł ŁŁŁ ŁŁ ŁŁŁŁð
+Ł ŁŁŁ ŁŁ ð
+Ł ŁŁŁ ŁŁ ŁŁŁŁð
+Š ŁŁŁŁð
+ð
+%
+
++
+
+Ý Ł Ł Ł Ł Ł Ł Ł ðý
+
+ŁŁ Ł ŁŁŁŁŁŁ ð
+
+Example 5 (continued)
+
+in bars 5–8). The identification of the subject (or subjects) is one of the chief
+difficulties in the realization of an imitative and fugal bass. The second excerpt
+shows a four-voice canon on a sequence (three voices at the unison, and the
+remaining voice at the fourth: mm. 48–55, Example 5b). The crossing of the
+voices (Example 4b, mm. 49ff.) and dissonant clash in approaching the unison (between soprano and alto, mm. 49–50, 51–52, and 53–54) are typical features of eighteenth-century counterpoint, ones that survived in the Neapolitan tradition well into the nineteenth century. The other basses of Raimondi,
+also realized in Platania’s hand, are increasingly more elaborated, more and
+more similar to a fugue with middle entries (on the mediant, the submediant,
+or, closer to the fugue tradition of Nicola Sala, the fourth degree), imitations,
+canons, and stretti.
+The partimenti were also used as a means of instilling the basic principles of musical form. Thus, Platania, in some of his bassi imitati e fugati, added
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+173
+
+slow introductions, as he also did in his free fugal compositions. The same
+pedagogical function was accomplished by some partimenti that look (and
+sound) like a Romantic piano etude, or a romanza. In other words, the partimento, after having left behind the eighteenth-century genres and styles of
+the toccata, the concerto, or the galant sonata, made a last attempt to survive
+by adopting the new trappings of Romanticism. The bass and figures in Example present a Stella ex.
+JMT651:1 149-3partimento6etude by Platania in A–B–A form plus coda. No
+realization has survived for this partimento. The upper part was realized by
+this author.
+
+!
+
+²²²² -. Ł ýý
+Ł
+Š ² 4 Łý
+Ý ²²²² -. Ł Ł Ł
+²4 Ł
+² ² Łý
+Š ² ²² Ł ýý
+Ł
+
+5
+3
+8
+
+Ł ýýý
+Ł
+Ł
+
+6
+3
+8
+
+5
+3
+7
+
+Łý
+× Ł ýý
+Ł
+
+Ł ýýý
+Ł
+Ł
+
+Ł ýýý
+Ł
+Ł
+
+Ł ýý
+Łý
+Ł
+
+Ł Ł Ł� ŁŁý Ł Ł ŁŁ ý ¦ Ł ¦ Ł ŁŁý Ł
+Ł
+Ł
+ŁŁ
+Ł
+
+Ł ýý
+Łý
+Ł
+
+5
+3
+
+7
+
+6
+4
+8
+
+9
+
+5
+3
+8
+
+¦6
+¦4
+
+Ł Ł� Ł
+Ł
+Ł� ¦ Ł ¹
+Ł Ł Ł ýýý ¦ Ł ýýý
+Ł
+Ł
+Ł¦Ł
+Ł Ł Ł
+Ł
+²Ł
+Ł Ł
+Ł Ł
+²² Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ¦ Ł Ł Ł ² Ł ² Ł Ł ¦ Ł Ł Ł
+Ý ²² Ł
+Ł
+²Ł
+²
+Ł Ł Ł
+Ł
+Ł
+Ł ýýý
+Ł
+
+5
+
+!
+
+Ł ýýý
+Ł
+Ł
+
+8
+�
+
+²3
+
+Ý ²²²² Ł Ł Ł Ł ² Ł Ł ¦ Ł Ł Ł Ł ¦ Ł Ł Ł Ł Ł Ł Ð ý
+²
+Ðý
+² ² Łý
+Š ² ²² Ł ýý
+Ł
+
+ŁŁ ýýý
+Ł
+
+Ł
+ŁŁŁ Ł ŁŁ Ł
+Ł Ł Ł × Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł ²Ł
+Ł
+Ł Ł Ł
+
+ŁŁ ýý
+Łý
+
+3
+
+!
+
+Ł ýýý
+Ł
+Ł
+
+7
+
+Ł ýýý
+Ł
+Ł
+
+3
+5
+8
+
+9
+5
+
+3
+�
+�
+
+4
+–
+–
+
+²3
+
+5
+
+¦9
+
+�
+
+�
+²²
+ý
+Łý
+Ł Ł
+Š ² ²² Ł ýý Ł Ł ýý Ł ýý ŁŁ ýý Ł ² Ł Ł Ł Ł ¦ Ł Ł Ł ² Ł Ł ² Ł × Ł ¦ Ł Ł Ł ² Ł Ł Ł ýýý
+Ł
+Ł
+Ł
+Ł
+Ł
+Ł
+Ý ²²²² Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł
+²
+¦Ł
+Ł
+Ðý
+Ł
+
+7
+
+!
+
+9
+5
+3
+
+4
+–
+–
+
+3
+6
+
+3
+8
+5
+
+4
+3
+6
+
+5
+
+²3
+8
+
+¦3
+
+×4
+
+2
+
+²6
+
+²3
+8
+¦6
+
+Example 6.  Pietro Platania, Trattato d’armonia (1883), partimento 29 from book 3; realization
+by this author
+
+�
+
+8
+3
+
+J ourna l o f M usi c T h e ory
+
+174
+
+Compared to the Fenaroli tradition, this partimento appears far more
+harmonically advanced, with chromaticism, dissonant chords, and an idio­
+matic Romantic tension. Yet a closer look reveals that the fundamentals remain
+those taught by Fenaroli. In m. 1, the 5–6 exchange prevents parallel fifths
+in the motion from I to II; in mm. 2 and 3, the figures are omitted because
+the bass motion alone is sufficient to suggest the correct harmonies (which
+basically consist of a series of successive mi-fa motions causing an alternation
+between triads over the fa degrees and sixth chords over the mi degrees). The
+most interesting case in this example is perhaps m. 4, where the complex
+figures present nothing more than a Romantic elaboration of the cadenza composta. Thus, even if the left-hand texture closely resembles many nineteenthcentury virtuoso piano pieces (e.g., prelude op. 28/24 by Chopin, etude op.
+740/8 and op. 740/12 by Carl Czerny, or op. 20/24 by Joseph Kessler), the
+harmonic structure is basically the same as in Fenaroli.
+The very
+JMT 51:1 149-3 Stella ex. 7 last partimento in Platania’s collection is titled “In forma di
+capriccio” (see Example 7). This partimento—which we might call a partimento romanza—likewise abounds in complex thoroughbass figures, along the
+
+!
+
+ÿ
+
+Š/
+0
+
+Ý / ¹ � Ł Ł ²Ł Ł ²Ł Ł
+0 Ł ²Ł
+6
+
+!
+
+ÿ
+
+Ý ² Ł ²Ł Ł ²Ł
+
+×4
+
+11
+
+6
+
+16
+
+!
+
+Š
+
+—
+6
+—
+
+²Ł ²Ł ²Ł
+
+Ý ²ð
+²6
+
+3
+
+8
+
+²4
+
+6
+2 —
+
+²Ł ²Ł × Ł
+×3
+
+3
+—
+
+8
+
+²4
+
+²5
+
+²3
+²6
+²5
+
+8
+5
+3
+
+×3
+
+7
+3
+
+²× Ł ²² Ł ²² Ł
+² Ł Ł ŁŁ
+Ł Ł
+
+Š ²² Łð ² ð ² Ł
+ð
+Ł
+Ý Ł ²Ł ¦ Ł
+2
+6
+4
+
+Ł ²Ł Ł ²Ł ²Ł Ł
+
+Ł
+
+7
+3
+
+²3
+
+8
+8
+
+8
+
+3
+
+8
+
+4
+
+3
+
+8
+
+� ¹
+¼
+² Ł Ł ²Ł
+Ł
+Ł
+
+²Ł
+
+²× Ł
+ð
+2
+
+!
+
+� ¹ ¼
+¼
+Ł Ł Ł
+²Ł ²Ł
+Ł ² Ł ¹ ² Ł� Ł ² Ł ² Ł Ł
+Ł ²Ł Ł
+¹ ¼
+¼
+¦
+¦ ²
+
+Ł ² Ł ²Ł
+Ł Ł ²Ł
+
+Ł
+Łý Ł Ł
+²Ł
+Ł
+²² ð ² Ł Ł
+Ł
+Ł ²Ł ¦ Ł ²Ł ²Ł
+Ł ²Ł Ł ²Ł ²Ł Ł ²Ł Ł ²Ł ²Ł
+
+ÿ
+
+Š
+
+²Ł
+
+Ł
+²² ð
+
+8
+3
+
+8
+6
+3
+
+�
+²²² Ł ¹ ¼
+Ł
+Ł
+
+2
+6
+4
+
+² Łð ² ð
+ð
+Ł ²Ł
+
+²4
+
+—
+8
+6
+
+Ł
+Ł
+²Ł
+
+6
+5
+8
+
+2
+6
+
+—
+—
+—
+
+8
+6
+3
+
+6
+
+²4
+
+¹ ² Ł� ² Ł × Ł ² Ł ² Ł × Ł ² Ł ² Ł
+²Ł ×ðý
+² Ł ²Ł ¦ Ł
+²Ł ²Ł Ł ²Ł ²Ł
+¼
+
+²3
+
+8
+
+²5
+
+²6
+
+×8
+
+²3
+
+²6
+
+×4
+
+n
+n
+�
+Ł ýý ² ð
+Ł � ¹ ²ð
+ð
+²² ð ý ² Ł ² Ł Ł × Ł Ł Ł
+Ł
+²ð
+²² ðð ýýý
+ð
+²Ł ¦ Ł
+²Ł
+�
+²Ł
+× Ł ²Ł ² Ł ² Ł Ł Ł ²Ł ²Ł Ł Ł Ł ²Ł Ł ²Ł ²Ł Ł Ł ²Ł ²ð
+Ł
+²Ł
+6
+
+¦6
+
+4
+
+6
+
+8
+
+3
+
+3
+8
+
+3
+—
+—
+
+—
+—
+
+6
+5
+3
+
+5
+
+²3
+
+2
+
+8
+
+2
+
+×2
+
+3
+
+Example 7.  Platania, “In forma di capriccio,” no. 33, book 3: an excerpt from Platania’s
+realization
+
+8
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+175
+
+lines of Raimondi’s Nuovo genere di scientifica composizione, and it exhibits a strict
+relationship between the figures and the melodic contour. This work, following the first part reproduced in Example 7, continues with a soggetto melodico
+(melodic phrase), a period-like theme realized here by Platania with an asymmetrical period of eight plus seven bars added to the realized version only (see
+Platania 1883, Partimenti bk. 3, 43). The formal design is again an A–B–A form
+with a shortened ripresa, a very common feature of Italian nineteenth-century
+instrumental music (Rostagno 2003, 68–70).
+The Neapolitan Partimento in Milan: Raimondo Boucheron
+
+The largely self-taught Lombard composer Raimondo Boucheron (1800–1876)
+occupies a special position in the tradition of partimento.8 He was born in
+Turin and took some music lessons in his childhood from obscure maestros
+like Vincenzo Goletti in Cuneo and Don Amedeo Savoia and Giovan Battista
+Colombo in Mondovì.9 But he managed the most important parts of his training by himself. He became a well-known composer of sacred music (from 1847
+to his death he was maestro di cappella at the Milan cathedral) and a teacher
+of composition. His best pupils were Edoardo Mascheroni, Edoardo Perelli,
+and Gustavo Adolfo Noseda.10 Boucheron published an important book on
+musical aesthetics, Filosofia della musica o estetica applicata a quest’arte (The Philosophy of Music, or Aesthetics Applied to This Art, 1842) and an interesting harmony book titled La scienza dell’armonia spiegata dai rapporti dell’arte coll’umana
+natura—Trattato teorico pratico (The Science of Harmony Explained by the Relation
+between Art and Human Nature—A Theoretical-Practical Treatise, [1856]), in which
+he attempted the original approach of grounding harmonic procedures on
+principles of psychology and ethics.
+Some years later he wrote the Esercizi d’armonia in 42 partimenti numerati (Harmony Exercises with Forty-two Figured Partimenti, [1867]). With this
+work, Boucheron, like Platania, tried to meld the eighteenth-century partimento tradition with nineteenth-century harmonic innovations. But unlike
+P
+­ latania—whose work, as mentioned, grew out of the authentic Neapolitan
+tradition—Boucheron made use of only parts of the Neapolitan tradition,
+using them in a different context, one deeply influenced by German and
+French music theory.
+8  The theoretical output of Boucheron is listed and briefly
+discussed in Sanguinetti 1997
+.
+9  Vincenzo Goletti was organist at the cathedral of Cuneo;
+Giovan Battista Colombo was maestro di cappella in Mondovì. See the anonymous manuscripts I-BGc Serassi
+368GoV and I-BGc Serassi 198CGB. I found no information
+about Don Amedeo Savoia.
+
+10  Edoardo Mascheroni (1859–1941) was an Italian conductor and composer. He conducted the Italian premiere
+of Beethoven’s Fidelio (1886), Catalani’s Wally, and Verdi’s
+Falstaff. He also composed some operas. Edoardo Perelli
+(1842–1885) was a composer and journalist. He wrote some
+interesting anti-Wagnerian articles for the Gazzetta musicale di Milano (see Carlo Matteo Mossa 1988, 41). Gustavo
+Adolfo Noseda (1837–1866) was a composer and collector.
+His important collection of rare editions and manuscripts is
+now in the library of the Milan conservatory.
+
+176
+
+J ourna l o f M usi c T h e ory
+
+Esercizi d’armonia is set in two volumes. The first is dedicated to a theoretical discussion and to the forty-two partimenti. The second is called Chiave
+(Key) and consists of full realizations of all the partimenti in book 1, thus
+offering students the opportunity to check their own work against the author’s
+templates. Boucheron clearly assesses the intent of his book in the preface:
+Why a new Partimenti collection, after the well-known works by Sala, Fenaroli,
+Mattei, and others, and in a time in which many people regard this approach
+to harmony as almost useless? . . . I appreciate more than others the works of
+these revered maestri who preceded me . . . nor shall I ever cease to recommend their study. But, at the same time, I would argue that from the days in
+which Sala, Fenaroli, and Mattei composed their partimenti to the present,
+Harmony . . . has gained such a momentum . . . and has begun searching for
+such effects, which our well-deserving [authors] had never dared to think.11
+
+The first volume begins with six chapters devoted to the rules of partimenti.
+In these chapters, Boucheron offers a remarkably French-flavored version of
+Neapolitan rules, as Emanuele Imbimbo did half a century earlier (Cafiero
+this issue). The first chapter is devoted to the basic rules of harmony: intervals, the concepts of fundamental bass, consonance/dissonance, inversion,
+and the different types of triads and seventh chords (Boucheron [1867], 5–9).
+The second chapter is titled “Dell’origine e ragione degli anzidetti accordi”
+(“On the Origin and Purpose of the Above-Mentioned Chords”). In this chapter Boucheron introduces the by then common notion of tonality being based
+on scale degrees I, IV, and V (Boucheron [1867], 10). But he adds a discussion
+that is doubly reminiscent of Rameau’s concept of double emploi, and of François-Joseph Fétis’s notion of appellative tendencies. If we consider IV as one
+ˆ
+of the pillars of tonality, the sixth that is often added above 4 in the bass would
+change this triad into a II. But Boucheron says that the added dissonance does
+not modify the nature of that chord, but only confers to it a more intense striving toward its goal (as does the seventh when added to the triad on V). In his
+ensuing discussion of the Rule of the Octave, in the standard Fenaroli version,
+he calls cadenze all the descending fifth-progressions along the scale. In doing
+so, he departs considerably from Neapolitan theory, which considers cadenze
+only those progressions involving root-position dominant and tonic chords
+(Boucheron [1867], 10). Later, at the end of his sixth chapter, Boucheron
+will provide students with a detailed table of cadences (Boucheron [1867],
+37–42).
+11  “A qual pro’ una nuova opera di Partimenti, dopo le celebri
+di Sala, di Fenaroli, Mattei e più altri, ed in un tempo, in cui
+questo modo di studiare l’armonia è da molti stimato quasi
+inutile? . . . io apprezzo, quanto altri mai, le opere di quei
+venerandi maestri che mi precedettero; . . . ne cesserò mai
+di raccomandarne lo studio; ma osserverei in pari tempo,
+che dall’epoca, in cui Sala, Fenaroli, Mattei composero i loro
+partimenti, ai di nostri, l’Armonia, . . . ha preso uno slancio . . . e si è avviata in cerca di effetti, ai quali i benemeriti
+non avrebbero mai osato pensare.
+”
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+The third chapter is titled “Del ritmo” (“On Rhythm”). Boucheron
+explains the difference between strong accent and weak accent, underlining
+the importance of rhythm in music. As an example, he shows the necessity
+for the strong accent on a tonic chord that ends an authentic cadence, or on
+a dominant chord that ends a half cadence—the rhythm and the harmony
+must coincide. He writes: “The cadence, therefore, essentially belongs to the
+domain of rhythm. This element exerts such an influence on it that, if the
+harmonic motion does not coincide with it, there is no closure”12 (Boucheron
+[1867], 13).
+The fourth chapter deals with voice leading and with the resolution
+of dissonant chords. He discusses here all possible bass motions, trying to
+simplify and rationalize the traditional series of motions offered by the Neapolitan maestros. Boucheron considers only six possibilities for the motion
+of the fundamental bass: a third, a fifth, or a seventh, either up or down. In
+this chapter, Boucheron lists all possible resolutions for the six types of seventh chords that he classifies in “species” (this classification was customary
+among Italian theorists of the late nineteenth and early twentieth centuries;
+JMT 51:1 149-3 Stella ex. 8
+see Example 8).
+
+a
+1. Specie
+
+a
+2. Specie
+
+a
+3. Specie
+
+a
+a
+4. Specie 3.
+
+a
+5. Specie
+
+a
+6. Specie
+
+Ð
+Ð
+Š Ð
+Ð
+Ð
+Ð
+Š Ð
+Ð
+Ð
+Š Ð
+Ð
+Ð
+Ð
+Ð
+Ð
+Š Ð
+
+Ð
+Š ²−Ð
+Ð
+Ð
+−Ð
+Ð
+Ð
+Š Ð
+
+Example 8.  Boucheron, Esercizi d’armonia,
+book 1, the six “species” of seventh chords
+
+12  “La cadenza è dunque principalmente propria del
+ritmo e questo elemento vi esercita tale influenza che,
+se l’andamento armonico non vi coincide, la posa non ha
+luogo.
+”
+
+177
+
+178
+
+J ourna l o f M usi c T h e ory
+
+Unlike Neapolitan theory, which considered consonant all the chords
+contained in the Rule of the Octave (Sanguinetti in press), Boucheron considers the dominant seventh chord dissonant, as well as all the other types of
+seventh chords. Then he shows some possible resolutions of the diminished
+seventh chord, the diminished triad, and the augmented triad (Boucheron
+[1867], 14–22).
+In the fifth chapter Boucheron further expands some aspects of the
+voice leading. He presents the motion of the parts (parallel, contrary, and
+oblique). The sixth and final chapter is titled “Degli accordi composti e
+del pedale” (“On Compound Chords and on the Pedal Point”; Boucheron
+[1867], 27–32). Boucheron calls those chords that result from a suspension
+“compound chords.” He points out that the second chord of a suspension
+contains the note of resolution and then gives a series of examples listing the
+difference between 4–3, 7–6, and 9–8 suspensions. The chapter ends with a
+short presentation of anticipations, presented as the opposite of suspensions,
+and, in a short paragraph at the very end, of pedal points.
+The theoretical part of the book is followed by the forty-two partimenti.
+While most nineteenth-century maestros encouraged, as we have seen, a written-out practice of realizing partimenti, Boucheron, throughout his treatise,
+refers several times to keyboard practice. He expresses his views on this regard
+in the following remark:
+It is better to warn that on the piano, as on the organ, it is not always possible
+to achieve a voice leading of the same perfection as in a four-voice vocal or
+instrumental composition, unless one divides the chords between the two
+hands according to the proper extension of vocal parts as soprano, alto, tenor
+and bass. This kind of realization, called by La Croix “by extension,” although
+more correct, is less easy for the beginners than the common way, that is, playing the chords with the right hand and only the bass with the left. . . . Since in
+our realization we adhered to the second manner, it follows that in those partimenti where the harmony is joined with a melodic thought or figure, some
+unavoidable transpositions will occur that would not happen in the other way.13
+(Boucheron [1867], 26)
+
+All the partimenti are written with complete figures and on two staves: the
+actual partimento is in the upper staff, and a fundamental bass is in the lower
+one.14 The figures used by Boucheron prescribe exactly the position of the
+
+13  “Conviene avvertire che sul piano forte come sull’organo
+non si può sempre ottenere un andamento di parti della
+medesima perfezione richiesta in una composizione di
+quattro parti vocali o strumentali distinte, se non dividendo
+gli accordi fra le due mani e dando loro a un di presso
+l’estensione, quale avrebbero quattro parti vocali, come
+soprano, contralto, tenore e basso. Questo modo però,
+che il La-Croix chiama per estensione, se riesce più corretto, riesce al principiante meno facile di quello più comunemente usato per eseguire gli accordi intieramente colla
+
+mano destra, incaricando la sinistra del solo basso. . . . A
+questo ci siamo per tanto attenuti nella Chiave, onde in
+quei partimenti che all’armonia accoppiano un pensiero o
+disegno melodico accadono spesso inevitabili trasposizioni
+che non occorrerebbero nell’altro sistema.
+”
+14  The fundamental bass in association with partimenti had
+already been discussed by Giacomo Tritto (1816).
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+parts in the realization. They are also very detailed, including decorative
+motions like passing and neighbor tones. Boucheron’s use of complete figuring differs, however, from the contemporary practice of republishing old
+partimenti collections with newly added figures. In his case, we find musical
+situations that the old partimento theory would have been unable to classify
+and to realize. Boucheron writes:
+I publish this work only after having used it with the few students for whom I
+wrote it. [In this work], whenever possible, I have added to the bare harmony a
+genuine melody, in order to give satisfaction to the tastes and minds of the
+youth. In order to do this, I made use of unusual figures, not commonly used,
+but necessary to show—or to hint at—the [musical] idea. In doubtful or difficult cases, the student should seek advice in the part [of this book] titled La
+chiave (The Key), where the same ideas are written down in full notation.15
+(Boucheron [1867], preface)
+
+In doing so, Boucheron follows the opposite path of Platania. The latter
+rejects the use of figures and insists on the utility (for the students) of finding
+the correct solution for themselves, provided that they have the appropriate
+theoretical background. By contrast, Boucheron chooses to give all the figures
+as a practical demonstration of the new harmonic possibilities.
+Boucheron—like a great many of his contemporaries—felt that partimenti pertained to the study of harmony, not counterpoint. Accordingly
+Boucheron’s partimenti never show obvious traces of fugal or contrapuntal
+procedures. No longer connected with partimenti, counterpoint became a
+separate domain of knowledge pursued in separate studies.
+In the work of Boucheron, partimenti have the added purpose of
+acquainting students with common formal schemes. Usually these partimenti
+have a period-shaped theme inside an A–B–A form with a shortened reprise
+of the A section (as was seen in the advanced partimenti of Platania). The
+B section is often in a relative key or in a third-relation key. This, too, was a
+typical feature of nineteenth-century Italian instrumental music (Rostagno
+2003, 73).
+In Example 9, from Boucheron’s partimenti, it is possible to observe
+some of the stylistic and harmonic characteristics pointed out earlier (the
+examples show realizations by Boucheron himself). One can see very clearly
+that Boucheron obtains chromatic chords mainly by using chromaticized passing tones in an otherwise structurally diatonic frame. For example, in bar 1
+15  “Pubblico [quest’opera] solo dopo averla usata con I miei
+pochi allievi per cui la scrissi, mescendo per quanto era possibile alla nuda armonia una schietta melodia a maggior pascolo delle menti e del gusto giovanili, cosa che mi indusse
+a valermi di numeri non comunemente usati, ma necessari
+a indicare o far indovinare il pensiero, che più determinatamente espressi in note nella parte intitolata La Chiave, che
+l’allievo potrà consultare nei casi dubbi e per esso difficili.
+”
+
+179
+
+J ourna l o f M usi c T h e ory
+
+180
+
+JMT 51:1 149-3 Stella ex. 9a
+(a)
+10
+5
+
+!
+
+Ý ²² / ð ý
+0
+
+9
+
+3
+
+²5
+
+Ý ²² ð ý
+Ý ²² ð ý
+
+9
+
+−6
+
+ðý
+
+10
+5
+
+ðý
+
+9
+
+²5
+3
+
+Ý ²²
+
+10
+5
+
+9
+
+ðý
+
+Ý ²² ð ý
+Ý ²² ð ý
+
+3
+
+8
+6
+–
+
+8
+6
+3
+
+8
+6
+4
+
+8
+6
+4
+
+9
+
+ðý
+
+9
+
+6
+7
+
+5
+
+8
+3
+
+ð
+
+ðý
+
+10
+7
+�
+
+Ł Ł Ł Ł Ł
+Ł ð
+
+−6
+
+3
+
+4
+
+ð
+
+6
+
+3
+
+–
+5
+
+²9
+²6
+²4
+
+ðý
+²ð ý
+
+10
+–
+–
+
+9
+–
+–
+
+12
+
+²6
+
+11
+–
+
+¦ð ý
+²ð
+
+–
+
+8
+6
+–
+
+8
+6
+4
+
+6
+
+3
+
+6
+
+9
+
+−6
+
+ðý
+
+10
+
+²6
+¦5
+
+Ł
+
+12
+8
+
+11
+
+²7
+5
+
+10
+8
+–
+
+ðý
+
+ð
+
+13
+8
+
+12
+7
+
+²
+
+²12
+
+²6
+
+Ł
+
+11
+
+3
+
+4
+
+12
+
+²6
+
+11
+–
+
+ð
+
+6
+
+−5
+
+−Ł
+
+12
+10
+
+10
+–
+
+8
+
+²6
+
+Ł
+4
+
+ð
+11
+
+²9
+²7
+
+10
+8
+
+Ł
+9
+4
+
+10 9
+– –
+
+Ł ðý
+
+ð
+Ł Ł Ł ðý
+
+−10
+
+ð −Ł
+
+Ł ²ð
+
+11
+5
+
+12
+6
+
+Ł Ł ð
+
+Ł ð
+
+²11
+²6
+¦3
+
+–
+�
+
+Ł ²ð
+
+²ð ý
+
+Ł Ł Ł
+11
+6
+
+10
+5
+
+–
+
+10
+7
+
+ðý
+
+Ł ð
+²9
+¦6
+¦4
+
+²5
+
+Ł ð
+Ł Ł Ł
+
+ðý
+
+¼
+
+9
+
+ðý
+
+–
+
+10
+7
+
+¼
+
+10
+5
+3
+
+−6
+
+Ł ð
+Ł Ł
+
+Ł ð
+
+22
+
+²5
+
+(a)
+
+Ý ²² Ł ð
+
+15
+
+10
+6
+
+!
+
+–
+
+8
+
+7
+
+!
+
+8
+6
+4
+
+Ý ²² / ð Ł ð Ł ð Ł ð Ł Ł Ł Ł Ł Ł Ł Ł Ł Ł
+0
+12
+7
+
+!
+
+8
+6
+–
+
+²5
+
+11
+6
+
+−−−− ðý
+−−−− ð
+
+13
+8
+
+12
+7
+
+Ł
+
+8
+3
+
+Ł
+ð
+
+Example 9. Boucheron, Esercizi d’armonia, partimento no. 40, mm. 1–28. (a) The figured bass
+with a fundamental bass below. (b) The realization by Boucheron
+
+the motion 5–6 in the alto voice becomes 5–≥5–6, or, one bar later, the opposite motion 6–5 becomes 6–≤6–5. The characteristic symbol on the third quarter of bars 2 and 4 on the staff representing the fundamental bass indicates
+the presence of a dominant harmony; it means that even if the fundamental
+bass line indicates a C≥ as root of the diminished seventh chord, the real root
+(the A) is implied. A more structural use of chromaticism is the modulation to
+A≤ major, a tritone away from the home key. This key is reached through the
+
+JMT 51:1 149-3 Stella ex. 9b
+
+Gaetano Stella 
+
+(b)
+
+!
+
+² Ł Ł Ł ð Ł Ł Ł Ł ð Ł Ł
+Š ² / Ł ý ² Ł Ł ð ý −Ł Ł ý ² Ł Ł ð ý −Ł Ł
+ð
+ð
+ð
+Ł
+0ð
+Ł
+Ý ²² / ð ý
+ðý
+ðý
+ðý
+0
+²
+Ł Ł
+Š ² ¦ ð ²Ł
+Ł
+Ý ²² ð
+
+7
+
+!
+
+  Partimenti in the Age of Romanticism
+
+Ł ð
+Ł Ł Ł Ł ð
+² ð
+Ł Ł ð Ł ð
+Š ² Łð ¦ Ł Ł ð ² Ł Ł ð
+ð
+Ł Ł ð
+Ý ²² Ł ² ð
+ð
+ð
+
+² Ł
+Ł Ł Ł
+Š ² ² ŁŁ ² Ł Ł Ł ²² Ł Ł
+ð
+Ł Ł Ł
+ð
+Ł Ł
+Ý ²²
+Ł
+²ð ý
+ð
+
+19
+
+!
+
+Ł
+Ł
+Ł
+Ł
+
+Ł
+Ł
+Ł
+Ł
+
+Ł
+Ł
+Ł
+Ł
+
+Example 9 (continued)
+
+¼
+¼
+
+Ł ²Ł Ł Ł ²Ł Ł
+Ł Ł Ł
+Ł ð
+Ł ð
+Ł ð
+ðý
+
+ðý
+
+Łý Ł Ł ðý
+ðý
+ð Ł ²²² Ł ýý Ł Ł ¦ ¦² ð ¦ ² ŁŁ
+ð
+ð Ł
+ð
+ð
+ð
+ðý
+ðý
+ðý
+¦ð ý
+
+²
+−
+Š ² ² Ł Ł ² Ł ²²¦ ð ð −Ł − −− Ł Ł Ł Ł
+Ł Ł Ł ð Ł
+Ł Ł Ł Ł
+Ł
+Ł
+Ł Ł Ł Ł
+Ł
+Ý ²² ð ý
+ð −Ł −−−− ð ý
+Ł
+
+25
+
+!
+
+Ł
+Ł
+Ł
+Ł
+
+² Ł Ł ð ² Ł Ł Ł Ł ð −Ł Ł Ł Ł ð −Ł
+Ł ¦ ð ŁŁ Ł ² Ł Ł ð Ł Ł ² Ł Ł ð Ł
+Ł
+ð
+ðý
+ðý
+ðý
+ðý
+Ł
+ðý
+ðý
+ðý
+ðý
+ðý
+
+13
+
+!
+
+Ł
+Ł
+Ł
+Ł
+
+181
+
+182
+
+J ourna l o f M usi c T h e ory
+
+enharmonic reinterpretation of a dominant seventh V of V (reached in bar
+25) as an augmented sixth chord on ≤VI of A≤ major.
+Partimento: The Late Years
+
+In the latter part of the nineteenth century, partimenti became less and less
+important in Italian musical pedagogy. The only exception was Fenaroli,
+whose Partimenti and regole were continuously in print until 1936 (Sanguinetti
+in press). In some restricted circles, particularly in Naples, vestiges of the original richness of this repertory still survived. This continuation (or perhaps
+rediscovery) was made possible by the emergence of musical historicism and
+a renewed appreciation of the art from earlier centuries—it was perhaps no
+accident that the greatest Italian exponent of historicism, Benedetto Croce,
+lived in Naples.
+When the composer, pianist, and pedagogue Florestano Rossomandi
+(1857–1933) was a student in the Naples conservatory, he realized, under the
+guidance of his teacher Luigi Vespoli, various partimenti by Fenaroli in a style
+that recaptures some elements of harpsichord style (e.g., trillos and acciaccaturas; Rossomandi 1874, bk. 2, no. 29).
+While there were, as mentioned, numerous editions of Fenaroli, other
+musicians preferred to publish anthologies of “ancient” authors. In 1896,
+D
+­ aniele Napoletano published a collection of partimenti by Nicola Sala
+(Napoletano 1896). In 1933, Camillo De Nardis, one of the last of the partimento maestros, published a collection by various authors, a sort of Neapolitan anthology of partimenti (De Nardis 1933). And what was probably
+the final collection of partimenti to come from within the direct tradition of
+Neapolitan maestros was edited by Jacopo Napoli and published in 1959.
+In the late nineteenth century, the practice of partimento as improvisation at the keyboard on a given bass remained almost the exclusive preserve
+of organ pedagogy. At the Palermo conservatory, Carmelo Fodale, a pupil
+of Pietro Raimondi in the 1880s, taught partimento at the organ.16 Guido
+Tacchinardi, Florentine composer and organist, composed his Saggi di basso
+numerato e di contrappunto (Figured Bass and Counterpoint Exercises) as “preparatory study for the interpretation of the music in the tied style . . . adopted by
+the organ school of the Royal College of Music in Florence” (Tacchinardi
+1886).17 The latter collection includes the totally figured, chromatic partimento reproduced in Example 10 (Partimento cromatico; Tacchinardi 1886,
+44). As with Boucheron, the figures indicate the exact disposition of the voices
+in a way that makes realization an almost mechanical task. On the one hand,
+this represents an advantage: performers do not need any prior knowledge of
+16  The name of Carmelo Fodale as teacher of partimento
+al melodium recurs in some uncatalogued documents that
+have been found recently in the library of the conservatory
+in Palermo (Anonymous, uncataloged).
+
+17  “Studio preparatorio all’interpretazione della musica in
+stile legato. . . . Adottati dalla scuola d’organo del R. Istituto
+musicale di Firenze.
+”
+
+JMT 51:1 149-3 Stella ex. 10
+Gaetano Stella 
+
+!
+
+Š / ð ýýý
+0ð
+ð
+
+Łý ð
+ðý
+ð
+ŁŁ
+Ý / ¼ ¹ Ł� Ł Ł ð
+0
+8
+5
+3
+
+—
+—
+5
+
+  Partimenti in the Age of Romanticism
+
+¦ ðý
+ð
+² ð ýý ¦ ðð ýý ² Ł ²¦ ðð ýýý
+ð
+ð
+Ł
+�
+ð
+Ł Ł −Ł
+Łý Ł ð Ł
+Ł
+
+−ð ýýý
+ð
+ð
+
+¦4
+
+−7
+
+3
+—
+—
+
+—
+3
+
+Š ððŁý −ð ² Ł ¦−ðŁý
+ð − ð Ł − Ł ýý ð
+ð
+ð
+Ý ðý
+Ł Ł −Ł Ł −Ł Ł
+Ł ²Ł
+−6
+
+—
+—
+8
+
+—
+²3
+—
+
+—
+—
+
+—
+—
+−6
+
+—
+¦3
+—
+
+12
+
+!
+
+3
+—
+—
+
+—
+—
+—
+
+17
+
+4
+—
+—
+
+ðý
+¦ Łð ý −ð
+ð
+
+− ððý ð − Ł
+Ł
+Ł Ł ðý
+
+—
+
+—
+—
+
+—
+—
+—
+
+−6
+
+¦3
+
+¦3
+²6
+
+—
+
+—
+
+—
+—
+—
+
+—
+8
+—
+
+—
+—
+
+−6
+
+3
+—
+
+—
+
+—
+
+¦3
+²6
+
+²6
+¦3
+
+²5
+
+—
+8
+—
+
+—
+6
+—
+
+—
+
+—
+—
+5
+
+−7
+
+—
+
+—
+—
+—
+
+−7
+
+8
+—
+—
+
+—
+—
+
+—
+—
+—
+
+—
+
+—
+—
+
+−5
+
+—
+—
+—
+
+−3
+
+—
+
+Š −−ððý
+Ł ðý −¦ ð
+ð −Ł Ł
+− ðð ýý ¦ Ł ðŁ −ð Ł Ł ýý
+ð
+− ð −Ł
+ð
+ð
+Ł
+Ł ð
+Ý Ł
+Ł −ð
+Ł −−Ł −Ł
+Ł −ð ý
+Łý �
+−Łý �
+−ð ý
+—
+—
+—
+
+—
+—
+—
+
+—
+
+−4
+
+2
+
+¦6
+
+—
+—
+—
+
+—
+—
+—
+
+—
+
+−3
+
+22
+
+!
+
+—
+2
+—
+
+4
+
+²3
+
+¦7
+
+Š Łý ð
+ðý
+ðý
+Ł
+ðý
+ð
+² Ł ýý ¦ ² Ł ²¦ Ł Ł ² Łð − ð Ł − ð Ł −Ł −ð ð ýý − ð
+ð
+Ł Ł Ł
+Ł
+�
+Ý ð
+Ł Ł
+Ł Ł Ł Ł Ł ðý
+² Ł Ł −Ł ¦ Ł ð
+Ł
+—
+—
+5
+
+!
+
+5
+—
+—
+
+—
+
+—
+—
+
+3
+
+²6
+
+7
+
+!
+
+183
+
+—
+—
+—
+
+—
+—
+—
+
+—
+
+−8
+
+—
+—
+—
+
+¦4
+
+—
+
+—
+—
+
+—
+6
+—
+
+−10
+
+—
+—
+
+—
+—
+
+¦4
+
+9
+—
+—
+
+Š − ð ý Ł Ł ¦ Ł −Ł ŁŁ − Ł −Ł −−Ł −Łðý ð
+ð
+Ł Ł ¦Ł Ł ð
+ð
+Ł Ł Ł
+−Ł Ł Ł ¦ð
+Ł
+ð
+ð
+Ł Łð ýý Ł Ł ² ð
+Ý
+−ð ý
+Ł Ł Ł Ł Ł Ł Ł Ł ²Ł
+ý
+ý
+ð
+ð
+—
+
+−7
+−5
+
+—
+6
+4
+
+—
+7
+5
+
+—
+
+¦7
+¦5
+
+−11
+—
+—
+
+10
+9
+7
+
+—
+
+−8
+6
+
+−5
+7
+¦5
+
+−4
+8
+6
+
+—
+3
+—
+
+4
+—
+—
+
+—
+—
+8
+
+—
+—
+—
+
+—
+8
+—
+
+Example 10. Tacchinardi, chromatic partimento excerpts: mm. 1–27; realization by this author
+
+—
+6
+—
+
+²8
+
+—
+—
+
+184
+
+J ourna l o f M usi c T h e ory
+
+harmony and counterpoint to complete a realization. But on the other hand,
+they cannot hope to gain any intimate acquaintance with the laws of composition that the old partimento practice assured. The harmonization of this
+partimento strays far from the Neapolitan rules. The chromatic motions of
+the bass, for example, are accompanied differently from what was possible in
+Fenaroli. Dissonant and chromatically altered chords resolve to other altered
+chords in an uninterrupted flux, and a strong cadence is found only at the
+very end of the composition (not shown in Example 10).
+Conclusions
+
+All the authors discussed exemplify different aspects of the nineteenth-century practice of partimenti. The collections in use remained the same for most
+of the century: Fenaroli’s above all, but also some by Carlo Cotumacci and
+Mattei. The collections of earlier masters like Leo, Alessandro Scarlatti, and
+Durante were far less used, perhaps because of their lack of a clear pedagogical progression and perhaps because they were more wedded to an archaic
+style. The greatest change, however, concerned the use of partimenti. At the
+beginning of the nineteenth century, the partimento was still a tool used for a
+global approach to composition teaching, just as it was in the previous century.
+Through the partimento, students learned not only how to place the proper
+harmonies above a bass, but also how to shape a complete piece of music in a
+given style. During the nineteenth century, the partimento gradually became
+something entirely different—an exercise in harmony. On the one hand, classic works by Fenaroli were being realized in a four-voice, steadily progressing,
+block-chordal style. On the other hand, newly composed exercises (like those
+discussed in this essay) became little more than basses for harmonization,
+even if retaining the traditional name of partimenti. A clear sign of this shift
+is the disappearance of one typical feature of the real partimento: the change
+of clefs. In fact, eighteenth-century partimenti usually moved freely from one
+voice of the texture to another and, except for the simplest partimenti, rarely
+confined themselves to the bass voice alone. Another significant change was
+the gradual disappearance of contrapuntal features like imitation, canons, and
+fugal procedures. An entire genre of partimento (perhaps the most important
+of all), the partimento fugue, disappeared entirely from pedagogical practice.
+Its place was taken by the new genre of exercise, the basso imitato e fugato.
+But the decisive element, the one that caused the definitive twilight of
+the partimento tradition, was its divorce from improvisation. Only through
+practice in the improvised realization of partimenti could students fully
+develop their potential, fashioning in their minds a deeply rooted compositional instinct. The shift from improvisation to written practice marked the
+end of a centuries-long and glorious tradition.
+
+Gaetano Stella 
+
+  Partimenti in the Age of Romanticism
+
+Works Cited
+
+Boucheron, Raimondo. 1842. Filosofia della musica o estetica applicata a quest’arte. Milan: Ricordi.
+———. [1856]. La scienza dell’armonia spiegata dai rapporti dell’arte coll’umana natura—Trattato
+teorico pratico. Milan: Ricordi.
+———. [1867]. Esercizi d’armonia in 42 partimenti numerati. Milan: F. Lucca.
+De Nardis, Camillo. 1933. Partimenti dei maestri Cotumacci, Durante, Fenaroli, Leo, Mattei, Platania,
+Sala, Scarlatti, Tritto and Zingarelli. Milan: Ricordi.
+Fenaroli, Fedele. [1814]. Partimenti ossia basso numerato. Opera completa di Fedele Fenaroli per uso
+degli alunni del Regal Conservatorio di Napoli a Nicola Zingarelli Maestro di S. Pietro in Roma
+Direttore del medesimo Conservatorio Dall’Editore Dedicata. Publ. No. 500. Paris: Typographie
+de la Siréne, Chez Carli, Editeur, M.d de Musique, Livres Italiens et Cordes de Naples,
+Péristyle du Théâtre Favart, côté de la Rue Merivaux.
+Gjerdingen, Robert O. 2007. Music in the Galant Style. Oxford: Oxford University Press.
+Napoletano, Daniele. 1896. Partimenti, ricercate, fugati e fughe [di] Nicola Sala; scelti ed ordinati da
+Daniele Napoletano. Naples.
+Napoli, Jacopo. 1959. Bassi della scuola napoletana con esempi realizzati. Milan: Ricordi.
+Mossa, Carlo Matteo. 1988. “Una Messa per la storia.” In Messa per Rossini. La storia, il testo,
+la musica, ed. Michele Girardi and Pierluigi Petrobelli, 11–56. Milan: Istituto di studi
+verdiani/Ricordi.
+Platania, Pietro. 1871. Corso completo di fughe e canoni di ogni genere. Milan: Lucca.
+———. 1883. Trattato d’armonia, seguito da un corso di contrappunto dal corale al fugato e partimenti
+analoghi divisi in tre fascicoli. Milan: Francesco Lucca.
+Raimondi, Pietro. ca. 1830s. Bassi imitati e fugati divisi in tre libri. Naples: Girard.
+——. 1852. Nuovo genere di scientifica composizione: Andamenti di Basso numerato con una due o tre
+armonie. Naples: T. Cottrau.
+Rosenberg, Jesse. 1995. “The experimental music of Pietro Raimondi.” Ph.D. diss., New York
+University.
+———. 1999. “Il ‘leista’ Raimondi contro il ‘durantista’ Bellini.” In Francesco Florimo e l’Ottocento
+musicale. Atti del Convegno di Morcone, 19–21 aprile 1990, ed. Rosa Cafiero and Marina
+Marino, 75–97. Reggio Calabria: Jason.
+Rostagno, Antonio. 2003. La musica italiana per orchestra nell’Ottocento. Florence: Olschki.
+Sanguinetti, Giorgio. 1997. “Un secolo di teoria della musica in Italia. Bibliografia critica
+(1850–1950).” Le fonti musicali italiane 2: 155–248.
+———. 2005. “Decline and Fall of the ‘Celeste Impero’: The Theory of Composition in Naples
+during the Ottocento.” Studi Musicali 34/2: 451–502.
+———. In press. “L’eredità di Fenaroli nell’Ottocento.” In Giuseppe Martucci e la “caduta delle
+Alpi,” ed. Paologiovanni Maione and Francesca Seller. Lucca: LIM.
+Sala, Nicola. 1794. Regole di contrappunto. Naples: Stamperia reale.
+Stella, Gaetano. 2006. “Concezione e tradizione della Fuga nell’opera teorica di Pietro Platania
+(1828–1907).” Paper presented at the annual meeting of the Italian Society for Musicology (Società italiana di musicologia), Teatro Regio, Turin (October).
+———. 2007. “Un compositore erudito del secondo Ottocento italiano: Pietro Platania (1828–
+1907).” Ph.D. diss., University of Rome Tor Vergata.
+Tacchinardi, Guido. 1886. Saggi di basso numerato e di contrappunto. Milan: Ricordi.
+Tritto, Giacomo. 1816. Scuola di contrappunto. Milan: Artaria.
+Zingarelli, Nicolò. 1830. Partimenti. Milan: Ricordi.
+
+185
+
+186
+
+J ourna l o f M usi c T h e ory
+
+Manuscript Sources
+
+Anonymous. Bergamo, Biblioteca Civica Angelo Mai (I-BGc) Serassi 368GoV.
+Anonymous. Bergamo, Biblioteca Civica Angelo Mai (I-BGc) Serassi 198CGB.
+Anonymous. [Partimenti]. Naples, Conservatorio di Musica S. Pietro a Majella, Biblioteca
+(I-Nc) Platania 61.
+Fiodo, Vincenzo. 1835. Bassi imitati e fugati. Milan, Conservatorio di Musica Giuseppe Verdi,
+Biblioteca (I-Mc) Noseda Th.C.1426.
+Fodale, Carmelo. 1835. Bassi imitati e fugati. Palermo, Conservatorio di Musica Vincenzo
+B
+­ ellini, Biblioteca (I-PLcon) R38.
+Platania, Pietro. n.d. but after 1852. Ultimi bassi imitati e fugati. Naples, Conservatorio di Musica
+S. Pietro a Majella, Biblioteca (I-Nc) Platania 58.13.
+———. n.d. Sull’armonia. Studio teorico-pratico. Naples, Conservatorio di Musica S. Pietro a
+Majella, Biblioteca (I-Nc) S.C. 12.8.2.
+———. n.d. Naples, Conservatorio di Musica S. Pietro a Majella, Biblioteca (I-Nc) Platania
+58.3.
+Rossomandi, Florestano. 1874. Corso di partimenti armonizzati da Florestano Rossomandi sotto la
+guida del Prof. Luigi Vespoli. Collegio 1874. Naples, Conservatorio di Musica S. Pietro a
+Majella, Biblioteca (I-Nc) 84.3.47(5).
+
+Gaetano Stella is lecturer in music theory at Tor Vergata University, Rome. He is the author of Un
+compositore erudito del secondo Ottocento italiano: Pietro Platania (1828–1907) and Alcuni aspetti
+formali nei quartetti di Pietro Platania. 
+
+

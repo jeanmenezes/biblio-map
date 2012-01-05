@@ -1,0 +1,1550 @@
+Yale University Department of Music
+
+Schenker's High-Level Motives
+Author(s): Allen Cadwallader, William Pastille, Schenker
+Source: Journal of Music Theory, Vol. 36, No. 1 (Spring, 1992), pp. 119-148
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843912
+Accessed: 16/12/2009 05:31
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+SCHENKER'S HIGH-LEVEL MOTIVES
+
+Allen Cadwallader
+WilliamPastille
+It is well known that in the final stage of his career, Schenker abandoned the use of the term "motive" to describe aspects of the compositional process. What is not well known are the reasons that led to
+this rejection, and the great extent to which Schenker'sthinkingabout
+the role of motive in music had changed duringthe development of his
+ideas.1 In his Harmony (1906), for example, Schenker gives the following definition of motive:
+The motif is a recurring
+series of tones. Any series of tones may become a motif. However, it can be recognizedas such only where its
+repetitionfollows immediately.As long as there is no immediaterepetition, the series in questionmust be consideredas a dependentpart
+of a greaterentity, even if later on, somewherein the course of the
+composition, the series should be elevated to the rank of a motif
+(Schenker[1906] 1954, 4-5).
+Although the insistence on immediate repetition may seem somewhat
+out of the ordinary, this description reflects the spirit of most customary definitions, because it still considers motive to be a phenomenon
+of the musical surface.
+Three decades later, in Free Composition (1935), Schenker's view
+of motive had been radicallyaltered by his prolonged study of musical
+substructure;one could hardly have foreseen the extreme position he
+would adopt toward his earlier conception. Example 1 shows how
+much Schenker'sthinking had changed, and provides some indication
+119
+
+of why he now distrusted surface motivic connections. Taken from
+Free Composition,this sketch shows two passages from a Chopin Nocturne.2 An analyst guided only by motivic associations at the surface
+level would likely derive the passage in bars 11-12 from the opening
+motive of the piece; but Schenker considers such a derivationillusory.
+He says:
+Even within the foreground,figurations
+frequentlyappearwhich are
+based on previous statementsin the foreground.The occurrenceof
+both statementand variant(figuration)at the foregroundlevel-that
+levels withinthe foreground-creates
+is, the presenceof two structural
+the illusionthat the variantbelongsonly to the foregroundstatement,
+but in fact, throughthis statementit also relatesto the background
+and
+middleground
+(Schenker[1935]1979, 96).
+That is to say, as the sketch shows, both statements derive from the
+same middleground pattern, the first statement being one structural
+level that is furthertransformedinto the second statement. This transformation would not be possible without the more determinate motivic pattern in the middleground,and it is therefore a mistake to seek
+the origin of the figured version solely in its precursorat the surface
+(see example 1).
+This example and others like it in Free Compositionpoint to Schenker's rejection of his earlier conception of motive and to his negation
+of analyticalmodes that invoke motivic manipulationor "transformation" to explain, for example, the generation of contrastingformal divisions or the workings of development sections in sonata forms.
+Toward the end of his life, Schenker simply disavowed the notion that
+the examination of motives, in the sense of tone successions that unfold at the surface level, yield any significantinsights into the nature
+of the compositional process. This consideration raises two important
+questions: How did Schenker arrive at such a radical reversal in his
+thinking? And what, precisely, did Schenker come to accept as an alternative to conventional motivic analysis?
+It is evident that the definition of motive given by Schenker in Harmony probably would have led to some form of conventional motivic
+theory, had something not arisen to change his conception. What catalyzed Schenker's thinking about motive-and, indeed, his thinking
+about analysis in general-was melodicfluency, which he formally introduced in CounterpointI (Schenker [1910, 1922] 1987, 1:94-95).
+Melodic fluency is essentially a name for good voice leading in strict
+counterpoint, that is, motion primarilyby steps, with skips carefully
+controlled. This characteristicof strict counterpointtakes on great importance when Schenkerbegins to apply it to free compositions and to
+look for melodically fluent lines just beneath the surface of the music.
+120
+
+Chopin,Nocturneop. 15 no. 2
+
+(third
+prog
+
+I
+
+t)
+
+f
+
+r
+
+--
+
+t,
+
+(6-
+
+a) mm.1- 2:
+
+~
+
+Ifr^~~~
+
+Example 1. Sketch of Chopin: Nocturne in F
+11-12 (from Schenker, Free Com
+
+Example 2 shows two melodically fluent versions of excerpts from a
+free composition.3Example 2A reveals a line that is, as Schenkerputs
+it, "the ultimate product of ascending and descending figurations"in
+Bach's D-minor English Suite (Schenker [1910, 1922] 1987, 1:96); example 2B shows three separate, melodically fluent, contrapuntal
+voices underlyinga polyphonic melody from a later point in the same
+piece. These two examples also show that two types of results may be
+expected when the principles of melodic fluency are operative beneath, rather than at, the musical surface. First, long-range connections may be established, as in example 2A; second, underlying
+contrapuntalpatterns may be revealed, as in example 2B.
+This application of melodic fluency to free composition is the crucial step that led to Schenker's recognition of structurallevels and,
+eventually, to his discovery of the Ursatz.4The same application also
+began to change Schenker'sideas about motivic structure, because in
+these melodically fluent lines, he found motivic relationships not obvious at the surfacelevel; he could now begin to comprehendthe technique of concealed motivic repetition.5
+b.l
+
+2
+
+3
+
+9
+I8 1Fi110
+8
+
+9
+
+10
+
+4
+
+6
+
+5
+
+7
+
+12 13 14
+15-r
+11
+
+12
+
+13
+
+r^i r'r'i r^r'TTTTT1
+^Tr'i
+
+14
+
+15
+
+'^~~~~~~~~~~~~etc
+
+Example 2A. Sketch of J. S. Bach: English Suite No. 6 in D Minor,
+Prelude; mm. 1-15 (from Schenker, Counterpoint I
+[1910])
+for:
+a)
+
+b)
+
+.
+
+Example 2B. Sketch of J. S. Bach: English Suite No. 6, Prelude; mm.
+165-166 (from Schenker, CounterpointI)
+122
+
+Readings similar to those in example 2 are found in Schenker's
+work even as early as the 1909 analysis of Bach's ChromaticFantasy
+and Fugue, but his 1920 analysis of Beethoven's Piano Sonata op. 101
+marks the first extended application of melodic fluency to underlying
+motivic relations. The sketches shown in example 3 reveal a motivically significantfluent line of a descending fourth in the second movement of the sonata.6The relationshipsof example 3A are not difficult
+to perceive. The descending fourth is the primarycomponent of the
+graphlabeled Urlinie(in this context, the term Urlinierefers simply to
+a foreground reduction of the music), but there is also a motive consisting of a descending third that arises from the inner-voice counterpoint in bars 4 and 6. The sketch labeled Ausfuhrung (the final level
+of elaboration) indicates that this third-motive is the diminution that
+expands the final repetition of the germinaldescending fourth from fl
+to c' (see bars 7-8 in the Urlinie graph).
+The relationshipssketched in the graph of example 3B are of a different order. For example, the bass progression at level e, the lowest
+staff, reveals in bars 11-36 a motivic recurrenceof the same descending fourth-motive that opens the movement in bars 1-4; even the
+chromatic passing tones are present. A glance at the score makes it
+clear why such motivic parallels must be called "hidden":these connections are difficultto perceive because of the many interveningcontrapuntal and harmonic motions in the long stretches between bars
+11-19 and bars 25-36.
+Two important facts about Schenker's application of melodic fluency to free composition arise from example 3. First, by identifying
+motivic activity in the melodically fluent lines beneath the surface,
+Schenker expands the issue of motivic relations into another dimension; in addition to the obvious occurrences of motivic groups on the
+surface, there are also other relationships,involvingdifferent motives,
+on another level. Second, because of the voice-leading principlesgoverning melodically fluent lines, the motivic elements of such lines will
+consist mainly of step-wise motion.
+But there is a third importantfact not illustratedby the sketches in
+example 3. Schenker sees the presence of higher-level motives as a
+liberatingforce for the surface motivic relations; he places freedom of
+motivic association at the surface, while positing a certain amount of
+necessity in motivic association at the higher levels. In the introduction to the op. 101 analysis Schenker writes:
+On firstlookingat the Urlinien, shouldnot allowoneself to be disone
+illusionedby the fact that they all resembleone anotherin continual
+successionsof seconds, in repetitions,or also in a regularrise and fall,
+like breathingin and breathingout. For it is preciselythe task of the
+123
+
+Urlinie:
+T. 1
+
+2
+
+3
+
+4
+
+Ausfiihrung:
+I
+
+A
+
+?b
+v
+
+{ Ti
+
+I
+
+I
+
+JX
+
+J^
+
+J
+
+I
+
+-
+
+-l
+
+-
+
+I
+
+ab3) lI?I
+?fi;M
+
+r - r rr T_r'!
+4
+
+5 - 6
+
+I'.A
+
+3
+
+7 - 6
+
+6
+
+-
+
+IV -
+
+V
+
+I
+
+Example 3A. Sketch of Beethoven: Sonata
+(from Schenker, Beethoven: O
+
+T. 11
+
+a) Vdur
+
+12
+
+13
+
+14
+
+15 16 17
+
+18
+
+19
+
+5 6
+IV VII III V15-6VIilJ3V4
+(IV) d moll
+
+I/VI - 13
+a moll
+
+b) Vdur I/VI - 13IV
+a moll
+
+V/II3V4
+d moll
+
+20
+
+21
+
+5
+I3
+
+I
+
+22
+
+24
+
+23
+
+3
+
+V13-
+
+3
+
+I/VI
+f dur
+
+25
+
+26
+
+IV
+
+#V7/VIS
+V dur (en
+
+II
+
+V bVI -
+
+c)
+
+d)
+
+t
+e)
+
+r
+irr
+
+Vdur III
+
+VI
+
+6 -s.
+
+4Chrom.Dg 3
+2-
+
+u-eI
+
+F1'-
+
+w
+
+3
+
+by
+
+Example 3B. Sketch of Beethoven: op. 101/II; mm. 11-37 (Schenker, Beethove
+
+artist to bring forth his own tensions by means of this determinate
+numberof seconds,these specificrepetitions,this specificrise and fall;
+elicit fromthe risingandfallinglines, in concertwiththe
+to continually
+basic laws of voice leading and harmonicstep progression,new versionsof his own motivesandmelodies,andthusto resolveeach general
+case into its particulars:
+semperidem,sed non eodemmodo-more the
+artistcannot do (Schenker[1920]1972, 8).
+A remarkableinstance that demonstratesthe relation between surface freedom and underlyingnecessity is shown in example 4, a sketch
+of the Eb-minor Prelude from Book I of the Well TemperedClavier,
+published in Der Tonwille 1 (1921). This sketch reveals that the motivic relations of the melodically fluent lines beneath the surface consist of multiple repetitions of a single motive, a descending third.
+After commenting on the great variety of ways in which the thirdmotive is produced and shaded by different harmonicdegrees, Schenker proceeds to a brief discussion of the surface motives. He writes:
+that
+The firsttone of the Urlinie,bar 1, gives birthto an arpeggiation
+whichis confirmed
+also lays claimto independentmotivicsignificance,
+not only by the repetitionin bar 2, but also by its furtherapplications:
+see, for instance, the inversions in bars 4, 6, and so forth ...
+
+or the
+
+alterationin bar 3. [These remarksrefer to the score of the piece.]
+... In bar 4, the line ends at gb1. Now if in the Urliniea repetition
+of the motive were to follow beginningwith this pitch, then, because
+the motive alwaysfalls, the line would have been forced to descend
+wouldhardlybe possibleon account
+into a registerin whichdiminution
+of the very close proximityof the two outer voices-to say nothingof
+that arises from not exploitingthe
+the purely sonorousdisadvantage
+higheroctaves. With a simplebut ingeniousdevice [that is, the figure
+beginningon the downbeatof bar 4 of the score] the Urlinieis moved
+octave. Now, when in what
+up to the registerof the double-stroked
+followsthe same dangerand necessityreturnand are alwaysmet in the
+same fashion,this device also seems to be elevatedto the statusof an
+independentmotive, which then contributesin its own way to propagatingthe illusionthat one is dealinghere with a completelyseparate
+world in which the freest development of motives is the only law
+(Schenker1921, 39).
+On the surface, then, motivic association can occur in ways that seem
+haphazard,because the freely distributedsurface motives are carried
+along by the necessity inherent in the underlying Urlinie motives.
+The next step in the development of Schenker's thinking followed
+from his increasing awareness of the multiplicity of structurallevels
+during the publication of Der Tonwille (1921-1924). Examples 5 and
+126
+
+,
+
+Q
+
+l
+
+,W
+
+^ 8o^*"'
+^
+
+'"'
+***
+w^s - t.. .,.
+
+IIIb7
+
+VI
+
+I3
+
+IV
+
+IVII(
+
+I
+
+V
+
+JI
+I
+
+:~)
+
+bl
+
+[ !',. dbo)
+
+'
+
+I/II
+
+b?
+... 4
+
+IV V
+
+6j---~
+;
+
+I L. o
+t,o.
+IV
+
+I
+
+lVII(V)
+
+(tv)
+
+o
+.
+
+r ;'
+bo,,. -
+
+IV V 7
+
+.
+
+'|
+oI
+
+........-.I L
+
+VII(V)
+
+Clavier,Pre
+Example 4. Sketch of J. S. Bach: The Well-Tempered
+Der Tonwille 1 [1921])
+
+6, graphsof the theme (an aria) and thirdvariationof Brahm'sHandel
+Variations (1924), illustrate that Schenker has logically extended the
+principle of surface freedom and underlying necessity to all analytic
+levels.7 In example 5, for instance, the primarymotivic association at
+the
+level d is that of rising and falling third-progressions; determinate
+succession of these motives then supports the free introduction of a
+new motive-the neighboringtone-at level e. As one approachesthe
+surface, the freedom of motivic associationbecomes even greater, and
+tiny reflections of the higher-level motivic elements begin to appear.
+Thus, the level below g shows a diminished form of the rising thirdmotive of level d taking place within the neighboring-tonemotive of
+levels e and g. The score reveals further diminutions of the neighboring-tone motive and the rising third motive in the trills on the second beat of every measure.
+Viewed in this light, the motivic surface of the music now begins to
+shimmer: multiple diminished reflections of the higher-level motives
+float on a plane that is supportedand shaped by the very same motives
+acting in more determinate successions beneath the surface. It is
+merely a consequence of the principleof melodic fluency that the motives of the higher levels are extremely abstract and simple-in this
+case only third-progressionsand neighboring tones. These more determinate, abstractmotives might be called high-level motives.
+Example 6 provides another instance of the activity of high-level
+motives that illuminates the role of the higher levels in variation sets.
+A simple relocation of one of the neighbor notes of the theme (g2 in
+example 5, bar 3) from a weak position to a strong one (g2 in example
+6, bar 4) produces a different underlying necessity in the variation.
+The accented neighbor engenders a IV harmonyin the motion from I
+to V, a new scale step that changes the shape of all the levels and,
+particularly,the content of bar 4 of the theme. For example, the accented neighbor g2 and the subdominant, which are in force for two
+beats, displace the tone of resolution, the primarytone f2, to the weak
+part of the bar (in the theme, this f2 occurs on the downbeat, within
+an expanded tonic). The metric accentuationof the upper neighbor g2
+in the variation effectively inhibits f2 from moving into an inner voice
+and thus prevents the phrase from ending with 2 over V (compare bar
+4, respectively, in the lowest levels of examples 5 and 6).
+The repositioning and structural harmonic support of the upper
+neighbor-note g2 consequently alter the characterof the highest level
+in the variation, giving rise to a high-level motive-an accented neighboring tone-that had not been present in the theme. Furthermore,
+the generation of this high-level motive is communicated to the surface of the piece, where the effect of the accented upper neighbor can
+128
+
+T. 1
+
+2
+
+4
+
+3
+
+5
+o
+a
+
+a)
+
+B dur:
+b)
+
+i
+
+___
+_
+
+?
+
+I
+__
+
+8.
+10
+
+10
+
+V_
+
+A
+
+1
+
+,_
+
+...V..
+
+10
+B dur: I
+
+.
+
+.
+
+-10
+A
+
+2
+
+A
+AA A
+
+3
+
+A
+
+3 4
+
+5
+
+o
+10
+
+.-o:
+
+I
+3
+
+-e)--?....
+I
+
+10
+
+~A
+
+(Nbn)
+
+~5(Nbn)
+i
+
+3
+--,
+
+(
+
+?rt
+10
+
+Example 5. Sketch of Brahms:Varia
+del, op. 24/Aria (from Sc
+
+J
+(Nbn)
+
+3 (Nbn)
+
+'~
+B dur:
+
+(IV V
+10
+
+Bdur:
+
+I
+
+(IV
+
+V)
+
+I
+
+I
+
+Nbn) ( Nbn b4)
+
+(,
+
+r
+r'rmrrr..V
+
+)
+(N
+
+).
+
+rr
+V
+
+(I
+
+-
+
+V
+
+Example 5 (continued)
+
+V
+
+T.
+
+1
+
+2
+
+4
+
+3
+
+5
+
+6
+
+7
+
+8
+
+(Nbn)
+
+iJ
+
+a)
+B dur:
+
+I
+
+(NbU)
+
+L
+
+IV
+
+V
+
+V
+
+(Nbn)
+
+(Nbn)
+
+b)
+
+|
+
+T1
+bF>i
+
+I
+
+IV
+
+IV V
+
+I
+
+V
+
+V
+
+t
+
+l4Fe[+
+I
+
+IV
+
+V
+
+A....
+_-- -)
+
+!(6
+(b4
+
+"7
+
+I
+
+(IV
+
+V)
+
+I
+
+I
+
+IV
+
+V
+
+t36
+3
+
+V
+
+Example 6. Sketch of Brahms: Handel Variations, Var. 3 (from Schenke
+
+be felt in the many emphatic appoggiaturasthat are the most noticeable foreground characteristicof the variation.
+The specific attributesof motivic elements at different analyticlevels is finally addressed directly by Schenker in Das Meisterwerkin der
+Musik I (1925). In his analysis of the Largo from Bach's third Sonata
+for solo violin, Schenker explicitly links levels and motives together.8
+Referring to the upper three systems shown in example 7, he says:
+level carrieswith it its own motives[see levels b andc];
+Eachstructural
+and
+the specificorganization growthof these motivesparallelsthe specific organizationand growthof the level to which they belong. The
+nearerthey are to the foreground,the more developedand variedthe
+motiveswill be (Schenker[1925]1976, 152).
+At this point, however, the word "motive" has an unmistakablynew
+meaning. Schenker says:
+[Level b] shows the firststages of the diminution,the motives of the
+firstorder:the unfoldingof the uppervoice into progressions
+through
+into
+the sixth,fifth,andfourth,transfers the lowerandhigherregisters,
+andso on. All of these motivesare produced the uppervoice which,
+by
+verticalintervals[see level a]
+in its constantrise and fall, transforms
+them. In
+and
+into melodicprogressions leaps, therebyhorizontalizing
+other words, the motivesserve as links betweenthe upperand middle
+voices (Schenker[1925]1976, 143-144).
+Here the term "motive"is clearly applied to the constituent transformative elements of Schenker's method-that is, linear progressions,
+arpeggiations,octave transfers, and the like. These abstractelements
+now have the status of motives in Schenker's thought; indeed, these
+elements are his high-level motives.
+Bars 1-4 of example 7 illustrate how these high-level motives operate. Level b shows two high-level motives in those measures-an ascending arpeggiated sixth followed by a descending sixth, which is
+subdividedinto a third-arpeggiation
+plus a descending fourth. At level
+c, a new motive-an ascending third-arpeggiation-adds life to the
+opening arpeggiated sixth in bars 1-3. Finally, at the level labeled
+"Largo," we see yet more new motives used to flesh out the rising
+thirds of level c.
+This example underscorestwo significantpoints. First, the motives
+that unfold at the deepest levels of the middlegroundare very general;
+they express the most fundamental intervallic components of triadic
+unfolding. As the surface and foregroundlevels are approached,however, the choice of motives becomes considerably freer, because the
+132
+
+a)
+
+8
+
+Ib,
+'
+
+JJe
+
+=i
+-6
+
+5-
+
+I
+
+Harmonic
+
+steps askeys I
+
+F major
+
+6
+
+5
+
+I-II--V-lIIV
+
+2
+
+6-7-6-5
+(II)-
+
+V
+
+C major
+
+Example 7. Sketch of J. S. Bach: Sonata for Solo Violin No. 3, Largo; mm. 1-7 (fro
+in der Musik I [1925])
+
+transformationaleffects of diminution are constrained less at lower
+levels than at higher ones. The only requirementis that the motives at
+each level express the tonal content of the previous level. In other
+words, even if level b began with a different motive, it would still have
+to express the initial triad; even if level c did not use thirds, its motive
+would still have to act in the service of level b's rising sixth; and any
+other motives in the "Largo"level would have to conformto the needs
+of level c's third-arpeggiations.Thus freedom and necessity coexist at
+every level and stand in a delicate balance.
+Second, as the transformationsapproachthe foreground, there is a
+tendency to "bringdown" high-level motives into the diminutions of
+lower levels. For instance, the outline of a sixth that characterizesthe
+motive of the "Largo"level is a reflection of the high-level motive of
+the sixth from level b. Thus the foreground levels, and especially the
+surface of the music, incorporatemotivic elements from earlier levels
+both in the large and in the small, giving rise to cross-level motivic
+integration and the characteristicshimmering effect mentioned earlier.
+Having uncovered this variegated motivic activity across many
+transformationlevels, Schenker now comes to regard surface motivic
+relations with some suspicion. In the same article he writes:
+We see how the composer's
+createsa foreground,
+imagination
+bringing
+forthmotiveswhich,by virtueof theirliteralpresencein the music,are
+so readily accepted as "melodies"by the ear incapable of hearing
+is
+longerspans.But the sourceof the "melodies" revealedonly through
+an understanding successivestagesof voice-leading,beginningwith
+of
+the fundamental
+structure.
+The specificshapesof suchmelodiesare determinednot by the whim of an imaginationconcernedwith nothing
+but
+more than"melody," ratherby the necessitythatthe voice-leading
+structure
+(Schenker[1925]1976,
+processbe anchoredin a fundamental
+148-150).
+In Free CompositionSchenker finally rejects the term "motive"altogether, or, more accurately, he uses the term only in a pejorative
+sense. Instead of "motive," Schenker talks about the relationships
+among diminutions, a word he feels has broader application and that
+he uses in his own special way to denote the linear patternsthat unfold
+at different structurallevels. And the diminutionsat the deepest level
+of the middleground, the first elaborations of the fundamentalstrucof
+ture, Schenker now refers to simply as the "characteristics the first
+level of the middleground."9We can now better understandpassages
+like the following in Free Composition, indicating that Schenker's attitude toward the role of motive in music is now inimical to conventional views of surface motivic structure:
+134
+
+vision. For this reasonthey do
+Greatcomposerstrusttheir long-range
+not base their compositionson some "melody,""motive,"or "idea."
+transformations
+and
+Rather,the contentis rooted in the voice-leading
+whose unity allows no segmentationor names of
+linear progressions
+segments(Schenker[1935] 1979, 26-27).
+Given what we now know about high-level motives, it is not difficult
+to understandwhy Schenker came to embrace this extreme attitude:
+he had discovered that the source of lower-level motives is found in
+motives of a higher order, which he believed to be inherent in the
+grammarof the tonal system itself.
+*
+
+*
+
+*
+
+What we refer to as high-level motives received theoretical formulation in the brief but fruitfulperiod duringwhich the ten issues of Der
+Tonwille and the first and second volumes of Das Meisterwerkin der
+Musik were published (1921-1926). At this time the term "motive"
+still had meaning for Schenker, probablybecause his study of melodic
+fluencyrevealed a palpable connection between the "motifs"(his term
+in Harmony) of the surface and foreground and the figures of deeper
+levels. But his "Urliniemotives" and "motives of the first and second
+order," which developed duringthe 1920's, are different from the motives that he describes in Harmony (1906). In the later usage, Schenker means the melodically fluent, guiding lines that bind the surface
+and foreground to the more determinate Urlinie itself: simple and
+often undifferentiated lines, formations such as linear progressions
+and neighboring-tonefigures that establish certain parametersat high
+structurallevels.10
+It is not necessary to embrace the extreme position toward the role
+of motive in music that Schenker expresses in Free Composition. "Motive" is a useful term, as long as one understandsthat, like the term
+"harmony,"it denotes a thoroughly hierarchicalaspect of tonal structures; as Schenker came to realize in the 1920's, motives unfold at all
+levels below the background. In the final section of this study we further illustratethis point and examine the role of high-level motives (of
+the first- and second-order) in the exposition and development sections of Mozart'sA-minor Piano Sonata, K. 310.11 Whereas Schenker,
+however, was concerned primarilywith the motivic physiognomy of a
+specific piece, we are here considering high-level motives in a more
+general sense, as the "basicmotives" of the tonal system-figures that
+recur at middlegroundlevels and regulate the development of lowerlevel motives in contrasting passages and sections throughout the
+135
+
+tonal system. This perspective, we believe, can yield broader insights
+about the motivic properties of tonal music.
+*
+
+*
+
+*
+
+The arpeggiated descending fifth (E-C-A) in the opening bar of
+Mozart's A minor Piano Sonata is a well-known feature of the piece;
+in fact this motive is a feature of design at the surface and foreground
+in many of Mozart's works. More important for this discussion,
+however, is that the significanceof the melodic fifth from E to A extends into the middlegroundof the initial tonic area. In sonata movements in which the first part of the exposition is melodically and
+harmonicallyclosed, a version of the fundamental line naturally unfolds as part of a lower-level Ursatz parallelism.
+As example 8 illustrates,the firstphrase appearsto initiate this very
+process. The upper voice, however, descends only to 2, closure does
+not occur (the harmonic and melodic progressions are interrupted),
+and the consequent phrase quicklybecomes the modulatorytransition
+that establishes the mediant scale step. Thus the tonic area is not literally described by a complete fifth-progression.Schenker, however,
+referred to the first branch of an interruption(in a 3-line) not only as
+a fourth-progressionbut, more characteristically,as an "unfulfilled"
+fifth-progression.Thus we may conceptually represent the tonic region of the exposition by an Urlinieparallelism, a version of the fifth
+from E to A, which is both an individualfeature of design and a general construct-a high-level motive-that shapes the contexts for the
+unfolding of lower-level motives throughout the tonal literature.
+We now turn to the second tonal area (excluding the closing section), an overview of which is presented in example 9. The main point
+here is that another fifth-progression, a "first-order"middleground
+line from G to C, describes the upper voice from bars 22 to 45. A descent from natural 4 to 3 in the mediant region can be elaborated in
+general terms (like the middlegroundfifth of the tonic area) as a recurringfeature of minor-mode tonality. That is, this line is an element
+of tonal grammar,one of a few contrapuntal(melodic) archetypesthat
+arise from Auskomponierung,in this case, from the composing-out of
+the mediant scale step.
+In the minor mode, the bass arpeggiationfrom I to III frequently
+supportsS-4-3 of a fundamentalline (example 10). The resultingoctave (3 over III) between the backgroundouter voices, however, can
+present compositionalproblems at lower levels, because without elaboration this structuraloctave can produce closure and thus inhibit the
+composing-out of the mediant. Thus a lower-level version of a fundamental line is often applied to the new scale step so that musical con136
+
+A
+
+5
+
+I
+
+~~I
+
+6
+s
+
+mg
+4th
+
+7
+
+/, ,.J
+
+unfulfilled
+5th.prg.
+
+i
+
+L
+I
+
+,
+
+.
+V
+
+I
+
+Example 8. Mozart: Piano Sonata in A minor, K. 31
+
+A
+
+5
+
+G
+-F
+
+10
+
+?
+
+?--
+
+j J,
+5
+
+1
+
+10
+
+10
+
+10
+
+E)
+
+(F
+
+(P)
+
+~N
+
+J^ ^_^,100
+7
+
+6
+
+6
+
+7
+(P)
+10
+
+16
+10
+
+(6)
+I
+10
+
+A
+
+?
+
+A
+
+10
+
+a
+
+,,
+
+j,j^^u.
+
+L
+C: I
+
+V
+
+I
+A: 111
+
+Example 9. Mozart: K. 310/I; mm. 22-45 (second theme)
+
+tent may unfold before a structural5 is achieved.12As example 10
+shows, the local descent from S to I in the key of C major elaborates
+the background5-4-5 in A minor, creating the musical (and motivic)
+content of the second tonal area.13This is the general tonal explana138
+
+III
+
+III
+
+Example 10. Mozart: K. 310/I; middlegroundgraph of mm. 1-45
+
+tion. We may also consider the fifth-progressionas a high-level motivic archetype, a pattern similar to the fifth from the first tonal area,
+that establishes different conditions and thus different possibilities for
+lower-level motives in the tonal environment of the mediant.
+Example 9 shows that the descent from G to C is initially forestalled. Mozart twice leads his line from G to E (bars 22-31) as motions into an inner voice, before the main line at this level descends
+from f2 toward closure in bars 33-45 (the approach to the cadence is
+repeated; rhythm and register confirm closure, I in C major, only in
+bar 45). Thus, as example 10 summarizes,the fifth-progressionof the
+mediant key area is articulated so that the tone succession G-F-E
+emerges as a second-ordermotive, defined as such through repetition
+and the contrapuntalsupportof the bass (note the parallel lOths);this
+motive is a possibility realized from the conditions established by the
+recomposition in the mediant of the germinal descending fifth. This
+perspective provides a way of relating the contrastinglower-level motives of the firstand second tonal areas. Furthermore,we shall see that
+the third-motiverecurs again at a deeper level, holding a different set
+of possibilities for the lower levels of the development section.
+The large-scale tonal plan of the development section is rathertypical insofar as it reflects another recurringfeature of minor-mode tonality in sonata movements: the section begins in the mediant and
+progressesthroughthe subdominantto the structuraldominant, which
+is composed out as a retransition.The significantissue, of course, con139
+
+cerns the linear pattern that unfolds at a deep middlegroundlevel in
+the tonal space from III to V (example 11).
+The development begins with a restatement of the first theme, now
+in C major, with G as the main tone in the upper voice. A sequential
+passage follows, supporting motivic activity that belongs initially, as
+the disposition of register indicates, to the inner voices of the prolonged mediant region. The sequence gradually reestablishes the
+upper register, and its conclusion articulates the arrival of the subdominant and highlights a deeper linear connection: G has moved to
+F as the main tone in the upper voice. From that point, F is prolonged
+by a chromaticvoice exchange that expands the subdominant,producing the characteristicD$-E figure at the end of the subdominantregion. E is finally achieved in the upper voice with the arrival of the
+structuraldominant, completing the line G-F-E, which unfolds over
+the structuralprogression from 3, at the beginning of the development, to 2, at its conclusion.14
+The motivic fabric of the development section, therefore, is governed by the high-level motive G-F-E, which also shaped the lower
+levels in the mediant area of the exposition. Examining the motivic
+design of the middleground has revealed a deeply unifying relationship between the exposition and the development sections, an association that far transcends customary notions of surface and
+foreground motivic development.
+*
+
+*
+
+*
+
+Our analysis of Mozart's piano sonata has highlighted some of the
+general figuresconstituting a rarefied and limited class of motives, residing on higher planes, that communicate the determined course of
+the Urlinieto the lower levels. We can now usefully regardmotives as
+theoreticalconstructs as well as compositional elements of design in
+specific pieces.15The latter is the customarydescription, involving issues such as Art, the compositional process, and the imagination of
+the composer. On the other hand, high-level motives are, as Schenker
+might have put it, provided by the system: they are the general linear
+patterns that characterize middleground levels throughout the tonal
+literature, the "basic motives" of the tonal system.16
+This distinction provides a point of departure for examining motivic structure from a unique perspective. In our discussion of the
+Mozart sonata, we alluded to its contrasting lower-level motives as
+possibilities defined by similar high-level motives in different harmonic contexts. Consider now that lower-level motives in general (in
+all tonal pieces) are possibilities realized from the vast array of diminutions permitted by the grammarof the tonal language. The conditions that constrain the possibilities are represented contrapuntallyat
+140
+
+III
+
+IV
+
+Example 11. Mozart: K. 310/1; graph of development section, mm. 50-79
+
+deep levels by high-level motives; in other words, they establish certain parametersand limit the motives that unfold at lower levels from
+the vast number of theoretically possible formations. Since high-level
+motives are a class of figures that recur throughout the tonal literature, it is conceivable that general principles of motivic structurecan
+be revealed by examiningthe ways in which they relate to and interact
+with the compositional motives of lower levels.
+The idea of "realized possibilities" is not foreign to Schenker's
+thinking. In his later writings he frequently refers to the "seed and
+harvest," which, of course, is a metaphor that alludes to constraint
+and possibility.17 The seed is a prototype that encapsulates the
+biological conditions for the possibilities that are manifested in the
+harvest. Similarly,we view high-level motives as archetypes,which underlie all complex lower-level diminutions and appear in their most
+fundamentalforms at deep levels. They encapsulate information-the
+harmonic-contrapuntal
+possibilities realized at lower levels as specific
+motives, motives in the compositional sense.
+High-level motives by themselves, however, are almost too general
+to serve as practicalconstructs. In the Mozart sonata, for example, we
+saw that the third-progression G-F-E occurred in contrasting harmonic environments, in the mediant area of the exposition and in the
+development section, and thus defined two contrasting motivic networks. To reveal and quantify their latent possibilities, to see what
+conditions they exemplify, one must evaluate and compare high-level
+motives in the basic harmonic contexts of triadic unfolding in which
+they occur. In conclusion we explore briefly the applicationof a highlevel motive as a theoretical construct-as a motivic archetypethat establishes parameters and signifies possibilities.
+Example 12 represents the harmonic environment of the development section schematicallyas a chord progression, with the high-level
+motive as its upper voice. This middleground "harmonization"illustrates symbolicallythe arrayof pitch and intervallicrelationshipsthat
+define the conditions (possibilities) for the unfolding of lower-level
+motives (note that these motives, at least initially, arise from the
+working out of the inner voices). 18 In other words, the conditions for
+the unfolding of motives at lower levels in the development section
+can be determined from the conjunction of the high-level motive and
+the scale-step progressionfrom III to V. As can be seen by comparing
+examples 10 and 12, the lower-level motives of the development section arise from conditions very different from those in the mediant
+area of the exposition, where the same figureproduces a different network of tonal relationships. This last observation continues to clarify
+why Schenker came to distrust surface motivic connections. Compositions are not based on contrasting surface "themes"or "melodies,"
+142
+
+sion alone. In other words, the inner voices in this theoretical scheme
+are assumed to be lower-rankingthan the "soprano," and represent
+the source of the surface and foreground (compositional) motives of
+the development section (examples 12b and 12c).18Hence the conditions for the unfoldingof motives at lower levels are establishedby the
+conjunction of the high-level motive and the scale-step progression
+from III to V. These conditions, of course, are different from those in
+the mediant area of the exposition, where the same figure produces a
+different network of relationships. The last observation further clarifies why Schenker came to distrust surface motivic connections.
+Compositions are not based on contrasting surface "themes" or
+"melodies," but on contrasting tonal networks produced by the unfolding of the tonic triad and unified by high-level motives.19
+In closing, we consider again the notion of melodic fluency, which
+led Schenker to realize that motives unfold at various levels below the
+background, and which leads us to a conclusion about the archetypal
+nature of high-level motives: they resemble the elements of strict
+counterpoint, the most concise formulation of the essence of melody
+in tonal music. For example, the upper neighbor formation, which unfolds at all levels below the backgroundand is common "first-order"
+motive at the first level of the middleground, derives from third species; and basic linear progressions, which we saw at different middleground levels in the Mozart example, arise from the passing-tone
+motions of second species. These figures, of course, occur at all lower
+levels. But so do the ornate diminutions-the products of free
+composition-that are not permitted in strict counterpoint. Thus the
+physiognomy of the deepest levels of the middleground clearly illuminates the relationship between strict counterpoint and the foundations of motives.20
+These observations also shed light on our remarks about the balance of necessity and freedom that creates a regulated tension in tonal
+structures.21
+The deep levels are those most strictly governed by the
+basic shapes of strict counterpoint. By this we do not mean that highlevel motives are independent of the compositional process, only that
+they are natural features of the tonal system itself; they certainly interact with compositional design at lower levels. The balance, however, shifts in favor of freedom at the lower levels, the realm of free
+composition, where the imagination of the composer fashions the essential linear patterns of the tonal system into motives in the compositional sense. The specific shapes of these motives, to recall
+Schenker's words, are determined by the necessity that the voiceleading process be anchored in a fundamental structure. High-level
+motives are the agents of the fundamental structure that shape the
+course of the surface and foreground; they epitomize the essence of
+143
+
+E
+
+F
+
+G
+
+k-~~
+
+J1
+E,
+
+.
+
+4 bars
+
+20 bars
+a.
+
+9: r -
+
+4
+
+r
+
+V
+
+v
+
+IV
+
+III
+III
+
+b.
+
+%..K
+
+t ^
+
+c.
+
+Hy
+Cy
+
+r;Prv
+I
+
+111
+
+(P)
+
+If
+
+'
+
+C
+
+rf
+IV
+
+V
+
+Example 12. Mozart: K. 310/I; development section, mm. 50-74
+
+motives and define the contexts in which more elaborate formations
+unfold at lower levels. Thus a more complete examination of their
+properties can reveal universal principles of motivic relationshipsprinciplescommunicatedby the determined figuresof deep levels, the
+basic motives of the tonal system.
+144
+
+NOTES
+1. In the mid 1920's,before he completelyabandonedthe term in Free Compothat refersto generalfigures
+sition, Schenkerembraceda notion of "motive"
+that reside at the deep middleground
+levels and shape the developmentof
+lower-levelmotives (diminutions).Our intent is to clarifythe stages in this
+transformation Schenker's
+of
+thought.We will describehow he arrivedat this
+highlyabstractand hierarchical
+conceptionof motive, and then will illustrate
+these figuresin analytical
+contexts.Becausewe focus only on the complexevolution of Schenker'sideas, we have decided not to surveyhere the motivic
+A
+of
+views with those
+conceptsof his contemporaries. comparison Schenker's
+of other theoristsbelongsto a futureand more broadlyconceivedstudy.
+An earlierversionof this paperwas read at the 1989annualmeetingof the
+New PerSociety for MusicTheory as part of a session entitled "Schenker:
+spectives." The authors would like to express their gratitudeto Professor
+Charles
+the
+Burkhart, chairof thatsession,andto Hedi Siegelfor theirvaluable
+criticism.Translations by the authorsunlesscited.
+are
+2. The graphin example1 is from Schenker[1935]1979, suppl.:fig.117/1.
+3. Example2A is from Schenker[1910, 1922] 1987, 1:96; example 2B is from
+Schenker1987, 1:71.
+4. See Pastille 1990. Some of that discussion-enough to make comprehensible
+the notion of melodicfluency-has been recapitulated
+here.
+5. See also Burkhart1978, 145-175.
+6. The sketchesin example3A and3B are fromSchenker
+[1920]1972,35, 37-38.
+7. Examples5 and 6 are from Schenker1924, 3, 8, and Anhang.
+8. All of Schenker's
+analysesin the firsttwo volumesof Das Meisterwerk
+(19251926) share with his study of the Largo the same notions of layeredmotivic
+development.We have chosen to focus on this analysisbecauseSchenkerintroduceshis new motivicideashere andbecausehe explicitlyidentifies mothe
+tivesof different
+structural
+levels as "first-order,"
+and
+"second-order," so forth.
+9. See Schenker[1935]1979, 93-106, for an extendeddiscussionof diminution,
+whichcan be considered finalthoughtson matterspertaining whatis conhis
+to
+Schenkerdescribesthe specificcharventionallytermed "motivicstructure."
+acteristics the firstlevel of the middleground,
+of
+some of whichhe refersto as
+"first-order"
+on
+characteristics, pp. 29-52.
+10. Sylvan Kalib describesSchenker'slater usage of "motive"as follows: "[In
+Schenker'sessay on Bach's Largo] we encounterthe term 'motive' in the
+uniqueway Schenkeruses it: a successionof tones whichis formedfrom the
+Suchmotivesoccurin the variousstagesof
+specificprocessesof the diminution.
+voice leadingor diminution.Hence there are motives of the first or highest
+order . . . i.e., motivesof closest structural
+in
+to
+significance relationship the
+ursatz[sic]; motivesof the second order ... etc. Note the great contrastbetween this conceptionof the term 'motive'as opposedto its conventional
+use,
+referringsolely to motives in termsof the foreground,i.e., to successionsof
+successivenotes only." See Kalib 1973, 3:29.
+immediately
+11. For otherstudiesthat examinethe firstmovementof K.310, see David Beach,
+"The First Movementof Mozart'sPiano Sonata in A Minor, K.310: Some
+Thoughts on Structure and Performance," The Journal of Musicological Re-
+
+145
+
+search (1987):157-186;John Rothgeb discussesthe developmentsection in
+in
+"Designas a Key to Structure Tonal Music,"Journalof Music Theory15
+in
+Anal(1971):230-253; reprinted MauryYeston, ed., Readingsin Schenker
+ysis and Other
+Approaches
+(New Haven, 1977),72-93; OswaldJonasalso deals
+with the development section in Introduction to the Theory of Heinrich Schen-
+
+ker,transanded. JohnRothgeb,(New YorkandLondon,1982),103-104. The
+authorsare awareof certainsimilarities
+between the analysispresentedhere
+andthe studiesjustcited (primarily
+the
+regarding development
+section),though
+our interpretation conceivedindependently those analyses; do, howwas
+of
+we
+the
+on
+ever, gratefully
+acknowledge influenceof CarlSchachter our conception
+of this piece.
+We also point out that Schenker(1922)examinesMozart'sA-MinorPiano
+detail. His analysis,however, is in spiritand
+Sonata, K. 310, in considerable
+contentcloserto the Beethovenop. 101Erlauterungsausgabe
+(1920)thanto the
+moresophisticated
+analysespresentedin the firstand secondvolumesof Meisterwerk
+(1925and 1926).Althoughone can detect instancesof what Schenker
+wouldcall Urliniemotivesin his analysisof K. 310, the absenceof a stratified
+melodicdimension,or delineatedstructural
+levels, evincesan earlierstage of
+Schenker's
+was
+thought.The analysisdoes not indicatethat Schenker awareof
+differentlevels of motivicactivity,as he certainlywas in his analysisof Bach's
+Largo(1925). The analysisof K. 310 in the presentstudyreflectsthe more advancedanalytical
+and
+techniquefoundin the analysesof Das Meisterwerk Free
+Composition.
+
+12. Schenkerdescribesthis aspect of tonal grammar the "transference the
+as
+of
+formsof the fundamental
+structure individual
+to
+harmonies"
+(Schenker[1935]
+1979, 87-88). Ursatzand Urlinieforms, of course, are tonal archetypes.We
+considerthe Urlinie
+formsat the firstlevel of the middleground belowto be
+and
+inherentlymotivic;they are high-levelmotives.
+13. This is a controversial
+passagein Mozart'sfamoussonata,involvingtwo plausiblereadings.The issueconcernswhetherstructural (d2)appears the tran4
+in
+sition section (mm. 9-22) or in the line that describesthe second tonal group
+revealsa line
+(the mediantregion).Althoughthe voice leadingunquestionably
+E-D-C in mm. 1-23, example10 showsthatwe regardthis line as motioninto
+an inner voice: d2 leads to c2 in bar 23, but both are revealedas inner-voice
+tones becaused2 "reachesover" to the g2 that begins the second theme; the
+that e2 is still activeas the primary
+tone
+higherregisteris regained,suggesting
+tone
+5. The motionfromhigh G then passesthrough(and recalls)the primary
+S before4 and3 of the fundamental appearjust beforethe closingsection.
+line
+14. A structural
+outline of mm. 70-78 of this developmentsection is providedin
+EdwardAldwell and Carl Schachter1989, 489.
+15. See Cadwallader
+of
+motive. Although
+1988, 1-35, for a discussion a first-order
+writtenfirst,that studyactuallyrepresentsthe logicalnext stage of the examinationof Schenker's
+ideas that we are outliningin the presentessay.
+16. The point is often raisedthat a tone successionshouldrecur,at the same level
+or acrossdifferentlevels, to qualifyas a motive. But we see no reason for a
+theoretical
+that
+requirement a tone successionmustunfoldat a surfaceor foregroundlevel to be grantedthe statusof a motiveat a higherlevel. For example,
+one can easilyimaginea neighbor-note
+figure,a motiveby any definition,that
+146
+
+unfolds only at the first level of the middleground. The phenomenon of expanded repetition shows that deep figures can be motives. Why not, then, extend this reasoning and accept all deep linear patterns as inherently motivic,
+regardless of whether they characterize multiple levels? Like concealed motivic
+repetitions, reflections of high-level motives may appear at different levels, but
+they do not have to: this is one distinction between a theoretical and compositional notion of motive. In any case, high-level motives do satisfy this condition in a broader sense-they recur across different pieces.
+17. See for instance, Schenker's discussion of J. S. Bach's Little Prelude in E
+minor, BMV 941, in which he points out a rising third-progression (E-F#-G)
+that he refers to as the "seed" (Aussaat) that determines the subsequent "harvest" (Ernte); that is, this general figure, which unfolds at the surface and deep
+middleground levels, is the basis for most of the diminution in the composition
+(Schenker 1925, 109-110).
+18. We have not attempted in this brief exposition to address every question raised
+by this approach. For example, surface and foreground motives do not always
+unfold "below" higher-ranking tones; and registrally superior, high-level motives may include, but are subordinate to, the tones of the Urlinie. Consequently, the relationship between register, lower-level motives, and the "inner
+voices" of a tonal network must be developed as an issue in its own right in
+future studies.
+19. One should also consider rhythm in describing the properties of high-level motives. The figure G-F-E is a high-level motive precisely because its tones are
+high-ranking. The tones also embody various degrees of high-ranking durational weight: the G in the example governs 20 bars, the F, four bars. High-level
+motives unfold more slowly than motives at lower levels, and their tones often
+govern large amounts of tonal space. This observation may seem rather obvious, but it continues to distinguish the relationships of the network. The rhythmic properties of a middleground motive can be described through the
+foreground span it embraces and the distance between its tones, indicating how
+fully the motivic possibilities of the network are worked out.
+20. Motives and motivic relationships, of course, are not aspects of strict counterpoint. Our point is that the basic shapes of high-level motives are codified in the
+five species of counterpoint.
+21. Schenker always considered the balance of necessity and freedom to be a hallmark of the creative artist. In 1924, for example, he writes (after Schiller), "But
+only when both combine-when the will freely complies with the laws of necessity and when the reason, notwithstanding all of the fluctuations of the imagination, maintains its rule-only then does the divine or the ideal emerge"
+(Schenker 1924, 3). This dialectic is put into sharper focus when one defines one
+of its aspects-necessity-in
+terms of the laws of tonality, of which high-level
+motives are manifestations.
+
+LIST OF WORKS CITED
+(Schenker's Works are listed in chronological order of the original
+German editions)
+Aldwell, Edward, and Carl Schachter. 1989. Harmony and Voice Leading. 2d ed.
+San Diego: Harcourt Brace Jovanovich.
+
+147
+
+Burkhart, Charles. 1978. "Schenker's 'Motivic Parallelisms'." Journal of Music
+Theory 22: 145-175.
+Cadwallader, Allen. 1988. "Prolegomena to a General Description of Motivic Relationships in Tonal Music." Integral 2: 1-35.
+Kalib, Sylvan. 1973. "Thirteen Essays from the Three Yearbooks Das Meisterwerk
+in der Musik by Heinrich Schenker: An Annotated Translation." Ph.D. diss.,
+Northwestern University.
+Pastille, William. 1990. "The Development of the Ursatz in Schenker's Published
+Writings." In Trends in Schenkerian Research, edited by Allen Cadwallader,
+71-85. New York: Schirmer Books.
+Schenker, Heinrich. [1906] 1954. Harmony. Trans. Elisabeth Mann Borgese; ed.
+Oswald Jonas. Chicago: University of Chicago Press.
+--[1909, rev. ed. 1970] 1984. J. S. Bach's Chromatic Fantasy and Fugue.
+Trans. and ed. Hedi Siegel. New York: Longman.
+[1910, 1922] 1987. Counterpoint. 2 vols. Trans. John Rothgeb and Jurgen
+Thym; ed. John Rothgeb. New York: Schirmer Books.
+[1920] 1972. Erliiuterungsausgabender letzten fiinf Sonaten Beethovens: Op.
+101. Rev. ed., ed. Oswald Jonas. Vienna: Universal Edition.
+1921. "Joh. Seb. Bach: Wohltemperiertes Klavier, Band 1, Praludium EsMoll." Der Tonwille 1: 38-45.
+1922. "Mozart: Sonate A-Moll." Der Tonwille 2: 7-24.
+1924. "Brahms: Variationen und Fuge uber ein Thema von Handel, Op.
+24." Der Tonwille 8/9: 3-46.
+[1925] 1976. "The Largo of J. S. Bach's Sonata No. 3 for Unaccompanied
+Violin [BMV 1005]." Trans. John Rothgeb. The Music Forum 4: 141-159.
+1925. "J. S. Bach: Zwolf kleine Praludien, Nr. 7." Das Meisterwerk in der
+musik 1:107-113.
+[1935] 1979. Free Composition. Trans. and ed. Ernst Oster. New York:
+Schirmer Books.
+
+148
+
+

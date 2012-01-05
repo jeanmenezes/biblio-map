@@ -1,0 +1,2271 @@
+Yale University Department of Music
+
+Key and Mode in Seventeenth- Century Music Theory Books
+Author(s): Walter Atcherson
+Source: Journal of Music Theory, Vol. 17, No. 2 (Autumn, 1973), pp. 204-232
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843342
+Accessed: 15/12/2009 08:13
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+204
+AND
+
+KEY
+
+IN
+
+MODE
+
+SEVENTEENTH-
+
+of modern
+cultural
+One of the more remarkable
+phenomena
+of a generally
+times is the emergence
+musico-synaccepted
+tactical
+(a musical
+known,
+among other
+"language")
+system
+and nineteenth
+of the eighteenth
+ways, as the "common practice
+or as the "major/minor
+centuries,"
+system of harmony," or as
+While twentieth-cen"tonal [as opposed to modal] harmony."
+inhave sought new ways to structure
+music,
+tury composers
+undiminished
+terest in the major/minor
+owing
+system continues
+to a variety of reasons,
+among them the facts that the bulk of
+stems from the common
+pracpresent day concert repertoire
+to music of
+and that theories
+relevant
+tice period,
+originally
+have been profitably
+and nineteenth
+centuries
+the eighteenth
+extended to more recent music.
+
+205
+
+CENTURY
+
+MUSIC
+
+THEORY
+
+BOOKS
+
+WALTER ATCHERSON
+
+Much has been written
+the major/minor
+concerning
+system.
+By far the most words have been expended in attempts to codify
+and make it into a workable method
+the syntax of major/minor
+of teaching
+Numerous
+music theory text books
+composition.
+fall into this cateof the eighteenth
+and nineteenth
+centuries
+of writing concerning
+the major/minor
+Another category
+gory.
+of those efforts
+to set forth philosophical,
+consists
+system
+of major/minor
+or acoustical
+harmathematical,
+explanations
+the first,
+often overlaps
+as it does already
+mony; this category
+in Jean-Philippe
+Rameau's
+TRAITE DE L'HARMONIE
+(1722).
+In the twentieth century the major/minor
+system has ceased to
+and the search
+for composition
+serve as a basis
+instruction,
+
+206
+and acoustical explanations
+for philosophical,
+mathematical,
+Yet interest in the system continues
+has proved unrewarding.
+Indeed
+in both its practical and theoretical manifestations.
+many recent studies have been concerned with that period of
+the late sixteenth century through the early eighteenth century
+and
+when the major/minor
+system was evolving in practice
+However, these
+finding recognition in theoretical treatises.
+studies are concerned principally with the evolution of major/
+minor harmonic syntax in musical practice; one could mention
+Dahlhaus's monograph on the origins of harmonic tonality or
+Apfel's many studies of the emergence of harmonic syntax. *1
+Evolution of major/minor key theory, on the other hand, has
+It is the purpose
+been largely overlooked by recent scholars.
+of this study to document the decline of modal theory in the
+seventeenth century and the concurrent emergence of major/
+minor key theory. *2
+Emergence of major/minor key theory in the seventeenth centuryput anend to a virtually unbroken tradition of modal theory
+The origins of
+which had endured for at least two millennia.
+and calendaric
+modal theory are to be found in cosmological
+speculation in Mesopotamia toward the beginning of the first
+millennium B.C. *3 Modal theory then passed over, mutatis
+mutandis, into music of the synagogue and of various early
+Christian churches; modal theory of medieval Europe, in turn,
+appears to be an importation from Byzantium. *4 Ancient Greek
+elements were superimposed on medieval European modal theory, but only because medieval theorists jumped to the conclusion that medieval modes were descendants of ancient tonoi.
+Amalgamation of medieval modal theory with the ancient Greek
+tetrachord theory was completed in the eleventh century, largely through the efforts of Hermannus Contractius. *5 When the
+church modes are given systematic presentation in a twentiethcentury dictionary or history book, the presentation is essentially that of Hermannus.
+Recent Misconceptions
+Since few scholars have been specialists in seventeenth-century
+music theory, one should not be surprised to encounter misconceptions of the relationship between modal and key theory.
+Some scholars suggest - or at least imply - that major/minor
+key theory is a direct lineal decendant of the modal system;
+Glarean is said to have introduced, in his DODECACHORDON
+(1547), two new mode pairs which quickly dominated the other
+four pairs, finally to their exclusion from the tonal system.
+Frere, writing in GROVE'S DICTIONARY, says, "The ancient
+
+207
+modes gradually disappeared until only the major and minor
+modes remained. *6 Lowinsky calls Aeolian and Ionian the
+forerunners of major and minor. "*7 Other scholars overlook
+the essential differences between modes and major/minor keys,
+differences I intend to clarify in this study. Bukofzer, for example, credits Lippius, CrUger, and Carissimi with reducing
+"the multiplicity of modes to only two (major and minor) ..
+*8 It should be pointed out, however, that "reducing to two"
+and "establishing two categories" are not the same.
+Lippius,
+for example (to cite one of the three whom Bukofzer names),
+still maintains twelve modes, but acknowledges that they are
+of two basic types according to the quality of third above the
+final; Zarlino had already done this before him. The relevant
+passage from Lippius reads as follows:
+A legitimate [authentic] mode [as opposed to a "spurious"
+one divided at the tritone] is either natural,
+mode, i.e.,
+when it has the major triad, or minor, when it possesses
+the minor triad. There are three of each kind, according
+to the species of triads - the one group comprises Ionian,
+Lydian, and Mixolydian, the other Dorian, Phrygian, and
+Aeolian. *9
+The remainder of Lippius's discussion of the modes adheres
+faithfully to the tenets and procedures of Glarean's twelvemode theory: that there are seven octave species, six of them
+capable of harmonic division and six of arithmetic division,
+and so on. *10
+Equation of major with Ionian and minor with Aeolian is accurate in one way - they share, respectively,
+the same intervalic
+arrangements - but quite misleading in other ways. Dahlhaus
+asserts that
+In an attempt, finally, to describe the change in mode condifcept in the 16th and 17th centuries, no terminological
+ferentiation is possible other than the designation of CIonian as "modus" and C-major as "Tonart. "*11
+And according to Grout, with the addition of a Bb to Modes I,
+II, V, and VI,
+
+". . .these
+
+modes
+
+became
+
+exact
+
+facsimiles
+
+of
+
+the modern'natural' minor and major scales respectively."*12
+The remarks of Dahlhaus and Grout are by no means "wrong,"
+but blur the essential distinction between mode and key (as
+represented by major and minor scales), and suggest direct
+lineal descent of major and minor scales from the modal system - a serious oversimplification
+at best.
+
+208
+Though it is misleading to regard key theory as a direct lineal
+descendant of modal theory, yet there are some historical ties
+One should keep in mind that the
+between the two systems.
+concepts of "mode" and "key" each consist of a cluster of ideas.
+The shift from modal theory to key theory might be described
+as a gradual change in constituency of the cluster of ideas
+making up the theory. However, the crucial idea in key thefocal pitch and intervalic structure (i.e., the tone
+ory-that
+system) be viewed as independent of one another - evolved apart
+from modal theory, as will be demonstrated in this study.
+Modes vs. Keys
+How do modes differ from keys? This question is of central
+importance to the present inquiry, and can be answered by
+comparing the constituent concepts of modal theory with those
+of key theory.
+1. Mode has a "natural" locus; Dorian, for example, connotes
+the series of pitches from D to d . Key, on the other hand,
+connotes no specific set of pitches, but rather one or another
+set of intervalic relationships (major or minor).
+To speak of a flat situated im2. Modes can be transposed.
+mediately to the right of a clef in music written before roughly
+1670 as a "key signature" is an anachronism; it is merely a
+Keys cannot be transsignal that transposition has occurred.
+posed in any theoretical sense, however. Beethoven's "Eroica"
+is in Eb major, not transposed C major.
+3. Modes are generally paired, each authentic with its plagal.
+Keys are also paired, of course, but in one or another of several ways, all quite different from authentic/plagal
+pairing.
+During the last several decades of the seventeenth century, C
+major, for example, was frequently paired with a minor mode
+Parallel major/minor pairing is in evon D (with B natural).
+idence somewhat earlier; relative major/minor pairing somewhat later.
+4. Modes are usually conceived of as consisting of species of
+fourth and fifth, keys as an ordering of whole tones and half
+tones. Keys and modes (at least for some theorists) are alike
+in one respect, though: they both admit optional pitches, e. g.,
+a Bb in Lydian or an F# inC major.
+5. Ambitus is an important aspect of mode definition and identification, but irrelevant to the concept of key.
+
+209
+6. In the church modes only one note besides the final has any
+structural significance,
+namely the "tenor" (dominant). Keys
+gradually acquired a whole set of hierarchical associations as
+harmonic theory evolved during the eighteenth and nineteenth
+centuries.
+The first note other than the key note itself to take
+on structural significance was, of course, the dominant; this
+occurred already in the seventeenth century. But the dominant
+of pitch keys is uniformly a fifth above the key note, whereas
+the dominant of church modes varies its position with respect
+to the final.
+7. The structural importance of the
+to rendition of psalms and canticles,
+portance of the dominant and other
+concerns harmonic progression and
+dences.
+
+tenor relates specifically
+while the structural imnotes in the key system
+pitch level of internal ca-
+
+8. Modes are generally taken up in connection with monophonic
+music; even when modes are dealt with in the context of polyphonic music, it is polyphonic music conceived of as a sum of
+monophonic musics.
+Key is usually associated only with polyphonic music in theory books of the last three centuries.
+During the period of transition from modal theory to major/
+minor key theory, roughly coextensive with the seventeenth
+of modes are often found
+century, elements and characteristics
+intermingled with key traits; the transition was hardly instanBut to say, in effect, that four of the six mode pairs
+taneous.
+fell into disuse leaving only Aeolian and Ionian, and that these
+two pairs were identical to minor and major, respectively,
+is
+to ignore the historical evidence of seventeenth-century
+music
+treatises.
+Glarean's
+
+Modes
+
+In 1547 Heinrich Loriti Glareanus published his famous DODECACHORDON. This book attempts to put modal theory back
+on firm conceptual foundation and thus make it a suitable and
+useful tool for dealing with sixteenth-century
+music.
+Glarean
+insisted on the inviolability of his octave species; a Bb would
+change Lydian into transposed Ionian. With the introduction of
+his two new mode pairs he also made the medieval doctrine of
+confinalis superfluous; a cadence on A need no longer neces13
+sarily be thought of as a cadence on the Dorian confinalis.
+Yet his modal system, as revolutionary as it was in some respects, was still a "modal" system.
+
+210
+In the latter half of the sixteenth century Glarean's system was
+The most
+adopted - and adapted - by most principal theorists.
+usual and significant adaptation was a reordering of the modes;
+Zarlino was apparently the first to do this (in 1571, in his
+Zarlino's motive for reDIMOSTRATIONI HARMONICHE).
+ordering the modes was not to give prominence to Ionian and
+Aeolian as recognition of the growing importance of major and
+minor in musical practice as is commonly asserted, *14 but in
+order to make the finales of the mode conform to the notes of
+the naturalis hexachord. *15
+Though Glarean's renovated modal theory found wide acceptance among theorists and wide recognition among composers
+of the seventeenth century, it had to contend with a number of
+rival theories, not to mention a great deal of confusion conIn the first place, the older eight-mode
+cerning the modes.
+some theorists advocated the eight-mode
+system persisted;
+system while rejecting Glarean's twelve modes, and others
+advocated the eight-mode system in addition to Glarean's twelve.
+whether they espoused eight or twelve modes,
+Most theorists,
+or both systems,
+admitted increasingly freer transpositions an attempt to accomodate keys then coming into general use in
+Other theorists, particularly from Catholic
+musical practice.
+areas, set forth a system of eight church modes which were in
+Still
+effect keys (Mode II=G minor, Mode VII=D major, etc.).
+other theorists reduced the modes to two, pairing them either
+(in chronological order) as a given major with its parallel minor, or as C major with D "Dorian, " or, finally, as a given
+major with its relative minor. Once the relative major/minor
+pair was established in theory the old "modal" key signatures
+were replaced by modern key signatures and the concept of
+Meanwhile vartransposed mode was rendered superfluous.
+ious "irregular" systems were proposed (i.e.,
+systems with
+much confusion was
+or successors),
+few, or no, precursors
+generated, and an attitude of either impatience or indifference
+toward the modes was often in evidence.
+"Irregular" Systems
+Since the last named category of modal theory, the "irregular"
+other
+seems to be of least historical
+significance,
+systems,
+than as a symptom of decline, it may be well to discuss it first.
+Sometimes a unique approach to modal theory is born of (what
+In a book entitled L'ART DE LA
+appears, at least) ignorance.
+POESIE FRANCOISE ET LATINE, AVEC UNE IDEE DE LA
+MUSIQUE SOUS UNE NOUVELLE METHODE (Lyons, 1694),
+Phdrotee de la Croix (?-1715) says, "La musique figuree a
+
+211
+quatre Chants, le Doresin, le Phrigien, l'Indien, & l'Ionique."
+The nomenclature itself suggests that de la Croix was merely
+ill informed.
+Other "irregular" systems tend either toward
+proliferation of modes or - in conformity with the general sevtrend - toward reduction of their numbers.
+enteenth-century
+Pier Francesco Valentini (ca. 1586-1653 or 1654), for example, set forth a system of 24 modes.
+Using the twelve modes
+of Glarean as a point of departure Valentini postulates twelve
+more: an alternate Dorian with finalis D and ambitus D to d
+but divided arithmetically on G; an alternate Hypodorian on D,
+but divided harmonically so that its ambitus is G' to G, and so
+on. 16
+The tendency toward reduction of the number of modes can be
+seen in such works as the early eighteenth-century
+manuscript
+PRINCIPES DU COMPOSITION of Nicholas Bernier (1665-1734).
+17 Bernier's seven modes are situated on each of the "white
+keys" and are identified as either major or minor according to
+the size of third above the final. Since some of these modes
+are furnished with chromatic alterations - e.g.,
+the second
+mode on re has a C, ascending and a Bb descending, while the
+mode on si has Ft, C#, and A# - they approach the modern
+notion of keys. This is all the more true of Bernier's alternate seven modes, in which major has become minor and vice
+versa; the alternate seven are furnished with key signatures to
+establish in effect such keys as C minor (two flats), D major
+(two sharps), and so on up to B major and Bb major, both of
+which possess "modern" key signatures.
+Had Bernier's manuscript been prepared 50 or 100 years earlier it might be regarded as an important step toward a concept of key; since it
+postdates the actual emergence of the major/minor key sysand anomalous, remtem, it must be regarded as a vestigial,
+nant of modal theory.
+Another way to reduce the number of modes is to abandon the
+distinction between authentic and plagal.
+De la Voye Mignot
+(fl. mid-17th century), in his TRAITE DE MUSIQUE (1656),
+having paid his respects to "Zerlain," insists that there can
+be only six modes.
+No real difference exists between a given
+authentic mode and its plagal since they share the same "cadences mediantes, dominantes et finales. " By eradicating the
+De la Voye Mignot has moved
+distinction,
+authentic/plagal
+closer to the notion of key.
+Marin Mersenne (1588-1648) observes that there could be as
+many as 72 modes, were all the options for placement of the
+
+212
+9:8 and 10:9 whole tones
+of reducing
+the direction
+twelve modes:
+
+but his preferences
+realized,
+He says
+the number of modes.
+
+lie in
+of the
+
+for very good reasons,
+[They] have not been established
+of fifth and fourth which
+as the same species
+inasmuch
+are found again in the same
+form the first seven modes
+. . it is unnecessary,
+order in the last five;
+therefore,
+. .for fear of an imaginarydisto augment their number.
+tinction
+which depends
+only on the name of the clefs and
+of the scale. *18
+the letters
+"One must not
+Mersenne
+On the other hand, however,
+says,
+or to rethink that I wish to do away with the twelve modes,
+them. "
+those who have established
+proach
+of modes
+for reducing the number
+The suggestion
+in seventeenth-century
+theory
+quently encountered
+reduce them to two - will be taken up later.
+
+most frebooks - to
+
+or seventy-two
+modes
+twelve,
+six, seven,
+twenty-four,
+with the eight church
+a certain
+uneasiness
+all suggests
+the
+all the confusion
+Yet amidst
+of medieval
+times.
+into the seventeenth
+church modes persisted
+century (and,
+eight
+This should hardly be surindeed, into the twentieth
+century).
+since the eight church modes lost none of their sigprising
+and though liturgy
+of Roman liturgy,
+in the context
+nificance
+then (as now) was undergoing
+sought
+many theorists
+changes,
+to transmit
+theory intact.
+eight-mode
+
+Four,
+- this
+modes
+
+The Eight
+
+Modes
+
+deal with eight modes only - often arguing that
+Some theorists
+deal
+can be no more than eight - while other theorists
+there
+the former with
+with both eight and twelve, clearly
+associating
+music.
+chant and the latter with polyphonic
+Scipione Cerreto
+the eight church modes
+transmits
+for example,
+(ca. 1551-1633),
+in his DELLA PRATTICA MUSICA
+Contractus
+of Hermannus
+that
+1601),
+ET STRUMENTALE
+arguing
+(Naples,
+VOCALE,
+As the title of his book sugthere can be no more than eight.
+In what aptheory is not limited to chant.
+eight-mode
+gests,
+use of
+the increasing
+pears to be an attempt to accommodate
+in practical
+transposimusic, Cerreto permits
+key signatures
+*18a
+treatises.
+found in earlier
+tions of the modes not generally
+but Dorian
+His "1. modo fitto con tre h quadri" is nothing
+he says "three sharps"
+removed
+upward by a major second;
+for the reason that he places an F# both above and below the C#
+
+213
+in his signature.
+The eight modes of Cerreto, then, are susceptible of transposition either a major second down or a major
+second up, as well as a perfect fourth up (as had been recogThe eight modes connized in treatises for over a century).
+tinued to be perpetuated, to the exclusion of the twelve, in such
+and eighteenth-century
+as the
+treatises
+other seventeenthARTE DE MUSICA DE CANTO DORGAM, E CANTO CHAM
+the BREVE METODO
+(Lisbon, 1626) of Antonio Fernandez,
+PER FONDATAMENTE, E CON FACILITX APPRENDERE IL
+CANTO FERMO (Milan, 1686) of Fabricio Tettamanzi,
+the
+RESUMO DAS REGRAS GERAES MAIS IMPORTANTES, E
+NECESSARIAS PARA A BOA INTELLIGENCIA DO CANTOCHAO (Coimbra, 1741) of Carlos de Jesus Maria, and the
+MATHODE NOUVELLE POUR APPRENDRE. . . LES REGLES
+DU PLAINCHANT ET DE LA PSALMODIE (Paris, 1748) of
+All of these are concerned with chant.
+Francois de la Feillee.
+What distinguishes the RESUMO of Carlos de Jesus Maria from
+sixteenth-century
+plainsong manuals such as Georg Rhau's
+ENCHIRIDION of 1518 is not so much the subject matter, but
+the use of Portuguese rather than Latin.
+Eight Modes,
+
+Twelve Modes
+
+Of those theorists who permit both the eight- and twelve-mode
+systems, Pierre Maillart (fl. early 17th century) made perhaps the strongest case for keeping the systems distinct from
+one another. Inhis LES TONS OU DISCOURS, SUR LES MODES
+DE MUSIQUE, ET LES TONS DE L'ItGLISE, ET LA DISTINCTION ENTRE ICEUX (Tournay, 1610), after chiding Glarean,
+et al., for countenancing terminoGregor Faber, Froschius
+"ton" (church
+logical confusion, he proceeds to differentiate
+One must
+mode) from "mode" (mode in polyphonic music).
+look to the dominant rather than the species of octave to determine a ton:
+to take into ac. . .in the case of ton it is not necessary
+count the species of octave (by which one recognizes the
+mode)
+
+but rather
+
+the dominant
+
+note.
+
+. . . Thus when it is
+
+a question of perfection of the ton, one pays no attention
+to the perfection of the mode, nor to the [species of] octave, but only to whether the dominant note stands in relation to the final of the antiphon in accordance with the
+rule of the tons. *19
+The rule of the tons referred
+verse
+
+to is the often invoked memory
+
+214
+Pri re la, se re fa, ter mi fa, quart quoque mi la,
+Quintfa sol, sex fa la, sept tenet ut sol, oct tenet ut fa. *20
+By keeping this verse in mind one can determine the ton of an
+antiphon; he need only observe the intervalic relationship between dominant and final. An antiphon whose dominant is la,
+and whose final is re, belongs to tonus PRImus. Since a "mode"
+is determined by species of fourth, fifth, and octave, it is not
+at all unlikely that ton and mode might be at variance in a given
+chant. Maillart adduces examples of such chants. *21
+Antoine Parran (1582-1650) likewise distinguishes
+the eight
+church modes from the twelve modes "of the Ancients" in his
+TRAITI DE LA MUSIQUE THIORIQUE ET PRATIQUE (Paris,
+1636). While Parran's treatment of church modes is conventional, his treatment of the twelve modes reflects the quandary
+confronting many theorists of his time: how to coordinate the
+twelve modes of Glarean with the modes of antiquity. Parran
+is thus equivocal about naming and numbering the twelve modes;
+the C mode might be either "le premier mode Dorique" or it
+might be the eleventh, Ionian, mode. In his examples of cadences he uses both sets of numbers and names.
+Pierre-BenOit de Jumilhac (1611-1682) deals withboth systems,
+the eight church modes and the twelve modes of polyphonic
+music, in his LA SCIENCE ET PRATIQUE DU PLAIN-CHANT
+(Paris, 1673). His discussion of modal theory is one of the
+more exhaustive among seventeenth-century
+theory books and
+served as the principal source on this subject for Sebastien de
+Brossard's (1655-1730) DICTIONNAIRE DE MUSIQUE (Paris,
+various mode cate1703). Jumilhac thoroughly investigates
+naturels, transposez; simples, miximpairs;
+gories-pairs,
+tes, excedans, superflus; etc. -22 - and various points of view
+concerning the number of modes: the several possibilities
+mentioned above together with a system of 210 modes (15 different octaves each set forth in 14 ways). Jumilhac also takes
+up the eight "pitch-key" modes, as well as the trend toward
+reduction to two modes. (A discussion of "pitch-key" modes is
+given below.)
+"Key" 'ignatures
+
+and Transposition
+
+theorists continued to perpetuate
+While seventeenth-century
+composers
+eight and/or twelve modes, seventeenth-century
+One
+continued to move toward strict major/minor
+polarity.
+very superficial manifestation of changes in seventeenth-century musical style can be found in the use of key signatures of
+
+215
+more and more sharps and flats. Theorists generally regarded
+as they had the one- and two-flat signatures
+these signatures,
+of the fifteenth and sixteenth centuries, as symptoms of transposition. Although these new key signatures betray a tendency
+toward recognition of keys, modal rather than key theory is
+the subject of discussion as long as there is talk of transposition. Key signatures, in fact, offer a clue to genuine "key"
+(as opposed to "mode") thinking. So long as C minor, for example, is given a signature of two flats, we can be sure that it
+was thought of as transposed Dorian. When given a signature
+of three flats, the relative major/minor system is likely to be
+assumed.
+Theorists of the seventeenth century typically advocated transposition by intervals other than the traditional perfect fourth
+and minor seventh up (with signatures of one and two flats,
+Cerreto (1601), as has already been noted,
+respectively).
+in addition to a perfect fourth up, a
+permits transposition,
+major second up or down - the latter equivalent to transposition
+While Cerreto's transpositions
+up a minor seventh.
+required
+no more than two sharps or flats, later theorists adduced transpositions involving, ultimately, seven flats and seven sharps.
+This ultimate step was taken by Alexander Frere (fl. early
+18th century) in his LES TRANSPOSITIONS DE MUSIQUE R~DUITES AU NATUREL, PAR LE SECOURS DE LA MODULATION (Paris, 1706). That Frere is indeed dealing with transposition of modes is borne out by the fact that his signatures
+for minor have either one flat too few or one sharp too many and, of course, by the fact that his book is entitled LES TRANSPOSITIONS.
+
+. . .
+
+For
+
+him
+
+Dorian
+
+is
+
+the prototype
+
+of minor
+
+(hence his signatures):
+We likewise regard the minor modulation on re as the most
+natural of all the other minor modulations, which in turn
+we call "transposed," and it is to the minor modulation on
+re that we relate all the rest. ':23
+(Just a year later the connection between transposition and key
+signature was to be severed by Saint-Lambert; see below.)
+Theorists on into the eighteenth century continued to perpetuate
+the notion of mode transposition and thus forestall, at least for
+their own readers, the emergence of key theory. In spite of
+Frere, these transpositions are often limited by signatures of
+no more than four sharps or flats: witness Johann Joseph Fux
+GRADUS AD PARNASSUM (Vienna, 1725), or
+(1660-1741),
+Geronimo Romero de Avila (fl. late 18th century), ARTE DE
+
+216
+CANTOLLANOY ORGANO O PROMPTUARIOMUSICO (Madrid,
+1785). *24
+"Pitch-key"
+
+Modes
+
+I have coined the expression "'pitch-key' modes" to refer to
+those systems in which the eight church modes are presented
+from the start as transpositions from their "natural" loci, several with their own key signatures.
+Mode II, for example, is
+usually set forth in this system with a G final and a signature
+of one flat; it can then be transposed - even back to its natural
+locus. Though universal agreement concerning pitch-key modes
+is lacking, a system such as that of Johann Jacob Prinner (1624In a manuscript treatise en1694) can be considered typical.
+titled MUSICALISCHER SCHLISSL (1677) Prinner sets forth
+the modes given in Example 1. ':25
+A
+These "modes" depart from one basic aspect of modality.
+genuine mode associates a certain fixed intervalic structureand only that one - with a specific focal pitch (final); if the focal
+pitch is removed by transposition, accidentals must be supplied
+to make the new pitch series conform to the intervalic structure. Thus it can be said that Prinner's modes approach the
+concept of key.
+The pitch-key modes appear to be a strictly seventeenth-century phenomenon; there is no mention of them in the works of
+L'ORGANO SUONGlarean, Zarlino, or Salinas, for example.
+ARINO (1605) of Adriano Banchieri (1567-1637) may be the first
+treatise to present eight modes in the guise of pitch-keys.
+Prinner followed Banchieri in several important respects (e. g.,
+but yet there exist
+his finals are the same as Banchieri's),
+Comsome important differences between the two systems.
+pare Example 1 with Example 2.
+Banchieri's cadences do not in every case outline what we would
+The reason for the "indifferente" cadence
+call a tonic triad.
+on A for Mode IV will become apparent when the liturgical role
+of these modes is discussed.
+(See below)
+Treatment of pitch-key modes similar to that of Prinner can
+be found in such other treatises as LA REGOLA DEL CONTRAPONTO (Milan, 1622) of Camillo Angleria, TRAITE DE L'ACCORD DE L'ESPINETTE (Paris, 1650) of Jean Denis, TRAITE
+DE LA COMPOSITION DE MUSIQUE (Paris, 1667) and DISSERTATION SUR LE CHANT GREGORIEN (Paris, 1683) of
+DICTIONNAIRE
+and Brossard's
+Guillaume-Gabriel
+Nivers,
+(article "Tuono").
+
+1 7
+
+2
+EXAMPLE
+1
+
+THE EIGHT MODES OF PRINNER
+
+2
+
+1
+o ?
+D
+4
+
+?
+a
+
+?
+o?
+
+3
+o
+
+I)
+o
+0I'o 1oO
+
+1I
+A
+
+O
+
+5
+
+"
+
+9
+
+vM
+i
+|
+
+"b
+
+C
+
+7
+
+Fb
+
+8
+Io
+
+..:R
+
+?
+
+? ?
+
+In
+
+c
+
+I
+
+.
+
+6
+
+%I'
+1.:
+
+El
+
+^ms
+,Z
+
+o
+-
+
+Gb
+
+Q#
+
+C5
+
+C5
+
+01
+
+I
+b
+
+C
+
+I
+
+IC
+
+218
+The pitch-key
+modes are evident in practical
+as well as theosources.
+retical
+as the schema by which various
+They. serve
+in a collection
+were to be organized,
+compositions
+just as major and minor keys were to provide the schema for ordering
+and fugues in such collections
+as J.K.F.
+Fischer's
+preludes
+DAS WOHLTEMPIERTE
+ARIADNE MUSICA and J. S. Bach's
+in Carlmann
+KLAVIER.
+The order of compositions
+Kolb's
+CERTAMEN
+AONIUM (1733) follows
+Prinner's
+(1703-1765)
+modes exactly
+to finals and key signatures),
+while
+(with respect
+the OCTI-TONUM
+NOVUM ORGANICUM (1696) of Franz Xaver
+adheres somewhat more closeAnton Murschhauser
+(1663-1738)
+modes - e.g.,
+the seventh mode, on D, has
+ly to Banchieri's
+a signature of one flat rather than two sharps.
+Murschhauser's
+modal system
+also differs from that of Kolb in that it contains
+one ("regularis")
+two fifth modes,
+starting on F but cadencing
+and the other ("irregularis")
+on an A major chord,
+beginning
+and ending on C. Neither version has a key signature.
+in seventeenthand
+Klaus Speer's
+study of tonus designations
+that some composers
+organ music reveals
+eighteenth-century
+modes
+so as to make a twelveadapted the idea of pitch-key
+arfor example,
+mode system.
+Georg Muffat (1653-1740),
+of his APPARATUS
+MUSICO-ORGANISTIranges the versets
+a minor
+indicates
+CUS (1670) as follows
+(lower case
+triad,
+capital a major triad):
+Figure 1. Modes as manifested
+*27
+MUSICO-ORGANISTICUS.
+Mode
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Initial
+d
+g
+a
+e
+C
+F
+C
+G
+e
+D
+c
+Bb
+
+key
+
+in Georg
+
+Key signature
+none
+one flat
+none
+none
+none
+one flat
+one flat
+none
+one sharp
+one sharp
+two flats
+one flat
+
+Muffat's
+
+APPARATUS
+
+Final
+
+triad
+D
+G
+A
+E
+C
+F
+C
+G
+E
+D
+C
+Bb
+
+Muffat's (16 90-1770) 72 VERSETL
+inGottlieb
+Most compositions
+SAMT 12 TOKKATEN (1726) conform to the pattern employed
+in Modes IX through
+though those compositions
+by his father,
+
+219
+
+EXAMPLE
+THE EIGHT MODES OF BANCHIERI:
+
+2
+
+Their
+
+I
+
+%
+
+-
+
+1
+|
+
+'
+
+t
+|1 1
+
+4t
+
+, o
+
+II'
+
+Mezana
+
+Principante
+2
+
+_
+
+"
+
+and Cadences*26
+
+Finals
+
+M
+
+|
+
+Indifferente
+
+Finale
+
+jo?II o rJ o |
+|-
+
+fJo1
+I
+
+I -"?oJo
+l
+
+I-o
+
+O
+
+I-o
+
+-- t"
+
+JHl
+
+j I
+
+- o J,
+
+I
+
+5
+
+0
+
+tP
+
+7
+
+XCT
+
+-
+
+#J?
+
+1-o
+
+J
+
+1-
+
+1
+
+220
+XII exhibit quite a different pattern.
+Figure 2 should demonstrate the points of difference between Georg's and Gottlieb's
+The numconceptions of a twelve- (pitch-key) mode system.
+bers in parentheses indicate how many compositions belong to
+each category.
+Figure 2. Modes IX through XII in Gottlieb Muffat's 72 VERSETL SAMT 12 TOKKATEN. *28
+Mode
+
+Initial Key
+
+Key signature
+
+9
+
+c
+
+two flats
+
+10
+
+A
+
+three sharps
+
+11
+
+e
+
+one sharp
+
+12
+
+Bb
+
+Klaus Speer's
+words:
+
+two flats
+
+study of tonus designations
+
+concludes
+
+Final triad
+C
+No 3rd
+A
+No 3rd
+E
+No 3rd
+Bb
+
+(4)
+(3)
+(5)
+(2)
+(4)
+(3)
+(7)
+
+with these
+
+The evidence provided by seventeenth-century
+keyboard
+composers shows that they employed a major-minor conUncept though using the traditional tonus designations.
+fortunately, no contemporary theorist took the trouble to
+analyze this phenomenon. *2 9
+theorists did
+As a matter of fact, some seventeenth-century
+Nivers offers a
+take the trouble to analyze this phenomenon.
+particularly thorough explanation in his DISSERTATION SUR
+LE CHANT GREGORIEN (1683), and others, such as Denis, in
+hisTRAITE DE L'ACCORD DE L'ESPINETTE (1650), contribute much to our understanding of the practical reasons for the
+existence of pitch-key modes. *30
+It may be well to recall at this point that the organ made increasingly frequent and pervasive incursions into Roman litFrom the
+urgy during the sixteenth and seventeenth centuries.
+start this took the form of polyphonic interpolations,
+usually
+between even numbered verses - which were sung in plainsong
+- of psalms or of canticles such as the Magnificat.
+These interpolations came to be known as "versets" (or "versos," or
+and had to be composed or improvised in such a
+"versillos"),
+way as to get the singers off again on the right pitch for the
+next verse or for the enclosing antiphon. As Nivers says,
+
+221
+In churches
+where the organ is used in the divine service,
+it is a rule of absolute
+that the organ give the
+necessity
+tone of everything
+that is sung by the choir after the organ
+*....
+That is why the singers,
+without bothering about
+should pay attention only to the finalis of the organ
+rules,
+. .and upon that organ finalis,
+which is always the finalis
+of the antiphon to be intoned,
+to regulate
+the first note of
+the antiphon. *31
+But what does this have to do with pitch-key
+If chants
+modes?
+were all to be sung in their "natural, " theoretical
+range,
+any
+would need to have a range of at least
+given group of singers
+In view of this, it seems quite likely that singers
+two octaves.
+in monasteries
+and parish churches
+to a comfortatransposed
+ble tonal level from earliest
+times.
+Indeed, music treatises
+of the Middle Ages do occasionally
+offer testimony
+about the
+of transposing.
+'*32 It is likely,
+too, that the organist
+practice
+was expected
+to transpose.
+The earliest
+evidence
+literary
+for the organist
+comes from Arnold
+concerning
+transposition
+Schlick (fl. 1492-1527);
+though much of what Schlick
+says in
+his SPIEGEL DER ORGELMACHER
+UND ORGANISTEN
+(1511)
+is obscure
+and subject to varying interpretations,
+he leaves no
+doubt that transposition
+was a commonplace
+for the
+necessity
+various transpositions
+were
+And, of course,
+parish organist.
+as a means of accommodating
+the keys of
+commonly
+accepted,
+musical
+in music theory of the sixteenth,
+practice,
+seventeenth,
+and eighteenth
+centuries
+(see pages above).
+The essential
+difference
+between
+conventional
+transposition
+centuries
+and the
+theory of the sixteenth
+through eighteenth
+modes
+of Banchieri,
+Prinner
+et al., lies in
+eight pitch-key
+the fact that the latter were not generally
+as transregarded
+For Prinner,
+Mode II simply possessed
+a G finalis
+positions.
+and a signature
+of one flat.
+And for Banchieri
+Mode II could
+be transposed
+from G (with a signature
+of one flat) to D (no
+Yet the pitch-key
+modes themselves
+as
+signature).
+originated
+as Nivers clearly points out.
+transpositions,
+Nivers explains
+that the pitch level of the finalis should be set
+in relation to a pitch which might serve as a comfortable
+"reof the mode for a given choir; this
+citing tone" or dominant
+of chants into a comfortable
+implies
+transposition
+range for
+that choir.
+Not every transposition
+is satisfactory,
+however.
+Nivers
+for example,
+not to retain the same pitch for
+warns,
+dominant throughout a succession
+of chants in differingmodes.
+To do this might give rise to an awkward shift in tonal system,
+as Example
+3 (Nivers's
+illustrates.
+-33
+Part a of
+example)
+
+222
+of the First Antiphon in Mode
+3 shows the conclusion
+Example
+of the Second Antiphon, Mode
+I, and part b shows the beginning
+If a choir were to sing both
+II, situated in its natural locus.
+comfortable
+voice
+they would exceed
+antiphons
+untransposed
+A transposition
+is in order, but not the one using domrange.
+3 illustrates
+the awkward
+inant as pivot; part c of Example
+Nivers prescribes
+which would result.
+shift of tonal system
+illustrated
+the transposition
+by part d. A smooth transition
+to make matters
+even
+from one antiphon to the other results;
+on
+in this particular
+the Second Antiphon begins
+easier
+case,
+that the rethe final of the First. *34 It should be observed
+Mode II (though there
+to Prinner's
+sulting Mode II conforms
+exist discrepancies
+between Nivers and Prinner in the case of
+Nivers sets forth rules concerning
+some of the other modes).
+in successive
+of dominants
+intervalic
+chants,
+relationships
+in Examindicated
+rules which give rise to the transpositions
+ple 4. *35
+inciHowell's
+Baroque organ music reveals,
+study of French
+conform
+most
+mode designations
+that composers'
+dentally,
+of the modes
+as set forth by
+often to the finals and cadences
+DE LA COMPOSITION DE MUin his TRAITI
+Nivers himself
+identical
+a modal system
+This book adduces
+SIQUE (1667).
+with that of Prinner,
+except in the case of Mode IV, which conforms to Banchieri's
+system.
+on A
+cadence
+"indifferente"
+that Banchieri's
+It now appears
+the reciting tone
+(mentioned above) was designed to accommodate
+dominant) of Mode IV. Since key theory has vir(repercussio,
+connection
+with chant, one can infer eletually no historical
+ments of key thinking from the absence of ideas traditionally
+cadence
+indifferente
+associated
+with chant: when Banchieri's
+modal theories
+in subsequent
+(such as Prinner's),
+vanishes
+to the concept of key.
+music
+theory has moved a step closer
+on
+modal
+cadences
+who introduced
+it was Zarlino
+(Actually
+notes of what we would call the tonic triad, but in the context
+modal
+of Glarean's
+twelve-mode
+theory rather than of pitch-key
+theory.)
+Two Modes
+While modes were on the way to becoming
+major and minor
+in liturgical
+contexts,
+keys through the agency of transposition
+As early as the
+they were also on the way by another route.
+that the twelve modes
+mid-sixteenth
+century Zarlino recognized
+were of two basic types, those with a major third over the final
+reduce
+and those with a minor third, but he did not, of course,
+
+223
+EXAMPLE
+
+3
+FROM THE SECOND VESPERS OF CORPUS CHRISTI:
+conclusion of the First Antiphon (natural locus), and
+beginning of the Second Antiphon (natural locus and in
+two transpositions)
+
+dominant
+
+finalis
+
+I
+
+a
+
+et
+
+pa--nem
+
+ob---tu------lit.
+
+vi------num
+
+finalis
+b
+
+'
+
+@ Mi-- j-3-^-rj se--S -- -ra-- -tor
+
+Jr
+
+r~
+----------
+
+Do-
+
+finalis
+
+mi- --(nus)
+
+dominant
+
+c
+
+dominant
+
+finalis
+d
+
+D
+
+-^
+
+.
+
+J> J
+
+L
+
+_
+
+_
+
+J J' * I
+
+I
+
+I
+
+J '
+
+I
+
+-1
+
+I
+
+I
+J J-
+
+224
+EXAMPLE
+NIVERS'S TRANSPOSITIONS
+
+4
+
+0
+o
+
+61
+
+K 1-4
+OC
+Cc
+
+I
+
+101
+
+-
+
+nM
+
+I.-A
+3
+i)l
+
+0
+f
+
+Wr<
+<^i
+I
+rA
+
+14
+C
+
+.
+
+() 0
+q c
+
+5 c-
+
+M
+C
+
+(U cu
+
+s
+
+c
+
+p
+
+3
+a)
+Cd 0
+*
+e
+0
+
+0
+
+I
+
+0
+
+225
+their number to two. The credit for reduction to two apparently
+belongs to Giovanni Coperario and Thomas Campion (both are
+named since the question of priority cannot be conclusively
+settled), whose modal theories seem to have evolved independFrom the second decade of the
+ently of continental theorists.
+seventeenth century on, then, English theorists almost without
+exception deal with two modes, usually to the exclusion of the
+church mode system.
+Meanwhile, on the continent, two-mode
+theory did gradually take hold, most likely as a logical conrather than as a
+sequence of Zarlino's two-fold classification
+borrowing from Campion and Coperario.
+If eight or twelve modes are to be reduced to two, the question
+arises: which two? During the seventeenth century there were
+three different answers to that question.
+1.
+2.
+3.
+
+Two modes, equivalent to our major and minor, paired
+around a single final or key note.
+Two modes: C major and D Dorian.
+Two modes: C major and A minor, our modern "relatives."
+
+The first option, parallel major and minor paired together,
+seems once again to be a peculiarly
+English phenomenon.
+Christopher Simpson, in A COMPENDIUM OF PRACTICAL
+MUSIC of 1667, says
+I will show you this flat and sharp 3rd applied to the key in
+all the usualplaces of an octave, to which may be referred
+such as are less usual, for however the key is placed, it
+must always have its 5th divided according to one of these
+two ways, and consequently must be either a flat or a sharp
+key [i.e., either a minor or a major key]. *36
+Simpson then proceeds to give examples of, in our terminology,
+the tonic triads of the major and minor keys of G, A, Bb, C,
+D, E, and F.
+The second option, C major paired with D Dorian, seems to
+be a French phenomenon. :37 One can encounter this pairing
+in such works as Jean Rousseau's METHODE CLAIRE, CERTAINE ET FACILE POUR APPRENDRE A CHANTER LA MUSIQUE (1678), L'Affilard's PRINCIPES TRES-FACILES POUR
+BIEN APPRENDRE LA MUSIQUE (1694), and Loulie's ELEMENTS OU PRINCIPES DE MUSIQUE (1696). Even Rameau
+adhered to this pairing in his TRAITE DE L'HARMONIE*38
+of 1722, though in the "Supplement" to the TRAITE '-39 and in
+his subsequent theoretical treatises he embraced the modern
+concept of relative major/minor.
+
+226
+As to that modern concept of relative major/minor,
+by which
+I mean in effect the method of pairing which won out in the end
+- it appears for the first time, as nearly as can be determined,
+in Thomas Salmon's (1648-1706) A PROPOSAL TO PERFORM
+MUSICK IN PERFECT AND MATHEMATICAL PROPORTIONS
+(London, 1688), thus once again an English affair.
+Salmon's reason for pairing C major with A minor (for example) was to permit the viol player to play in those two keys
+To play in C major and then in
+without changing fingerboards.
+D minor would require an exchange of fingerboards.
+(Salmon's
+tuning advocated just intonation - hardly a revolutionary proposal. ) The outcome of Salmon's proposal was a table of proportions for major and minor pairs through three sharps and
+three flats.
+Later seventeenth- and early eighteenth-century
+English theorists - Lord North, for example - followed Salmon's lead.
+Though it cannot be proved at this time, it is likely that Salmon's concept of relatives has been passed down in Englishspeaking countries in unbroken tradition to the present.
+Key Theory
+Before key theory could evolve it was necessary that the concepts of focal pitch and intervalic structure be viewed as independent of one another, and before this could come to pass it
+that there be a vocabulary available to make
+was necessary
+the distinction between the two. Words such as mode, tone,
+Dorian, and so on, connote focal pitch and intervalic structure.
+Even the word "finalis" cannot be understood apart from an
+associated intervalic structure.
+The English appear to have introduced a concept of key - "key"
+understood as denoting focal pitch without necessarily connoting
+This is implicit in Simpson's remarks
+intervalic structure.
+(quoted above) as well as in Morley's admonition: when Philomathes asks if there is anything else wrong with his exercise,
+the master replies,
+"Yes, for you have in closing gone out of
+your key, which is one of the grossest faults which may be
+committed. "*40 For Campion, a key "guides and ends the
+whole song. "41
+Saint-Lambert (fl. early 18th century) was probably the first
+continental theorist to recognize the independence of focal pitch
+and intervalic structure and, at the same time, to set forth a
+system of relative major and minor keys. In his NOUVEAU
+
+227
+TRAIT1 DE L'ACCOMPAGNEMENT DU CLAVECIN, DE L'ORGUE, ET DES AUTRES INSTRUMENTS (Paris, 1707) SaintLambert makes a clear distinction between "ton" (key or keynote) and "mode" (as in major or minor). Our word "tonic" in
+its musical sense may very well go back to Saint-Lambert; the
+ton of a piece is indicated by the last note of the bass:
+This final is always the fundamental note of the air, and
+is so to speak the note tonique. ''42
+"Mode, " on the other hand, is the disposition
+pitches in relation to the tonic:
+Mode is the determination
+[chant] of an air, together
+(when there are any), must
+final.
+It is the particular
+music is built. `43
+
+of the remaining
+
+of the path which the melody
+with its [accompanying] parts
+take, all in accord with the
+system upon which a piece of
+
+Though there are 21 tons in name, there can actually be only
+12 tons, according to Saint-Lambert,
+upon which there can
+exist either the major or the minor mode. Saint-Lambert then
+proceeds to set up a table of tons with their key signatures.
+*44 Thus the minor mode on G (to cite one example) bears a
+key signature of two flats and is paired (as it had been with
+for Saint-Lambert, is
+Salmon) with B6 major. Transposition,
+a practical operation which changes the ton but not the mode.
+Thus to transpose an air is nothing else but to remove it
+from its ton in order to place it on another, without, however, changing its mode. *45
+While it is possible that Saint-Lambert came upon the notion
+of relative major/minor
+there is some
+pairs independently,
+circumstantial
+evidence to suggest that he knew the work of
+Salmon proposed, in his AN ESSAY TO THE ADSalmon.
+VANCEMENT OF MUSICK (London, 1672), to reduce the number of clefs to one; the bottom line would always be G and the
+register indicated by the letters T (for treble), M (for meane),
+and B (for bass).
+Saint-Lambert proposed an identical notational reform in his LES PRINCIPES DU CLAVECIN (Paris,
+1702) - hardly conclusive proof of Saint-Lambert's acquaintance
+with Salmon's work, but merely suggestive.
+The same kind of
+circumstantial
+evidence would suggest that John Francis de
+La Fond (fl. first third of the 18th century) followed SaintLambert
+
+in his
+
+A NEW SYSTEM
+
+OF MUSIC
+
+(London,
+
+1725).
+
+22S
+a notational
+La Fond not only proposed
+reform resembling
+that
+of Saint-Lambert,
+but also clearly
+set forth the latter's conthe word "nota" for "ton."
+cepts of ton and mode,
+substituting
+Conclusion
+of relatives
+in
+After Rameau took up the major/minor
+system
+the "Supplement" to his TRAITE, modal theory became a purely
+academic
+matter (at least outside the context of liturgical
+muThere were vestigial
+holdouts to be sure, some of which
+sic).
+in this study.
+Yet it was the concept of major/
+havebeennoted
+minor keys - that concept rather than the concept of modality and performers
+for the next two cenwhich served composers
+turies.
+To say that major and minor descended
+for two reasons:
+is misleading
+
+from
+
+Ionian
+
+and Aeolian
+
+1)
+
+and treated them as
+Those who dealt with two modes
+them to transposition,
+"modes, " i.e.,
+subjected
+genchose Ionian and Dorian.
+erally
+
+2)
+
+one on C and one on
+Those who dealt with two modes,
+them as keys from the start and ignored
+A, treated
+reto Ionian and Aeolian
+their fortuitous
+similarity
+spectively.
+
+Meanwhile
+the concept
+key modes,
+
+other groping attempts
+there existed
+of key, notably on the part of theorists
+which, however,
+proved fruitless.
+
+to arrive at
+of the pitch-
+
+not just a theory of mode,
+Key theory required as a prerequisite
+The English
+but a theory of focal pitch, of key.
+appear to be
+The word "key" perfor introducing
+this concept.
+responsible
+and it
+vades English
+century,
+theory books of the seventeenth
+to link the idea with modality in
+for Saint-Lambert
+remained
+such a way as to give rise to major and minor keys as we now
+know them.
+
+229
+REFERENCES
+
+ABBREVIATIONS
+AfMw
+AM1
+JAMS
+JMT
+MD
+Mf
+MGG
+
+ARCHIV FUR MUSIKWISSENSCHAFT
+ACTA MUSICOLOGICA
+JOURNAL OF THE AMERICAN MUSICOLOGICAL
+SOCIETY
+JOURNAL OF MUSIC THEORY
+MUSICA DISCIPLINA
+DIE MUSIKFORSCHUNG
+ed. DIE MUSIKIN GESCHICHTE UND GEGENWART.
+Blume, Friedrich,
+
+14 vols.
+
+1
+
+Kassel:
+
+Birenreiter,
+
+1949-1968.
+
+Carl Dahlhaus, UNTERSUCHUNGEN ZUR ENTSTEHUNG DER HARMONISCHEN
+TONALITAT, Vol. II of SAARBRUCKER STUDIEN ZUR MUSIKWISSENSCHAFT,
+ed. Walter Wiora (Kassel:
+Of Ernst Apfel's contributions
+1968.)
+Barenreiter,
+to this area, these might be mentioned:
+vom 16.
+"Wandlungen des Gertlstsatzes
+zum 17. Jahrhundert,"
+AfMw 26 (1969), 81-104,
+and BEITRAGE
+ZU
+209-235;
+EINER GESCHICHTE DER SATZTECHNIK
+VON DER FRUHEN MOTETTE
+BIS
+Wilhelm Fink, 1965).
+BACH, Teil I (Munich:
+Eidos,
+1964); Teil II (Munich:
+
+2
+
+The expression
+"major/minor
+in this study to connote scale
+
+3
+
+Eric Werner,
+"The Origin of the Eight Modes of Music
+UNION COLLEGE ANNUAL 21 (1948), 211-255.
+
+4
+
+Otto Gombosi,
+(1939), 128ff.
+
+5
+
+see
+Gombosi,
+"Studien," AM1 10(1938),
+149-174;
+THEORY OF SIXTEENTH-CENTURY
+GERMAN
+Indiana University,
+tion,
+1960), pp.6-14.
+
+6
+
+Walter
+MUSIC
+millan,
+he must
+
+7
+
+Edward E. Lowinsky,
+TONALITY AND ATONALITY IN SIXTEENTH-CENTURY
+MUSIC (Berkeley
+and Los Angeles:
+Univ. of California
+Press,
+1962), p.34.
+
+8
+
+Manfred F. Bukofzer,
+1947), p.386.
+
+"Studien
+
+zur
+
+key theory" and the word "key" itself
+as well as focal pitch.
+
+Tonartenlehre
+
+des
+
+frtlhen
+
+will be used
+
+(Octoechos),"
+
+HEBREW
+
+Mitielalters,
+
+also W.T. Atcherson,
+THEORISTS (Ph.D.
+
+" AMI 11
+
+MODAL
+disserta-
+
+H. Frere,
+"Modes.
+The Roman School,"
+GROVE'S DICTIONARY
+OF
+AND MUSICIANS,
+5th ed.,
+10 vols.,
+ed. Eric Blom (London:
+MacWhen Frere
+of "Gafori and his followers"
+1954-61),
+V, 802.
+speaks
+have in mind Glarean and his followers.
+
+MUSIC IN THE BAROQUE
+
+ERA(NewYork:
+
+W.W.
+
+Norton,
+
+230
+
+9
+
+Johann Lippius, SYNOPSIS MUSICAE NOVAE (Strassburg, 1612), "De modo
+musico. " "Legitimus est alius Naturalior qui tenet Triadem Harmonicam Naturaliorem: alius Mollior, qui Triadem Molliorem obtinet. Uterque Trinus
+est juxta Species Triadum: ille Jonicus, Lydius, & Mixolydius: hic Dorius,
+Phrygius & Aeolius .. ." See also Gioseffo Zarlino, ISTITUTIONI HARMONICHE, 2nd ed. (Venice, 1573), p. 182.
+
+10
+
+In the SYNOPSIS and also in his DISPUTATIO MUSICA TERTIA (Wittenberg,
+1610).
+
+11
+
+Carl Dahlhaus,
+
+12
+
+Donald J. Grout, A HISTORY OF WESTERN MUSIC (New York: W.W. Norton,
+1960), p.52.
+
+13
+
+W. T. Atcherson, "Theory Accommodates Practice: Confinalis Theory in Renaissance Music Treatises," JAMS 23 (1970), 326-330.
+
+14
+
+See, for example, Clement A. Miller, "THE DODECACHORDON: Its Origins
+and Influence on Renaissance Musical Thought," MD 15 (1961), 164: "By giving
+such prominence to the Ionian mode Zarlino recognizes the ever increasing
+importance of the major mode."
+
+15
+
+See Richard Crocker, "Perche Zarlino diede una nuova numerazione ai Modi?"
+RIVISTA ITALIANA DI MUSICOLOGICA 3 (1968), 48-58.
+
+16
+
+Lucas Kunz, DIE TONARTENLEHRE DES ROMISCHEN THEORETIKERSUND
+KOMPONISTEN PIER FRANCESCO VALENTINI (Kassel: Barenreiter, 1937),
+pp. 62-72. Valentini's DUPLITONIO, MUSICA DIMOSTRATIONE E DILUTIONE
+was probably written within a year or two of his death.
+
+17
+
+Nicholas Bernier, PRINCIPLES OF COMPOSITION, trans. and ed. by Philip
+Nelson. (Brooklyn: Institute of Medieval Music [1964]). The manuscript was
+most likely prepared after 1726. I am indebted to Dr. Nelson for clarifying
+for me certain terminological problems in Bernier's book.
+
+18
+
+MarinMersenne, HARMONIE UNIVERSELLE. TRAITEZ DES CONSONANCES,
+p. 183, quoted in and trans. by Albion Gruber, "Mersenne and Evolving Tonal
+Theory," JMT 14 (1970), 60-61.
+
+"Tonalitat.
+
+B. Systematik," in MGG XIII, col. 517.
+
+18a Theorists had since the fifteenth century been accounting for accidentals by
+way of the concept of transposition, of course, but transposition of the entire
+tone system rather than of modes. See, for example, Claude Palisca's article
+on Bartolome Ramos de Pareja in MGG X, col. 1911. Other means of accounting for accidentals consisted of adding tetrachords to the basic medievalgamut
+(Erasmus of HSritz) or starting Guidonian hexachords off on notes other than
+the traditional ones (Fernand Estevan).
+For Erasmus see Claude Palisca,
+"The Musica of Erasmus of H5ritz, " in ASPECTS OF MEDIEVAL AND RENAISSANCE MUSIC: A Birthday Offering to Gustave Reese, ed. Jan LaRue (New
+York: Norton, 1966), p. 645ff.; and for Estevan see Robert Stevenson, SPANISH
+MUSIC IN THE AGE OF COLUMBUS (The Hague: Nijhoff, 1960), pp.51-52.
+
+231
+
+19
+
+LES TONS
+
+OU DISCOURS.
+
+. .,
+
+p. 272;
+
+". .
+
+pour
+
+le faict
+
+du ton,
+
+il ne faut
+
+point prendre esgard a l'espece de diapason (par laquelle se cognoist la mode)
+ains a la notte dominante. .. . Aussi quant il est question de la perfection du
+ton, l'on ne prend point esgard a la perfection de la mode, ny du diapason,
+ains seulement, si la notte dominante respond a la notte finale de l'Antienne,
+selon la reigle des tons.
+20
+
+Ibid., p.205.
+
+21
+
+Ibid., p.265ff.
+
+22
+
+LA SCIENCE ET PRATIQUE DU PLAIN-CHANT, p. 133ff.
+
+23
+
+Frere, LES TRANSPOSITIONS. . . , p. 13. "Nous regardons de mme la modulation mineure du re comme la plus naturelle de toutes les autres Modulations
+& a laquelle
+mineures, lesquelles nous appellons a son egard, transposees,
+nous les rapportons toutes...."
+
+24
+
+Concerning the latter see Karl Gustav Fellerer, "Zur Chorallehre des Geronimo
+Romero de Avila, " in GESAMMELTE AUFSATZE ZUR KULTURGESCHICHTE
+SPANIENS ("Spanische Forschungen der Gorresgesellschaft,
+Erste Reihe"
+[Mtlnster, Westfallen: Aschendorffsche Verlagsbuchhandlung, 1962]), Vol. 19,
+265-268.
+
+25
+
+Hellmut Federhofer, "Eine Musiklehre von Johann Jacob Prinner, " in FESTSCHRIFT ALFRED OREL ZUM 70. GEBURTSTAG (Vienna: Rohrer, 1960), p.
+49. Mode VI lacks a signature in Federhofer's example, but by analogy with
+Mode II it should doubtlessly have one.
+
+26
+
+Banchieri,
+
+27
+
+Adopted from Klaus Speer, "What is Tonus in Polyphonic Music?" in ESSAYS
+IN MUSICOLOGY: A BIRTHDAY OFFERING FOR WILLI APEL (Bloomington:
+Indiana University, 1968), p. 142.
+
+28
+
+Ibid.
+
+29
+
+Ibid., p. 139.
+
+30
+
+For a thorough discussion of Nivers's and Denis's books, see Almonte Howell,
+"French Baroque Organ Music and the Eight Church Tones," JAMS 11 (1958),
+106-118. Some of Howell's findings will be summarized in the present study.
+
+31
+
+DISSERTATION SUR LE CHANT GREGORIEN, pp. 111-112, trans. byAlmonte
+Howell, ibid., 108.
+
+32
+
+See, for example, Gilbert Reaney, "Modes in the Fourteenth Century, in Particular in the Music of Guillaume de Machaut," in ORGANICAE VOCES: FESTSCHRIFT JOSEPH SMITS VAN WAESBERGHE (Amsterdam: Instituut voor
+Middeleeuwse Muziekwetenschap,
+1963), p.138.
+Reaney's article should be
+read in the light of Dahlhaus's findings; see Carl Dahlhaus, "Der 'Modus duodecimae' des Nicolaus von Capua, " Mf 16 (1963), 363-364.
+
+L'ORGANO SUONARINO, p.41.
+
+232
+
+"French Baroque Organ Music, " 111.
+
+33
+
+Howell,
+
+34
+
+Ibid.
+
+35
+
+Ibid.,
+
+36
+
+Christopher Simpson, A COMPENDIUM OF PRACTICAL MUSIC, ed. and with
+an introduction by Phillip J. Lord (Oxford: Blackwell, 1970), p. 23.
+
+37
+
+Thomas Rive advances the thesis that minor descended from Dorian in musical
+practice; consult his "The Dorian Origin of the Minor Scale in the Ecclesiastical Polyphony of the Sixteenth Century, " in STUDIES IN MUSIC, 2 (1968), 2132.
+
+38
+
+Implicitly, at least.
+TRAITE, p. 383ff.
+
+39
+
+Rameau takes issue with Frere (LES TRANSPOSI"Supplement," p.llf.
+TIONS DE MUSIQUE), whose key signatures for the minor mode all entail either
+one sharp too many or one flat too few. Rameau's table (pp. 12-13) sets forth
+major keys and their minor relatives, together with the "modern" key signatures.
+
+40
+
+Thomas Morley, A PLAINE AND EASIE INTRODUCTION TO PRACTICALL
+MUSICKE (London, 1597), ed. by R. Alec Harman (London: Dent, 1952), p.
+249.
+
+41
+
+Thomas Campion, "A New Way of Making Fowre Parts in Counterpoint" (c.
+1613), in THE WORKS OF THOMAS CAMPION, ed. by Walter R. Davis (Garden
+City: Doubleday, 1967), p. 324.
+
+42
+
+"Cette finale est toujours la note
+Saint-Lambert, NOUVEAU TRAITE, p.26.
+fondamentale de l'Air, & pour ainsi dire la note Tonique. "
+
+43
+
+Ibid. "Le mode est la determination du chemin que doit tenir le chant d'un
+Air, &celui de ses parties, quand il en a, le tout par rapport h la note finale....
+C'est le sistgme particulier sur lequel une piece de Musique est batie."
+
+44
+
+Norman Phelps, writing in Willi Apel's HARVARD DICTIONARY OF MUSIC,
+2nd ed. (Cambridge: Harvard, 1969), p. 847, apparently overlooked Salmon's
+and Saint-Lambert's treatises when he credited Alexander Malcolm with introducing modern signatures for the first time in A TREATISE OF MUSICK,
+SPECULATIVE, PRACTICAL, AND HISTORICAL (Edinburgh, 1721).
+
+45
+
+Saint-Lambert, NOUVEAU TRAIT,, p.32. ". . .Ainsi transposer un Air n'est
+autre chose que le tirer de son ton, pour le mettre sur un autre, sans neamoins
+rien changer a son mode."
+
+110.
+
+See Rameau's examples
+
+for the "Rule of the Octave,"
+
+

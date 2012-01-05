@@ -1,0 +1,576 @@
+The Geometry of Musical Structure:
+A Brief Introduction and History
+CAROL L. KRUMHANSL
+Cornell University, Ithaca, NY
+________________________________________________________________
+The purpose of this article is to provide a general introduction to the idea that musical structure can be
+represented geometrically. It begins by defining those elements that appear in the models in the three papers that
+follow. A brief review is given of psychological results demonstrating that these music-theoretic definitions
+describe implicit knowledge that listeners have of tonal-harmonic music. This is followed by a brief historical
+summary of maps that were proposed previously of keys, tones, and chords, and a hybrid tone-chord map. The
+article then summarizes a number of issues that arise in connection with geometric representations. Finally, the
+innovations in the three proposed models are highlighted, particularly their contributions to visualizing the
+dynamics and temporal relationships that exist in extended musical pieces.
+Categories and Subject Descriptors: H.5.5 [Information Interfaces and Presentation]: Sound and Music
+Computing
+General Terms: Design, Algorithms, Experimentation, Human Factors, Theory
+Additional Key Words and Phrases: Music visualization, tonality models, tonal analysis, harmonic analysis,
+computational music cognition, music theory, geometry
+__________________________________________________________________________________________
+
+WHAT IS TONALITY (OR KEY)?
+As background, let us start with some definitions from music theory, a highly developed
+field that provides a technical language for describing the structure of music. It is most
+developed in connection with traditional tonal-harmonic music of the 18th and 19th
+centuries, but has continued to evolve to describe compositional practice in more recent
+Western art music, jazz, and other popular styles, as well as music of non-Western
+cultures. Here we concentrate on compositions in tonal-harmonic music, and only the
+most essential aspects will be presented. In this context, the theory was developed with
+two basic objectives: to teach composition and to analyze the works of major composers.
+According to Hyer [2001], tonality is “One of the main conceptual categories in
+Western musical thought, the term most often refers to the orientation of melodies and
+harmonies toward a referential (or tonic) pitch class.” Thus, tonality is an important
+theoretical construct. Despite this, it is somewhat elusive and difficult to define. In
+Western tonal-harmonic music, tonality is equivalent to key, which is notated by a key
+signature. Let us establish some serviceable definitions that will be important for the
+tonality models presented in the following articles. To anticipate, the models in various
+ways and to varying degrees describe musical relationships for three kinds of elements:
+tones, chords, and keys.
+The most basic element of music is the tone (or pitch). This is what you hear when you
+press down on a piano key, for example. It is a sound with a fixed frequency
+__________________________________________________________________________________________
+Author’s address: Department of Psychology, Cornell University; email: clk4@cornell.edu
+Permission to make digital/hard copy of part of this work for personal or classroom use is granted without fee
+provided that the copies are not made or distributed for profit or commercial advantage, the copyright notice, the
+title of the publication, and its date of appear, and notice is given that copying is by permission of the ACM, Inc.
+To copy otherwise, to republish, to post on servers, or to redistribute to lists, requires prior specific permission
+and/or a fee. Permission may be requested from Publications Dept., ACM, Inc., 1515 Broadway, New York, NY
+10036, USA, fax: +1-212-869-0481, or permissions@acm.org..
+© 2005 ACM 1544-3574/05/0700-ART3B $5.00
+
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005, ARTICLE 3B.
+
+2
+
+•
+
+C. L. Krumhansl
+
+(expressed in cycles per second, called Hz – short for Hertz). If you are reading music,
+the tone is notated by a symbol, a note. It specifies the tone (as well as its duration, and
+likely also its loudness or dynamics). Other aspects that might be shown in the notation
+are how the tone is to be played by a particular instrument (e.g., whether it is to be
+plucked on a stringed instrument, called pizzicato), the phrasing (the degree to which
+tones should be played as connected or separated), and so on.
+Each tone (and note) has a name, say, C, D, E, … , which are repeated in each octave.
+For example, an octave above the middle C on the piano is another tone that is also called
+C. A pitch class contains all the tones with the same name in different octaves. Two tones
+form an interval, and the distance between the two tones is measured in semitones (which
+is the smallest interval in the Western chromatic scale). Each interval has a name: 1
+semitone = minor second; 2 semitones = major second; 3 semitones = minor third; 4
+semitones = major third, and so on. The two tones can be played either at the same time
+(simultaneous interval) or one after the other (successive interval).
+Chords play a central role in tonal-harmonic music. A chord is formed when three (or
+more) tones are sounded (together or in close temporal proximity). When there are three
+tones (or pitch classes), which happens frequently, the chord is called a triad. Different
+kinds of chords are formed depending on the intervals between the tones. A major chord
+has a major third between the lowest tone and the middle tone and a minor third between
+the middle tone and the highest tone (the tones C E G form a major chord). A minor
+chord has a minor third between the lowest tone and the middle tone and a major third
+between the middle tone and the highest tone (the tones A C E form a minor chord).
+A piece of music can be described as being in a particular tonality or key, such as the
+key of C major or A minor. This has a variety of implications for how the music is
+structured. The key specifies the most stable tone, Hyer’s referential tone or tonic. Often
+the piece will end on that tone and it will appear prominently throughout the piece.
+Implicit in all three models is the idea that by tracking the sounded tones, noting those
+that appear frequently and in special relationships to one another (such as those in certain
+chords), we can determine the local harmony (chords) and – on a somewhat longer
+timescale – the key.
+The tonality or key also specifies the scale, the tones that will appear most frequently
+(although non-scale or chromatic tones can also appear). The notes of the C major scale
+are C D E F G A B, whereas the notes of the G major scale are G A B C D E F#. The key
+signature specifies how many sharps (#) or flats (b) will appear in the scale. These two
+scales overlap in all but one tone (F vs. F#), and consequently they are described as
+closely related; their tonics are separated by an interval of a perfect fifth (7 semitones).
+From this develops the notion that keys are more or less related to one another. One
+important representation for key distance is the circle of fifths (shown here for major
+keys): C – G – D – A – E – B – F#/Gb – Db – Ab – Eb – Bb – F – C. Each tone is
+separated from its neighbors by the interval of a fifth. There is also a circle of fifths for
+minor keys. It is interesting to note that the tones of any (major or natural minor) scale
+are neighbors on the circle. For example, the tones of G major scale appear as the subset
+C – G – D – A – E – B – F#. All three models use the circle of fifths in one way or
+another, as described below.
+The tonality or key specifies certain chords (harmonies) that will be important
+structural elements, specifically the chords built on the tonic (the I chord), the fourth tone
+of the scale (the IV chord), and the fifth tone of the scale (the V chord). In a major key,
+all these will be major chords (a very consonant sound). Ends of major phrases (and
+especially the very end of the piece) are marked by conventional sequences of chords,
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+3
+
+called cadences. These often conclude with the V I chords. Finally, within a piece
+changes of key may occur; these are called modulations. These can be temporary, and are
+indicated in the notation by extra sharps or flats, or they can be indicated explicitly by a
+change in key signature.
+THE COGNITION OF TONALITY
+Starting in the late 1970s cognitive psychologists started investigating the idea that music
+theory might be more than an aid to composition and music analysis. The idea being
+tested was that music theory might also describe concepts listeners have about structure
+in music. Of particular interest for psychology was implicit knowledge in listeners who
+have not undergone explicit training in music theory. It is learned from experience and
+cannot be easily verbalized, somewhat like knowledge of grammar in one’s native
+language.
+Experimental studies have demonstrated that listeners have implicit knowledge of
+scale structure, harmony, and key distance, as described by music theorists. The studies
+used techniques that bypassed the technical language of music theory. For example,
+listeners might judge whether a tone fits with a melody, or whether two chords are
+similar, or detect changes in sequences that, given the key, may or may not violate
+expectations. The degree to which the results conformed to music-theoretic descriptions
+is reflected in Hyer’s [2001] statement: "A further complication (and recurrent tension)
+has to do with whether the term [tonality] refers to the objective properties of the music –
+its fixed, internal structure – or the cognitive experience of listeners."
+A few findings are noted here (for reviews, see Krumhansl [1990; 2004]). As
+evidence for listeners' sensitivity to tonality, experiments show that they can detect tones
+that are not in the scale. In fact, listeners have trouble remembering them and confuse
+them with other, more expected tones. They judge the tonic to be the tone that fits best
+with a key-defining context such as a scale or chord cadence. Below the tonic in the
+hierarchy are the fifth and third scale degrees. There is also a hierarchy of chords, headed
+by the tonic (I) chord, then the V and IV chords. Listeners have more difficulty
+assimilating shifts between distantly related keys than between closely related keys.
+Many other related experimental results have found evidence for implicit knowledge of
+tonality – and not just in trained musicians but also those without musical training,
+children, and listeners from other musical cultures.
+Stepping away from these specific findings, tonality is important for our experience
+of music. It provides a framework within which some elements are unstable and
+engenders expectations for how the music might resolve to more stable elements. This
+gives the music a sense of variation in tension over time. Patterns of tension-releasetension-release, and so on, serve to organize the music into segments, provide a sense of
+the music moving forward in time, and links the cognition of music to emotional
+responses.
+These developments in cognitive psychology were coincident with an increased
+interest in more explicitly cognitive approaches in music theory (for example, Lerdahl
+and Jackendoff [1983]; further developed in Lerdahl [2001]) and in an expanded interest
+in using computer models to aid in composing and analyzing music. The articles in this
+issue represent three of the most recent and most innovative approaches to modeling
+tonality in geometric terms. The major innovation that unites them is a concern with
+modeling the real-time experience of tonality, the fact that the sense of key changes
+dynamically in time. Before turning to the issues and problems addressed by the three
+approaches, let us consider some of their historical precedents.
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+4
+
+•
+
+C. L. Krumhansl
+
+Fig. 1. The musical circles showing key relationships proposed by (top) Mattheson [1980], originally published
+in 1735; and (bottom) Heinichen [1969], originally published in 1728.
+
+Maps of Keys
+Geometric representations of tonality have a long history. This section considers some of
+the many representations of key relationships that have been proposed. Apart from
+historical interest, they demonstrate some of the strengths and weaknesses of different
+approaches, and raise issues that will be relevant to the three models presented later in
+this issue.
+Figure 1 shows two early geometric representations of musical keys devised by
+composer/theorists to show the relationships between major and minor keys. Both take
+the form of circles. The circle on the left comes from Mattheson [1980], originally
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+5
+
+Fig. 2. Representations of key relationships from (top) Schoenberg [1969;1954] and (bottom) Krumhansl and
+Kessler [1982].
+
+published 1735. The circle on the right comes from Heinichen [1969], originally
+published 1728, who wrote a piece of music that progresses systematically around the
+circle. (This and two other such pieces can be found in Three Musical Circles for
+Keyboard [Rasch 1983].)
+Both circles are trying to grapple with the problem that every major key is closely
+associated with four different keys: the keys with tonics a perfect fifth above and below
+its tonic, and the relative and parallel minor key. Consider the reference key C major (C
+dur, at the top of each circle). As noted above, it should be close to G major (a fifth above
+C on the circle of fifths) because their scales differ only in one tone (F vs. F#). It is also
+close to F major (a fifth below C on the circle of fifths) whose scale also differs from C
+major only in one tone (B vs. Bb). C major is also close to A minor (A moll), its relative
+minor, because the C major scale (C D E F G A B) has the same tones as the A minor
+natural scale (A B C D E F G), only they begin on different notes and, thus, have
+different tonics. Finally, C major is also close to C minor, its parallel minor, which has
+the same tonic (and also the same fifth scale tone and V chord, structurally important
+elements in these keys.)
+The first circle attempts a solution by grouping together two neighboring major keys
+on the circle of fifths (for example, C major and G major) and flanking them on either
+side with their relative minor keys (a minor on the left of C major and E minor on the
+right of G major). This solution satisfies the relative major/minor relationship and keeps
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+6
+
+•
+
+C. L. Krumhansl
+
+the ordering on the circle of fifths intact, but loses the parallel major/minor relationship.
+The second circle intersperses major and minor keys, which separately form one circle of
+fifths for major keys and one circle of fifths for minor keys. Again, however the parallel
+major/minor relationship is sacrificed. The general point that arises from these circles is
+that a low-dimensional space may not be sufficient to represent all of the desirable
+musical relations.
+To address this, Schoenberg [1969], originally published 1954, proposed a twodimensional grid centered around a particular key. This representation, shown at the left
+of Figure 2, has C major as the central key. It is flanked above and below by its neighbors
+on the circle of fifths, on the left with its relative minor and on the right with its parallel
+minor. This satisfies the local relationships. More distant keys are shown in the fringes,
+and their relationships to one another are not made explicit.
+Krumhansl and Kessler [1982] showed that the entire configuration of 24 keys can be
+mapped with a geometrically regular representation on a torus in four-dimensions. This is
+shown at the right of Figure 2, where it is understood that the top and bottom edges
+connect with each other and the left and right edges also connect with each other. Unlike
+the other representations shown so far, this is based on psychological data, namely, the
+hierarchies of tones in the 24 major and minor keys (the method is described in more
+detail in the article by Toiviainen, this issue). The tonal hierarchies of each pair of keys
+were correlated, and these correlations were analyzed using multidimensional scaling,
+which constructs a geometric map from similarity data (in this case the correlations
+between tonal hierarchies [Krumhansl and Kessler 1982]).
+All three representations described in this issue rely on the circle of fifths. It appears
+as one of the two organizing principles of the torus representation (in addition to the
+major/minor key relationships; Toiviainen, this issue). The spiral array (see Chew and
+François, this issue) orders tones according to the circle of fifths, with the result that there
+is also a circle of fifths ordering for keys. And, Sapp (this issue) capitalizes on the circle
+of fifths by mapping keys that are close on the circle onto similar colors.
+The torus representation was used [Krumhansl and Kessler, 1982] as a way of
+showing how listeners’ sense of key developed and changed over time as chord
+sequences were sounded. The method, collecting perceptual judgments on a chord-bychord basis, was inordinately time-consuming and tedious for participants in the
+experiment. Also importantly, the resulting representation (points indicating the strongest
+key on the torus) had no way of showing the relative strengths of keys. In other words, at
+some points in time listeners may have had a strong sense of key, at other points only a
+weak sense; but this wasn't represented on the key map. This is another consideration that
+is important for representing tonality: to have some way of showing the strength of a key,
+not just the locus. This was one of the main motivations for the representation devised by
+Toiviainen (this issue); [Krumhansl and Toiviainen 2001; Toiviainen and Krumhansl
+2003], which uses color to show key strengths, and one of the features contained in the
+visual representation by Chew and François (this issue, where key strength is shown by
+the size of the marker for key).
+Maps of Tones
+The representations so far have all dealt with musical keys, an abstract concept with
+implications for both scale and harmony. Other representations have been devised to
+show the relationships between tones. Some of these grew from an interest in tuning, that
+is, the precise adjustment of tone frequencies. It has long been known that some intervals,
+those with frequencies that can be expressed by simple ratios of numbers, have a
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+7
+
+pleasant, smooth percept, called consonance. For example, the perfect fifth is made up of
+tones with a 3:2 ratio of frequencies. Another musical interval that is important for
+forming chords is the major third, ideally with a frequency ratio of 5:4. Unfortunately, it
+is not possible to make all intervals simultaneously fit exactly these simple ratios. This
+has led to a variety of schemes to minimize the discrepancies from ideal ratios.
+One such model is shown in Figure 3. Ellis added the diagram to his translation of
+Helmholtz’s [1954, p. 463] treatise On the Sensations of Tone as a Physiological Basis
+for the Theory of Music (originally published 1885). It shows the tones in a grid in which
+the vertical axis corresponds to the interval of a perfect fifth, and the horizontal axis
+corresponds to the interval of a major third. The reference pitch is C and the numbers
+beside each other tone show how distant they are from the C in cents (100 cents = 1
+semitone).
+Ideally, the G should be 700 cents (7 semitones) away from C, and the value 702
+comes close. In this scheme, the E should be 400 cents, but the value of 386 cents is quite
+far off. As can be seen, the discrepancies tend to increase with distance from the
+reference tone. Most fixed-pitch instruments, such as piano, now compromise with what
+is called equal-tempered tuning in which tones are equally separated on a log-frequency
+scale. This has proved serviceable because it allows the instrument to play music written
+in any key. To celebrate this advance, Bach composed the Well-tempered Clavier
+preludes and fugues; favorite examples for testing key-finding algorithms. This
+diagram,however, is important for emphasizing the relationship of the major third in
+addition to the fifth. This thirds relationship is used by Sapp (this issue) to determine the
+
+Fig. 3. The map of musical tones added by Ellis to his translation of Helmholtz [1954], originally published in
+1885.
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+8
+
+•
+
+C. L. Krumhansl
+
+most likely triad for a set of tones. It is explicit in Chew and François' (this issue) in the
+visual representation of chords, which appear as triangles in the spiral array. And the keys
+with tonics separated by thirds appear on horizontal lines in the torus of keys (Toiviainen,
+this issue).
+These two intervals, the perfect fifth and major third, also appear in a grid proposed by
+Longuet-Higgins and Steedman [1971]. The grid was used in this early attempt to
+automate key-finding. Here the fifths are on the horizontal dimension and the thirds are
+on the vertical dimension, although otherwise it is essentially equivalent to the
+representation proposed by Ellis. They note that the scale tones of C major fall in a
+compact region (shown on the left) and the scale tones of C minor fall in a compact
+region (shown on the right). They used this map of tones as the basis for finding the keys
+in Bach’s Well-tempered Clavier (see Krumhansl [1990], for more details of their
+approach).
+
+Fig. 4. The map of musical tones used in Longuet-Higgins and Steedman’s [1971] key-finding algorithm.
+
+Fig. 5. Two helical representations of musical pitch proposed by Shepard [1982], the single helix (left) based on
+pitch proximity on the chroma circle and octave equivalence, and the double helix (right) based on two
+whole tone scales where the projection onto the horizontal is the circle of fifths.
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+9
+
+Shepard [1982] also made contributions that stimulated efforts to devise geometric
+representations of music. Two different proposals are shown in Figure 5. The figure on
+the left shows the representation that takes the form of a single helix. Neighboring tones
+on the helix form the chromatic scale. The helix wraps around so that tones separated by
+octaves (with frequency ratios of 2:1) are located above one another. By splitting the
+chromatic scale into two whole-tone scales and twisting them into a double helix, one
+arrives at the representation on the far right. The feature of greatest interest is that when
+projected back down onto the circle the tones fall along the circle of fifths. As noted
+above, the circle of fifths plays a role in all three models described in this issue.
+One final representation of music tones is presented that comes from a psychological
+experiment [Krumhansl 1979]. In the experiment, each trial began with a C major context
+that was followed by two tones. Listeners were asked to rate how similar the first tone
+was to the second tone in the context of the key. (Variations of these instructions, as well
+as minor key contexts, were used in later experiments [Krumhansl 1990].) All possible
+pairs of tones were sounded and the resulting multidimensional scaling solution is shown
+in Figure 6.
+Note that tones high in the hierarchy of the key, C, E, and G (and C', which denotes
+the C an octave above C) are drawn close to one another in the C major context. The
+context enhances the degree to which they are heard as similar. In other key contexts, the
+results would be different. For example, in D major, D F#, and A would be close
+together. This raises the issue that, at least on the level of tones, geometric models may
+have to shift tone positions in order to express how they are perceived in relationship to
+one another in that context. To date, this idea has not been pursued extensively.
+Another important finding from this, and other related studies, is that perceived
+similarities between tones are not symmetric. For example, in C major the tone B is
+judged as much more similar to the tonic C, than the tonic C is to the tone B. These
+findings are musically interpretable; certain tones are unstable and part of listeners'
+knowledge of tonality includes how unstable tones typically resolve to more stable
+
+Fig. 6. A multidimensional scaling solution of tones presented in a C major context [Krumhansl 1979].
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+10
+
+•
+
+C. L. Krumhansl
+
+tones. (Incidentally, asymmetries have also been found in key distances; a modulation to
+the key a fifth above, say C major to G major, is perceived as less distant than a
+modulation to the key a fifth below, say from G major to C major [Thompson and Cuddy
+1989; Cuddy and Thompson 1992].) To my knowledge, no solution to the problem of
+representing such asymmetries has yet been proposed.
+MAPS OF CHORDS
+Next we turn to maps of the relationships between musical chords. Music theory would
+predict that there is a stable core containing the most structurally significant chords: I, V,
+and IV, that is, the triads built on the first, fifth, and fourth tones of the scale. One study,
+with results shown in Figure 7, validates this prediction [Krumhansl et al. 1982]. This is a
+study in which pairs of chords were presented for similarity judgments. As can be seen,
+these chords were located in a compact cluster in the center of the multidimensional
+scaling solution (on the left) and joined together first in the clustering, or tree, solution
+(on the right).
+However, just as perceived tone distances depend on context, so do chord distances.
+Figure 8 shows the multidimensional scaling results for the chords of two distantly
+related keys, C major and F# major [Krumhansl et al. 1982]. On the left are the results
+when the chords are presented in the context of C major; on the right are the results when
+chords are presented in the context of F# major; and in the center are the results when the
+
+Fig. 7. Two ways of representing the perceived similarity of chords [Krumhansl et al. 1982]: multidimensional
+scaling (left) and hierarchical clustering (right).
+
+Fig. 8. Shows that the key context in which chord pairs are presented strengthens the relationships between
+some chords and weakens others (from Krumhansl et al.[1982]; Krumhansl [1990]).
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+11
+
+chords are presented in isolation. The context clearly had an effect on the perceived
+relatedness of the chords, drawing together those that belong to the key. In addition, these
+studies show asymmetries such that less stable chords are judged as more related to more
+stable chords than the reverse. As with tones and keys, these finding pose problems for
+geometric representations.
+A HYBRID MAP OF TONES AND CHORDS
+Finally, we take a look at a hybrid model that includes both tones and chords. It comes
+from a strand of music theory that has developed from the theorist Hugo Riemann (see
+for example the special issue of Journal of Music Theory, 1998, on Neo-Riemannian
+Theory). Figure 9 shows the central representation, which is called the Tonnetz. It
+consists of a grid of tones connected by lines to form triangles. The tones of each triangle
+form a chord. One triangle contains the tones C E G, the tonic chord of C major. Shifting
+to the left and up one step gives the chord A C E, the tonic triad of the relative minor, A
+minor. Shifting down gives the chord C Eb G, the tonic triad of the parallel minor, C
+minor. Shifting to the upper right gives the tones E G B, which is the triad of the relative
+minor of G major (C major's neighbor on the circle of fifths, with tonic triad reached by
+shifting directly right from the C major triad). The shift to E G B is labeled L for
+Leittonwechsel, meaning exchanging the C with the leading tone B. In fact, one can see
+this as a close key to C major in the torus representation of musical keys (Figure 2).
+This representation makes the important suggestion that tone relations and key
+relations are interdependent. On the level of tones, those found to be closely related (by
+intervals of fifths and thirds) form triads that are tonic triads in closely related keys. This
+suggests that it may be possible to combine tones, chords, and perhaps keys in a single
+representation, as has been done by Chew [2000] and shown visually by Chew and
+François (this issue). The model proposed by Sapp (this issue) draws on the Tonnetz to
+determine probable chords from the sounded tones. Other related evidence for hybrid
+representations comes from the findings that chord hierarchies can be derived from tone
+hierarchies, and that both tone and chord hierarchies generate the same model of key
+distances [Krumhansl 1990]. At the same time, some caution should be observed.
+Various results differ at the level of tones, chords, and keys. For example, for tones the
+most central are the first, third, and fifth scale degrees, whereas for chords the most
+central are the triads built on the first, fourth, and fifth scale degrees. Also, the distinction
+
+Fig. 9. The hybrid map of tones and chords (shown as points of triangles) in Riemann's theory from Gollin
+[1998].
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+12
+
+•
+
+C. L. Krumhansl
+
+between major and minor only applies to the levels of chords and keys; no such
+distinction applies to tones.
+ISSUES ARISING FROM PRIOR MAPS AND INNOVATIONS IN THREE
+MODELS
+Various issues arise from the previously proposed geometric representations. The first is
+the issue of dimensionality, that is, how many dimensions are needed to describe the
+musical relationships of interest? This is a recurrent tension because it is only possible to
+visualize easily models in a small number of dimensions. One of the new developments
+in the proposed models is introducing color to add dimensionality. In the case of Sapp
+(this issue), the keys are represented by color such that closely related keys are shown in
+similar colors, and Chew and François (this issue) use color to distinguish between the
+various elements, tones, chords, and keys.
+Another issue that emerges is how to represent how strongly a key is established. This
+could be a property of the music, that is, some musical styles or passages within a piece
+in a particular style might establish a key far more clearly than other musical styles or
+passages. This could also be an aspect of the psychological response, such that listeners
+are able to perceive a tonality much more clearly given some styles or passages. The
+present contributions focus primarily on the former, because none of them explicitly
+involves perceptual data. In the representation of Toiviainen (this issue), strength of key
+is indicated by color. In the representation of Chew and François (this issue), strength of
+key is represented by the size of the pulsating orb.
+A third issue is the influence of context on the relationships between musical
+elements. One manifestation of this might be that the basic geometric representation is
+deformed systematically depending on the tonal context. None of the present models
+engages this possible complexity, although it is supported by various psychological
+results showing that the perceived similarity between tones and chords depends on the
+context in which they are embedded.
+A related issue also comes from psychological findings, which is that there are
+asymmetries in the distances between elements. That is, the distance from one element to
+a second is not the same as the distance from the second to the first. This has been found
+on all levels of tones, chords, and keys. These results are intrinsically incompatible with
+geometrical models unless the representation dynamically adjusts in response to each
+sounded element.
+A final issue concerns which elements are represented geometrically. Many previous
+models propose separate representations for tones, chords, and keys. In part motivated by
+psychological data as well as theoretical considerations (see for example, Lerdahl, 2001),
+it has been advantageous to distinguish between these different elements because
+somewhat different relationships hold for each. The present proposals take different
+stances on the issue. Toiviainen (this issue) uses a representation that includes just
+musical keys. Sapp (this issue) identifies chords at the lowest time scale and key or
+tonality at the higher time scales. Chew and François (this issue) proposes a visual
+representation that simultaneous contains all tones, chords, and keys.
+A common theme of all three models proposed here is the importance of representing
+how the tonality or key changes in time. In addressing this problem, they make major
+advances over previous proposals. In traditional music theory and analysis, a section of a
+piece (or an entire piece) is analyzed with respect to a reference key. Chords are analyzed
+with respect to their function in the key (or keys). This provides a relatively static notion
+of tonality. In both Toiviainen and Chew and François (this issue) models, the
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+The Geometry of Musical Structure: A Brief Introduction and History
+
+•
+
+13
+
+representation is updated in real time, so that it is possible to track easily the changes of
+key as they occur. The latter model provides tracking of both short-term and long-term
+pitch contexts in order to determine keys and chords. The Sapp (this issue) model
+approaches the problem by presenting the results on different time scales, with lower
+levels representing more local chord information and higher levels representing longerterm key centers. The self-similarity maps of Toiviainen (this issue) show provide a
+representation of how rapidly key changes occur and how different sections of a piece
+relate to one another.
+As we will see by examining each of the three models, music is highly dynamic,
+constantly evolving over time. The strength of key varies, with times of great uncertainty
+and ambiguity alternating with times when the tonality is strong and unambiguous. These
+innovative models bring out vividly this characteristic of music. The models also
+represent both short-term and long-term relationships that exist within the music. They
+provide a visual representation that complements and does not require knowing the
+technical language of music theory. Rather, they show tonal, harmonic, and key relations
+in geometric representations that are visually accessible. Thus, they serve as a way to
+intuitively access musical structures that are implicitly understood even by untrained
+music listeners.
+REFERENCES
+CHEW, E. 2000. Towards a Mathematical Model of Tonality. Ph.D. dissertation, Operations Research Center,
+MIT. Cambridge, MA.
+CUDDY, L. L. AND THOMPSON, W. F. 1992. Asymmetries of perceived key movement in chorale sequences:
+converging evidence from a probe-tone analysis. Psychological Research 54 (1992), 51-59.
+GOLLIN, E. 1998. Some aspects of three-dimensional Tonnetze. J. Music Theory 42 (1998), 195-206.
+HEINICHEN, J. D. 1969. Der Generalbass in der Komposition. Hildesheim, New York; G. Olms (originally
+published in 1728).
+HELMHOLTZ, H. L. F. 1954. On the Sensations of Tone as a Physiological Basis for the Theory of Music. A. J.
+Ellis, ed. and translator. Dover, New York. (Revised edition originally published in 1885).
+HYER, B. 2001. Tonality. In The New Grove Dictionary of Music and Musicians. S. Sadie, ed. Macmillan, New
+York.
+Journal of Music Theory. Special Issue on Neo-Riemannian Theory 42, 2 (1998).
+KRUMHANSL, C. L. 1979. The psychological representation of musical pitch in a tonal context. Cognitive
+Psychology 11 (1979), 346-374.
+KRUMHANSL, C. L. 1990. Cognitive Foundations of Musical Pitch. Oxford University Press, New York.
+KRUMHANSL, C. L. 2004. The cognition of tonality – as we know it today. J. New Music Research 33 (2004),
+253-268.
+KRUMHANSL, C. L., BHARUCHA, J. J., AND CASTELLANO, M. A. 1982a. Key distance effects on perceived
+harmonic structure in music. Perception & Psychophysics 32 (1982), 96-108. [author: please check
+against text to see if ref to 1982a is correct]
+KRUMHANSL, C. L., BHARUCHA, J. J. AND KESSLER, E. J. 1982b. Perceived harmonic structure of chords in
+three related musical keys. J. Experimental Psychology: Human Perception and Performance 8 (1982), 2436. [author: please check against text to see if ref to 1982b is correct]
+KRUMHANSL, C. L. AND KESSLER, E. J. 1982. Tracing the dynamic changes in perceived tonal organization in a
+spatial representation of musical keys. Psychological Review 89 (1982), 334-368.
+KRUMHANSL, C. L. AND TOIVIAINEN, P. 2001. Tonal cognition. In The Biological Foundations of Music. Annals of
+the New York Academy of Sciences 930 (2001), 77-91.
+LERDAHL, F. 2001. Tonal Pitch Space. Oxford University Press, New York.
+LERDAHL, F. AND JACKENDOFF, R. 1983. Generative Theory of Tonal Music. MIT Press, Cambridge, MA.
+LONGUET-HIGGINS, H. C. AND STEEDMAN, M. J. 1971. On interpreting Bach. Machine Intelligence 6 (1971),
+221-241.
+MATTHESON, J. 1980. Kleine General-Bass-Schule. Laaber-Verlag (Originally published in 1735).
+RASCH, R. 1983. Three Musical Circles for Keyboard. The Diapason Press, Utrecht, The Netherlands.
+SCHOENBERG, A. 1969. Structural Functions of Harmony. (Rev. ed.). Norton, New York (Originally published
+in 1954).
+SHEPARD, R. N. 1982. Geometrical approximations to the structure of musical pitch. Psychological Review 89
+(1982), 305-333.
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+14
+
+•
+
+C. L. Krumhansl
+
+THOMPSON, W. F. AND CUDDY, L. L. 1989. Sensitivity to key change in chorale sequences: A comparison of
+single voices and four-voice harmony. Music Perception 7 (1989), 151-168.
+TOIVIAINEN, P. AND KRUMHANSL, C. L. 2003. Measuring and modeling real-time responses to music: Tonality
+induction. Perception 32 (2003), 741-766.
+Received June 2005; revised August 2005.
+
+ACM Computers in Entertainments, Vol. 3, No. 4, October 2005.
+
+

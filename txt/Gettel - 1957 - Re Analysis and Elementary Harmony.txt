@@ -1,0 +1,1308 @@
+Yale University Department of Music
+
+Re: Analysis and Elementary Harmony
+Author(s): William D. Gettel
+Source: Journal of Music Theory, Vol. 2, No. 2 (Nov., 1958), pp. 240-249
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843201
+Accessed: 14/12/2009 15:26
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+would have been both interesting
+questions
+have given further significance
+to the tests
+sume that there are no answers?
+
+and helpful.
+themselves.
+
+They would
+Are we to as-
+
+David Kraehenbuehl
+
+RE: ANALYSIS
+By William
+
+AND ELEMENTARY
+
+HARMONY
+
+D. Gettel
+
+The article
+"Unity in Music" in the Journal of Music Theory, Vol.
+a well-intentioned
+sketch of an
+II, No. 1, pps. 97-104 was apparently
+ambitious
+to a difficult subject - elementary
+New
+approach
+harmony.
+into the problems
+of teaching this subject and new attempts to
+insights
+solve them are always welcome,
+if directed toward closer
+particularly
+correlation
+between
+There should be many eager
+theory and reality.
+readers
+of proposals
+to show how elementary
+skills
+with
+claiming
+chords can be acquired
+with less tedium and more value by combining
+their study with general
+will have
+analysis.
+Many teachers
+already
+found ways to deal with this; but they are likely to suspect,
+if modest,
+that there is always room for improvement.
+this article
+Unfortunately,
+is not very helpful and itself needs improving.
+Some may find it irProfessional
+and respect
+for the professional
+ritating.
+competence
+of the reader are tobe expected
+even in informal
+comments
+competence
+offered
+(p. 98).
+"only as suggestions"
+A number of statements
+are certainly
+even
+malapropos,
+possibly
+This is a minor criticism;
+but surely no reader of this
+condescending.
+of the commonjournal needs to be told that "each...
+composition
+similar
+... details"
+practice
+style [uses] primarily
+(p. 98); or that "the
+harmonic
+context
+of a Chopin Prelude
+is quite different
+from that of a
+Bach Prelude"
+...
+sets up a ...
+of
+(p. 101); or that "meter
+pattern
+successive
+accented
+and unaccented
+the establishbeats,
+representing
+ment of the strong and weak areas
+of the measure"
+(p. 102); or that
+"form is not to be considered
+the application
+of an external
+plan or
+scheme
+but rather the logical
+of the music itself"
+building
+outgrowth
+If lack of tact were
+(p. 103).
+the only flaw,
+one might be merely
+It is more difficult
+amused.
+to be tolerant
+of serious
+errors
+in substance.
+In the generalization
+melodic
+movement
+in almost
+"satisfactory
+all cases
+reduces
+to a basic stepwise
+line" (p. 100) the evaluation
+is
+unwarranted
+and the proportions
+It should read: "melodic
+exaggerated.
+in many cases reduces to a stepwise
+movement
+line!' Bach shaped many
+around completely
+quite "satisfactory"
+or predominantly
+dispassages
+lines - the beginnings
+of the two-part
+junct skeletal
+Invention in F, and
+Preludes
+VII and XXI in WTC I, to cite only a few.
+But even an amended
+statement
+would be pointless
+without some
+indication
+of what is to be gained from analysis
+The arby reduction.
+ticle promises
+to provide
+this (p. 98), but does not do so.
+Only Ex. 6
+240
+
+the melodic
+reduction
+with the original,
+and it is more concompares
+The passage
+cited in Ex. 4 could have been
+fusing than enlightening.
+used to demonstrate
+the utility
+of reduction
+in making significant
+distinctions
+and correlations
+between
+and "background!'
+"foreground"
+Example
+
+A:
+
+1-2 of Prelude
+
+Meas.
+
+-h h.
+
+XXIII in Bach's
+
+I|~~~~
+
+I
+
+.
+
+-
+
+WTC I.
+
+I
+!
+
+I
+I
+
+.
+
+;
+
+rP
+r
+
+?1
+
+-
+
+ILt
+
+-I
+
+If derived for this purpose,
+the skeletal
+remains
+are not equal in
+as Ex. 4 (with one exception)
+seems to imply.
+value,
+of the
+Disposing
+immediate
+of sixteenth-note
+motion by reduction
+a
+foreground
+yields
+line of quarterand half-notes,
+which is clearly
+audible even
+stepwise
+without reduction.
+But the clear tonic chords in meas.
+1, the tonic accent of the melody, and its resolution
+in meas. 2 pick out b, d#, f#, and
+d# as the cardinal
+This triadic
+scheme
+is given
+points of the line.
+in meas.
+1 and by
+non-tonic,
+mobility by dissonant,
+passing harmonies
+both metric
+and durational
+on the dominant
+seventh
+chord.
+emphasis
+This broadening
+a neatly off-balance
+one-beat
+permits
+delay in reachSimilar
+lines are found, with overlapping
+ining the top of the line.
+at the end of the Prelude.
+The tenor,
+for example,
+versions,
+stresses
+thirds - e, c#, a#, f#, (e), and d#.
+But here,
+descending
+preparing
+for the final cadence,
+the central
+is dominant,
+with weaker
+harmony
+tonics
+and tonic substitutes.
+In the last measure
+the delay of the a# by
+the delay of the f# in meas.
+suspension
+parallels
+2, again in a precadential
+dominant stressed
+both durationally
+and metrically.
+In the preceding
+the correlation
+between
+analysis
+rhythm and
+seems
+it may be somewhat
+clear; in others
+"elusive"
+harmony
+fairly
+the high purpose
+for an analytical
+However,
+(p. 102).
+proposed
+apat once if it be assumed
+proach to the study of harmony is compromised
+that rhythm
+"deserves
+less definition"
+for the student of harmony
+than
+for the student
+of composition.
+Rather one could assume
+it requires
+more.
+The composer's
+and inventiveness
+impulsiveness,
+intuition,
+need be expressed
+The analyst's
+inonly in music.
+inquisitiveness,
+must be rationalized.
+sight, and interpretation
+
+241
+
+In considering
+rhythm as a unifying factor
+(p. 102f.) the article
+features
+... which differ apprecipoints out first that "unique rhythmic
+norm of rhythmic
+movement"
+are "liable
+ably from the established
+to sound out of place or isolated
+from the ...
+context
+[meaning likely]
+is made to occur
+unless
+such unique
+movement
+with sufficient
+freto be unique] to justify
+"its own existence
+as a
+[thus ceasing
+quency"
+factor
+of elaboration
+' This is merely
+a roundabout
+unifying
+way of
+that a characteristic
+and that if it
+motivic,
+stating
+rhythm can become
+is unique it may sound out of context-which
+is not necessarily
+actually
+the same thing as "out of place:'
+is unevaluation
+Again, the a priori
+warranted.
+The chorale
+Ich bin ja, Herr, in deiner
+Macht was put
+melody
+forward in support (Ex. 7). Being probably by Bach himself,
+it is more
+chorale
+The second
+tunes.
+highly unified than some earlier
+phrase is
+almost
+an exact sequence
+The third phrase
+of the first.
+is composed
+of motives
+from the first two, and its skeletal
+line resembles
+mainly
+The contrasting
+theirs.
+fourth phrase
+uses a modified
+form
+of an
+earlier
+motive
+and it has one motive
+to
+(the broken triad),
+peculiar
+itself
+but the line ends at its high point instead
+(the four eighth-notes);
+of falling to the cadence
+as in the first three phrases.
+The expectancy
+thus generated
+is fulfilled
+in the last phrase,
+which inverts the line of
+the fourth and comes out on the only tonic full cadence.
+In addition, the
+last phrase is related motivically
+to the first two, and rhythmically
+(in
+its first measure)
+to the third.
+What connection
+this melody has with the points it apparently
+was
+to illustrate
+is not clear.
+it does contain one "unisupposed
+Actually
+the cadential
+measure
+before the double
+que" rhythmic
+configuration,
+And to say that so highly
+bar; but this doesn't sound at all out of place.
+an organism
+is an example
+of "melodic unification
+integrated
+through
+sixteenth-note
+is like saying that two people resemble
+elaboration"
+one
+another because
+blue eyes when as a matter of fact
+they have unusually
+they are twins.
+a better
+of consistent
+but not always motivic
+Perhaps
+example
+elaboration
+would be something
+more rhapsodicthe 2nd movement
+of
+Bach's
+Italian Concerto,
+or Les agrements
+for the Sarabande
+in his
+of something
+out of context
+English Suite No. 3. An obvious
+example
+is the famous
+chord in the theme of the second
+movement
+of Haydn's
+the listener
+less by its occurrence
+Symphony No. 94, which surprises
+than by its uniqueness.
+A less hackneyed
+example would be the "Interbefore the one-measure
+ruption Motive"' as it might be called,
+shortly
+G. P. near the end of the Love Scene in Berlioz'
+Romeo and Juliet.
+The article
+also tries
+to find some correlation
+between harmony
+and metric
+"The unity between meter
+and harmony that is
+placement.
+desirable"
+can be established,
+it claims,
+"by causing
+strong harmonic
+to be associated
+with the stronger
+of the measprogressions
+portions
+... with the weaker
+ure, using ... weak progressions
+It is
+portions'"
+those terms
+very difficult to assay this dictum on its own terms because
+are not defined.
+There is no explanation
+of "strong" and "weak" as they
+are applied here to harmonic
+Nor can it be supposed
+progressions.
+242
+
+that definitions of such vague terms (evaluations?) are matters of comSome texts do not use them. Others
+mon, hard-and-fast knowledge.
+not without some haggling over their
+do, but apply them differently,
+But even if it were possible to find a conmeaning, e.g., Schonberg.
+sensus it would be pointless in this context. Whether one progression
+is "weaker" or "stronger" than another has nothing to do with how
+either of them may be used metrically.
+Composers certainly have not
+felt constrained to use certain chords (or even certain kinds of chords)
+only in weak parts of the measure, or to reserve certain others only
+for accents.
+The most direct way to discover that "unity between meter and
+harmony" prevails in both parts of Ex. 8 is simply to perform them.
+One is as clearly 4/4 as the other. Nor does the harmony prevent performance even in another meter, as shown in Ex. B, p. 245. The cathis harmony, would be awkward in other
+dence, but not necessarily
+The real relationship between chord progressions
+meters.
+and meter
+can be examined under the heading of "harmonic rhythm"' that aspect of
+the total rhythm which is marked by changes from one chord to another
+and measured by the durations of chords.
+Chord changes occur on
+metric accents much more consistently
+than anywhere else.
+From the
+extreme variety of progressions
+involved, one would conclude that in
+this connection any distinction in relative
+"strength" is specious.
+Rhythmically, it is the change that is effective, not the identities of the
+chords. In the Bach chorale referred to previously each of the 20 metric accents is marked by a chord change. In terms of Roman numerals
+and inversions
+sixteen essentially different progressions
+are involved.
+Other examples of such regularly metric harmonic rhythm canbe found
+almost at random. Preludes VII, XXI, and XXIII come readily to hand,
+having been cited before.
+Not all metric accents are marked by a change of chord. A chord
+may begin at a bar line (with or without upbeat) and continue through
+more than one measure, e.g., the first 5 measures of Bach's two part
+Invention in F, the first 8 measures of the third movement in Haydn's
+Symphony No. 94, and the second theme (in Eb minor) in the first
+movement of Beethoven's Sonata No. 8. Melodic movement in the bass
+or in the upper voices during the duration of a chord logically does not
+make a harmonic progression and so does not affect harmonic rhythm.
+It does of course permit metric and other accents.
+Rhythms involving
+repeated tones can perform the same function, also without affecting
+harmonic rhythm. None of these intra-chordal rhythms is as incisive
+as phrasing.
+the second part of a chord divided by
+Rhythmically,
+phrasing can be regarded as a "new" chord, the first in the next phase
+of the harmonic rhythm, e.g., meas. 2 & 6-7 in the Bach chorale already mentioned and meas. 4-5 in the Haydn excerpt just cited.
+Some metric accents are not marked by a chord change due to
+syncopated harmonic rhythm. Whether with or without intra-chordal
+rhythm, a chord may begin in any kind of meter on a weak part of the
+measure (including, possibly, the secondary accent of quadruple meters)
+and continue through the next accent; or, in triple meters, the chord
+may occupy the weak two-thirds of the measure. There is no necessary
+243
+
+of unity betweenthe
+meter and the harmonic
+rhythm in such cases.
+chords occur in meas.
+31 & 32 of the first moveLiterally
+syncopated
+in that work, inment in Beethoven's
+No. 9, and elsewhere
+Symphony
+The original
+chord of the Finale.
+article
+cluding the famous
+opening
+itself provides,
+of the more common kind
+on a smaller
+scale,
+examples
+of syncopated
+harmonic
+rhythm, in which intra-chordal
+rhythm permits
+the metric accent to be made explicit,
+4-5 of Example
+meas.
+6,
+e.g.,
+which is by Bach, and the first part of Ex. 8, which is not.
+lack
+
+The melody of the latter,
+is harmonized
+three times in
+however,
+actual chorales.
+O Herre Gott, dein gottlich Wort has all quarter-note
+harmonic
+rhythm.
+Being very like the second part of Ex. 8, it is not
+shown here.
+Herr Gott, dich loben alle wir has syncopated
+harmonic
+of the phrase; Nun lob', mein' Seel', denHerren
+rhythm at the beginning
+uses it in mid-phrase.
+of each
+(See Ex. C). There are three versions
+of the latter two titles
+in triple meter.
+One has syncopated
+harmonic
+another in mid-phrase.
+rhythm at the beginning,
+This kind of harmonic
+rhythm for the first upbeat is a commonand is used also for upbeats in many inplace in the Bach chorales,
+terior
+In Bach's
+own Dir,
+dir, Jehova there are prosodic
+phrases.
+for it. His version
+in C minor
+reasons
+of Du, o schones
+Weltgebaude
+uses it for expressive
+In many other chorales
+he used it apreasons.
+as a matter of choice.
+It occurs in 11 measures
+of the invenparently
+tion already
+In Fugue V of WTC I the very short parts of the
+cited.
+chords
+sound merely
+as in meas.
+In
+10-11.
+syncopated
+anticipatory,
+VII the metrically
+of the syncopated
+chords are
+strong portions
+Fugue
+short and so feel suspended,
+as in meas.
+See also the Trio of the
+3-4.
+3rd movement
+in Beethoven's
+Sonata No. 7, measures
+5-6 of Chopin's
+Prelude
+in Schumann's
+No. 4, several
+places
+song Nachtlied
+(Op. 96,
+No. 1) and in the first movement
+of his Symphony No. 1.
+The article was needlessly
+then, in labeling the first
+derogatory,
+of the "establishment
+of unity between
+part of Ex. 8 a "poor" example
+meter
+and harmony";
+it is somewhat
+although
+possibly
+exceptional.
+in the Bach chorales
+seldom
+contain two similar
+inSingle phrases
+stances
+of syncopated
+harmonic
+rhythm; and moving from first inversion to root position
+is the least
+common
+means
+of articulating
+the
+chord to prevent it from being literally
+the bass
+However,
+syncopated.
+line is "poor" - it uses the low g too many times.
+Estimates
+will vary as to how soon syncopated
+harmonic
+rhythm
+should be introduced
+in elementary
+for examples
+studies,
+particularly
+associated
+with complexities
+and subtleties
+of form,
+rhythm,
+expresBut if analysis
+is part of the study, then the
+sion, and motivic
+usage.
+students themselves
+will begin to use it unbidden and early for phraseand in triple meter, imitating
+the Bach chorales
+and obvious
+beginnings
+traits of such dances as minuet,
+and sarabande.
+stylistic
+polonaise,
+In its coda the article
+states that "the elements
+which constantly
+seek unification
+in a piece of music cannot be set down in any complete
+list" (p. 103).
+that even a rudinot, but one would suppose
+Perhaps
+and counterpoint.
+Since
+mentary list would include motivic organization
+244
+
+r
+
+Example B: cf. Ex. 8.
+
+r.1
+
+, n Ab
+,i.
+
+r
+
+I I
+I r I'
+4
+
+I
+
+r
+
+rr
+
+'
+
+J
+
+I
+
+-tN
+
+r
+
+'
+
+I
+
+i ji
+
+r '
+
+r-
+
+O
+r
+
+r
+
+r
+
+r
+
+r
+
+1
+
+r
+
+r
+I
+
+I
+
+ri
+
+r
+
+r
+
+I
+
+Example C:
+
+-J J
+
+I
+
+r
+
+J
+
+4
+
+r
+
+r
+4
+
+r
+aJ
+
+-n
+
+I
+
+JI
+
+-1
+
+I
+.I.
+
+r
+L
+
+T 4L
+
+I
+
+IJ
+
+4rz
+
+-
+
+114I
+
+.1
+
+1.
+
+r
+
+245
+
+rr
+
+the statement continues by pointing out that "each piece is a law unto
+itself" it becomes even more difficult to understand why elements so
+responsible for character were omitted. Furthermore, these are unifyto generalization,
+and so to illumiing forces which lend themselves
+nating comparisons between pieces and styles.
+Even a chorale as simple as the one in Ex. 6 could have been
+used to demonstrate the utility of these two avenues of analytical exInstead, this example illusploration and their effect upon harmony.
+trates merely another vague distinction between "strong" and "weak"
+root position vs.
+harmony (this time applied to single chords, e.g.,
+and relies upon principles for determining structure by reinversion),
+duction for which previous examples are hardly sufficient preparation.
+The article describes
+reduction as a process of removing "surface ornamentation and non-essential
+movement" (p. 100). The former
+is not exactly a conspicuous feature of the chorales, so in this respect
+their reduction is no problem.
+The same leanness,
+however, often
+makes it difficult to determine what movement, if any, is non-essential.
+Since the lower voices frequently are shaping forces as significant as
+the chorale melody, and since its rhythm often is matched almost notefor-note by the harmonic rhythm, the difficulties
+cannot always be resolved on harmonic grounds.
+Under these circumstances,
+in order to
+avoid tedious haggling over which subtlety of interpretation
+is most
+it sometimes
+is convenient simply to apply an arbitrary
+convincing,
+structural formula evenly throughout the piece, matching the phrasestructure exactly and moving more broadly but in as regularly metric
+a manner as the melody generally does.
+For chorales in quadruple
+meter it frequently is effective to assume that a structure in half-notes
+will permit as deep a probing into the essentials
+of the harmoiization
+as necessary.
+A case in point is the setting by Bach of Du Friedefurst
+used in Ex. 6. It has the added advantage of being so consistently diatonic that it can be examined with profit by elementary harmony students.
+Outlining this soprano in half-note proportions (See Ex. D) yields
+a closely-knit,
+coherent line which audibly summarizes the formal and
+tonal traits of the actual melody.
+Even in purely skeletal form the
+second phrase modifies and intensifies
+the ending of the first.
+The
+third phrase is contrasting to a degree but is clearly related to the
+the first two, as indicated by the layothers; and the fourth telescopes
+out of the example.
+The bass confirms these relationships
+and provides deft, orIn structural
+contour it is
+ganic, contrapuntal support throughout.
+It is in contrary
+clearly responsive to the basic line of the soprano.
+motion in phrase 1, although the harmony prevents it from being an
+exact reflection.
+Elsewhere it moves in parallel 13ths and parallel
+10ths, of course with necessary adjustments at cadences.
+With the addition of a few well-placed
+foreign tones, the chords used to connect
+the structural
+elements
+permit a high degree of motivic coherence
+within the bass line itself as well as tangible relationships
+with the
+chorale melody and to some extent even with the inner voices, as in246
+
+.
+
+dicated by the numbered brackets.
+Example D.
+
+l
+
+'k 3
+
+f-fr.
+
+t'
+
+^ ,cJ
++C.
+
+t
+
+NOS
+p^
+
+re --f-'$
+
+I
+
+,v, 5
+I
+
+J
+.
+
+4
+
+4
+
+r
+
+3
+
+a
+
+.
+
+With such tight unity in so many respects,
+no part of either bass
+or soprano really can be considered "non-essential"'
+The skeletal and
+and each combinaconnecting chords are functionally inter-dependent,
+tion makes its particular contribution to the particular character of this
+The "reduction" is an abstraction, a more-or-less
+particular piece.
+arbitrary construct, intended mainly to provide a convenient means of
+outlining the general character and exposing the specific details which
+give the piece both its unity and its uniqueness.
+The weight of evidence as to motivic and contrapuntal rapport between this soprano and bass decreases
+the likelihood that choices between root position and inversion could have been made on "structural"
+For exgrounds, except possibly for the former in cadence formulae.
+ample, there does not seem to be anything inherently structural about
+the root position tonic chord in meas. 3, as set forth in Ex. 6, particularly since a tonic six-four was used in the comparable place in
+meas. 8, which was omitted from that example. 1 In his other harmonization of this chorale Bach used the six-four in meas. 3 and found
+still another setting, among several obvious possibilities,
+for meas. 8.
+None of these differences
+is surprising in view of Bach's well-known
+for
+compulsion to find different, but equally organic, harmonizations
+1. It should be noted that the structural analysis of phrases 1 and
+2 in the original article agrees, more-or-less,
+with the interpretation
+published in Salzer's Structural Hearing (1:115 & 11:49). Schenker's
+school, however, also tends to account for the significance of inversion
+and root position on contrapuntal rather than on vertical grounds.
+247
+
+the same or similar
+melodic
+whether in the same or in difsegments,
+ferent
+It is surprising
+that any particular
+chorales.
+one of his versions
+could have been singled out, for almost
+reasons,
+purely vertical
+as more "logical"
+or more productive
+of "proper unity" (p. 101) than
+another.
+is not intended to suggest that the
+Emphasis
+upon the horizontal
+can be ignored,
+least of all by beginners;
+vertical
+but even this aspect
+is not without contrapuntal
+of harmony
+Generalizations
+significance.
+are a necessary
+about the intervals
+or exploited,
+concomitant
+created,
+in any system
+In an amphonic
+of linear
+of counterpoint.
+principles
+are particularly
+intervals
+of course
+style the soprano-bass
+important,
+even though their sound may be modified by the inner voices.
+Criteria
+are more precise
+than descriptions
+of
+along these lines [!] generally
+desirable
+linear characteristics.
+In the chorale style 3rds, 6ths, and perfect
+5ths are the predominant soprano-bass
+at points of metric stress
+in
+intervals,
+particularly
+ofthese
+two voices in mid-phrase
+are
+mid-phrase.
+Doublings
+generally
+ameliorated
+by rhythmic
+de-emphasis,
+predominantly
+conjunct voicein an inner voice,
+dissonance
+or all three.
+Dissonant
+interleading,
+vals are likely to be in a minority
+in chromatic
+but may be prominent
+and in moments
+of expressive
+This chorale
+progressions
+importance.
+is not markedly
+chromatic
+or dissonant,
+but in other respects
+it is
+Most of the soprano-bass
+are 3rds, perfect
+-intervals
+5ths, or
+typical.
+This
+6ths, one of which occurs on each metric accent
+except the last.
+is the doubling
+of soprano
+and bass on the tonic which is necessary
+to
+make a full cadence.
+The other two octaves
+are in diminished
+triads
+on unaccented
+one with completely
+the
+beats,
+conjunct voice-leading,
+other with half.
+The few dissonant
+are on unaccented
+intervals
+beats
+or weak fractions
+of beats.
+Either the advisability
+of maintaining
+a
+kind of sonority
+or a necessary
+in expression
+particular
+change
+may
+influence
+chord choice,
+although this one factor is not likely to be conin any one specific
+clusive
+instance.
+In summary,
+all analysis
+of this
+chorale
+tends
+to show that
+and both the horizontal
+and the vertical
+of
+organization
+aspects
+dominate
+choices
+between root pocounterpoint
+harmony,
+particularly
+sition
+and inversion.
+Which is used at a particular
+point depends to
+some extent upon which tone of the chord is preempted
+by the melody,
+to some extent upon which bass tone is most apt motivically,
+and to
+some extent upon how the line of the bass is shaped to that of the soIt is trivial,
+or both to maintain
+that musically
+efprano.
+specious,
+fective
+choices
+can be made upon the basis
+of nebulous
+assumptions
+aboutthe
+intrinsic
+of various
+chords and their presumed
+re"strength"
+to "structure."
+striclationship
+Again, these are static,
+hypothetical
+tures not likely to be binding upon any composer,
+least of all Bach. His
+works show rather that a higher value should be placed upon sonorous
+and horizontal
+elements,
+or, to put it the other way around, that submission
+to demands
+made by sound quality and by the motivic and conflow of the piece at hand is more likely to produce
+trapuntal
+"proper
+sound results
+than factitious
+vertical
+criteria.
+unity" with aesthetically
+motivic
+
+248
+
+This typical analysis has been developed in some detail in order
+to show what definite advantages this approach can have for students of
+It can be profitable even if their knowledge exelementary harmony.
+tends only to the identification of intervals and the distinction of root
+It can help develop a feeling for good harmony
+position and inversion.
+and counterpoint well before they can identify all chords or trace the
+lines of force in complex structures.
+However, they are not likely to
+be able to derive all their own precepts from such analysis, for sheer
+lack of time if not for lack of knowledge and maturity.
+General guidance and concrete advice still will be necessary; but it is obvious, I
+believe, that the students will profit much more from being guided
+toward, advised about, and led to imitate these functional and audible
+aspects of harmonization and composition than from being spoon-fed
+conclusive
+based upon isolated
+facile,
+deceptively
+generalizations
+factors which in reality are not even particularly efficient in producing
+the results claimed for them. In conclusion,
+the main thesis of the
+original article - that general analysis be made a part of elementary
+courses in musicianship - represents
+a laudable ambition.
+On the
+face of it one might suppose the principle needs no defense.
+Perhaps
+not, but there are attendant risks which evidently do need to be pointed
+out.
+Elementary courses already are crammed with theory, keyboard
+and the traditional kind of "spot"
+practice, ear-training,
+sight-singing,
+analysis the article refers to as "dull" (p. 97). Even if the latter be
+left out, the addition of more searching analysis is not a short cut. Not
+less but more written work becomes necessary,
+both in analytical and
+in creative categories.
+The general tone of lecture and discussionboth of which will be considerably lengthened, incidentallymay seem
+to anticipate that of traditional courses in "form and analysis" usually
+reserved for later in the curriculum; but premature, if not immature,
+contemplation of so much richness and flexibility of material can lead
+all too easily to superficiality toward the mechanics of craftsmanship
+which no apprentice should take for granted. Intended to enhance the
+students' musical experience, such an approach may merely clutter and
+confuse it.
+Intended to hasten the maturity of the students, an analytical approach imposes severe demands upon the maturity of the instructor. He
+needs an unerring aim not only forthose things ultimately most significant in the passages analyzed but also for those things which can be
+and immediately useful as guides for students struggling
+realistically
+with the "reverse process of ... synthesis" (p. 98). He needs an ability
+to devise exercises
+for this process which permit early, fruitful, and
+Above all he must avoid
+encouraging
+comparison with real music.
+and dogmatically
+superficial,
+shoddy, or specious
+generalizations
+black-and-white
+evaluations which will be flatly contradicted, revealed
+as trivial, or riddled with exceptions as soon as his students begin to
+analyze the works from which such "rules" presumably were abstracted.
+In short, he must become himself a highly competent and mature, if not
+He cannot afford to be
+brilliantly original, analyst and synthesist.
+merely an anthologist of sterile formulae and a poseur of problems
+culled from a miscellany of handbooks on harmony and analysis.
+249
+
+

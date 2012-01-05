@@ -1,0 +1,1767 @@
+Yale University Department of Music
+
+On Style Analysis
+Author(s): Jan La Rue
+Source: Journal of Music Theory, Vol. 6, No. 1 (Spring, 1962), pp. 91-107
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843260
+Accessed: 14/12/2009 20:02
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+91
+
+*
+
+*
+
+*
+
+FORM
+
+JAN
+
+LA
+
+IRUE
+
+ON STYLE ANALYSIS
+In all thinking, writing, and teaching about music, if we are to
+progress beyond a catalogue of personal reactions we must
+Both
+employ some objective framework for our reflecting.
+the student and the teacher need methods for organizing their
+musical listening and thinking.
+If a question is asked "Compare Wagner with Brahms" - we experience momentary
+paralysis as we grope for away to arrange the flood of random
+memories in a logical sequence.
+Under conditions requiring
+sudden but comprehensive
+the characteristic
+response
+atmosphere of the healthy classroom - it is essential to have
+some rules of thumb to guide us.
+Rules about music should originate from the ear, and our
+present need is no exception.
+Taking into account the relative
+complexity of the various musical elements, together with our
+
+92
+limited ability to retain impressions
+and analyze in retrospect,
+the most useful
+order
+for observations
+is:
+Sound,
+Form,
+Harmony,
+Rhythm, Melody.
+Sound in its sheerly
+acoustical
+comes
+first,
+aspects
+partly
+because
+of the immediacy
+of recognizing
+color combinations,
+but also because
+factors of tone-color
+count among the most
+and objective
+of our observations.
+Hence we
+nearly concrete
+can dispose
+of them quickly and definitely
+at the beginning,
+passing on to more ambiguous
+problems.
+Form requires
+the largest
+of the listener's
+attenproportion
+in order to
+tion, for he must retain and compare
+impressions
+the musical
+A logical case might be made
+appreciate
+design.
+for placing form first among the musical
+thus dividelements,
+into form and content (the latter including music traditionally
+and melody).
+But sound is basic
+ing sound, harmony,
+rhythm,
+to all the other elements,
+and its psychological
+firstness
+gives
+it an overwhelming
+natural priority.
+Any scheme of this sort,
+of course,
+involves
+a vast oversimplification.
+we
+Initially
+must ignore the interpenetration
+of the categories
+which is so
+characteristic
+of music as compared
+with other arts.
+specially
+this interpenetration
+Certainly
+produces
+many of the difficulties one meets in attempting
+to be objective
+about music.
+The remaining
+three elements
+constitute
+the structural
+materials of music.
+to the threads of a textile
+They are analogous
+as opposed to its color and design.
+Harmony takes first place
+on grounds of difficulty:
+the ear-analysis
+of chords and modufor example,
+a relatively
+of
+lation,
+represents
+high level
+musical
+sophistication.
+Melody comes at the end of the list,
+since it demands the least concentration
+of attention.
+We are
+in our memexperienced
+by years of singing to hold melodies
+and thus can often comment analytically
+in retrospect.
+ories,
+In intimate
+connection
+with both harmony and melody we must
+reserve
+a middle place for rhythm.
+It includes
+the greatest
+of any musical
+from
+range of complexity
+element,
+simple,
+mechanical
+such as meter to combinations
+which are
+concepts
+'to analytic
+inaccessible
+how does
+practically
+exploration
+one describe
+or analyze
+the fundamental
+sense of motion in a
+Is this a matter of tonality,
+of formal proportions,
+piece?
+of
+accumulation
+of melodic
+tension
+and release,
+or of broad
+contrasts
+between rhythmic
+It is all of
+activity and stability?
+these, and more: again we are faceto face with the mysterious
+of musical
+elements.
+Since music is an everinterpenetration
+combination
+of the rational
+and the emotional,
+cerchanging
+
+93
+tain aspects will always remain beyond the scope of objective
+analysis: these are music's permanent mysteries.
+The existence of inscrutable areas
+a strong obligation upon us to be
+areas open to analysis.
+We need
+analytical techniques unless these
+selves.
+So long as we continually
+the elusive subjective elements act
+ties of the objective approach.
+
+in musical experience lays
+as critical as possible in
+not fear the mechanism of
+become a game in themrefer back to the music,
+as antidotes to the rigidi-
+
+Many performers feel that an analytic approach may contaminate their intuitive responses.
+This view, however, fails to
+consider that our apparently intuitive responses
+are mostly
+learned, cumulating early listening experience and the specific
+instructions of teachers.
+While the refined discrimination of
+the finished performer requires special gifts of innate sensitivity, the broad outlines and even many of the details of his
+musical responses depend on learning experiences,
+and hence
+to some degree, on an ordered, analytic approach.
+To show the importance of learning for musical responses,
+we
+have only to reflect on our lack of qualifications
+for underbased on the unusual (to us) intervals
+standing Indonesianmusic
+of the Slendro: Clearly most western ears are ill-prepared to
+understand of respond to such a differend style.
+We must
+learn something of its vocabulary, systematically
+and analytically, before we can begin to understand what it attempts to
+express, either directly or intuitively.
+Even the most sensitive occidental musician must doubt the validity of his responses
+to an unfamiliar oriental style.
+To put it another way: how
+can we understand the poetry of a language until we know its
+words ?
+In making specific observations,
+however brief, of five fundamental aspects in a musical work, we materially advance our
+understanding of the piece. At the same time the better organization of our thoughts increases our ability to communicate
+this understanding to others.
+As we deepen our analysis, the
+manner in which the five original categories
+ramify depends
+but perhaps more directly
+partly on our own perceptiveness,
+upon the individual characteristics
+of each historical period.
+The basis of modal harmony, for example, underlies all music
+up to 1600, passes gradually out of the picture during the 17th
+and 18th centuries, only to reappear after long absence at the
+end of the 19th century.
+Such fluctuations in status of the
+stylistic elements will naturally affect the internal details of
+
+94
+our critical framework.
+In using an outline such as the one
+below we must maintain an attitude of flexibility, making provision for special adaptations to each style under consideration.
+This particular outline represents merely a point of departure,
+an embryonic phase in the evolution of understanding that each
+musician carries
+out for himself in approaching a specific
+piece.
+A SAMPLE OUTLINE FOR INITIAL ANALYSIS
+Sound
+Timbre: selection,
+combination, contrast of instruments &
+voices
+Range, tessitura; idiom, special effects
+Texture & fabric: doubling, overlap, contrast of components;
+cantus firmus,
+homophonic,
+contrapuntal,
+polarized (polychoric,
+solo/
+bass, melody/accompaniment,
+melody/figured
+ripieno)
+terraced,
+Dynamics:
+graduated, implied by instrumentation
+or range
+Text influence:
+sacred or secular,
+sound-characteristics
+of
+language
+Appropriate sound: historically
+proper types and sizes of
+vocal and instrumental groups
+Form
+Gross form: balance and relationship between movements in
+dimensions, tempos, tonalities, textures, meters, dynamics,
+range of intensity
+continuous derivation or articulated repetition and
+Processes:
+contrast
+Details: balance or asymmetry of phrases and sections; clear
+or concealed articulations; line climaxes as formal indicators
+Types: sonata, rondo, variation,
+cyclic, fugal, text-deterrandom sectional contrast
+mined, durchkomponiert,
+Text-influence:
+length; internal divisions and recurrences;
+emphasis, climax, contrast
+Harmony
+tonal relationships;
+interior key-schemes;
+charLarge-scale
+acteristic harmonic motifs
+Modality, finals & cofinals, bifocal tonality; chromaticism,
+polytonality, serialism
+Chord vocabulary,
+alterations,
+dissonances,
+progressions,
+
+95
+sequences, modulatory routes; harmonic rhythm, tonal rhythm
+Part exchange, imitation,
+canon, fugato, stretto, augmentation/ diminution
+Text influence:
+affective chords, dissonances,
+modulations;
+rhythmic density of harmonic change
+Rhythm
+Meter & tempo
+Dimension of activity:
+pulse,
+motive,
+sentence,
+phrase,
+larger groupings
+Texture:
+contrapuntal,
+homorhythmic,
+polyrhythmic,
+polymetric; variant rhythmic densities
+Syncopation, hemiola, agogic and other special accentuations
+exheterometric,
+Patterning:
+regular, irregular (additive,
+tended, contracted, overlapping)
+Text influence:
+surface patterns; rhythmic
+tempo, meter,
+effect of vowel/consonant
+patterns, alliteration
+Melody
+Material: new or derived
+Function: primary (thematic) or secondary (cantus firmus,
+ostinato, etc.)
+Characteristics:
+range, mode, tessitura; diatonic, skipping,
+or chromatic progressions;
+vocal or instrumental idiom; simple, compound, or reverse curves; repetitive,
+sequential, or
+continuously developed structure;
+ornamentation,
+figuration,
+arpeggiation; influence of function (thematic or accompanying)
+and texture (harmonic or contrapuntal)
+Text influence:
+relation of melodic contour to affects, speech
+inflections, text devices.
+The outline above inevitably employs terminology and concepts
+that require further explanation.
+Hence, the discussion below
+attempts to supply some necessary expansion and clarification.
+It follows the same categorical
+divisions
+but occasionally
+transposes the order of details.
+SOUND
+The category of sound includes all primarily acoustical phenomena such as timbre, texture, and dynamics, in the manipulation both of individual components and of the group as a
+whole.
+Beyond mere identification of the timbre of instruments or voices involved (or speculation as to appropriate
+choices in early music), a number of detailed aspects in each
+
+sound source
+Range
+
+may be relevant
+
+to our final stylistic
+
+conclusions.
+
+and Idiom
+
+Range deals not only with lowest and highest notes heard, but
+also with the area most in use,
+as
+designated
+conveniently
+There may be other significant
+facts of range,
+such
+tessitura.
+of the compass,
+with a gap
+as split range: the use of extremes
+between.
+notes in the range may be empnasized
+and
+Certain
+certain tessituras
+to underline
+the different
+may be contrasted
+parts of a piece.
+Idiom refers
+to the exploitation
+of particular
+characteristics
+of an instrument
+or voice.
+The simplest
+features
+idiomatic
+border on matters
+of range,
+such as the ability of some into leap easily
+struments
+from one part of their compass
+to
+another.
+More subtle treatment
+may exploit the specific advanin a given hand position or woodwind
+tages of string crossing
+in passagework
+that avoids embarrassing
+cross-finfacility
+and breaks
+between
+Still more subtle gerings
+registers.
+and correspondingly
+closer
+to the core of the music are
+of articulations.
+of slurs and
+Are the indications
+questions
+staccato appropriate
+to the instrument?
+the dynamSimilarly,
+ic possibilities
+of each instrument
+affect many fine adjustments
+in the style,
+and reveal the degree of a composer's
+sensitivity
+to aural values.
+Also included in considerations
+of idiom are
+of special
+effects peculiar
+to one type or family
+exploitations
+of instruments,
+such as double-stops,
+flutterharmonics,
+and the like.
+tonguing,
+Vocal idiom has fewer apparent
+than instruidiosyncracies
+mental
+but for that very reason
+idiom,
+sharper
+requires
+observation.
+are smaller,
+Because
+we must observe
+ranges
+of tessitura
+effects
+more narrowly.
+Since the normal
+range
+of instruments
+be defined more easily
+than the
+may usually
+normal
+we must be particularly
+alert to unrange of voices,
+usual vocal registers
+and effects,
+often motivated
+by expressive words or phrases.
+Texture
+
+and Fabric
+
+Texture
+describes
+the effects
+of combining
+instruments
+and
+voices.
+We must again observe
+not only extremes
+and special
+features
+of spacing,
+but also the most common or characterthe tessitura
+istic areas,
+of the combination
+(though tessitura
+is a mere translation
+of texture,
+it can usefully
+be reserved
+for this narrower
+area of
+meaning of "most frequently-used
+
+97
+of textural
+details
+should
+take into
+texture").
+Description
+or contrast
+account the doubling, overlap,
+of vocal and instruThe general organization
+mental components.
+of the texture melcontrapuntal,
+homophonic,
+melody-plus-accompaniment,
+- often reveals
+structural
+divisions
+in
+polarization
+ody-bass
+the form.
+the broader term "fabric" is
+Since texture changes constantly,
+useful to subsume
+the varying
+The musical
+fabric,
+aspects.
+a usage that
+then, is the continuing
+product of the textures,
+enables us to reserve
+the word "texture" to refer to the specific acoustical
+at a given moment.
+As an examarrangement
+fabric"
+ple of the value of this distinction,
+"contrapuntal
+describes
+horizontal
+a continuing
+musical
+while
+process,
+texture"
+defines
+a momentary
+con"contrapuntal
+polylinear
+struction.
+Thus, the broader aspect of fabric can include the
+contrasts
+of texture in various sections
+of a piece as well as
+the relation
+of textural
+to the peaks and underpoints
+climax
+factors.
+the low
+(For describing
+produced
+by other musical
+extremes
+of a line or texture
+the term "underpoint"
+seems
+less ambiguous
+than subclimax,
+etc.)
+anticlimax,
+Dynamics
+divides
+into the terrace
+Dynamic
+organization
+conveniently
+characteristic
+of the Baroque
+and the graduated
+dynamics
+of later periods.
+We must also consider,
+dynamics
+however,
+the dynamics
+instrumental
+implied
+by traditional
+groupings
+for example);
+(the haut and bas of the Middle Ages,
+and in all
+periods the dynamic results of lighter or heavier orchestration,
+of the indications
+of forte and piano, may directly
+regardless
+relate to the design of the piece.
+The total dynamic scale (fff
+to ppp) and unusual or special
+effects
+(sfz,
+fp) may supply
+relevant
+and the more subtle influence
+conclusions;
+analytical
+of range
+and texture
+on dynamic
+effects
+deserves
+careful
+attention.
+For example,
+in determining
+which of two lines
+and oboe) a composer
+considers
+(clarinet
+more important,
+if
+both instruments
+the coarser
+doubleplay in a low register
+reed tone will predominate,
+a clue to the composer's
+thematic
+intentions
+of the moment
+of course,
+that we can
+(assuming,
+exclude the possibility
+of miscalculation.).
+Text Influence
+
+on Sound
+
+The selection
+and manipulation
+of vocal and instrumental
+combinations
+will always
+follow the lead of the text in a general
+We can see this situation
+in the dichotomy
+of treatment
+way.
+
+between sacred and secular
+texts.
+Aside from specific
+details
+of direct word-painting
+we must search
+for broader attempts
+to reflect the changing atmosphere
+of the text.
+tend
+Dynamics
+to go hand in hand with the emotional
+curve of the words,
+which
+often stimulate
+a somewhat
+than a
+greater
+range of intensity
+textless
+dimensions
+could support.
+The
+piece of the same
+of the language itself,
+sound-characteristics
+such as the proof vowels
+to consonants,
+portion
+may find some parallels
+in the music.
+(or contradictions)
+Appropriate
+
+Sound
+
+Since analysis
+aims ultimately
+to assist
+the performer,
+the
+must constantly
+be concerned
+with live performance
+analyst
+and the revitalization
+of dead notes from the page.
+In prea specific
+he must careparing or criticizing
+performance,
+and the size of instrufully evaluate the choice of instruments
+mental and vocal forces,
+in early music.
+especially
+Exaggeration in dynamics,
+whether
+of enthusiasm
+or reserve,
+may
+distort the intentions
+of the composer.
+Most subtle
+seriously
+of all are considerations
+of articulation:
+the applications
+of
+slurs and staccato
+strongly affect the music and in turn chalStaccato
+lenge the taste of the performer
+equally
+strongly.
+was less short and sharp in the 18th than in the 19th century;
+and in the earlier
+to its
+period a tone grew more gradually
+and fell off less curtly.
+All of these considaverage intensity
+erations
+the appropriateness
+of the sound
+help to determine
+the Klangideal,
+in a given performance.
+values,
+FORM
+Gross
+
+form
+
+In most cases considerations
+of form should proceed from the
+dimensions
+inward.
+largest
+Thus, for pieces in more than one
+movement
+we should
+note the balances
+and relationships
+of
+thematic
+dimensions,
+tonalities,
+tempos,
+meters,
+content,
+choices of timbres
+and textures,
+modurhythmic patterning,
+and similar
+details.
+latory goals,
+stylistic
+Turning to the
+individual
+we niay often identify it broadly with one
+movement,
+of the conventional
+plans such as sonata,
+rondo, or variation
+or one of various
+text-determined
+form,
+schemes.
+On the
+these general identifications
+whole, however,
+the
+oversimplify
+situation.
+For example,
+few works even in the
+relatively
+Classical
+will conform perfectly
+to that unfortuperiod itself
+nate abstraction,
+"textbook
+sonata form."
+And more
+often
+than not,
+the most significant
+points in a composer's
+style
+
+99
+consist
+in his departures
+from convention.
+in each
+Hence,
+as the conpiece we must attempt to analyze the form freshly
+of a particular
+nectionand
+ideas
+development
+group of musical
+rather
+than forcing
+the music
+into a preconceived
+formal
+this advice, in studying contemporary
+strait-jacket.
+Following
+works
+based
+in part on additive
+(for example,
+procedures
+we may decide to reverse
+the standard
+Stravinsky)
+method,
+and proceed
+in our studies
+from the smallest
+dimensions
+outward.
+Formal
+
+Processes
+
+The
+
+of a piece of music
+can be compared
+with the
+growth
+of biological
+In the eartissues.
+embryological
+development
+liest
+of structure,
+the plant or animal cells are all
+stages
+but they quickly
+divide and differentiate.
+For later
+similar,
+differentiated
+tissues
+stages of higher structures,
+increasingly
+assume
+such as bony support or neural
+functions,
+specialized
+connections.
+In music the simplest
+structures
+but
+repeat an initial idea,
+more complex
+differentiation
+in the form of
+designs
+require
+new material,
+either
+derived
+or contrasting.
+For the most
+such as the sonata designs of the
+structures,
+highly organized
+Classical
+the many differentiated
+ideas often assume
+period,
+as in the case of the closing
+theme.
+specialized
+functions,
+The analyst must trace and identify these evolutionary
+modifications
+as they arise,
+without regard
+to conventions
+or preconceptions.
+In addition
+to differentiation,
+extended
+musical
+structures
+and effect.
+depend on some form of unity for their strength
+To appreciate
+these structures
+we must search for the sources
+of unification
+as for the means of differenquite as thoroughly
+tiation.
+There are two principal
+methods
+of unification,
+(1)
+Derivation
+of the whole
+from a relatively
+restricted
+piece
+nucleus of material;
+and (2) Repetition
+of an initial idea after
+material.
+Most pieces
+mix the two methods
+in
+contrasting
+For example,
+a Brandenburg
+Concerto
+varying proportions.
+of Bach may contain infinitely
+varied
+derivations
+from initial
+the repetition
+motives;
+yet, at the same time it utilizes
+prinof the concerto
+ciple in each ritornello
+form.
+Parallel
+to the two methods of unification
+above are two formal
+more fundamental
+than mere types such as sonata
+categories
+such as the fugue,
+(1) Continuous
+form;
+which stress
+forms,
+above contrasting
+thematic
+rhythmic
+and
+continuity
+designs,
+
+100
+therefore tend to expand by successive
+derivations from opening. material; and (2) Articulated forms, such as the rondo or
+sonata form, which expand by intricate positioning of contrasteach carefully marked off from the
+ing and related phrases,
+others by strong cadences,
+changes in timbre, new tonality,
+and other powerful devices of articulation.
+Again, few pieces can be described either as exclusively continuous or articulated in character; but continuous forms tend
+to use materials
+of small dimensions
+(motives) developed
+mainly by processes of spun-out derivation, while articulated
+forms use larger building blocks (phrases) normally arranged
+according to the principle of repetition after contrast.
+Formal Details
+Most books on form stress thematic structure,
+mapping a
+This useful
+piece by the recurrence of its melodic materials.
+approach, however, unfortunately neglects other stylistic components, leaving the student helpless in the face of music
+organized without regard to melody, such as works for percussion by Varese and Chavez.
+In looking for the sources of
+continuity or articulation, of derivative relationships or pointed
+contrasts, we must examine all stylistic components for available clues.
+Continuity, for example, results most often from
+a relentless
+rhythmic pulse, but may also be obtained by a
+recurrent motive, a persisting timbre, or a carefully linked
+while most commonly
+sequence of tonalities.
+Articulation,
+produced by strong cadences before a rest (a harmonic and
+rhythmic pause) can result with equal force from sharp changes
+in orchestration or dynamic level, shifts in tempo or metrical
+basis, and also from sudden tonality changes or marked alteration in harmonic rhythm. * 1
+The relation of rhythm to form deserves special attention,
+particularly to the larger rhythmic groupings such as phrase
+and section rhythms.
+We must observe the incidence of regular
+and irregular phrases,
+and attempt to relate these to other
+Small-dimension
+surface rhythms often
+aspects of structure.
+reveal less of basic structure than phrase lengths and period
+or section dimensions.
+Text Influence on Form
+Texts affect musical form more decisively thanother aspects
+of style.
+Total musical length usually relates to total text
+length, and all of the interior dimensions and articulations will
+
+101
+tend to reflect the divisions of the text. Text forms, such as
+the refrain structures of the virelai,
+obviously govern the
+musical recurrences;
+but we must probe deeper to check the
+possible effects of more complex stanza forms, of simple rime,
+and of alternating or otherwise organized lengths of verses as
+reflected in the parallel musical phrasing.
+HARMONY
+Following the method established for musical form, the analysis of harmony commences with broad dimensions before concentrating on details. Looking first at the overall key-schemes.
+the determination of tonality is often simple enough in the
+Classical period. The mere statement of the keys in the movements of a string quartet, however, will not suffice.
+We must
+check for broader unities,
+such as the special emphasis on
+D major (>II) throughout Beethoven's Quartet in C# minor, Op.
+131. Here the tonal unity depends as much on the dramatic
+secondary tonality - the striking Neapolitan relationship as on the initial and final tonality of C, minor.
+Elsewhere
+than in Beethoven there may also be causal connections between the choice of tonality for an interior movement and the
+tonal areas of emphasis in outer movements.
+For example,
+in Haydn's last piano sonata in Eb (H. XVI-52) the piquant,
+almost shocking entrance of E major in the development section
+of the first movement prepares us somewhat for the unprecedented use of E major in the following slow movement.
+Although unified tonality occurs more rarely in earlier cenvarious other forms of harmonic organization
+turies,
+may
+contribute effectively to the design of a piece.
+The characterizing notes of the modes may outline a nucleus for tonality
+in the Renaissance, *2 for example, and the preferred goals
+for Renaissance harmonic excursions partially correspond to
+later tonal modulation.
+Later, in some early and middle
+Baroque music the harmonic focus sharpens,
+producing an
+embryonic form of tonality that cruises between major and
+relative minor, a bifocal tonality. *3 The possibility of a
+trifocal tonality should not be overlooked (I, V and VI as peer
+for example),
+tonalities,
+though in this period a multifocal
+organization beyond bifocal will not be easy to demonstrate,
+since it will tend to slip back towards the vagrant harmonic
+In the opposite chronological
+procedures of the Renaissance.
+direction, polytonality and serial structure offer new sources
+of organization of which we have only partial analytical grasp
+so far.
+
+102
+For the individual movement we should be aware not merely of
+modulations to various keys but also of the relative emphasis
+on these keys produced by time elapse, dynamic and orchestral
+The
+weight, thematic significance and other means of stress.
+dimensions of time devoted to the various tonalities will proOn a smaller scale the
+duce a large scale or tonal rhythm.
+specific routes of modulation, as well as the structure of chord
+connections such as harmonic sequences and cadences, are all
+significant in determining style. Finally we arrive at the chord
+vocabulary itself, where the relative complexity and statistical
+frequency of chords play a vital part in the musical effect.
+The treatment of dissonance and chromaticism,
+whether in
+chord alteration or in non-harmonic notes, further reveals a
+composer's individuality.
+A fresh insight into musical design is offered by harmonic
+rhythm, particularly valuable because it simultaneously
+lays
+bare the combined aspects of harmony and rhythm, an interior
+and fundamental view.
+patBy scanning harmonic-rhythmic
+terns, it is often possible to confirm or make more precise
+our decisions on the chief points of articulation, or the limits
+of areas of contrast. *4 In the Classical period the organization of harmonic rhythm reaches a high degree of refinement,
+but it deserves no less consideration in other periods as a
+barometer of relative intensity and an indicator of articulation.
+Counterpoint, though often considered an opposite pole from
+harmony, actually should be considered
+analytically at the
+same time, since it shares many features in the combination
+of lines.
+Various contrapuntal devices and related processes
+- echo, part exchange, imitation, canon, fugato, augmentation, diminution, stretto - all these may directly influence or
+ornament the fundamental structure of a piece.
+Text Influence on Harmony
+The affect of a text finds its most immediate expression in
+harmony: a mood may spring from a single chord as unmisDissonance
+takably as from a whole major or minor tonality.
+and word expression are connected almost as closely as the
+chicken and the egg - and with a somewhat similar ambiguity
+As a text unfolds, successive
+regarding which came first.
+modulations can follow the changing ideas and feelings with
+More subtle than modulation, harmonic
+complete flexibility.
+density (the cumulative effect of harmonic rhythm) is particularly valuable in reflecting the psychological background of the
+text, in part because it also lies beneath the surface.
+
+103
+RHYTHM
+No stylistic
+offers
+more difficulties
+than rhythm,
+component
+methods to attack this
+owing to our lack of adequate analytical
+varied aspect of musical expression,
+so subtly interinfinitely
+twined with other components
+that continually
+deflect our evalAs an example of these
+uations.
+consider
+the
+difficulties,
+matter of rhythmic
+the sum of rhythmic
+density,
+activity at a
+in rhythmic density obviously
+Variations
+contribgiven point.
+ute directly
+to the varying emotional
+of music; hence,
+intensity
+if we could contrive
+a useful measure
+of rhythmic
+we
+density,
+should gain important
+new insights.
+One obvious yardstick
+would seem to be the total number of tone impacts in each bar
+of music.
+Yet, note that the strength of any impact varies with
+its pitch,
+and position
+in the
+timbre,
+register,
+intensity,
+to mention only a few of the relevant
+factors.
+Furtexture,
+in the case of unisons,
+two instruments
+do not
+thermore,
+twice the impact of one:
+how should we
+produce
+necessarily
+count these cases?
+The contrast
+between solo and choir introduces even greater
+in rhythmic
+evaluation.
+complications
+Various
+such as habit and fatigue,
+influences,
+psychological
+also tend to alter or invalidate
+conclusions
+drawn from raw
+statistics
+of rhythmic
+And as a practical
+test of
+density.
+consider
+two bars of common time,
+one consisting
+of
+method,
+two eighth-notes
+and three beats of rest,
+the other filled out
+- should such bars
+Each bar has two impacts
+by two halves.
+be considered
+I have not come
+equal for analytical
+purposes?
+across
+answers
+to questions
+such as these;
+any satisfactory
+but the advent
+of electronic
+offers
+new hope of
+computers
+factors
+too numerous
+for human capacities
+of
+correlating
+simultaneous
+evaluation.
+With these difficulties
+in mind, it is clear that to mention tempo
+and meter
+of a movement
+scratches
+the surface
+of
+barely
+We can at least probe a little
+The three
+rhythm.
+deeper.
+more or less accessible
+facets of rhythm include the dimension
+of activity,
+the nature of rhythmic
+and the details
+articulations,
+of rhythmic
+texture.
+Most pieces
+show a prevailing
+dimension
+of activity,
+a normal
+size of rhythmic
+module.
+In Vivaldi
+building block or rhythmic
+for example,
+concertos,
+many fast movements
+depend almost
+the quarter as the
+entirely on the pattern J~-r,
+emphasizing
+dimension
+of activity.
+In early Classical
+style the dimension
+- notably
+and for mature
+Classicism
+grows to a full bar,
+- the phrase of two or
+and early Beethoven
+Haydn, Mozart,
+
+104
+more
+
+bars becomes
+the unit of construction.
+Within the prewe can study rhythmic patterning
+and apprevailing dimension
+ciate its contours and balance.
+are equally important
+dimensions
+but more elusive.
+Larger
+We must
+search
+for signs of rhythmic
+in the
+organization
+and the relation of the phrase to the section
+grouping of phrases
+and of the section to the whole.
+all matters
+Rhythm includes
+of time elapse,
+and we must attempt to understand
+and appreciate the largest
+and movements,
+spans of a piece, its sections
+not as static blocks of form but as enormous
+units of rhythm.
+In our own historical
+the isorhythmic
+motet can
+background,
+teach us a great deal about broad rhythmic
+and
+dimensions;
+some other musics,
+show
+notably those of India and Indonesia,
+a special
+to time elapse that makes our rhythmic
+sensitivity
+seem rather small-scale,
+almost primitive
+responses
+by comparison.
+mentioned
+articulations
+Despite complications
+above, rhythmic
+are not always hopelessly
+with other types of artiembrangled
+culation.
+In rhythmic
+we must continually
+look behind
+analysis
+the momentary
+for evidences
+of a higher control.
+phenomena
+We look not at the individual
+but at the plan
+rest, for example,
+of rests as a general
+As an illustrapattern of articulation.
+in the foltion, note that all patterning
+articulation:
+implies
+the music divides naturally
+after each pair
+lowing arrangement
+o o;d,d, o o:,d,d,
+dd o odl,dl
+o oj.
+of half-notes:,e
+But we
+must always look farther
+to the phrases
+that balance or inFor
+terrupt this pattern with other rhythmic
+arrangements.
+such as Purcell,
+the means
+composers
+Haydn, and Beethoven,
+of concealing
+articulation
+by phrase
+irregularities,
+anticipaand overlaps
+becomes
+a central
+tions,
+style characteristic.
+of rhythmic
+Details
+texture
+also reveal
+much about a comWe can differentiate
+from conposer's
+style.
+homorhythmic
+and in the 14th and 20th centuries
+textures,
+trapuntal
+polyand polymetric
+occur
+rhythmic
+arrangements
+frequently.
+dissonances
+such as syncopations,
+and
+Rhythmic
+hemiola,
+other metrical
+furnish vivid means of articulation
+interruptions
+and intensification,
+and hence,
+for word expression.
+Notice
+that phrase extension
+and contraction
+also produce an effect of
+but in the next larger
+dimension.
+The more
+syncopation,
+can view the music,
+the closer
+he comes
+broadly the analyst
+to understanding
+its unique connection
+with the flight of time.
+Accent
+must be understood
+in all dimensions:
+the stressed
+element of a pattern or the strong
+
+not merely as
+beat of a meas-
+
+105
+and the climactic
+ure, but as the climax of a phrase
+phrase
+of phrases.
+In such a broad view of accent we
+among a series
+come to think of many other
+in rhythmic
+components
+style
+in addition to harmonic
+terms:
+it is
+rhythm and tonal rhythm,
+to find rhythmic
+to parvalues in the timing allotted
+possible
+and timbres,
+concern in Stravinsky,
+ticular textures
+a special
+for example;
+of melodand the timing and rhythmic relationship
+ic climaxes
+and underpoints
+in many
+merits
+close
+attention
+and Brahms.
+composers,
+notably in Beethoven
+understood
+as the emphasis
+of a note
+Agogic accent,
+usually
+or chord by a slight prolongation
+in performance,
+should concern the analyst
+in two ways.
+In assisting
+for
+preparations
+he must attempt to find the appropriate
+limits of
+performance
+tasteful agogic accents
+in each style.
+In more general analysis,
+however,
+effects,
+produce important
+agogic factors
+underlying
+such as retards
+built into the music
+though not specifically
+indicated.
+Gradual augmentation
+and consequent
+for
+slowing,
+often occur at the end of movements
+example,
+by Brahms.
+Text Influence
+
+on Rhythm
+
+The choice
+of tempo,
+and even of surface
+meter,
+rhythmic
+to a considerable
+extent on text
+patterns
+depends
+obviously
+character
+and specific
+word arrangements.
+The difference
+in
+rhythm between prose and poetic texts produces
+tangible musical differences.
+such
+structures,
+Divergent
+types of metrical
+as those involving
+as against quantitative
+accentuaqualitative
+musical
+A forceful
+tion, may also influence
+rhythm.
+grouping
+of consonants
+contributes
+much to underline
+a strong rhythmic
+pattern, and alliteration
+provides further sources of accent and
+On a larger scale, the changing intensity
+of rhythmic
+pattern.
+the general emotional
+activity (rhythmic density) often parallels
+trend of the text.
+MELODY
+more close analytical
+attention
+than
+Melody tends to receive
+with the possible
+of form, posany other component
+exception
+it separates
+rather
+and naturally
+from
+sibly because
+easily
+other factors,
+and exists almost
+unencumbered
+in plain song
+and folk song.
+At the outset
+of melodic
+we must
+analysis
+determine
+whether the melodic materials
+are new or derivative,
+at the same time distinguishing
+melodic
+functions
+as primary
+and secondary
+(thematic)
+etc. ).
+(cantus
+ostinato,
+firmus,
+Closer
+observations
+of melody
+be divided
+may conveniently
+between melodic materials
+and melodic
+procedures.
+
+106
+Melodic material subsumes questions of range, tessitura,
+and
+mode (including gapped scales and diatonic or chromatic alterations). Observations of procedure begin with the small dimension of movement by step or skip, then examining methods of
+such as repetition,
+fortextension,
+sequence,
+figuration,
+In larger dimensions,
+recurrent
+spinnung, and free flight.
+formulas, articulation, and phrase structure become important;
+and it may be possible to abstract various general curve types
+Melodic
+by studying the location of peaks and underpoints.
+intensity results from tensions both of rising line and heightened activity; on occasion a melodic climax may result from a
+peak of sheer activity rather than a peak of line.
+Several less tangible aspects of melody deserve consideration.
+For example, is the melody determined or conditioned by its
+medium? We may often identify types such as violin melodies
+(string crossing) or organ pedal themes (separate levels for
+the two feet). Many of Haydn's melodies seemto cluster within tetrachords that suggest violin hand positions.
+The function
+of a melody may also influenceits character, as it can be seen
+in the differences between melodies used for homophonic and
+And there are general differences becontrapuntal textures.
+tween melodies with specific thematic functions such as introduction, transition, or lyric contrast.
+Text Influence on Melody
+The rightness of a melody to carry and express a text is among
+the most difficult points for the analyst to explain.
+At the
+least, however, he can show the effect of the melodic climaxes
+and underpoints,
+the subtle word emphases contributed by
+the emotional impact of chroskips and changes of tessitura,
+matic or modal alterations,
+and other details that help to
+The melody may reflect speech
+explain a melodic miracle.
+cadences and inflections, special effects such as exclamations,
+and structural organization
+and
+assonance,
+by alliteration,
+rime.
+For composers
+such as Wolf, the mutual adjustment
+between words and melodic contours reaches a point of great
+refinement.
+Like performance,
+the degree of one's
+analysis demonstrates
+Yet again like perunderstanding of a composer's intentions.
+the analytical basis always contains elements of
+formance,
+that prevent any
+individuality, both strengths and weaknesses,
+two analyses from reaching identical interpretations.
+The
+framework above attempts to secure both competence and
+it outlines a comprehensive and systematic inindividuality:
+
+107
+vestigation,
+yet
+sonal insight.
+
+r
+
+fe
+
+e
+
+1
+
+at the same
+
+re
+
+time
+
+nl
+
+a latitude
+
+provides
+
+c
+
+e
+
+for per-
+
+s
+
+see J. LaRue, Harmonic
+of such effects,
+For a discussion
+The Music
+In:
+in the Beethoven
+Symphonies.
+18 (1957) 8-20.
+
+Rhythm
+Review
+2
+
+this
+in clarifying
+studies of great importance
+Two recent
+of
+The Polyphonic
+Gustave
+situation:
+Reese,
+Magnificat
+the Renaissance
+as a Design in Tonal Centers.
+In: JAMS
+13 (1960) 68-78; Edward E. Lowinsky,
+Tonality and AtonalMusic (U. of Cal. Press,
+1961).
+ity in Sixteenth-Century
+
+3
+
+for Ambiguous
+An Explanation
+J. LaRue, Bifocal
+Tonality,
+in Honor of A. T. Davidson
+In: Essays
+Baroque Cadences.
+(Harvard U. Press,
+1957), p. 173-184.
+
+4
+
+Functions
+Structural
+See also Shelley
+David,
+Form
+in Mozart's
+Sonata-Allegro
+Rhythm
+New York University,
+M.A. thesis,
+1960).
+
+of Harmonic
+(unpublished
+
+

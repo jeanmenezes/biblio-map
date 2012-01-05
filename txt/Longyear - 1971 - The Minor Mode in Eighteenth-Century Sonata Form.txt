@@ -1,0 +1,4322 @@
+Yale University Department of Music
+
+The Minor Mode in Eighteenth-Century Sonata Form
+Author(s): R. M. Longyear
+Source: Journal of Music Theory, Vol. 15, No. 1/2 (Spring - Winter, 1971), pp. 182-229
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/842901
+Accessed: 11/12/2009 20:21
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE
+
+MINOR
+
+MODE
+
+IN
+
+sonata form have principally conInvestigators of Classic-era
+fined their studies to works in the major mode. *1 Such studies
+present fewer problems to the investigator owing to the clear
+tonal direction to the dominant in the first part of the movement and the drive back to the tonic in the second part. So
+many problems, it seems to be generally felt, remain to be
+solved in the study of the sonata form that examination of those
+deviant works in minor can be deferred. *2 Furthermore, the
+percentage of sonata form movements in minor is relatively
+small in comparison to the number in major. *3 On the other
+inhand, there has been an increasing interest in Classic-era
+strumental cycles in minor, exemplified by William Newman's
+
+183
+
+EIGHTEENTH-C
+
+SONATA
+
+FORM
+
+R. M. LONGYEAR
+statement that "time and time again the relatively few uses of
+minor account for some if not all of a composer's best sonatas".
+`4
+This study of the minor mode in eighteenth-century
+sonata form
+will be limited to those specific areas wherein the minor form
+diverges from the major: first theme-groups, transitions, the
+second half of the exposition, and recapitulations,
+with brief
+mention of the sonata form and the instrumental cycle as wholes.
+I have followed a descriptive-taxonomic
+rather than a statistical approach, since the latter would demand the publication of
+many more sonata form movements in minor than are presently
+
+184
+for it is doubtful that more than 20% of the 81 symavailable,
+in minor listed in the Breitkopf
+phonies or 51 string quartets
+I have
+are available
+in score.
+Thematic
+(1762-1787)
+Catalogue
+to works
+this study, as far as possible,
+limited
+furthermore
+available in modern editions.
+
+THE SONATA
+
+FORM IN MINOR
+
+in what one
+prior to 1780 there are wide variants
+Especially
+catecan construe
+as "sonata form", but two basic structural
+are evident:
+the binary form, in which the second half
+gories
+to the first half with appropriate
+more or less corresponds
+which coincides
+tonal changes and with a tonal "recapitulation"
+*5 and the
+from the second part of the exposition,
+with material
+and reof exposition,
+form consisting
+development,
+ternary
+the
+of two types:
+are normally
+The expositions
+capitulation.
+of a first theme and a
+with the first half comprised
+bipartite,
+tonal area, or a
+and the second half in a different
+transition
+an extensive
+of first theme,
+consisting
+exposition
+tripartite
+In many such move and a prominent closing theme.
+transition,
+section is the
+Bach and Haydn the transitional
+ments by C.P.E.
+longest.
+Within the exposition
+proper there is a question of thematic
+The second movesonata form.
+in the "pre-Classic"
+hierarchy
+ment of Giovanni Maria Rutini's keyboard sonata in F minor,
+even in terms of exposiOp. 5/5 (ca. 1759)is non-hierarchical
+and recapitulation,
+yet a kind of basic
+tion, development,
+The secondpart
+(see Figure 1)
+is evident.
+ternary organization
+of the opening motives in minor, then
+begins with a statement
+sections
+motive A in major, a frequent opening for development
+a
+The second part also includes
+in minor.
+in sonata-forms
+of additional material
+shift to mediant major for the statement
+which, as well as all the motives in the first part, recurs in the
+of the first two
+of the motives
+The dominance
+third section.
+in different
+and their repetition
+measures
+keys gives the imto
+It is illustrative
+of a concerto.
+of the ritornello
+pression
+with a similar
+this movement
+though later one, the
+compare
+no. 44 (see Figure 2),
+of Haydn's Symphony
+first movement
+motivic and dominated by its two initial mowhich is similarly
+within the exposition.
+organized
+tives,
+yet hierarchically
+defined openings
+contains
+clearly
+Another type of exposition
+material
+amount of intervening
+but a considerable
+and closes,
+of
+which is motivic and, in the keyboard sonata, often consists
+from the
+differs
+This type of movement
+formulas.
+figuration
+
+1S5
+FIGURE
+
+Sonata
+
+Rutini,
+
+in F Minor,
+
+II
+
+Op. 5/5,
+
+1
+Pause
+b A
+
+a
+
+Motives
+
+1
+f:
+
+D
+
+C
+
+5
+
+i
+a
+
+B
+
+10
+
+III
+b
+
+16
+i
+
+e
+
+e
+
+V i
+
+A
+
+A
+
+FAb
+
+F
+
+20
+
+A
+
+b
+
+E
+
+e
+
+25
+
+I
+
+iv
+
+v
+
+V/
+V
+
+v-
+
+45
+f: i
+
+F Ab
+
+AFAB
+
+50
+V/iv
+
+NB. 1)Motives
+similar
+
+55
+
+iv V/
+III
+
+III
+
+v
+
+j
+40
+
+i
+
+44Pause
+V
+
+I V/v
+
+VI
+
+g2
+
+65
+
+60
+i
+
+I
+
+35
+
+Pause
+e e e gl
+d
+
+Cc
+
+H
+
+G1 g2
+
+30
+
+Ab:V
+
+a b Ab
+
+t
+
+15
+
+v
+
+i
+
+V/vi
+
+h
+70
+
+V/v
+
+V
+
+i j coda
+75
+i6
+
+in lower case in minor,
+in capitals for major,
+to the Roman numerals
+that correspond.
+
+2) Al = A inverted.
+
+80
+i
+
+theme, which is
+tripartite
+exposition
+by reason of its closing
+rather than thematically
+since it consists
+perceived
+tonally
+Quite often in this type of expomainly of cadential formulae.
+sition the new tonal center (mediant major or dominant minor)
+in the middle of the exposition,
+somewhere
+will be established
+but without association
+with a definite thematic configuration.
+of a
+section
+In principle
+the development
+little distinguishes
+sonata form in major from one in minor.
+Quite often the desection of a sonata form in minor will begin with a
+velopment
+of the first theme in the major mode (e. g., the first
+statement
+of Haydn's Quartet Op. 20/5 and Mozart's Sonata in
+movements
+a developone can perceive
+A minor, K.310).
+Subjectively
+with a "minor" ethos (Haydn, Piano Sonata in B
+ment section
+minor,
+I) or "major" ethos (Haydn,
+Quartet Op. 20/5, I) or
+of minor and major
+defined sections
+where there are clearly
+(Haydn, Quartet Op. 50/4, I).
+in the sonata
+especially
+vary enormously,
+Recapitulations
+cited the recapitulaI have already
+Bach.
+forms of C.P.E.
+In the ternary forms
+of the binary sonata form.
+tory procedure
+beginning with the second
+many variants occur: recapitulations
+the second
+the transition,
+theme;
+part of the first theme,
+or even the
+in the second part of the exposition;
+abridgements
+At times there will
+of different thematic material.
+substitution
+with the first theme
+even be a kind of "mirror" recapitulation
+stated last (C.P.E.
+Bach, Symphony in E minor, Wq 177, I). *6
+are the restatein the recapitulation
+The essential
+problems
+in minor and the balancing
+from the exposition
+ment of material
+in the exposition
+established
+tonal relationships
+of subordinate
+in
+which I shall call "axial relationships"
+through a procedure
+the recapitulation.
+
+EXPOSITIONS
+I.
+
+Slow Introductions
+
+in minor is
+to a sonata form movement
+A slow introduction
+Even an
+in works in truly Classic
+non-existent
+style.
+virtually
+in major
+in the minor mode to a main movement
+introduction
+to Don
+IV, and the Overture
+(Mozart,
+String Quintet, K.516,
+nos. 98, 101, 104) can be called
+Giovanni; Haydn, Symphonies
+in minor has
+A first slow movement
+at least pre-Romantic.
+yet
+been viewed as a link with the older sonata da chiesa*7,
+connection
+this historical
+whereas
+may be true of J.C. Bach's
+in C minor,
+Piano.Sonata
+Symphonies
+Op. 5/6, or of Haydn's
+
+Haydn, Symphony no. 44 ("Trauer"),
+
+2d th. -gp.
+
+Transition
+1st theme-group
+a b1 D E F
+a b c
+A
+
+Motives:
+
+i
+
+V
+
+e: i
+
+ab3ab3
+
+Motives:
+DEVELOPMENT
+Key centers:
+
+c
+
+62
+b
+
+F
+
+C
+
+70
+
+40
+
+30
+
+SHIFT
+G: I
+
+I
+
+iiV
+
+I
+
+i
+
+E F(sequences)
+A
+90
+80
+
+C
+
+a
+
+A B2 a B2
+X
+
+h
+
+GH
+
+20
+
+10
+
+1
+
+EXPOSITION
+
+Motives:
+
+I
+
+Retransition
+100
+Vie
+
+2d. th.-gp
+
+1st theme-group
+a b c M m M c2 b
+
+a
+
+h
+
+b4 ab2
+
+Close Coda
+i
+
+RECAPITULATION
+
+01
+1?
+e: i
+
+e....
+
+V/iv
+
+11n
+VA
+
+V
+
+120
+
+i
+
+i.
+
+a
+
+i
+
+(strett
+
+x
+130
+6
+
+140
+V9
+
+no. 34 and 49, it is difficult to accept it for Haydn's Quartet Op.
+On the
+55 / 2, which opens with one of his finest double variations.
+in minor, yet not of the di other hand, a lengthy slow introduction
+of a "slow movement",
+to a sonata form in minor (Leomensions
+Sonatas Op. 2/3, Op. 15/1, Op. 38/3; Clementi,
+pold Kozeluch,
+of a preOp. 5/2, Op. 13) is a hallmark
+Op. 34/2; Beethoven,
+in the minor mode
+or early Romantic sonata.
+Slow introductions
+are more frequent in the opening years of the nineteenth century,
+even in the realm of the comic opera overture (Nicola Zingarelli,
+Ferdinand Kauer, Albrecht der Bar).
+Ii Mercato di Monfregoso;
+II.
+
+First
+
+Themes
+
+of C.P.E.
+In a very few cases (the first movements
+Bach's Sonata Wq 55/3, Haydn's Quartets Op. 33/1 and Op. 64/2, all in
+is
+is tonally ambiguous:
+B minor) the opening of the exposition
+the openBut overwhelmingly
+the key B minor or D major?
+Many of
+ing theme clearly defines both the key and the mode.
+into what La Rue has described
+these themes can be organized
+in minor in
+as "melodic families",
+though he cites no families
+his study. *8
+triadic melodies
+1. Ascending
+(Example 1) seldom have anawith the rhythmic configuraand are often associated
+cruses
+tion of a long note followed by two shorter notes, apattern also
+found in minor first themes which fit into none of the melodic
+of C. P. E.
+first movements
+here (e.g.,
+described
+families
+Bach, Symphony in E minor, Wq 177; Mozart, Piano Quartet
+K.478 and String Quartet K.421; Haydn, Symphony no. 95).
+triadic contour (Example 2) are
+2. Melodies with a descending
+or in their locamore varied in rhythm, in filled-in
+intervals,
+tion in the instrumental
+cycle; they are often more suitable for
+triadic
+or finales than themes with ascending
+slow movements
+contours.
+outline part or all of the minor
+3. The theme whose intervals
+seventh was well known to Baroque
+triad and the diminished
+in Example 3 are
+Note how many of the themes
+composers.
+devices
+of how Baroque
+a further indication
+fugue subjects,
+continued well into the Classic period.
+Subgroups of this family
+to whether the theme begins on the
+can be ordered
+according
+tonic, dominant, or third of the triad and whether the intervenseventh are filled in
+ing intervals of the triad or the diminished
+or not. Note that the diminished seventh interval is descending;
+as part of a lengthy opening theme
+it occurs
+when it ascends
+Piano
+of Haydn, Symphony no. 78; Mozart,
+(first movements
+
+189
+Concerto
+
+K.491.
+
+themes
+and
+4. One can also distinguish
+between
+phrase-like
+of motives,
+one of the
+themes
+which consist of an aggregation
+which Jens Larsen
+felt needed further
+sonata form problems
+9 Inthe minor mode, a phrase-like
+theme tends to have
+study.
+a more "Romantic"
+character
+than the motivic theme.
+ComK.
+pare the opening themes of Haydn's Op. 20/5 and Mozart's
+421 Quartets,
+with the motivic openings of
+themes,
+phrase-like
+Piano Sonata in C miHaydn's Quartet Op. 20/3 and Mozart's
+A pre-Romantic
+theme that is not motivically
+nor, K.457.
+of different
+oriented
+and even unbalanced
+will often consist
+as in Example 4.
+phrases,
+III.
+
+Transitions
+
+One of the principal
+differences
+between sonata forms in minor
+and major during the Classic
+period is the harmonic goal of the
+In major the goal is dominant major; in minor,
+exposition.
+mediant major or dominant minor.
+of the eighteenth
+Theorists
+the mediant as
+century preferred
+the goal of the exposition,
+with dominant minor as a secondary
+Johann Adolf Scheibe stated in 1739 that the first
+alternative.
+of a symphony in major concluded in
+part of the fast movement
+the dominant,
+"but if the key be minor, the first part best concludes in the mediant, though one may also end in the dominant".
+`10 Later in the century Heinrich
+Christoph Koch considered
+the minor dominant a rarer goal than the mediant,l '11 whereas
+Galeazzi
+admitted only the meAugust Kollmann and Francesco
+diant as destination
+was ending
+despite the fact that Clementi
+some of his expositions
+in the minor dominant (the first movement of his F# minor Sonata Op. 26/2, for example)
+not too
+were written. '12
+long before these treatises
+Dominant
+minor as the goal of the exposition
+is usually associated with binary sonata form movements.
+Though dominant
+minor is but one of the goals of the first half of the movement
+in Domenico
+Scarlatti's
+sonatas, .13 this tonal direction is more
+in the middle of the eighteenth
+prevalent
+century.
+Among such
+are the overture
+to Gluck's Alceste,
+the first
+binary movements
+of Rutini's Sonata Op. 5/5, and the first movement
+movement
+of C.P.E.
+B minor Sonata, Wq 55/3.
+Bach's
+In the ternary
+sonata form movement,
+dominant
+minor at the end of the exof an unfocused
+position is rarer; this usually is characteristic
+sonata form (C.P.E.
+of the first WilrtBach, first movements
+Sonata and the F minor Sonata Wq 57/6),
+but some
+temberg
+
+190
+EXAMPLE
+
+MINOR MODE MELODIC
+ASCENDING
+
+FAMILIES:
+TRIADIC
+
+1
+1. Franz Benda, Violin Concerto (Breitkopf Thematic Catalogue 1762)
+
+2. Carl Hoeckh, Violin Concerto (BTC 1762)
+
+3. Simon Le Duc aine, Orchestral Trio, Op. 2/2
+
+4. Johann Baptist Vanhal, Symphony (BTC 1771)
+
+5. Franz Joseph Haydn, String Quartet, Op. 17/4
+
+6. Haydn, Piano Sonata, Hoboken no. 32
+
+7. Haydn, Symphony No. 52
+
+8. Carl Stamitz, Sinfonia Concertante (BTC 1781)
+
+9. Mozart, Serenade, K. 388
+
+10. Louis-Charles
+
+Rague, Symphony, Op. 10/1
+
+11. Mozart, Piano Sonata, K. 457
+
+191
+
+tr.
+
+r
+
+,
+Il,
+
+:S,
+
+tr
+
+r
+tr
+- iJri ji^ rir tr |
+Af
+
+^
+
+tr it
+
+I1-
+
+L
+i
+~p~ dj I . -r! -r i-
+
+_
+
+-.
+
+IL
+
+ut^c ,I If0 I r
+rr
+
+I
+I
+t$
+
+c
+
+L41,
+
+,
+
+J
+
+L^c
+
+I
+
+^
+
+A
+
+IL
+
+v
+
+--
+
+?~f J
+J
+
+rl: jl,
+
+P-""M-tttf-i
+c
+i.t
+
+r
+
+t1 i-+E_J!
+
+JlrrlJJ
+
+- Ql"t'
+I
+i
+L499^j . I i
+C
+^!'+
+
+F"-
+
+,,-l
+i
+IrD-! r
+I
+
+I
+
+I
+
+I
+
+192
+EXAMPLE
+
+MINOR MODE MELODIC
+DESCENDING
+
+2
+
+1. C. P. E. Bach, Fourth "Prussian'
+
+Sonata
+
+2. Giovanni Battista Martini. Symphony (BTC 1762)
+
+3. Carl Hoeckh, Violin Concerto (BTC 1762)
+
+4. Felice Bambini, Symphony a 4, Op. 1/3
+
+5. Joseph Schmitt, Symphony (Dunning no. 22)
+
+6. Carl Hoeckh, Violin Concerto (BTC 1773)
+
+7. Johann Wilhelm Haessler.
+
+8. Haessler,
+
+Piano Solo No. 2, III
+
+Piano Solo No. 3, I
+
+9. Haydn, Symphony No. 45
+
+10. Mozart, Piano Sonata, K. 310
+
+FAMILIES:
+
+TRIADIC
+
+I
+
+MP
+
+1
+F
+
+()
+
+r-
+
+r-
+
+w-w
+5'
+0
+
+!
+I
+0._
+-i
+
+I
+
+--4
+(*
+
+-t
+
+-4
+
+I
+
+J
+
+I
+
+4
+
+4
+I _
+
+(
+
+C
+
+Sz
+
+(
+
+I
+
+L...
+
+L
+LI
+-I
+
+;I'
+:1
+:7
+3
+I
+
+I
+I
+
+4
+41
+
+r
+
+I
+
+194
+EXAMPLE
+
+MINOR MODE MELODIC
+OUTLINING
+
+TRIADS OR DIMINISHED
+
+FAMILIES:
+SEVENTHS
+
+3
+1. Pierre Talon, Symphony, Op. 5/5
+
+2. Wilhelm Friedemann Bach, Symphony (Falck no. 65), II (fugal theme)
+
+3. Joseph Schmitt, Symphony (Dunning no. 15)
+
+4. Haydn, String Quartet, Op. 20/5, IV (fugal theme)
+
+5. Mozart, String Quartet, K. 168, II (fugal theme)
+
+6. Mozart, Symphony, K. 183
+
+7. Carlos Ordonez, String Quartet, Op. 1/3 (BTC 1778)
+
+8. Mozart, Piano Sonata (incomplete), K. 312, I
+
+9. Haydn. Overture to I Ritorno di Tobia
+
+10. Luigi Boccherini,
+
+String Quartet, Op. 33/5
+
+U. Mozart, Requiem, Kyrie
+
+195
+
+,I
+
+- I
+r7#
+; ?!=
+
+_l
+
+r
+
+II
+,, K
+
+I
+
+io
+
+* I.lr i
+
+^?c
+
+L
+
+jwI
+
+ft
+
+,,.aKJ
+
+-ic
+
+,
+
+I,
+
+4J.1
+
+Andante
+
+I
+
+In I L
+
+?! l
+,,,r
+
+11
+
+6-bw
+
+L
+
+k II
+
+Fq rTf -r I ir
+1-
+
+T
+
+I
+
+I
+
+teb-kft
+rJLi
+I
+
+I
+
+Cr ----
+
+I
+
+l
+
+. ir
+
+]
+
+Largo
+
+h . L.
+
+J
+iE'~PL
+
+F9:Kc
+
+I--
+
+F
+
+I
+
+-
+
+I
+
+jl
+
+LI
+.
+
+i
+
+196
+EXAMPLE
+4
+
+KO-ELUCH,
+
+SONATA
+
+IN D MINOR,
+
+OP.
+
+20/3,
+
+I.
+
+Moderato
+
+r-
+
+'p;
+
+:-jr;
+
+IX
+
+rrnL
+
+i
+^F
+r .r |
+:L?
+C
+^~
+r'ef^^lr'f^
+
+M.rrrw
+
+3
+
+197
+more highly
+goal deserve
+
+developed
+expositions
+further examination.
+
+with dominant
+
+minor
+
+as the
+
+The first
+of Mozart's
+D minor Quartet,
+movement
+K. 173,
+diverges
+greatly from the tonal norms of sonata form with its
+in the words of Theodore
+structural
+de Wyzewa and
+technique,
+de Saint-Foix,
+"moins musicale
+14
+Georges
+que poetique".
+of the first themes (mm. 1-9, 66Except for the statements
+until the coda.
+The rhythmic
+74), tonal instability
+prevails
+of the transition,
+motive
+at measure
+16, is plastic
+beginning
+in A
+the cadences
+sections;
+enough to be used in modulatory
+minor (mm. 16-18, 23-24) hint at a possible
+is
+goal which
+vitiated in mm. 29-31 where the goal seems to be the dominant
+of E minor,
+and the final cadence
+of the exposition
+is an A
+sixth
+major triad approached
+through a chord of the augmented
+(mm. 45-46). *15
+Often the basic tonal plan consists
+of i-III-v,
+with the first
+a transition
+theme in tonic minor,
+which goes to the mediant,
+and a close in dominant minor.
+This occurs early in the Classic period in the finale of Francois
+Martin's Symphony in G
+concludes
+with a D major
+minor,
+Op. 4/2. *16 The exposition
+chord at the first ending (dominant of the home tonic),
+and a D
+minor chord at the second ending.
+In the first movement
+of
+the shift to
+Haydn's "Farewell"
+Symphony (no. 45, F# minor),
+the mediant (A major) at measure 21 is followed by the surprisof A minor (mm. 38-42),
+a modulatory
+ing insertion
+passage
+concluded
+cadence
+(mm. 54-55) and a caesura,
+by a deceptive
+and then a definite statement
+of the dominant of C# minor (mm.
+There is no second theme in this tripartite exposition,
+56-59).
+rather a closing statement
+(mm. 60-72) in C# minor instead of
+the expected
+A major.
+in the first movement
+of his Piano Sonata Op. 26/2,
+Clementi,
+also in F# minor, begins his transition
+(m. 13) as if he is goin this key throughout the first part
+ing to A major and remains
+of his second theme (motivically
+related to the first theme), but
+after a perfect cadence in A mjaor he modulates to C# minor in
+the second part of the second theme, with the closing
+theme
+(mm. 58-64) stated in C# minor.
+Mediant
+bulk of
+for the
+(1) the
+arising
+reciting
+
+characterizes
+the
+major as the goal of the exposition
+sonata form movements
+in minor.
+Two explanations
+affinity of tonic minor and mediant major are possible:
+two triads share two common tones and (2) a tradition
+from the Hypodorian mode, whose finalis is D and whose
+tone (so-called
+of
+"dominant") is F. An examination
+
+198
+sonata forms in minor with mediant major as the goal of the
+exposition shows a variety of approaches which can be grouped
+in the following categories:
+1. The absence of a transition, wherein a self-contained theme,
+usually eight or sixteen measures long, cadences on its tonic
+or its dominant; there is a caesura, usually complete in all
+parts but occasionally melodic only (J.C. Bach, Sonata in C
+material imminor, Op. 17/2, I, m. 11); then second-theme
+ensues in the mediant. In the second movement of
+mediately
+Haydn's Symphony No. 49, after the caesura the music resumes
+in the mediant, but not yet with the second theme.
+2. The most prevalent type of transition consists of a statefirst theme
+ment of the opening part of the previously-heard
+which serves as a springboard for the continuation or development of this thematic material, *17 in the course of which a
+modulation to the mediant occurs.
+can be made about the length of these
+(a) No generalizations
+In the tripartite exposition the transition is often
+transitions.
+the longest section; in contrast, one can regard measures 1922 in the first movement of Mozart's C minor Piano Sonata, K.
+457, as the quintessence of the tonic-mediant transition compressed within four measures.
+(b) In most of these transitions, connections between tonic minor
+and mediant major are smoothly handled without sharply defined
+breaks; the transition in the first movement of Haydn's Quartet
+Op. 50/4 is a "classic" example. Aparticularly effective treatment occurs in the first movement of Haydn's Symphony no. 39:
+statement of the firstpart of the first theme in tonic minor (mm.
+13-16); statement of the first part of this portion in mediant major (mm. 17-20), after which the new tonic is firmly established.
+In the recapitulation this effect is paralleled by statement of this
+material in dominant minor, then dominant major (mm. 95-97).
+Much rarer is an abrupt and surprising shift in the course of
+transition to the new key, as shown in Example 5.
+(c) The pivot from the old to the new key is customarily made
+through the dominant of the new key, but this dominant is often
+prepared by chords which are common to both tonic minor and
+The subdominant of the old key is also the
+mediant major.
+supertonic of the new mediant and thus serves not only as a pivot
+but also as a means of establishing a grand cadence of ii-V-I
+in the mediant, as (to cite early Classic examples) in the first
+movements of Rutini's Sonata in D minor, Op. 3/4, and Franz
+Beck's Sinfonia in D minor, Op. 3/5. Another pivotal harmony
+
+HAYDN,
+
+tS
+
+SONATA
+
+IN G MINOR,
+
+c
+
+~
+
+I.
+
+fK.-/J
+
+200
+is the submediant of tonic minor as the subdominant of the
+mediant, as seen in the first movements of Haydn's C# minor
+and B minor Sonatas, and treated abruptly in the first movement of Mozart's E minor Violin Sonata, K.304.
+Even the
+minor dominant of the old tonic can be used as a pivot, for it is
+the mediant of the new key, as shown in Example 6.
+(d) Elements of the minor form of the new major key, either
+subdominant minor or a tonic minor with a strong emphasis on
+the dominant, parallel to the iv-I effect, intensify the new tonic;
+As an illustration,
+this is one of Mozart's favorite devices.
+Mozart begins the transition of the first movement of his A minor Sonata, K. 310, with a statement of the opening of the first
+theme, then a shift to the mediant through its subdominant; after
+the new tonic is prepared, minor tonality rather than the expected major (mm. 16-22) ensues through the remainder of the
+Subdominant minor of the mediant is more common,
+transition.
+whether in harmonized or unison passages, especially to prepare the cadence of the first half of the exposition.
+3. A third category of transitions begins thematically with new
+material and tonally in the original tonic or its harmonic orbit,
+less often in the harmonic orbit of the mediant but not directly
+on it, and more rarely in a tonal area common to but rather
+distant from both tonics.
+(a) An excellent early example of the first type is the first
+movement of J.G. Eckardt's Piano Sonata Op. 1/2, published
+in 1763; the first movement of Rutini's Sonata Op. 3/4 is similar but less clearly defined. Eckhardt begins his transition
+in the tonic with new thematic material (subsequently excised
+from the recapitulation) with an ensuing progression to the
+subdominant to establish a pivot for a grand ii-V-I cadence on
+the mediant.
+(b) The second type embraces an abrupt shift to the tonal area
+of the mediant but not its pure tonic; usually the new tonic is
+treated as V7 of IV, as in the first movement of Haydn's C minor Piano Sonata. His procedure is smoother in the first move ment of his Quartet Op. 17/4, since the close similarity of the
+opening theme to the opening of the transition provides greater
+unity (Example 7).
+(c) More unusual is the beginning of the transition on a scale
+degree not closely related to either the tonic or the mediant.
+The transition in the finale of Haydn's Quartet Op. 17/4 (C
+minor) begins in G minor with a new contrapuntal treatment of
+
+2
+
+6
+
+HAYDN,
+
+r
+
+I
+
+J;;;
+
+[
+
+?r2
+
+STRING QUARTET,
+
+OP.
+
+?&rr~~~
+
+I.
+
+20/5,
+
+I
+
+f
+
+^^g?
+FTU ITAr
+I
+
+t
+
+...-
+
+7
+
+HAYDN,
+
+-
+
+4^b
+r
+
+STRING QUARTET,
+
+U
+
+OP.
+
+I
+
+a
+
+I. *I.
+.
+A.
+
+,
+
+0
+
+4.
+.
+
+...
+
+_oo
+
+t- -t
+
+I
+
+17/4,
+
+j-X
+
+_
+
+r' r'
+
+'
+
+0
+
+^ L
+
+202
+the opening motive. The most unusual specimen is the transition in the second movement of Haydn's Quartet Op. 55/2: after
+the theme cadences in the home tonic (F minor) there is a
+grand pause after which the theme begins in the flat supertonic
+(Gf major) and then modulates to the mediant.
+4. The most thematically complex kind of transition consists
+of the use of transitional themes which are perceived as independent thematic entities because of their rhythmic and melodic
+sharply contrasting in most instances to preconfigurations,
+theme of Mozart's K. 478
+ceding material (the transitional
+Piano Quartet, first movement, is a contrapuntal treatment of
+The principal criterion of a true transithe opening theme).
+as in
+tional theme is its recurrence in the recapitulation,
+Mozart's two Symphonies in G minor.
+IV.
+
+Second Theme-Groups
+
+Earlier in this study I discussed the question of the hierarchiThis concept is not an excal organization of the exposition.
+cuse to revive the outmoded terminology of "principal" and
+"subordinate" themes, but to demonstrate the fluid character
+of thematic or motivic material in sonata form. Furthermore,
+this concept is often better perceived aurally than definedverbally.
+1. One type of hierarchical structure includes the use of motivic rather than melodic-thematic
+complexes for the second
+Haydn's Quartheme-group, best seen in the firstmovementof
+The retention of the concerto printet Op. 20/3, mm.27-88.
+ciple, wherein second-theme motives are derived from those
+of the first theme, will be subsequently discussed in this section.
+2. In the purely hierarchical
+type of bipartite exposition the
+second theme will be clearly identifiable and often song-like,
+usually separated from the first part of the exposition by a
+definite cadence and caesura. The first movement of Mozart's
+G minor Symphony, K. 550, shows this type of exposition so
+clearly that it is often cited as a paradigm of Classic sonata
+form in music appreciation and "form and analysis" textbooks.
+There are two fundamental types of contrasting song-themes in
+sonata forms in the minor mode: those themes which can be
+restated in tonic minor in the recapitulation and those which
+cannot.
+3.
+
+A variant of hierarchical
+
+sonata form which is of particular
+
+203
+in forms in the minor mode occurs when the second
+interest
+In works in major this second
+theme is derived from the first.
+theme is stated in the dominant,
+as in the first movements
+of
+nos. 85 and 100, but in works in minor
+Haydn's Symphonies
+this theme will customarily
+be in mediant major, rarely (C.P.
+E. Bach, first WUrttemberg
+Sonata) in dominant minor.
+Larsen has advanced
+the idea that a major differentiation
+between symphonic
+and keyboard sonata form is the retention in
+the former of the ritornello-episode
+of the concerto.
+principle
+*18 We have previously
+seen this effect in the keyboard sonata
+in the second movement
+of Rutini's Sonata Op. 5/5.
+During the
+Classic
+of the ritornello-episode
+period the best illustration
+in the symphony
+is the first movement
+of Haydn's
+principle
+with the
+Symphony no. 44 (Figure 2), which can be compared
+sonata movement
+by Rutini shown in Figure 1 in order to see
+the development
+of the hierarchical
+sonata form principle
+in
+two motivically
+conceived
+works.
+Note, in Haydn's firstmovement, that motive A recurs twelve times and motive B ten, and
+that the alterations
+in motive B correspond
+with its position in
+the formal design (Example 8).
+An interesting
+of the derivation
+of the major second
+variant
+theme from the minor first theme occurs in the finale of C. P. E.
+Bach's sixth Wulrttemberg
+of
+Sonata; this is not the application
+the concerto principle,
+of the contrapuntal
+but the combination
+of the two-part
+with the logic of sonata
+invention
+technique
+form.
+V.
+
+Minor Interpolations
+
+(Molleinschtiben)
+
+The minor mode is so indispensable
+for transitional
+and develin sonata form in the major mode that any
+opmental sections
+further discussion
+thereof is unnecessary.
+In some movements
+in major there is the occasional
+but crucial use of the minor
+mode within the second half of a bipartite
+this also
+exposition;
+occurs in minor-mode
+sonata forms.
+Hans Engel has discussed
+one type of minor interpolation,
+the "expressive
+sentimentallycolored minor",
+transferred
+from the tender aspects of Italian
+Livietta's
+opera buffa of the pre-Classic
+period (for example,
+farewell inPergolesi's
+opera Livietta e Tracollo) into the sonata
+form, either as minor echoes of a phrase first stated in major
+as interpolations
+into the theme-group
+or, more commonly,
+itself (Molleinschtiben).
+'19 These minor interpolations
+can be
+discussed
+under the following
+categories.
+1.
+
+Episodes
+
+in dominant
+
+minor
+
+which
+
+correspond
+
+to a second
+
+204
+of the pre- and early Classic
+sonata form.
+theme are hallmarks
+are the sinfonia (1721) to Francesco
+Conti's
+Good illustrations
+cites as one
+which Wilhelm Fischer
+opera Pallade Trionfante,
+of the earliest
+sonata forms in the Italian overture *20, and the
+A
+Sonata.
+of C.P.E.
+Bach's
+first Prussian
+first movement
+with eastsecond theme with a turn to minor can be associated
+in the work from which Example 9 is
+ern European exoticism;
+touched
+taken, the first and closing themes are also delicately
+triads. '21
+with minor mode through the use of secondary
+in
+of a passage
+is an insertion
+2. The true "Molleinschub"
+in
+which is prevailingly
+minor within a second theme-group
+such intersonata-form
+In early Classic
+movements,
+major.
+as well as tonal relent sentimental
+expressiveness
+polations
+and recapitulation;
+to this portion of the exposition
+inforcement
+Alberti's
+of Domenico
+is the first movement
+a good example
+as anexploCembalo Sonata in F major. *22 The Molleinschub
+in the
+observable
+is easily
+sive "Sturm und Drang" element
+of Haydn's Symphony no. 46; notice that the
+first movement
+of this interpolation
+pattern and triadic movement
+rhythmic
+and conto those of the opening of the transition
+are similar
+clusion of the exposition
+(Example 10).
+of Mozart's
+in the first movement
+3. The minor interpolation
+K. 551 (mm. 81-85, 269-275) is too famil"Jupiter" Symphony
+as shown by the
+Yet its real function,
+iar to require citation.
+it and by the changes in its harmpny
+which precedes
+caesura
+is not as an interrupin the recapitulation,
+and tonal direction
+tonal
+but as a subsidiary
+examples,
+tion, as in the previous
+axis.
+also occur in the second theme-group
+4. Minor interpolations
+of sonata form
+in major) in the expositions
+areas
+(basically
+of an
+the statement
+in the minor mode.
+Usually
+movements
+of
+in major is echoed in minor (Haydn, first movements
+idea
+In such circumstances,
+Symphony no. 44, Quartet Op. 76/2.
+echo device in the
+to use this major-minor
+it is unnecessary
+which utilize subin chromaticism
+Ventures
+recapitulation.
+as at mm. 95dominant or tonic minor as passing harmonies,
+K. 550, cannot
+G minor Symphony,
+98 of the finale of Mozart's
+since the effect of minor
+as true Molleinschtben
+be regarded
+is transitory.
+at the feast" effect can be achieved
+5. A Romantic
+"specter
+as in
+as a Molleinschub,
+material
+the use of first-theme
+by
+C minor Piano
+of Mozart's
+mm. 220-227 of the first movement
+of the opening theme in the
+the statement
+K.491;
+Concerto,
+
+205
+EXAMPLE
+
+S
+
+.|4
+
+-0--
+
+,,-'~
+
+j~IL
+_z.
+
+I.re<
+:-
+
+Qrt
+
+d
+
+-
+
+-ti
+i.@
+?
+
+.>*
+
+-^'
+
+-^4
+
+^i
+
+^
+
++
+
+^
+
+_
+
+206
+EXAMPLE
+
+9
+
+Symphony on Ukranian themes:
+first movement
+
+EH
+
+i~ ?'
+
+j I
+
+!!
+
+r
+
+207
+EXAMPLE
+10
+
+Haydn,
+
+Symphony
+
+11
+
+no. 46,
+
+I
+
+,v~if?
+
+e
+
+c
+
+-111ii
+
+B.:
+
+I
+
+I
+
+-_
+
+j.
+
+e
+
+j:
+I
+
+S
+-
+
+M
+
+r
+
+m
+
+^
+
+i
+
+J
+
+IIL.
+A.
+
+I' ~'
+;-F F,i''l
+
+_
+
+i,
+
+,
+I
+
+J
+
+.
+
+I---1
+
+? '
+
+.
+
+J.W-4=
+
+c.
+
+k.JR
+
+-
+
+r
+
+1L
+
+.; -
+
+jI
+
+- I -40 I
+
+7 77
+
+208
+flute provides
+
+an even more Romantic touch.
+
+6. A technique which may be regarded as pre-Romantic is the
+shift of the minor interpolation, in a sonata form in minor,
+from within the second theme-group area to the opening of this
+A dramatic
+section, thus producing a sense of tonal dislocation.
+illustration occurs in the first movement of Koseluch's Sonata
+in D minor, Op. 20/3: after the transition establishes the dominant of the mediant (F major) and a caesura occurs, an explosive passage begins in F minor after which the second theme
+proper continues in F major; in the recapitulation this idea is
+stated in tonic minor, after which the second theme is stated
+in this same key and mode. The way was thus prepared for
+Beethoven's beginning his second theme directly in mediant
+minor in the first movement of his Piano Sonata Op. 13.
+VI.
+
+The Close of the Exposition
+
+Crucial to the close of the exposition in sonata forms in the
+minor mode is whether the concluding measures are a reinforcement of mediant tonality or whether there is a turning
+back to tonic minor for the purpose of repeating the exposition.
+Often this event is demarcated by first and second endings,
+with the first ending leading back to tonic minor and the second
+proceeding to the key of the opening of the development. When
+the minor tonic is the eventual final goal of the exposition, the
+closing themes are less distinctly pronounced and defined and
+are more closely connected with second-theme material than
+in expositions definitely closing in the mediant. The exception
+occurs in borderline cases when there is a firm forte cadence
+on the mediant, then a surprising shift to the dominant of tonic
+minor, as in the first movement of Mozart's G minor Symphony,
+K.550.
+There is a strong correlation between the conclusion of the
+exposition as a lead back to tonic minor and the "chamber" (as
+opposed to the "symphonic") style of instrumental composition.
+An examination of the endings of the expositions in 72 fast
+sonata form movements in minor disclosed 53 with definite
+and strong cadences in the mediant, 15 with lead backs to tonic
+minor at the end, and four borderline cases comparable to the
+first movement of Mozart's G minor Symphony cited above.
+The only symphonic movements with expositions leading back
+to tonic minor were the outer movements of Haydn's Symphony
+no. 44 and Mozart's G minor symphony, K. 183, and the finale
+of Francois Martin's Symphony Op. 4/2, composed no later
+than 1751. The only similar piano sonata movements were the
+
+209
+C
+of Haydn's
+G minor Sonata and Mozart's
+first movements
+K.
+minor Sonata, K.457,
+with the G minor Sonata movement,
+On the other hand, in many cham312, a borderline
+example.
+end with a turn back to tonic
+ber works in minor the expositions
+of Haydn's Quarmajor, examples
+being the second movement
+of Mozart's
+tet Op. 55/2 and the first movements
+Quartet K.
+Mozart's
+421, Piano Quartet K.478, and String Quintet K.516.
+closes
+emphatically
+only chamber work in which the exposition
+on the mediant is his D minor Trio, K.442,
+his least successfor a composer
+ful chamber work in minor.
+with
+Surprisingly
+so many variants inhis sonata structures,
+C. P. E. Bach strongin the mediant if the second
+the definite conclusion
+ly preferred
+half of his exposition
+is in that tonality.
+
+RECAPITULATIONS
+In the recapitulation
+the eighteenth-century
+showed
+composer
+He had the
+to the minor mode.
+the extent of his commitment
+option of writing it in tonic minor throughout or of stating his
+often with a change of key
+second theme area in tonic major,
+the ethos of the minor
+thus essentially
+signature,
+repudiating
+mode.
+Thus the recapitulations
+disclosed
+the true meaning of
+the exposition
+and its thematic
+served
+as the scene
+material,
+of either the resolution
+of the conflicts
+set up in the exposition
+and development
+of conflict with the strugor the intensification
+or the coda,
+gle renewed in the second part of the recapitulation
+and (especially
+in finales) provided the effect of an optimistic
+or pessimistic
+outcome.
+Despite the lack of adequate discusin Classic
+sions of the recapitulation
+theand pre-Romantic
+oretical
+from Scheibe to Momigny, *24 this section
+treatises,
+for sonata form movements
+is the most crucial
+in minor next
+to the opening of the movement
+itself.
+I.
+
+First
+
+Themes
+
+of the first theme in tonic minor, with the
+The restatement
+instrumentation
+same texture,
+and, when applicable,
+sonority,
+would seem to be one of
+with which it was first proclaimed,
+with the
+of sonata form, especially
+the most rigid principles
+of the minor mode.
+Yet there are several
+inherent instability
+from this customary
+variants
+practice.
+minor and then
+1. Some recapitulations
+begin in subdominant
+proceed to the tonic; this is usually typical of early Classic works
+of C. P. E. Bach's fourth Prussian
+such as the first movements
+Sonata Op. 3/4 or the finale of Martin's
+Sonata and Rutini's
+
+210
+Even such an unusual procedure as a reSymphony Op. 4/2.
+capitulation beginning in dominant minor (Schubert, Symphony
+no. 4, D.417, first movement, mm. 179-198) has a precedent
+in the first movement of Jiri Antonin Benda's Sonata (ca. 1778)
+in C Minor.*25
+2. Sometimes the recapitulation of the first theme will be
+accompanied by slight but interesting variants from its initial
+statement in the movement: Johann Wilhelm Hassler was parIn the first movements of his set of six
+tial to this device.
+sonatas (1779 *26), of which the third and fifth are in minor,
+at the recapitulation of the third sonata the theme is in the
+bass with a discant; in the fifth, the original accompaniment is
+Such variants are even more interesting
+above the theme.
+in the finale of
+when combined with contrapuntal devices:
+Bach's fourth Prussian Sonata, the recapitulation coC.P.E.
+incides with the stretto of this invention-like finale, whereas
+in the finale of Haydn's Quartet Op. 42 the recapitulation coincides with the resumption of the fugue, but with the subject in
+the bass and a new countersubject above it.
+3. Some recapitulations do not begin with the first theme: the
+section can begin with material associated in content and dynamics with the transition of the exposition (Haydn, Symphony
+no. 44, IV; no. 78, I) or with the thematic order changed (EckBach, Sinfonia in E minor,
+ardt, Sonata Op. 1/3, III; C.P.E.
+Wq 177, I) or with the second part of the first theme (Haydn,
+Quartet Op. 74/3, I). Though the first movement of Haydn's
+Symphony no. 80 is ternary, it has two different recapitulations: a tonal one, considerably abridged, with a variant of
+the first theme though beginning with the tonic minor chord in
+first inversion, then a thematic recapitulation beginning with
+the second theme in tonic major. An extreme example is the
+cantata La Morte d'Alceste
+sinfonia to Nicola Zingarelli's
+(1789; MS in the library of the Naples Conservatory) in which
+the severely contrapuntal opening in C minor is replaced in
+the recapitulation by a brief, suave andante in C major.
+II.
+
+Transitions
+
+The principal function of the transition in recapitulations is to
+reinforce the feeling of the tonic. Often this function is achieved
+by excursions into subdominant minor; in Galeazzi's words,
+"it is necessary that the motive itself be conducted gradually
+to the subdominant. . .and then make a cadence on the dominant". *27 This is especially true in semi-minor
+recapitulations, where the second part of the recapitulation is in tonic
+
+211
+also indicated
+usually
+major,
+by a change of key signature
+the first movements
+of Haydn's Quartets
+Op. 50/4 and
+(e.g.,
+and recapituOther tonal axes between exposition
+Op. 74/3).
+often but not always occurring
+in transitions,
+will be
+lation,
+discussed
+under the heading of axial relationships.
+III.
+
+Second
+
+Theme-Groups
+
+As one would expect,
+the second theme-groups
+in the recapitulations are almost invariably
+in the tonic.
+The critical
+questions are (1) how much of the second theme-group
+is retained
+and (2) whether
+the second theme-group
+is restated
+in major
+or minor.
+of second theme-group
+1. Excision
+material
+is most common
+in finales.
+The last movement
+of Haydn's Symphony no. 49 is
+the transiperhaps the best example from this entire period:
+tion's caesura
+is eliminated,
+the transition
+is joined to the
+second part of the second theme-group,
+this part and the closreduced from
+ing figure with the long trill are substantially
+in the exposition,
+their dimensions
+and only the closing
+theme
+is fully retained.
+The result is a tight, compact recapitulation
+with a single-minded
+focus on tonic minor.
+2. Another type of compact
+occurs
+when the
+recapitulation
+second theme of the exposition
+is the major form of the first
+can begin in tonic minor
+theme; the recapitulation,
+therefore,
+or tonic major, with the previous
+second theme now serving
+in place of both theme-groups.
+An example with a beginning
+in tonic major is the 35-measure
+of the second
+recapitulation
+of Haydn's Quartet Op. 55/2, which replaces
+movement
+a 76measure
+A similar
+takes place
+in the
+exposition.
+practice
+finale of Johann Baptist
+A minor Symphony (before
+Vanhal's
+for the curtailed
+there
+1772), but to compensate
+recapitulation
+is a large coda.
+The most unusual recapitulations
+of this type
+are in the outer movements
+of Josef Starzer's
+in
+Divertimento
+A minor *28; in the finale (Figure 3) the second and closing
+themes are formed from first-theme
+the exposition
+material;
+is 52 measures
+a brief 23; the relong and the recapitulation
+with the inversion
+and modification
+of a
+capitulation
+begins
+motive from the first theme-group;
+and an unusual
+subsidiary
+tonal axis is established
+and recapitulation.
+between exposition
+The first movement
+is equally unusual, with a 62-measure
+exand 39-measure
+in the recapitulation
+position
+recapitulation;
+the second theme is derived from a passage beginning at measure 89 in the development,
+which in turn is a great modification of the original
+second theme (Example 11).
+
+2d theme-group
+
+1st theme-group
+d
+
+b
+
+e
+
+i
+
+i
+
+i
+
+30
+
+i
+
+Motives:
+RECAPITULATION
+
+f
+60
+
+A
+53
+C
+
+c
+
+1st t.f.
+el
+a
+130
+a:i
+
+NB.
+
+x
+
+Ag
+
+70
+V/g
+
+f = f inverted
+
+V0i
+
+50
+
+i i
+
+c
+
+f
+i
+
+V-VI iv
+C: vi iiVviI
+
+E
+A x
+A1
+a b
+90
+100
+110
+V/d d V/d F modulatory
+
+Ax
+80
+
+G
+
+2d. t.g.
+B
+x c
+140
+VI t6
+
+E B
+
+40
+
+v
+
+e:i
+
+Motives:
+DEVELOPMENT
+Key centers:
+
+g
+
+B
+
+a
+
+f
+
+20
+
+10
+
+1
+a:i
+
+EXPOSITION
+
+c
+
+b
+
+a
+
+Motives:
+
+150
+i
+
+213
+
+EXAMPLE
+
+11
+
+Starzer,
+
+in A minor,
+
+Divertimento
+
+IT
+
+B.
+
+IV
+
+l
+'
+
+C.4'
+
+r-
+
+-r
+
+B
+
+S;
+'ff r' I' t
+T
+
+?
+
+-
+
+ia=4-
+
+r
+'
+
+i
+
+214
+3. A major criterion for the evaluation of a sonata form movement in minor is the success
+with which the second half of the
+in mediant major is converted to tonic minor
+original exposition
+in the recapitulation.
+One can trace
+Mozart's
+development
+in minor,
+when recapitulated
+first
+through his second themes
+of the thematic
+in the awkwardness
+change in the first moveK. 183, through the skillful
+ment of his G minor Symphony,
+of the axial relationships
+but the still clumsy contreatment
+version to minor of the second theme proper in the first movement of the E minor Violin Sonata, K. 304, to his mature soin minor beginning with the K. 421 String
+nata form movements
+of the G minor
+in the outer movements
+Quartet and culminating
+K. 550.
+Symphony,
+of a
+In the first theoretical
+work to give a detailed
+analysis
+sonata form movement in minor (the first movement of Mozart's
+about the recaK.421 Quartet),
+Momigny is very perfunctory
+pitulation in general and the altered mode of the second theme
+states that this portion of the recapitulation
+area: he merely
+of the first reprise
+". . .is but the continuation
+transported
+necessitated
+from F major to D minor,
+but with modifications
+by this change of mode and some other very minor differences
+In even a recent
+dictated by taste or feeling".*29
+study of
+entailed by his use
+the modifications
+Mozart's recapitulations,
+are
+of the minor mode for his second and closing theme-group
+slighted. *30
+the change in character of the second themes
+By not discussing
+E.H.
+from mediant
+major to tonic minor in recapitulations,
+what should have been one of the central
+points
+Meyer missed
+and
+between the static "contrast" principle
+in his distinction
+from the use of opposing or conthe idea of conflict
+arising
+section
+the development
+themes. *31 He considers
+tradictory
+the two themes,
+between
+arena for the conflict
+the principal
+in works in the minor mode it is often the recapitulawhereas
+the finale of an instrumental
+cycle in minor,
+tion, and especially
+to show in a future
+As I propose
+occurs.
+where the conflict
+in the finale is one of the principal
+ingrestudy, this conflict
+"Sturm und Drang" in the
+dients of the ethos of the so-called
+One can best see the apmusic of the eighteenth
+century.
+in Haydn's treatto this "conflict" and its solution
+proaches
+of sonata forms
+in his recapitulations
+ment of second themes
+in the minor mode.
+in minor which he
+4. Most of Haydn's sonata form movements
+in which
+wrote between 1768 and 1774 contain recapitulations
+in
+returns
+material
+and subsequent
+the second theme-group
+
+215
+and his retreat from the minor mode after this period,
+minor,
+of a few works,
+is shown by his adoption of
+with the exception
+as the
+a form which I call the "semi-minor
+mode", inasmuch
+of the first theme in the recapitulation
+is followed
+restatement
+of the
+by a double bar, a change of key, and the continuation
+in tonic major.
+We have already seen
+rest of the movement
+how both Haydn and Vanhal used this device to create a highly
+all in the major mode.
+curtailed
+Though Haydn's
+recapitulation,
+of his Symmode in the first movement
+use of the semi-minor
+was most probably dictated by
+phony no. 26 ("Lamentazione")
+his desire to preserve
+the chant melody of the second thememode
+his use of the semi-minor
+group intact, we can interpret
+a retreat from the pessiafter 1774 as a kind of compromise,
+of his "Sturm und Drang" symphonies
+and
+mistic
+implications
+sonatas
+and "crise romantique"
+Sonata forms in a
+quartets.
+of their pessimism,
+semi-minor
+could
+mode, thus denatured
+be used even for finales of instrumental
+cycles in major (the
+of Quartets
+last movements
+Op. 76/1 and 3), since after the
+the minor mode would recur
+statement of the first theme-group
+and in the often
+points in the development
+only at scattered
+of the first theme-group.
+truncated recapitulations
+Yet we should consider
+on
+semi-minor
+movements
+Haydn's
+technical
+also.
+In contrast
+to the plastic,
+motivic
+grounds
+second themes of the 1760's and 1770's which could readily
+be
+in minor, Haydn chose for his semi-minor
+restated
+movements
+themes
+even Lindler-like
+which could be restated
+song-like,
+in minor only at the risk of the kind of grotesque distortion
+later
+and Mahler.
+associable
+with Berlioz,
+second
+Liszt,
+Haydn's
+could not be converted
+themes in semi-minor
+from
+movements
+Compare the themes in
+major to minor in the recapitulation.
+of second themes in fullExample 12, in which his treatment
+scale minor movements
+is contrasted
+with two second themes
+from his semi-minor
+movements.
+the conversion
+5. Occasionally
+of a second theme from major
+of the theme.
+to minor demands a substantial
+In the
+alteration
+of the first movement
+of Haydn's Quartet Op.
+recapitulation
+the theme to provide a more drainverts
+9/4, the composer
+13 shows
+matic
+how Mozart
+close.
+Example
+substantially
+of the first
+theme in the recapitulation
+his second
+changed
+of his Serenade in C minor,
+K. 388, thus creating
+movement
+a
+true veranderte
+Jan Dussek
+followed an even more
+Reprise.
+in the first movement
+radical procedure
+of his A minor Sonata
+a non-convertible
+member
+(Op. 18/2, ca. 1790) by replacing
+of the second theme-group
+in the exposition
+with
+(mm.56-74)
+different
+material
+(mm. 181-96) in the recapitulation.
+entirely
+
+I
+
+I
+
+215
+EXAMPLE
+I
+
+r
+
+12
+
+w-
+
+"1
+
+>*
+u
+
+4
+-1
+
+i _
+
+(
+
+(I
+
+C
+
+c"l
+
+--
+
+i-
+
+I -4
+
+I
+I
+I,
+
+A.
+I.
+
+L
+
+- -4
+
+IL
+
+f\
+
+-I
+
+D (
+
+14
+
+L1
+
+-'
+
+Tm
+I
+
+(
+
+(4
+
+-i
+
+1.
+
+)
+
+--r
+
+L 11
+
+rt*
+
+r;
+
+I
+
+It
+
+"A'
+
+i
+
+(
+
+-t4
+
+n
+1
+
+1
+
+4
+
+-I
+U ,
+
+L&
+
+ii
+
+(.1
+
+rf*
+
+M
+
+I
+
+i
+
+o,
+0d
+>0
+
+,<
+
+*)
+_
+
+;|
+
+r-
+
+0
+
+r-4
+
+I
+
+l,
+
+'
+
+4
+
+o,
+f
+
+I-
+
+.0
+
+:
+^
+
+_
+
+1
+
+C)
+
+.
+
+S
+
+it
+%.O
+
+a d
+rTt
+
+E-
+
+*1.*
+I
+
+.ti
+
+r_)
+z 1ft
+
+I L^
+
+I
+
+z
+0
+
+E
+;r. -j
+'B
+Cdd ;
+
+6
+
+CO
+
+I-
+
+JL4
+
+Cd
+
+6 .T
+
+I
+M
+
+O
+t
+
+1
+
+ft
+
+044
+
+t:
+
+i
+
+U
+
+1L-*~ '
+
+4
+
+-p
+cll
+
+I
+
+1
+
+(4 7
+
+1)
+
+I
+
+c>i.
+M =_
+
+*
+
+c^r
+.
+
+ao
+U
+
+4
+
+rj
+
+6
+
+217
+
+EXAMPLE
+
+13
+
+SERENADE
+
+MOZART,
+
+IN C MINOR,
+
+K. 388,
+
+I (inner
+
+parts
+
+omitted)
+
+EXPOSITION
+mm.
+
+42-59
+
+4. p * J - -;
+
+r
+
+RECAPITULATION
+mm. 177-95
+
+-4)
+
+;\i
+
+v
+
+I
+
+-8P r
+~),
+
+r
+i2r-r --'
+
+gfr
+rJ_..L. j
+,L.
+
+v
+
+rrrErrr -
+
+r
+r
+
+J-
+
+rr
+
+^
+
+r
+
+.
+
+218
+IV.
+
+Axial
+
+Relationships
+
+Between
+
+Exposition
+
+and Recapitulation
+
+of eighteenth-century
+theoretical
+Leonard Ratner's
+summary
+on sonata form from the standpoint of tonality is that
+writings
+two keys and the recapitulation
+embodies
+". . the exposition
+tonal organizaof the subsidiary
+but one".3 32 Yet examination
+whether
+tion of sonata forms of the period,
+they be binary or
+tonal
+of subordinate
+shows the existence
+frequently
+ternary,
+between the first and second halves of the form
+relationships
+and recapitulaor between
+in binary movements,
+expositions
+tions in ternary ones, and these axes are most often strikingly
+We have already
+shown in sonata forms in the minor mode.
+in
+for the use of the subdominant
+seen Galeazzi's
+prescription
+other axial
+aside from this, there are several
+recapitulations;
+with muthat occur.
+These are usually connected
+relationships
+- thematic,
+or dynasical configurations
+motivic,
+rhythmic,
+Their length may
+mic - which place these axes in bold relief.
+(C.P.E.
+Bach, Sonata in D
+vary from most of a theme-group
+Quartet K.421,
+minor, Wq 57/4, I) to a single chord (Mozart,
+of the first
+from the end of the statement
+I) and in location
+axial relaThe principal
+theme.
+to the closing
+theme-group
+the mediant major mode of the exposition
+between
+tionships
+are as follows:
+and the tonic minor mode of the recapitulation
+seventh
+of a dominant seventh by a diminished
+1. Replacement
+The most promas a dominant.
+chord which acts functionally
+in
+inent example is the forte chord which begins the transition
+Another exK.421.
+of Mozart's
+the first movement
+Quartet,
+ample is a favorite axis with Haydn, Vl of V-V-I in the exposition with Vg of V-V-i in the recapitulation
+(Quartet Op. 17/4, I,
+145).
+108-110; Symphony no. 52, IV, mm.51,
+mm.41-43,
+inwhich are generally
+2. Deceptive progressions,
+preserved
+minor in
+tact save for the change of mode of the submediant,
+Illustrations
+and major in the recapitulation.
+the exposition
+of Haydn's Symphony no. 45
+are found in the first movement
+(mm. 54-55, 193-94) and Symphony no. 52 (mm. 36-37, 130-31);
+the third movement of C.P. E. Bach's
+from a binary movement,
+with the sub54-55,
+F minor Sonata,
+mm.20-21,
+Wq 57/6,
+An interesting
+with a fermata.
+mediant emphasized
+deceptive
+of Mozart's C minor
+occurs in the first movement
+progression
+V-VI of
+V-iv6 of the mediant in mm. 30-33,
+Sonata, K.457:
+tonic minor in mmn. 126-28.
+in root
+whether
+in mediant
+3.
+major,
+harmony
+Supertonic
+is subject to various types of reor first inversion,
+position
+in the tonic minor of the recapitulation.
+Generally
+placement
+
+219
+this replacement
+is the flat supertonic
+in first
+(Neapolitan)
+inversion
+Sonata in A minor,
+I, mm.
+Mozart,
+K.310,
+(e.g.,
+in the first move28, 43; 108, 118). The extended progression
+ment of Mozart's
+C minor Sonata, K.457, of ii-Vg of V-I4 to a
+cadence in mediant major (mm. 51-57) is replaced
+in the recato a cadence
+in tonic minor (mm. 149pitulation
+by iv-ii0-i6
+non-axial
+is the substitution
+154). The customary
+relationship
+of the minor supertonic triad in major with a diminished
+supertonic triad in minor.
+4. The axis of mediant in the exposition
+and submediant
+in the
+is strikingly
+of the transhown in the treatment
+recapitulation
+sitional
+themes
+in the first movement
+of Mozart's
+G minor
+K. 550.
+Whereas in his earlier
+G minor Symphony
+Symphony,
+K. 183) Mozart stated his transitional
+theme in mediant in the
+and tonic minor in the recapitulation,
+in the later G
+exposition
+minor Symphony the transitional
+theme is stated in the mediant
+in the exposition
+in the recapitulation
+(mm. 28-42),
+appears
+first in the submediant
+de(m. 191), then, after considerable
+(mm. 195-211) in tonic minor (mm. 211-216),
+velopment
+linking
+at measure
+217 with the equivalent
+of measure
+34 in the exposition. *33 Another mediant-submediant
+axis occurs
+in the
+first movement
+of C.P.E.
+D minor Sonata, Wq 57/4:
+Bach's
+in the exposition
+the second theme-group
+is in the mediant,
+as
+but in the recapitulation
+it is in the submediant,
+thus
+expected,
+in major,
+with a cadence to tonic minor.
+5. The extension
+of mediant-submediant
+is submediant-Neaand is most interestingly
+in the first
+evident
+(lII),
+politan
+movement
+of Mozart's
+Violin Sonata in E minor, K. 304.
+The
+first theme-group
+on the tonic in both exposition
+cadences
+and
+the subsequent
+caesura
+recapitulation;
+immediately
+following
+is a preparation
+for the second theme.
+This passage
+further
+shows the use of pivotal harmonies
+common
+to both tonic and
+mediant:
+VI of i is also IV of III. It is the abruptness
+of the
+shift of tonal planes that is surprising
+in the exposition,
+but
+this surprise
+is even more jarring
+in the comparable
+place in
+the recapitulation,
+with bII immediately
+following tonic minor.
+How Mozart extricated
+himself
+from the tonal tangle can easily
+be seen in the Figure 4.
+6. In contrast
+with his predecessors
+and contemporaries,
+intensified
+his axial relationships
+Haydn frequently
+by melodic
+as well as harmonic
+and intervallic
+in his recapitulachanges
+tions.
+The most extensive
+of his changes occurs in the recaof the first movement
+of his Quartet,
+In
+pitulation
+Op. 20/3.
+of a chroExample 14 we can see how Haydn's axial treatment
+
+220
+matic
+V.
+
+alteration
+
+The Close
+
+is melodic
+
+as well
+
+as harmonic.
+
+of the Recapitulation
+
+The close of the recapitulation
+is an area wherein
+we may
+from pre- or early Romantic treatment
+of
+Classic
+distinguish
+In Classic
+the sonata form.
+forms the close of the recapitulain
+tion will be in the same mode as the second theme-group
+in many Romantic
+this part of the movement,
+whereas
+works
+of such a
+in minor the composer
+the expectation
+will arouse
+An excellent
+is the first
+close
+and then defeat it.
+example
+of Beethoven's
+Cello
+Sonata Op. 5/2,
+movement
+outwardly
+of a long introduction
+on Kozeluch's
+modeled
+technique
+preIn the recapitalso in minor.
+ceding the first fast movement,
+ulation Beethoven leads the listener to believe that he is writing
+a movement
+in "semi-minor"
+mode, only to defeat this expecOne can
+on minor.
+342 with a new emphasis
+tation at measure
+call "Romantic" the ending in major of a movement
+similarly
+even if
+in minor (Beethoven,
+Quartet Op. 18/4),
+prevalently
+is not in sonata form (Mozart,
+the movement
+Quartet K. 421,
+
+IV).
+VI.
+
+Codas
+
+of the Classic
+Most sonata form movements
+period which do
+contain a
+not end with a replica of the close of the exposition
+the tonality
+to reinforce
+few additional chords or progressions
+a nineteenthcoda being chiefly
+of the ending, the extensive
+There are a few instances,
+many of
+development.
+century
+where the coda
+them drawn from works in the minor mode,
+and tonal functions.
+structural
+has important
+some sonata form movein chamber works,
+1. Particularly
+at the close of the
+ments will have first and second endings
+first movements
+as well as the exposition
+(e.g.,
+recapitulation
+to
+of Haydn's Quartet Op. 20/5 and Mozart's
+Quartet K.421),
+are to be reand recapitulation
+that the development
+indicate
+is a tonal link with
+The first ending, in such cases,
+peated.
+the tonality in which the development
+began; the second ending
+leads into the coda proper, usually but not always with the tonic
+as its opening harmony.
+thus omitted can
+the material
+2. In curtailed
+recapitulations,
+conclusion;
+a more definite
+in the coda to provide
+reappear
+The
+in works in the minor mode.
+effective
+this is especially
+exfinale of Haydn's Symphony no. 44 contains a magnificent
+for the opening motive is omitted in the recapitulation
+ample,
+
+Haydn, Quartet, Op. 17 no. 4, I
+
+EXPOSITIC)N mm. 49-51
+
+4A.
+A.
+
+1
+-77f '^
+
+^
+
+I-BS^
+I Irl
+
+RECAPITULATION
+
+/I-
+
+>
+
+-9:7 L LJlF
+
+mm. 116-18
+
+A
+
+B.
+
+:
+4.
+
+t
+
+'fi
+
+i
+Uc;
+
+Mozart, Violin Sonata, K. 304, I
+EXPOSITION (III)
+RECAPITULATION (i)
+
+IV (VI of i) - V of V - I (mm. 28-32,
+bII
+iv
+
+V of VI - VI (mm. 128-32)
+- i - VofV
+
+- V
+
+(mm.132-36)
+
+repeated)
+
+222
+and the section begins with the transition, the first forte of the
+After the recapitulation ends, a statement on the
+exposition.
+dominant based on the opening motive (mm. 167-74) is followed
+by the motive in the bass (mm. 175-87) to which a conclusion is
+appended; this is the only fortissimo passage in the movement.
+3. An expressive rather than a structural function is assumed
+by a short, soft coda over a tonic pedal to end a movement in
+place of the customary forte chords one tends to associate with
+a definite conclusion.
+The best known of such codas is the
+conclusion of the first movement of Haydn's C minor Sonata,
+but this effect occurs as early as the second movement of
+Rutini's Sonata Op. 5/5. This type of coda is further associated with the "chamber" rather than the "symphonic" style; I
+have not found it in any eighteenth-century
+symphonies in minor, only in sonatas and chamber works (the first movement
+of Haydn's Quartet Op. 17/4).
+codas are the locus for further
+4. Some eighteenth-century
+another stylistic trait which can justify
+harmonic excursions,
+the description of some Classic-era
+compositions as "preThis is particularly true of the coda of the first
+Romantic".
+movement of Haydn's Quartet Op. 20/5; based on a motive from
+the second theme-group which assumes considerable importhe coda contains one of Haydn's
+tance in the recapitulation,
+wildest harmonic excursions which utilizes both major and
+minor forms of the flatted supertonic (Example 15). It would
+be an extreme conjecture, however, to suppose that this passage (mm. 142-49) is in an axial relationship to the deceptive
+progression in the exposition (mm. 42-43)which does not recur
+in the recapitulation.
+5. The coda can even be the arena of resolution of the harmonic and tonal conflicts of the entire movement, as in the
+first movement of Mozart's curious D minor Quartet, K. 173.
+Except for the reprise of the first theme, itself not tonally
+very stable, and the first two measures of the transition, the
+remainder of the lengthy recapitulation (54 mm. as compared
+with 46 mm. of the exposition) is unstable; D minor, the tonic,
+is merely a passing harmony in the restatement of the second
+Only in the coda (mm. 120-137)
+theme-group (mm. 104-119).
+is D minor firmly established.
+CONCLUSION: THE CLASSIC INSTRUMENTAL CYCLE
+IN MINOR
+Between the Baroque suite and the pre-Romantic
+
+sonatas (Op.
+
+223
+
+EXAMPLE
+
+15
+
+R
+
+-
+
+it
+0
+
+4z
+rn
+
+224
+of
+14/2, Op. 26/2) of Clementi,
+rarely are all the movements
+a sonata or similar work in the minor mode; Eckardt's Sonatas
+Bach's Wq 55/3 and Wq 57/2, and J.C.
+Op. 1/2 and 3, C.P.E.
+Bach's G minor Symphony Op. 6/6 are among the rare excepthe outer movesonata in minor,
+In a three-movement
+tions.
+in this mode; in a four-movement
+ments are customarily
+cycle,
+and the minuet proper are in minor, with
+the outer movements
+There
+and the trio of the minuet in major.
+the slow movement
+as yet to permit valid generalizations
+is not enough information
+of given modes in any but the first
+the prevalence
+regarding
+of instrumental
+movements
+cycles.
+showed their "retreat from
+Haydn and Mozart most strongly
+After 1774 Haydn generworks.
+minor" in their instrumental
+in minor as a foil to an instrually dropped the slow movement
+with
+save for the "double variation"
+mental cycle in major,
+major and minor themes in which the major mode
+contrasting
+in the coda (e.g.,
+is victorious
+63, 103; Quartet
+Symphonies
+a late work, being a
+Variations,
+Op. 55/2, I; his F minor
+but not part of an instrumental
+cycle).
+exception
+stunning
+concluded his mature works in minor with a
+Mozart frequently
+fast finale in major (Trio, K.442; Piano Quartet, K.478; String
+amount
+Quintet, K. 516, the latter finale arousing an immense
+after his G minor
+and philosophical
+of critical
+speculation);
+from the
+retreated
+K. 550, he virtually
+altogether
+Symphony,
+for me(the Fantasias
+minor mode, with the few exceptions
+chanical organ, K.594 and K.608; the Duet for the two armed
+a return
+men in The Magic Flute; the Requiem) representing
+to Baroque
+Haydn, too, abandoned the minor finale
+styles.
+like the last
+after around 1772 with only a few exceptions,
+of the Quartet Op. 33/1 and Op. 42.
+movements
+data to permit a generalThere is not enough bibliographical
+Barry
+ization about the minor finale during the Classic
+period.
+shows that
+of French
+thematic
+Brook's
+symphonies
+catalogue
+in minor have their finales in
+41 of the 49 true symphonies
+to permit
+this mode, *34 but there are not enough symphonies
+minor finales occured
+as to how frequently
+drawing conclusions
+there is very little inforSimilarly
+during any given decade.
+available
+concerning
+other than from Haydn's works,
+mation,
+of the semi-minor
+mode, though its use perthe prevalence
+Symphony no.
+sisted well into the Romantic period (Schubert,
+Septet, Op. 74, I; Spohr, 9th Violin Concerto,
+4, IV; Hummel,
+Op. 55, I.)
+One cannot draw a definite
+and "Pre-Romantic"
+Classic"
+
+line
+chronological
+since from the
+
+between "High
+1770's onward
+
+225
+these two musical currents overlapped; such works as Haydn's
+Op. 20/5 and Mozart's K.173 and K.421 Quartets are as Romantic as they are Classic, and in the finales of the first two
+mentioned, even Baroque through their use of fugal techniques.
+Yet the revitalization
+of the minor mode in the instrumental
+works of Clementi, Kozeluch, and Giovanni Viotti at the time
+when Haydn and Mozart were retreating from minor, and
+Haydn's borrowing of minor-mode elements into his slow introductions and slow movements in the major mode in his works
+of the 1790's, are two salient elements in the shift from Classic
+to Romantic in music.
+The variety of the Classic-era
+sonata form is most clearly
+shown by the relatively few specimens, probably no more than
+15% of the total number of sonata form movements composed
+between 1740 and 1800, in the minor mode.
+The critical portions of the sonata form movement in minor, were, in the expositions, the first themes; the transitional sections leading
+from the original tonic to the new key (mediant major or, more
+and the
+rarely, dominant minor); the second theme-groups;
+goals of the exposition itself: mediant major, dominant minor,
+or a turnback to tonic minor. The recapitulations presented
+even more choices for the composer: entire restatement or
+curtailment of the first theme-group; a varied representation
+of the transition; the treatment of the second theme in tonic
+major, tonic minor, or with elements of both modes at the
+close of the century; the establishment of subsidiary tonal axes
+between exposition and recapitulation;
+and the creation of a
+coda that could include thematic material unheard since the
+Elements of the minor mode were often used in
+exposition.
+sonata form movements in the major mode, not only in transitional and development sections, but more crucially as interpolations within the second theme-groups.
+For the composer, the minor mode opened a wider range of
+choices and possibilities
+than was present within the relatively
+limited confines of the major mode. This is particularly evident in the works of the lesser-known composers of the Classic
+period, for the routine superficiality of so many of their works
+in the major mode was replaced by at least flashes of originality and even daring in their minor-mode compositions.
+The flexibility of the minor mode permitted a continuity with
+the legacy of the Baroque, so clearly seen in the themes outinterval or in contrapuntal sections.
+lining a diminished-seventh
+Similarly, the transition from Classic to Romantic is clearly
+evident in the sonata form movements in minor not only in the
+
+226
+works of the main figures of the Classic period, but also in
+those by Mozart's longer-lived
+contemporaries such as E.A.
+Forster, Clementi, Kozeluch, andDussek. All these composers
+used the minor mode in their sonata form movements, subject
+to certain conventions and principles, but their ingenious treatment of these limitations resulted in some of the most interesting works of the eighteenth century.
+
+227
+R
+
+E
+
+F
+
+EN
+
+R
+
+E
+
+C
+
+ES
+
+1
+
+The first detailed study of the Classic-era
+sonata form in the minor mode (the
+first movement
+of Mozart's
+K.421 quartet) is in J6rome-Joseph
+de Momigny's
+Cours complet d'harmonie
+et de composition
+1806, 3 vols. ), I, 307-82;
+(Paris,
+II, 387-403; III, 109-253.
+
+2
+
+In the investigations
+of Classic
+sonata form which have appeared since William
+S. Newman's
+The Sonata in the Classic
+Era (Chapel Hill, 1963), which contains
+the most detailed
+on sonata form, there is substantial
+discussion
+bibliography
+of sonata forms in minor only in Fred Ritzel's
+Die Entwicklung
+der "Sonatenform" im musiktheoretischen
+Schrifttum
+des 18. und 19. Jahrhunderts,
+Neue
+I (Frankfurt,
+1968).
+musikgeschichtliche
+Forschungen,
+Very little discussion
+of the minor mode occurs
+even in studies where one would expect to find this
+Maurice J.E. Brown's
+"Mozart's
+topic extensively
+treated,
+e.g.
+RecapitulaA Point of Style", Music and Letters,
+tions:
+XXX (1949), 109-117,
+and E.H.
+in Mozarts Instrumentalmusik"
+in Erich Schenk,
+Meyer's "Das Konfliktelement
+Bericht tfber den internationalen
+musikwissenschaftlichen
+ed.,
+Wien,
+Kongress
+1956 (Graz, 1958), pp.402-07.
+Mozartjahr
+
+3
+
+In the Breitkopf Thematic
+(ed. Barry S. Brook, New York,
+Catalogue 1762-1787
+8% of the string quartets,
+1966), between 1762 and 1787, 4% of the sumphonies,
+Benda and Carl Hoeckh) and
+9% of the violin concertos
+(mainly by Frantisek
+13% of the violin sonatas (almost
+north German) are in minor.
+I
+exclusively
+have tentatively
+the prevalence
+of this mode in "The Minor Mode
+investigated
+in the Classic
+Music Review,
+XXXII (1971).
+In contrast
+with the
+Period",
+Classic
+concertos
+are in minor (Marc
+30% of Vivaldi's
+period,
+approximately
+Antonio Vivaldi et la musique
+Pincherle,
+instrumentale,
+Paris,
+1948, I, p.
+65% of the late- and post-Romantic
+are in
+160), and approximately
+symphonies
+the minor mode, with Glazunov the only composer
+showing a strong preference
+for the major mode.
+
+4
+
+Newman,
+
+5
+
+R.M. Longyear,
+"Binary Variants
+Music Theory,
+XIII (1969), 162-85.
+
+6
+
+Published
+pp.141-55.
+
+7
+
+H.C. Robbins Landon, The Symphonies of Joseph Haydn (London, 1955), p.297.
+
+8
+
+Jan La Rue, "Significant and Coincidental Resemblances
+Themes",
+
+9
+
+Sonata in the Classic
+
+in Karl
+
+Journal
+
+Geiringer,
+
+p. 137.
+
+Era,
+
+of Early
+
+Music
+
+of the American
+
+Classic
+
+of the Bach
+
+Musicological
+
+Jens Peter Larsen,
+"Sonatenform-Probleme",
+helm Pfannkuch,
+Festschrift
+Friedrich
+eds.,
+sel, 1963), pp.228-39.
+
+Sonata
+
+Family
+
+Society,
+
+Form",
+
+Journal
+
+(Cambridge,
+
+of
+
+1955),
+
+between Classical
+XIV (1961),
+
+224-34.
+
+in Anna Amalie Abert and WilBlume zum 70. Geburtstag
+(Kas-
+
+10
+
+Johann Adolf Scheibe,
+
+11
+
+Heinrich Christoph Koch, Versuch
+einer Anleitung
+zur Composition
+(Leipzig,
+342-44.
+See also Johann Gottlieb Portmann,
+1782-93),
+LeichIII, pp.304-06,
+ten Lehrbuch der Harmonie,
+und des Generalbasses
+(Darmstadt,
+Composition
+Entwicklund
+der "Sonatenform",
+1789), cited in Ritzel,
+p. 147.
+
+Critischer
+
+Musicus
+
+(Leipzig,
+
+1745),
+
+p. 624.
+
+228
+
+Ritzel,
+Sonata
+192-93.
+
+13
+
+Domenico
+See Ralph Kirkpatrick,
+Scarlatti
+New York,
+(1953; reprint
+1968),
+of Scarlatti's
+with dominant minor as the goal
+sonatas
+Examples
+pp.271-76.
+are L. 241, 27, 281, 275, 427, 128, 12, 266, and 475.
+of the exposition
+
+14
+
+Theodore
+de Wyzewa
+(Paris,
+1936, 5 vols.),
+
+15
+
+in der klassischen
+Sinfonie und
+Willy Hess, in his study "Die Teilwiederholung
+Die Musikforschung
+XVI (1963), 238-52,
+Kammermusik",
+argues for the obis
+of repeat marks on structural
+This quartet movement
+servance
+grounds.
+the repetition
+not only of the exposition
+almost the ideal example for stipulating
+on harmonic
+and structural
+but also the development-recapitulation
+grounds.
+
+16
+
+in Barry S. Brook,
+Published
+du XVIIIe siecle (Paris,
+1962,
+
+17
+
+see Friedrich
+For this distinction,
+Jahrbuch der Musikbibliothek
+Peters,
+be made of this topic.
+
+p.149;
+Form",
+
+"Francesco
+Galeazzi's
+Bathia Churgin,
+Journal of the American
+Musicological
+
+(1796) of
+Description
+XXI (1968),
+Society,
+
+12
+
+and Georges
+II, p.77.
+
+de Saint-Foix,
+
+Wolfgang
+
+La Symphonie francaise
+3 vols.),
+III, 14-15.
+
+Amad6e
+
+dans la seconde
+
+.Mozart
+
+moitie
+
+und Entwicklung",
+Blume,
+"Fortsetzung
+XXXVI (1929), 58. Further study should
+
+p. 228.
+
+18
+
+Larsen,
+
+19
+
+Stiles" in Jan LaRue, ed.,
+Hans Engel,
+"Die Quellen des klassischen
+national Musicological
+(Kassel,
+Report of the Eighth Congress
+Society:
+2 vols.),
+I, 291, 289, 286, 293.
+
+20
+
+The melodic line of the entire first allegro of this sinfonia is quoted in Wilhelm
+in Guido Adler, ed., Handbuch
+von 1750-1828"
+"Instrumentalmusik
+Fischer,
+der Musikgeschichte
+(1924: reprint Tutzing,
+1961), II, 787-98.
+
+21
+
+in Alexander
+Published
+(ed.),
+Tcherepnin
+as an operatic
+overture
+1966), pp.49-54,
+of this symphony
+on Ukrainian
+composer
+identified.
+
+22
+
+WilDie Solosonate
+in Franz Giegling,
+Published
+1958), pp. 78-80.
+(Cologne,
+"Acta MuDomenico Albertis,
+in his study "Die Klaviersonate
+helm W6rmann,
+use of this effect.
+does not discussAlberti's
+XXVII (1955), 84-112,
+sicologica,
+
+23
+
+Published
+
+24
+
+of the second
+"Die Entwicklung",
+Ritzel,
+p. 154, states that "the investigation
+movement in Classic
+half of a sonata-form
+unsatisfactory".
+theory remains
+
+25
+
+Published
+
+in Musica
+
+26
+
+Published
+1861-72),
+
+and Louise
+in Aristide
+IX, pp. 15-44.
+
+"Sonatenform-Probleme",
+
+in Dana Setkova,
+
+Antiqua
+
+Russische
+(Bonn,
+Musik-Anthologie
+The
+by E.I. Fomin (1761-1800).
+has yet to be conclusively
+themes
+
+Pet Sonat (Prague,
+
+Kozeluh:
+
+Bohemica,
+
+XXIV,
+
+Farrenc,
+
+Inter1961,
+
+n.d.).
+
+103-06.
+
+Le Tresor
+
+des
+
+Pianistes
+
+(Paris,
+
+229
+
+p. 196.
+
+27
+
+Churgin,
+
+"Francesco
+
+28
+
+Published
+
+in Denkmaler
+
+29
+
+Momigny,
+
+30
+
+Brown,
+
+"Mozart's
+
+31
+
+Meyer,
+
+"Das Konfliktelement",
+
+32
+
+Leonard Ratner,
+can Musicological
+
+33
+
+Arnold Schoenberg
+of these passages
+in his
+gives a detailed harmonic
+analysis
+Structural
+Functions
+of Harmony (New York, 1954), p. 144. There is a similar
+axial relationship
+and transitional
+between
+themes
+in
+mediant,
+submediant,
+Mozart's Piano Quartet,
+first movement.
+The use of these axial relaK.478,
+in Roland Tenschert's
+is not discussed
+"Die G-Moll Tonart bei Motionships
+zart", Mozart-Jahrbuch,
+1951, pp. 112-22.
+
+34
+
+Brook,
+
+Cours
+
+Galeazzi",
+
+der Tonkunst
+
+complet,
+
+XXXI,
+
+105-17.
+
+II, p.397.
+pp. 109-117.
+
+Recapitulations,
+
+pp.402-07.
+
+"Harmonic Aspects
+II (1949),
+Society,
+
+La Symphonie
+
+in Osterreich,
+
+francaise,
+
+Vol.
+
+of Classic
+161.
+
+II.
+
+Form",
+
+Journal
+
+of the Ameri-
+
+

@@ -1,0 +1,832 @@
+Yale University Department of Music
+
+The Problem of Tonality in Pre-Baroque and Primitive Music
+Author(s): William Thomson
+Source: Journal of Music Theory, Vol. 2, No. 1 (Apr., 1958), pp. 36-46
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/842929
+Accessed: 14/12/2009 15:20
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE
+
+PROBLEM
+
+OF
+AND
+
+IN
+
+TONALITY
+PRIMITIVE
+
+PRE-BAROQUE
+
+MUSIC
+
+by
+William Thomson
+Sul Ross State College
+Within the first half of our century, the term "tonality" has become imprecise to the point of acting more as an emotional stimulus
+than an accurate description of musical events. In one case it functions
+as a vague expression for musical coherence; in another context it imor pedantry. Once such a useful term beplies non-progressiveness
+comes established in a professional vocabulary, each person who utters
+it tucks his own set of meanings behind it without systematically
+considering the implications which follow fromhis personal interpretation.
+I do not propose that this be considered a particularly dangerous linguistic vice. It is the normal evolution of any word so pressed into the
+front-center of musical polemics during our experimental half-century.
+However, it seems reasonable to wish for a more precise understanding of any word so firmly imbedded within our understanding of music.
+In at least one way, I believe that this loose understanding of tonality
+has led to a perversion of historical fact. It is this problem which I
+I refer to the widespread
+hope to reveal here and, ideally, to resolve.
+only of polyphonic
+opinion that tonality is a phenomenon characteristic
+music or, as is sometimes urged, only of music that appeared concur"
+rently with what we often call "the harmonic consciousness.
+have been particularly
+Two schools of musicians
+outspoken in
+their insistence that tonality is not a universal quality. A number of
+of
+twelve-tone
+have denied the psychological
+composers
+necessity
+tonality, claiming that the relating of tonal events to a central tone (or
+chord) was a stylistic peculiarity of the period extending, roughly, from
+1600 through some works of our present day. Similarly, a number of
+of
+have denied the universality
+important historical
+musicologists
+tonality in claiming that modality and tonality are mutually exclusive
+The historical musicologist's
+terms.
+arguments have in turn enjoyed
+who have
+occasional support from a few anthropological
+musicologists
+The
+concluded that tonality is not present in primitive man's songs.
+attitudes which stem from these two points of view are significant, for
+an understanding of our musical scene turns, to a great extent, upon
+our understanding of the music of our past and the general role played
+by tonality in that music.
+A clear example of a somewhat narrow view of what is meant by
+the term "tonality" is revealed in a statement made by Stravinsky.
+We thus no longer find ourselves in
+the framework of classic tonality in the
+scholastic
+
+sense
+
+of the word.
+
+36
+
+.
+
+.Having
+
+reached this point, it is no less indispensable to obey, not new idols, but the
+eternal necessity of affirming the axis of
+our music and to recognize the existence
+of certain poles of attraction.
+Diatonic
+tonality is only one means of orienting
+music toward these poles.
+The function
+of tonality is completely subordinated to
+the force of attraction of the pole of sonority. All music is nothing more than a
+succession
+of impulses
+that converge
+toward a definite point of repose.
+That
+is as true of Gregorian chant as it is of a
+Bach fugue, as true of Brahms' music as
+it is of Debussy's.
+The general law of attraction is satisfied in only a limited way
+for
+by the traditional diatonic system,
+that systempossesses
+no absolute value.1
+It is difficult to understand why tonality cannot mean what Stravinsky here prefers to call "pole of attraction, point of repose. " The
+term evidently means for him only a system of tonal relations which
+result fromthe diatonic systems of major and minor orthe generalbass
+practice of the early eighteenth century. Since poles of attraction and
+points of repose can be found in the music of any era, any culture, it
+seems unnecessarily
+delimiting to demand such a narrow understanding
+of what tonality is and means in the musical experience.
+But there are other examples of this narrow interpretation.
+Manfred Bukofzer, for example, presents the adoption of tonality as one of
+the most salient features of the musical change from medieval and
+renaissance
+With Bukofzer, tonality
+styles to that of the Baroque.
+seems to be a limited harmonic principle by which chords are related
+in progressions
+derived from the diatonic scale system.
+Tonality may be defined as a system
+of chordal relations based on the attraction of a tonal center. This tonic formed
+the center of gravitation for the other
+chords. It is no mere metaphor if tonality
+is explained in terms of gravitation. Both
+tonality and gravitation were discoveries
+of the baroque period made at exactly the
+same time.y
+We could interpret this statement as the recognition of man's
+awakened consciousness
+of tonality during the Baroque.
+Bukofzer certainly did not mean to imply that gravity did not exist before its laws
+were unraveled.
+Perhaps he meant that tonality, then, merely gained
+recognition as a structural force at this time. But this interpretation
+1.
+2.
+
+I. Stravinsky,
+M. Bukofzer,
+
+The Poetics of Music (1947), pp. 35-36.
+Music in the Baroque Era (1947), p. 12.
+37
+
+is closed to us when later we are told that
+[Tonality] emerged at approximately
+the same time in the Neapolitan opera and
+in the instrumental music of the Bologna
+school and was codified by Rameau more
+than a generation after its first appearance
+
+in music
+
+. . . The technical
+
+means
+
+of achieving key-feeling were, aside from
+the cadence itself, diatonic sequences of
+chords that gravitated toward the tonal
+center. 3
+Implicit within such a concept of tonality
+tonality and modality are necessarily
+separate,
+dering forces.
+Modality is a melodic principle;
+bound up within a system of chords.
+In support
+find also that in renaissance music
+The progressions
+bination
+
+to any other
+
+is the assumption that
+mutually exclusive ortonality is inextricably
+of this assumption we
+
+from any one com. . . were
+
+dictated
+
+not by a tonal or harmonic principle, but
+by the melodic laws of part-writing . . .
+The intervallic
+harmony of renaissance
+music was directed by modality,
+the
+chordal harmony of the late baroque by
+tonality. 4
+It would seem that Willi Apel concurs with this view.
+In Gregorian chant and similar bodies
+of monophonic music the relationships
+are of a purely melodic character . .
+whereas a much more complex situation
+is encountered in the field of harmonized
+music. 5
+But what are the "laws" or "relationships" that are "purely melodic"? And what is the "attraction, " as Bukofzer calls it, exerted by
+a tonic? In other words, within a series of chords, what causes one
+chord to dominate its associates and, thereby, become a center of aural
+focus? Could the laws which control the monophonic situation likely
+be the same which control the signification of a tonic in a chordal texture ?
+One aspect of Rameau's theory of the naturalbass was the recognition that certain intervallic (melodic) relations formed between chord
+roots create pleasant and decisive harmonic progress.
+In other words,
+even in the historical period singled out by Bukofzer, tonality is not
+3.
+4.
+5.
+
+Ibid., pp. 219-220.
+Ibid., p. 12.
+Harvard Dictionary
+
+of Music (1944),
+38
+
+"Tonality."
+
+Rather, it is a
+recognized as a product only of a "chordal" principle.
+"melodic" pattern created by chord roots that reinforces
+a particular
+tonal point and its accompanying triad.
+It seems clear that tonality
+could be present then without triads, for the chordal roots alone could
+establish a pattern conducive to a tonic effect.
+Another concept of tonality similar in many respects tothe above,
+can be found in the writings of Schoenberg.
+He believed that the music
+we call "modal" does not possess the attribute of tonality. He said that
+"on the contrary, we must concede that the church modes do not at all
+conform to the law of tonality. "6 It was on this basis that he developed
+a triangular historical perspective
+that admitted of a rise, a period of
+floration, and a subsequent period of decline and abandonment for tonality. And Ernst Krenek joins Schoenberg in his belief that tonality
+was a late-comer
+to the music of the Western world, though his date
+does not agree with Bukofzer's.
+Tonality
+during
+
+the late
+
+arose
+
+into the foreground
+
+medieval
+
+period
+
+. . .
+
+To
+
+us, tonality undoubtedly means that it is
+possible to establish a system of relationbetween the
+ships and interdependencies
+harmonies that inhabit the area of a sound
+language. Tonality is in this sense a harmonic principle and therefore has no legitimate place in the development of music as we have considered it so far. [He
+refers to a previous discussion of medieval monody.
+Krenek's statement gives rise tothe same problem we encountered before; we are not told how chords create tonics.
+And there are at
+least two other points which beg for clarification.
+We know, for instance, that musicaficta practices inthe church frequently transformed
+modal chant into something quite removed from modal theory, often
+We also know that the Greek modal
+simple major-minor
+systems.
+system was overhauled (with devastating results) and applied to chant
+after this body of melody was collected
+and codified.
+considerably
+These two considerations
+kindle a certain skepticism in
+necessarily
+regard to any thoroughgoing relation we might try to establish between
+modal theory and modal practice.
+A comment made by George Herzog seems applicable here: "In
+the study of folk music there has been perhaps a little too much preoccupation with scales and intervals, which are merely the raw materials
+of melody, at the expense of tonalityI'8 The origins of chant certainly
+do not exlude it from this opinion. The entire theoretical,
+as well as
+6. In "Problems of Harmony, " Schoenberg(1937),
+ed. M. Armipp. 2 65-306.
+7. E. Krenek, Music Here and Now(1939), pp. 108,109.
+8. Standard Dictionary of Folklore, M thology and Legend(1950),
+"Song: folk song and the music of folk song.
+
+tage,
+
+39
+
+basis for music-making in the Western world has been
+common-sense,
+upon the assumption that structural relationships do exist begrounded
+tween pitches, unadorned by harmonic, i. e. chordal, support. It even
+smacks of contradiction to speak of pitches in a melody without the
+arprior assumption that those pitches, in the listening experience,
+into patterns which support tones of dominance as
+range themselves
+points of aural attention or focus. But Krenek, and we may assume
+Bukofzer and Apel as well, would not accept an analysis of chant based
+on tonality. He believes that to examine plain-song in terms of tonality
+is a "vain enterprise. " He elaborates by saying that
+Doubtless, repetition of the pattern
+involved in the iteration principle, would
+show the predominance
+of certain tones
+in the melodic line over others; but this
+would not necessarily
+give them the character of fundamental tones carrying certain chords, for the reason that no chords
+were as yet involved.
+To my mind, it is
+not the fact that a particular tone happens
+to be the first in a scale which makes it
+the basic tone of that scale; for that matter, it might as well have been the fifth
+or the last tone. A tone becomes the tonic
+only when the central triad is built over
+it. 9
+Perhaps Krenek is unaware that he has switched his gaze from GreBut music is not made from scales; rather,
+gorian chant to a scale.
+scales are, as Hindemith has aptly put it, the "sterilized derivative of
+melody. "10
+Krenek is right in maintaining that the initial tone of a scale possesses no metaphysical
+quality whereby it is rendered fundamental to
+its gamut. That is why the scale, abstracted as it is from the real musical substance,
+is valueless for the determination of a structurally
+fundamental tone. The tonality of a piece of music is not discovered
+by an analysis of a pitch series that has been culled from it. Only relations in musical contexts can determine the signification of one tone
+as a tonic.
+But the most questionable facet of Krenek's denial of tonality in
+melody has not yet been touched. We again are not told how a "central
+triad" in a chordal texture becomes "central. " Inherent in this oversight lies the primary fault of many who admit tonality only to the domain of "post-chordal" music. Krenek cannot hold that a tone becomes
+a tonality center only because of the presence of a triad above it, for
+this would be tantamount to saying that every root of every triad within
+a texture is a tonic. Though in a certain sense this is logically undeni9. Krenek, op. cit., p. 110.
+10. P. Hindemith, "Methods of Music Theory' The Musical Quarterly, 30:25.
+40
+
+able, experience
+dominant.
+
+still forces
+
+us to regard
+
+one of these
+
+triads as pre-
+
+To recognize harmonic implications
+or tonality in primitive music is generally frowned upon by musicologists
+most acquainted with
+studies of primitive man's songs. Hornbostel expressed his disbelief
+that pure melody was related to melody born of a 'harmonic" environment such as ours in the following:
+Pure
+
+melody
+
+-
+
+unlike
+
+ours
+
+-
+
+is not
+
+conceived harmonically; and so long as we
+cannot divest ourselves of the idea - so
+natural to our way of thinking - that it is
+based on harmony and interpret it in this
+sense, we arbitrarily change its meaning
+and cannot arrive at a proper understanding of it. 11
+In one respect Hornbostel's statement is justified, but in another
+it is misleading.
+The difficulty revolves about what is here meant by
+the term "harmony'' If he understands by that term the traditional conhis dictum is compelling.
+On the other
+cept of harmonic relations,
+hand, if he means to deny that certain peculiarities
+of tone relations
+tend to establish a framework of harmonic reference - in the sense of
+to one tone - then he
+establishing a pattern of primary relationships
+denies the very basic quality of melodic perception.
+But I believe that Hornbostel was merely
+softening of his view in the following:
+
+cautious,
+
+for we find a
+
+On the other hand, pure melody does
+contain elements related probably to those
+which, in our music, have contributed to
+form harmony.
+As the compass of the
+melody, in most cases, is small, fourths
+and fifths are more important and more
+But even then they
+frequent than octaves.
+are too wide to be used in melodic sequence.
+
+. . They are rather
+
+used
+
+as con-
+
+structive elements
+determining the distance between predominant
+the
+notes,
+compass of melodic phrases, and the rise
+or fall of a melody when its position is
+In this way they
+changed (transposed).
+mark out the field where melody is at
+that pure
+play. We can say, therefore,
+melody, too, has "tonality," its tonality
+being established by the functions and the
+mutual relations of the notes. 12
+11.
+12.
+
+E. M. Hornbostel,
+Ibid., pp. 35-36.
+
+"African Negro Music, " Africa,
+41
+
+I:30.
+
+The frameworkfunction
+performedby certain intervals, especialmajor thirds, apparently exerts
+ly by fifths and fourths, sometimes
+some effect upon the extreme pitch ranges of a melody.
+This has been
+revealed inthe music of at least one culture by Herzog. In generalizing
+about the character of Yuman songs, he says
+The tonal range of most songs falls
+within the interval of the fifth and the
+tenth. As a rule, one of the tones can be
+established as "tonic" on the ground that
+it carries the most melodic weight . .
+The tonic is often the lowest tone of the
+melody, usually alsothe final tone. Tones
+next in melodic importance can be found
+at various points.
+In general, they appear above the tonic, seldom below. 1
+These structural facts about certain species of primitive music
+indicate a kind of deployed harmonic field created by melody similar to
+that discussed by Hindemith in Book I of his Craft of Musical Composition. The use of intervals such as fourths and fifths (the range of the
+particular song permitting) as structural points of emphasis
+implies
+an harmonic relation essentially
+no different from that to be found in
+any theme by Mozart or Haydn.
+This "harmonic field" is no recent discovery,
+early as the turn of the century George Santayana
+acute musical theorist) stated that
+
+of course,
+(certainly
+
+for as
+not an
+
+What a rich note is to a pure and thin
+one, that a chord is to a note; nor is
+for
+melody wholly different in principle,
+it is a chord rendered piecemeal.
+Time
+and the harmony is deployed;
+intervenes,
+so that in melody rhythm is added, with
+its immense appeal, to the cumulative effect secured by rendering many notes together. 14
+It seems that a real basis for denying tonality - even a harmonic
+structure -for pre-baroque monody or polyphony is elusive. Melodies,
+no matter how naive or "unharmonic" cannot represent pure states of
+motion.
+The human perceptual mechanism exhibits a
+pitch-to-pitch
+tendency - even a necessity -to group tones into patterns whose parts
+possess a simultaneous or contiguous existence.
+There are powerful objections to the belief that Gregorian chant,
+or any other monodic music of man's history does not, or did not, during the time of that music's inception, incorporate tonality as a struc13.
+Folklore,
+14.
+
+G. Herzog, "The Yuman Musical Style, " Journal of American
+41:192.
+G. Santayana, Reason in Art_(1906), p. 49.
+42
+
+A precise
+and thorough analysis
+of the causes of tonality
+tural feature.
+in the music of the late baroque
+and classical
+would reveal
+periods
+features
+which are just as solidly
+not as obpresent
+(though perhaps
+primitive
+viously so) in monody,
+song, or renaissance
+polyphony.
+a fundamental
+situation
+of perpresents
+experience
+Any musical
+no different
+A cognitive
+takes place which is basically
+process
+ception.
+or recogThe creation
+from any other of man's experiential
+processes.
+nition of a hierarchy
+of musical
+relations
+within which musical
+tones
+is a result of the
+are cognitively
+transformed
+into organized
+patterns
+in human experience.
+need for simplicity
+In regard to the necessity
+of
+the words of the late Andrew Ushenko are relevant.
+such an attitude,
+is unavoidCognitive transformation
+able because
+and obstructing
+superfluous
+tendencies
+are always left out of account;
+but the resultant
+picture brings out a consistent
+character
+of the original the more
+15
+clearly.
+And Wolfgang Koehler
+has made clear the psychological
+basis for what
+we might call the "tonal patterning"
+that leads to a tonality experience.
+If all the content of
+were indifferent
+grains
+it would be a hard task
+in and to react to
+selves
+
+the sensory
+field
+of sensory
+stuff,
+to orientate
+oursuch a world. 16
+
+the musical
+result
+of this cognitive
+transrepresents
+Tonality
+As listeners,
+formation.
+we do not soak in musical tones as though we
+were indifferent
+each tone particle
+related equally and balanced
+sponges,
+with all others.
+Just as in visual perception,
+a hierarchy
+we create
+of
+elements
+from physically
+undifferentiated
+matter.
+This is not to say that the role of the composer
+is not considerable in such a scheme
+of things,
+whether
+he be a twentieth-century
+American
+or an aboriginal
+On the contrary,
+Indian.
+the composer's
+is to arrange
+musical
+tones according
+to
+function,
+crudely
+speaking,
+basic laws of perception
+which make the tonality
+process
+interesting,
+as well as possible.
+If this were not true, the composer
+would assume
+the legitimate
+role of chef de systeme,
+his sole problem
+that of trackschemes
+for arranging
+notational
+on
+ing down ever-different
+patterns
+the lined page.
+In spite of our experimental
+I cannot believe
+century,
+that future knowledge
+of human psychology
+or the history
+of musical
+style will support such a view.
+A number
+of responsible
+have expressed
+the belief that
+persons
+music is constantly
+in a state of stylistic
+flux - each sociological
+mutation giving rise to a corresponding
+in musical
+alteration
+ideals and
+Related to this notion is the opinion that there are no unisystems.
+15.
+16.
+
+A. P. Ushenko,
+Power and Events(1946),p.
+50.
+W. Koehler,
+Gestalt Psychology(1947),
+p. 177.
+43
+
+versal laws operative within the historical record of music.
+The conclusion is that tonality and related matters are mere results of socioI cannot fully concur with such an opinion, nor
+cultural conditioning.
+do I believe that our present knowledge of past eras and man's unWe are commakeup bear out such a view.
+changed psychological
+pelled to agree with Max Schoen that there are certainly elements within the musical experience that are "not dependent on experience and
+training alone. "17
+of tonal relations to
+Suppose that we consider our experience
+those of one man of the past. For this purpose we have the introspective testimony of the octave effect from one who wrote many hundred
+years ago.
+Why is it that in the octave the concord of the upper note exists in the lower,
+but not vice versa? Is it because, speaking generally, the sound of both exists in
+both, but if not so it exists in the lower
+note; for it is the greater?18
+And further:
+Why is it thatthe difference of an octave may be undetected and appear to be
+in unison as in the Phoenician lyre and in
+the human voice. For the sound contained
+in the upper note is not in unison, but the
+interval of the octave has notes analogous
+to each other. 19
+Even the current recognition
+in the following query:
+
+of "tonal volume" can be found paralleled
+
+Why does the low note contain the
+sound of the high note? Is it because the
+low note is heavier?
+It is like an obtuse
+angle, whereas the high note is like an
+acute angle. 20
+These comments are not just relevant historical curios.
+Rather,
+they pose a serious threat to any denial of common perceptual modes
+throughout the history of our musical culture. It is justified to believe
+that if a pseudo-Aristotle
+recognized inthe octave muchthe same properties we take for granted today, his conceptualization
+of other intervals known to him would not be far from our own.
+But tonality does not have to be understood
+17.
+18.
+19.
+20.
+
+in a purely "harmonic"
+
+M. Schoen, The Psychology of Music(1940),
+Musical Problems I, XIX. 13.
+Aristotle(?),
+Ibid., XIX.8.
+Ibid., XIX. 14.
+44
+
+p. 46.
+
+sense, as some theories of tonality imply. 21 The melodic framing action mentioned before, whereby certain intervals act as tonal reference
+points, is not the sole determinant for creating reference points within
+A great number of primitive songs do not extend
+musical textures.
+over a range that permits such forces to act. As a matter of fact, some
+evidence indicates that the earliest forms of melody made use of only
+two tones, usually those tones neighboring each other in the potential
+pitch series. 22 There are definite (though flexible) laws which govern
+such tonal sequences, but analyses of those here would go far beyond
+the scope of this paper. Since my purpose here is only to reveal the
+inadequacies of a too narrow understanding of tonality, it seems sufficient to emphasize here that a particular range does not have to be
+spanned for a tonic effect to result. In the absence of intervals serving
+the "framing" function, such matters as contextual location, rhythmic
+as well as such
+stress,
+duration, repetition and dynamic emphasis,
+general factors as rising or falling inflection, enter into the matter of
+pitch-focus.
+It seems that we are justified in allowing tonality a wider berth
+within the history of music.
+There is no reason to perpetuate the unnecessary
+marriage of tonality and harmony (in its connotation of
+chordal texture).
+Such a conception has impeded the formation of an
+all-embracing
+theory of music that would eliminate the superficial but
+retain the universal, the necessary.
+The conceptualization of tones into patterns more readily "understood" lies as the very foundation for the meaningful, the comprehensible musical
+This perceptual transformation,
+which
+experience.
+merely follows the lead given in music by the composer or improviser,
+governs any combination of tones, whether they assume melodic or
+chordal forms.
+It is this "path of least resistance" which the listener
+is offered by his very nature that permits him to realize "music" from
+disparate sensations of sound. This is true whether these sounds be
+formed into what we might call "Gregorian chant" or "progressive
+jazz.
+
+"
+
+Perhaps the meaning of tonality has been perverted only because
+of its notoriety during the early part of this century. After the dramatic
+ramblings of Wagner from one tonal field to another the abandonment of
+It most likely aptonality in its diatonic meaning appeared plausible.
+and good to a culture that saw in mere change the
+peared necessary
+ethical trappings of "progress."
+I suspect that the simplicity in which tonality is cloaked in the
+music of the late baroque, the pre-classic,
+and the classic periods
+was so overwhelming that music of other, less "direct," eras appeared
+to be devoid of this quality. When an object or idea is overbearing in
+its effect, we sometimes
+are blinded to the presence of like qualities
+which reside in related objects or ideas.
+The wholesale exploitation of
+21. For example, those of Hindemith and Schenker.
+22. See Curt Sachs, The Rise of Music in the Ancient World
+(1943), p. 32.
+45
+
+the major and minor scales,
+key as an element of form, and preharmony all combine to magnifythe sense
+ponderantly consonanttriadic
+of tonality in the music of the period 1700-1850.
+And the case of primitive music, perhaps is not more complex.
+is an infant science.
+like psychology,
+There has been
+Anthropology,
+a tendency to emphasize difference more than similarity in studies of
+The result
+cultures removed from our Western sphere of influence.
+has been unfortunate, for emphasis on stylistic change has hidden eleat the expense of
+musical differences
+mental qualities,
+emphasizing
+the basic fabric of the musical experience.
+
+46
+
+

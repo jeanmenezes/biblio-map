@@ -1,0 +1,1976 @@
+Yale University Department of Music
+
+The Diatonic and the Chromatic in Schenker's "Theory of Harmonic Relations"
+Author(s): Matthew Brown and Schenker
+Source: Journal of Music Theory, Vol. 30, No. 1 (Spring, 1986), pp. 1-33
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843407
+Accessed: 15/12/2009 22:48
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+THE DIATONIC AND THE CHROMATICIN
+SCHENKER'STHEORY OF
+HARMONIC RELATIONS
+
+Matthew
+Brown
+
+Of all issues in music theory, few are more perplexingthan explaining the coherence of highly chromatic tonal music. In many cases the
+difficulties are interpretativeand vary from piece to piece. But more
+often the problems are conceptual in nature and stem from the basic
+ways in which we think about the tonal system.
+At least since the time of Rameau, theorists have defined tonality
+through diatonic relationships based on the major and minor scales.
+Consequently, they have regardedchromatic elements as elaborations
+of or substitutions for diatonic scale members. As LeonardB. Meyer
+explains, "Chromaticismis almost by definition an alteration of, an
+interpolationin or deviationfrom this basic diatonic organization."
+While this approachworks well enough for pieces in which chromatic elements appearas local inflections, it is less successfulfor thosesuch as Bach's "ChromaticFantasy and Fugue" or Haydn's Chaos-in
+which chromaticism seems to dominate the texture. To account for
+these more extreme cases, theorists confront an awkward dilemma:
+either they must treat the works as mutations of diatonic structures,
+or they must place them outside the limits of normal tonal theory.
+Neither solution is satisfactory: the former largely devaluesthe structural implications of chromatic events, and the latter suggests that
+1
+
+composers such as Bach and Haydnwrote music that, strictly speaking,
+is not tonal.
+Far from resolving this paradox, Schenkeriantheory, as it is commonly understood, has in fact perpetuatedit. Since many Schenkerians
+assume that backgroundand middlegroundstructuresare basicallydiatonic, they tend to treat chromatic elements as products of surface
+As
+voice-leading. WilliamBenjaminhas noted, some writers"oversimplify" much highly chromaticmusic by "explainingaway largeswathesof
+non-scale tones as substitutes for diatonic scale-degreerepresentatives
+or as linear interpolations."2Other theorists, such as GregoryProctor
+methodsmust be expanded
+and PatrickMcCreless,claim that Schenker's
+by new theories of chromatic tonality in orderto cope with this repertory. Proctor, for example, has suggested that tonal music should be
+divided into two main types: "classicaldiatonic tonality," as described
+chromatic tonality," as derived
+by Schenker, and "nineteenth-century
+from the chromaticscale.3
+The purpose of this article is to show that, instead of confirming
+conventional theories, Schenker himself offered a radicalnew way of
+dealing with highly chromatic tonal music. Part I of the paper shows
+how, in the Harmonielehre(1906), Schenkerderived a fully chromatic
+tonal system from the tonic triad.4Part II demonstratesthat although
+this system is fundamentallydiatonic, chromatic triads do not substitute for or elaborate diatonic chords but are generateddirectly from
+the tonic triad. Finally, Part III describesthe ways in which Schenker
+used this theory in Der freie Satz to generate chromatic events as far
+back as the deep middleground.5In this way, I will suggest that for
+Schenker, chromatic elements can play an essential role in the generative process. Throughoutthis paper my aim will be to establish what
+Schenkerhimself wrote, and to interpretratherthan criticizehis ideas.
+I
+Originallypublishedin 1906 as Volume 1 of the Neue musikalischen
+Theorienund Phantasien,the Harmonielehre
+representsSchenker'sfirst
+extensive theoreticalwritingand his most exhaustivesurveyof harmonic
+relationshipsin tonal music.6 The book has two main parts: the first,
+the TheoretischerTeil, covers "the topographyof the material-that is,
+systems, intervals,triads, seventh chords and so on," while the second,
+the PraktischerTeil, deals with "the truly functional, the drivingforce
+of the fundamentalmusical ideas: namely, the progressionof Stufen,
+chromaticismand modulation."7
+Binding both parts together is the concept of the Stufe. Stufen are
+best describedas harmonic states, each one defined by its position relative to the tonic. Although they are labelled by conventional Roman
+2
+
+numerals,Stufen may be presented in many different ways: they may
+appearas root chords or in inversion,they may be expandedor "composed-out" by passing,neighboring,or tonicizing chordsand, as we will
+see shortly, they may occur in diatonic or chromatic form. It is this
+propensity for transformationthat prompted Schenkerto declare that
+the concept of the Stufe is the most important feature of harmonic
+theory.8 Stufen, then, are not mere triads;they are triads or transformations of triadswithin a given tonal system.
+How exactly do these diatonic and chromaticStufen relate to the
+tonic chord?Duringthe course of the Harmonielehre,
+Schenkeranswers
+this question in three stages.9 First he demonstrateshow, using the
+triad and cycle of fifths, it is possible to build a successionof diatonic
+triads on all members of the major and minor scales. Next, using the
+principle of mixture, he combines the members of the major system
+with those of the minor. Finally, he invokes mixture and tonicization
+to produce a singlemajor-minor
+system that encompassesthe full range
+of diatonic and chromatictriadson all sevenStufen.
+The first stage is summarized Table 1. Schenkerbeginsby assuming
+in
+that since, from a given note, only the first five overtones are audible,
+the triad must ipso facto serve as the primaryelement of the tonal system. Next to the octave, he regardsthe fifth as the strongest interval;
+hence he proposesthat it is the fundamentalgeneratingforce within the
+system. As shown in Table la, Schenker uses this latter property to
+create a cycle of fifths above the tonic. Since, if sounded, each member
+of this cycle will imply its own overtone series, the cycle in Table la
+can be rewrittenas a successionof majortriads(Table lb.) To counteract the natural,outward motion of the cycles in Tables la and lb, the
+"Artist" then construes another cycle of fifths that descends back to
+the fundamental(Table lc.) Havingcompressedthe two cycles into the
+space of an octave (Table Id), Schenkerextends the descendingcycle
+beyond the tonic I in order to generate the IV Stufe or "underfifth"
+(Table le.)
+At this point in the argument each Stufe is still representedby a
+major triad: to make this succession diatonic, Schenkermaintainsthat
+"the content of the more distant fifths, startingfrom the second fifth,
+is tempered and modified by the content of the fundamentaland from
+the fifths immediately above and below it."10Thus since F, as the root
+of the subdominant, is more closely related to the tonic than F#, the
+third of the supertonic,the latter is modified (Table 1f.)
+Whereasthe majorsystem is basedprimarily,though not exclusively,
+on what Schenker identified as naturalprocesses,he concedes that the
+minor system draws only the cycle of fifths from the overtone series.
+He suggests,therefore,that the latter is constructedad hoc by the artist
+as an analogueto the major system, on the groundsthat "at least two
+3
+
+Table 1
+
+a.
+
+A
+t
+
+-.
+
+_
+
+,.
+
+Harmonielehre, 14, p. 42
+par.
+
+b.
+
+I
+
+""
+
+1
+
+f
+
+'
+
+F-P
+
+U. 8. W.
+
+_
+P-0.9
+
+par. 14, p. 43
+
+I
+
+Ja))
+r-
+
+r
+
+l
+I
+*I
+r Et- a
+
+)
+
+ill %ij50
+'
+
+9
+
+r
+-
+
+#
+
+-4
+
+par. 16, p. 51
+Oberquinten: 1
+
+d.
+
+2
+
+3
+
+5
+,1
+
+5
+
+4
+
+~.1
+
+/-?n
+
+i.
+
+4
+,
+
+3
+
+2
+
+ti
+
+VI
+
+II
+
+I
+
+1it ?=t,#N t
+1
+.1.
+
+'R
+
+-k!
+
+- I
+-
+
+.
+
+(Stufen: I V II
+
+VI III VII
+
+VII
+
+1
+
+v
+
+I)
+
+par. 16, p. 51
+1.,
+
+e.
+
+2.,
+
+,
+
+I
+
+z
+
+E2
+
+~
+
+~
+
+BW~~~IS~ -
+
+5. Oberquint
+
+4.,
+
+J=FlP
+
+$
+Tonika
+Unterquint
+
+f.
+
+3,
+
+par. 17, p. 54
+
+r
+5-
+
+pa 18, p
+
+par.18,p. 55
+4
+
+components of the minor triad-the root and the fifth-belong to the
+series"and that "from a psychological,artisticperspective,the behavior
+of the minor triad is quite comparable to that of the major triad."'l
+Even though it may be a bona fide construct, Schenkeralwaysregarded
+the minor system as conceptuallyinferiorto the majorsystem.12
+After describing the two diatonic systems and their transpositions,
+Schenker next invokes the principle of mixture to make the resources
+of each system availableto the other. In paragraph he explains the
+38
+naturaloriginsof mixture:
+The tone lives a richer life, it satisfies its vitality all the better the
+more it revels in these relationships-that is, first, when it unites
+major and minor-and second, the more intensely it revels in each
+13
+[system].
+Schenker adds that there hardly exists a piece that does not rely on
+mixture of one sort or another.14
+To illustrate the different ways in which mixture can operate within
+the combined system, Schenker constructs an elaborate chart, given
+here as Table 2a. The majorsystem is markedat the top and the natural
+minor-with its loweredthird, sixth, andseventhStufen-at the bottom.
+Between these two poles, Schenkerhas six rows, correspondingto the
+six possible combinations of naturaland flattenedStufen: in rows 1, 2,
+and 3 the flattened third, sixth, and seventhStufen appearindividually
+within an otherwise major context (row 1 is the ascendingmelodic
+minor scale and row 3 is the Mixolydianmode), while in rows 4, 5, and
+6 different pairs of mixed Stufen are shown (row 4 is the harmonic
+minor scale and row 5 is the Dorian mode.) The arrowsalong the right
+side of Table 2a-unfortunately cut from the English translationemphasize that mixture can occur to varyingextents between these two
+poles.'1 To underscore the harmonic implications of these different
+states, Schenkerlists the tonic, dominant, and subdominantStufen for
+each row as shown in Table 2b.
+As a final but separate instance of mixture he proposes that the
+Neapolitan enters the minor system from the Phrygianmode to avoid
+the diminished triad on II.16 Although the PhrygianII will obviously
+occur in major keys, Schenker insists that it does so throughpriormixture since "in the strictest sense it is really the property of today's
+minor system."17 Schenker subsequently lists the complete range of
+as
+Stufen in C major-minor follows:
+C Db D Eb E F G Ab A Bb B
+
+I
+
+bI
+
+II
+
+III
+
+IV V
+
+VI
+
+VII
+
+18
+
+By referringto the mixed third, sixth, and seventhStufen with a single
+Roman numeral,Schenkerindicates that the combined system still has
+5
+
+Table 2a. Harmonielehre,
+par. 41, p. 110
+
+1.:
+
+--
+
+'t3
+
+I Dur
+I
+
+-
+
+1
+
+w4.a
+
+a
+
+r'
+
+^ .
+
+.
+
+~_,
+
+0-
+
+.
+
+a
+
+--ttio
+
+.t
+&--
+
+b6
+R
+
+3
+
+b7
+
+73, b6
+
+&
+b3, 07
+,6, b7
+b3, b6, b7
+
+6
+
+2
+
+?4?
+
+~
+
+r_~ - .
+~
+
+--
+
+2?
+
+-"
+
+-
+
+5
+-
+
+4-^
+
+U-I
+
+4
+
+V
+'---
+
+^-
+
+6-
+
+A
+
+6
+
+Moll
+
+"
+
+Table 2b. Harmonielehre,par. 48, p. 117
+Die Dreiklange der I., IV. und V. Stufe in alien Mischungsreihen.
+
+IV
+in Dur: .
+
+. . . . . . . . .
+
+V
+
+I
+
+-4-
+
+---L_-
+
+-
+
+Dur
+
+Dur
+
+Dur
+
+Dur
+
+Moll
+
+Dur
+
+Moll
+
+Dur
+
+Dur
+
+Dur
+
+Dur
+
+Moll
+
+in der erstenReihe (dersogenannten melodischen Mollreihe):
+
+in der zweiten Reihe:
+
+in der dritten Reihe (einer mixolydischen):
+
+in der vierten Reihe (der sogenannten harmonischen Mollreihe):
+
+--
+
+I
+
+Moll
+in der fiUnften Reihe (einer dorischen): ...
+
+--Dur
+
+Moll
+
+=s
+
+^r
+Dur
+
+in Moll:
+
+...
+
+Moll
+
+Moll
+
+in der sechsten Reihe:
+
+Moll
+
+Dur
+
+Moll
+
+I
+I
+I
+
+. -VA- a --
+
+Moll
+
+-t;e
+
+-
+
+Moll
+
+-
+
+PO--)----
+
+Moll
+
+7
+
+only seven Stufen, but that the second, third, sixth, and seventhStufen
+have two distinct forms.
+This latter point becomes even clearerin the third and final stage of
+the derivationwhen he announces that each of these Stufen can themselves appearas majoror minor triads:
+Nothing stands in the way of projectingan "apparent" chromatkey
+ically on each of these Stufen; in so doing mixture, as an ever present
+compositional procedure,can once again penetrate this pseudo key
+as well. 19
+
+Schenkerincludesthese extra forms in his previouslist, thereby producing the chart given in Table 3 (this chartis also absent from the English
+Table 3 indicates quite clearly that each Stufe may be
+translation.)20
+presentedin many different ways: for example, in C major-minor,the
+III Stufe may appear as a major or a minor triad on Eb as well as a
+major or minor triad on E. Mixture refers, then, not only to the interchange of chord qualities and roots between the major and the minor
+systems (for example, Ab major chordswithin F major)but also to the
+more general exchange of major and minor chord types (for example,
+an E majorchord in C majoror an Ab minor chord in F major.)21
+In order to produce all possible triads,Schenkerstill needs to generate those on # IV. Since he rejectsany possibility of Lydianmixture on
+the groundsthat the subdominantand dominant must alwaysbe available in pure form, he explains#IV as a means of inflectingV:
+Certainly, we shall see in the chapter on chromaticalterationsjust
+how readily one raises a fourth Stufe by a semitone in the major
+(also freely in the minor) to produce a diminishedtriad, especially
+when its purpose is to preparethe V Stufe-thus in F major, Bb is
+raised to B thereby transformingthe IV Stufe into the diminished
+triad B-D-F. It is not advisable,however, to considerthis chromatic
+B as a Lydian element since this sharpening
+betraysthe intention of
+chromaticalterationtoo clearly to warrantacceptingit as a diatonic
+IV Stufe within the frameworkof the system.22
+As becomes clear in paragraphs136-162, tonicization is vital to
+of
+Schenker'sunderstanding chromaticphenomena.At the beginningof
+136
+paragraph we read:
+Not only at the beginningof a composition, however,but also in the
+midst of it, each Stufe displays an irresistabledesireto attain for itself the value of the tonic as the strongestStufe. If the composersurrendershimself to this desireof the Stufe to attainthe strongestvalue
+of the tonic within a diatonic system, I call this
+erocess "tonicization" and the phenomenonitself "chromaticism."
+In the following pages, Schenker explains precisely how tonicization
+may be achievedusing applied dominants,leading-notechords, and by
+8
+
+Table 3. Harmonielehre,
+par. 160, p. 395
+
+C-moll (selbstverstandlich),
+dur
+Des--dl, wenn die zweite phrygische Stufe als scheinbare Tonart chromatisch (also auch mit Zuhilfenahme anderer Stufen) prapariert wird,
+* ,dur
+Es--moi entsprechend einer chromatischen Tonart auf
+der dritten Stufe,
+E-moll dto. auf der dritten Stufe,
+F--dul
+
+dto. auf der vierten Stufe,
+
+dur
+G-dmuodto. auf der fiinften Stufe,
+dur
+d,ll
+- dur
+
+B
+
+dto. auf der sechsten Stufe,
+
+moll
+dur
+
+modl dto. auf der siebenten Stufe.
+dur
+moll
+
+*should include D- dur
+moll
+
+9
+
+means of diminished sevenths, augmented sixths, and other altered
+chords. However, in emphasizing #IV as a means of inflecting V,
+Schenker never deals with the possibility of tIV as a secondary key
+area.
+Finally, then, Schenker arrives at a single major-minorsystem in
+which the full range of diatonic and chromatictriads is related to the
+tonic chord. Table 4 summarizesthis entire process: line 1 gives the
+tonic triad, lines 2 and 3 give the major and minor systems, line 4 the
+combined diatonic systems, and line 5 the complete major-minor
+system.
+II
+Now that we have sketched the broad outlines of Schenker'sharmonic theory, let us look more closely at its internal structure.From
+the outset, Schenker'spresentationhardly stands as a rigorousformal
+proof of the theory, since many of the steps follow one anotherthrough
+the introduction of ad hoc assumptions.For example,he offers no logical reason why the ascendingcycle in Table la should stop at VII, or
+his
+why the descendingone should go beyond I to IV. Similarly, attempt
+to eliminate the chromatic triads from Table Ic seems ratherarbitrary,
+as does his distinction between the products of "Nature"and those of
+the "Artist." Some may also question his decision to treat #IV merely
+as a subordinateto V, though it is not immediately obvious how to
+reply to Schenker'srejectionof Lydianmixture.
+Nevertheless,despite these problems,Schenker'sbasic line of reasoning does have many importantimplicationsnot only for his own future
+development but also for tonal theory in general.What the argument
+lacks in formalconsistencyit makesup in imaginationand insight.
+Perhaps the most striking feature of the theory-and certainly its
+tradition-is Schenker's
+most radicaldeparturefrom nineteenth-century
+decision to take the tonic triad rather than the diatonic scale as the
+basic element of his system. From the opening of Harmonielehre,it
+is clear that Schenkerrejectsthe a priorisignificanceof scales on acoustical grounds, since they cannot be taken directly from the overtone
+series.Moresignificantly,however,he also denies that scales are capable
+natureof tonality and for the mutual
+of accountingfor the hierarchical
+dependenceof harmonyand counterpoint.
+Schenker takes up this latter point most vehemently in the Preface
+to KontrapunktI, in a blisteringattack on the origins of exotic scales.
+He writes:
+The people of the East, just like our ancestors(-Quod erat demonstratum!-), have the childish illusion of a scale-system,which they
+fix on paper, merely because they follow the horizontal pattern of
+melodies.... And thus, innumerablesystems are believedin specifi10
+
+Tonic triad
+
+A
+
+Majorsystem
+
+,le
+
+Minorsystem
+
+4
+
+61~~1
+Elv(
+
+Stage 1
+
+Stage 2
+
+1
+
+cI
+
+4
+
+Vg
+
+Mixture
+v
+
+Stage 3
+
+EJ
+
+e-4
+
+V'mt
+
+A
+
+Complete
+Major-minor
+system
+I
+
+I'l
+
+II
+
+Ul
+
+IV
+
+* Diminished
+triadsmay expresalocal stufen but not keys.
+
+TonicizesV
+Table 4
+
+cally as such, even though a "system" in the real meaning of the
+word is quite impossible due to the lack of precise differentiationof
+the all-too-limitedtonal material, and hence the so-called systems
+may therefore claim at most a mechanical,descriptivevalue (again,
+exactly like those systems of our oldest periods) and in any case
+they can obviously apply only to horizontallines.
+For Schenker, then, scales have only a limited function as theoretical
+constructs and can at best describe linear phenomena. Of course, by
+denying that scales have generativepower, he does not dispense with
+them altogether.On the contrary,the choice of sevenStufen clearlyinvokes some prior notion of the scale. However, Schenkeris quite adamant in his belief that scales derivefrom the triad and not vice-versa.
+From a conceptual standpoint, Schenker gains three immediate
+advanagesfrom buildinghis system in this new way. First, since he believes that mixture, tonicization and fifth relationsare inherentproperties of the triad, he can legitimatelyclaim that his system is generative.
+To borrow a biological metaphor, it is as if the triad were genetically
+encoded with its own means of harmonic reduplication,in much the
+same way that a living cell is programedwith the necessary and sufficient information from which to reproduceitself in countless different
+guises. The fact that the tonic triad can effectively create all other triads
+meansthat the systemis also transformational.
+usingharmonicprinciples
+Second, since Schenker's system is based on a harmonicentity, it
+follows that he could then conceive of intervalsin harmonicterms and
+not merely as the distancebetween scale members.As Schenkerputs it:
+"today, the ability to appearin triads or seventh chordsis the conceptual prerequisite of intervals."25Thus consonant intervals-unisons,
+octaves, fifths, fourths (between upper parts), thirds and sixths-gain
+meaningbecausethey appearin majorand minor triads,while dissonant
+intervals-seconds, sevenths, augmentedand diminishedsonorities-are
+significant because they appearin seventh chords. By linking intervals
+to chords, he allows for the horizontal presentationof harmonies,an
+idea that leads directly to the notion of prolongation.26
+Attractive as this position may seem, Schenkerwas later forced to
+modify it in one important way. Whereasin the Harmonielehrehe accepts seventh chords as discreteharmonicentities in orderto allow seconds and sevenths as intervals, he subsequently retracts this view in
+KontrapunktI, claiminginstead that dissonancesultimately arisefrom
+passingmotion.27 Stripped of their a priori status as harmonicentities,
+sevenths chords cannot normally express Stufen. In the preface to
+I,
+Kontrapunkt Schenkerwrites:
+The Stufe lives in our perception only as a triad. That is, as soon as
+we expect a givenStufe we expect, aboveall, a triadandnot something
+12
+
+in the form of a seventh. In this case, the seventh degreeis not an a
+priori element in our perception in the same way that the fifth and
+the third degreesare; rather,it is an a posteriorielement ... that we
+comprehend in retrospect as passing motion or as a means for
+chromaticism. 28
+
+This does not mean, of course, that sevenths could neverbe conceived
+as discrete chords; it does mean that they can only assumeharmonic
+status in special situations and, as we learn in Der freie Satz, that they
+can only be prolonged if they expresssome consonant state at a higher
+structural
+level.29
+Third, besides unitingharmonyand counterpoint,Schenker'stheory
+claims to account for all possible tonal phenomena.At the beginningof
+the Harmonielehre,Schenker stresses the importance of completeness
+as a property of systems:
+Must not, then, a system have enough power to explain absolutely
+all possible occurrenceswithin its domain?And doesn't one always
+the
+regard system that encompassesthe most casesas the best one?30
+We see him use the idea of completenessin two main ways. On the one
+hand, although Schenker dismissesthe idea of modes and exotic scales
+as independentsystems, he insists that they should andcan be explained
+within a more generaltheory of tonal relations.In his words:
+In dropping the Dorian, Phrygian,Lydian and Mixolydian"rows,"
+we have apparently reduced the number of possible relationships
+into which the tone could enter, to the detrimentof its vitality and
+egoism. However, this loss is merely apparent. The tone bravely
+stood its ground, and it seems it was the tone itself that forced the
+Artist to leave the door ajarfor relationshipsof a Mixolydian,Dorian
+characteretc., even when the Artist no longer believedin the validity
+of those systems.31
+He continues:
+If the so-called Dorian and Mixolydianqualities are establishedby
+the major and minor systems alone (these understood correctly, of
+course), why then take on the burden of still more independent
+systems? 32
+
+Modes, then, are not alternative systems analogous to tonality-the
+"dialects" of tonality, which arise from specific operations within the
+tonal system. In this sense, tonality can be regarded a family of haras
+monic languages,each one based on the propertiesof the triad.
+On the other hand, Schenkeruses the criterion of completeness to
+refute Riemann's theory of harmonic functions. While he certainly
+accepts that the tonic, dominant, and subdominant triads have a
+13
+
+statistical and perhaps even conceptual prominence within the tonal
+system, as Table 2b confirms, Schenkerneverthelessdenies that these
+functions alone are comprehensiveenough to account for all tonal progressions. Near the beginning of Kontrapunkt I, he specifically criticizes functionaltheory for its inadequatetreatmentof the III Stufe and
+for its inability to deal with sequences.Accordingto Schenker:
+But don't all these exceptions ... immediatelypresupposethe recognition of all the remainingStufen of the system, beyond I, IV, V, as
+independentStufen in their own right?33
+Moreover,just as all seven diatonic Stufen are requiredwithin the
+system, so their variouschromaticcounterpartsare also essential.As we
+have seen, these chromatic Stufen do not elaborate or substitute for
+diatonic Stufen, they are alternativeways of expressingthe same harmonic state. Indeed, as Schenkerexplains,chromaticStufen are subject
+to exactly the same types of prolongationas diatonic ones:
+In its chromaticstate, the Stufe provesitself to be the same spiritual
+and higher unity that we have alreadydefined for the diatonic form;
+the obligation to return to the diatonic system does not imply any
+restrictions as far as the duration of the chromatic Stufe is convariable like that of the diatonicStufe
+cerned;its durationremains
+just
+and variesfrom a minimumto the greatestconceivablemaximum.3
+Schenker does not deny that diatonic relationshipsare empirically
+more common than chromatic ones, or that much chromaticismmay
+indeed elaboratediatonicmodels; ratherhe insists that becausea simple
+diatonicmodel cannot account for every possible chromaticoccurrence,
+a more comprehensivetheory of harmonic relationsis necessary.Thus,
+on
+while GregoryProctor and others may be justified in distinguishing
+stylistic groundsbetween "classicaldiatonic tonality" and "nineteenthcentury chromatic tonality," Schenkersaw no such distinction:he conceived of one and only one system of tonal relations.35
+III
+Let us now turn to Der freie Satz to see how Schenkerexpandedthe
+theories outlined in the Harmonielehre.In the precedingdiscussionwe
+saw how Schenkertook the tonic triadas the basis for the tonal system
+and how he derived all other triads using mixture and tonicization.
+Nearly thirty years later, in Der freie Satz, Schenkerwas still stressing
+the same point, as he makes clearin the following remark:
+A truly well establishedtonality can guide even the greatestnumber
+of chromaticphenomenaback to the basic triad.36
+14
+
+This phrase reinforces the claim near the end of Harmonielehrethat
+there is no limit to the degree of chromaticismin tonal contexts.37
+Furthermore, as with the Harmonielehre, the principles guiding this
+chromaticismare mixture and tonicization.
+Yet while the conceptual basis of Schenker'ssystem remainedconstant between the Harmonielehreand Der freie Satz, the scope of the
+theory widened considerably. First, in Der freie Satz Schenker no
+longer presented the generatingtriad as a vertical sonority, but as a
+contrapuntalcomplex. This complex (the Ursatzor fundamentalstructure) consists of an upper part (the Urlinie or fundamentalline) that
+descends from 8, 5, or 3 to i and a lower part (the Bassbrechung
+or
+bass arpeggiation)that moves from I to V and back to I. The fundamental structurein fact summarizesthe essential rules of contrapuntal
+motion: as Carl Schachter has emphasized, the two parts resemble a
+second species pattern in which the 2 appearsas a melodic dissonance
+passingbetween the chord tones 3 and .38
+Second, the generatingtriad describedin Der freie Satz controls the
+harmonic structureof an entire piece and not just a local key areaas it
+did in the Harmonielehre.In the final chapters of the Harmonielehre,
+Schenkersuggestedthat when a piece changed key it actually changed
+system.39 During the 1920's, however, as he developed the idea of
+structurallevels, Schenkergraduallyrealized that monotonal compositions were in fact controlled by a single tonal system and that so-called
+modulations were merely excursions within one basic framework.40
+Accordingto this revised theory, secondarykey areasexpress Stufe in
+just the same way that surface chords do, hence Schenker'srecurrent
+phrase "Stufen der Tonalitat als Tonarten."41Thus, the fundamental
+structure has harmonic as well as contrapuntal implications: as the
+progenitor of all Stufen, it summarizes the essential principles of
+monotonality.
+Besides rejecting the conventional idea of modulation, this theory
+also dispensedwith traditionalnotions of key relations,such as that of
+"relative"majorand minor. As John Rothgeb explains:
+The concepts of 'relative'major and 'relativeminor' are indeed foreign to Schenkerianthought. If, for example, an A-minorchord were
+tonicized within a work in C major, Schenkerwould explain it any
+of severalways, dependingupon the largercontext: the A bassmight
+be a passingtone in a descendingor ascendinglinear progression;
+it
+might be an upper neighboringtone to V; or any of severalother
+possibilities. He would neverinvoke an independentconcept of 'relative' keys.42
+To clarify the relationshipbetween the foregroundand background
+structure, Schenker devised an intriguingchart, given here as Table 5.
+15
+
+Table 5. Derfreie Satz, Fig. 1
+Urilnie
+
+lintergrund:
+Ursatz, Diatonle
+
+9: Brechung durchdie Oberquint
+
+Mittelgrund:
+Verwandlungsschichten
+
+Vordergrund:
+Tonalitat
+
+Table 6
+III
+
+Mediant
+VI
+[First levelmiddleground]
+
+Submediant
+[Secondlevel middleground]
+
+C major
+bill
+bIIIb
+III
+IIIS
+C minor
+III
+IIIb
+#III
+tIIIt
+
+Eb
+Eb
+E
+E
+
+G
+Gb
+G
+
+Eb
+Eb
+E
+E
+
+bVI
+bVIb
+VI
+
+Gt
+
+Bb
+Bb
+B
+B
+
+G
+Gb
+G
+GS
+
+Bb
+Bb
+B
+B
+
+VI
+VIb
+
+VIt
+
+WVI
+(VIS
+
+Ab
+Ab
+A
+A
+
+C
+Cb
+C
+CS
+
+Eb
+Eb
+E
+E
+
+Ab
+Ab
+A
+A
+
+C
+Cb
+
+Eb
+Eb
+
+C
+CS
+
+E
+E
+
+[After Krebs]
+
+16
+
+(Unfortunately, this figure is missing from Jonas' edition of Der freie
+Satz and hence from Oster's translation.)Table 5 clearly distinguishes
+between what Schenkerterms the diatony of the fundamentalstructure
+and the tonality of the foreground.In the accompanyingtext, Schenker
+goes on to state that strictly speaking,diatony is a feature of the fundamental line.43 He then contrastssparsenessof diatony with the richness
+of the foregroundtonality, which encompasses"the sum of all occurIt
+rences, from the smallest to the most comprehensive."44 is unclear,
+however, from Table 5 at precisely what level he permitted specific
+chromaticelements to enter.
+As mentioned at the start of this paper, many Schenkeriansbelieve
+that chromaticchords and pitches are mostly generatedat the surface
+or in the immediatemiddleground.Adele Katz and Felix Salzer,for example, both claim categorically that a chord has harmonic function
+only if it occurs within a limited number of diatonic progressions(for
+example, I-II-V-I,I-III-V-I,I-IV-V-I,I-VI-V-Iand I-V-I); in almost all
+cases their own deep middlegroundgraphs are exclusively diatonic.45
+At first sight this position certainlyconforms to the deep middleground
+paradigmsgiven in Part 2 of Der freie Satz; neverthelessexamples from
+later in the treatise show that these middlegroundprogressionscan be
+presented in numerous chromatic forms, following the principleslaid
+out in the Harmonielehre.
+According to Schenker, chromatic elements may enter the deep
+middlegroundin three main ways: throughthe prolongationof the fundamentalline, throughmixture in the bass arpeggiation throughthe
+and
+tonicization of the bass Stufen. Schenker deals with the first of these
+topics explicitly in Part 2 of Der freie Satz under the headingsof mixture and PhrygianII. In paragraph103, he declaresthat third mixture
+can appearin all 8-1, 5-1 and 3-1 lines (mixture of 6 can occur in 8-1
+lines at more foregroundlevels only.)
+To illustrate his point, Schenker shows two instances of third mixture: Chopin'sMazurka Ab major,op. 17 no. 3 (Ex. 1) andSchubert's
+in
+TrauerWaltz in Ab major, op. 9 no. 2 (Ex. 2). In the first case, the primary melodic tone C is prolonged by a lowered third, Cb, that extends
+acrossthe entire middle section of the piece-the Cb is in fact supported
+by the local tonic of E major which functions as Fb (bVI of Ab.) Chopin's use of mixture in the central section gives a good indication of
+the sort of form-buildingfunction that chromatic events may fulfill
+within a musical structure.In the second case, the lowered third (Cb)
+is supportedby a diminishedseventh(#IV7) at the deep middleground.
+What makes this particularanalysis so remarkable the fact that the
+is
+diminishedseventh chord does not actually appearat the foregroundof
+the piece-instead, we find a German sixth, Fb-Ab-Cb-D(m. 13).
+Schenker's reinterpretationof this chord may at first seem unusual;
+17
+
+00
+
+Chopin, Mazurka op. 17 no. 3
+a)
+. 48......-_....-
+
+--.....---------.--.--.-......
+
+-iw -r
+Mgd.
+Mgd.
+
+v
+
+-
+
+h"
+
+MIL
+
+II-
+
+641-
+
+40.
+
+A,(a
+
+b-
+
+-B(at-
+
+82)
+
+b-
+
+Example 1. Der freie Satz, Fig. 30a
+Schubert, Waltz op. 9 no. 2
+A
+
+b)
+A
+
+-
+
+*
+
+--
+
+-_
+
+I
+
+--
+
+-
+
+r r?
+
+I
+
+-?
+
+i
+
+I
+
+'I-. :-"
+"'^
+
+1E
+~? -:'~"^'if' j"pTrr',~ Ii I!
+bIA--'
+
+D-I
+t)
+
+8
+
+5-
+
+S
+
+,*
+...........'-A
+.
+_[ I
+
+rrr"
+d
+
+A
+
+.
+
+A
+
+"
+
+r---Z
+
+F
+
+r
+_A
+
+?
+
+_
+
+_Z>
+_ns_
+
+bxample 2. Der freie Satz, Fig. .Ub
+
+nevertheless, it provides ample proof of the freedom with which he
+handledchromaticchords.
+It is important to stress that mixture is an independent means of
+prolongation, quite distinct from linear progressionsor neighbor-note
+motions. As Schenkerexplains,to be considereda truelinearprogression
+a line must traverse at least the intervalof a third, while at the deep
+middleground,only upper neighbor-notemotions around 5 and 3 are
+possible.46 Sometimes these prolongations may themselves be chromatic-for example, the succession 5-b6-5 is quite common, with the 6
+supportedeither by bVI, or by IVb.47
+Two other examples of chromaticintrusionsshould be mentioned.
+The first one concerns the first movement of Beethoven'sPiano Sonata
+in F minor, op. 57 (Ex. 3). Accordingto Schenkerthe first part of this
+interrupted structure descends through b5 at the deep middleground
+(that is, 5-b54-3-2-i). However,in this case the b5 is not a passingtone
+between 5 and 4, but a third mixture in Ab(III) brought about by a
+modal change in the second group at m. 51.48 Second, in his graphof
+Schubert's song "Auf dem Flusse" in E minor, Schenker shows how
+mixture can occur within the initial ascent onto the headtone. As shown
+in Example 4, the headtone G is approachedby an ascendingarpeggiation throughthe raisedthird, that is, E-Gt-B-E-G.
+Having discussedmixture, Schenkerimmediately considersthe posII.
+sibilityof Phrygian As shownin Example5,he offerstwo voice-leading
+sketches of which b2 precedes 2 in the fundamentalline. The use of
+accidentalsratherthan a key signaturesuggeststhat these examplesare
+in C major and not C minor and this detail raisesthe question as to
+whether a preliminarymixture is requiredbefore b2 to avoid the augmented second 3-b2 (or alternatively,whether a preliminarydescent
+onto k2 is required.)If such mixture is necessary,then it perhapsconfirms Schenker's comment in the Harmonielehre that the PhrygianII
+ultimately belongs to the minor system.
+Chromatic elements need not, of course, be confined to the fundamental line at the deep middleground;they may also occur within the
+bass arpeggiation.For Schenker, the primaryintervalof the fifth in the
+bass arpeggiationcan only be composed-out at this level throughII, III
+and IV. Nevertheless,throughmixture, each of these Srufen can appear
+in chromatic form. Mixture of II and IV presentsfew theoreticalproblems since it only affects the quality of the triad and not the root. Mixture of III, however,raisesbroaderquestions. Following HaraldKrebs,I
+have summarized variouspossible mediantmixturesin Table 6.49
+the
+Besides the fairly common case of arpeggiationsthrough III$ in
+majorkeys, Schenkergives two examples of the more unusualinstance
+of arpeggiationthrough bIII in the major.50In the case of Beethoven's
+Piano Sonata, op. 2 no. 2 (Ex. 6), the tonic A major is arpeggiated
+19
+
+I
+
+tL
+
+=
+
+i
+
+S
+
+I
+
+^?
+
+Id
+
+20
+
+w''S
+
+^
+
+>y*
+
+*
+v f
+
+fs
+'?
+
+*^j
+
+Beethoven, Sonata op. 2 no. 2, Ist mvt.
+130
+
+122
+
+.'}
+
+?
+
+21
+- -
+
+''X
+
+1m
+4
+
+156
+
+202
+
+161
+
+p
+
+21
+
+2
+
+L
+
+.N
+II
+
+_
+
+146
+
+/i
+.....
+--------
+
+--'sI"
+
+--
+
+-
+
+r
+
+7" 1 h -
+
+.
+
+]
+
+"
+
+/
+
+"Z
+
+'
+8
+4 --(3
+811
+
+I(FJxp.
+
+-
+
+.
+
+_-7
+
+-
+
+Dev.
+
+Example6. Derfreie Satz, Fig. 100.5
+
+Mozart, Rondo in D Major, K. 485
+26
+
+m.
+
+63
+
+66
+
+67
+
+^^^
+
+_r-
+
+71
+
+(*)
+
+(,)
+1dJ
+
+J
+
+90
+
+95
+
+108
+
+112
+(*)
+
+(57)
+&2L,
+
+Q?
+
+Example 7. Der
+
+Fr IUr
+Fig.eieSatz,
+
+155.3
+
+Example 7. Der freie Satz, Fig. 15 5.3
+tQ
+
+through C in orderto account for the prominentshift to C majorat the
+beginningof the developmentsection. In the case of Mozart'sRondo in
+D major,K. 485, the motion onto F is precededby a modulationto D
+minor as given in Example 7. Krebs himself graphsone instance of an
+arpeggiationthrough bIIIb in the major from the second movementof
+Mozart'sSymphony no. 39, K. 543. As shown in Example8 Krebssuggests that mm. 91-126 articulate a progression I-bIIIb-(bVI)-V-I.
+Krebs also shows one example of a succession through #IIII#in the
+minor, namely in Chopin'sRondo op. 1 (see Ex. 9). Whilearpeggiations
+of these latter types are certainly rarein common practice and will be
+carefully preparedby the composer at surfacelevels, they do lie within
+the boundariesof Schenker'ssystem: as we have seen, bIIIband #IIIg
+are merely alternativeforms of the III Stufe.
+The third way in which chromaticelements can enter the deep middlegroundis by inflections of the structuraldominant.A good instance
+of this proceduremay be found in Example2. Here Schubertreinforces
+the structuraldominant by a diminishedseventh (#IV7-V). One of the
+interestingfeaturesof Schenker'snotation is that he marksprogressions
+through #IV by a pair of interlockingslurs:as Schenkerexplains,these
+of
+sluis are characteristic progressions
+involvingII or IV where they emHe
+phasize the contrapuntalbasis of the progression.51 also uses these
+In variousother graphshe shows that
+slurs for progressions
+throughbII.
+#IV can also inflect interruptedstructures,as for example in his analyses of the third movement of Beethoven's Piano Sonata, op. 26, and
+in
+Chopin'sMazurka B minor, op. 33 no. 4.52
+The structuraldominant may also be reinforcedby augmentedaugin
+mented sixth chords(#IV ), as Schenkerdemonstrates his analysisof
+the Chaos from Haydn's Creation(Ex. 10). CarlSchachterhas recently
+offered a slightly different example in his excellent study of the first
+movement of Brahms'sSecond Symphony, op. 73 (Ex. 11).53 Here,
+Schachter suggests that the augmented sixth F-A-D# (mm. 116-17)
+connects with the main tonic D major by a "chromaticisizedvoiceexchange." Similaroccurrencesof chromaticalterationwithin voice exchangescan be found throughoutthe tonal literature.
+Having established that Schenker's deep middlegroundscan indeed
+be fully chromatic (the limit will be set by the work's voice-leading
+structure), we should not be surprisedto find that more foreground
+levels exploit these resourcesin ever more complex ways, particularly
+in the services of motivic design.54 Example 12 shows some of the
+many ways in which chromaticelements can appearat or near the surface. Perhaps the most important expansion of harmonicresourcesat
+the surface levels involves progressionsthrough VI and VII. Whereas
+only ascending progressions(I-II-V-I, I-III-V-I and I-IV-V-I) can
+22
+
+D
+
+f r E^
+
+y
+
+S
+[V]-E
+
+5-6
+
+@=
+
+8o
+
+2rV- WI
+
+1
+
+Example 8 Mozart, Symphony in E,, K543, 2nd mvt. [Krebs, Ex. I:8]
+
+I
+
+I
+
+I V/V V I v I,
+Vii
+
+II
+
+tm#
+
+VI
+
+V
+
+Example 9 Chopin, Rondo, Op. 1 [Krebs, Ex. 1I:38]
+
+'(1 2) 3~... .....
+- -o
+
+=A.
+
+, 1- i'==
+
+'-Q--uart ug1r
+- IVV6
+
+C minor:I-
+
+-......
+
+^
+
+.I'
+-T
+
+^Cx
+
+-I3
+
+3 -IV-V
+
+I-
+
+-II
+
+V-I
+
+Example 10 Haydn,Die Vorstellung des Chaos. [Das Meisterwerk in der Musik,Anh. XIII,Fig.9 ]
+
+Ist group
+and bridge
+
+1
+
+Y '
+
+to
+2nd theme"Transition
+a
+dominantgroup
+6
+
+1
+
+Example 11 Brahms, Symphony in D,Op. 73, 1st mvt. [Schachter, Ex. 7]
+
+23
+
+a.DerfreieSatz, Fig. 113,3c
+
+Beethoven, Sonat op. 22,
+1st mvt, Development
+12
+0
+89
+a
+.
+
+Chopin, Polonaie op. 26 no. 1
+m.
+84 ,
+
+(=9 -vl
+
+)
+
+(OV_L (
+
+<-F m:
+
+)(3
+
+_(
+
+-8)
+) 3)
+
+b. Derfreie Satz, Fig. 113.4
+Chopin,Polonaisein A Major,op. 40 no. 1
+m.
+
+12
+
+11
+
+U10
+
+-
+
+16
+
+14* 15
+
+--------.----_
+
+.,
+
+Am.jor.
+.3
+.
+
+.....-
+
+-
+
+)
+
+(
+
+(-Emor:
+
+)
+
+c. Derfreie Satz, Fig. 56.h
+Haydn, Son. in Eb Major (Hob. 52), lt mvt, mm. 20-21
+
+8
+
+=Bb majo
+
+d. Derfreie Satz, Fig. 100.3f
+Schubert, Imprompu in G Major, op. 90 no. 3, mn. 155 (78) f.
+
+^
+
+<;.n)
+
+.
+_
+
+Gmuor:
+
+^
+
+I
+
+-
+
+(FV)--IV
+
+V
+
+e. Derfreie Satz, Fig. 114.2a
+J.S. Bach, Twelve Little Preludes,
+No. 6 (BWV 940)
+4
+
+m.
+(
+0,
+
+,t
+
+r
+
+-
+
+n.n.
+.I]
+
+4
+Example
+
+24
+
+~24~Example
+
+)
+,
+
+12.
+
+2
+
+I
+
+appear at the deep middleground,progressionsthrough VI or VII can
+appear at the second and subsequent levels.55 Furthermore,through
+mixture, the VI and VII Stufe can both appear in major and minor
+form on the raised and lowered degree.Following Krebs,the full list of
+submediant forms is given in the right hand column of Table 6.56 We
+have already seen an interestinginstance of motion through bVI in Example 1 and similar examples can easily be found. However,in many
+cases progressionsto VI or bVI are absorbedwithin the unfolding of
+bII, II or IV (for example, I-VI7-II-I or I-bVI-bII-V-I.)57In a similar
+way, VII and bVII often inflect unfoldings of V, as Schenkerexplains
+at greatlength in passagedevoted to VII-V successions(see Ex. 13).58
+*
+
+*
+
+*
+
+*
+
+According to Schenker, then, chromatic elements are inherent in
+the tonal system. Through the concepts of mixture (PhrygianII) and
+tonicization, he managed to construct a comprehensivemonotonal
+theory that not only relates the full range of chromatic elements to
+the tonic-the prerequisite of any genuine monotonal theory-but
+allows chromatic events to emerge from the deep level middleground.
+Since this is at the level at which musical forms emerge, Schenkerian
+theory also accepts that chromaticphenomenaindeed play a vital role
+in shapingthe overallstructureof a piece.
+Though it lacks proper formal derivation, Schenker's arguments
+overturnmany basic preconceptionsabout the nature of the tonal system, such as the a priori significanceof scales, the origins of intervals,
+and even such common notions as relative keys and functional substitution. For Schenkerthe tonal universeencompassesan almost limitless
+range of harmonic possibilities, restricted only by the rules of voice
+leading.
+Given this result, the familiarcriticism that Schenkerhad difficulty
+coping with extreme chromaticism such as that of late nineteenthcentury music seems unfounded. A careful reading of his comments
+about Wagnerand other late nineteenth-century composers suggests
+that their music was not somehow too chromatic,but ratherthat the
+individualStufen were obscure and poorly articulated at deep levels.
+In paragraph of the Harmonielehre,Schenker complainsthat many
+89
+modern composers fail to coordinateStufen with voice leading:that in
+some cases any sense of Stufen is lacking altogether, while in other
+cases that the Stufen are "too long, stretched too thin to support or
+sustain with any security the complexities of voice leading."59Schenker's celebratedattacks on Wagner certainlyof this type: both in the
+are
+Harmonielehreand in Das MeisterwerkII he criticizesWagnernot for
+25
+
+e-4
+--I
+60
+-4
+
+A
+q
+
+a
+It.
+C'
+
+cld
+r-LL
+
+x
+
+26
+
+writing too chromaticallybut for failingto control surfacespansat the
+middleground.60
+The implications of this criticism are important: they underlinethe
+significanceSchenkerplaced on chromaticStufen and on the problems
+of chromaticismin general.Indeed, one might even say that Schenker's
+real contributionto harmonictheory was showingthat a fully chromatic
+theory is necessary not only to account for late nineteenth-century
+styles but also for understandingthe works of the common practice
+style as well.
+
+27
+
+NOTES
+This paper was originally presented at Columbia University in May 1984.
+1. Leonard B. Meyer, Emotion and Meaning in Music (Chicago: University of
+Chicago Press, 1956), p. 217. In a similar vein, William Mitchell observes,
+"There are two ways in which chromatic elements appear in diatonic textures, by Interpolation and by Replacement. Interpolation refers to those instances in which the chromatic half step is introduced between diatonic
+tones. Replacement occurs, often as an abbreviation of interpolation, when a
+chromatic variant is substituted for a diatonic element." "The Study of Chromaticism," Journal of Music Theory 6 (1962): 11.
+2. William Benjamin, "Interlocking Diatonic Collections as a Source of Chromaticism in Late Nineteenth-Century Music," In Theory Only 1/11 (1975):
+31. Of the numerous studies dealing with the problems of graphing highly
+chromatic tonal music, see William Mitchell, "The Tristan Prelude: Techniques
+and Structure," The Music Forum 1 (1967): 162-203; Benjamin Boretz's
+analysis of the Tristan Prelude in "Metavariations Part IV: Analytic Fallout
+(1)," Perspectives of New Music 11 (1972): 159-217; Henry Martin's reply to
+Benjamin, "The Linear Analysis of Chromaticism," In Theory Only 2/1 (1976):
+47-50; Gregory Proctor, "Technical Bases of Nineteenth-Century Chromatic
+Tonality: A Study in Chromaticism," (Ph.D. diss., Princeton University, 1978);
+Arnold Whittall, "The Vier ernste Gesange Op. 121: enrichment and uniformity," in Brahms: biographical, documentary and analytical studies, ed. Robert
+Pascall (Cambridge: Cambridge University Press, 1983), pp. 191-207 and
+Deborah Stein, Hugo Wolfs Lieder and Extensions of Tonality, (Ann Arbor,
+Mich: UMI Research Press, 1985.)
+3. According to Gregory Proctor, "Schenker was forced to narrow ... his system
+to the inclusion of Mozart and the exclusion of Wagner." "Technical Bases,"
+p. 7. Proctor proposes that "there is not a single 'common practice' extending
+from the early 17th century through the end of the 19th century. Rather the
+era can be divided into two large, overlapping style systems. .. classical diatonic tonality, and nineteenth-century chromatic tonality." According to
+Proctor "the two systems are distinguished by their respective conceptions of
+chromatic generation": in the former, "chromaticism is defined as the interaction of different diatonic scales" while in the latter "there is but one chromatic
+scale from which all diatonic scales are derived as subsets" (pp. iii-v). Patrick
+McCreless, among others, has tried to combine Proctor's theories with concepts outlined by Robert Bailey, see his "Ernst Kurth and the Analysis of the
+Chromatic Music of the Late Nineteenth Century," Music Theory Spectrum 5
+(1983): 60-62.
+4. Heinrich Schenker, Neue musikalischen Theorien und Phantasien, vol. 1 Harmonielehre (Stuttgart & Berlin: J. G. Cotta, 1906).
+5. Heinrich Schenker, Neue musikalischen Theorien und Phantasien, vol. 3 Der
+freie Satz (Vienna: Universal, 1935).
+6. The publication history of the Harmonielehre is more complex than is often
+supposed. So far as I can tell, the treatise was first published with Schenker's
+name in Stuttgart and Berlin by J. G. Cotta. Universal Edition then distributed
+the work in Vienna: some copies replace Schenker's name with the phrase
+
+28
+
+"von einem Kunstler" while other copies lack the title page altogether or
+paste the label "Wien, Leipzig" over the original imprint. The treatise was
+later edited by Oswald Jonas and translated by Elizabeth Mann-Borgese under
+the title, Harmony (Chicago: University of Chicago Press, 1954.) Although
+Jonas's edition contains many helpful notes, it does not include any list of
+changes. In fact, Jonas cut some 75 of the original 379 examples, notably
+those dealing with intervals (Exs. 111-131), seventh chords (Exs. 190-213),
+tonicization (Tables XI-XVIII), and chromatic Stufen (p. 395) as well as several substantial musical quotations. He also tampers with the remaining text
+and examples. To avoid any confusion I have translated each extract myself
+from the first edition (Stuttgart/Berlin.) Unless otherwise stated, all citations
+come from the Harmonielehre.
+7. "das bloss gleichsam Topographische der Materie: also Systeme, Intervalle,
+Drei- und Mehrklange u.s.w.," "das wirklich Funktionelle, das Treibende der
+musikalischen Urideen: namlich Stufengang, Chromatisierung und Modulation
+etc. gezahlt werden" (p. vi).
+8. "Gerade in ihrer hoheren, abstrakten Natur ist die Stufe das Wahrzeichen der
+Harmonielehre" (par. 83, p. 198). Robert Wason traces the historical precedents for Schenker's notion of Stufen in his book, Viennese Harmonic Theory
+from Albrechtsberger to Schenker and Schoenberg (Ann Arbor, Mich.: UMI
+Research Press, 1985) and his article "Schenker's Notion of Scale-Step in Historical Perspective: Non-Essential Harmonies in Viennese Fundamental Bass
+Theory," Journal of Music Theory 27 (1983): 49-73. Though Wason often
+touches upon the idea of chromatic Stufen, particularly in his discussion of
+Mayrbergerand Schalk, he does not deal with this topic in any detail.
+9. The first and second stages of this derivation are summarized by Oswald
+Jonas, Introduction to the theory of Heinrich Schenker, ed. and trans. John
+Rothgeb (N.Y.: Longman, 1982), p. 21ff; Sylvan Kalib, "Thirteen Essays
+from the Three Year books Das Meisterwerk in der Musik by Heinrich Schenker," vol. 1 (Ph.D. diss., Northwestern Univ., 1973), pp. 3-12; David M. Thompson, A History of Harmonic Theory in the United States, (Kent, Ohio: Kent
+State Univ. Pr., 1980), pp. 162-180. None of these writers considers Stage 3.
+10. "der Inhalt der ferneren Oberquinten, von der zweiten angefangen, wurde
+temperiert und abgestimmt auf den Inhalt des Grundtones, seiner ersten Oberquint und Unterquint" (par. 18, p. 55). For further discussion see Oswald
+Jonas, Introduction, p. 26.
+11. "Schliesslich spitzt sich das Problem also dahin zu, ob es angesichts dessen,
+dass der Molldreiklang mindestens mit zwei Elementen, mit Grundton und
+Quint, der Obertonreihe zunachst ja durchaus nicht widerspricht und dass
+seine Behandlung in psychologisch kiinstlerischer Hinsicht der des Durdreiklanges parallel lauft,.. ." (Vorwort, p. vii).
+12. ". . .eine Superioritit des natiirlichen Dur gegeniiber dem Moll nicht abzuleugnen ist" (par. 21, p. 63).
+13. "Der Ton lebt sich reicher aus, er befriedigt seinen Lebenstrieb desto besser,
+je mehr er dieser Beziehungen geniesst, d.h. wenn er erstens Dur und Moll
+vereinigt, und zweitens je starker in diesen beiden sein Genuss zum Ausdruck
+kommt" (par. 38, p. 107).
+14. "Ich halte es daher im Sinne jeder Komposition eigentlich fir wahrheits29
+
+dur
+gemasser, z.B. von einer C-dur-moll (C- moll ) zu sprechen, da es sich fast nie
+dass ein C-dur ohne C-mollingredienzien und umgekehrt ein C- moll
+ereignet,
+ohne C-dur ingredienzien auftritt. Es liegt eben die Inanspruchnahme beider
+Systeme sowohl als aller unter denselben moglichen Kreuzungen im Sinne der
+Expansionbediirftigkeit des Tones" (par. 40, p. 109).
+15. Jonas/Borgese, Harmony, Ex. 68, p. 87.
+16. See par. 50, pp. 143-49.
+17. "Daher darf er denn im strengsten Sinne doch wohl Eigentum nur des heutigen
+Moll-, nicht aber des Dursystems heissen . ." (par. 50, p. 143).
+18. Par. 160, p. 395.
+19. "Nichts steht im Wege, sich nun auf jeder dieser Stufen chromatisch eine
+scheinbare Tonart vorzustellen, wobei auch in diese nicht einmal wirkliche
+Tonart selbstverstandlich noch ausserdem wieder die Mischung als stets gegenwartiges kompositionelles Mittel eindringen konnte" (par. 160, p. 395).
+20. The omission of the II Stufe, D major-minor, is one of several proof-reading
+errors.
+21. Many writers refer to these two types as simple and double mixture-see Felix
+Salzer, Structural Hearing, vol. 1 (N.Y.: Boni, 1952), pp. 178-181; Howard
+Cinnamon, "Chromaticism and Tonal Coherence in Liszt's Sonetto 104 del
+Petrara," In Theory Only 7/3 (1983): 6. Edward Aldwell and Carl Schachter
+add a third category "secondary mixture" in Harmony and Voice Leading,
+vol. 2 (N.Y.: Harcourt Brace Jovanovich, 1979), pp. 186-193.
+22. "Wir werden allerdings im Kapitel von der Chromatik sehen, wie gerne man
+gerade eine vierte Stufe in Dur (freilich auch in Moll) um einen Halbton erhoht, um zu einem verminderten Dreiklang zu gelangen, also in F-dur B zu H
+erhoht, wodurch die IV. Stufe zum verminderten Dreiklang H D F wird, besonders wenn es gilt, die fiinfte Stufe zu bringen. Jedoch wiirde es sich nicht
+empfehlen, dieses chromatische H als ein lydisches anzusprechen, da sich in
+jener Erh6hung zu sehr die Absicht des Chromas kundgibt, als dass es zulassig
+ware, eine systemgemdsse diatonische IV. Stufe dahinter zu vermuten" (par.
+51, p. 150).
+23. "Nicht nur aber am Anfang des Stuckes, sondern auch mitten im Verlaufe
+desselben bekundet jede Stufe einen unwiderstehlichen Drang, sich den Wert
+der Tonika als der stdrksten Stufe zu erobern. Wenn nun diesem Drange der
+Stufe nach dem stirksten Wert der Tonika innerhalb einer Diatonie, der die
+Stufe angeh6rt, wirklich stattgegeben wird, so bezeichne ich den Prozess als
+Tonikalisierung und die Erscheinung selbst als Chromatik" (par. 136, p. 337).
+24. "die Volker des Morgenlandes, genau wie unsere Vorfahren (-quod erat demonstrandum!-), den kindlichen Wahn eigener "Tonleitersysteme" haben, die
+sie auf dem Papier fixieren, indem sie lediglich der horizontalen Richtung der
+Melodien folgen.... Und so werden nun zahllose Systeme als solche geglaubt,
+wo ja ein "System" in des Wortes wirklicher Bedeutung schon einfach aus
+Mangel an bestimmter Differenziertheit des noch allzubescheidenen Tonmateriales von Haus aus unm6glich ist und die angeblichen Systeme daher (wieder
+genau so, wie in unserer altesten Periode) hochstens nur einen mechanischdeskriptiven Wert, und wie selbstverstandlich obendrein nur fir die horizontale Linie, beanspruchen durfen." Neue musikalischen Theorien und
+
+30
+
+Phantasien, vol. 2, Kontrapunkt, Pt I, (Stuttgart & Berlin: J. G. Cotta, 1910),
+par. 5, p. 32.
+25. "heute ist die Fahigkeit, im Dreiklang oder Vierklang vorzukommen, begriffliche Voraussetzung des Intervalles" (par. 55, pp. 155-156). It should be
+noted, however, that Schenker also defines intervals as distances between
+scale tones-see Table IV, par. 58, p. 157 and Table V, par. 60, p. 159.
+26. For example, in Example 107 Schenker shows vertical and horizontal intervals
+with arrows.
+27. Schenker anticipates this argument in his rejection of ninths as chords in the
+Harmonielehre, par. 107-114, pp. 248-77.
+28. "Die Stufe lebt in unserer Empfindung nur als Dreiklang. D.h. sobald wir eine
+Stufe erwarten, erwarten wir sie zundchst nur als einen Dreiklang, nicht also
+auch etwa als einen Vierklang. In diesem Sinne ist die Sept durchaus nicht mit
+ein a priori-Element unserer Vorempfindung, ahnlich wie es die Quint und die
+Terz sind; sie ist vielmehr ein Ereignis a posteriori, das wir wohl am besten
+aus dem Zweck begreifen, der mit ihn verbunden wurde, d.h. wir verstehen sie
+hinter als Durchgang, oder als Chromatisierungsmittel." Kontrapunkt I, p.
+xxxiii. Previously in the Harmonielehre a Stufe could be expressed in the form
+of a seventh: "Sofern aber der Vierklang als Stufe in Frage kommt..." (par.
+99, pp. 242-3).
+29. Schenker discusses the problems of prolonging dissonances in Der freie Satz,
+par. 168-177. For further information, see Jonas, Introduction, pp. 78-79
+and 100-103, William Clark, "Heinrich Schenker on the Nature of the Seventh
+Chord," Journal of Music Theory 26 (1982): 221-259 and Carl Schachter, "A
+
+Free Composition,"
+Journalof Music Theory25
+Commentaryon Schenker's
+(1981): 136-137.
+30. "Muss denn nicht ein System vielmehr die Kraft haben, alle auf dasselbe Bezug
+habenden Erscheinungen restlos zu erklaren? Und wird man nicht immer
+dasjenige System das bessere nennen, das mehr Einzelfalle aufnimmt?" Harmonielehre, par. 30, p. 97.
+31. "Scheinbar haben wir wohl, da die dorische, phrygische, lydische und mixolydische Reihe fallen gelassen wurden, die Zahl der moglichen Beziehungen des
+Tones reduziert und dadurch seinem Lebenstrieb und Egoismus geschadet,
+doch ist dies, wie gesagt, eben nur scheinbar. Der Ton liess sich doch nichts
+nehmen und er selbst scheint es gewesen zu sein, der die Kunstler dazu drangte,
+auch dort, wo sie lange nicht mehr an mixolydische, dorische u.s.w. Beziehungen glaubten, diese ihm doch offen zu halten" (par. 40, p. 108).
+32. "Wenn mit Dur und Moll allein (diese freilich richtig verstanden) sich sogenannte dorische und mixolydische Reize erreichen lassen, wozu dann die Last
+noch mehrerer und selbstandiger Systeme?" (par. 30, p. 97).
+33. "Setzen aber all diese Befreiungen vom angeblichen Sequenzencharakter nicht
+mit Notwendigkeit die Anerkennung auch aller ubringen Stufen des Systems,
+ausser I, IV, und V, als ebenso selbstdndiger Stufen voraus?" Kontrapunkt I,
+par. 5, p. 41. For further discussions of Schenker's rejection of functional
+theory, see Oswald Jonas, Introduction, p. 127; Hellmuth Federhofer, "Die
+Funktionstheorie Hugo Riemanns und die Schichtenlehre Heinrich Schenkers,"
+
+InternationalenMusikwissenschaftlichen
+Kongress,Mozartjahr1956 (Graz:
+Bohlhaus, 1958), pp. 183-90 and Akkord und Stimmfiihrung in den musik
+
+31
+
+theoretischen Systemen von Hugo Riemann, Ernst Kurth und Heinrich Schenker (Vienna: Osterreichischen Akademie der Wissenschaften, 1981), pp. 11-31;
+John Rothgeb's review of Federhofer's Akkord und Stimmfiihrung, Music
+Theory Spectrum 4 (1982): 131-137; and Robert Wason, Viennese Harmonic
+Theory, pp. 134-5.
+34. "Auch im chromatischen Zustand bewdhrt sich die Stufe als jene geistige und
+h6here Einheit, als welche wir sie schon im diatonischen Zustand (par. 78)
+definiert haben, d.h. die Verpflichtung, zur Diatonie zuriickzukehren, bildet
+keine Beschrankung fur den zeitlichen Ausbau der chromatischen Stufe; ihre
+Dauer bleibt ebenso wie die einer diatonische Stufe variabel und schwankt
+daher von einem Mindestmass bis zum denkbar grossten Ausmass" (par. 159,
+p. 388).
+35. It will be clear from my discussion of Schenker's system that Proctor not only
+ignores the final stage of the derivation (Table 3), but he also disregardsSchenker's powerful argument that scales are incapable of building systems. If the
+diatonic scales are unacceptable as primitives it follows that Proctor's chromatic scale must also be unacceptable on the same grounds.
+36. "Eine wirklich gegriindete Tonalitat leitet auch das gr6sste Mass von Chromen
+sicher in den Grundklang zuriick." Der freie Satz, p. 5. I have changed Oster's
+translation very slightly; see Heinrich Schenker, Free Composition, ed. and
+trans. Ernst Oster (N.Y.: 1979), p. xxiii.
+37. "Ich kann daher weiters den Grundsatz aufstellen, dass man schon um der
+Diatonie selbst willen nicht genug chromatisch schreiben kann." Harmonielehre, par. 155, p. 380.
+38. Schachter, "A Commentary on Schenker's Free Composition," p. 126. In
+pages 124-125 Schachter discusses the conceptual basis of the Ursatz in more
+detail.
+39. Harmonielehre, par. 171-182.
+40. William Pastille describes the evolution of Schenker's view of organic coherence in his excellent article "Schenker, Anti-Organicist," Nineteenth-Century
+Music 8 (1984): 34.
+41. This phrase recurs throughout Schenker's graphs in Das Meisterwerk in der
+Musik (Munich: Drei Masken Verlag, 1925-30). At the beginning of Der freie
+Satz Schenker claims that the concept of modulation is the "most baleful error
+in conventional theory." Der freie Satz, p. 26; Oster, p. 8. It is important to
+stress that the most significant harmonies in a composition need not be tonicized and that tonicized harmonies necessarily carry greater structural weight
+than those that are not tonicized. See Carl Schachter, "The First Movement of
+Brahms's Second Symphony: The First Theme and its Consequences," Music
+Analysis 2 (1983): 63.
+42. See Rothgeb's editorial footnote in Jonas, Introduction, p. 29.
+43. Der freie Satz, p. 17; Oster, p. 5.
+44. Der freie Satz, p. 17; Oster, p. 5.
+45. Adele T. Katz, Challenge to Musical Tradition (N.Y.: Knopf, 1945), pp. 1012, Felix Salzer, Structural Hearing (N.Y.: Charles Boni, 1952), pp. 88-96
+and Fig., 96-118.
+46.Der freie Satz, par. 106.
+47. For example, Der freie Satz, Fig 79/4., The neighbor-note motion 3-$4-3
+
+32
+
+seems less likely because t4 will generally be supported by harmonies that inflect V.
+48. Schenker explains this point in his essay "Beethoven: Sonata opus 57," in Der
+Tonwille 7 (1924), pp. 6-7.
+49. Harald Krebs, "Third Relations and Dominant in Late 18th- and Early 19thCentury Music," (Ph.D. diss., Yale University, 1980), p. 22. See also Aldwell
+and Schachter's discussion of chromatic key areas in Harmony and Voice
+Leading, vol. 2, p. 239ff.
+50. Derfreie Satz, par. 55; Oster, pp. 29-30. See also Fig. 14-18.
+51. Der freie Satz, par. 56; Oster, p. 30.
+52. Der freie Satz, Fig. 40.6.
+53. Schachter, "The First Movement of Brahms's Second Symphony," pp. 62-65.
+For further discussion of chromatic voice-exchanges see Jonas, Introduction,
+pp. 103-5 and Aldwell and Schachter, Harmony and Voice Leading, vol. 2,
+pp. 87-88, 90-91, 168, 172, 178.
+54. See, for example, Schenker's discussion of the avoidance of direct chromatic
+steps, Der freie Satz, par. 249.
+55. Derfreie Satz, par. 186-88; Oster, pp. 68-69.
+56. Krebs, "Third Relations," p. 22.
+57.Derfreie Satz, Fig. 132.8.
+58. Derfreie Satz, par. 246; Oster, pp. 89-90.
+59. "Nuchtern aber kiinstlerisch gesprochen: es fehlt am Stufengang, sei es nun,
+dass er iiberhaupt ganz fehlt, oder dass die vorhandenen Stufen zu weit, zu
+iiberspannt sind, um noch mit Sicherheit die komplizierte Stimmfuhrung zu
+tragen und zu decken." Harmonielehre, par. 89, pp. 220-221. See also Schenker's analysis of Reger's Piano Quintet, op. 64, par. 89, pp. 220-226. This section is missing in Jonas/Borgese.
+60. Harmonielehre, par. 89. Das Meisterwerk in der Musik 2 (1926): 29-30, trans.
+by Sylvan Kalib, "Thirteen Essays," pp. 197-198. Elsewhere, Schenker criticizes Wagner for his treatment of themes and his contrapuntal technique; for
+example, see Das Meisterwerk in der Musik 2, trans. Kalib, pp. 242 and Der
+freie Satz, par. 161, p. 57.
+
+33
+
+

@@ -1,0 +1,3570 @@
+Yale University Department of Music
+
+The Origins of Harmonic Analysis
+Author(s): David W. Beach
+Source: Journal of Music Theory, Vol. 18, No. 2 (Autumn, 1974), pp. 274-306
+Published by: Duke University Press on behalf of the Yale University Department of Music
+Stable URL: http://www.jstor.org/stable/843639
+Accessed: 15/12/2009 09:22
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=duke.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Duke University Press and Yale University Department of Music are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of Music Theory.
+
+http://www.jstor.org
+
+274
+THE
+
+ORIGINS
+
+Introduc tion
+Harmonic analysis is the study of the individual chords or
+harmonies in a piece of music, together with their use in
+succession to form larger units of phrases, periods, sections, or whole compositions.
+l1
+The foregoing definition is an accurate reflection of what is
+It is gencommonly meant by the term "harmonic analysis".
+eral enough to include methods which are specifically directed
+toward the analysis of traditional tonalmusic, as well as those
+which have extended that process to atonal or twelve-tone
+works. '-2 It also reflects a conception of harmony which is
+attitudes.
+based on certain eighteenth-century
+First, it overthe role individual chords and their immediate
+emphasizes
+
+275
+
+OF
+
+HARMONIC
+
+ANALYSIS
+
+DAVID W. BEACH
+
+connections
+of a musical
+play in the unfolding
+composition.
+This preoccupationwith
+harmony at the level of chord-to-chord
+is evident today in those analyses
+which rely on roman numerals
+as the sole means of identifying
+chordal successions.
+Second,
+it implies
+a separation
+of harmony from counterpoint,
+that is,
+a separation
+of chord from voice-leading.
+It is just this con*3
+to which Schenker objected
+so strongly.
+ception of harmony
+But despite
+his efforts,
+the general
+attitude toward harmony
+and harmonic
+has remained
+much the same as it was
+analysis
+two hundred years ago.
+The purpose of this paper is to examine the origins of harmonic
+as it is understood
+and practiced
+This means
+analysis
+today.
+an investigation
+of the earliest
+to explain
+the harattempts
+monic structure
+of compositions
+and the theories
+vhich
+these
+
+276
+The first analyses to be considered are
+"analyses" represent.
+those of Jean-Philippe Rameau (1683-1764), since his theories
+are generally regarded as the source of our modern concept of
+with the analyses of Gottfried
+harmony. Our investigationends
+Weber (1779-1839), since his use of roman numerals is the
+model for current methods of notating harmonies in relation
+to a tonal center.
+I Rameau and the Fundamental Bass
+One of the most important features of Rameau's theoretical
+writings is his attempt to show how all chords used in the music
+of his day are related to one of two fundamental harmonies. *4
+These harmonies are the perfect triad, which can be either
+major or minor, and the dissonant seventh chord, which is derived from the triad by the addition of a major or minor third.
+All other chords are shown to be derived from one of these
+two by inversion or by supposition.
+According to Rameau's
+definitionof chord inversion, all chords related by this principle represent the same harmony and thus have the same root;
+this concept is an important contribution to the development of
+harmonic theory. The chords of supposition are those which
+are formed by the addition of a third or fifth below the root of
+a dissonant seventh chord. This process of derivation was the
+direct result of Rameau's effort to explain the origin of chords
+larger than an octave, the limit he had set for fundamental
+this conchords.
+As will be seen in the following discussion,
+is the result of Rameau's interpretation of the ninth and
+cept
+He regarded these as harmonically rather than
+the eleventh.
+melodically generated, thus initiating a separation of harmony
+from counterpoint. :5
+To demonstrate his principles of harmony, Rameau invented
+This hypothetical
+the fundamental bass [basse fondamentale].
+bass line is derived from the sounding parts by taking the roots
+of the fundamental harmonies from which each successive chord
+The advantage of this abstract bass is that it
+is generated.
+indicates the relationship between successive chords (the harmonic progression) as well as the root of each generating harmony. In his TRAITE DE L'HARMONIE (1722), Rameau provides the following rules for the progression of the fundamental
+bass:
+of the fundamental bass
+Thus, the entire progression
+should involve only these consonances [the fifth and its
+the
+the fourth; the third and its inversion,
+inversion,
+Dissonance
+oblige us to make
+may sometimes
+sixth].
+
+277
+In addition to the
+the bass ascend only a tone or semitone.
+fact that this arises from a license introduced by the deceptive cadence. . .we may note that this ascending (but
+not descending) tone or semitone is the inversion of the
+seventh heard between the two sounds forming the tone or
+semitone. *6
+Rameau's use of this device to explain the harmonic structure
+of musical compositions (or parts of compositions) can be considered the beginning of harmonic analysis.
+However, it should
+be pointed out that his intention was not to analyze specific
+pieces of music, but rather to demonstrate the validity of his
+harmonic theories.
+In fact, there are only two instances in all
+of his theoretical works where the fundamental bass is given
+for an entire composition.
+The first of these-an
+analysis of
+in his TRAITE DE
+his own motet, Laboravi Clamans-appears
+L'HARMONIE. *7 The other is an analysis of the Monologue
+D'Armide from Lully's opera, ARMIDE; it appears in the
+NOUVEAU SYSTEME DE MUSIQUE THEORIQUE (1726).'-*8 For
+the sake of space, only the first of these will be considered
+here.
+The first part (mm. 1-54) of Rameau's analysis of his Laboravi
+Clamans is reproduced in Example 1. *9 Examination of the
+fundamental bass reveals that, for the most part, the harmonic
+conform to the rules quoted above. However, in
+progressions
+two places (mm.5-6 and 32-3) Rameau indicates descending
+by step; this directly contradicts his own rules.
+progressions
+At other places in the analysis, this same progressionis
+avoided
+by applying his famous rule of double employment of dissonance.
+of the sixThis rule allows for two different interpretations
+five chord on scale degree four in any key, depending upon the
+When it progresses
+to the dominant [dominantprogression.
+here in mm. 6, 8,11,23, 37, and 41-it is interpreted
+tonicj-as
+as the first inversion of the seventh chord on scale degree two
+in that key. The fifth, as the seventh of the fundamental harand the resulting progression
+is by
+mony, is the dissonance,
+to a tonic
+descending fifth. However, when it progresses
+chord-as
+here in mm. 22,40, 48, and 52-it is interpreted as
+a fundamental harmony, and the sixth, rather than the fifth, is
+the dissonance.
+Thus the resulting progression is by ascending
+fifth, rather than by descending second. This last progression
+is called an "irregular cadence" by Rameau. *10
+A clear example of double employment appears in mm. 22-23.
+The six-five chord on G in m. 22 is interpreted as a fundamental harmony, while the same chord in the following measure is
+
+278
+1
+
+EXAMPLE
+
+of his Motet,
+Rameau's
+Analysis
+Laboravi Clamans
+From the TREATISE ON HARMONY by Jean-Philippe
+tr. and ed. by Philip Gossett.
+Rameau,
+Copyright 1971,
+under
+Inc. All rights reserved
+Dover Publications,
+and International
+Pan American
+Copyright Conventions.
+of the publisher.
+Used by permission
+
+0
+
+.-4
+
+,;*111
+
+I
+
+<
+
+II
+
+.
+
+i
+
+.-4-
+
+--*
+
+1tt
+6 U-
+
+do _
+-
+
+-
+
+-.t i c:
+
+i
+
+- C-s -
+
+p> -4
+
+e
+vi
+
+c
+
+:| i
+
+R_0
+S.
+
+,,
+
+o l)
+
+?
+
+c
+
+o
+
+m,:
+
+a
+
+?
+,
+I
+
+I
+
+'
+
+'
+
+I
+
+[..
+
+?r
+
+-*
+
+. (
+
+aN ;i\
+_
+
+...F
+
+-
+
+I
+
+A
+
+'
+rrF r
+Labo-
+
+v
+
+ra-
+
+J
+
+,J
+
+f
+
+r
+
+me-
+
+-;
+
+ae.
+
+-
+
+r
+Labo-
+
+ra-
+
+Rau-
+
+cae
+
+-
+
+f ._
+vi
+
+fac-
+
+spe-ro
+
+De-
+
+In
+
+2--
+
+um
+
+-
+
+fauces
+
+cla-
+
+vf
+
+-
+
+-
+
+mans.
+
+y^ ;
+
+-
+
+ra-
+
+j
+
+f
+
+De-fe-ce-runt
+
+f~
+
+r
+
+J
+
+fau-ces
+
+me-
+
+ro
+
+me-
+
+Dum
+
+-
+
+-
+
+i
+
+dum
+
+a
+
+spe-
+
+roin
+
+J
+
+~. s.J
+4
+
+-
+
+ra-
+
+Labo-
+
+ae
+
+cae
+
+fac-taesunt
+
+a
+
+r rr:r
+4 J
+
+rf
+
+v
+
+7i
+
+cla-
+
+-
+
+-3'
+
+Rau-
+
+r r
+
+mans,
+
+9
+
+fauces
+
+s
+
+-
+
+mans
+
+cull
+
+r
+f_ r'?
+
+-
+
+_-
+
+,
+
+sunt
+
+fac-tae
+
+j J i jJ
+
+J
+J
+
+Rau-
+
+*^
+
+OA
+o-
+
+ae.factaesunt fauces fauces me
+
+coa-
+
+cla-
+
+spe-
+
+-
+
+mans
+
+*
+-
+
+-
+
+.'~ g4.
+J
+
+mans
+
+me-
+
+-
+
+;
+
+-L Lr -rii
+JrJA
+i -^ i
+
+JJJ
+ra-
+
+Labo-
+
+ae,
+
+cae
+
+vJ
+
+r r-:>+
+
+,
+
+*J0 ,J
+20
+
+Labo-
+
+s
+
+';rr r rr r?r
+
+r ^ r ~?Lr^ r
+
+9 rfr r rr
+,,
+
+me-
+
+mans.
+
+J J
+um. dum
+
+-'J;
+
+y :f F
+r
+ra-
+
+J
+me-
+
+r
+
+tfF r
+rr
+cla-
+
+tae sunt
+
+f rr F
+r
+
+-
+
+De- fe- ce- runt
+
+J j. ji J J
+
+4
+
+-
+
+cla-
+
+-
+
+-
+
+mans.
+
+f
+
+*Sf,
+
+Frr r
+r
+De-fe-ce-runt
+
+'
+
+r rrr
+
+14
+1r
+.')f' J ~~~F
+
+o-
+
+r
+r F
+
+culi
+
+r
+
+r ''
+F~~~~~~
+
+i. FF r
+
+-r
+
+-
+
+f r r rr'
+
+r r
+
+r
+
+r r '"
+t7 'jO,^jJrr cla-mans, clamans cla-
+
+f -mans.
+
+r
+
+ce-
+
+sunt fau-ces me-
+
+cae fac- ta
+
+Rau-
+
+um.
+
+runt
+
+4
+
+r
+
+i,
+
+4_ J4
+
+L4.
+
+fau-
+
+ae.
+
+^
+
+(J
+
+o- cu-h me-
+
+ces,
+
+f
+
+mans,
+mans.mans.
+
+ro
+
+:mans-
+
+frr r
+
+rrrf ff
+
+f
+cu-li
+
+Defecerunt o-
+
+me- i dum spe- ro in
+
+4~
+r 464Fr
++jJ r J rr J rr J Jrb rr
+Fr
+rF
+;J s dum spero.spero.spero-O rr ~ spe-ro.dum
+in Deum me-um.dum
+ro.
+
+r
+
+F Fr r r
+r
+ae, fac-tae sunt
+
+f
+r
+
+r
+
+9,r
+De-
+
+o-
+
+l
+r"
+um
+
+me-
+
+3: r
+
+J J
+
+De-fe-ce-runt
+
+ces
+
+fac-tae sunt
+
+cae
+
+Rau-
+
+J
+44J
+
+fau
+
+'t
+t
+
+'- -
+
+- rr
+De-fe-
+
+ae.
+
+rr
+
+fau- ces
+
+r
+
+r
+De-um me-
+
+3
+,:FF J ,rJJTi*
+r FfFF
+^'r
+
+in
+
+urm me-
+
+De-
+
+um me-
+
+r r
+
+J
+r J j 4-1J .j
+
+ro. dum spe-ro inDe-um me-
+
+dum
+
+f
+
+j
+F
+
+spe-ro in De-um
+
+-i
+spe-
+
+spe-
+
+ro.
+
+r r r r r6rr r r r r r J
+F,r -rJ
+r fri r j rrrr
+r
+
+spe-ro spe-on
+sperspe-ro.
+
+'
+
+u
+
+u
+
+;
+j 50 FNir
+
+f^r66rr r r p^ r
+me-
+
+um. Labo- ra-
+
+-
+
+-
+
+-2
+
+J_
+J4 J 4_J
+
+um.
+
+spe-
+
+De-
+
+-
+
+me-
+
+cu-li me- i dum
+
+me-
+
+ro
+
+spe-
+
+'fr
+
+n
+
+rF
+
+I
+
+7
+
+76
+
+r
+
+,
+
+um.dum spe-
+
+if
+
+JJ
+
+J .4J
+
+spe-rd, spe-ro.
+
+J
+
+spe-ro in De-um
+
+F
+:r r r r rr
+spe-ro in De-um me-
+
+me-
+
+um. dum spe-
+
+ro.dum
+
+i
+
+. r;
+9a.
+
+;
+T
+
+F
+4
+Jr r
+
+u
+
+4-
+
+2
+
+-
+
+b-
+
+44-
+
+2
+
+2
+
+i-
+
+-E
+
+-,
+
+E
+
+2
+
+4
+
+m
+
+i
+
+ii? :
+
+2
+
+5
+
+-
+
+@
+
+W.
+
+0
+
+14
+
+-
+
+0
+
+,
+
+o
+
+_ -
+
+*)( z2zL
+
+m
+_?
+
+i
+
+l
+
+l-
+
+I
+._
+(S
+
+-
+
+^
+
+~
+6
+
+(--
+
+:-:-"
+z-~~~~^
+
+?
+
+-
+
+&
+
+282
+of an E7 chord
+as the first inversion
+explained
+similar
+situation occurs in mm. 40-41.
+
+in d minor.
+
+A
+
+theories
+is his attempt
+feature of Rameau's
+Another important
+Examto explain the harmonic
+origin of notes of decoration.
+1 reveals,
+for inbass in Example
+ination of the fundamental
+haras two separate
+that he interprets
+stance,
+suspensions
+and the chord of resolution.
+chord of suspension
+monies-the
+is shown as two
+the 7-6 suspension
+In m. 10, for example,
+Here the 7 (a2)
+bass.
+in the fundamental
+harmonies
+separate
+rather
+to the harmony,
+is given the status of a note fundamental
+6 (g2).
+Such
+the following
+than that of a note which displaces
+that
+the premise
+an interpretation
+is possible
+only by accepting
+melody has its roots in harmony.
+are explained
+Most chords of suspension
+by Rameau as arising
+Thus a ninth chord is shown
+of supposition.
+from the process
+chord;
+from the addition of a third below a seventh
+to result
+its root is the same as that of the seventh chord from which it
+can be seen
+of 9-8 suspensions
+is derived.
+(His interpretation
+followed
+and 44; ninth chords
+in mm. 9,12,16,20,30,34,
+by
+And an
+and 45.)
+in the bass occur in mm.25,43,
+changes
+eleventh (fourth) chord is formed by the addition of a fifth below
+a seventh chord; its root is also the same as that of the chord
+of
+his interpretation
+This explains
+from which it is derived.
+chord in m. 53. -*11
+the seven-four
+fifth is the
+of the chord of the augmented
+Rameau's explanation
+same as that of the ninth chord, except that it can occur only
+It is formed by the addition of
+on the mediant of a minor key.
+seventh
+chord, whose root it asa third below the dominant
+of the linear
+5,-6
+his interpretation
+This explains
+sumes.
+in m.4 and mm.26-27.
+progressions
+his conception
+reflects
+of suspensions
+Rameau's
+explanation
+The chord,
+from counterpoint.
+of harmony as being separable
+with
+is considered
+from its context,
+synonymous
+as isolated
+error in his approach to muthis is a fundamental
+"harmony";
+had a
+his theory of 'supposition
+sical syntax.
+Unfortunately,
+of the eighteenth
+century. -12
+strong influence on other theorists
+are
+In fact, traces of this theory and the concept it represents
+in this century.
+still present
+II Kirnberger's
+The next
+velopment
+
+Contribution
+
+to Harmonic
+
+Analysis
+
+to the decontribution
+to make a significant
+theorist
+was Johann Philipp Kirnberger
+of harmonic analysis
+
+283
+is his
+theories
+The focal point of his harmonic
+(1721-1783).
+and
+of the distinction
+between essential
+definition
+[wesentlich]
+a susThe latter (e.g.,
+dissonance.
+non-essential
+[zuflllig]
+which stands in the place
+as a dissonance
+is defined
+pension)
+of a consonance;
+its resolution
+normally occurs before a change
+is one which
+dissonance
+of harmony.
+an essential
+By contrast,
+and thus should be
+does not stand in the place of a consonance,
+disThe only essential
+considered
+as part of the harmony.
+the
+which represents
+sonance
+is the seventh
+(or an interval
+occurs with
+of a chord); its resolution
+seventh in the inversion
+is an important
+a change of harmony.
+This distinction
+part of
+of chord classification.
+to this system,
+his system
+According
+all chords
+are derived
+from two fundamental
+used in music
+essential
+triad and the dissonant
+the consonant
+harmonies,
+All other chords
+are related
+to these two by
+seventh chord.
+and (2)
+one or both of the following
+(1) inversion;
+processes:
+of a fundamental
+of one or more members
+chord
+displacement
+*13
+(non-essential
+dissonance).
+of Kirnberger's
+From this brief description
+method of classito some extent
+it is clear that he was influenced
+fying chords,
+He incorporated
+the theory of chord inideas.
+by Rameau's
+all
+version
+related
+into his own system
+and, like Rameau,
+harmonies.
+chords to two fundamental
+Despite these similaridifferences
+between their
+ties, there are a number of important
+theories.
+For example,
+to the phenomenon
+their approaches
+of suspension
+to Rameau's
+are totally different.
+According
+of this type of dissonance,
+the chords of suspension
+explanation
+and resolution
+are two separate
+harmonies.
+howKirnberger,
+a single harthe two chords as representing
+ever,
+interprets
+This is an important
+Their theories
+also
+distinction.
+mony.
+differ greatly on a more abstract level.
+While Rameau sought
+for musicalpheto find a mathematical-acoustical
+explanation
+in the practical
+tradition of the
+followed
+nomena,
+Kirnberger
+difference
+It is because of this conceptual
+figured bass school.
+that Kirnberger
+critic of Rameau's
+was an outspoken
+theories,
+despite his obvious debt to them. '14
+also borrowed
+the concept of the fundamental
+bass
+Kirnberger
+from Rameau.
+he did not utilize it as Rameau
+Quite naturally
+of harmony.
+his own principles
+had, but rather to demonstrate
+*15 Thus, it is possible
+to obtain a clear picture of the differences
+between their harmonic theories simply by comparing
+their analytic applications
+of this device.
+
+284
+Kirnberger's
+
+Analysis
+
+of his Fugue
+
+in e minor
+
+This analysis
+was originally
+at the end of the first
+published
+of Kirnberger's
+volume
+DIE KUNST DES REINEN
+SATZES
+in Example
+2a. The analysis
+itself is
+(1771); it is reproduced
+in the form of three bass parts added below the actual
+presented
+The first of these is a figured bass,
+and it repcomposition.
+of the chords as they apresents
+interpretation
+Kirnberger's
+Below that he indicates
+the non-essential
+pear in the music.
+and unauthentic [uneigentlich]
+dissonances
+seventh
+(suspensions)
+chords. '16 At the bottom is the fundamental
+bass, which repof the harmonic
+of the
+resents
+his interpretation
+structure
+of chord classificaof his system
+The basic principles
+fugue.
+tion are clearly
+by this method of presentation.
+displayed
+of the fugue itself is the fact that it does
+An unusual feature
+even in a
+this is surprising,
+not contain a single modulation;
+feature is Kirnof this length.
+Another peculiar
+composition
+of the
+of the harmonic
+implications
+interpretation
+berger's
+of the melodic
+Most striking is his interpretation
+fugue subject.
+of the cl
+His "harmonization"
+succession
+c~-a# in mm.4-5.
+of an A major to a C major
+in the direct progression
+results
+The C major chord is
+triad, which is unusual in the style.
+fifth.
+related to the following one by the interval of a diminished
+have been avoided,
+could easily
+apAlthough this progression
+for that situahe preferred
+it to other possibilities
+parently
+the composition.
+tion *17; it appears
+consistently
+throughout
+and 51-52.)
+However,
+40-41,
+(See mm. 12-13,
+20-21,
+32-33,
+of mm. 6-7 does not remain the same in subhis interpretation
+of the subject.
+statements
+sequent
+Compare m. 6 to m. 14 or
+root proor m.43.
+The ascending
+and m.7 to m.23
+m.34,
+one in mm.
+a descending
+by step (mm. 6-7) becomes
+gression
+and 53-54.
+42-43,
+34-35,
+22-23,
+14-15,
+of this fugue
+of the opening measures
+A different interpretation
+was given some years later by A. F. C. Kollmann in his treatise,
+A NEW THEORY OF MUSICAL HARMONY (1806); it is reproavoids the root proHere Kollmann
+2b.
+duced in Example
+fifth between mm.4 and 5. His treatby diminished
+gression
+after the
+follows
+ment of the a# as an appoggiatura
+naturally
+this interin mm. 2 and 4. However,
+suspensions
+preceding
+since
+for Kirnberger,
+would not have been possible
+pretation
+be prepared.
+dissonances
+that all non-essential
+he required
+This is a weak point in Kirnberger's
+system of chord classification.
+
+285
+EXAMPLE
+
+2a
+
+Kirnberger's
+
+of his Fugue
+
+Analysis
+
+in E Minor
+
+ir rrI
+
+I ,f I
+
+*
+
+4+
+
+J
+
+I
+
+}
+Yi.
+
+I I~ I Ir
+
+I
+
+r
+
+t
+
+I
+
+I
+
+I
+
+I
+
+3
+6
+
+I
+
+I
+
+I
+t7
+
+7
+
+?
+,^ if~ir ir 6iifr
+L^
+^
+J,&
+,LAU JiJ,U
+jj
+..L
+.:.
+^r
+'
+^rrrrh r*rrirr'TT
+44
+
+!,
+
+*^''t
+7
+
+2$\
+
+IJ
+'
+
+k*
+
+I[
+
+1
+9%
+
+Ir
+,~*fr !
+
+* I,
+'
+
+7
+
+b
+
+J1 1 1
+
+t;
+!"
+
+ir':'i, Irr
+
+SI
+
+"
+
+1
+
+1~~~~~~~~~~~~~~
+
+3
+
+I r.,l
+v
+
+v
+
+2S6
+
+I
+T&[Z; J *rr~~~~~~~f''111 1P I. f
+4
+/
+
+r tl:_t
+[ t
+
+IT
+
+3
+7
+
+q
+7
+
+f
+
+4
+
+t
+
+r IJ
+
+-
+
+-
+
+3
+
+4
+
+$j7
+
+1
+rrI-J
+
+'J
+
+L J'
+
+I,r
+
+*f
+
+P'
+
+r
+
+J
+
+7
+
+~7
+V
+
+i,r
+
+I
+
+I
+|
+
+|
+
+J JgI
+
+t
+
+7
+
+:
+14i'
+
+'
+
+l
+
+7
+
+I
+:1
+
+4 -ri
+
+i
+
+l
+
+3
+7
+
+1TJ
+
+I
+
+I -
+
+i
+
+l
+7
+
+q
+
+II
+
+47 *
+
+lr ,-
+
+it
+
+3b?
+lUk
+
+i
+
+q
+
+bq
+
+r
+FI" r .J .,,7-.F-~tj,
+
+~
+
+vylI
+
+,
+
+3if I
+
+q
+' 8
++
+
+X
+
+t
+
+#-
+
+- ,#
+
+I
+1
+
+-A ]
+
+I
+C
+
+--4
+
+1
+
+287
+
+l;r'
+
+-s'
+
+4
+
++
+-*r btj ^ri
+i
+14
+
+*t-r1
+
+t35A
+
+r
+
+r
+
+rrrrr
+
+t
+
+-7
+
+b
+
+19
+
+q
+'7
+1:17
+
+I-~~4 hf
+
+7 q7
+-7 -
+
+6
+
+r
+
+9
+
+7
+
+7
+
+l*1
+
+C
+
+i
+
+b
+
+I
+
+s
+
+i
+
+I J
+
+ff
+
+8:
+
+'JL
+
+J
+
+,
+
+7
+
+r k:
+:I
+
+f
+
+7
+
+t
+
+5'
+7
+b
+
+b
+
+-A-
+
+a^-riT.
+
+U
+
+j
+
+?7
+
+H
+
+7
+
+U
+
+t,~
+
+'I Lh q:
+
+7
+.l7
+
+b
+
+h
+
+q
+
+xrmXr
+S^^'
+
+ri^I
+
+34"
+
+~ki
+
+B
+
+*/ S
+
+,
+
+',
+
+r' i
+
+r"r
+
+?lT^1
+
+-0-
+
+-
+
+2XE
+
+ii,
+
+-$'
+
+8? $rl
+'7
+
+J,~~IJliJ
+
+ls~~J~jJJk
+J~
+
+:i
+
+^7
+
+L
+
+-4
+
+Ii
+LtfU
+rT, rm"-r
+r
+
+fj
+
+-
+
+C
+
+J
+
+pij-
+
+^Mr
+
+6
+
+'
+
+J 1!
+
+'
+
+.J"-i. 7
+1i
+
+7
+
+r
+
+S
+
+?i^i
+
+i
+
+i
+
+X ,ri L.,
+
+rT
+!, r '!i"
+
+u
+
+.
+
+-e
+
+~'mm'"T
+
+^ Tr
+w
+
+b44
+
+4t+
+
+*T
+I
+
+r-r
+<:hc
+
+tIJI1*$
+
+AJ riilr
+
+47 -
+
+I
+4
+
+i
+
+3
+
+b
+
+7
+Ir
+
+r
+
+,
+
+3rR3
+t t7 I
+
+i
+
+- 1I
+
+289
+f551
+
+.
+
+'41[7
+
+7
+
+60|
+
+tr.
+
+J1aI,
+
+~~1~
+
+~~ ~~
+31f3
+#
+
+7
+
+-
+
+7
+
+~~~~~3
+#t
+_-
+
+i.
+
+9qw
+
+8-r
+
+-+
+
+EXAMPLE
+2
+
+b
+
+A NEW THEORY
+Kollmann.
+Plate XX, Number 4
+
+OF MUSICAL
+
+HARMONY,
+
+290
+of
+the treatment
+conservative
+attitude
+toward
+Kirnberger's
+in his analysis.
+dissonance
+is evident elsewhere
+For example,
+in m. 37 he indicates
+a change of harmony where no change ocHe is forced into this interpretation
+curs.
+by his own rules;
+the gl, which is approached
+as
+by leap, cannot be considered
+a decoration
+of the following
+f#. And in m. 56, he interprets
+chord rather
+than
+the six-four
+on the downbeat as a consonant
+as a dissonant
+one (a non-essential
+which resolves
+dissonance),
+He does this beon the third beat.
+to the five-three
+eventually
+as a suscause the sixth is approached
+by step, not prepared
+Thus he is forced to accept this chord as the consopension.
+chord on the second beat.
+of the suspension
+nant preparation
+which
+was better known for two analyses
+Ironically,
+Kirnberger
+he did not do, but which were done under his supervision
+by
+are of J. S. Bach's
+These analyses
+his student, J.A. P. Schulz.
+KLAVIER I) and
+Fugue in b minor (DAS WOHLTEMPERIERTE
+in a minor,
+Part 1 (DAS WOHLTEMPERIERTE
+his Prelude
+of the first of these is reKLAVIER II); the opening measures
+under
+3a.
+Both analyses
+were published
+produced in Example
+name at the end of DIE WAHRE GRUNDSATZE
+Kirnberger's
+Schulz disclosed
+DER HARMONIE
+ZUM GEBRAUCH
+(1773).
+was the real author of that
+later that he himself
+some years
+work. *18
+
+Schulz's
+
+Analysis
+
+of J. S. Bach's
+
+Fugue
+
+in b minor
+
+is patterned
+is presented
+The method in which this analysis
+On the second sysof his fugue.
+after Kirnberger's
+analysis
+which
+a detailed figured bass realization,
+tem, Schulz provides
+and contrapuntal
+of the harmonic
+his interpretation
+represents
+it was added to
+In his own words,
+of the fugue.
+implications
+bass all the more
+of our fundamental
+make "the correctness
+all chords containing
+Below that he indicates
+evident" (p. 54).
+seventh.
+the "unauthentic"
+non- essential
+dissonances,
+including
+which shows his interAt the bottom is the fundamental
+bass,
+structure.
+of the fugue's harmonic
+pretation
+of the various levels of analysis reveals that Schulz
+Examination
+In
+as harmonic
+linear elements
+often interprets
+components.
+to his overly
+the reason for this can be attributed
+many cases,
+For examof dissonance.
+strict attitude toward the treatment
+dishe does not allow for unprepared
+ple, like Kirnberger,
+and "unauthentic"
+sevenths;
+the "essential"
+sonances,
+except
+But
+in his figured bass realization.
+reflected
+this is clearly
+of this fugue, parcharacteristics
+one of the most important
+
+291
+EXAMPLE
+
+3a
+
+of J. S. Bach's
+
+Schulz's
+Analysis
+1-16
+Measures
+
+-
+
+'c
+
+,c J
+
+IJ J
+
+J T
+7
+"/
+3
+
+ir".
+
+j5'?,.1
+
+/'7 7
+7'7
+
+1J
+
+J j
+
+'/
+7'7
+
+-7
+
+74
+
+-
+
+-I
+
+I
+
+!
+
+j
+
+.
+
+'"
+iJ-J
+
+4
+
+-
+
+-
+
+>4J <_y
+
+J ,1 l
+
+J
+
+It
+
+=
+
+L
+
+r7
+9'7
+
+'7-
+
+*
+
+,
+
+I_
+
+j
+
+7
+
+7
+3
+
+c
+
+tr
+
+i'r
+
+j -J Jj1
+
+7
+
+~
+
+in B Minor,
+
+Fugue
+
+97
+
+..-
+
+'
+
+5
+
+-
+
+'7r
+7
+
+7
+
+I5-J
+
+-
+
+I.
+
+r,j
+il.
+
+7
+
+292
+
+I r r-rr4f3
+P
+
+F--111
+io 1rj
+
+fi-r3
+
+*
+-
+
+7
+!1
+3rJj61
+
+3
+I'tI
+
+;
+
+l~b
+a
+
+3t
+
+'1S"5q
+
+3*
+
+X87
+
+q-
+
+*
+
+4'
+
+4
+
+j
+AS:^f 1^t7 IJ J "7 J
+47
+
+J 1J
+
+4
+7
+
+8
+
+7
+
+#3
+7 ~~~b
+7
+
+7I
+
+7
+'7
+
+--
+
+Z
+7
+
+K
+
+A
+
+5b
+'7
+
+9
+
+4'
+
+-
+
+t
+
+'7
+
+i^
+
+L
+
+j.
+.
+
+7
+
+293
+
+-
+
+1t-j3,-
+
+'~3gnh
+4tJ
+
+7
+
+:
+
+j
+
+87
+
+*
+
+1
+
+T
+1
+
+1t JJ I
+,
+
+'r-_ _ _J-r
+"
+-
+
+.
+
+L
+
+^J^'
+
+__
+
+I
+
++--4#
+
+1
+
+~
+
+tt Ja
+
+;4#* i7?
+
+-
+
+J
+',-_ j
+2
+
+.
+
+1
+
+Ir
+
+K3:f4
+7 7
+
+b
+
+-
+
+i
+
+294
+ticularly the subject, is the use of unprepared "non-essential"
+dissonances (appoggiaturas).
+The result of Schulz's misinterpretation of these notes is that his fundamental bass contains
+more harmonies than are implied in the music.
+An alternate solution to the opening measures of this piece is
+given in Example 3b. Parentheses indicate those notes which
+are foreign to the harmony.
+Note that fewer harmonies are
+shown in this fundamental bass than in Schulz's analysis; compare for example the two solutions of m. 7. But no matter how
+are shown in a fundamental bass,
+many (or how few)harmonies
+the problem of indicating the relative importance of the indiThis is one major drawback
+vidual harmonies still remains.
+in using the fundamental bass as a means of indicating the harmonic structure of a composition.
+In two places (mm.4 and 13), Schulz uses a grace note in the
+fundamental bass to indicate that a harmony is missing in the
+He does this to justify the descending
+actual composition.
+which result from his interpretastepwise root progressions
+tion of the harmony at these points. `19 The difficulty arises
+from his interpretation of the first half of the third beat in those
+two measures as representing C#7 chords; this reading is the
+of decorative notes as harmonic
+result of his interpretation
+tones.
+Alternate solutions of these two measures (and m. 10) are given
+by Kollmann in his treatise, A NEW THEORY OF MUSICAL
+HARMONY (1806); they are reproduced in Example 3c. Kollof m. 4 correctly shows the second half
+mann's interpretation
+of the measure as representing a single harmony. However,
+his reading of the second half of m. 13 is by no means an imIn addition to repeating Schulz's
+provement on Schulz's analysis.
+of the harmony on the first half of the third
+misinterpretation
+beat, Kollmann indicates Schulz's grace note as a regular harmony in the fundamental bass. Furthermore, he adds a passing
+the part containing the subjectnote (c#) to Bach's fugue-in
+It is curious that his analysis of
+to corroborate his analysis.
+that
+these two measures would be so different, considering
+their motives are so closely related (as the opening measures
+of the harof the tonal answers).
+Finally, his interpretation
+in the second half of m. 10 makes no more sense than
+mony
+does Schulz's.
+(See the solution of that measure in Example
+3b.)
+
+295
+The Influence of Kirnberger's
+
+and Schulz's Analyses
+
+Kirnberger's (and Schulz's) approach to harmonic analysis had
+a direct influence on a few theorists of the late eighteenth and
+This influence is most evident in
+early nineteenth centuries.
+the treatises of Augustus Frederic Christopher Kollmann (17561829), to whom reference was made above. -:20 In the first of
+his works, AN ESSAY ON MUSICAL HARMONY (1796), Kollmann provides an analysis of the first twenty-two measures of
+of a
+a Handel fugue in a minor. :'21 The analysis consists
+thorough-bass and a fundamental bass added below the fugue;
+the latter clearly reflects Kirnberger's system of chord classification. He follows the example of both Kirnberger and Schulz
+(and even Rameau!) in choosing a fugue, an obviously contraIn a later
+puntal form, as the subject for harmonic analysis.
+work, A NEW THEORY OF MUSICAL HARMONY (1806), Kollmann provides analyses of abstracts from the last movement
+of his Concerto, Opus 8 (plates 32 and 33) and mm.26-79
+of
+In
+J. S. Bach's Chromatic Fantasy in d minor (plates 34-36).
+both cases, the analysis is presented in the form of an added
+realization
+thorough-bass
+("explanation") and a fundamental
+bass ("proof").
+Another who was influenced by Kirnberger and Schulz in this
+respect is Johann Bernard Logier (1777-1846). --22 In his
+treatise, A SYSTEM OF THE SCIENCE OF MUSIC AND PRACTICAL COMPOSITION (1827), Logier provides analyses of the
+Largo from Corelli's Concerto in D, Opus 6, No. 1 and the
+second movement of Haydn's String Quartet, Opus 76, No. 1.
+They appear in a section entitled "Analyzation". '*23 The analyses are presented in the form of an added fundamental bass,
+above which Logier provides figures for the essential and nonessential dissonances (not all of which appear in the music!).
+He also provides comments about modulation, phrase strucAdditional
+ture, and other important features of these pieces.
+analyses by Logier are contained in his THEORETICAL AND
+PRACTICAL STUDIES FOR THE PIANOFORTE (1816), a series
+of twelve studies of selected compositions by Corelli, Handel,
+Haydn, Mozart, Beethoven, Clementi and others.
+III Gottfried Weber and Roman Numerals
+One of the most important contributions to the development of
+harmonic analysis was made by Gottfried Weber (1779-1839).
+In the first volume of his VERSUCH EINER GEORDNETEN
+THEORIE DER TONSETZKUNST (3 volumes, 1817-21), Weber
+
+296
+
+EXAMPLE 3b
+An Alternate
+
+Solution
+
+;
+
+-
+
+"J
+
+-
+
+-
+
+i
+r
+
+r
+
+I
+-r'
+IF,tI
+
+j4
+
+I
+
+jrf
+7
+
+7
+
+7
+
+8
+
+1
+
+Frr,:
+
+f,r
+
+I-,: r t
+
+I -
+
+rrI I
+
+r 1r
+17LrEJL
+
+'~r)f
+
+"'.L --fl'FF'Lrf"'I':'
+7
+^^
+
+'
+
+rt
+
+;:,,,:'T'
+8
+
+.r
+7
+
+~,s< -
+
+tJ ~
+
+.
+
+I
+
+I
+
+~['L_.LLj'"r'
+
+7
+
+:.,
+
+7
+
+7
+
+7
+
+*$
+
+_
+_. ,.
+
+r
+
+_
+
+i..0: ,r _
+
+_
+
+._
+
+, _,.
+
+.
+
+l
+
+297
+(4JJ)J!#7
+
+r2?-
+
+7
+4
+
+7
+
+7
+
+*
+
+Js74 r
+
+r
+
+r ri-s-i IL r
+
+J
+
+A
+J
+
+?I
+
+JP j;
+
+'
+
+.-. .
+
+n--
+
+I7
+
+ry 8
+
+I
+
+I
+r7 r
+
+i J
+
+)..
+
+EXAMPLE
+
+3C
+,- I
+
+i :*
+
+i
+io-
+
+L-IE
+
+j
+
+Jr,
+.. ?'.
+
+.
+IJ'
+
+A NEW THEORY OF MUSICAL
+Kollman.
+1-3
+Plate XX, Numbers
+HARMONY,
+
+i 10
+
+I I
+
+JW
+
+j'
+
+n.
+
+r
+
+i-
+
+t'--t
+rr
+-Ib
+3
+
+7
+
+-t:
+
+7'
+f5 4
+
+4
+3 3
+
+7
+^
+
+-
+
+-
+
+I
+
+F
+
+rI
+
+L
+
+-rAr
+
+I
+
+298
+introduced a new method of indicating fundamental harmonies.
+In place of the fundamental bass, he proposed the use of roman
+numerals to indicate harmonies in their relationship to a tonal
+center. '24 The advantages of this system over the fundamental
+bass are clear.
+First, the roman numeral indicates both the
+to a tonic.
+(The
+root of a chord as well as its relationship
+Thus the confundamental bass does only the first of these.)
+cept of harmony is related to that of key. Second, according
+to Weber's system, the roman numeral also indicates the type
+of chord involved.
+Upper and lower case numerals indicate
+and a diminished triad
+major and minor triads respectively,
+is designated by a lower case numeral with the superscript ?.
+Major and minor sevenths are designated by the subscripts t
+and 7 respectively.
+Thus the triads and seventh chords in any
+major and minor key are designated as follows. *25
+Major Key
+I
+and
+It
+
+i
+iio
+
+and
+
+ii?7
+
+IVt
+
+iv
+
+"
+
+iv7
+
+V7
+
+V
+
+"
+
+V7
+
+vi7
+
+VI
+
+"
+
+VIt
+
+vii07
+
+vii?
+
+ii7
+
+iii
+
+"
+"
+"
+
+IV
+
+"
+
+V
+
+"
+
+vi
+
+"
+
+viio
+
+"
+
+ii
+
+Minor Key
+
+iii7
+1117
+
+In the last two volumes of his treatise, Weber makes use of
+roman numerals to indicate his harmonic analysis of excerpts
+One of these, which appears at
+from numerous compositions.
+the end of Volume 2, is his analysis of The March of the Priests
+of Isis from Mozart's MAGIC FLUTE; it is reproduced here in
+Example 4. Examination of this analysis reveals that Weber's
+conception of harmony is much more like Kirnberger's than
+Rameau's. Note for example his interpretation of the 9-8 suspension in m. 6 (or the 4-3 in m. 12) as representing a single
+However, like both theorists, he shows a tendency
+harmony.
+In
+to interpret too many chords as fundamental harmonies.
+this respect, note his interpretation of the parallel sixth chords
+in mm. 2-3 and mm. 18-19. Here he has assigned a roman numeral to every chord, thus implying that each functions as a
+separate harmony. But in reality the chords in m. 3 (or m. 19)
+extend a single harmony (G) as preparation for the following
+dominant. *26 This analysis also demonstrates Weber's method
+of relating all harmonies to their proper tonal center; as a re-
+
+29g
+suit, the analysis outlines his interpretation of the composition's modulatory scheme. But many of the so-called modulations indicated involve only two or three chords; in fact, there
+are thirteen separate key changes indicated in the last twenty
+measures.
+This points to a weakness in his system, namely,
+its failure to differentiate between actual modulation and the
+use of "secondary dominants" to stress important harmonies.
+Weber's approach to harmonic analysis had an immediate effect
+on other theorists. :*27 This influence grew steadily to the point
+where the use of roman numerals became an integral part of
+harmonic theory. One need only thumb through the standard
+textbooks on harmony published in the past twenty-five years
+to see this. In fact, one would find that, with few exceptions,
+there has been little change in the approach to harmony and
+harmonic analysis since Weber's time. For this reason, there
+is no need to dwell any further here on his contributions.
+Concluding Remarks
+In the preceding discussion,
+an attempt has been made to indicate the roles played by Rameau, Kirnberger and Weber in
+the formulation of our present concept of harmony and harmonic
+analysis.
+Many of the comments have stressed the weaknesses
+in their approaches and the negative aspects of their influence.
+This does not imply that their theories are without merit; rather,
+it should be stressed that all three made significant contributions to harmonic theory.
+it is important to
+Nevertheless,
+realize that Rameau's theories are based on the premise that
+This
+harmony, as a science, is separable from counterpoint.
+led him to consider the individual chord in isolation from its
+context; this is a fundamental error. By contrast, Kirnberger's
+approach to harmony, which followed in the tradition of the
+But because of
+figured bass school, was far more practical.
+his strict attitude toward the treatment of dissonance, he also
+lost sight of the interaction between harmony and melody.
+Finally, it has been noted that Weber's use of roman numerals
+is an improvement on the fundamentalbass as a means of showing
+the fundamental harmonies in a composition.
+But like Rameau
+and Kirnberger, he was interested in showing only the most
+immediate harmonic connections.
+Twentieth century approaches to traditional harmony and harmonic analysis are, for the most part, related directly to
+The one
+eighteenth century attitudes toward those disciplines.
+major exception to this is lound in the works of Heinrich Schenker
+
+300
+EXAMPLE
+
+4
+
+of Isis
+
+Weber's Analysis of The March of the Priests
+from Mozart's MAGIC FLUTE
+
+51
+
+4-1 j jw
+
+Is6 4 f
+F:
+
+I
+
+C:
+
+I
+
+r .1. "
+
+r r,
+r
+I
+
+---I1
+
+C
+
+4j
+
+r
+V t
+
+r?I
+
+!.
+
+ii iiD IV A V7
+
+I C: I
+
+vi
+
+41 L 1
+ii
+
+I
+
+~
+
+vi
+
+ii
+
+I
+
+V7
+
+g: i
+F: V
+
+I
+
+V 7
+
+I 1VI
+
+F:
+
+V
+
+Ii
+
+I
+
+F: V7
+
+V7
+
+301
+
+I
+
+ii7
+
+C: V 7
+
+^ .
+
+aJ
+.- , -2 r 'r
+rr:
+
+J
+Yb tJ.J
+F:
+
+<
+-t
+
+-A
+
+r, r
+rr
+
+e;,
+v1
+
+&f
+
+1r.
+
+-,
+
+-
+
+r
+
+'
+
+I
+
+r
+
+.1
+
+J- L
+
+g :I
+
+F: V
+
+I
+
+V7 vi
+
+F: i Il IV vi
+
+V
+
+7
+
+I
+
+I
+
+V
+
+vi
+[IVI
+
+1i7
+
+m25
+
+F: V[7]
+
+I
+
+V7 I
+
+7r:
+
+'7'
+
+IL
+F:
+
+ii I
+
+'J
+
+F:
+
+:, ,
+
+I.
+ii V
+
+7
+
+I.
+
+I
+
+V
+
+EXAMPLE 5
+
+Schenker's
+Andante
+
+of the Theme from
+Analysis
+in F Minor
+con variazioni
+
+From the An
+Copyright 19
+of the publish
+representative
+A
+
+A
+
+5
+
+4
+
+O,bb .
+V Uk
+
+r
+
+_-
+
+G
+v
+
+Hayd
+
+A
+
+A
+
+2
+
+3
+
+t.
+
+10~~,
+11
+
+K3 -
+
+Measure t
+
+6
+
+l
+
+12
+
+16
+
+17
+
+18
+
+Middleground
+
+I
+~Foreground:~
+
+-4IV
+F~oreground?
+IV~ - IV~x
+
+I~
+
+V" I --
+
+(III~)
+(III)II:?
+
+II
+
+i
+v, 1 -
+
+2
+
+303
+and his followers.'*28
+In a certain sense Schenker's
+(1868-1935)
+a reaction against the traditional
+theories represent
+approaches
+to tonal phenomena.
+one of the most important
+*'29 In fact,
+of his theories
+is that they show the relationship
+features
+between harmony and counterpoint
+as they operate within a tonal
+of the theme
+context.
+To demonstrate
+this, Schenker's
+analysis
+from Haydn's Andante con variazioni
+is reproduced
+here
+in
+5. *30 The lower graph shows the contrapuntal
+strucExample
+ture of the theme,
+and the roman numerals
+below it indicate
+the main harmonies
+and middleground
+at the foreground
+levels.
+The skeletal
+structure
+is shown in
+[Ursatz] of the composition
+the upper graph.
+The superiority
+of this approach to analysis
+would seem obvious-it
+is capable of showing
+the interaction
+between harmony and counterpoint
+at various interrelated
+levels.
+It is significant
+that an increasing
+number of musicians
+have
+of musical
+strucadopted Schenker's
+approach to the analysis
+ture over the past few years.
+This would seem
+to indicate
+a
+belong-needed
+change in our attitude toward the relationship
+tween harmony and counterpoint.
+
+REFERENCES
+1
+
+A. TillmanMerritt,
+"Harmonic Analysis," HARVARD DICTIONARY OF MUSIC,
+2nd edition, revised and enlarged (Cambridge, 1969), 367.
+
+2
+
+See, for example, Paul Hindemith's analysis of Schoenberg's KLAVIERSTUCK
+Op. 33A(mm. 19-29)inhis CRAFT OF MUSICAL COMPOSITION, Book I (1937).
+English translation by Arthur Mendel (London, 1942).
+
+3
+
+Schenker's objections to traditional music theory are clearly expressed in his
+essay, "Rameau oder Beethoven?
+Erstarrung oder geistiges Leben in der
+Musik", DAS MEISTERWERK IN DER MUSIK, JAHRBUCH 111(1930). A translation of this. article is available in Sylvan Kalib's THIRTEEN ESSAYS FROM
+THE THREE YEARBOOKS "DAS MEISTERWERK IN DER MUSIK" BY HEINRICH
+SCHENKER: AN ANNOTATED TRANSLATION (Ph.D Dissertation:
+Northwestern University, 1973).
+An important feature of Schenker's theories is his distinction between chord
+and harmony (scale-step).
+Since a harmony may include a number of different
+chords in succession, not all of them can be considered as representatives of
+that harmony; some must be seen as existing for contrapuntal reasons.
+Thus
+voice-leading (counterpoint) is shown as the means by which harmonies are unfolded in time. This interaction between harmony and counterpoint is evident
+in the analyses of Schenker and his followers.
+Since their purpose is to reveal
+the tonal fabric of individual compositions, they might be called "structural"as opposed to purely "harmonic"-analyses.
+
+304
+4
+
+Rameau's theoretical approach to harmony and the classification of chords is
+totally different from the practically oriented approach of the figured bass
+theorists.
+Rameau was interested in discovering the acoustical and mathematical laws which govern harmonic connection and the generation of chords.
+By contrast, the figured bass theorists of that period were primarily concerned
+with classifying the various signatures in such a way that they could be learned
+most readily by accompanists.
+
+5
+
+For more detailed information about Rameau's harmonic theories,
+following sources:
+Joan Ferris, "The Evolution of Rameau's
+OF MUSIC THEORY, 3(1959), 231-256.
+
+Harmonic Theories,"
+
+consult the
+JOURNAL
+
+Matthew Shirlaw, THE THEORY OF HARMONY, 2nd edition (DeKalb, Illinois),
+chapters 3-9.
+6
+
+Jean-Philippe Rameau, TREATISE ON HARMONY, tr., with an introduction
+and notes, y Philip Gossett, (New York: Dover, 1971), 60-61.
+
+7
+
+Rameau's discussion of this piece appears in chapter 44, "On Design, Imitation, and Fugue, " at the end of Book III ("Principles of Composition"). He explains that it contains four different fugues (a quadruple fugue), according to
+the following division of the text: "Laboravi clamans. Factae sunt fauces meae.
+Defecerunt oculi mei, dum spero in Deum meum. Dum spero in Deum meum."
+
+8
+
+Rameau's analysis and discussion of this recitative appears in the chapter which
+deals with how to derive the correct fundamental bass from any given piece.
+(Comparison with the Ballard edition of 1686 reveals a number of differences
+This analysis, with minor changes, was reprinted by
+in the figured bass.)
+d'Alembert in his ELEMENS DE MUSIQUE THEORIQUE ET PRATIQUE (1752).
+Further discussion and analysis of portions of the Monologue d'Armide appear
+inRameau's OBSERVATION SUR NOTRE INSTINCT POUR LA MUSIQUE (1754).
+Here Rameau is defending Lully's setting of the text (and French vocal music
+in general) against Rousseau's criticisms of it in his LETTRE SUR LA MUSIQUE FRANCAISE (1753). This is discussed in the following article by E.
+Cynthia Verba: "The Development of Rameau's Thoughts on Modulation and
+Chromatics," JOURNAL OF THE AMERICAN MUSICOLOGICAL SOCIETY, 26
+(1973), 69-91.
+
+9
+
+The remainder of the analysis has been omitted here, since it does not provide
+any new information.
+
+10
+
+from a six-five chord on scale degree 1
+An equivalent situation-progression
+also considered an irregular cadence. In this
+to the dominant of the key-is
+situation, as in the other, the six-five is interpreted as a fundamental harmony
+(See m. 28 of Rameau's analysis.)
+to avoid the forbidden progression.
+
+11
+
+Compare Rameau's interpretation of this measure with that of m.46, where
+the 4-3 suspension is correctly shown to represent a decoration of a single
+harmony.
+
+12
+
+One of the main champions of Rameau's theories was Friedrich Wilhelm Marpurg (1718r1795), who introduced them--albeit in altered form-in Germany.
+He added the thirteenth chord, formed by adding a seventh below a seventh
+His classification of these chords
+chord, to the other chords of supposition.
+as fundamental harmonies of the second order was the main source of inspira(See p. 28 of his HANDBUCH
+tion for future generations of misguided theorists.
+BEY DEM GENERALBASSE UND DER COMPOSITION (1755).)
+
+305
+13
+
+For more detailed information about Kirnberger's
+the following sources:
+
+harmonic theories,
+
+consult
+
+David Beach, THE HARMONIC THEORIES OF JOHANN PHILIPP KIRNBERGER: THEIR ORIGINS AND INFLUENCES (Ph.D. Dissertation:
+Yale
+University, 1974).
+Joyce Mekeel, "The Harmonic Theories of Kirnberger
+JOURNAL OF MUSIC THEORY, 4(1960), 169-193.
+
+ahd Marpurg,"
+
+14
+
+Differences between the approaches of Rameau and Kirnberger to harmony and
+harmonic analysis are discussed by William Mitchell in his article, "Chord
+and Context in 18th-Century Theory, " JOURNAL OF THE AMERICAN MUSICOLOGICAL SOCIETY, 16(1963), 221-239.
+
+15
+
+In his VERSUCH UBER DIE MUSIKALISCHE TEMPERATUR, NEBST EINEM
+ANHANG UBER DEN RAMEAU- UND KIRNBERGERSCHEN GRUNDBASS (1776),
+Marpurg took Kirnberger to task for adopting Rameau's fundamental bass for
+his own purposes. Although many of Marpurg's specific criticisms were justified, there is no reason why Kirnberger should not have used this device as he
+saw fit.
+
+16
+
+According to Kirnberger, there are three types of seventh chords: (1) the essential (where the seventh is part of the harmony and resolves with a change
+of harmony), (2) the non-essential (where the seventh is a suspension and resolves over the same harmony), and (3) the unauthentic (where the seventh is
+non-essential, but its resolution is delayed until the following harmony). (This
+last type occurs only with seventh chords built on the leading tone of a key. )
+Thus, while the unauthentic seventh chord has the appearance of an essential
+one, it is really a special type of non-essential chord. And since the seventh
+stands in the place of the sixth, the real root of an unauthentic seventh chord
+is a major third below the apparent root.
+There are numerous examples of all three types of seventh chord in this analysis (Example 2a). One example of the unauthentic type appears in m. 31. Here
+the root of the diminished seventh chord d#-(f#)-a-c is shown to be B, not d#.
+Thus "c", while the seventh of the actual chord, is really the non-essential
+ninth above the root of the generating harmony; hence the figures $.
+
+17
+
+Kirnberger considered the interval of a diminished fifth between scale degrees
+2 and 6 in a minor mode-as
+opposed to the one between the leading tone and
+scale degree 4-to be consonant.
+He made this distinction on the basis of his
+own system of tuning, which is similar to Pythagorean tuning.
+
+18
+
+See the ALLGEMEINE MUSIKALISCHE ZEITUNG, Volume 2 (1800), 277-278,
+footnote (':').
+
+19
+
+Although Schulz never states that progressions
+bidden or unnatural, this is strongly implied.
+follow Rameau more than Kirnberger.
+
+20
+
+Kollmann, a native German, spent most of his life in England, where he was
+the organist of His Majesty's German Chapel at St. James from 1792 until his
+death in 1829. In his early works, he followed Kirnberger's theories very
+However, he later came to the realization that Kirnberger's system
+closely.
+of chord classification
+was incomplete, since it excludes certain types of dissonance. In A NEW THEORY OF MUSICAL HARMONY, he proposed a new
+system, which is a modification of Kirnberger's.
+
+21
+
+This fugue is the fifth in a collection
+of SIX FUGUES
+THE ORGAN OR HARPSICHORD
+(1735).
+
+by descending second are forIn this respect, he seems to
+
+OR VOLUNTARYS
+
+FOR
+
+306
+22
+
+an
+Logier was best known for his invention of the chiroplast or hand-director,
+"apparatus for facilitating the acquirementof a properexecution on the pianoforte."
+
+23
+
+As far as I know, this is the first use of that term to describe
+determining the structure of a musical composition.
+
+24
+
+Weber may have gotten this idea from Georg Joseph Vogler (1749-1814), who
+was actually the first to use roman numerals in this way. (See his HANDBUCH
+ZUR HARMONIELEHRE UND FUR DEN GENERALBASS (1802).) However, it
+was Weber who established their use in a systematic manner.
+
+25
+
+Note that Weber excludes certain chords from the list of those appropriate to a
+minor key. In the key of a minor, for instance, he considers but rejects the
+following chords on the basis that they are not fundamental harmonies: the
+on scale degree 1, the triad (c,e, g) onscale degree
+seventh chord (a,c,e,gf)
+3, the seventh chord (c,e, g,b) on scale degree 3, and the seventh chord
+(gf,b, d, f) on scale degree 7. All contain the leading tone, which according to
+Weber, is a necessary element in all keys. For this reason he does not consider those chords which contain the lowered (natural) scale degree 7; they belong to some other key.
+
+26
+
+For a more detailed discussion of the functions of parallel sixth chords, see
+Chapter II in Allen Forte's TONAL HARMONY IN CONCEPT AND PRACTICE,
+2nd edition (New York, 1974).
+
+27
+
+See, for example, Friedrich Schneider's
+UND TONSETZKUNST (1820).
+
+28
+
+For information about Schenker's theories, consult the following work by this
+author: "A Schenker Bibliography," JOURNAL OF MUSIC THEORY, 13(1969),
+2-37.
+
+29
+
+This does not mean, of course, that Schenker was opposed to the views of all
+and
+earlier theorists. His conception of the relationship between voice-leading
+vertical structure, for example, was influenced to some extent by C.P.E.
+Bach's views on that subject.
+
+30
+
+This analysis was originally published in the ANHANG (Example 48) of Schenker's
+last work, DER FREIE SATZ (1935). In Example 5, the German terms have
+either been translated or omitted entirely, as seemed most appropriate.
+
+the process
+
+of
+
+ELEMENTARBUCH DER HARMONIE
+
+

@@ -1,0 +1,1342 @@
+The Early Reception of Neapolitan
+Partimento Theory in France
+A Survey
+
+Rosa Cafiero
+
+Abstract  The tradition of the Neapolitan school of composition (in which the partimento and its teaching techniques played a significant role) had a major influence on musical training in Paris from the second half of the
+eighteenth century through the first half of the nineteenth century. This article focuses first on some significant
+witnesses of this era (Fedele Fenaroli and Emanuele Imbimbo, who followed the school of Francesco Durante) and
+then on an interpretation of the traditionally nonverbal rules of partimenti proposed by François-Joseph Fétis.
+
+Harmonist: A musician with a deep knowledge of harmony. He’s a good Harmonist.
+Durante is the best Harmonist in Italy, that is, in the World.
+—Rousseau, Dictionnaire de musique, 1768
+
+Neapolitan school or Neapolitan schools?
+Some preliminary thoughts
+
+a number of historiographic myths concerning the rise and “flowering” of
+the Neapolitan school of composition in the eighteenth century have grown
+up following two parallel traditions, the first descending from the educational
+methods of Francesco Durante (1684–1755) and mostly characterized by “simplicity,” and the second descending from the teaching heritage of Leonardo
+Leo (1694–1744) and mainly inspired by “complexity.” In his monumental history of the Neapolitan school, Francesco Florimo (1882) tells us how the followers of the two masters (the Durantisti and the Leisti) disagreed profoundly
+as far as teaching methods were concerned:
+The Leisti took great pains with chordal richness, harmonic progression, voice
+leading, contrapuntal invention, in sum, with artfulness and skill rather than
+with spontaneity. By contrast the Durantisti focused mainly on melody, on clear
+voice leading, on easy modulations, on harmonic elegance and on effect,
+intended as the most proper means to create music to please, rather than to
+
+Journal of Music Theory  51:1, Spring 2007
+DOI 10.1215/00222909-2008-025  © 2009 by Yale University
+
+137
+
+138
+
+J ournal o f M usi c T heory
+
+surprise. The latter method, which triumphed over the former, has given fame
+to the Neapolitan school.1
+
+By the 1770s the Durantist tradition progressively began to outshine the
+Leist one. This became true even in France, as supported by witnesses like
+Jean-Jacques Rousseau (1768, 243) and, later, André-Modest Grétry (1789,
+1:81–​ 3, 118).2 At the beginning of the nineteenth century, this preeminent
+8
+position was confirmed by Alexandre-Étienne Choron, who published the
+opus classicum of Italian keyboard accompaniment methods, the Principes
+d’accompagnement des Ecoles d’Italie (Choron and Fiocchi 1804). This was based
+primarily on the Regole musicali per i principianti di cembalo (Christensen 1992,
+112; Cafiero 2001a),3 printed in Naples by Fedele Fenaroli (1775), who had
+studied with Durante.
+Around 1806, when the unified Royal College of Music (located in the
+monastery of San Sebastiano) was founded by King Joseph Bonaparte (Napoleon’s brother) from the ashes of the two surviving conservatories (Pietà dei
+Turchini and Loreto a Capuana),4 an attempt to revive the eighteenth-century
+tradition and to establish a new balance between the two schools was made.
+All teachers of composition and of partimenti—by that time intended as the
+basic introduction to harmonic accompaniment—were invited to deposit
+in the college library a copy of their manuscript lesson books, in order to
+allow students to study directly from firsthand sources. Dozens of manuscripts
+(both autographs and copies) were collected, integrating the huge collection that Giuseppe Sigismondo5 and Saverio Mattei had already gathered at
+the Pietà dei Turchini archive (see Indice 1801). The name of Carlo Cotumacci, a pupil of Alessandro Scarlatti (and, according to Francesco Florimo,
+
+1  The platitude of equating Durante with simplicity and
+Leo with complexity was traditionally fixed by Florimo,
+who widely emphasized the preeminence of the Duran­
+tisti (among whom he numbered himself, as a classmate
+of Vincenzo Bellini) against the Leisti (Florimo 1882, 81):
+“I Leisti tenevano alla ricchezza degli accordi, alle combi­
+nazioni armoniche, agl’intrecci delle parti, alle contronote,
+in una parola più all’artificio ed al magistero che alla sponta­
+neità. I Durantisti al contrario miravano, come a scopo prin­
+cipale, alla melodia, alla chiara disposizione delle voci, alle
+facili modulazioni, all’eleganza delle armonie ed all’effetto,
+come i mezzi più adatti a comporre musica che dilettasse
+più che sorprendesse. Quest’ultimo sistema, ch’è quello
+che ha trionfato, ha reso celebre la scuola napolitana. On
+”
+the ­ urantisti–Leisti controversies, see Hansell 1968, esp.
+D
+238–40.
+2  “Let us assume that Italian compositions are somehow
+rude and less varied, depending on the fact that compos­
+ers have forgotten harmony. This queen of music is wholly
+neglected even by Durante’s pupils, who knew harmony at a
+very high level” (“Convenons ensuite qu’il ya a de la séche­
+
+resse et peu de variété dans les compositions italiennes;
+ce défaut provient encore de l’oubli de l’harmonie. Cette
+reine de la musique est trop négligée par les élèves même
+de Durante, qui la possédoit à un si haut degré”; Grétry
+1789, 1:118).
+3  An English translation of Fenaroli’s rules is available in
+Gjerdingen 2005. See also Gjerdingen 2007
+.
+4  The conservatory of Santa Maria di Loreto a Capuana was
+formed in 1797 when the remaining pupils at the conserva­
+tory of Santa Maria di Loreto joined those who studied at
+the conservatory of Sant’Onofrio a Capuana; the students
+of the former moved to the building of the latter. See Di
+Giacomo (1928, 215–17) and Cafiero (2005a, 23–27).
+5  The presence of Sigismondo, a deus ex machina in the
+reconstruction of the Neapolitan school of composition, at
+the conservatory archive is described in correspondence on
+the state of music in Naples for the Allgemeine musikal­
+ische Zeitung by Franz Sales Kandler (1821). See Libby 1988
+and Cafiero 1993b.
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+139
+
+a second-­ eneration pupil of Durante, as well),6 whose role and presence
+g
+in Sant’Onofrio a Capuana had been described in 1770 by Charles Burney
+(1771, 346–47), can definitely be associated with the traditions of both Durante
+(whom he suc­ eeded in 1755 and from whom his methods widely derive) and
+c
+Leo. As this and other cases demonstrate, the Neapolitan theoretical environment was thus characterized by a plurality of teaching methods and preferences. The genealogies of teachers and pupils as sketched in the second half
+of the nineteenth century by Francesco Florimo (1882, 30), the first historian
+to attempt a full reconstruction of the Neapolitan schools and traditions, and
+in the first half of the twentieth century by Salvatore Di Giacomo (1924, 136;
+1928)7 actually show a highly complex map of filiations that may not fit into
+a simple dichotomy.
+Evidence of Neapolitan teaching traditions in Paris begins to accumulate in the second half of the eighteenth century. A number of treatises are
+published by Biferi (1770), Francesco Azzopardi (1786), Honoré-FrançoisMarie Langlé (1797, 1798, 1801; self-described “ancien premier Maître” at the
+Pietà dei Turchini; listed as Italian in Pierre 1900, 44), and Florido Tomeoni
+(1798, 1800). A sort of osmotic process gets under way in Paris, both to obtain
+information about Italian teaching methods and, in turn, to disseminate this
+didactic paradigm through the volumes projected for the new Conservatoire
+(Cafiero 1999, 425–81). As part of this process, Emanuele Imbimbo, a pupil of
+Sigismondo, prints two Parisian editions of partimenti by Fenaroli (Fenaroli
+and Imbimbo 1814a, 1814b).
+Choron subsequently adds further documentation for a Parisian reconstruction of the Neapolitan schools of composition. In 1808 he publishes the
+Principes de Composition des écoles d’Italie, and in 1810 the Dictionnaire historique
+des musiciens with François Fayolle,8 which was then translated a couple of years
+later into Italian by Giuseppe Bertini (1814–15).
+A huge amount of Neapolitan theoretical sources have survived thanks
+to collectors such as Gaspare Selvaggi9 (whose collection was sold to the Paris
+
+6  “After Durante’s death in 1755, Carlo Contumacci, who
+was a former associate of Durante, was named first mas­
+ter” (Sigismondo 1820, 2:114–15); see Cafiero 1993a and
+2005b.
+7  Di Giacomo conducted detailed archival research; see
+also Cafiero 1993a, 1999.
+8  “It is in the school of Naples, and particularly in that of
+DURANTE, that it [tonality] was fixed in all its relationships,
+at least with regard to practice; for with regard to theory, it is
+still quite incomplete” (“C’est dans l’école de Naples, et par­
+ticulièrement dans celle de DURANTE, qu’elle [la tonalité] a
+été fixé sous tous les rapports, du moins en ce qui concerne
+la pratique: car, en ce qui concerne la théorie, elle est encore
+très imparfaite”; Choron and Fayolle 1810, xxxviii).
+
+9  Selvaggi 1823; see Cafiero 2001a. For further references
+to French theorists, see Napoli-Signorelli 1847 esp. 86–96.
+,
+For further references to Selvaggi, see Sanguinetti 1999,
+esp. 148–56; and Sanguinetti 2005.
+
+140
+
+J ournal o f M usi c T heory
+
+Conservatory10 and to the British Library; see Hughes-Hughes (1906–9) and
+the already mentioned Sigismondo (whose volumes make up a consistent
+corpus at the Conservatorio San Pietro a Majella in Naples; Cafiero 1993b).
+Sigismondo helped to fix the basis for a local historiography of the Neapolitan
+school of composition. His monograph Apoteosi della musica11 (1820; now in the
+Berlin Staatsbibliothek) was widely used by Carlo Antonio De Rosa, marquis of
+Villarosa, in the Memorie dei compositori di musica del Regno di Napoli (1840) and
+gave rise to a significant amount of information used ever since by historians.
+Sigismondo’s collection was assembled over about thirty years and includes a
+considerable number of theoretical texts (collections of partimenti, fugues,
+and several textbooks or anthologies—of various content and purpose—often
+copied by Sigismondo himself), whose histories and genealogies still need to
+be investigated.12
+Though the complexities in Naples of four conservatories, dozens of
+important teachers, and hundreds of student musicians have yet to be fully
+unraveled, a simplified version of the Neapolitan school appears to have been
+transmitted to France. That is the focus of this essay.
+The Durantist tradition between Naples and Paris: An overview
+
+The partimento, originally conceived as an artistic improvisatory instrumental form (Kunstform, Fellerer 1939) more than as a means of harmonic (and
+contrapuntal) training in accompaniment (Schulform, Fellerer 1939), helps us
+to define a particular mode of transmission for the harmonic rules as established in the Neapolitan tradition. The case of Fedele Fenaroli’s rules (and
+exercises) for harpsichord beginners (per i principianti di cembalo), first printed
+in Naples in 1775, is almost unique, since they survived for more than a century (from the second half of the eighteenth century to the 1880s) through
+reprints, annotated editions, and dozens of manuscript copies in Italy and
+
+10  See the notice in the Allgemeine musikalische Zeitung,
+14/27 (July 1, 1812), cols. 448–49:
+Durantes Compositionen sind ziemlich selten. Das
+pariser Conservatorium ist im Besitz einer schönen
+Sammlung derselben, welche es der Gefälligkeit des
+Neapolitaners Selvaggi verdankt. Dieser Dilettant, der
+seit 1797 ungefähr sich in Frankreich niedergelassen
+hat, besitzt eine Menge der trefflichsten Originalwerke
+italienischer Meister, namentlich eine Sammlung—
+wahrscheinlich die vollständigste, die es gibt—der Com­
+positionen Palestrina’s und Durante’s. . . . Partimenti
+per Cembalo. (Dies sind bezifferte Bässe zur Uebung in
+der Begleitung. Diese Partimenti werden in ganz Italien
+als classisch angesehen.)
+11  On the documentary sources used by Sigismondo
+while writing the Apoteosi, see Kandler 1821, no. 50, col.
+833:
+
+Durch bedeutende, mit manchem persönlichen Opfer
+verbundene Anstrengungen, und mit Zufühlnahme
+des wohlerfahrenen 84järigen Archivars, D. Giuseppe
+Sigismondo, eines Zeitgenossen und Freundes Pic­
+cini’s, Jomelli’s, Caffaro’s und Schülers Porpora’s, ist es
+mir gelungen, eine namhafte Menge auf jene Institute
+Bezug habender Notizen und Dokumente zu erhalten,
+die seiner Zeit eben so ergiebige als zuverlässige Mate­
+rialien für eine ausgeführtere Kunstgeschichte darbieten
+warden.
+See also Shearon 2000.
+12  Abbate (2007) points out that a manuscript traditionally
+attributed to Sigismondo (Alfabeto musicale, dated 1766) is
+a copy of a counterpoint text by Gabellone (or Leo).
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+141
+
+France. The presence of Fenaroli as a teacher at the Conservatorio of Santa
+Maria di Loreto a Capuana at the time of the unification of the conservatories
+(datable, as far as initial projects are concerned, around 1802), his retirement
+as a teacher (1806), and his further recruitment as one of the new three directors of the new Royal College of Music (together with the Durantist Giovanni
+Paisiello and the Leist Giacomo Tritto; Cafiero 1993a and Dellaborra 2007)
+confirm his role as an important institutional and artistic witness with strong
+connections to the “Golden Age” of eighteenth-century Naples. His fear of
+losing touch with that tradition may have contributed to his fixing the rules as
+close as possible to the “original” model.
+The picture traced in a rather hagiographic pamphlet published in Naples
+soon after Fenaroli’s death, Francesco Maria Avellino’s Praise (due to be read
+at the Academy of Fine Arts of the Bourbon Royal Society, which included
+among its members only three musicians: Paisiello, Niccolò Zingarelli, and
+Fenaroli) gives us a synthetic though detailed overview (Avellino 1818, 15–16,
+18–19; see also Grossi 1819, 181):
+Let us take into consideration [Fenaroli’s] didactic works, which made him a
+meritorious art scholar, emulating the glory and fame of his teacher Durante.
+These works are some intavolature, his study of counterpoint, still unpublished,
+and the rules of partimenti, already known to the public.
+Before Fenaroli, none of the highly reputed masters of our School had
+had the fine idea of methodically presenting the rules of keyboard accompaniment and of organizing them into a complete course of style. Content to dictate
+them to their students, they made these rules circulate through a kind of tradition, rather than through a regular written text. We can attribute to Fenaroli
+the merit to having accomplished such a fine project, and of having achieved it
+with great mastery, composing his Musical Rules for Harpsichord Beginners (Regole
+musicali per i principianti del cembalo),13 which have been reprinted several times,
+equipped with a fine number of examples called partimenti. . . .14
+Even from this short survey of Fenaroli’s work everyone can see what sort
+of classical and useful work he has achieved. The work was at once welcomed
+with general praise. Several copies of Fenaroli’s partimenti soon started to circulate and were used by the most reputed masters as teaching devices. In 1814
+the fifth edition15 of Fenaroli’s rules was published in Naples. Even though here
+
+13  The musical rules, as far as we know from Fenaroli him­
+self in a letter sent to King Ferdinand IV of Bourbon (1802),
+were intended to instruct pupils both in figured playing
+(sonare numerico) and in counterpoint. In this letter (Naples,
+State Archive, fund Ministry of Internal Affairs, II inventory,
+bundle 5182, published and described in Cafiero 1993a,
+552), Fenaroli asked the king to appoint him director of all
+Neapolitan conservatories, after Niccolò Piccinni’s death.
+14  Prior to Giuseppe Girard’s edition, the handwritten figured
+partimenti were sold separately from the text of the rules; in
+the 1795 reprint of the 1775 edition we read: “We sell these
+
+books in Vincenzo Mazzola-Vocola’s printing house, close to
+the Church of the Pietà de’ Torchini at the expense of two
+carlini. The book with figured and corrected examples is sold
+at the copyists’ shop close to the above-mentioned church”
+(Fenaroli 1795, 60).
+15  “The booklets are sold at no. 78 Mater Dei Street, third
+floor, at the house of Maestro Cesare Jannoni” (Fenaroli
+1814, A1).
+
+142
+
+J ournal o f M usi c T heory
+
+in Naples we still do not have any printed partimenti16 (since the practice of
+engraving music is still not very popular), a fine edition was printed in Paris by
+Mr. Carli.17 We will not forget that the most respected Mr. Choron took profit
+of our distinguished professor’s knowledge in France when he published his
+principles of harmony and accompaniment for young learners in 1804 [Choron
+and Fiocchi 1804], using the famous Neapolitan master’s rules and examples.
+
+The content of Fenaroli’s Musical Rules is further described (Avellino 1818,
+17–18):
+After fixing in his Musical Rules the general theories of consonances and dissonances, the author deals with the scale, shows how it is built up in both the
+major and minor modes, and how it can be harmonized in different chord positions. After giving a clear idea of cadences, he illustrates the rules concerning
+dissonances, how to prepare them and how to resolve them. Eventually he
+shows bass movements with their proper accompaniments. All rules, easy and
+clear, are illustrated through examples included in the partimenti, which show
+their practical realization.
+The author has divided his useful and well-read series of examples into
+six books. The first one (as he states in an autograph manuscript I have right
+under my eyes) includes scales and cadences, followed by lessons on scales in all
+major and minor keys, not by examples of dissonances, as it wrongly occurs in
+some copies. The second book includes examples of dissonances followed by
+the respective lessons, numbered according to their progressive difficulty. The
+third book includes the rules of bass movements and is the last one which offers
+graded examples corresponding to the printed rules. In the fourth book the
+students still have to practice all the rules and to find the right accompaniments for all the unfigured partimenti included. Eventually the fifth18 and sixth
+books (which close the partimenti), include diatonic and chromatic fugues
+(fughe naturali, e cromatiche), canons, and basses for imitation (bassi ­mitati).
+i
+
+In the introduction (discours préliminaire) to his 1814 Parisian edition of
+Fenaroli’s Partimenti, Imbimbo goes further in informing his readers of his
+goal, which is to allow students of harmony to master a synthesis of harmony
+and counterpoint, to which the conception of the partimento naturally leads,
+in continuity with the “tradition” (Fenaroli and Imbimbo 1814a, VIII):
+
+16  The first Neapolitan edition of partimenti was published
+by Giuseppe Girard, who was the official publisher at the
+Collegio di musica; he initially printed the first four books of
+partimenti (publ. nos. 551, 959, 997 998), later on the fifth
+,
+and the sixth (nos. 1348 and 1353), presumably between
+1826 and 1829. See Girard’s notices in the official Neapoli­
+tan newspaper, Giornale del Regno delle Due Sicilie, no.
+202, August 31, 1826, and no. 95, April 25, 1829, quoted in
+Cafiero and Seller 1989, 69–70. On Girard at the Collegio,
+see Kandler 1821, col. 872.
+17  The Neapolitan publisher Raffaele Carli, who went to
+Paris as a refugee after 1799, had printed two editions
+(Fena­ oli and Imbimbo 1814a, 1814b).
+r
+
+18  Fenaroli had conceived the fifth book of his partimenti in
+January 1811, as we learn from a letter he sent to his former
+pupil Marco Santucci (1762–1843): “Ora sto facendo il quinto
+libro di partimenti fugati, e soltanto voi che siete della mia
+scuola, e che molto capite potete insegnarli” (“I am now
+writing the fifth book of fugal partimenti, and only you, who
+belong to my school and understand a lot, can teach how to
+harmonize them”). The letter, written on January 18, 1811, is
+in the library of the Accademia Filarmonica in Bologna; see
+Catalogo della collezione d’autografi 1896, 109.
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+143
+
+We have decided to bring out the six books of partimenti of Mr. Fenaroli of
+Naples, zealous partisan of the school of Durante in which he trained. It is on
+these principles, reviewed and augmented by Fenaroli himself, that students
+study at the royal conservatory of Naples, not only to learn accompaniment but
+also to open the path to the rules of counterpoint. And we publish them, as is
+our duty, without any alteration, being the system that distinguishes the Neapolitan School, which has produced so many celebrated composers in Europe,
+whose works in all genres will pass to posterity as models of the art and of good
+taste, and whose names will never perish, in spite of their detractors.19
+
+Imbimbo traces the main stages of the course (scale, intervals, chords),
+reminding his readers that most instructions concerning instrumental performing techniques can be found elsewhere. His goal is to propose the “true
+principles” of a coherent musical style:
+Nonetheless it seemed indispensable for us to explain certain passages relating
+to the scale, to intervals, and to chords, with the goal of expanding and updating the little book of Musical Rules published in Naples, and by the same author
+Fenaroli, which leave to the teacher the task of making the fingers negotiate
+the keys of the harpsichord, because he felt it was unnecessary to treat a subject
+where there already exist numerous treatises on the mechanical aspect of playing this instrument. At the same time, we hope that the public would agree with
+our intention, which has no goal but the advancement of dedicated pupils, and
+the support of an art that, though degenerated in our own day by the mixing
+of styles, will rise again, shining and pure, in happier times and following the
+true principles.20 (Fenaroli and Imbimbo 1814a, VIII)
+
+The harmonization of the scale is a turning point as far as the application of
+the rules is concerned. When Choron and Vincenzo Fiocchi (who assisted
+Choron) had to choose among the examples of the “classical” masters of the
+Italian schools, they chose to quote Durante as the highest authority (see
+Example 1).
+Imbimbo proposes two examples to illustrate the ascending and descending major and minor scales (see Examples 2 and 3). As far as the fifth degree
+
+19  “Nous nous sommes proposé de mettre au jour les
+six livres des Partimenti de M.r Fenaroli Napolitain, zélé
+partisan de l’école de Durante d’où il est sorti. C’est sur
+ces principes revûs et augmentés par lui même que
+s’exercerent les élèves du conservatoire royal de Naples,
+non seulement pour apprendre l’accompagnement, mais
+encore pour s’ouvrir la route aux règles du contrepoint;
+et nous les publions, comme il est de notre devoir, sans
+aucune altération, et comme étant le système par où s’est
+distinguée l’école napolitaine, qui a produit en Europe tant
+de célèbres compositeurs, dont les ouvrages en tout genre
+passeront à la posterité comme des modèles de l’art et du
+bon goût, et dont les noms ne périront jamais, en dépit de
+leurs détracteurs.
+”
+
+20  “Cependant, il nous a paru indispensable d’expliquer
+quelques passages relativement à l’echelle, aux intervalles,
+et aux accords, afin de répandre plus de jour sur le petit
+livre des Règles musicales imprimé à Naples, et du même
+auteur Fenaroli, laissant aux professeur le soin de faire par­
+courir avec les doigts les touches du clavecin, puis qu’il nous
+a paru inutile d’en parler, attendu qu’il existe assez de traités
+sur la partie mécanique de l’éxécution de cet instrument.
+Nous espérons en même tems que le public voudra bien
+agréer notre intention qui n’a pour but que l’avancement des
+élèves studieux, et le soutien d’un art qui, quoique dégé­
+nérée de nos jours par le mélange des styles, se relevera
+brillant et pur dans des temps plus hereux, en suivant les
+vrais principes.
+”
+
+144
+
+J ournal o f M usi c T heory
+
+Example 1.  Exercise on the règle de l’octave (Choron and Fiocchi 1804, 7)
+
+is concerned in the ascending scale, Imbimbo proposes to harmonize it with
+tonic rather than dominant harmony (the Neapolitan norm) and points out
+that there is a querelle concerning the authentic “version”21 (Fenaroli and
+Imbimbo 1814a, 19). No further evidence of what Imbimbo describes as a controversy yet to be “decided authentically” can be found in his textbooks (nor
+in Durante’s or Fenaroli’s). An indication of the basse fondamentale is given as
+well, most likely with the intention of translating the empirical Neapolitan
+rules into the language of Jean-Philippe Rameau and perhaps catching the
+attention (and indulgence) of a French, Rameau-oriented reader.
+A coherent style should maintain “clarity” (clarté) and “simplicity” (simplicité), avoiding bizarre and awkward (“barbarous”) modulations, taking care
+21  “Dans cette première échelle la corde fondamentale de
+la Cinquième montante du ton est le Do (a) base de l’accord
+parfait, composé de I.e 3.e et 5.e, et qui dans le renverse­
+ment des parties vers l’aigu se change en 4.e et 6.e sur la
+corde Sol (b) de la basse continue. Ce principe a fait naitre
+
+la question de savoir si la Cinquième montante du ton doit
+s’accompagner de la 3.e et 5.e, ou de la 4.e et 6.e, ce qui n’a
+pas encore été décidé authentiquement. Letter (a) refers
+”
+to the fundamental-bass staff; letter (b) refers to the thor­
+oughbass staff.
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+Example 2.  The major scale in ascending and descending motion (Fenaroli and Imbimbo
+1814a, 19)
+
+Example 3.  The minor scale in ascending and descending motion (Fenaroli and Imbimbo
+1814a, 19)
+
+of melody and a unity of thought (Fenaroli and Imbimbo 1814a, VIII–IX;
+Imbimbo may be echoing Rousseau’s concept of unité de mélodie; Rousseau
+1768, 536–39):
+To those who profess it, however, we continue to strongly advise that they preserve in their compositions the clarity and simplicity of the Neapolitan School,
+and that they distance themselves entirely from these instrumental harmonic
+modulations that are nothing but bizarre, braying, and often barbarous, and
+which are so glorified today to the great harm and detriment of melody, because
+too many simultaneous sensations produce confusion, giving neither pleasure
+nor any precise idea of what one hears, whence it comes about that the mind,
+agitated, tormented, tired of not understanding anything, becomes bored without enjoyment. An overly complicated music becomes lost in the labyrinth of
+the ear. A true music is that which penetrates the recesses of the heart, seat of
+all the passions. In a composer, varying the mode and rhythm needlessly, creating strange chords, forcing oneself ultimately to produce a harmony without a
+unity of ideas, proves an absence of genius. Only two inspired notes played well
+
+145
+
+146
+
+J ournal o f M usi c T heory
+
+suffice to produce a grand effect, and it is in this that consists the sublime of
+the art.22
+
+In his introduction to the second volume of Fenaroli’s Partimenti,
+Imbimbo illustrates how a partimento can become a basso fugato, being realized according to contrapuntal principles (Fenaroli and Imbimbo 1814b, I):
+In the school of music established in Naples, among the exercises given to students who have made some progress in partimenti and counterpoint, is the
+Basso Fugato, where one invents parts from which to compose a multi-voice
+fugue. Mr. Fenaroli, being Master at the Royal Conservatory of Santa Maria di
+Loreto in Naples, is the first to have given us a collection of bassi fugati in his
+partimenti, the purpose being to challenge the students and to facilitate their
+becoming distinguished composers some day, like Santucci, Giordaniello,
+Zinga­ elli, Cimarosa, etc., etc. Now this method, which is little known or comr
+pletely unknown, poses great difficulties for many students. For this reason,
+and wishing to smooth the road for those who study music, I have realized in 2,
+3, 4, or 5 voices some of these bassi, without changing anything of their layout.
+There were some where I permitted myself to explicate a certain passage; and
+to make the artifice of a certain composition more comprehensible, I felt that
+it was indispensable to add a summary of everything that applies to the practice
+of counterpoint and fugue, hoping that, as fruit of my labors, that I would find
+more indulgence than severity with the public, and a smile of approval from the
+venerable Fenaroli.23
+
+Some more useful details on the students’ training concern the use of the
+scale (Fenaroli and Imbimbo 1814b, 16):
+
+22  “Ne cessons pas cependant de bien recommander à ceux
+qui le professent de conserver dans leurs compositions la
+clarté et la simplicité de l’école napolitaine, et de s’éloigner
+entièrement de ces modulations harmoniques instrumen­
+tales qui ne sont que bizarres, bruyantes et souvent bar­
+bares, et dont on se glorifie tant aujourd’hui, au grand abus
+et détriment de la mélodie, puisque plusieurs sensations
+simulanées produisant la confusion, ne donnent ni plaisir, ni
+aucune idée précise de ce qu’on entend; d’où il arrive que
+l’ame agitée, tourmentée, fatiguée de ne rien comprendre,
+s’ennuie sans pouvoir jouir. Une musique trop compliquée
+se perd dans le labyrinthe de l’oreille. La vraie musique
+est celle qui pénétre les voies du coeur siège de toutes
+les passions. Varier de mode et de rhytme sans nécessité,
+prodiguer les accords, s’enforcer, enfin, de produire une
+harmonie sans unité de pensées, prouve dans un composi­
+teur l’absence du génie. Deux seules notes d’inspiration et
+bien exécutées suffisent pour produire le plus grand effet,
+et c’est en quoi consiste le Sublime de l’art.
+”
+23  “Un des exercises de l’école de musique établie à
+Naples est de donner aux jeunes gens qui ont fait des pro­
+grès dans les Partimenti et dans le Contrepoint, un Basso
+
+fugato, pour en diviser les parties dont ils composent une
+Fugue à plusieurs voix. Mr Fénaroli étant maître du Con­
+servatoire royal de S.te Marie de Lorette à Naples, est le
+premier qui nous ait laissé dans ses Partimenti une suite de
+Bassi fugati, pour y exercer les élèves, et leur faciliter les
+moyens de devenir un jour des compositeurs distingués,
+tels que M.rs Santucci, Giordaniello, Zingarelli, Cimarosa,
+&c. &c. Or, cette méthode étant peu connue ailleurs, ou ne
+l’étant point du tout, offre de grandes difficultés à plusieurs
+personnes. C’est pourquoi, voulant applanir la route à ceux
+qui étudient la musique, j’ai décomposé quelques unes de
+ces Bassi en les réduisant en Fugues à 2, à 3, à 4 et à 5 voix,
+sans rien charger à leur marche; il y en a aussi quelques
+unes dont je me suis permis d’etendre quelque passage;
+et pour mieux faire comprendre l’artifice d’une composition
+quelconque, j’ai cru qu’il êtoit indispensable d’y ajouter un
+abregé de tout ce qui à rapport à la pratique du Contrepoint
+et de la Fugue; espérant, pour fruit de mon travail, trouver
+dans le public plus d’indulgence que de sévérité, et dans le
+respectable Fénaroli un sourire de bienveillance.
+”
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+147
+
+If a young man wishes to make progress in the rules of partimenti and counterpoint, he will begin by practicing the scale, creating against it melodies of a
+single voice, first in note-against-note counterpoint, and then with more
+notes—and of different values—per each note of the scale. He will continue his
+exercises by placing above the same scale a florid counterpoint of two voices,
+first with consonances only, and then with dissonances between them. And he
+will do the same thing with three and four voices, not only with brief notes but
+also with long ones. He will retain the same scale as a subject, and he will
+modulate the other parts along with it, inverting the intervals.24
+
+Eventually, the student will build up a basso fugato (or a ricercare) based
+on the partimento, taking care of both contrapuntal and harmonic invention,
+without excessive effects (Fenaroli and Imbimbo 1814b, 18):25
+A young man wishing to notate in score a basso fugato or a ricercare from partimenti should make use of the clefs designated by the partimento’s author, or
+replace those he judges more appropriate. He will notate the subject (proposta)
+and answer (risposta) of each part, and if there is a counter subject he will examine it to see where it should be introduced. He will fill in the void of harmony
+between the parts, occasionally giving the parts pauses so that they can reenter
+with more force. He will carefully observe the notes that bring about a change
+of key (mode). He will seek out double counterpoints, canons, inversions, imitations, episodes, and strettos of the fugue. Lastly, in addition to the basso cantante
+(the vocal bass notated in the partimento), he ought to invent, if possible, a
+basso continuo, simple or complex, that not only serves as an accompaniment,
+but also participates with the other parts in the texture of the harmony, to
+which that bass will sometimes join the basso cantante or the voice that replaces
+it. (Fenaroli and Imbimbo 1814b, 17)26
+
+He recommends that a student follow the ideal models, both in theory and in
+practice, which are the Golden Age masters (Fenaroli and Imbimbo 1814b,
+18–19): “Nourish yourself by reading the fine writers on both practice and
+theory, study carefully the examples that they cite, and above all study Mar-
+
+24  “Quand le jeune homme aura fait des progrès dans les
+regles des Partimenti et du Contrepoint il commencera à
+s’exercer sur l’échelle, en y créant des chants une voix seule,
+d’abord note contre note, et ensuite plusieurs notes—de
+valeur différente contre une de la même—mesure. Il con­
+tinuera ses exercises, en disposant sur la même échelle un
+Contrepoint fleuri à deux voix, d’abord en consonnance, et
+puis en dissonance entre elles, et fera la même chose à
+trois et à quatre voix, tant avec des petites notes qu’avec
+des grosses. Il se servira encore de la même échelle pour
+Sujet, et fera moduler les autres Parties avec elle, en ren­
+versant les intervalles. The scale is prescribed as a starting
+”
+point according to contrapuntal rules illustrated by Nicola
+Sala (1794), whose text was reprinted (and translated into
+French) in Choron 1808.
+25  On the role of partimento fugue in eighteenth-century
+German musical pedagogy, see Gingras 2008.
+
+26  “Voulant mettre en partition un Basso fugato, ou un
+Ricercare des Partimenti, le jeune homme pourra se servir
+des clefs désignées par l’auteur, ou les remplacer par celles
+qu’il jugera à propos. Il notera la Proposta et la Réponse
+de chaque Partie, et s’il y a un Contre Sujet, il examinera
+par qui on doit l’introduire. Il remplira le vide de l’harmonie
+entre les Parties quelquefois leur donnant des pauses, pour
+reprendre avec plus de force. Il prendra garde aux notes qui
+apportent du changement dans le Mode. Il cherchera les
+Contrepoints doubles, les Canons, les Renversements, les
+Imitations, les Divertissements et le Stretto de la Fugue.
+Enfin, outre la Basse chantante, il tachera de trouver, s’il est
+possible, une basse continue, simple ou composé, qui non
+seulement serve d’accompagnement, mais qui concoure
+avec les autres Parties à la coutexture de l’harmonie, et à la
+quelle Basse on joindra quelquefois la Basse chantante, ou
+la voix qui la remplace.
+”
+
+148
+
+J ournal o f M usi c T heory
+
+cello, Scarlatti, Durante, Leo, Pergolesi, and Jommelli, all grand masters in
+melody and in harmony.”27 Melody and harmony, that is, the art of “singing”
+(“Le bon goût de la musique dérive du chant, et pour bien composer, il faut
+savoir chanter”; Fenaroli and Imbimbo 1814b, 19), joined to the art of accompanying, make up an ideal, “natural” combination (Imbimbo 1821, 44–45):
+Our old masters, without straying from the rules, knew well how to calculate
+the effect and the impressions that a melody, accompanied but not tormented
+by harmony, can make on the soul. It is so true that the people in Italy, moved
+by a beautiful piece of music, yet without knowing any musical notation, retain
+in the mind the most happy features of an air that they have just heard. . . .
+Melody and harmony are likewise given to us by nature, but with this difference: melody, daughter of the imagination, and what I regard as the mobile
+aspect of all music, being free in its progress, exists and shines on its own, while
+harmony, the result of calculation, exists and shines only through the combination of several melodies, of which it is composed. Now the principle of pleasure
+that we essay, deriving from that admirable union of melody with harmony, and
+the rules of music uphold the same principle; any time that one strays from it,
+the music is no longer natural, the expression is lacking, and the soul takes no
+joy in it. These abuses have manifested themselves in all eras.28
+The Neapolitan school (and the Durantist tradition)
+as viewed (and reflected) by François-Joseph Fétis
+
+François-Joseph Fétis, famous Parisian writer on music and future head of the
+Belgian national conservatory, focused his attention on two related “Italian
+schools” of harmonic accompaniment: a Roman one (traditionally associated
+with Bernardo Pasquini) and a Neapolitan one (linked to Alessandro Scar­
+latti). Both schools emphasize a style that pays close attention to all voices,
+each of which need to “sing in an elegant manner” (Fétis 1840, 53; Arlin 1994,
+47; Cafiero 2001a):
+In Italy, things remained in this state29 with respect to harmonic theory until
+the end of the seventeenth century. But the practice of accompaniment made
+
+27  “Il faut se nourrir de la lecture des bons écrivains en
+pratique comme en théorie, examiner attentivement les
+exemples qu’ils citent, et surout étudier Marcello, Scarlatti,
+Durante, Leo, Pergolesi, et Jom[m]elli, tous grands maîtres
+en Mélodie, et en Harmonie.
+”
+28  “Nos anciens maîtres, sans s’écarter des règles, savaient
+bien calculer l’effet, et les impressions que la mélodie,
+accompagnée, mais non tourmentée par l’harmonie, pour­
+rait faire sur l’ame; cela est si vrai, que le peuple en Italie,
+pénétré d’une belle musique, sans connaître le moindre
+signe musical, retient dans sa tête les traits les plus heureux
+d’un air qu’il vient d’entendre. . . .
+“La mélodie et l’harmonie nous sont également don­
+nées par la nature, avec cette différence que la mélodie,
+
+fille de l’imagination, et que je regarde comme le mobile
+de toute la musique, étant libre dans sa marche, subsiste
+et brille toute seule, au lieu que l’harmonie, résultant du
+calcul, ne subsiste et ne brille que par la combinaison de
+plusieurs mélodies, dont elle est composée. Or, le principe
+du plaisir que nous éprouvons, dérivant de cet accord admi­
+rable de la mélodie avec l’harmonie, et les règles musicales
+tenant au même principe; toutes les fois qu’on s’en écarte,
+la musique n’est pas naturelle, l’expression est manquée,
+et l’ame n’en jouit pas. Ces abus se sont manifestés dans
+tous les temps.
+”
+29  Fétis refers to harmonic rules proposed by Lorenzo
+Penna (1672).
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+149
+
+considerable progress, particularly in the schools of Pasquini in Rome and Alessandro Scarlatti in Naples. For their students, these great masters wrote numerous figured basses, to which the name partimenti was given. Instead of striking
+chords, following the French and German usage, these masters demanded that
+the accompanist have all the accompaniment parts sing in an elegant manner.
+In this connection, the Italians maintained an incontestable superiority in the
+art of accompanying for a long time.30
+
+Fétis cites Durante as the turning point between the Roman and the
+Neapolitan traditions (Fétis 1865, 3:88–89):
+Durante’s makeup was very different from that of his master [Scarlatti]. Less
+full of ideas, cold by temperament, timid in character and in social position, in
+short, a complete stranger to the boldness of dramatic genius, Durante portrayed in music the devotion of his religious sentiments, the clarity of his conception, the pure taste and respect for the traditions of the school which characterize his talent. Even if he did not go to Rome, he obviously made a serious
+study of the masters of the Roman school, and his work had the aim of introducing the more severe forms to the Neapolitan school. Such was his role in the
+direction that the art took in Naples during the eighteenth century. Thus one
+sees that he was in no way an apprentice of Gaetano Greco and Scarlatti; a reading of his scores demonstrates that he was changed under the influence of
+Roman genius.31
+
+General principles that derived from the nature des choses play a primary role
+in Durante’s doctrine, in which Fétis—adapting a concept already focused on
+by Choron (Simms 1975, 119; Schellhous 1991, 224–25)—finds the basis of
+tonality (Fétis 1865, 3:88–89):
+This master [Durante] is deemed the most expert professor that the Neapolitan school ever had. It would, however, be an error to believe that his expertise
+was founded on a clear doctrine, where all the facts would have been deduced
+from general principles drawn from the nature of things. There was never anything like it in the schools of Italy. The method of instruction had, as its only
+basis, a school tradition emanating far more from feeling than from reason.
+30  “Les choses restèrent en cet état en Italie jusqu’à la fin
+du dix-septième siècle, à l’égard de la théorie de l’harmonie;
+mais la pratique de l’accompagnement fit de grands pro­
+grès, particulièrement dans les écoles de Pasquini, à Rome,
+et d’Alexandre Scarlatti, à Naples. Ces grands musiciens
+écrivirent pour leurs élèves beaucoup de basses chiffrées
+auxquelles on donna le nom de partimenti: au lieu d’y faire
+plaquer des accords, suivant l’usage des Français et des
+Allemands, ces maîtres exigeaient que l’accompagnateur
+fit chanter d’une manière élégante toutes les parties de
+l’accompagnement. Sous ce rapport, les Italiens con­
+servèrent long-temps une incontestable supériorité dans
+l’art d’accompagner. See Cafiero 2001a.
+”
+
+31  “L
+’organisation de Durante était très-différente de celle
+de son maître [Scarlatti]; peu riche d’idées, froid par tem­
+pérament; timide par caractère et par position sociale; enfin,
+complétement étranger aux hardiesses du génie drama­
+tique, Durante portait dans la musique la dévotion de ses
+sentiments religieux, la lucidité de conception, le goût pur et
+le respect des traditions d’école qui caractérisent son talent.
+S’il n’alla pas à Rome, il fit évidemment une étude sérieuse
+des maîtres de l’école romaine, et ses travaux eurent pour
+objet d’introduire dans l’école napolitaine des formes plus
+sévères. C’est là son rôle dans la direction que l’art prit à
+Naples au dix-huitième siècle. On voit donc qu’il n’avait pas
+tout appris de Gaetano Greco et de Scarlatti: la lecture de
+ses partitions démontre qu’il s’était modifié sous l’influence
+du génie de Rome.
+”
+
+150
+
+J ournal o f M usi c T heory
+
+Under this regime, Durante appears to have had, more than any other teacher,
+the talent for communicating this tradition, and the most sophisticated feeling
+for the tonality. An irrefutable proof is the great number of excellent students
+that he trained. One distinguishes two different epochs during his professorship. The first produced Traetta, Vinci, Terradellas, and Jommelli. The second,
+which begins with the death of Leo and ends with his own passing, gave rise to
+talents of the first order, such as those of Piccinni, Sacchini, Guglielmi, and
+Paisiello.32
+
+Compared to this august tradition, Fétis levies very severe judgments on
+Fenaroli’s Rules. For Fétis they are no more than anachronistic, simple, and
+empirical (Fétis 1840, 131–32; Jenni 1992, 456), whose only aim seems to be a
+synthetic, pedagogical reformulation of Durante’s theories (Fétis 1840, 143):
+“We cannot consider the [Regole musicali per i principianti di cembalo, nel sonar coi
+numeri e per i principianti di contrappunto (Naples: Mazzola, 1775)] of Fenaroli
+as the exposé of a harmonic theory. It is only a practical outline of the tradition, pure but outmoded, of Durante’s school; it did not represent the current
+state of the art.”33 In his Traité complet de la théorie et de la pratique de l’harmonie
+(Fétis 1875, 136–44, esp. 140–43), Fétis describes the figured-bass shorthand
+employed by Neapolitan masters like Scarlatti, Nicola Porpora, Durante, and
+eventually Fenaroli. Fétis constantly reminds the reader of Neapolitan “simplicity” (Fétis 1875, 139–40; see also Daw 1985–86, 51–60; Cafiero 1993a; Borgir 1987, 154):
+§ 230 At the end of the seventeenth and the beginning of the eighteenth century, the system of signs for chords was extremely simple in the Neapolitan
+school. The triad gets no sign: one assumes it for all the notes where there is no
+other sign indicated, unless it becomes major or minor by signs not present in
+the key signature. In this case, one indicates its nature by either a sharp, a flat,
+or a natural sign, with or without a figure.
+One signifies the chord of sixth with a 6, along with the sign that indicates its quality. The six-four chord is indicated by 6; and that of the six-five
+4
+chord by 6.
+5
+In the scores of the Neapolitan masters one sometimes finds the figure
+≥6
+≥ 4. It indicates a tritone chord [a six-four-two chord with a tritone between the
+raised 4 and the bass].
+32  “Ce maître est considéré comme le plus habile profes­
+seur qu’ait eu l’école Napolitaine; toutefois, on serait dans
+l’erreur si l’on croyait que son habileté consistait dans une
+doctrine lumineuse, où tous les faits auraient été ramenés
+à des principes généraux tirés de la nature des choses. Il
+n’y a jamais eu rien de pareil dans les écoles d’Italie. La
+méthode d’enseignement n’y avait d’autre base qu’une
+tradition d’école émanée d’un sentiment bien plus que
+du raisonnement. Sous ce rapport, Durante paraît avoir eu
+plus qu’aucun autre le talent de communiquer cette tradi­
+tion, et le sentiment le plus perfectionné de la tonalité. Le
+grand nombre d’élèves excellents qu’il a formés en est une
+
+preuve irrécusable. On distingue deux époques dans son
+professorat. La première a produit Traetta, Vinci, Terrade­
+glias et Jom[m]elli; la seconde, qui commence à la mort
+de Leo et qui finit à la sienne, a fait éclore des talents de
+premier ordre, tels que ceux de Piccinni, Sacchini, Guglielmi
+et Paisiello.
+”
+33  “On ne peut considérer les règles d’accompagnement
+pratique de Fenaroli (Naples, 1795) comme l’exposé d’une
+théorie d’harmonie; ce n’est qu’un aperçu pratique de la tra­
+dition de l’école de Durante; tradition pure, mais arriérée, et
+qui ne représentait pas l’état actuel de l’art.
+”
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+151
+
+The chord of the dominant seventh is figured by 7 or 7, the chord of a
+Ω
+≥
+plain seventh acting as a suspension to the sixth, by 7, and finally, that of a
+diminished seventh, by 7, or ≤7.
+5
+5
+It is worth noting that Scarlatti and his pupils often scored their works in
+three parts, and that the Neapolitan school fashioned accompaniments at the
+organ or the harpsichord in the same manner until the end of the eighteenth
+century. Thus the harmonist-accompanist who wants to reflect the thought of
+these authors must not only know the meaning of their figures but also choose
+from among the best chordal intervals to make a three-part accompaniment.
+The result of this system is a singing form which one does not find in an accompaniment sounded out in four parts.34
+
+A quotation from Imbimbo’s Seguito de’ Partimenti sheds further light on the
+latter description, concerning the three-voice “singing form” (Fenaroli and
+Imbimbo 1814b, 18): “As Durante would say, great art does not consist in using
+all the notes that a certain chord might allow, but in suppressing some of them
+which might have produced a coarse or confused effect.”35
+Fétis (1875, 140) focuses on Durante’s and Leonardo Leo’s role in the
+tradition and describes the “Neapolitan” prescriptions for figured bass as summarized from Fenaroli’s Regole: “Durante and Leo, great composers of the
+Neapolitan school who succeeded Scarlatti and became masters of the city’s
+conservatories, perfected this school’s system of figured bass, a system which
+is unchanged since then, and which is still a force in teaching, even though it
+is no longer in step with the current situation of harmony.”36 The rules have
+gained the role of an antiquarian codification and no longer correspond to
+
+34  “Le système des signes des accords fut fort simple dans
+l’école de Naples, à la fin du XVIIe siècle et au commence­
+ment du XVIIIe. L
+’accord parfait ne s’y chiffre pas; on le sup­
+pose sur toutes les notes où il n’y a point d’autre accord
+indiqué, à moins qu’il ne devienne ou majeur ou mineur, par
+des signes qui ne sont pas auprès de la clef; dans ce cas,
+on indique sa nature ou par le dièse, ou par le bémol, ou par
+le bécarre, sans chiffre, ou avec le chiffre.
+“L
+’accord de sixte se chiffre par 6, avec le signe qui
+indique sa nature. L
+’accord de quarte et sixte et désigné par
+6
+6
+4 ; et celui de quinte et sixte par 5.
+“Quelquefois on trouve dans les partitions des maîtres
+napolitains le chiffre double ≥6: il indique l’accord de triton.
+≥4
+“L
+’accord de septième dominante est chiffré par 7 ou 7 ;
+Ω
+≥
+l’accord de septième simple retardant la sixte, par 7; enfin,
+celui de septième diminuée, par 7, ou par ≤7.
+5
+5
+“Il est à remarquer que Scarlatti et ses élèves écri­
+virent souvent leur instrumentation à trois parties, et que
+l’accompagnement de l’orgue ou du clavecin s’est fait de
+la même manière dans l’école napolitaine jusque vers la
+fin du XVIIIe siècle. L
+’harmoniste accompagnateur, qui veut
+rendre la pensée de ces auteurs, doit non-seulement con­
+naître la signification de leurs chiffres, mai faire un choix
+
+des meilleurs intevalles des accords pour accompagner à
+trois parties. Le résultat de ce système est une forme chan­
+tante qu’on ne trouve pas dans l’accompagnement plaqué
+à quatre parties.
+”
+On Scarlatti’s approach to voicing and texture in a cantata
+accompaniment, see Daw 1985–86, 51–60. On Scar­atti’s
+l
+Regole per principianti (included among Selvaggi’s manu­
+scripts, now in London, British Library Additional 14244),
+see Cafiero 1993a. See also Borgir 1987 154.
+,
+35  “Le grand art, disoit Durante, ne consiste pas à faire
+usage de toutes les notes, dont un accord est susceptible,
+mais d’en supprimer quelques-unes qui pourroient produirre
+de la rudesse, ou de la confusion.
+”
+36  Fétis (1875, 140) refers to Fenaroli (1795): “Durante et
+Leo, grands compositeurs de l’école de Naples, qui suc­
+cédèrent à Scarlatti et devinrent les maîtres des Conserva­
+toires de cette ville, complétèrent le système de la basse
+chiffrée de cette école; système qui n’a plus varié, et qui est
+encore en vigueur dans l’enseignement, bien qu’il ne soit
+plus en rapport avec la situation actuelle de l’harmonie.
+”
+
+152
+
+J ournal o f M usi c T heory
+
+contemporary harmony. Fétis severely deprecates the anachronistic teaching
+methods which continue to be used in Naples (as reflected in many biographies from his Biographie universelle, e.g., Zingarelli’s). The only Neapolitan
+harmony textbook he seems to appreciate is Gaspare Selvaggi’s Trattato di
+Armonia37 (1823), which is founded on totally different principles and focuses
+on chord “succession” (Fétis 1865, 8:12). Selvaggi’s way of thinking is definitely
+much more oriented toward rational principles and toward the foundation of
+a grammar than toward empiricism. His wide education and his intellectual
+status put him on a different level from professional—and for Fétis definitely
+too practical—musicians.
+Fétis summarizes the most frequent figures occurring in Neapolitan
+scores. In so doing, he seems to have been inspired by a sense of Linnean
+order and classification rather than by a real need to focus on and understand what we might call the Neapolitan Weltanschauung, founded primarily
+on improvisation, intuition, and nonverbal theory (Fétis 1875, 140–42):
+1. One does not figure a triad made up of notes belonging to the tonality.
+If the triad becomes major in a minor key, one figures it with 3≥ or 3Ω, or simply
+with the ≥, or with a lone Ω when canceling a flat. If the triad becomes minor in
+a major key, one figures it with 3≤ or 3Ω, or simply with a ≤ or Ω.
+2. If the triad follows a retardation of third by the fourth [i.e., a 4–3 suspension], one figures it with 3; if it follows a retardation of octave by the ninth,
+it is indicated by 8. And when it precedes a chord of the sixth on the same [bass]
+note, or when it follows one, it is indicated by 5.
+3. The plain sixth chord, derived from the [root position] triad, is figured with a 6. If it becomes major in a minor key, one figures it with ≥6 or Ω6. If
+it becomes minor in a major key, it is indicated by ≤6 or Ω6. It is also with a ≥6 or
+Ω6 that one designates the augmented sixth chord.
+4. The six-four chord is figured with 6.
+4
+5. All seventh chords, whatever their nature, are simply figured with a 7
+when no circumstance foreign to the key manifests itself in the harmony. In the
+works of Neapolitan composers, this is the figure that indicates the dominant
+seventh chord, the suspension of the sixth by the seventh, the minor seventh
+chord on the second scale degree (produced by the combination of prolongation [= a suspension] with substitution), and even the diminished seventh
+chord. This last is also sometimes figured as 7.
+5
+If there is a change of key, the major third of the dominant seventh chord
+is indicated by a sharp or flat, as in ≥7 or Ω7.
+
+37  “Selvaggi is the first Italian author who brought to this
+science the true method of exposition and analysis. He fore­
+saw the important role of tonality in melody and harmony,
+and understood that a theory of the chords cannot be under­
+stood without a consideration of their order of succession”
+(“Selvaggi est le premier auteur italien qui porta dans cette
+science la véritable méthode d’exposition et d’analyse. Il
+
+a entrevu le rôle important de la tonalité dans la mélodie
+et l’harmonie, et a compris que la théorie des accords ne
+peut être compris que par la considération de leur ordre de
+succession”; Fétis 1865, vol. 8, 12 [entry “Selvaggi”]). For
+a survey of Fétis’s theories—Fétis described himself as the
+first discoverer of harmonic “truths”—in relation to Choron’s
+views, see Simms 1975.
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+153
+
+If the minor third of the seventh chord on the second scale degree is a
+result of a change of key, the sign for that chord is ≤7 or Ω7.
+6. The six-five chord with diminished fifth, first inversion of the dominant seventh chord, is indicated by 6, just like the six-five chord on the fourth
+5
+scale degree. The difference between these two chords is not noticed by the
+accompanist, save that the first one has the leading tone for its bass.
+7. The chord with the sixth as leading tone, second inversion of the dominant seventh chord, is figured with 6≥ or 6Ω. One indicates it, according to the
+≥
+Ω
+context, by 6 or 6. The sharp and the natural sign, placed after the 6 or above it,
+distinguish this chord from that of the plain major sixth, where the accidental
+precedes the figure.
+8. The tritone chord, third inversion of the dominant seventh, is figured
+4
+or 4 in the major mode, where there is no tone foreign to the key; and by 4≥, 4≥,
+2
+2
+≥6
+4Ω
+≥ 4, or 2 when the fourth is made major by an accidental sharp or by the canceling of a flat. In the minor mode, the sharp or natural is always placed beside
+the figure.
+9. In the plain triad, the delay [= suspension] of the third by a fourth is
+simply figured as 4; the same delay as part of a seventh chord is figured 7. This
+4
+last figure is used to indicate the delay of the sixth by a seventh in a six-four
+chord.
+10. The delay of the octave by a ninth is figured by + . The “+” sign, of
+9
+which one hardly understands the purpose, seems intended to show the necessity of a third to accompany the delay; for when the third is minor, one figures
+it with ≤+. [The “+” sign was actually a Roman numeral ten, “X”; see Gjerdingen,
+9
+this issue (93)]
+11. The delay of the third by the bass, in a sixth chord, producing a second and a fifth, is figured by 5. The same delay, with substitution, producing a
+2
+second, fourth, and sixth, is figured by 4.38
+2
+
+38  1.° L
+’accord parfait ne se chiffre pas sur les notes qui lui
+appartiennent dans la tonalité. S’il devient majeur dans un
+ton mineur, on le chiffre par 3≥ ou 3Ω, ou seulement par le
+≥ seul, ou par le Ω seul supprimant un bémol. S’il devient
+mineur dans un ton majeur, on le chiffre ≤3 ou Ω3, ou seule­
+ment par ≤ ou par Ω.
+2.° Si l’accord parfait succède à un retard de tierce par la
+quarte, on le chiffre par 3; s’il succède à un retard d’octave
+par la neuvième, il est désigné par 8. Lorsqu’il précède
+l’accord de sixte sur la même note, ou lorsqu’il le suit, on
+l’indique par 5.
+3.° L
+’accord de sixte simple, dérivé de l’accord parfait,
+est chiffré par 6. S’il devient majeur dans un ton mineur, on
+le chiffre par ≥6 ou par Ω6; s’il devient mineur dans un ton
+majeur, il est indiqué par ≤6, ou par Ω6. C’est aussi par ≥6 ou
+Ω6 qu’on désigne l’accord de sixte augmentée.
+4.° L
+’accord de quarte et sixte est chiffré par 6.
+4
+5.° Tout accord de septième, quelle que soit sa nature,
+est chiffré simplement par 7 quand aucune circonstance
+,
+étrangère au ton ne se manifeste dans l’harmonie. C’est ce
+chiffre qui, dans les ouvrages des compositeurs napolitains,
+
+indique l’accord de septième de la dominante, le retard de
+la sixte par la septième, l’accord de septième mineure du
+second degré, produit par la réunion de la prolongation avec
+la substitution, et même l’accord de septième diminuée.
+Celui-ci est aussi chiffré quelquefois par 7.
+5
+S’il y a un changement de ton, la tierce majeure de la
+septième de dominante est indiquée par un dièse ou par un
+bécarre, de cette manière ≥7 ou Ω7
+,
+.
+Si la tierce mineure de l’accord de septième du ­ econd
+s
+degré est le résultat d’un changement de ton, le signe de
+cet accord est ≤7 ou Ω7
+.
+6.° L
+’accord de quinte mineure et sixte, premier dérivé
+de l’accord de septième de dominante, est indiqué par 6,
+5
+comme l’accord de quinte et sixte du quatrième degré.
+La différence de ces deux accords n’est connue de
+l’accompagnateur, que parce que le premier a pour basse
+une note sensible.
+7 L
+.° ’accord de sixte sensible, deuxième derivé de
+l’accord de septième de dominante, est chiffré par 6≥ ou
+≥
+6Ω. On l’indique aussi, suivant les circonstances, par 6 ou
+Ω
+6. Le dièse et le bécarre, placés après le 6, ou au-dessus,
+
+154
+
+J ournal o f M usi c T heory
+
+Eventually Fétis chooses a partimento in B minor (Fenaroli and Imbimbo
+1814a, 75, no. 22; Choron 1808, no. 50; Fenaroli and Girard n.d., 14, bk. 2, no.
+6; Fétis 1875, 142; Cafiero 2001b, 213) from among those invented by Fenaroli
+and realizes it according to his version of the Neapolitan rules, an aperçu pratique antithetical to every sort of principle of a théorie d’harmonie (Groth 1978).
+The realization is severe in style and gives no opportunities for the “improvising” instrumental voices that were supposed to be still in use in Naples, at least
+among the epigones of the Durantist tradition in the first three decades of the
+nineteenth century. As one can see in Example 4, Fétis has cast a stereotyped
+model upon a living and continuously evolving tradition.
+When correcting partimenti and exercises in counterpoint, Durante
+used to answer his pupils’ questions with the following words (Florimo 1882,
+180–81): “My dear pupils, do it this way, because this is the way you have to
+do it. It must be like this, because truth and beauty are unique, and I can feel
+that I am not wrong. I can give you no reasons for what you ask me; teachers
+who will step into my shoes will find them, and starting from my easy rules will
+build up many axioms and infallible rules.”
+A dearth of systematic theory or “infallible rules” in favor of subjective
+génie and intuition survives in the Neapolitan historiographical tradition.
+This “tale” about Durante’s teaching methods reported by Francesco Florimo
+(who had heard it from Giovanni Furno, his partimento teacher at the Collegio di Musica, who had in turn heard it from his teacher Carlo Cotumacci)
+has helped to strengthen and spread a long-surviving myth. Today, we can see
+that the Neapolitan tradition, when fully functioning in its world of close-knit
+teachers and students, was indeed a highly systematized process for developing skills in improvisation and composition. But when taken out of its native
+context and reduced to “treatises” read by students unaware of the tradition,
+it began to transform into part of the nineteenth-century study of harmony. It
+
+font connaître la différence de cet accord avec celui de sixte
+simple majeur, où le signe précède le chiffre.
+8.° L
+’accord de triton, troisième dérivé de l’accord de
+septième de dominante, est chiffré par 4 ou par 4, dans le
+2
+mode majeur, lorsqu’il n’y a aucune circonstance étrangère
+au ton; et par 4≥, 4≥, ≥6, ou 4Ω, lorsque la quarte est rendue
+2
+≥4
+2
+majeure par un dièse nouveau, ou par la suppression d’un
+bémol. Dans le mode mineur, le dièse ou le bécarre sont
+toujours placés à côté du chiffre.
+9.° Le retard de la tierce par la quarte, dans l’accord
+parfait, est chiffré simplement par 4; le même retard, dans
+l’accord de septième, è chiffré par 7. Ce dernier chiffre est
+4
+employé pour indiquer le retard de la sixte par la septième
+dans l’accord de quarte et sixte.
+10.° Le retard de l’octave par la neuvième est chiffré par
++
+9. Le signe +, dont on ne comprend guère l’utilité, paraît des­
+
+tiné à indiquer la nécessité de la tierce pour accom­ agner le
+p
+retard; car lorsque la tierce est mineure, on chiffre par ≤+.
+9
+11.° Le retard de la tierce par la basse, dans l’accord
+de sixte, produisant seconde et quinte, est chiffré par 5.
+2
+Le même retard, avec la substitution, produisant ­ econde,
+s
+quarte et sixte, est chiffré par 4.
+2”
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+Example 4.  A realization by Fétis of a partimento by Fenaroli (Fétis 1875, 142)
+
+is in Paris, at the end of the eighteenth and the beginning of the nineteenth
+centuries, that this transformation takes place. And it is in the documents
+described above that we can detect subtle shifts of concepts as partimenti leave
+their homeland of an essentially oral tradition and are subsumed into a foreign, more literary tradition of printed harmony books.
+
+155
+
+156
+
+J ournal o f M usi c T heory
+
+Works Cited
+
+Abbate, Alessandro. 2007. “Due autori per un testo di contrappunto di scuola napoletana:
+Leonardo Leo e Michele Gabellone.” Studi musicali 36: 123–59.
+Arlin, Mary I. 1994. Esquisse de l’histoire de l’harmonie. An English-Language Translation of the
+F
+­ rançois-Joseph Fétis History of Harmony. Trans. and ed. Mary I. Arlin. Harmonologia Series
+7. Stuyvesant, NY: Pendragon.
+Avellino, Francesco Maria. 1818. Elogio di Fedele Fenaroli letto nell’Accademia delle Belle Arti della
+Società Reale Borbonica. Naples: Trani.
+Azzopardi, Francesco. 1786. Le musicien pratique ou Leçons qui conduisent les élèves dans l’art du contrepoint en leur enseignant la manière de composer correctement tout espece de musique. . . . Ouvrage
+composé dans les principes des conservatoires d’Italie, mis dans l’ordre le plus simple et le pous
+clair . . . ; traduit de l’italien par M. Framery. Paris: Le Duc.
+Bertini, Giuseppe. 1814–15. Dizionario storico-critico degli scrittori di musica e de’ più celebri artisti
+di tutte le nazioni sì antiche che moderne. . . . 4 vols. Palermo: Dalla Tipografia reale di
+guerra.
+Biferi. 1770. Traité de musique abrégé, divisé en trois parties. La première traite du Chant, la seconde
+de l’accompagnement du clavecin, et la troisième de la composition. Avec un traité de fugues. Par
+M. Biferi fils, maître de chapelle napolitain. Paris: Biferi.
+Borgir, Tharald. 1987. The Performance of the Basso Continuo in Italian Baroque Music. Ann Arbor:
+UMI Research Press.
+Burney, Charles. 1771. The Present State of Music in France and Italy. London: Becket.
+Cafiero, Rosa. 1993a. “La didattica del partimento a Napoli fra Settecento e Ottocento: Note
+sulla fortuna delle Regole di Carlo Cotumacci.” In Gli affetti convenienti all’idee: Studi sulla
+musica vocale italiana, ed. Maria Caraci, Rosa Cafiero, and Angela Romagnoli, 549–80.
+Naples: Edizioni Scientifiche Italiane.
+———. 1993b. “Una biblioteca per la biblioteca: la collezione musicale di Giuseppe Sigismondo.” In Napoli e il teatro musicale in Europa fra Sette e Ottocento. Studi in onore di Friedrich
+Lippmann, ed. Bianca Maria Antolini and Wolfgang Witzenmann, 299–367. Florence:
+Olschki.
+———. 1999. “Metodi, progetti e riforme dell’insegnamento della ‘scienza armonica’ nel
+Real Collegio di musica di Napoli nei primi decenni dell’Ottocento.” Studi musicali 28:
+425–81.
+———. 2001a. “Teorie armoniche di scuola napoletana ai primi dell’Ottocento: cenni sulla
+fortuna di Francesco Durante fra Napoli e Parigi.” In Giacomo Francesco Milano e il ruolo
+dell’aristocrazia nel patrocinio delle attività musicali nel secolo XVIII, ed. Gaetano Pitarresi,
+171–98. Reggio Calabria: Laruffa.
+———. 2001b. “Un divulgatore di teorie armoniche della scuola napoletana a Parigi: Emanuele Imbimbo (1756–1839).” In Francesco Salfi librettista, Studi e testi, ed. Francesco Paolo
+Russo, 191–225. Vibo Valentia: Monteleone.
+———. 2005a. “Conservatories and the Neapolitan School: A European Model at the End of
+the 18th Century?” In Music Education in Europe (1770–1914): Compositional, Institutional
+and Political Challenges, ed. Michael Fend and Michel Noiray, 1: 15–29. Berlin: Berlin
+Wissenschafts-Verlag.
+———. 2005b. “Carlo Cotumacci nella tradizione didattica della ‘scuola napoletana.’” In Affetti
+musicali. Studi in onore di Sergio Martinotti, ed. Maurizio Padoan, 105–20. Milan: Vita e
+Pensiero.
+Cafiero, Rosa and Francesca Seller. 1989. “Editoria musicale a Napoli attraverso la stampa periodica: il ‘Giornale del Regno delle Due Sicilie’ 1817–1860.” Le Fonti Musicali in Italia.
+Studi e Ricerche 3: 57–90.
+Catalogo della collezione d’autografi lasciata alla R. Accademia Filarmonica di Bologna dall’accademico
+Ab. Dott. Masseangelo Masseangeli. . . . 1896. Bologna: Regia Tipografia. Reprint. ­ ologna:
+B
+Forni, 1969.
+
+Rosa Cafiero 
+
+  Partimento Theory in France
+
+Choron, Alexandre-Étienne. 1808. Principes de Composition des écoles d’Italie. . . . 3 vols. Paris:
+Le Duc.
+Choron, Alexandre-Étienne and François Fayolle. 1810. Dictionnaire historique des musiciens. Vol.
+1. Paris: Valade.
+Choron, Alexandre-Étienne and Vincenzo Fiocchi. 1804. Principes d’accompagnement des Ecoles
+d’Italie Extraits des meilleur Auteurs: Leo, Durante, Fenaroli, Sala, Azopardi, Sabbatini, le père
+Martini, et autres. Ouvrage classique Servant d’Introduction à l’étude de la Composition Traduit
+de l’italien, disposé dans l’ordre le plus propre à en faciliter l’intelligence et la pratique. Et dedié à
+Monsieur Tarchi par Alexandre Choron et Vincenzo Fiocchi Ci-devant Organiste de S.t Pierre du
+Vatican à Rome et Maitre de Musique de S. A. R. Ferdinand II. Grand Duc de Florence. Publ.
+No. 312. Paris: Imbault.
+Christensen, Thomas. 1992. “The Règle de l’Octave in Thorough-Bass Theory and Practice.” Acta
+Musicologica 64: 91–117.
+Daw, Brian A. 1985–86. “Alessandro Scarlatti’s Continuo Realization of Da sventura a sventura
+(1690): An Analysis and Observations Relating to Late Seventeenth-Century Keyboard
+Practices.” Early Keyboard Journal 4: 51–60.
+Dellaborra, Mariateresa. 2007. “‘Musico pratico al cimbalo’: Paisiello e le Regole per bene
+accompagnare il partimento (1782).” Studi musicali 36: 443–67.
+De Rosa, Carlo Antonio (marchese di Villarosa). 1840. Memorie dei compositori di musica del Regno
+di Napoli. Naples: Stamperia Reale.
+Di Giacomo, Salvatore. 1924. I quattro antichi Conservatorii di musica di Napoli. Il conservatorio di
+Sant’Onofrio a Capuana e quello di S. Maria della Pietà dei Turchini. [Palermo]: Sandron.
+———. 1928. I quattro antichi Conservatorii di musica di Napoli. Il conservatorio dei Poveri di Gesù
+Cristo e quello di S. Maria di Loreto. [Palermo]: Sandron.
+Fellerer, Carl Gustav. 1939. Der Partimentospieler, Übungen in Generalbass-Spiel und in gebundener
+Improvisation. Leipzig: Breitkopf & Härtel.
+Fenaroli, Fedele. 1775. Regole musicali per i principianti di cembalo. Naples: Mazzola-Vocola.
+———. 1795. Regole musicali per i principianti di cembalo. Naples: Mazzola-Vocola.
+———. 1814. Regole musicali per i principianti di cembalo nel sonar co i numeri, e per i principianti di contropunto del signor Maestro Fenaroli. Quinta edizione con nuova aggiunta. Naples:
+S
+­ angiacomo.
+Fenaroli, Fedele and Giuseppe Girard. N.d. Partimenti o sia Basso numerato di Fedele Fenaroli Per
+uso degli Alunni del R. Collegio di Musica di Napoli. . . . Publ. No. 959. Naples: Stabilimento
+Musicale Partenopeo Antica Casa Girard Strada S. Pietro a Majella 30, 31, 32.
+Fenaroli, Fedele and Emanuele Imbimbo. 1814a. Partimenti ossia Basso numerato di Fedele Fenaroli
+Per uso degli alunni del Regal Conservatorio di Napoli a Niccola Zingarelli Maestro di S. Pietro
+in Roma Direttore del medesimo Conservatorio Dall’Editore Dedicata. . . . Publ. No. 500. Paris:
+À la Typographie de la Sirène, Chez Carli, Editeur, M.d de Musique, Livres Italiens et
+Cordes de Naples, Péristyle du Théâtre Favart, côté de la Rue Mariveaux.
+———. 1814b. Seguito de’ Partimenti ossia Esercizio d’Armonia Vocale e Instrumentale Sopra i Bassi
+Fugati composto da E. Imbimbo ed al Sig.r Fedele Fenaroli Rispettosamente Dedicato | Suite des
+Partimenti ou Exercise d’Harmonie Vocale et Instrumentale Sur les Basses Fugati Composé par
+E. Imbimbo et Dedié avec Respect A Monsieur Fedele Fenaroli. Publ. No. 536. Paris: Chez Carli,
+Editeur et M.d de Musique, Place et Péristyle des Italiens.
+Fétis, François-Joseph. 1840. Esquisse de l’histoire de l’harmonie, considérée comme art et comme science
+systématique. Paris: Bourgogne and Martinet.
+———. 1844. Traité complet de la théorie et de la pratique de l’harmonie contenant la doctrine de la science et de l’art. Paris: Schlesinger.
+———. 1865. Biographie universelle des musiciens et bibliographie générale de la musique. 2nd ed. 8
+vols. Paris: Firmin Didot Frère, Fils et Cie.
+———. 1875. Traité complet de la théorie et de la pratique de l’harmonie contenant la doctrine de la science et de l’art. 11th ed. Paris: Brandus et Cie.
+
+157
+
+158
+
+J ournal o f M usi c T heory
+
+Florimo, Francesco. 1882. La scuola musicale di Napoli e i suoi Conservatorii. Vol. 2. Naples:
+Morano.
+Gingras, Bruno. 2008. “Partimento Fugue in Eighteenth-Century Germany: A Bridge between
+Thoroughbass Lessons and Fugal Composition.” Eighteenth Century Music 5: 51–74.
+Gjerdingen, Robert O. 2005. Monuments of Partimenti. http://facultyweb.at.northwestern.edu/
+music/gjerdingen/partimenti/index.htm.
+———. 2007. Music in the Galant Style: Being a Treatise on Various Schemata Characteristic of
+E
+­ ighteenth-Century Music for Courtly Chambers, Chapels, and Theaters, Including Tasteful Passages of Music Drawn from Most Excellent Chapel Masters in the Employ of Noble and Noteworthy
+Personages, Said Music All Collected for the Reader’s Delectation on the World Wide Web. New
+York: Oxford University Press.
+Grétry, André-Modest. 1789. Mémoires ou essais sur la musique. Reprint. Paris: De l’imprimerie
+de la République Pluviôse, an V, 1798.
+Grossi, Giovanni Battista Gennaro. 1819. I corifei della scuola di Napoli. Probole. In Biografia degli
+uomini illustri del Regno di Napoli ornata dei loro rispettivi ritratti Volume che contiene gli elogj
+dei maestri di cappella, cantori, e cantanti più celebri Compilato da diversi letterati nazionali
+dedicato al Real Collegio di Musica di Napoli. Naples: Gervasi.
+Groth, Renate. 1978. “Zur Theorie der Musik bei François-Joseph Fétis.” In Heinrich Sievers zum
+70. Geburtstag, ed. Günter Katzenberger, 47–57. Tutzing: Schneider.
+Hansell, Sven Hostrup. 1968. “The Cadence in 18th-Century Recitative.” Musical Quarterly 54:
+228–48.
+Hughes-Hughes, Augustus. 1906–9. Catalogue of Manuscript Music in the British Museum. London: British Museum. Reprint. I: Sacred vocal music, II: Secular vocal music, III: Instrumental
+music, treatises etc. London: British Museum, 1964–65.
+Imbimbo, Emanuele. 1821. Observations sur l’enseignement mutuel appliqué à la musique, et sur
+quelques abus introduites dans cet art: précédées d’une notice sur les Conservatoires di Naples.
+Paris: Didot.
+Indice di tutti i libri e spartiti di musica che conservansi nell’archivio del Real Conservatorio della Pietà
+de’ Torchini. Naples, 1801.
+Jenni, Donald Martin. 1992. “Fétis and Le sens musical.” In Convention in Eighteenth- and Nineteenth-Century Music, Essays in Honor of Leonard G. Ratner, ed. Wye Jamison Allanbrook,
+Janet M. Levy, and William P. Mahrt, 447–72. New York: Pendragon.
+Kandler, Franz Sales. 1821. “Ueber den gegenwärtingen Kulturstand des königlichen Musikcollegiums in Neapel mit einem vorangehenden Rückblicke auf die verblichenen Conservatorien dieser Hauptstadt.” Allgemeine musikalische Zeitung 24 (Dec. 1821), no. 50
+(cols. 833–42), no. 51 (cols. 856–63), no. 52 (cols. 869–78).
+Langlé, Honoré-François-Marie. 1797. Traité d’harmonie et de modulation par H. F. M. Langlé
+ancien premier maître du Conservatoire de la Pietà à Naples professeur du Conservatoire de
+Paris. . . . Paris: Boyer; reprint Nadermann, Rue de la Loi, à la Clef d’Or, Passage de
+l’ancien Café de Foy.
+———. 1798. Traité de la basse sous le chant, précédé de toutes les règles de la composition. . . . Paris:
+Nadermann.
+———. 1801. Nouvelle méthode pour chiffer [sic] les accords. . . . Paris.
+Libby, Dennis. 1988. “Giuseppe Sigismondo, an Eighteenth-Century Amateur, Musician, and
+Historian.” Studi Pergolesiani/Pergolesi Studies 2: 222–38.
+Napoli-Signorelli, Pietro. 1847. “Ricerche sul sistema melodrammatico lette a’ soci pontaniani. ​
+. . . Nelle Adunanze de’ mesi di Novembre, e Dicembre 1812.” Atti della Società Pontaniana di Napoli 4: 1–125.
+Penna, Lorenzo. 1672. Li primi albori musicali. Bologna: Monti.
+Pierre, Constant. 1900. Le Conservatoire national de musique et de déclamation. Documents historiques
+et administratifs. Paris: Imprimerie Nationale.
+Rousseau, Jean-Jacques. 1768. Dictionnaire de musique. Paris: Veuve Duchesne.
+
+Rosa Cafiero 
+
+  The Early Reception of Neapolitan Partimento Theory in France
+
+Sala, Nicola. 1794. Regole del contrappunto pratico di Nicola Sala napoletano, primo maestro del Reale
+Conservatorio della Pietà de’ Torchini dedicate alla maestà di Ferdinando IV re delle due Sicilie. 3
+vols. Naples: Stamperia Reale.
+Sanguinetti, Giorgio. 1999. “I travagli del ‘celeste impero’: La teoria della composizione a
+Napoli nell’Ottocento fra tradizione e innovazione.” In Giorgio Sanguinetti, Intersezioni.
+Quattro studi di teoria e analisi musicale, 137–83. Cosenza: Università della Calabria.
+———. 2005. “Decline and Fall of the ‘Celeste Impero’: The Theory of Composition in Naples
+During the Ottocento.” Studi musicali 34: 451–502.
+Schellhous, Rosalie. 1991. “Fetis’s Tonality as a Metaphysical Principle: Hypothesis for a New
+Science.” Music Theory Spectrum 13: 219–40.
+Selvaggi, Gaspare. 1823. Trattato di Armonia ordinato con nuovo metodo e corredato di tavole a dichiarazione delle cose in esso esposte. Naples: Miranda.
+Shearon, Stephen. 2000. “Watermarks and Rastra in Neapolitan Music Manuscripts, 1700–
+1815.” In Puzzles in Paper: Concepts in Historical Watermarks. Essays from the International
+Conference on the History, Function and Study of Watermarks, Roanoke: Virginia, 1996, ed.
+Daniel Wayne Mosser, Michael Saffle, and Ernest W. Sullivan, 107–24. New Castle, DE:
+Oak Knoll Press/British Library.
+Sigismondo, Giuseppe. 1820. Apoteosi della musica del Regno di Napoli in tre ultimi transundati
+Secoli. MS, 4 vols. Berlin: Staatsbibliothek.
+Simms, Brian Randolph. 1975. “Choron, Fétis and the Theory of Tonality.” Journal of Music
+Theory 19: 112–38.
+Tomeoni, Florido. 1798. Méthode qui apprend la connoissance de l’harmonie et la pratique de
+l’accompagnement selon les principes de l’école de Naples. . . . Paris: Chez l’auteur.
+———. 1800. Traité d’harmonie et d’accompagnement selon les principes de Durante et Leo, fondateurs
+de l’harmonie dans les conservatoires de Naples par Florido Tomeoni, Elève de l’Ecole de Durante.
+Paris: Chez l’auteur, Faubourg St. Denis, N. 12 et chez les M.ds de Musique.
+
+Rosa Cafiero is researcher in history of music and musicology at the Università Cattolica del Sacro
+Cuore in Milan. She is the author of numerous essays on the history of Italian music theory in the
+eighteenth and nineteenth centuries. 
+
+159
+
+
