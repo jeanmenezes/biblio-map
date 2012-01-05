@@ -39,7 +39,7 @@ com seu respectivo mapa de associações.
 
 O _biblio-map_ pode gerar desde mapas simples:
 
-!http://dl.dropbox.com/u/25059631/Frieler.gif!(mapa para o autor de sobrenome Frieler)
+!http://dl.dropbox.com/u/25059631/Frieler.gif(mapa para o autor de sobrenome Frieler)!
 
 passando por gráficos de razoável complexidade:
 
@@ -56,7 +56,7 @@ encontrar um meio de evitar tantos _for loops_ aninhados.
 * Futuramente, será conveniente formular um mecanismo automático para obtenção
 de palavras-chave.
 * O programa deverá, em breve, oferecer a opção de gerar gráficos classificados
-também por autor ou palavra-chave, além da atual opção padrão de classificar por
+também por texto ou palavra-chave, além da atual opção padrão de classificar por
 autor.
 * Um sistema de navegação/busca nas imagens geradas é um plano para médio-longo
 prazo.
