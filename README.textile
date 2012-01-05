@@ -1,0 +1,62 @@
+h1. biblio-map
+
+O _biblio-map_ é uma ferramenta programada para gerar mapeamentos visuais
+de _corpi_ bibliográficos, baseada em associações entre os nomes dos autores e
+suas respectivas ocorrências dentro de cada texto, bem como as palavras-chave
+que aparecem em torno de cada uma dessas associações. Os gráficos são gerados
+utilizando a biblioteca "pygraphviz.":http://networkx.lanl.gov/pygraphviz/
+
+h2. Sumário das funções
+
+h3. @conta_e_associa()@
+
+É a função que faz as buscas das associações autor/texto/palavra-chave (em todas as
+ordens possíveis de combinação), e guarda as referências em dicionários que serão
+posteriormente usados para a obtenção e desenho dos dados nos gráficos.
+
+h3. @cria_assocs()@
+
+Esta função formata as listas que servem de parâmetro para @conta_e_associa()@
+(por meio de @le_textos()@ e @palavras_chave@), e logo depois invoca esta última
+função apropriadamente.
+
+h3. @gera_graficos()@
+
+É a função mais prolixa, que obtém os dados retornados por @cria_assocs()@ e os
+transforma em elementos para a geração dos gráficos (um por autor, até o momento).
+Engloba tanto procedimentos de formatação dos dados quanto de formatação dos
+elementos puramente gráficos. Esta função escreve uma imagem para cada nome de
+autor, na mesma pasta onde se localiza o @biblio-map.py@.
+
+h2. Uso do programa
+
+Basta rodar o comando @python biblio-map.py@ no diretório onde esteja o repositório
+com a respectiva pasta @corpus@. O programa obtém os nomes dos autores diretamente
+de @corpus@ (os nomes estão em @authors.txt@) e as palavras-chave de @keywords.txt@,
+arquivo este que, por enquanto, é digitado manualmente e pode ser extendido com novas
+palavras conforme desejado. Uma imagem @.gif@ com o nome de cada autor será gerada,
+com seu respectivo mapa de associações.
+
+O _biblio-map_ pode gerar desde mapas simples:
+
+!http://dl.dropbox.com/u/25059631/Frieler.gif!(mapa para o autor de sobrenome Frieler)
+
+passando por gráficos de razoável complexidade:
+
+!http://dl.dropbox.com/u/25059631/Coover.gif(mapa para o autor de sobrenome Coover)!
+
+até mapas com diversos nós e ligações:
+
+!http://dl.dropbox.com/u/25059631/Forte.gif(mapa para o autor de sobrenome Forte)!
+
+h2. Planos de melhoria
+
+* Ainda é necessário acelerar a execução do programa. Uma alternativa pode ser
+encontrar um meio de evitar tantos _for loops_ aninhados.
+* Futuramente, será conveniente formular um mecanismo automático para obtenção
+de palavras-chave.
+* O programa deverá, em breve, oferecer a opção de gerar gráficos classificados
+também por autor ou palavra-chave, além da atual opção padrão de classificar por
+autor.
+* Um sistema de navegação/busca nas imagens geradas é um plano para médio-longo
+prazo.
